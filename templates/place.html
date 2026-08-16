@@ -42,10 +42,25 @@
       <tr id="sector-{{ s.code }}"><td><span class="chip">{{ s.code }}</span></td>
           <td><em>{{ s.name_fr|esc }}</em></td>
           <td>{{ s.value }}</td>
-          <td>{% if s.summary_en %}{{ s.summary_en|esc }}{% else %}<span class="null">– fiche text not yet transcribed</span>{% endif %}</td>
+          <td>{% if s.summary_en %}{{ s.summary_en|esc }}{% endif %}{% if s.summary_fr %}<div class="frv" lang="fr">{{ s.summary_fr|esc }}</div>{% endif %}{% if s.characteristics_fr %}<ul class="tv" lang="fr">{% for c in s.characteristics_fr %}<li class="frv">{{ c|esc }}</li>{% endfor %}</ul>{% endif %}{% if s.note %}<div class="pnote">{{ s.note|esc }}</div>{% endif %}{% if not s.summary_en and not s.summary_fr %}<span class="null">– fiche text not yet transcribed</span>{% endif %}</td>
           <td>{{ s.streets|join(", ")|esc if s.streets else "–" }}</td></tr>
     {% endfor %}</tbody>
   </table></div>
+</div></section>
+{% endif %}
+{% if pl.inventory %}
+<section class="notes" id="inventory"><div class="wrap">
+  <div class="kicker">{{ pl.inventory.title_en|esc }}</div>
+  <p>{{ pl.inventory.rows }} buildings across {{ pl.inventory.streets }} streets, {{ pl.inventory.named_buildings }} of them carrying a building name in the source. Source: {{ pl.inventory.source|esc }} Full list: <a href="{{ R }}{{ pl.inventory_csv }}">bisson_inventory.csv</a>.</p>
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Grade</th><th>Label</th><th>Buildings</th><th>With a fiche</th><th>Retained, pre-1940 inventory (2025)</th></tr></thead>
+    <tbody>{% for c in pl.inventory.categories %}
+      <tr><td><strong>{{ c.code|esc }}</strong></td><td><em>{{ c.label_fr|esc }}</em></td>
+          <td>{{ c.count }}</td><td>{{ c.with_fiche }}</td><td>{{ c.retained_pre1940 }}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+  <p>Most-represented streets: {% for s in pl.inventory.top_streets %}{{ s.name|esc }} ({{ s.count }}){% if not loop.last %}, {% endif %}{% endfor %}.</p>
+  <p class="pnote">{{ pl.inventory.note_en|esc }}</p>
 </div></section>
 {% endif %}
 {% if pl.model_families %}

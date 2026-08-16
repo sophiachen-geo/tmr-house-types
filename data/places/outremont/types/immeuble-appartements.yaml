@@ -1,0 +1,61 @@
+place: outremont
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement
+  d'Outremont / L'Enclume, Étude typomorphologique (2020)
+source_generation: sector characterisation (2005) + borough dwelling-count × implantation labels
+profile_note: Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale)
+  crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes
+  no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe
+  H) will supersede this — see Part 6b.
+sectors:
+- 16.E.6
+- 16.I.6
+- 16.I.4
+canonical:
+- interwar-walkup-apartment
+styles:
+- art-deco
+- streamline-moderne
+style_label: Art déco and Moderne, on 1920s commercial streets
+tenure_plan: walk-up
+storeys: 3–4
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: 3.0
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Avenue Bernard between rue Hutchison and avenue McEachran, where 75 % of the buildings date from the 1920s.
+  - Front setbacks of about 3 metres; the front grounds are most often paved rather than planted.
+  - Also on the south side of avenue Willowdale, opened in 1911, and along avenue Van Horne, the working quarter's
+    commercial artery.
+  massing:
+  - Three or four storeys, multi-family.
+  articulation:
+  - On avenue Willowdale, some display a strong Art déco influence.
+  openings: []
+  materials:
+  - Half-basements and ground floors generally occupied by shops.
+photos:
+- file: assets/places/outremont/avenue-bernard-commons.jpg
+  credit: Avenue Bernard, Outremont (2016) — © Intermedichbo (Milorad Dimic M.D.), Wikimedia Commons, CC BY-SA
+    4.0
+  kind: single
+id: outremont.immeuble-appartements
+phase: p5
+display_order: 5
+name_en: Apartment building (conciergerie)
+name_fr: Immeuble d'appartements — conciergerie
+blurb_en: Three or four storeys of flats over the shops, and the reason avenue Bernard looks like one thing.
+origin_en: The conciergerie is what avenue Bernard is made of. The 2005 evaluation attributes the street's harmony
+  to a single fact — three-quarters of its buildings went up in the 1920s — and names the multi-family walk-up
+  with commerce in the half-basement and ground floor as the dominant architectural type. The cinéma Outremont,
+  given municipal heritage status in 2000 and since fully restored, stands on the same street.
+phase_confidence: verified

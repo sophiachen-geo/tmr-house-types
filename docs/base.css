@@ -57,6 +57,8 @@ details[open] .chev{transform:rotate(90deg)}
 .tv li{margin:0 0 3px}
 .p1 .tv li::marker{color:var(--p1)}.p2 .tv li::marker{color:var(--p2)}.p3 .tv li::marker{color:var(--p3)}.p4 .tv li::marker{color:var(--p4)}.p5 .tv li::marker{color:var(--p5)}.p6 .tv li::marker{color:var(--p6)}
 .tv li.frv{font-style:italic;color:var(--mute)}
+table.members .frv{font-style:italic;color:var(--mute);margin-top:5px;font-size:13px}
+table.members .pnote{margin-top:5px}
 .pnote{font:400 12px "IBM Plex Mono",monospace;color:var(--mute);margin:10px 0 0;max-width:66ch}
 .phase-divider{grid-column:1/-1;margin:22px 0 -6px;padding:14px 0 0 18px;border-left:4px solid;scroll-margin-top:16px}
 .phase-divider.p1{border-color:var(--p1)}.phase-divider.p2{border-color:var(--p2)}.phase-divider.p3{border-color:var(--p3)}.phase-divider.p4{border-color:var(--p4)}.phase-divider.p5{border-color:var(--p5)}.phase-divider.p6{border-color:var(--p6)}

@@ -1,0 +1,40 @@
+- id: site-patrimonial-aylmer
+  code: SP-AYLMER
+  name_fr: Site patrimonial d'Aylmer
+  value: cited-site
+  summary_en: >-
+    "Le site patrimonial d'Aylmer est un secteur urbain comptant plus de 80 bâtiments. Il se compose
+    de grandes résidences bourgeoises, de demeures plus modestes, de commerces ainsi que d'édifices
+    institutionnels et religieux, construits aux XIXe et XXe siècles." Elongated irregular perimeter
+    on both sides of rue Principale plus sections of cross-streets, between boul. Wilfrid-Lavigne /
+    rue Bordeaux and the rivière des Outaouais; includes an urban park. Contains one classed building
+    (auberge Charles-Symmes) and several cited immovables. A fire destroyed about a hundred buildings
+    in 1921 and the sector rebuilt quickly.
+  characteristics_fr:
+    - "les volumes, dont les plans carrés, rectangulaires, irréguliers, en « L » ou en « T », les élévations de un à quatre étages, les toits de formes variées (à deux versants à larmiers retroussés, à deux versants droits, en pavillon, plats ou mansardés)"
+    - "les matériaux, dont la maçonnerie en pierre ou en brique, les parements traditionnels ou d'origine (notamment la brique et la planche à clin)"
+    - "les ouvertures, dont… les portails rectangulaires, cintrés, à arc surbaissé ou à arc brisé"
+    - "les éléments ornementaux, dont les parapets et les frises décoratives, les bandeaux, les corniches ouvragées, les retours de corniche, les frontons, les consoles, les modillons… les garde-corps en bois ou en fer forgé"
+  streets: ["rue Principale", "boulevard Wilfrid-Lavigne", "rue Bordeaux"]
+  source: RPCQ id 93542
+  note: "The RPCQ description says 'plus de 80 bâtiments' while 101 immovables are listed as associated — associated vs contributing counts. Street list is derived from the boundary description, not from a published street schedule."
+- id: site-patrimonial-quartier-du-moulin
+  code: SP-MOULIN
+  name_fr: Site patrimonial du Quartier-du-Moulin
+  value: cited-site
+  summary_en: >-
+    Company garden-suburb created about 1926 by the Canadian International Paper Company; 55 buildings
+    on three suburban blocks bounded by rues Main, Jean-René-Monette (ex-Maple), de la Canipco and
+    Vianney; probable architect William Lyon Somerville (1886–1965); post office 1940, enlarged 1954;
+    350 mature trees counted in 2000.
+  characteristics_fr:
+    - "le plan asymétrique (en « T » ou en « L ») des résidences"
+    - "le gabarit des résidences variant d'un étage et demi à deux étages et demi"
+    - "la proportion entre la faible élévation des rez-de-chaussée et la hauteur importante des combles et des pignons"
+    - "les fenêtres des maisons, de petites dimensions, avec des petits carreaux et des volets"
+    - "la diversité des matériaux des revêtements extérieurs, dont la brique, le stuc, le bardeau, la planche posée à clins"
+    - "l'implantation des maisons en retrait de la voie publique"
+    - "la double rangée d'arbres bordant le trottoir"
+  streets: ["rue Main", "rue Jean-René-Monette", "rue de la Canipco", "rue Vianney", "rue Poplar"]
+  source: RPCQ id 92813
+  note: "The four streets are the RPCQ's boundary description; rue Poplar runs inside the site."

@@ -1,0 +1,57 @@
+place: outremont
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement
+  d'Outremont / L'Enclume, Étude typomorphologique (2020)
+source_generation: sector characterisation (2005) + borough dwelling-count × implantation labels
+profile_note: Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale)
+  crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes
+  no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe
+  H) will supersede this — see Part 6b.
+sectors:
+- 16.E.4
+- 16.E.7
+- 16.I.3
+canonical:
+- brick-box-flat-or-hipped-2st
+styles:
+- edwardian-classical
+style_label: Edwardian classical
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - A minority form inside the homogeneous sectors — « un certain nombre », particularly around parc Pratt.
+  - Around parc Outremont it forms a very homogeneous residential frontage facing the park.
+  massing:
+  - Detached, two storeys.
+  - Ground floor raised about one metre above ground level.
+  articulation: []
+  openings: []
+  materials:
+  - Generally brick.
+photos:
+- file: null
+  credit: 'pending: no freely-licensed photograph identified for this type'
+  kind: placeholder
+id: outremont.unifamiliale-isolee
+phase: p3
+display_order: 3
+name_en: Detached single-family house
+name_fr: Résidence unifamiliale isolée
+blurb_en: The detached cousin of the paired house — same brick, same flat roof, standing alone.
+origin_en: 'Not a separate tradition but the same house freed from its pair, and the 2005 evaluation treats it
+  that way: a « certain nombre » of them inside sectors otherwise made of semi-detached houses, concentrated around
+  parc Pratt and facing parc Outremont, where the Clercs de Saint-Viateur''s 1896 farm-school for deaf children
+  had opened the block.'
+phase_confidence: verified

@@ -1,0 +1,55 @@
+place: outremont
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement
+  d'Outremont / L'Enclume, Étude typomorphologique (2020)
+source_generation: sector characterisation (2005) + borough dwelling-count × implantation labels
+profile_note: Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale)
+  crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes
+  no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe
+  H) will supersede this — see Part 6b.
+sectors:
+- 16.E.7
+canonical:
+- duplex-flat-roof-brick
+styles:
+- edwardian-classical
+style_label: Edwardian classical
+tenure_plan: duplex
+storeys: '2'
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+- montreal-greystone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - The same 1903–1920 fabric as the semi-detached single-family house, on the same streets.
+  massing:
+  - Two superposed dwellings, paired with a neighbour; « duplex jumelé aux accès indépendants ».
+  articulation: []
+  openings:
+  - Independent entrances at street level, one per dwelling.
+  materials:
+  - Brick, with greystone on the more expensive frontages.
+photos:
+- file: null
+  credit: 'pending: no freely-licensed photograph identified for this type'
+  kind: placeholder
+id: outremont.duplex-jumele
+phase: p3
+display_order: 2
+name_en: Semi-detached duplex
+name_fr: Duplex jumelé
+blurb_en: Two dwellings stacked, paired with the neighbour, both front doors on the ground.
+origin_en: Outremont's version of the Montréal duplex, and the point where it separates from the Plateau's. The
+  2005 text describes « des duplex jumelés aux accès indépendants » — the pairing is with the adjoining house
+  and the second dwelling is reached from inside the front door, so the exterior stair that defines the Plateau
+  plex is absent here. Both sit under the same canonical form; the difference is exactly what that page is for.
+phase_confidence: verified

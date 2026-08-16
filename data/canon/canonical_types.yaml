@@ -168,3 +168,29 @@
   name_en: Executive/managerial company house of the 1925–1950 upper district, English-cottage idiom
   definition_en: Executive or managerial company house of a 1925–1950 upper district, in an English-cottage idiom.
   members: []
+
+# ---- Part 6a additions (Gatineau, Outremont) ----
+- id: allumette-house-gable-front
+  name_en: Gable-front worker's house of the Ottawa valley match-works era ("maison allumette"), 1½ to 2½ storeys, narrow rectangular plan on a Wright-survey lot
+  definition_en: Narrow gable-front worker's house of the Ottawa valley, its ridge perpendicular to the street and gable wall to the front, on the narrow lots of the 1864 Wright-estate survey; covered front gallery, off-centre door.
+  members: []
+- id: mixed-use-flat-roof-block
+  name_en: Mixed commercial-residential block, flat roof, shops below and dwellings above
+  definition_en: Flat-roofed block combining commerce at street level with dwellings above, on a main commercial street.
+  members: []
+- id: central-gable-house
+  name_en: House with a central gable over the façade (pignon central)
+  definition_en: House whose façade is crowned by a single central gable or wall dormer over the entrance bay.
+  members: []
+- id: complex-gable-roof-house
+  name_en: House with a complex gabled roof, picturesque massing
+  definition_en: House whose roof breaks into several intersecting gables, giving a picturesque, irregular silhouette.
+  members: []
+- id: l-plan-gable-house
+  name_en: L-plan house with a two-slope roof, rural-vernacular
+  definition_en: Rural-vernacular house on an L-shaped plan under a straight two-slope roof.
+  members: []
+- id: side-gable-duplex
+  name_en: Duplex with the gable wall to the side, two superposed dwellings
+  definition_en: Two-dwelling house whose ridge runs parallel to the street, presenting the long slope rather than the gable to the front.
+  members: []

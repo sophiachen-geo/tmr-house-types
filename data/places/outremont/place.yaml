@@ -1,0 +1,45 @@
+id: outremont
+name_en: Outremont (borough of Montréal)
+name_fr: Arrondissement d'Outremont
+sections: [planned, borough-vernacular]
+region: Ville de Montréal
+founded: 1875                              # village 23 February 1875; ville 1895; cité 1915; back to ville 1970; borough 1 January 2002
+settlement_mode: bourgeois suburb subdivided out of the Côte-Sainte-Catherine farms
+governing_instruments:
+  - kind: PIIA
+    title: "Règlement sur les plans d'implantation et d'intégration architecturale de l'arrondissement d'Outremont — VERIFY NUMBER: legacy listings give 1189; the 2020–21 refonte uses an AO-### series (AO-530 reported). Annexes include the témoins architecturaux significatifs (TAS) list, the carte des unités de paysage and the tableaux des éléments caractéristiques par unité."
+    year: null
+    url: https://montreal.ca/articles/guide-de-comprehension-du-reglement-sur-les-piia-doutremont-19363
+  - kind: study
+    title: "L'Enclume — Atelier de développement territorial, Étude typomorphologique et synthèse historique, arrondissement d'Outremont, 11 June 2020: « le territoire est découpé en 4 aires et en 29 unités de paysage »"
+    year: 2020
+    url: https://enclume.ca/projets/arrondissement-doutremont
+  - kind: inventory
+    title: "Étude Bisson (Pierre-Richard Bisson, 1992), used to establish the témoins architecturaux significatifs; the pre-1940 inventory for Outremont (2,903 immeubles retenus) was adopted at the agglomeration council 28 August 2025"
+    year: 1992
+    url: null
+  - kind: site-patrimonial-declare
+    title: "Site patrimonial du Mont-Royal overlaps Outremont's southern flank (south of av. Maplewood)"
+    year: 2005
+    url: null
+  - kind: classement
+    title: "Théâtre Outremont (1928, arch. René Charbonneau; décor Emmanuel Briffa): cited 29 June 1987, National Historic Site 20 November 1993, classé immeuble patrimonial 28 June 1994"
+    year: 1994
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93001&type=bien
+typology_document:
+  title: "L'Enclume, Étude typomorphologique (2020); Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005, ISBN 2-7647-0459-3)"
+  year: 2020
+  format: sector-characterisation
+  note: >-
+    The borough's own classification tags buildings by dwelling count (unifamiliale / bifamiliale /
+    trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée), and
+    overlays témoins architecturaux significatifs. The 4 aires and 29 unités de paysage are named
+    only inside the 2020 study and the PIIA annexes, neither of which could be retrieved — see §1.1.
+map_layer: null
+summary_en: >-
+  A village of 300 people in 1875 that doubled its population every fifteen years and was built out,
+  almost entirely, between 1903 and 1930: homogeneous streets of semi-detached single-family houses
+  and paired duplexes in the north and east, and detached "résidences cossues" climbing the mountain
+  flank in every historicist and then every modern idiom of the century. Its planning control rests
+  on a 2020 typo-morphological study that cut the territory into four landscape areas and
+  twenty-nine landscape units, and on a 1992 inventory that graded every building.

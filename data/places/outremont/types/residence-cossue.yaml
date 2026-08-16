@@ -1,0 +1,65 @@
+place: outremont
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement
+  d'Outremont / L'Enclume, Étude typomorphologique (2020)
+source_generation: sector characterisation (2005) + borough dwelling-count × implantation labels
+profile_note: Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale)
+  crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes
+  no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe
+  H) will supersede this — see Part 6b.
+sectors:
+- 16.E.1
+- 16.E.2
+canonical:
+- eclectic-prestige-house
+styles:
+- beaux-arts
+- chateau-style
+- tudor-revival
+- arts-and-crafts
+- georgian-revival
+style_label: Historicist eclecticism — « un échantillonnage de styles évocateurs du passé »
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- cut-stone
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - The mountain flank, the steepest ground in the borough; lots vary in size because the streets are winding,
+    sometimes switchbacking to avoid the steepest slopes.
+  - The houses along chemin de la Côte-Sainte-Catherine are perched on the upper part of their lots and reached
+    by long staircases.
+  - Streets lined with numerous trees, which the evaluation reads as the source of the sector's picturesque character.
+  - The part south of boulevard du Mont-Royal falls inside the Mount Royal heritage and natural district.
+  massing:
+  - Detached, on large irregular lots; the topography « a favorisé les prouesses architecturales et paysagères
+    ».
+  articulation:
+  - A sampling of styles evocative of the past, alongside the new twentieth-century ones.
+  openings: []
+  materials:
+  - Noble materials — stone and brick.
+photos:
+- file: null
+  credit: 'pending: no freely-licensed photograph identified for this type'
+  kind: placeholder
+id: outremont.residence-cossue
+phase: p4
+display_order: 4
+name_en: Opulent detached residence
+name_fr: Résidence unifamiliale cossue
+blurb_en: The bourgeois house on the mountain flank, in whichever past the owner preferred.
+origin_en: 'Édouard Gohier''s Northmount Land Company began subdividing the flank in 1906, and the 1920s and 1930s
+  filled it. The 2005 evaluation makes no attempt to reduce the result to a type: it records a sampling of revival
+  styles on lots whose shape the slope dictated. 728 avenue Pratt, néoclassique, 1937, is one documented example.'
+phase_confidence: verified

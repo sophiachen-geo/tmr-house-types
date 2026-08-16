@@ -190,9 +190,14 @@ for pdir in sorted((DATA / "places").iterdir()):
     sectors = load_yaml(sec_file) if sec_file.exists() else None
     if sectors:
         for s in sectors:
-            require(s, ["id", "code", "name_fr", "value", "summary_en", "streets"], f"{pdir.name}/sectors.yaml")
-            if s["value"] not in ("exceptional", "interesting", "urban-ensemble"):
-                fail(f"{pdir.name}/sectors.yaml: {s['code']}: value must be exceptional|interesting|urban-ensemble")
+            require(s, ["id", "code", "name_fr", "value", "streets"], f"{pdir.name}/sectors.yaml")
+            s.setdefault("summary_en", None)
+            if s["value"] not in ("exceptional", "interesting", "urban-ensemble", "cited-site"):
+                fail(f"{pdir.name}/sectors.yaml: {s['code']}: value must be "
+                     "exceptional|interesting|urban-ensemble|cited-site")
+            s.setdefault("summary_fr", None)          # verbatim source French (Part 6a)
+            s.setdefault("characteristics_fr", None)  # RPCQ éléments caractéristiques (Part 6a)
+            s.setdefault("note", None)
         codes = [s["code"] for s in sectors]
         if len(codes) != len(set(codes)):
             fail(f"{pdir.name}/sectors.yaml: duplicate sector codes")
@@ -343,6 +348,15 @@ for pdir in sorted((DATA / "places").iterdir()):
     pl["model_families"] = load_yaml(fam_file) if fam_file.exists() else None
     if pl["model_families"]:
         pl["model_families_csv"] = f"data/{pl['id']}-models-addresses.csv"
+    inv_file = pdir / "bisson_summary.yaml"          # derived building inventory (Part 6a)
+    pl["inventory"] = load_yaml(inv_file) if inv_file.exists() else None
+    if pl["inventory"]:
+        require(pl["inventory"], ["title_en", "source", "note_en", "rows", "categories"],
+                f"{ctx}: inventory summary")
+        pl["inventory_csv"] = f"data/{pl['id']}-bisson-inventory.csv"
+        pl["inventory_src"] = pdir / "bisson_inventory.csv"
+        if not pl["inventory_src"].exists():
+            fail(f"{ctx}: bisson_summary.yaml present but bisson_inventory.csv is missing")
     hero = pl.get("hero_photo")
     if hero:
         require(hero, ["file", "credit"], f"{ctx}: hero_photo")
@@ -566,6 +580,9 @@ for p in places:                       # publish each place's address list besid
     if p.get("model_families"):
         (DOCS / "data").mkdir(exist_ok=True)
         shutil.copy(ROOT / p["types"][0]["model_addresses_csv"], DOCS / p["model_families_csv"])
+    if p.get("inventory"):
+        (DOCS / "data").mkdir(exist_ok=True)
+        shutil.copy(p["inventory_src"], DOCS / p["inventory_csv"])
 (DOCS / ".nojekyll").touch()
 
 print(f"build.py: OK — {len(places)} place(s), {len(all_types)} types, {len(canon_types)} canonical forms, "

@@ -1,0 +1,56 @@
+place: outremont
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement
+  d'Outremont / L'Enclume, Étude typomorphologique (2020)
+source_generation: sector characterisation (2005) + borough dwelling-count × implantation labels
+profile_note: Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale)
+  crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes
+  no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe
+  H) will supersede this — see Part 6b.
+sectors:
+- 16.E.1
+canonical:
+- modern-slab-tower
+- split-level
+styles:
+- international-style
+- split-level
+- art-deco
+style_label: « Les nouvelles tendances du XXe siècle (Art déco, « split level », style international) »
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - The mountain flank, interleaved with the historicist houses rather than set apart from them.
+  - Winding streets and varied lot sizes, as for the opulent residences.
+  massing: []
+  articulation:
+  - 'The 2005 evaluation lists them in one breath with the revivals: the sector « présente un échantillonnage
+    de styles évocateurs du passé, mais également des nouvelles tendances du XXe siècle ».'
+  openings: []
+  materials: []
+photos:
+- file: null
+  credit: 'pending: no freely-licensed photograph identified for this type'
+  kind: placeholder
+id: outremont.moderne-flanc
+phase: p5
+display_order: 6
+name_en: Modern house on the flank
+name_fr: Maison moderne du flanc de la montagne
+blurb_en: Art déco, split-level and International Style, on the same slope and in the same sentence as the revivals.
+origin_en: 'Outremont''s modern houses have no separate district. The 2005 evaluation puts them inside the mountain
+  sector''s list of styles, between the historicist revivals and the picturesque streets — which is a real statement
+  about the place: the flank went on being built through the middle of the century without changing its plan,
+  only its idiom.'
+phase_confidence: verified

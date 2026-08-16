@@ -1,0 +1,48 @@
+id: gatineau
+name_en: Gatineau
+name_fr: Ville de Gatineau
+sections: [historic-core, planned]      # Aylmer/Hull cores + the CIP company quarter
+region: Outaouais
+founded: 1800                            # Philemon Wright settles at the Chaudière; Aylmer from c. 1830; present city amalgamated 2002
+settlement_mode: timber, match and paper towns amalgamated into one city
+governing_instruments:
+  - kind: PIIA
+    title: Règlement de PIIA de la Ville de Gatineau (base R-505-2005; 505.1-2011 for Habitation and Commercial categories; revision consulted 2021–2023)
+    year: 2005
+    url: https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/permis_certificats_autorisation_urbanisme/demandes_assujetties_approbation_conseil/programme_implantation_integration_architecturale
+  - kind: site-patrimonial-cite
+    title: Site patrimonial d'Aylmer, cité 3 August 1990 (cité under the Loi sur le patrimoine culturel since 2012); more than 80 buildings, 19th–20th century
+    year: 1990
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93542&type=bien
+  - kind: site-patrimonial-cite
+    title: Site patrimonial du Quartier-du-Moulin, cité 21 May 1996; 55 buildings on three blocks bounded by rues Main, Jean-René-Monette, de la Canipco and Vianney
+    year: 1996
+    url: http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?id=92813&methode=consulter&type=bien
+  - kind: guides
+    title: Guide d'intégration architecturale dans les milieux sensibles; Guide d'intervention sur les bâtiments anciens; Fiches sur les types architecturaux résidentiels dominants; Étude sur les maisons allumettes
+    year: 2023
+    url: https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/patrimoine/patrimoine_bati/types_architecturaux
+typology_document:
+  title: Ville de Gatineau, « 14 fiches explicatives portant sur les types architecturaux résidentiels qui dominent le paysage gatinois » (Enclume, with Passerelles Coopérative en patrimoine, 2023); Inventaire du patrimoine bâti moderne (EVOQ Stratégies, 10 Nov 2023, 164 buildings 1937–1980, organised by familles typologiques)
+  year: 2023
+  format: per-type-table
+  note: >-
+    The fiches are the closest thing in Québec to Mount Royal's by-law tables: each gives contexte
+    historique, répartition géographique, volumétrie, ouvertures, revêtement, ornementation, and
+    paired "interventions à privilégier / à éviter", with one credited photograph of a real address.
+    The modern inventory uses a different system — familles typologiques = function of origin
+    (RES/IND/COM/SI/TCP) × morphology (volumétrie, implantation, plan) — and is not encoded here.
+map_layer: null
+summary_en: >-
+  One city assembled in 2002 from five: Wright's timber settlement at the Chaudière that became
+  Hull, the Regency resort and courthouse town of Aylmer, the paper company's Quartier-du-Moulin at
+  Gatineau, and Buckingham and Masson-Angers to the east. Its housing is the Ottawa valley's
+  industrial vernacular — above all the "maison allumette", the gable-front worker's house of the
+  match-works era, built in three generations from the 1870s on the narrow lots of the 1864 Wright
+  survey. In 2023 the City published fourteen type fiches, one per dominant residential form.
+hero_photo:
+  file: assets/places/gatineau/243-245-rue-champlain-commons.jpg
+  credit: >-
+    243-245 rue Champlain, at rue Saint-Étienne, in the Hull sector of Gatineau (2018) — the narrow
+    gable-front wooden houses of the Austin survey, with a 1980s tower behind. © Jeangagnon,
+    Wikimedia Commons, CC BY-SA 4.0.

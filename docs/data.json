@@ -2244,6 +2244,495 @@
    "url": "types/mount-royal.modern-collective/"
   },
   {
+   "id": "outremont.unifamiliale-jumelee",
+   "place": "outremont",
+   "place_name": "Outremont (borough of Montréal)",
+   "phase": "p3",
+   "phase_label": "1903–1920",
+   "phase_years": "1903 – 1920",
+   "phase_title": "The homogeneous build-out",
+   "name_en": "Semi-detached single-family house",
+   "name_fr": "Résidence unifamiliale jumelée",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
+   "canonical": [
+    "brick-box-flat-or-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey brick box, flat/hipped/false-mansard roof, front gallery"
+   ],
+   "styles": [
+    "edwardian-classical"
+   ],
+   "style_names": [
+    "Edwardian classical"
+   ],
+   "style_label": "Edwardian classical, in a restricted palette of materials and colours",
+   "tenure_plan": "semi-detached",
+   "storeys": "2",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "montreal-greystone"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Dominant in the homogeneous north and east, whose buildings went up in a short span between 1903 and 1920.",
+     "Set on carefully landscaped grounds; the mature trees on the parcels are counted as part of the sector's quality."
+    ],
+    "massing": [
+     "Paired under one roofline, each half a single dwelling with its own independent entrance."
+    ],
+    "articulation": [
+     "A restricted choice of materials and colours holds the street together, though the houses themselves are stylistically very diverse."
+    ],
+    "openings": [],
+    "materials": [
+     "Noble materials — stone and brick — characterise the sector."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe H) will supersede this — see Part 6b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "16.E.7",
+    "16.E.5",
+    "16.E.2"
+   ],
+   "source_generation": "sector characterisation (2005) + borough dwelling-count × implantation labels",
+   "blurb_en": "The house that built Outremont: paired, two storeys, brick, flat-roofed, with its own front door.",
+   "origin_en": "The dominant form of the 1903–1920 build-out. The 2005 evaluation reads the sector's homogeneity as an effect of speed — most of the stock went up inside seventeen years — and of a narrow palette of materials, not of a repeated plan; the houses vary stylistically while the street reads as one thing.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no freely-licensed photograph identified for this type",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Semi-detached single-family house houses in Outremont (borough of Montréal), from Ville de Montréal"
+   },
+   "url": "types/outremont.unifamiliale-jumelee/"
+  },
+  {
+   "id": "outremont.duplex-jumele",
+   "place": "outremont",
+   "place_name": "Outremont (borough of Montréal)",
+   "phase": "p3",
+   "phase_label": "1903–1920",
+   "phase_years": "1903 – 1920",
+   "phase_title": "The homogeneous build-out",
+   "name_en": "Semi-detached duplex",
+   "name_fr": "Duplex jumelé",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
+   "canonical": [
+    "duplex-flat-roof-brick"
+   ],
+   "canonical_names": [
+    "Two-storey, two-dwelling brick box, flat roof, superposed units, cornice or parapet"
+   ],
+   "styles": [
+    "edwardian-classical"
+   ],
+   "style_names": [
+    "Edwardian classical"
+   ],
+   "style_label": "Edwardian classical",
+   "tenure_plan": "duplex",
+   "storeys": "2",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "montreal-greystone"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The same 1903–1920 fabric as the semi-detached single-family house, on the same streets."
+    ],
+    "massing": [
+     "Two superposed dwellings, paired with a neighbour; « duplex jumelé aux accès indépendants »."
+    ],
+    "articulation": [],
+    "openings": [
+     "Independent entrances at street level, one per dwelling."
+    ],
+    "materials": [
+     "Brick, with greystone on the more expensive frontages."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe H) will supersede this — see Part 6b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "16.E.7"
+   ],
+   "source_generation": "sector characterisation (2005) + borough dwelling-count × implantation labels",
+   "blurb_en": "Two dwellings stacked, paired with the neighbour, both front doors on the ground.",
+   "origin_en": "Outremont's version of the Montréal duplex, and the point where it separates from the Plateau's. The 2005 text describes « des duplex jumelés aux accès indépendants » — the pairing is with the adjoining house and the second dwelling is reached from inside the front door, so the exterior stair that defines the Plateau plex is absent here. Both sit under the same canonical form; the difference is exactly what that page is for.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no freely-licensed photograph identified for this type",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Semi-detached duplex houses in Outremont (borough of Montréal), from Ville de Montréal"
+   },
+   "url": "types/outremont.duplex-jumele/"
+  },
+  {
+   "id": "outremont.unifamiliale-isolee",
+   "place": "outremont",
+   "place_name": "Outremont (borough of Montréal)",
+   "phase": "p3",
+   "phase_label": "1903–1920",
+   "phase_years": "1903 – 1920",
+   "phase_title": "The homogeneous build-out",
+   "name_en": "Detached single-family house",
+   "name_fr": "Résidence unifamiliale isolée",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
+   "canonical": [
+    "brick-box-flat-or-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey brick box, flat/hipped/false-mansard roof, front gallery"
+   ],
+   "styles": [
+    "edwardian-classical"
+   ],
+   "style_names": [
+    "Edwardian classical"
+   ],
+   "style_label": "Edwardian classical",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "A minority form inside the homogeneous sectors — « un certain nombre », particularly around parc Pratt.",
+     "Around parc Outremont it forms a very homogeneous residential frontage facing the park."
+    ],
+    "massing": [
+     "Detached, two storeys.",
+     "Ground floor raised about one metre above ground level."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Generally brick."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe H) will supersede this — see Part 6b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "16.E.4",
+    "16.E.7",
+    "16.I.3"
+   ],
+   "source_generation": "sector characterisation (2005) + borough dwelling-count × implantation labels",
+   "blurb_en": "The detached cousin of the paired house — same brick, same flat roof, standing alone.",
+   "origin_en": "Not a separate tradition but the same house freed from its pair, and the 2005 evaluation treats it that way: a « certain nombre » of them inside sectors otherwise made of semi-detached houses, concentrated around parc Pratt and facing parc Outremont, where the Clercs de Saint-Viateur's 1896 farm-school for deaf children had opened the block.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no freely-licensed photograph identified for this type",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Detached single-family house houses in Outremont (borough of Montréal), from Ville de Montréal"
+   },
+   "url": "types/outremont.unifamiliale-isolee/"
+  },
+  {
+   "id": "outremont.residence-cossue",
+   "place": "outremont",
+   "place_name": "Outremont (borough of Montréal)",
+   "phase": "p4",
+   "phase_label": "1920–1940",
+   "phase_years": "1920 – 1940",
+   "phase_title": "The mountain flank and the bourgeois houses",
+   "name_en": "Opulent detached residence",
+   "name_fr": "Résidence unifamiliale cossue",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
+   "canonical": [
+    "eclectic-prestige-house"
+   ],
+   "canonical_names": [
+    "Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château, Edwardian)"
+   ],
+   "styles": [
+    "beaux-arts",
+    "chateau-style",
+    "tudor-revival",
+    "arts-and-crafts",
+    "georgian-revival"
+   ],
+   "style_names": [
+    "Beaux-Arts",
+    "Château style",
+    "Tudor Revival",
+    "Arts and Crafts",
+    "Georgian Revival"
+   ],
+   "style_label": "Historicist eclecticism — « un échantillonnage de styles évocateurs du passé »",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "cut-stone",
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The mountain flank, the steepest ground in the borough; lots vary in size because the streets are winding, sometimes switchbacking to avoid the steepest slopes.",
+     "The houses along chemin de la Côte-Sainte-Catherine are perched on the upper part of their lots and reached by long staircases.",
+     "Streets lined with numerous trees, which the evaluation reads as the source of the sector's picturesque character.",
+     "The part south of boulevard du Mont-Royal falls inside the Mount Royal heritage and natural district."
+    ],
+    "massing": [
+     "Detached, on large irregular lots; the topography « a favorisé les prouesses architecturales et paysagères »."
+    ],
+    "articulation": [
+     "A sampling of styles evocative of the past, alongside the new twentieth-century ones."
+    ],
+    "openings": [],
+    "materials": [
+     "Noble materials — stone and brick."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe H) will supersede this — see Part 6b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "16.E.1",
+    "16.E.2"
+   ],
+   "source_generation": "sector characterisation (2005) + borough dwelling-count × implantation labels",
+   "blurb_en": "The bourgeois house on the mountain flank, in whichever past the owner preferred.",
+   "origin_en": "Édouard Gohier's Northmount Land Company began subdividing the flank in 1906, and the 1920s and 1930s filled it. The 2005 evaluation makes no attempt to reduce the result to a type: it records a sampling of revival styles on lots whose shape the slope dictated. 728 avenue Pratt, néoclassique, 1937, is one documented example.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no freely-licensed photograph identified for this type",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Opulent detached residence houses in Outremont (borough of Montréal), from Ville de Montréal"
+   },
+   "url": "types/outremont.residence-cossue/"
+  },
+  {
+   "id": "outremont.immeuble-appartements",
+   "place": "outremont",
+   "place_name": "Outremont (borough of Montréal)",
+   "phase": "p5",
+   "phase_label": "1940–1975",
+   "phase_years": "1940 – 1975",
+   "phase_title": "Apartment buildings",
+   "name_en": "Apartment building (conciergerie)",
+   "name_fr": "Immeuble d'appartements — conciergerie",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
+   "canonical": [
+    "interwar-walkup-apartment"
+   ],
+   "canonical_names": [
+    "Interwar apartment building / walk-up (\"conciergerie\", \"appartement de rapport\")"
+   ],
+   "styles": [
+    "art-deco",
+    "streamline-moderne"
+   ],
+   "style_names": [
+    "Art Deco",
+    "Streamline Moderne"
+   ],
+   "style_label": "Art déco and Moderne, on 1920s commercial streets",
+   "tenure_plan": "walk-up",
+   "storeys": "3–4",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": 3.0,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Avenue Bernard between rue Hutchison and avenue McEachran, where 75 % of the buildings date from the 1920s.",
+     "Front setbacks of about 3 metres; the front grounds are most often paved rather than planted.",
+     "Also on the south side of avenue Willowdale, opened in 1911, and along avenue Van Horne, the working quarter's commercial artery."
+    ],
+    "massing": [
+     "Three or four storeys, multi-family."
+    ],
+    "articulation": [
+     "On avenue Willowdale, some display a strong Art déco influence."
+    ],
+    "openings": [],
+    "materials": [
+     "Half-basements and ground floors generally occupied by shops."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe H) will supersede this — see Part 6b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "16.E.6",
+    "16.I.6",
+    "16.I.4"
+   ],
+   "source_generation": "sector characterisation (2005) + borough dwelling-count × implantation labels",
+   "blurb_en": "Three or four storeys of flats over the shops, and the reason avenue Bernard looks like one thing.",
+   "origin_en": "The conciergerie is what avenue Bernard is made of. The 2005 evaluation attributes the street's harmony to a single fact — three-quarters of its buildings went up in the 1920s — and names the multi-family walk-up with commerce in the half-basement and ground floor as the dominant architectural type. The cinéma Outremont, given municipal heritage status in 2000 and since fully restored, stands on the same street.",
+   "photo": {
+    "file": "assets/places/outremont/avenue-bernard-commons.jpg",
+    "credit": "Avenue Bernard, Outremont (2016) — © Intermedichbo (Milorad Dimic M.D.), Wikimedia Commons, CC BY-SA 4.0",
+    "kind": "single",
+    "w": 1280,
+    "h": 960,
+    "alt": "Photograph of Apartment building (conciergerie) houses in Outremont (borough of Montréal), from Ville de Montréal"
+   },
+   "url": "types/outremont.immeuble-appartements/"
+  },
+  {
+   "id": "outremont.moderne-flanc",
+   "place": "outremont",
+   "place_name": "Outremont (borough of Montréal)",
+   "phase": "p5",
+   "phase_label": "1940–1975",
+   "phase_years": "1940 – 1975",
+   "phase_title": "Apartment buildings",
+   "name_en": "Modern house on the flank",
+   "name_fr": "Maison moderne du flanc de la montagne",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
+   "canonical": [
+    "modern-slab-tower",
+    "split-level"
+   ],
+   "canonical_names": [
+    "Postwar modernist residential tower or slab",
+    "Two volumes offset half a storey, garage under bedrooms"
+   ],
+   "styles": [
+    "international-style",
+    "split-level",
+    "art-deco"
+   ],
+   "style_names": [
+    "International Style / Modernist",
+    "Split-level",
+    "Art Deco"
+   ],
+   "style_label": "« Les nouvelles tendances du XXe siècle (Art déco, « split level », style international) »",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The mountain flank, interleaved with the historicist houses rather than set apart from them.",
+     "Winding streets and varied lot sizes, as for the opulent residences."
+    ],
+    "massing": [],
+    "articulation": [
+     "The 2005 evaluation lists them in one breath with the revivals: the sector « présente un échantillonnage de styles évocateurs du passé, mais également des nouvelles tendances du XXe siècle »."
+    ],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Outremont classifies buildings by dwelling count (unifamiliale / bifamiliale / trifamiliale / multifamiliale) crossed with implantation (isolée / jumelée / en rangée) and characterises territory by landscape unit; it publishes no per-type profile table. Columns are filled only from the 2005 sector text. The 29 unité tables (PIIA Annexe H) will supersede this — see Part 6b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "16.E.1"
+   ],
+   "source_generation": "sector characterisation (2005) + borough dwelling-count × implantation labels",
+   "blurb_en": "Art déco, split-level and International Style, on the same slope and in the same sentence as the revivals.",
+   "origin_en": "Outremont's modern houses have no separate district. The 2005 evaluation puts them inside the mountain sector's list of styles, between the historicist revivals and the picturesque streets — which is a real statement about the place: the flank went on being built through the middle of the century without changing its plan, only its idiom.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no freely-licensed photograph identified for this type",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Modern house on the flank houses in Outremont (borough of Montréal), from Ville de Montréal"
+   },
+   "url": "types/outremont.moderne-flanc/"
+  },
+  {
    "id": "plateau-mont-royal.faubourg-house",
    "place": "plateau-mont-royal",
    "place_name": "Le Plateau-Mont-Royal (borough of Montréal)",

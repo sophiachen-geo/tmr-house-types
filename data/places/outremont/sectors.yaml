@@ -1,0 +1,313 @@
+# Transcribed from the Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement d'Outremont »
+# (2005), section B. Codes are the document's own: 16.E.1–8 exceptional, 16.I.1–6 interesting.
+# summary_fr is the source text verbatim, with hyphenation lost in PDF extraction restored.
+- id: secteur-de-la-montagne
+  code: 16.E.1
+  name_fr: Secteur de la montagne
+  value: exceptional
+  summary_en: 'This is the sector covering the built-up part located in the south of the borough, and it is the
+    steepest zone in Outremont; the topography of the secteur de la montagne encouraged architectural and landscape
+    feats. Opulent single-family residences dominate, though there are also a few semi-detached two-family buildings,
+    and the sector presents a sampling of styles evocative of the past as well as of the new twentieth-century trends
+    (Art déco, "split level", International Style). The lots vary in size because of the street layout: the streets
+    are winding — sometimes switchbacking to avoid overly steep slopes — and lined with numerous trees, which reinforces
+    the picturesque character of the neighbourhood. The opulent residences bordering the chemin de la Côte-Sainte-Catherine
+    are perched on the upper part of their lots and reached by long staircases. Part a), situated south of the boulevard
+    du Mont-Royal, is included in the arrondissement historique et naturel du mont Royal (the Mount Royal heritage
+    and natural district).'
+  summary_fr: Il s'agit du secteur qui couvre la partie bâtie située au sud de l'arrondissement. Cette zone est
+    la plus escarpée d'Outremont. La topographie du secteur de la montagne a favorisé les prouesses architecturales
+    et paysagères. Les résidences unifamiliales cossues dominent, mais on trouve aussi quelques bâtiments jumelés
+    bifamiliaux. Le secteur présente un échantillonnage de styles évocateurs du passé, mais également des nouvelles
+    tendances du XXe siècle (Art déco, « split level », style international). Les parcelles sont de dimensions variées
+    en raison de la configuration des rues. Ces dernières sont sinueuses – parfois en lacet pour éviter les pentes
+    trop raides – et bordées de nombreux arbres, ce qui renforce le caractère pittoresque du quartier. Les résidences
+    cossues qui bordent le chemin de la Côte-Sainte-Catherine sont juchées sur le haut des terrains et accessibles
+    par de longs escaliers. La partie a), située au sud du boulevard du Mont-Royal, est incluse dans l'arrondissement
+    historique et naturel du mont Royal.
+  streets:
+  - chemin de la Côte-Sainte-Catherine
+  - boulevard du Mont-Royal
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: null
+- id: secteur-avenue-beloeil
+  code: 16.E.2
+  name_fr: Secteur de l'avenue Beloeil
+  value: exceptional
+  summary_en: Bounded on the north by chemin de la Côte-Sainte-Catherine and on the south by boulevard du Mont-Royal,
+    this sector covers avenue Beloeil and avenue Courcelette as well as the east side of avenue Claude-Champagne.
+    Its lots are roughly 36 metres deep and average between 9 and 10 metres in width. The semi-detached building
+    (bâtiment jumelé) dominates the sector, although it also includes a certain number of detached single-family
+    residences. The use of noble materials such as stone and brick characterises this relatively homogeneous environment,
+    even though various architectural styles are represented there. The landscaping is carefully tended; each lot
+    has a lawn planted with shrubs and mature trees.
+  summary_fr: Limité au nord par le chemin de la Côte-Sainte-Catherine et au sud par le boulevard du Mont-Royal,
+    ce secteur couvre les avenues Beloeil et Courcelette ainsi que le côté est de l'avenue Claude-Champagne. On
+    y retrouve des parcelles d'environ 36 mètres de profondeur et variant en moyenne entre 9 et 10 mètres de largeur.
+    Le bâtiment jumelé domine ce secteur, bien qu'il comprenne un certain nombre de résidences unifamiliales isolées.
+    L'usage de matériaux nobles comme la pierre et la brique caractérise cet environnement relativement homogène,
+    même si divers styles architecturaux y sont représentés. Le traitement paysager est soigné; chaque parcelle
+    comporte une pelouse plantée d'arbustes et d'arbres matures.
+  streets:
+  - avenue Beloeil
+  - avenue Courcelette
+  - avenue Claude-Champagne (côté est)
+  - chemin de la Côte-Sainte-Catherine
+  - boulevard du Mont-Royal
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: The source spells the boundary street « Côte-SaintCatherine »; the hyphenation lost in extraction has been
+    restored here.
+- id: secteur-vincent-dindy
+  code: 16.E.3
+  name_fr: Secteur Vincent-d'Indy
+  value: exceptional
+  summary_en: This sector is bounded on the south by the cimetière Mont-Royal, on the west by avenue Vincent-d'Indy
+    and on the north by chemin de la Côte-Sainte-Catherine. It is composed exclusively of institutional buildings,
+    the most important of which, from a heritage standpoint, are the former pensionnat du Saint-Nom-de-Marie (1903)
+    and the mother house of the Sœurs des Saints Noms de Jésus et de Marie (1923-1925, architects Viau & Venne).
+    The church (1930), the presbytery (1936) and the école Saint-Germain (1936) also form an institutional ensemble
+    of great value. The pavillon Marie-Victorin of the Université de Montréal (the former collège Jésus-Marie) and
+    the salle Claude-Champagne display a more modern architecture. Part a), located south of avenue Maplewood —
+    where one finds the reservoir built in 1913-1914 by the Montreal Water & Power, the mother house of the Sœurs
+    des Saints Noms de Jésus et de Marie and the salle de concert Claude-Champagne — is included in the arrondissement
+    historique et naturel du mont Royal.
+  summary_fr: Ce secteur est limité au sud par le cimetière Mont-Royal, à l'ouest par l'avenue Vincent-d'Indy et
+    au nord par le chemin de la Côte-Sainte-Catherine. Il est composé exclusivement d'édifices institutionnels dont
+    les plus importants, du point de vue patrimonial, sont l'ancien pensionnat du Saint-Nom-de-Marie (1903) et la
+    maison mère des Sœurs des Saints Noms de Jésus et de Marie (1923-1925, architectes Viau & Venne). L'église (1930),
+    le presbytère (1936) et l'école Saint-Germain (1936) forment également un ensemble institutionnel de grande
+    valeur. Le pavillon Marie-Victorin de l'Université de Montréal (l'ancien collège Jésus-Marie) et la salle Claude-Champagne
+    affichent une architecture plus moderne. La partie a) située au sud de l'avenue Maplewood (où l'on retrouve
+    le réservoir construit en 1913-1914 par la Montreal Water & Power, la maison mère des Sœurs des Saints Noms
+    de Jésus et de Marie et la salle de concert Claude-Champagne) est incluse dans l'arrondissement historique et
+    naturel du mont Royal.
+  streets:
+  - avenue Vincent-d'Indy
+  - chemin de la Côte-Sainte-Catherine
+  - avenue Maplewood
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: Composed exclusively of institutional buildings; no residential type record attaches to it.
+- id: le-parc-outremont
+  code: 16.E.4
+  name_fr: Le parc Outremont
+  value: exceptional
+  summary_en: This sector corresponds to the built frontage facing parc Outremont, as well as the segments of streets
+    located between the park and chemin de la Côte-Sainte-Catherine. The development of this block is associated
+    with the Clercs de Saint-Viateur, who in 1896 founded there a farm-school (ferme-école) for the deaf-mute on
+    the former ferme Bouthillier-McDougall. It is a very homogeneous sector whose built fabric is composed essentially
+    of residences. One finds there detached two-storey houses, generally of brick and with flat roofs, with a ground
+    floor raised about one metre above ground level. L'église Saint-Viateur and l'académie Querbes complete the
+    panorama of this neighbourhood.
+  summary_fr: Ce secteur correspond au front bâti donnant sur le parc Outremont ainsi qu'aux tronçons de rues situées
+    entre le parc et le chemin de la Côte-Sainte-Catherine. Le développement de cet îlot est associé aux Clercs
+    de Saint-Viateur qui, en 1896, y fondent une ferme-école pour les sourds-muets sur l'ancienne ferme Bouthillier-McDougall.
+    Il s'agit d'un secteur très homogène dont le bâti est formé essentiellement de résidences. On y retrouve des
+    maisons isolées de deux étages, généralement en brique et à toit plat, avec rez-de-chaussée surélevé d'environ
+    un mètre par rapport au niveau du sol. L'église Saint-Viateur et l'académie Querbes viennent compléter le panorama
+    de ce quartier.
+  streets:
+  - chemin de la Côte-Sainte-Catherine
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: The French reads « maisons isolées de deux étages … avec rez-de-chaussée surélevé d'environ un mètre ».
+    Whether the raised ground floor counts inside or on top of the two étages is not settled by the text; the verbatim
+    French is printed beside the translation so the reader can judge.
+- id: saint-viateur-et-beaubien
+  code: 16.E.5
+  name_fr: Le secteur Saint-Viateur et Beaubien
+  value: exceptional
+  summary_en: The sector was named in honour of the Beaubien family, which played a major role in the development
+    of Outremont. It covers the former lands of the congregation of the Clercs de Saint-Viateur and of the Wiseman
+    family. The built fabric of the Saint-Viateur et Beaubien sector is composed mainly of semi-detached single-family
+    residences (résidences unifamiliales jumelées); a restricted choice of materials and colours makes it possible
+    to preserve a certain uniformity, even though the residences are of great stylistic diversity. The residences
+    are set on carefully landscaped grounds, and the mature trees found on the parcels contribute to the quality
+    of the sector's built fabric. A few institutions worthy of mention are also noted, in particular the maison
+    provinciale des Clercs de Saint-Viateur.
+  summary_fr: Ce secteur a été nommé en l'honneur de la famille Beaubien, qui a joué un rôle majeur dans le développement
+    d'Outremont. Il s'agit des anciennes terres de la congrégation des Clercs de Saint-Viateur et de la famille
+    Wiseman. Le cadre bâti du secteur Saint-Viateur et Beaubien est composé majoritairement de résidences unifamiliales
+    jumelées. Un choix restreint de matériaux et de couleurs permet de préserver une certaine uniformité, même si
+    les résidences sont d'une grande diversité stylistique. Les résidences sont implantées sur des terrains soigneusement
+    aménagés. Les arbres matures qu'on retrouve sur les parcelles contribuent à la qualité du cadre bâti de ce secteur.
+    On remarque aussi quelques institutions dignes de mention, notamment la maison provinciale des Clercs de Saint-Viateur.
+  streets:
+  - avenue Wiseman
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: A caption (« 16.E.5 563-569, avenue Wiseman ») is set inside the running text in the source PDF and splits
+    the word « stylistique »; it has been removed and the word restored.
+- id: avenue-bernard
+  code: 16.E.6
+  name_fr: L'avenue Bernard
+  value: exceptional
+  summary_en: 'This sector corresponds to avenue Bernard between rue Hutchison and avenue McEachran. The great majority
+    (75%) of the buildings lining avenue Bernard were built in the 1920s, which accounts for the harmony of this
+    very lively commercial street, especially during the summer season (sidewalk cafés). Conciergeries (apartment
+    buildings) are the dominant architectural type of the sector: these multifamily buildings have three or four
+    storeys, and their half-basements and ground floors are generally occupied by shops. Front setbacks are about
+    3 metres and the lots are most often paved. Note the presence on this artery of the cinéma Outremont, a building
+    given municipal heritage status (cité) in 2000 and entirely restored.'
+  summary_fr: Ce secteur correspond à l'avenue Bernard entre la rue Hutchison et l'avenue McEachran. La grande majorité
+    (75 %) des bâtiments qui bordent l'avenue Bernard ont été construits dans les années 1920, ce qui explique l'harmonie
+    qui se dégage de cette voie commerciale très animée, surtout durant la saison estivale (cafés-terrasses). Les
+    conciergeries constituent le type architectural dominant de ce secteur. Ces immeubles multifamiliaux comptent
+    trois ou quatre étages et leurs demi-sous-sols ainsi que leurs rez-de-chaussée sont généralement occupés par
+    des commerces. Les marges de recul avant sont d'environ 3 mètres et les terrains sont le plus souvent recouverts
+    de pavés. On notera la présence sur cette artère du cinéma Outremont, bâtiment cité en 2000 et qui a entièrement
+    été restauré.
+  streets:
+  - avenue Bernard
+  - rue Hutchison
+  - avenue McEachran
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: null
+- id: le-secteur-centre
+  code: 16.E.7
+  name_fr: Le secteur centre
+  value: exceptional
+  summary_en: This sector borders the industrial and working-class quarters, and this portion of Outremont's territory
+    is marked by strong homogeneity, resting on the fact that most of its buildings were put up within a short span
+    of time, between 1903 and 1920. The urban landscape is dominated by semi-detached single-family houses or semi-detached
+    duplexes with independent entrances; there are also a certain number of detached single-family houses, particularly
+    around parc Pratt. The sector's exceptional quality results from its visual coherence but also from the presence
+    of well-laid-out parks (Joyce, Vimy and Pratt) as well as the plant cover that adorns the properties. The presence
+    of collège Stanislas, a renowned teaching institution, is worth noting.
+  summary_fr: Ce secteur est limitrophe aux quartiers industriel et ouvrier. Cette portion du territoire d'Outremont
+    se caractérise par une forte homogénéité, laquelle repose sur le fait que la majorité des immeubles se sont
+    construits en un court laps de temps, entre 1903 et 1920. Le paysage urbain est dominé par des résidences unifamiliales
+    jumelées ou des duplex jumelés aux accès indépendants. Il existe aussi un certain nombre de résidences unifamiliales
+    isolées, particulièrement autour du parc Pratt. La qualité exceptionnelle de ce secteur résulte de sa cohérence
+    visuelle mais aussi de la présence de parcs bien aménagés (Joyce, Vimy et Pratt) ainsi que du couvert végétal
+    qui orne les propriétés. La présence du collège Stanislas, institution d'enseignement renommée, est à souligner.
+  streets: []
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: null
+- id: cimetiere-mont-royal
+  code: 16.E.8
+  name_fr: Le cimetière Mont-Royal
+  value: exceptional
+  summary_en: This garden-type cemetery, designed by Sidney and Neff in 1852, was declared a national historic site
+    in 1997 by the federal government. The designation is explained by the quality of the site's landscaping and
+    by the fact that several figures famous in Canada's history are buried there. It also contains a large number
+    of exceptional monuments created by renowned artists, as well as several vaults belonging to prominent Montreal
+    families, including those of the Molson family. Of note are the entrance gate, designed by the architect J.W.
+    Hopkins in 1862, and the Gothic-influenced chapel located nearby. The cimetière Mont-Royal forms an integral
+    part of the arrondissement historique et naturel du mont Royal.
+  summary_fr: Ce cimetière de type jardin, dessiné par Sidney et Neff en 1852, a été décrété lieu historique national
+    en 1997 par le gouvernement fédéral. Cette désignation s'explique par la qualité de l'aménagement du site et
+    le fait qu'y sont enterrés plusieurs personnages célèbres de l'histoire du Canada. On y trouve également un
+    grand nombre de monuments exceptionnels réalisés par des artistes de renom, ainsi que plusieurs caveaux appartenant
+    à des familles bien en vue de Montréal, dont ceux de la famille Molson. On notera le portail d'entrée, conçu
+    par l'architecte J.W. Hopkins en 1862, et la chapelle d'influence gothique située à proximité. Le cimetière
+    Mont-Royal fait partie intégrante de l'arrondissement historique et naturel du mont Royal.
+  streets: []
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: A cemetery, not a residential sector; kept because the 2005 document numbers it among the eight of exceptional
+    value.
+- id: le-secteur-sud-est
+  code: 16.I.1
+  name_fr: Le secteur sud-est
+  value: interesting
+  summary_en: This territory is one of the most diversified in the city with respect to functions, the age of its
+    buildings and their typology. Its development began at the start of the 20th century, but the proximity of two
+    important arteries, avenue Laurier and boulevard Saint-Joseph, has meant that it is constantly being transformed.
+  summary_fr: Ce territoire est l'un des plus diversifiés de la ville en regard des fonctions, de l'âge et de la
+    typologie des bâtiments. Son développement a commencé au début du XXe siècle, mais la proximité de deux artères
+    importantes, l'avenue Laurier et le boulevard Saint-Joseph, a fait en sorte qu'il ne cesse de se transformer.
+  streets:
+  - avenue Laurier
+  - boulevard Saint-Joseph
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: null
+- id: la-rue-hutchison
+  code: 16.I.2
+  name_fr: La rue Hutchison
+  value: interesting
+  summary_en: This zone corresponds to part of the former land of the Hutchison family (the other part lies in the
+    Mile-End). The land was subdivided into lots in 1858 and the street was opened in 1890. The built fabric lining
+    the street, mainly three-storey attached triplexes (generally one dwelling per floor), is characterized by its
+    homogeneity. Among the notable architectural features are the exterior staircases, which give each dwelling
+    its own private entrance. The front setback is a constant 3 metres and the lots have little landscaping.
+  summary_fr: Cette zone correspond à une partie de l'ancienne terre de la famille Hutchison (l'autre partie est
+    située dans le Mile-End). Cette terre est lotie en 1858 et la rue est ouverte en 1890. Le bâti qui borde la
+    rue, principalement des triplex contigus de trois étages (généralement un logement par étage), se caractérise
+    par son homogénéité. Parmi les caractéristiques architecturales marquantes, notons les escaliers extérieurs
+    qui font que chaque logement possède son entrée privée. La marge de recul avant est constante à 3 mètres et
+    les terrains sont peu aménagés.
+  streets:
+  - rue Hutchison
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: The contiguous three-storey triplex with exterior stairs documented in this sector has no type record on
+    this page — see the Plateau-Mont-Royal records under the canonical form « Triplex with exterior stair ».
+- id: les-terres-durocher
+  code: 16.I.3
+  name_fr: Les terres Durocher
+  value: interesting
+  summary_en: The sector is bordered to the north by the parc Saint-Viateur and to the south by the avenue Fairmount.
+    The two-storey attached single-family building dominates the landscape, although a certain number of semi-detached
+    single-family dwelling units, also two storeys, are also found. The streets are shaded by mature trees.
+  summary_fr: Le secteur est bordé au nord par le parc Saint-Viateur et au sud par l'avenue Fairmount. Le bâtiment
+    unifamilial contigu de deux étages domine le paysage, bien que l'on retrouve aussi un certain nombre d'unités
+    d'habitation unifamiliales jumelées, également de deux étages. Les rues sont ombragées par des arbres matures.
+  streets:
+  - avenue Fairmount
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: null
+- id: le-quartier-ouvrier
+  code: 16.I.4
+  name_fr: Le quartier ouvrier
+  value: interesting
+  summary_en: The built fabric of this sector expresses the more modest origins of its residents. It has a strong
+    concentration of contiguous triplexes (one dwelling per floor) faced in brick and with terrace roofs (toit en
+    terrasse), and these form continuous, harmonious alignments. It is worth noting that every block of the quartier
+    ouvrier is served by back lanes (ruelles). Avenue Van Horne, the sector's commercial artery, is lined with multiple-dwelling
+    buildings. The église Sainte-Madeleine and the école Lajoie are the sector's structuring elements.
+  summary_fr: Le bâti de ce secteur exprime l'origine plus modeste des résidents. On y retrouve une forte concentration
+    de triplex contigus (un logement par étage) recouverts de brique et avec toit en terrasse. Ces derniers forment
+    des alignements continus et harmonieux. Il est à noter que tous les îlots du quartier ouvrier sont desservis
+    par des ruelles. L'avenue Van Horne, l'artère commerciale de ce secteur, est bordée d'immeubles de logements
+    multiples. L'église Sainte-Madeleine et l'école Lajoie sont les éléments structurants du secteur.
+  streets:
+  - avenue Van Horne
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: As in 16.I.2, the contiguous brick triplex with one dwelling per floor is documented here but carries no
+    Outremont type record yet.
+- id: le-quartier-industriel
+  code: 16.I.5
+  name_fr: Le quartier industriel
+  value: interesting
+  summary_en: Located at the northern extremity of Outremont's territory, this sector comprises the Canadien Pacifique
+    marshalling yard (cour de triage) as well as a certain number of buildings occupied by small industries, businesses
+    or warehouses. It is, moreover, undergoing full transformation under real-estate pressure and the declared will
+    of elected officials to change the vocation of this territory, whose industrial functions have become obsolete.
+    Several former buildings have already been converted or demolished to make way for residential buildings. Other
+    projects can be expected to come about in the near future.
+  summary_fr: Situé à l'extrémité nord du territoire d'Outremont, ce secteur comprend la cour de triage du Canadien
+    Pacifique ainsi qu'un certain nombre d'édifices occupés par des petites industries, des commerces ou des entrepôts.
+    Il est par ailleurs en pleine transformation sous la pression immobilière et la volonté affirmée des élus de
+    modifier la vocation de ce territoire dont les fonctions industrielles sont devenues désuètes. Plusieurs anciens
+    bâtiments ont déjà été recyclés ou démolis pour faire place à des immeubles résidentiels. Il est à prévoir que
+    d'autres projets verront le jour dans un avenir rapproché.
+  streets: []
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: null
+- id: avenue-willowdale
+  code: 16.I.6
+  name_fr: L'avenue Willowdale
+  value: interesting
+  summary_en: The north side of this avenue, opened in 1911, is occupied by single-family houses and duplexes, while
+    the south side is characterized by multi-family dwellings, some of which display a strong Art déco influence.
+    As for the avenues de la Brunante, Hazelwood and Glencoe, they are lined with single-family or semi-detached
+    houses; several are built on similar plans, which establishes a certain form of harmony.
+  summary_fr: Le côté nord de cette avenue ouverte en 1911 est occupé par des maisons unifamiliales et des duplex,
+    alors que le côté sud se caractérise par des habitations multifamiliales dont certaines affichent une forte
+    influence Art déco. Quant aux avenues de la Brunante, Hazelwood et Glencoe, elles sont bordées par des maisons
+    unifamiliales ou jumelées. Plusieurs sont construites sur des plans similaires, ce qui établit une certaine
+    forme d'harmonie.
+  streets:
+  - avenue Willowdale
+  - avenue de la Brunante
+  - avenue Hazelwood
+  - avenue Glencoe
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005), section B
+  note: The 2005 fiche runs on without a break into the document's next section (the list of individually exceptional
+    buildings); the run-on text, and the two addresses it names, are not part of this sector and have been cut.
