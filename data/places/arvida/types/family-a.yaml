@@ -1,0 +1,50 @@
+id: arvida.family-a
+place: arvida
+phase: p1
+phase_confidence: verified          # A-models line the 1926 streets: Davy, Deville, Moritz, Hare, Wohler, Oersted, Moissan, Edison, Faraday, Mellon, Lavoisier
+name_en: Family A company houses (models A1–A8)
+name_fr: Maisons de compagnie de la famille A (modèles A1 à A8)
+source_ref: "Ville de Saguenay, Modèles des maisons arvidiennes (2014); arvida.saguenay.ca, model A1 catalogue page; Morisset 2022 (print)"
+canonical: [company-cottage-detached-wood-1926]
+styles: [regionalist-neo-vernacular, colonial-revival]
+tenure_plan: single-family
+storeys: null
+roof: {form: gabled, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [A01, A02, A03, A04, A05, A06, A07, A08]
+profile:
+  siting_landscape:
+    - Set back on the curving tree-lined streets of the 1926 core around parc Oersted (rues Davy, Deville, Moritz, Hare, Wohler, Oersted, Moissan, Edison, Faraday, boulevard Mellon, rue Lavoisier).
+    - Concrete foundations from the outset ("a symbol of permanence").
+  massing:
+    - "Model A1 (documented): a detached house whose roofline includes dormers; plan reorganised under Harold R. Wake so that a kitchen-family room replaces the separate dining and living rooms and adjoins two ground-floor bedrooms."
+  articulation: []
+  openings: []
+  materials: []
+profile_note: >-
+  Only A1 is documented online (photograph and floor plans reproduced from the company's late-1920s
+  "Townsite Houses" catalogue). Storeys, cladding, window type and the A2–A8 variants await Morisset's
+  album (Part 4b). Do not fill from photographs.
+blurb_en: >-
+  The first-phase house: one of the standard models of the summer of 1926, re-drawn by Wake to fit
+  French-Canadian family life (a big kitchen instead of parlour and dining room), varied from house
+  to house by dormers, porches and roof details so that, in the City's phrase, "not a single house
+  was built that resembles its neighbour".
+origin_en: >-
+  Brainerd's New York-inspired type plans were "rationalised" on site by the engineer Harold R.
+  Wake, who adapted them to Québec's climate and household size; the CPCQ dossier speaks of "quatre
+  modèles types" enabling the 270 houses of 1926 in 135 days, with variety obtained through dormers,
+  balconies and roofs. The address list is consistent with families A–D being that first set: on the
+  1926 streets almost every entry is an A, B, C or D code.
+photos: [{file: null, credit: "pending: the model A1 catalogue page is published by arvida.saguenay.ca, whose legal notice reserves all rights (see sources/arvida/MANIFEST.md); not reproduced here", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 1

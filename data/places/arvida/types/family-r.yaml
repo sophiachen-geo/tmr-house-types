@@ -1,0 +1,36 @@
+id: arvida.family-r
+place: arvida
+phase: p4
+phase_confidence: provisional       # rows R02–R04 on Berthier, Geoffrion, De Normandie, Powell; cf. "Row Houses", Canadian Builder, March 1953
+name_en: Family R row houses (models R2–R4)
+name_fr: Maisons en rangée de la famille R (modèles R2 à R4)
+source_ref: "Ville de Saguenay address list (2014); 'Row Houses', Canadian Builder, vol. III no 3, March 1953, p. 5 (cited in the City's bibliography)"
+canonical: [company-row-1940s]
+styles: [minimal-traditional]
+tenure_plan: row
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [R02, R03, R04]
+profile:
+  siting_landscape:
+    - "Six-unit rows: \"2961-65-67-69-71-73 R04\", \"2970-72-74-76-80-82 R03\", \"1993-…-03 R02\", \"1750-54-58-62-66-70 R03\"; rues Berthier, Geoffrion, De Normandie, Powell."
+  massing: [Six dwellings per building, as the civic numbering shows.]
+  articulation: []
+  openings: []
+  materials: []
+profile_note: "Not documented online beyond the address list and a 1953 trade-press citation; Part 4b."
+blurb_en: "Arvida's only rows: six-unit company terraces at the eastern edge of the historic quarter."
+origin_en: The last company housing before Alcan withdrew from municipal management in the early 1950s.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 8

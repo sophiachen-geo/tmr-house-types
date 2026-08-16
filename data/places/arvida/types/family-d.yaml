@@ -1,0 +1,44 @@
+id: arvida.family-d
+place: arvida
+phase: p1
+phase_confidence: verified          # D models line the 1926 streets alongside A, B and C
+name_en: Family D company houses (models D1–D5)
+name_fr: Maisons de compagnie de la famille D (modèles D1 à D5)
+source_ref: "Ville de Saguenay, Modèles des maisons arvidiennes (2014); Morisset 2022 (print)"
+canonical: [company-cottage-detached-wood-1926]
+styles: [regionalist-neo-vernacular, colonial-revival]
+tenure_plan: single-family
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [D01, D02, D03, D04, D05]
+profile:
+  siting_landscape:
+    - "Through the 1926 core: rues Berthier, Brittany, Davy, Deville, Edison, Hare, Lavoisier, Moissan, Moritz, Oersted and Wohler and boulevard Mellon."
+    - "D03 and D04 occur only on rue Faraday; D05 only on rue Fickes, a later street."
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: >-
+  Family not documented online; see Part 4b. Paired civic numbers (1760-62 D02, 2798-2800 D01,
+  2802-04 D01) show that some D models were built as pairs. Roof form, storeys, cladding and openings
+  await Morisset's album; nothing here is taken from photographs.
+blurb_en: >-
+  The fourth 1926 family: five models, two of them (D03, D04) confined to rue Faraday and one (D05) to
+  the later rue Fickes.
+origin_en: >-
+  One of the standardised models of the first construction phase, from Brainerd's type plans as
+  reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.
+photos: [{file: null, credit: "pending: no photograph of a documented D model is available under a reusable licence", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 4

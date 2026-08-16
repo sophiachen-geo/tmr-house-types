@@ -1,0 +1,372 @@
+source: Ville de Saguenay, « Modèles des maisons arvidiennes — Quartier historique Sainte-Thérèse », dossier
+  20152-09-001-003, révisé 2014-05-12
+parsed_from: sources/arvida/modeles_des_maisons_arvidiennes.pdf (pdftotext -bbox-layout; two columns,
+  street context carries across the column break)
+address_rows: 595
+rows_with_model_code: 492
+rows_without_model_code: 103
+distinct_model_codes: 88
+streets: 30
+units_note: '`units` counts the hyphen-separated parts of the civic number, per the Part 4 brief (2961-65-67-69-71-73
+  → 6). Two-part entries such as 2759-2763 may denote either two dwellings or a range covering the odd
+  numbers between; the document does not say which, so they are counted as two.'
+families:
+- letter: A
+  models:
+  - A01
+  - A02
+  - A03
+  - A04
+  - A05
+  - A06
+  - A07
+  - A08
+  model_count: 8
+  addresses: 96
+  multi_unit_addresses: 4
+  max_units: 4
+  streets:
+  - Boulevard Mellon
+  - Rue Berthier
+  - Rue Brittany
+  - Rue Davy
+  - Rue Deville
+  - Rue Edison
+  - Rue Faraday
+  - Rue Hare
+  - Rue Lavoisier
+  - Rue Moissan
+  - Rue Moritz
+  - Rue Oersted
+  - Rue Wohler
+- letter: B
+  models:
+  - B01
+  - B02
+  - B03
+  - B04
+  model_count: 4
+  addresses: 64
+  multi_unit_addresses: 7
+  max_units: 2
+  streets:
+  - Boulevard Mellon
+  - Rue Berthier
+  - Rue Brittany
+  - Rue Davy
+  - Rue Deville
+  - Rue Edison
+  - Rue Faraday
+  - Rue Hare
+  - Rue La Traverse
+  - Rue Lavoisier
+  - Rue Moissan
+  - Rue Moritz
+  - Rue Oersted
+  - Rue Wohler
+- letter: C
+  models:
+  - C01
+  - C02
+  - C03
+  - C04
+  - C05
+  - C06
+  model_count: 6
+  addresses: 35
+  multi_unit_addresses: 5
+  max_units: 2
+  streets:
+  - Boulevard Mellon
+  - Rue Davy
+  - Rue Deville
+  - Rue Edison
+  - Rue Faraday
+  - Rue Hare
+  - Rue La Traverse
+  - Rue Lavoisier
+  - Rue Moissan
+  - Rue Moritz
+  - Rue Oersted
+  - Rue Wohler
+- letter: D
+  models:
+  - D01
+  - D02
+  - D03
+  - D04
+  - D05
+  model_count: 5
+  addresses: 41
+  multi_unit_addresses: 3
+  max_units: 2
+  streets:
+  - Boulevard Mellon
+  - Rue Berthier
+  - Rue Brittany
+  - Rue Davy
+  - Rue Deville
+  - Rue Edison
+  - Rue Faraday
+  - Rue Fickes
+  - Rue Hare
+  - Rue Lavoisier
+  - Rue Moissan
+  - Rue Moritz
+  - Rue Oersted
+  - Rue Wohler
+- letter: E
+  models:
+  - E01
+  - E04
+  model_count: 2
+  addresses: 5
+  multi_unit_addresses: 0
+  max_units: 1
+  streets:
+  - Rue La Traverse
+- letter: F
+  models:
+  - F01
+  - F02
+  - F03
+  - F04
+  - F05
+  - F06
+  - F07
+  - F08
+  - F09
+  - F10
+  - F11
+  - F12
+  - F13
+  - F14
+  - F15
+  - F16
+  - F18
+  model_count: 17
+  addresses: 98
+  multi_unit_addresses: 78
+  max_units: 3
+  streets:
+  - Boulevard Mellon
+  - Boulevard du Saguenay
+  - Rue Berthier
+  - Rue Brittany
+  - Rue Coulomb
+  - Rue De Normandie
+  - Rue Deville
+  - Rue Edison
+  - Rue Faraday
+  - Rue Fickes
+  - Rue Geoffrion
+  - Rue Hare
+  - Rue Hoopes
+  - Rue La Traverse
+  - Rue Moissan
+  - Rue Montgomery
+  - Rue Neilson
+  - Rue Oersted
+  - Rue Ohm
+  - Rue Powell
+  - Rue Salter
+- letter: G
+  models:
+  - G01
+  - G02
+  - G03
+  - G04
+  model_count: 4
+  addresses: 8
+  multi_unit_addresses: 6
+  max_units: 2
+  streets:
+  - Rue Castner
+  - Rue Coulomb
+  - Rue Héroult
+  - Rue La Traverse
+- letter: H
+  models:
+  - H01
+  - H02
+  - H03
+  model_count: 3
+  addresses: 9
+  multi_unit_addresses: 1
+  max_units: 2
+  streets:
+  - Rue Castner
+  - Rue Geoffrion
+  - Rue La Traverse
+  - Rue Neilson
+- letter: J
+  models:
+  - J01
+  - J02
+  - J03
+  - J04
+  model_count: 4
+  addresses: 4
+  multi_unit_addresses: 0
+  max_units: 1
+  streets:
+  - Rue La Traverse
+  - Rue Montgomery
+- letter: K
+  models:
+  - K01
+  - K02
+  - K03
+  model_count: 3
+  addresses: 6
+  multi_unit_addresses: 0
+  max_units: 1
+  streets:
+  - Rue Coulomb
+  - Rue La Traverse
+- letter: L
+  models:
+  - L01
+  model_count: 1
+  addresses: 1
+  multi_unit_addresses: 0
+  max_units: 1
+  streets:
+  - Rue Coulomb
+- letter: M
+  models:
+  - M01
+  - M02
+  - M03
+  - M04
+  - M05
+  - M06
+  - M07
+  - M08
+  - M09
+  - M11
+  - M97
+  model_count: 11
+  addresses: 30
+  multi_unit_addresses: 1
+  max_units: 2
+  streets:
+  - Boulevard du Saguenay
+  - Rue Berthier
+  - Rue Castner
+  - Rue Coulomb
+  - Rue Fickes
+  - Rue Neilson
+  - Rue Parks
+  - Rue Powell
+- letter: N
+  models:
+  - N
+  model_count: 1
+  addresses: 4
+  multi_unit_addresses: 1
+  max_units: 2
+  streets:
+  - Boulevard du Saguenay
+  - Rue Lavoisier
+- letter: P
+  models:
+  - P01
+  - P02
+  - P03
+  model_count: 3
+  addresses: 20
+  multi_unit_addresses: 19
+  max_units: 2
+  streets:
+  - Boulevard Mellon
+  - Boulevard du Saguenay
+  - Rue Neilson
+  - Rue Powell
+- letter: Q
+  models:
+  - Q
+  - Q02
+  model_count: 2
+  addresses: 12
+  multi_unit_addresses: 10
+  max_units: 2
+  streets:
+  - Boulevard du Saguenay
+  - Rue Berthier
+  - Rue Coulomb
+  - Rue Fickes
+  - Rue Geoffrion
+  - Rue Neilson
+  - Rue Powell
+- letter: R
+  models:
+  - R02
+  - R03
+  - R04
+  model_count: 3
+  addresses: 10
+  multi_unit_addresses: 10
+  max_units: 6
+  streets:
+  - Rue Berthier
+  - Rue De Normandie
+  - Rue Geoffrion
+  - Rue Powell
+- letter: S
+  models:
+  - S01
+  - S02
+  - S03
+  - S04
+  model_count: 4
+  addresses: 14
+  multi_unit_addresses: 0
+  max_units: 1
+  streets:
+  - Boulevard Mellon
+  - Rue Brittany
+  - Rue Castner
+  - Rue Montgomery
+  - Rue Parks
+- letter: T
+  models:
+  - T
+  - T03
+  - T05
+  - T06
+  - T07
+  model_count: 5
+  addresses: 33
+  multi_unit_addresses: 5
+  max_units: 2
+  streets:
+  - Boulevard du Saguenay
+  - Rue Berthier
+  - Rue Brittany
+  - Rue Fickes
+  - Rue Geoffrion
+  - Rue Hoopes
+  - Rue Joule
+  - Rue Montgomery
+  - Rue Neilson
+  - Rue Parks
+  - Rue Powell
+- letter: Y
+  models:
+  - Y
+  model_count: 1
+  addresses: 1
+  multi_unit_addresses: 1
+  max_units: 2
+  streets:
+  - Rue De Normandie
+- letter: Z
+  models:
+  - Z
+  model_count: 1
+  addresses: 1
+  multi_unit_addresses: 1
+  max_units: 3
+  streets:
+  - Rue De Normandie

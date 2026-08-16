@@ -108,3 +108,21 @@
   name_en: Two-storey detached brick cottage, several gables, gabled entrance porch, false half-timbering, diamond-leaded casements
   definition_en: Two-storey detached brick cottage with several gables, a gabled entrance porch, false half-timbering and diamond-leaded casements.
   members: []
+
+# ---- Part 4a additions (Arvida) ----
+- id: company-cottage-detached-wood-1926
+  name_en: Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D
+  definition_en: Detached wood-frame company house on a concrete foundation, pitched roof with dormers and an entrance porch; the 1926 Arvida families A–D.
+  members: []
+- id: company-semi-detached-1940s
+  name_en: Semi-detached company house of the 1940s, wood-frame, pitched roof
+  definition_en: Semi-detached company house of the 1940s, wood-framed under a pitched roof, two dwellings per building.
+  members: []
+- id: company-row-1940s
+  name_en: Row of four to six company dwellings, 1940s
+  definition_en: Row of four to six company dwellings under one roof, 1940s.
+  members: []
+- id: wartime-housing-prefab
+  name_en: Wartime Housing Ltd prefabricated panel house, 1½ storeys, originally on cedar posts
+  definition_en: Wartime Housing Ltd prefabricated panel house of 1½ storeys, pre-cut frame and panels, originally set on cedar posts.
+  members: []

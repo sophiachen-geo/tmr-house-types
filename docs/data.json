@@ -3,6 +3,788 @@
  "part": 1,
  "types": [
   {
+   "id": "arvida.family-a",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p1",
+   "phase_label": "1925–1930",
+   "phase_years": "1925 – 1930",
+   "phase_title": "Foundation and the city built in 135 days",
+   "name_en": "Family A company houses (models A1–A8)",
+   "name_fr": "Maisons de compagnie de la famille A (modèles A1 à A8)",
+   "source_ref": "Ville de Saguenay, Modèles des maisons arvidiennes (2014); arvida.saguenay.ca, model A1 catalogue page; Morisset 2022 (print)",
+   "canonical": [
+    "company-cottage-detached-wood-1926"
+   ],
+   "canonical_names": [
+    "Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D"
+   ],
+   "styles": [
+    "regionalist-neo-vernacular",
+    "colonial-revival"
+   ],
+   "style_names": [
+    "Regionalist / neo-vernacular French-Canadian (Arvida)",
+    "Colonial Revival (New England / Cape Cod)"
+   ],
+   "style_label": "Regionalist / neo-vernacular French-Canadian (Arvida) / Colonial Revival (New England / Cape Cod)",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Set back on the curving tree-lined streets of the 1926 core around parc Oersted (rues Davy, Deville, Moritz, Hare, Wohler, Oersted, Moissan, Edison, Faraday, boulevard Mellon, rue Lavoisier).",
+     "Concrete foundations from the outset (\"a symbol of permanence\")."
+    ],
+    "massing": [
+     "Model A1 (documented): a detached house whose roofline includes dormers; plan reorganised under Harold R. Wake so that a kitchen-family room replaces the separate dining and living rooms and adjoins two ground-floor bedrooms."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Only A1 is documented online (photograph and floor plans reproduced from the company's late-1920s \"Townsite Houses\" catalogue). Storeys, cladding, window type and the A2–A8 variants await Morisset's album (Part 4b). Do not fill from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A07",
+    "A08"
+   ],
+   "phase_confidence": "verified",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The first-phase house: one of the standard models of the summer of 1926, re-drawn by Wake to fit French-Canadian family life (a big kitchen instead of parlour and dining room), varied from house to house by dormers, porches and roof details so that, in the City's phrase, \"not a single house was built that resembles its neighbour\".",
+   "origin_en": "Brainerd's New York-inspired type plans were \"rationalised\" on site by the engineer Harold R. Wake, who adapted them to Québec's climate and household size; the CPCQ dossier speaks of \"quatre modèles types\" enabling the 270 houses of 1926 in 135 days, with variety obtained through dormers, balconies and roofs. The address list is consistent with families A–D being that first set: on the 1926 streets almost every entry is an A, B, C or D code.",
+   "photo": {
+    "file": null,
+    "credit": "pending: the model A1 catalogue page is published by arvida.saguenay.ca, whose legal notice reserves all rights (see sources/arvida/MANIFEST.md); not reproduced here",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family A company houses (models A1–A8) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
+   },
+   "url": "types/arvida.family-a/"
+  },
+  {
+   "id": "arvida.family-b",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p1",
+   "phase_label": "1925–1930",
+   "phase_years": "1925 – 1930",
+   "phase_title": "Foundation and the city built in 135 days",
+   "name_en": "Family B company houses (models B1–B4)",
+   "name_fr": "Maisons de compagnie de la famille B (modèles B1 à B4)",
+   "source_ref": "Ville de Saguenay, Modèles des maisons arvidiennes (2014); Morisset 2022 (print)",
+   "canonical": [
+    "company-cottage-detached-wood-1926"
+   ],
+   "canonical_names": [
+    "Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D"
+   ],
+   "styles": [
+    "regionalist-neo-vernacular",
+    "colonial-revival"
+   ],
+   "style_names": [
+    "Regionalist / neo-vernacular French-Canadian (Arvida)",
+    "Colonial Revival (New England / Cape Cod)"
+   ],
+   "style_label": "Regionalist / neo-vernacular French-Canadian (Arvida) / Colonial Revival (New England / Cape Cod)",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "B01 and B02 run through the 1926 core — rues Berthier, Brittany, Davy, Deville, Edison, Faraday, Hare, Lavoisier, Moissan, Moritz, Oersted and Wohler and boulevard Mellon — interleaved with the A models; B01 also appears once on rue La Traverse.",
+     "B03 and B04 occur only on rue La Traverse, a later street."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Family not documented online; see Part 4b. Tenure is single-family for most entries, but the address list also shows paired civic numbers (2746-48 B01, 2769-71 B02, 1846-48 B02, 1852-54 B01, 1863-65 B01), so some B models were built as pairs. Roof form, storeys, cladding and openings await Morisset's album; nothing here is taken from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "B01",
+    "B02",
+    "B03",
+    "B04"
+   ],
+   "phase_confidence": "verified",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The second of the 1926 model families: B01 and B02 are scattered through the first streets around parc Oersted, while B03 and B04 appear only later, on rue La Traverse.",
+   "origin_en": "One of the standardised models of the first construction phase, from Brainerd's type plans as reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no photograph of a documented B model is available under a reusable licence",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family B company houses (models B1–B4) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
+   },
+   "url": "types/arvida.family-b/"
+  },
+  {
+   "id": "arvida.family-c",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p1",
+   "phase_label": "1925–1930",
+   "phase_years": "1925 – 1930",
+   "phase_title": "Foundation and the city built in 135 days",
+   "name_en": "Family C company houses (models C1–C6)",
+   "name_fr": "Maisons de compagnie de la famille C (modèles C1 à C6)",
+   "source_ref": "Ville de Saguenay, Modèles des maisons arvidiennes (2014); Morisset 2022 (print)",
+   "canonical": [
+    "company-cottage-detached-wood-1926"
+   ],
+   "canonical_names": [
+    "Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D"
+   ],
+   "styles": [
+    "regionalist-neo-vernacular",
+    "colonial-revival"
+   ],
+   "style_names": [
+    "Regionalist / neo-vernacular French-Canadian (Arvida)",
+    "Colonial Revival (New England / Cape Cod)"
+   ],
+   "style_label": "Regionalist / neo-vernacular French-Canadian (Arvida) / Colonial Revival (New England / Cape Cod)",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Through the 1926 core: rues Davy, Deville, Edison, Faraday, Hare, Lavoisier, Moissan, Moritz, Oersted and Wohler and boulevard Mellon.",
+     "C05 occurs only on rue La Traverse, a later street; C06 only on rue Faraday."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Family not documented online; see Part 4b. As with family B, paired civic numbers show that some C models were built as pairs (2756-60 C04, 2779-81 C02, 1820-22 C01, 1844-46 C04, 2854-58 C06). Roof form, storeys, cladding and openings await Morisset's album; nothing here is taken from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05",
+    "C06"
+   ],
+   "phase_confidence": "verified",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The third 1926 family, six models spread across the first streets, with C05 turning up only later on rue La Traverse.",
+   "origin_en": "One of the standardised models of the first construction phase, from Brainerd's type plans as reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no photograph of a documented C model is available under a reusable licence",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family C company houses (models C1–C6) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
+   },
+   "url": "types/arvida.family-c/"
+  },
+  {
+   "id": "arvida.family-d",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p1",
+   "phase_label": "1925–1930",
+   "phase_years": "1925 – 1930",
+   "phase_title": "Foundation and the city built in 135 days",
+   "name_en": "Family D company houses (models D1–D5)",
+   "name_fr": "Maisons de compagnie de la famille D (modèles D1 à D5)",
+   "source_ref": "Ville de Saguenay, Modèles des maisons arvidiennes (2014); Morisset 2022 (print)",
+   "canonical": [
+    "company-cottage-detached-wood-1926"
+   ],
+   "canonical_names": [
+    "Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D"
+   ],
+   "styles": [
+    "regionalist-neo-vernacular",
+    "colonial-revival"
+   ],
+   "style_names": [
+    "Regionalist / neo-vernacular French-Canadian (Arvida)",
+    "Colonial Revival (New England / Cape Cod)"
+   ],
+   "style_label": "Regionalist / neo-vernacular French-Canadian (Arvida) / Colonial Revival (New England / Cape Cod)",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Through the 1926 core: rues Berthier, Brittany, Davy, Deville, Edison, Hare, Lavoisier, Moissan, Moritz, Oersted and Wohler and boulevard Mellon.",
+     "D03 and D04 occur only on rue Faraday; D05 only on rue Fickes, a later street."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Family not documented online; see Part 4b. Paired civic numbers (1760-62 D02, 2798-2800 D01, 2802-04 D01) show that some D models were built as pairs. Roof form, storeys, cladding and openings await Morisset's album; nothing here is taken from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05"
+   ],
+   "phase_confidence": "verified",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The fourth 1926 family: five models, two of them (D03, D04) confined to rue Faraday and one (D05) to the later rue Fickes.",
+   "origin_en": "One of the standardised models of the first construction phase, from Brainerd's type plans as reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no photograph of a documented D model is available under a reusable licence",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family D company houses (models D1–D5) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
+   },
+   "url": "types/arvida.family-d/"
+  },
+  {
+   "id": "arvida.family-m",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p4",
+   "phase_label": "1941–1950",
+   "phase_years": "1941 – 1950",
+   "phase_title": "War boom",
+   "name_en": "Family M houses (models M1–M11), regionalist neo-vernacular",
+   "name_fr": "Maisons de la famille M (modèles M1 à M11)",
+   "source_ref": "Ville de Saguenay address list (2014); Morisset, fig. 28 (M11, 1942, probably H. R. Wiggs); Inventaire des œuvres d'art de la province de Québec ('maison moderne de style canadien-français')",
+   "canonical": [
+    "company-cottage-detached-wood-1926"
+   ],
+   "canonical_names": [
+    "Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D"
+   ],
+   "styles": [
+    "regionalist-neo-vernacular",
+    "quebec-revival"
+   ],
+   "style_names": [
+    "Regionalist / neo-vernacular French-Canadian (Arvida)",
+    "Québec Revival (maison canadienne)"
+   ],
+   "style_label": "Regionalist / neo-vernacular French-Canadian (Arvida) / Québec Revival (maison canadienne)",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Rues Neilson, Fickes, Castner, Parks, Berthier, Coulomb, boulevard du Saguenay (Taschereau): the sectors filled during the war boom north and east of the 1926 core."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "M11 is documented as a 1942 neo-vernacular house 'probably from plans by architect Henry Ross Wiggs', catalogued at the time as a 'modern house in the French-Canadian style'. Other M models await Part 4b. The address list also carries one M97 entry (2912 rue Parks); models_observed reports the codes as parsed from the list.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "M01",
+    "M02",
+    "M03",
+    "M04",
+    "M05",
+    "M06",
+    "M07",
+    "M08",
+    "M09",
+    "M11",
+    "M97"
+   ],
+   "phase_confidence": "verified",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The wartime detached house in Arvida's regionalist manner: the French-Canadian farmhouse silhouette re-issued as a company model. M11 (1942) is the textbook example.",
+   "origin_en": "The 1940s phase drew on the regionalist current that the Manoir du Saguenay (Fetherstonhaugh & Durnford, 1939) and later the church of Saint-Jacques (Desgagné & Boileau, 1949) also express; the RPCQ statement singles out houses \"davantage dans l'esprit de l'architecture traditionnelle québécoise\" alongside those \"inspirées de formes populaires aux États-Unis\".",
+   "photo": {
+    "file": null,
+    "credit": "pending",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family M houses (models M1–M11), regionalist neo-vernacular houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay address list (2014); Morisset"
+   },
+   "url": "types/arvida.family-m/"
+  },
+  {
+   "id": "arvida.family-f",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p4",
+   "phase_label": "1941–1950",
+   "phase_years": "1941 – 1950",
+   "phase_title": "War boom",
+   "name_en": "Family F semi-detached houses (models F1–F18)",
+   "name_fr": "Maisons jumelées de la famille F (modèles F1 à F18)",
+   "source_ref": "Ville de Saguenay address list (2014)",
+   "canonical": [
+    "company-semi-detached-1940s"
+   ],
+   "canonical_names": [
+    "Semi-detached company house of the 1940s, wood-frame, pitched roof"
+   ],
+   "styles": [
+    "minimal-traditional",
+    "regionalist-neo-vernacular"
+   ],
+   "style_names": [
+    "Minimal Traditional",
+    "Regionalist / neo-vernacular French-Canadian (Arvida)"
+   ],
+   "style_label": "Minimal Traditional / Regionalist / neo-vernacular French-Canadian (Arvida)",
+   "tenure_plan": "semi-detached",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "F01–F03 occur singly on 1926-core streets (Deville, Faraday, Moissan, Berthier); F04–F18 occur almost always as pairs (\"1727-31 F11\", \"1738-42 F14\") along rues Neilson, Powell, Hoopes, Fickes, Montgomery, Salter, Ohm — the war-era streets."
+    ],
+    "massing": [
+     "Two dwellings per building for F04 and above",
+     "as the paired civic numbers show."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Family not documented online. The single/paired split between low and high F numbers is an observation from the address list, not a published statement.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "F01",
+    "F02",
+    "F03",
+    "F04",
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "F11",
+    "F12",
+    "F13",
+    "F14",
+    "F15",
+    "F16",
+    "F18"
+   ],
+   "phase_confidence": "provisional",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The paired company house of the 1940s streets north of the core; eighteen numbered variants.",
+   "origin_en": "The war effort (Arvida the world's largest smelter in 1942) demanded housing fast; the company's own semi-detached models filled Powell, Neilson and Hoopes while Wartime Housing Ltd. put up 500 more prefabricated houses nearby.",
+   "photo": {
+    "file": null,
+    "credit": "pending",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family F semi-detached houses (models F1–F18) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay address list (2014)"
+   },
+   "url": "types/arvida.family-f/"
+  },
+  {
+   "id": "arvida.families-p-q-s-t",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p4",
+   "phase_label": "1941–1950",
+   "phase_years": "1941 – 1950",
+   "phase_title": "War boom",
+   "name_en": "Families P, Q, S and T (paired and single models along boulevard du Saguenay and rues Powell, Neilson, Berthier, Parks, Joule)",
+   "name_fr": "Familles P, Q, S et T",
+   "source_ref": "Ville de Saguenay address list (2014)",
+   "canonical": [
+    "company-semi-detached-1940s"
+   ],
+   "canonical_names": [
+    "Semi-detached company house of the 1940s, wood-frame, pitched roof"
+   ],
+   "styles": [
+    "minimal-traditional"
+   ],
+   "style_names": [
+    "Minimal Traditional"
+   ],
+   "style_label": "Minimal Traditional",
+   "tenure_plan": "mixed",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "P models are consistently paired or tripled (\"2755-2757 P03\", \"2759-2763 P01\", \"1749-1753 P03\") on boulevard du Saguenay (Taschereau) and rue Powell; Q02 paired (\"1755-59 Q02\", \"1858-62 Q02\", \"1863-67 Q02\"); S and T single (rues Brittany, Berthier, Castner, Parks, Joule, Neilson, Montgomery, Powell)."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Grouped record pending Morisset; split into four records in Part 4b. Two entries carry a bare Q and four a bare T (boulevard du Saguenay), with no model number in the document; models_observed reports the codes as parsed.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "P01",
+    "P02",
+    "P03",
+    "Q",
+    "Q02",
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "T",
+    "T03",
+    "T05",
+    "T06",
+    "T07"
+   ],
+   "phase_confidence": "provisional",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The later families of the boulevard du Saguenay and the streets east of Powell, part paired, part detached.",
+   "origin_en": "Same wartime and immediate postwar phase as F; see family F.",
+   "photo": {
+    "file": null,
+    "credit": "pending",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Families P, Q, S and T (paired and single models along boulevard du Saguenay and rues Powell, Neilson, Berthier, Parks, Joule) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay address list (2014)"
+   },
+   "url": "types/arvida.families-p-q-s-t/"
+  },
+  {
+   "id": "arvida.family-r",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p4",
+   "phase_label": "1941–1950",
+   "phase_years": "1941 – 1950",
+   "phase_title": "War boom",
+   "name_en": "Family R row houses (models R2–R4)",
+   "name_fr": "Maisons en rangée de la famille R (modèles R2 à R4)",
+   "source_ref": "Ville de Saguenay address list (2014); 'Row Houses', Canadian Builder, vol. III no 3, March 1953, p. 5 (cited in the City's bibliography)",
+   "canonical": [
+    "company-row-1940s"
+   ],
+   "canonical_names": [
+    "Row of four to six company dwellings, 1940s"
+   ],
+   "styles": [
+    "minimal-traditional"
+   ],
+   "style_names": [
+    "Minimal Traditional"
+   ],
+   "style_label": "Minimal Traditional",
+   "tenure_plan": "row",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Six-unit rows: \"2961-65-67-69-71-73 R04\", \"2970-72-74-76-80-82 R03\", \"1993-…-03 R02\", \"1750-54-58-62-66-70 R03\"; rues Berthier, Geoffrion, De Normandie, Powell."
+    ],
+    "massing": [
+     "Six dwellings per building",
+     "as the civic numbering shows."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Not documented online beyond the address list and a 1953 trade-press citation; Part 4b.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "R02",
+    "R03",
+    "R04"
+   ],
+   "phase_confidence": "provisional",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "Arvida's only rows: six-unit company terraces at the eastern edge of the historic quarter.",
+   "origin_en": "The last company housing before Alcan withdrew from municipal management in the early 1950s.",
+   "photo": {
+    "file": null,
+    "credit": "pending",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Family R row houses (models R2–R4) houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay address list (2014); 'Row Houses'"
+   },
+   "url": "types/arvida.family-r/"
+  },
+  {
+   "id": "arvida.families-e-g-h-j-k-l-n-y-z",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p3",
+   "phase_label": "1936–1941",
+   "phase_years": "1936 – 1941",
+   "phase_title": "Second phase — Barott houses",
+   "name_en": "Families E, G, H, J, K, L, N, Y and Z",
+   "name_fr": "Familles E, G, H, J, K, L, N, Y et Z",
+   "source_ref": "Ville de Saguenay, Modèles des maisons arvidiennes (2014)",
+   "canonical": [],
+   "canonical_names": [],
+   "styles": [],
+   "style_names": [],
+   "style_label": "",
+   "tenure_plan": "mixed",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Rue La Traverse carries E01, E04, H01, J01, J02, K01, K02, K03 and G01 — together with B03, B04 and C05, the models that appear nowhere in the 1926 core.",
+     "Rue Castner carries G02, G03, G04 and H02; rue Héroult G04; rue Coulomb G01, K01 and L01; rues Montgomery J03 and J04; rues Geoffrion and Neilson H03.",
+     "Rue De Normandie carries the single Y and Z entries; rue Lavoisier and boulevard du Saguenay the four N entries."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Grouped stub for the families the public record does not describe; to be split into separate records in Part 4b. The phase attribution is a hypothesis, not a finding: rue La Traverse and rue Castner lie between the 1926 core and the war-era streets, and no online source identifies the 1936–41 Barott houses by letter. Tenure is mixed and read from the civic numbering alone: G02, G03 and G04 are paired (1654-58, 1673-77, 1689-93, 1657-61, 2928-32, 2936-40), as are the single Y (1725-43) and Z (1739-41-43) entries, one H03 (1733-35 rue Neilson) and one N (2816-2820 boulevard du Saguenay); every other entry in these families is a single civic number. Codes are as parsed from the 2014 address list, which carries only E01 and E04 for family E (the Part 4 brief anticipated E01–E05) and bare N, Y and Z with no model number. No canonical form or style is assigned, and nothing has been entered from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "E01",
+    "E04",
+    "G01",
+    "G02",
+    "G03",
+    "G04",
+    "H01",
+    "H02",
+    "H03",
+    "J01",
+    "J02",
+    "J03",
+    "J04",
+    "K01",
+    "K02",
+    "K03",
+    "L01",
+    "N",
+    "Y",
+    "Z"
+   ],
+   "phase_confidence": "provisional",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The families the catalogue index cannot yet describe: twenty codes clustered on rue La Traverse, rue Castner and rue Coulomb, between the first streets of 1926 and the war-era additions.",
+   "origin_en": "Probably the second construction phase, which opened in early 1936 with houses by the Montréal architect Ernest Isbell Barott; no online source ties Barott's designs to particular model letters, so the attribution stays provisional until Morisset's album is read.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no photograph of a documented model in these families is available under a reusable licence",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Families E, G, H, J, K, L, N, Y and Z houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
+   },
+   "url": "types/arvida.families-e-g-h-j-k-l-n-y-z/"
+  },
+  {
+   "id": "arvida.wartime-housing",
+   "place": "arvida",
+   "place_name": "Arvida (borough of Jonquière, Saguenay)",
+   "phase": "p4",
+   "phase_label": "1941–1950",
+   "phase_years": "1941 – 1950",
+   "phase_title": "War boom",
+   "name_en": "Wartime Housing Ltd. houses",
+   "name_fr": "Maisons de la Wartime Housing Limited",
+   "source_ref": "Ville de Saguenay, arvida.saguenay.ca, 'The Second World War'",
+   "canonical": [
+    "wartime-housing-prefab"
+   ],
+   "canonical_names": [
+    "Wartime Housing Ltd prefabricated panel house, 1½ storeys, originally on cedar posts"
+   ],
+   "styles": [
+    "minimal-traditional"
+   ],
+   "style_names": [
+    "Minimal Traditional"
+   ],
+   "style_label": "Minimal Traditional",
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "More than 500 built in Arvida during the war; most acquired by the company; in 1949 lifted and set on concrete foundations."
+    ],
+    "massing": [
+     "Single-family, minimalist; frame, roof and walls pre-cut and prefabricated in panels so the house could be dismantled and re-erected elsewhere.",
+     "Originally on cedar posts (pillars), later on concrete foundations."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Wood frame and panels."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Not part of the 88 company models; included because the site's 1940s streets contain them and the City documents them. Storey count is the standard Wartime Housing type; confirm locally.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [],
+   "phase_confidence": "verified",
+   "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
+   "blurb_en": "The federal Crown corporation's prefab, dropped by the hundred around the smelter in the war years and then bought, jacked up and given proper foundations by the company in 1949 so they would stay.",
+   "origin_en": "Wartime Housing Limited (1941–47) built temporary workers' housing across Canada; in Arvida the aluminium company, \"interested in conserving, or even developing a dense image of the city of aluminum\", acquired most of them and made them permanent.",
+   "photo": {
+    "file": null,
+    "credit": "pending: the 1949 photograph (Société historique du Saguenay, P002,S7,SS1,P02794-2) is published by arvida.saguenay.ca under an all-rights-reserved notice; not reproduced here",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Wartime Housing Ltd. houses houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
+   },
+   "url": "types/arvida.wartime-housing/"
+  },
+  {
    "id": "mount-royal.garden-city",
    "place": "mount-royal",
    "place_name": "Town of Mount Royal",
@@ -87,6 +869,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "The founding house type of TMR. When Frederick Todd laid out the town in 1912 he was borrowing directly from Ebenezer Howard's Garden City movement, and the first houses near the station borrowed the movement's architecture too: the English Arts-and-Crafts cottage of Letchworth and Hampstead Garden Suburb. Look for steep 45° gables, a brick ground floor with stucco or half-timbering above, small-paned windows, and a deliberately picturesque, asymmetrical silhouette that reads as a cottage in a garden rather than a house on a street.",
    "origin_en": "The Garden City movement's architecture as well as its planning. Ebenezer Howard's 1898 tract produced Letchworth (Parker & Unwin, 1903) and Hampstead Garden Suburb (1907), and their house vocabulary, itself drawn from Voysey, Baillie Scott and the English cottage, travelled with the idea: steep gables, roughcast or half-timbered upper storeys over brick, small-paned casements, picturesque asymmetry, the house read as a cottage in a garden. The by-law's Garden City House is this, with the 45° roof, stucco-and-timber upper floor and small brick module written out as criteria.",
@@ -176,6 +960,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "“Faubourien” refers to the vernacular of Montreal's old inner suburbs (the faubourgs): a plain two-storey brick box, flat or hipped roof, sometimes a false mansard, and a front verandah on wooden columns. In TMR the type is what the Plateau or Rosemont row house becomes when it is given its own lot, a side driveway and a lawn. Its virtue is restraint: symmetry, aligned windows, one material.",
    "origin_en": "<em>Faubourien</em> points to the <em>maison de faubourg</em>, the plain brick house of Québec's nineteenth-century inner suburbs: two or three storeys, flat or false-mansard roof, aligned openings, minimal ornament, a front gallery on wooden posts. Montreal's Plateau PIIA uses the same term for its own housing stock. In TMR the type is what that urban house becomes on a detached or semi-detached lot with a side driveway; several examples take on the cubic mass and hipped roof of the American Foursquare, which was being built across Canada in the same years.",
@@ -266,6 +1052,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "The interwar Montreal walk-up, three storeys of red brick under a flat roof, with a decorated parapet, a stone base, patterned brickwork and a prominent entrance portico. Balconies with iron or stone railings give the façade its rhythm. These sit on the town's few multi-family lots and are the collective sibling of the faubourg house.",
    "origin_en": "Three-storey brick apartment houses of the 1920s and 30s, Montreal's standard multi-family building of the period. This is where <strong>Art Deco</strong> actually lives in TMR: stepped and decorated parapets, geometric brick panels, artificial-stone entrance surrounds, iron balcony rails with angular motifs. Héritage Montréal describes the same repertoire on 1920s Montreal plexes (dark brick, artificial-stone insertions around doors and windows, appliqués with geometric forms). The by-law absorbs it as \"distinctive brick motifs and bonds\" and \"a body crowned by a brick motif and a parapet\" rather than naming the style.",
@@ -358,6 +1146,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "A 1930s–50s revival of the 18th-century Quebec farmhouse: a steep roof whose eaves flare out into “larmiers” that shelter the front door, a row of dormers, fieldstone walls, and a calm symmetrical front. It was the domestic face of a broader interwar interest in Québécois heritage. The distinctive move is the roof, which is asked to express the base of the house through its overhang.",
    "origin_en": "A regionalist revival of the eighteenth-century Laurentian farmhouse: bell-cast roof whose eaves flare into <em>larmiers</em> sheltering the door, a row of dormers, fieldstone walls, a calm symmetrical front. The Canadian Encyclopedia locates its source in the anglophone rediscovery of pre-industrial Québec during the 1920s–30s, stimulated by Clarence Gagnon's paintings and encouraged by Percy Nobbs and Ramsay Traquair at McGill, whose surveys of old Québec buildings fed a fashion for fieldstone and pitched roofs among the province's leading domestic architects. TMR's Canadian houses are the suburban, builder-scale version of that fashion.",
@@ -453,6 +1243,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "Colonial Revival as it arrived from the American Northeast: a long, simple gabled rectangle with its broad side to the street, symmetrical windows, dormers set halfway up the roof, and a discreet canopy over the front door. Brick or stone below, clapboard or stucco above. It is quieter than the Georgian house, and the by-law wants it kept quiet: bay windows are the only projections allowed.",
    "origin_en": "A long side-gabled rectangle with its broad face to the street, symmetrical openings, dormers half-way up the roof, a discreet door canopy; brick or stone below and clapboard or stucco above. It is the New England colonial house as codified in 1920s–40s pattern books and builders' plan services, the quieter cousin of Georgian Revival. The by-law keeps it quiet: bay windows are the only projections it allows.",
@@ -540,6 +1332,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "Low-rise red-brick apartment courts arranged in U or L plans around a green forecourt, with steep gables, dormers and the occasional turret. A stone base and stone string courses tie them to the collegiate-Tudor mood of the interwar decades. Entrances are marked by a distinct architectural element rather than a big portico.",
    "origin_en": "Low-rise red-brick apartment blocks in U or L plans around a green forecourt, with stone bases, stone string courses, steep gables, dormers and the occasional turret. The idiom is the residential cousin of interwar school and college architecture, and of the \"garden apartment\" courts built across North America in the 1930s–40s. The by-law's \"New England (collective)\" label is looser than the architecture: these blocks are more Tudor than New England.",
@@ -634,6 +1428,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "Georgian Revival: the most formal of TMR's houses. A red-brick box of two full storeys, three or five bays wide, with a central door flanked by pilasters and topped by an elaborate crown, sash windows with small panes, and a frieze under a moderately pitched hip or side-gabled roof. Symmetry is the whole point; the by-law lets you emphasise the central bay with a slight projection and a pediment, and nothing more.",
    "origin_en": "The formal wing of Colonial Revival. Two full storeys of red brick, three or five bays, a central door with pilasters and an entablature or pediment, sash windows with small panes, a frieze under a moderately pitched hip or side-gable roof. Symmetry is the whole point; the by-law permits one flourish, a slightly projected central bay under a pediment, and nothing else. In Canada the style carried an Imperial-loyalist inflection that made it a natural fit for a town founded and first settled by anglophones.",
@@ -729,6 +1525,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "Tudor Revival, TMR's most romantic type: steep 45° roofs broken into several gables, a natural-stone ground floor with brick or half-timbered stucco above, patterned brickwork (herringbone, Dutch bond), small-paned casements, sometimes a round turret at the entrance. Where the Georgian house is symmetrical, the manor is deliberately picturesque, and its garage is meant to hide.",
    "origin_en": "The by-law's \"English manor\" is Tudor Revival by any other name: stone ground floor with brick or stucco-and-timber above, patterned brick (herringbone, Dutch bond), 45° multi-gabled roofs, small-paned casements, sometimes a round entrance turret. In North America the style peaked in the 1920s–30s and lingered into the 1940s; its Montreal fashion was strongest in the anglophone west end and suburbs. Tudor detailing also surfaces on some Phase 1 Garden City houses, which is why the two types share the half-timbered gable.",
@@ -821,6 +1619,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "The postwar ranch bungalow: one storey, long and low, with a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, and big undivided windows wider than they are tall. Buff (“chamois”) brick or stone, black shingles, a wide driveway. The type that arrived with the car and the last empty lots of the 1950s and 60s.",
    "origin_en": "One storey, long and low, a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, big undivided windows wider than tall, buff (\"chamois\") brick or stone, a wide driveway. In Québec usage <em>bungalow</em> simply means the postwar single-family suburban house; the form is the Ranch house that spread from the American Southwest after 1945 and became the default Canadian suburban dwelling of the 1950s–60s.",
@@ -915,6 +1715,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "In Quebec usage a “cottage” is simply a two-storey detached house, and this is its postwar version: a plain box under a low hip roof, stone or brick on the ground floor with stucco or siding above, garage built into the front, and a flat marquise over the door. A visible line at the ground-floor lintels or the upper sills divides base from body.",
    "origin_en": "In Québec real-estate usage a <em>cottage</em> is a two-storey detached house, as opposed to the one-storey bungalow; the OQLF notes the word's British origin and its earlier sense of an elegant, English-inspired country house. TMR's postwar cottage is a plain box: stone or brick base, stucco or siding above, low hip roof, integrated garage, flat <em>marquise</em> over the door, a horizontal line at the ground-floor lintels or upper sills dividing base from body. Some examples keep vestigial colonial detailing (Minimal Traditional); others, in cut stone with flat roofs and rounded or banded corners, are the town's clearest echo of <strong>Streamline Moderne</strong>.",
@@ -1008,6 +1810,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "Two volumes offset by half a storey: a one-storey wing beside a one-and-a-half-storey wing, with the garage tucked under the bedrooms and pushed forward, and a recessed entrance under the eaves. Salmon, buff or brown stone with wood or metal infill panels; both roofs share one low-pitched material. The interior stair does the work the façade shows.",
    "origin_en": "A plan type more than a style, dominant across North American suburbs from the mid-1950s: two volumes offset by half a storey, the garage under the bedrooms and pushed forward, a recessed entrance under the eaves. TMR's are dressed in Ranch and Contemporary materials, salmon, buff or brown stone with wood or metal infill panels, under one shared low-pitched roof.",
@@ -1102,6 +1906,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "Frank Lloyd Wright's Prairie idiom, filtered through 1960s Montreal: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked right under the eaves and running around the corners as ribbons, long “Roman” brick or long-cut stone, and one-storey wings (garage, porch, solarium) that stretch the composition sideways. Asymmetrical, and the most architect-driven of the phase-3 types.",
    "origin_en": "Frank Lloyd Wright's Prairie idiom of 1900–1915, revived and simplified in the 1950s–60s Contemporary house: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked under the eaves and wrapping the corners as ribbons, long \"Roman\" brick or long-cut stone, one-storey wings that stretch the composition sideways. Asymmetrical and the most architect-driven of the Phase 3 types; the by-law's insistence on the Roman brick module is the tell.",
@@ -1184,6 +1990,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": null,
    "blurb_en": "The 1950s–70s modernist apartment building: flat roof finished with a horizontal coping band, a set-back penthouse floor on top, balconies grouped into recessed loggias, wide undivided windows and a marquise over the door. Sand or red brick, often several brick colours on one façade. Parking goes underground; the front yard stays almost entirely green.",
    "origin_en": "Flat-roofed brick slabs of the 1950s–70s with a horizontal coping band, a set-back penthouse floor, loggia balconies and wide undivided windows, in sand or red brick and often several brick colours on one façade. The town's share of the postwar Modernism that lines Côte-des-Neiges and Sherbrooke; the earliest examples, with brick-and-stone banding, still carry a Streamline accent.",
@@ -1242,6 +2050,8 @@
    "profile_note": "Family 1 fiche not retrieved. The typomorphological study describes the villages period (1845–1880) as dominated by the attached single-family house, often built at the street line, with some rear-lot houses (later banned on hygienist grounds) and \"quelques maisons typiques de faubourg ouvrier, notamment dans l'ancien secteur du village des Carrières\"; survivors on rues de Bullion, Saint-Dominique, avenue Coloniale and rue Lagarde. Do not populate from Québec City's thesaurus.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The oldest surviving houses of the villages, small attached workers' houses at the street line.",
    "origin_en": "Villages period, 1845–1880; the earliest built layer of the borough.",
@@ -1319,6 +2129,8 @@
    "profile_note": "Fiche 4.1 only partially retrieved (search fragments). Volumetrie/ouvertures/matériaux columns pending.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The bourgeois villa of the Plateau's first decades: a free-standing stone house set back from the street, individually designed, now rare and often converted.",
    "origin_en": "Built for the well-to-do west of Saint-Laurent and south of avenue des Pins, then along Sherbrooke, Square Saint-Louis and Saint-Hubert; the family also includes a two-unit superposed variant that differs from the duplex by storeys per dwelling, uniform stone facing and richer ornament.",
@@ -1424,6 +2236,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The plainest and oldest plex: two superposed flats in a brick box built right on the sidewalk line, paired front doors at one end, an interior stair to the upper flat, and a moulded cornice as the only crown. Its three sub-variants add a small entrance balcony, rusticated stone facing, or a porte cochère.",
    "origin_en": "The duplex was the first housing type built in the borough under the large speculative subdivisions of the 1880s and belongs to the first construction boom of 1885–1891. It is the developer's product of the pre-1880 regime, before Montréal imposed the front setback: a simple rectangle of two flats, one over the other, that the later duplexes and the triplex all descend from.",
@@ -1530,6 +2344,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The same two-flat box pulled back a metre or two from the sidewalk, which is enough to raise the ground floor a few steps, hang a balcony over the porch and, very often, top the façade with a false mansard and dormers. This is the duplex most people picture: the one with the mansard.",
    "origin_en": "Around 1880 Montréal began applying building by-laws to the new districts: standardised lots and lanes, then a mandatory front setback and stone or brick cladding. The setback produced this variant. Its false-mansard crown is the Second Empire fashion of the 1870s–80s applied to a speculative type; the mansard is decorative (a fausse mansarde), not a full storey.",
@@ -1629,6 +2445,8 @@
    "profile_note": null,
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "Two flats, but the upper one now has its own door and its own stair climbing the front of the house. The façade turns symmetrical, doors in the middle, windows either side, and the cornice can give way to a brick parapet. It is the duplex learning the triplex's trick.",
    "origin_en": "Built from the same moment as the triplex (type 3.2) and the multiplex (3.3), i.e. the second boom of 1904–1914. The exterior stair is the direct consequence of the mandatory front setback: with the building pushed back, the stair to the upper dwelling could be moved outside and the interior floor area given back to the flats.",
@@ -1693,6 +2511,8 @@
    "profile_note": "Fiche 3.1 not yet retrieved. The typomorphological study describes it as rare in the borough, a transitional type between the duplex and the typical triplex, built around 1880 before the setback rule.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The rare early triplex whose stair is still inside: three flats behind one door, built before the front-setback rule pushed the stair outdoors.",
    "origin_en": "Transitional form of c. 1880 between the duplex and the exterior-stair triplex, per the Étude typomorphologique.",
@@ -1764,6 +2584,8 @@
    "profile_note": "Fiche 3.2 not yet retrieved; siting, massing and materials taken from the Étude typomorphologique and from the unité de paysage 4.7 fiche, which describe the same type. Articulation and openings left empty rather than inferred. Numbering caveat: the Sud-Ouest borough labels the same form \"type 2.6\"; codes are document-specific.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The Montréal triplex: three flats stacked in a three-storey brick front, the upper two reached by an outside stair, often the famous curving iron one, with balconies at each level and an L-shaped footprint that leaves a light-well at the back. It is the dominant building of the borough.",
    "origin_en": "The Étude typomorphologique calls the triplex \"la forme architecturale typique de ce secteur de Montréal\" and dates it to the second boom, 1904–1914, driven by housing demand and by municipal regulation: standard lots and lanes (1880), then the mandatory front setback and stone or brick cladding, which \"amènera la translation de l'escalier d'accès aux logements des étages supérieurs vers l'extérieur\". Réjean Legault (1989) is the standard scholarly account.",
@@ -1828,6 +2650,8 @@
    "profile_note": "Fiche 3.3 not yet retrieved. Cross-referenced in the duplex fiche as contemporary with the exterior-stair triplex (1904–14). Along boulevard Saint-Joseph an intermediate form between triplex and immeuble de rapport appeared: three-storey houses giving six flats a single interior entrance.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "Three storeys, more than three flats; the plex scaled up.",
    "origin_en": "Same boom as the exterior-stair triplex, 1904–1914.",
@@ -1897,6 +2721,8 @@
    "profile_note": "Fiche 4.2 not retrieved; the fiche states it was built during two development periods (text cut off). Square Saint-Louis, rue Cherrier and rue Saint-Hubert are the study's illustrated examples.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "Terraced bourgeois houses in stone, homogeneous by row, around Square Saint-Louis and along Cherrier and Saint-Hubert.",
    "origin_en": "Golden-age product for the middle class, 1885–1914; the study's \"demeures bourgeoises\".",
@@ -1971,6 +2797,8 @@
    "profile_note": "Fiche 5.1 partially retrieved; columns pending.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The interwar prestige apartment building in its compact form.",
    "origin_en": "The opening of the great boulevards in the first half of the twentieth century allowed high-density prestige housing; the édifices de rapport appeared mostly between the two wars on Saint-Joseph and avenue du Parc, in two variants distinguished by the presence or absence of an interior court.",
@@ -2051,6 +2879,8 @@
    "profile_note": "Fiche 5.2 partially retrieved; matériaux/ouvertures/traitement pending.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The U-plan apartment court of avenue du Parc, its forecourt open to the street.",
    "origin_en": "Same interwar moment as the compact block, on larger parcels.",
@@ -2120,6 +2950,8 @@
    "profile_note": "Fiche 5.3 partially retrieved.",
    "conservation": null,
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "A duplex-sized box holding two to four flats off one inside stair; postwar, and rare in the borough.",
    "origin_en": "Appeared mainly after the Second World War; little used in the Plateau. Post-1945 apartment buildings in general were replacement buildings built one by one across the territory, \"une rupture importante avec le paysage urbain existant\", often on vacant land along the railway.",
@@ -2230,6 +3062,8 @@
     "Do not overload with decorative elements."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The oldest houses in town: low stone farmhouses under a steep gable, later \"quebecised\" with a flared eave, more windows, a symmetrical front and a gallery. Almost nothing decorates them beyond a painted wooden surround, and the fiche wants it kept that way.",
    "origin_en": "The French-regime rural house of the seigneurie of La Prairie de la Magdeleine (the riverside strip known as Mouillepied), and its 19th-century synthesis with English neoclassicism, the maison traditionnelle québécoise, which \"domine le paysage bâti … de 1830 à 1880 environ\". Houses built under the French regime were often altered later to take on the Québécois traits.",
@@ -2333,6 +3167,8 @@
     "Do not raise foundations or change roof pitch; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "Two storeys under a mansard: the steep lower slope carries the dormers, the gallery has its own little roof, and the woodwork on dormers and eaves is where the money went. Sometimes the gable turns to face the street; sometimes a turret makes it bourgeois.",
    "origin_en": "Second Empire (Napoléon III, 1852–70) reached North America through the United States around 1870, first on public buildings, then on prosperous houses, then on modest ones for which \"son influence se limite au toit mansardé\", a roof whose broken slopes give more room upstairs for large families.",
@@ -2436,6 +3272,8 @@
     "Do not raise foundations or change pitches; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The town's signature Victorian: turrets, gables, oriels, a columned gallery, patterned shingles, everything asymmetrical and everything ornamented. Rarely textbook-pure in Saint-Lambert, but its vocabulary is everywhere on the streets laid out after 1889.",
    "origin_en": "One of the late-Victorian eclectic currents (with neo-Gothic, neo-Romanesque, neo-Tudor, neo-Renaissance), named after Queen Anne Stuart's reign (1665–1714) and characterised by \"effets ornementaux d'inspiration pittoresque et classique\". Its Saint-Lambert examples (Maison Desaulniers 1909, Maison O'Neill 1913) belong to the Anglo-Protestant streetcar-suburb build-out.",
@@ -2544,6 +3382,8 @@
     "Do not raise foundations or alter the false mansard's dimensions; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "A flat-roofed brick house wearing a mansard as a hat. Montréal builders bolted the steep lower slope of a Second Empire roof onto the front of a cheap Boomtown box, hung dormers half in the wall and half in the slope, and dressed the lot in turned wood. It sits at the head of the Boomtown family and links Saint-Lambert to Mount Royal's \"maison faubourienne\".",
    "origin_en": "\"Un amalgame intéressant entre la construction à toit plat avec couronnement et l'habitation à mansarde d'influence Second Empire\": from the late 19th century Montréal contractors combined the modernity and low cost of the flat-roofed Boomtown house with the elegance of the mansard, plating the brisis onto the façade as a crown. Like the true mansard house it ran out of steam from the 1910s.",
@@ -2644,6 +3484,8 @@
     "Do not raise foundations or add a pitched roof; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The plain workers' box of the industrial city, two storeys of brick under a flat roof, whose only vanity is its top edge: a fat cornice or a brick parapet, stepped, gabled, cut or patterned. What Mount Royal's by-law calls the faubourg house is this building on a suburban lot.",
    "origin_en": "\"Typiquement américain\", devised in the late 19th century to house workers fast and cheaply in the boom towns of the industrial United States; originally a low rear-sloping roof hidden by parapet or cornice, generalised to a true flat roof once roofing technology allowed, in the early 20th century.",
@@ -2745,6 +3587,8 @@
     "Do not raise foundations or change pitches; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The Four Square: a big brick cube under a pyramid roof, roomy enough for large families, cheap enough because its parts came by catalogue. Sober by nature; the porch woodwork, a brick pattern and the exposed rafter tails are its ornaments.",
    "origin_en": "Product of standardised materials and prefabricated components orderable by catalogue, hence \"abordable et facile à construire\", popular in village, town and country alike in the first decades of the 20th century.",
@@ -2851,6 +3695,8 @@
     "Do not raise foundations or change pitches; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "Low, broad and shingled or roughcast, with a roof that breaks into different slopes and a porch big enough to live on. Ornament is the structure itself: exposed rafters, a bit of half-timbering, brackets under the porch roof. Scattered rather than clustered in Saint-Lambert.",
    "origin_en": "Arts and Crafts (Morris, Ruskin) reached the United States and merged with Shingle Style and Craftsman, spread by mail-order plan catalogues; in Montréal it produced a return of English house types and of New France forms, but \"à Saint-Lambert, ce sont les modèles américains qui perpétuent le mouvement pittoresque\". Cousin of Mount Royal's Garden City house, hence the shared canonical type.",
@@ -2954,6 +3800,8 @@
     "Do not raise foundations or add a pitched roof; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The Montréal plex on the South Shore: stacked flats behind stacked galleries, outside stairs, a brick crown of cornice or parapet. Saint-Lambert's version is the fiche's own summary of what the Plateau's typology splits into duplex, triplex and multiplex.",
    "origin_en": "\"La densification des villes, au début du 20e siècle, entraîne la prolifération d'immeubles à logements multiples … une forme d'habitation populaire se développe à grande échelle à Montréal : le plex\", whose success in certain Montréal districts led promoters to build it in Saint-Lambert. For the type's genesis in the 1880s by-laws see the Plateau-Mont-Royal page.",
@@ -3057,6 +3905,8 @@
     "Do not raise foundations or change pitches; enlarge or add a garage at the side or rear, reduced in volume, same roof form, set back; never in front."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "Saint-Lambert's own house: a two-storey brick cottage with several gables, a gabled porch, a little false half-timbering, diamond-leaded casements and dormers half sunk into the eave, built by the hundred by one contractor between the Depression and 1951, and named for him only in the 1980s.",
    "origin_en": "Francis King (1884–1970), a carpenter of Polish origin who came to Montréal in 1906, settled in Saint-Lambert about 1931 and became one of its main builders. Between 1932 and 1951 he put up 70 to 100 houses of various styles chosen from the catalogues then in circulation, from neo-Tudor to postwar bungalows; the brick model \"dérivant des cottages anglais\" that stands out is what the town now calls the King Cottage. The 2019 study identifies five families of King houses (two-slope roof with Tudor porch; Tudor gable to the street; two-slope classical; hipped classical; bungalow).",
@@ -3165,6 +4015,8 @@
     "Do not raise foundations or change the roof form; side/rear reduced-volume additions only."
    ],
    "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The postwar house: bungalow or two-storey box, garage or carport built in, low or flat roof, big windows sized to the room behind them, glass block by the door, a massive chimney as the one vertical. No ornament; the mosaic of stone, brick and wood is the décor.",
    "origin_en": "Modernism via the Bauhaus and the Chicago School, reacting against ornament-laden historicism; its commonest domestic form, the bungalow, \"devenu le modèle d'habitation dominant après la Seconde Guerre mondiale\" with the baby boom, suburbanisation and easier access to property and the car. In Saint-Lambert some 700 houses went up in the five years after the war; Préville, created 1948 and annexed 3 May 1969, is the western extension of that boom.",

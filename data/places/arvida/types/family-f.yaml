@@ -1,0 +1,39 @@
+id: arvida.family-f
+place: arvida
+phase: p4
+phase_confidence: provisional       # by street (Neilson, Powell, Hoopes, Fickes, Montgomery, Salter, Ohm) and by pairing; to be confirmed against Morisset
+name_en: Family F semi-detached houses (models F1–F18)
+name_fr: Maisons jumelées de la famille F (modèles F1 à F18)
+source_ref: "Ville de Saguenay address list (2014)"
+canonical: [company-semi-detached-1940s]
+styles: [minimal-traditional, regionalist-neo-vernacular]
+tenure_plan: semi-detached
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [F01, F02, F03, F04, F05, F06, F07, F08, F09, F10, F11, F12, F13, F14, F15, F16, F18]
+profile:
+  siting_landscape:
+    - F01–F03 occur singly on 1926-core streets (Deville, Faraday, Moissan, Berthier); F04–F18 occur almost always as pairs ("1727-31 F11", "1738-42 F14") along rues Neilson, Powell, Hoopes, Fickes, Montgomery, Salter, Ohm — the war-era streets.
+  massing: [Two dwellings per building for F04 and above, as the paired civic numbers show.]
+  articulation: []
+  openings: []
+  materials: []
+profile_note: "Family not documented online. The single/paired split between low and high F numbers is an observation from the address list, not a published statement."
+blurb_en: The paired company house of the 1940s streets north of the core; eighteen numbered variants.
+origin_en: >-
+  The war effort (Arvida the world's largest smelter in 1942) demanded housing fast; the company's
+  own semi-detached models filled Powell, Neilson and Hoopes while Wartime Housing Ltd. put up 500
+  more prefabricated houses nearby.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 6

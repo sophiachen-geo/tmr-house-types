@@ -1,0 +1,43 @@
+id: arvida.wartime-housing
+place: arvida
+phase: p4
+phase_confidence: verified
+name_en: Wartime Housing Ltd. houses
+name_fr: Maisons de la Wartime Housing Limited
+source_ref: "Ville de Saguenay, arvida.saguenay.ca, 'The Second World War'"
+canonical: [wartime-housing-prefab]
+styles: [minimal-traditional]
+tenure_plan: single-family
+storeys: "1.5"
+roof: {form: gabled, pitch_deg: null}
+window_proportion: null
+principal_cladding: [wood]
+models_observed: []
+profile:
+  siting_landscape:
+    - More than 500 built in Arvida during the war; most acquired by the company; in 1949 lifted and set on concrete foundations.
+  massing:
+    - Single-family, minimalist; frame, roof and walls pre-cut and prefabricated in panels so the house could be dismantled and re-erected elsewhere.
+    - Originally on cedar posts (pillars), later on concrete foundations.
+  articulation: []
+  openings: []
+  materials: [Wood frame and panels.]
+profile_note: "Not part of the 88 company models; included because the site's 1940s streets contain them and the City documents them. Storey count is the standard Wartime Housing type; confirm locally."
+blurb_en: >-
+  The federal Crown corporation's prefab, dropped by the hundred around the smelter in the war years
+  and then bought, jacked up and given proper foundations by the company in 1949 so they would stay.
+origin_en: >-
+  Wartime Housing Limited (1941–47) built temporary workers' housing across Canada; in Arvida the
+  aluminium company, "interested in conserving, or even developing a dense image of the city of
+  aluminum", acquired most of them and made them permanent.
+photos: [{file: null, credit: "pending: the 1949 photograph (Société historique du Saguenay, P002,S7,SS1,P02794-2) is published by arvida.saguenay.ca under an all-rights-reserved notice; not reproduced here", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 10

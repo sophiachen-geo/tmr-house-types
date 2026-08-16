@@ -1,0 +1,20 @@
+## intro
+Arvida is the one place on this site whose types were drawn before the houses existed. In 1925 the Aluminum Company of America bought 2,400 hectares on the south bank of the Saguenay for a smelter and a town to serve it, named the town after its president (ARthur VIning DAvis), and had the New York architect Harry B. Brainerd, with the engineer Hjalmar E. Skougor, lay it out as a garden city with a City Beautiful centre: streets that follow the ground, parks in the grid, a green belt, and the plant at the heart of the plan, against the planning orthodoxy of the day but in line with Alcoa's American practice. The company's own engineer, Harold R. Wake, then stripped the plan of its more decorative ambitions and reworked Brainerd's New York type-plans for Québec winters and Québec families, and in the summer of 1926 the company raised 270 houses in 135 days from a small set of standardised models, varied by dormers, porches and roofs so that no two neighbours matched. Over three phases to 1950 the company built some 2,000 houses on more than a hundred models; the 88 built inside the present site patrimonial are the subject of Lucie K. Morisset's 2022 album, and their letter-and-number codes (A1, B2, M11, R4) are the town's typology. This page encodes the families of that catalogue as far as the public record allows.
+
+## phase:p1
+1925: land purchase, Aluminum Company of Canada created from the Northern Aluminum Company. 1926: Brainerd–Skougor plan; the smelter pours its first ingots; 270 houses on rues Deville, Davy, Moritz, Hare, Oersted, Wohler and Moissan in 135 days; the company obtains from Québec an amendment to the Cities and Towns Act allowing it to write landscape and architectural servitudes into the deeds. Building continues to the end of the decade with the first schools and churches.
+
+## phase:p2
+The Depression halts construction for nearly a decade; the company plants some 700 trees. Nothing new is built until 1936.
+
+## phase:p3
+Second phase from early 1936: houses by the Montréal architect Ernest Isbell Barott; the Saguenay Inn (Fetherstonhaugh & Durnford, 1939) sets the regionalist tone.
+
+## phase:p4
+The war makes Arvida the largest aluminium smelter in the world (1942) and a guarded "secret city". Housing follows: the company's semi-detached and row models on Powell, Neilson, Hoopes and Berthier; the regionalist detached houses of the M family (M11, 1942, probably by Henry Ross Wiggs); more than 500 Wartime Housing prefabs, later bought by the company and set on foundations (1949). In 1942 the company creates the Commission d'urbanisme d'Arvida (Frederick G. Todd presiding; Fetherstonhaugh a member) to draft a règlement d'urbanisme, one of Québec's first, adopted in 1950 in anticipation of selling the houses to residents.
+
+## phase:p5
+From the early 1950s residents build their own houses within the plan; the company withdraws from municipal management; the aluminium bridge (1950) is the phase's monument. Arvida merges into Jonquière in 1975 and into Saguenay in 2002.
+
+## notes
+Three numbers circulate: 88 models (those inside the declared site, Morisset 2022), "over 100" (Ville de Saguenay), 125–126 (Morisset in the 2018 press; Le Quotidien 2016) for the whole town of some 2,000 company houses. They are not contradictory; they count different perimeters. The letter families in the City's 2014 address list are the working typology here; their assignment to phases is verified for A–D (1926 streets), M (M11 dated 1942) and Wartime Housing, and provisional for the rest, pending the album. Nothing about elevations, materials or openings has been entered from photographs. Protection is layered as nowhere else on this site: company deed servitudes (1926), a Commission d'urbanisme (1942) and règlement (1950), municipal citations, a National Historic Site (2012), a UNESCO tentative-list bid not retained by Canada in 2017, and the provincial declaration (25 November 2018, 178 ha, 800+ buildings), under which any exterior work needs the Minister's authorisation and the City's PIIA and 20 renovation fiches guide owners.

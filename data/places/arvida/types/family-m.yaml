@@ -1,0 +1,42 @@
+id: arvida.family-m
+place: arvida
+phase: p4
+phase_confidence: verified          # M11 built 1942 (Morisset, fig. 28 in "Patrimony: the concept, the object, the memory")
+name_en: Family M houses (models M1–M11), regionalist neo-vernacular
+name_fr: Maisons de la famille M (modèles M1 à M11)
+source_ref: "Ville de Saguenay address list (2014); Morisset, fig. 28 (M11, 1942, probably H. R. Wiggs); Inventaire des œuvres d'art de la province de Québec ('maison moderne de style canadien-français')"
+canonical: [company-cottage-detached-wood-1926]     # provisional; revisit in 4b
+styles: [regionalist-neo-vernacular, quebec-revival]
+tenure_plan: single-family
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [M01, M02, M03, M04, M05, M06, M07, M08, M09, M11, M97]
+profile:
+  siting_landscape:
+    - "Rues Neilson, Fickes, Castner, Parks, Berthier, Coulomb, boulevard du Saguenay (Taschereau): the sectors filled during the war boom north and east of the 1926 core."
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: "M11 is documented as a 1942 neo-vernacular house 'probably from plans by architect Henry Ross Wiggs', catalogued at the time as a 'modern house in the French-Canadian style'. Other M models await Part 4b. The address list also carries one M97 entry (2912 rue Parks); models_observed reports the codes as parsed from the list."
+blurb_en: >-
+  The wartime detached house in Arvida's regionalist manner: the French-Canadian farmhouse silhouette
+  re-issued as a company model. M11 (1942) is the textbook example.
+origin_en: >-
+  The 1940s phase drew on the regionalist current that the Manoir du Saguenay (Fetherstonhaugh &
+  Durnford, 1939) and later the church of Saint-Jacques (Desgagné & Boileau, 1949) also express; the
+  RPCQ statement singles out houses "davantage dans l'esprit de l'architecture traditionnelle
+  québécoise" alongside those "inspirées de formes populaires aux États-Unis".
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 5

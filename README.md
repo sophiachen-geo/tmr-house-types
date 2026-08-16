@@ -15,7 +15,9 @@ URL when it is ready to deploy (Part 11, or on request).
 
 - `build.py` — loads and validates `data/`, renders the site into `docs/`
 - `data/canon/` — canonical vocabulary: forms, styles, glossary, section essays
-- `data/places/mount-royal/` — place record, phases, sources, prose, 13 type YAMLs
+- `data/places/<id>/` — place record, phases, sources, prose and one YAML per local type;
+  Arvida adds a parsed address list (`models_addresses.csv`) and derived
+  `model_families_summary.yaml`
 - `assets/places/mount-royal/` — photo strips from By-law 1449
 - `templates/` — Jinja2 templates + `base.css` + `app.js`
 - `docs/` — generated site (home + timeline, sections, place page, type pages,

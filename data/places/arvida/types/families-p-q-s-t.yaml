@@ -1,0 +1,36 @@
+id: arvida.families-p-q-s-t
+place: arvida
+phase: p4
+phase_confidence: provisional
+name_en: Families P, Q, S and T (paired and single models along boulevard du Saguenay and rues Powell, Neilson, Berthier, Parks, Joule)
+name_fr: Familles P, Q, S et T
+source_ref: "Ville de Saguenay address list (2014)"
+canonical: [company-semi-detached-1940s]
+styles: [minimal-traditional]
+tenure_plan: mixed
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [P01, P02, P03, Q, Q02, S01, S02, S03, S04, T, T03, T05, T06, T07]
+profile:
+  siting_landscape:
+    - P models are consistently paired or tripled ("2755-2757 P03", "2759-2763 P01", "1749-1753 P03") on boulevard du Saguenay (Taschereau) and rue Powell; Q02 paired ("1755-59 Q02", "1858-62 Q02", "1863-67 Q02"); S and T single (rues Brittany, Berthier, Castner, Parks, Joule, Neilson, Montgomery, Powell).
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: "Grouped record pending Morisset; split into four records in Part 4b. Two entries carry a bare Q and four a bare T (boulevard du Saguenay), with no model number in the document; models_observed reports the codes as parsed."
+blurb_en: The later families of the boulevard du Saguenay and the streets east of Powell, part paired, part detached.
+origin_en: Same wartime and immediate postwar phase as F; see family F.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 7

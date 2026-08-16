@@ -3,6 +3,7 @@
 <header><div class="wrap">
   <h1>Residential Architectural Styles of <em>{{ pl.name_en|esc }}</em></h1>
   {% for p in pl.prose.intro %}<p class="lede">{{ p }}</p>{% endfor %}
+  {% if pl.hero_photo %}<figure class="hero"><img src="{{ R }}{{ pl.hero_photo.file }}" width="{{ pl.hero_photo.w }}" height="{{ pl.hero_photo.h }}" alt="{{ pl.hero_photo.credit|esc }}"><figcaption>{{ pl.hero_photo.credit|esc }}</figcaption></figure>{% endif %}
   <div class="timeline">
     <div class="rail" role="img" aria-label="{{ pl.rail_aria }}" style="background:{{ pl.rail_gradient }}"></div>
     <div class="rail-years">{% for y in pl.rail_years %}<span>{{ y }}</span>{% endfor %}</div>
@@ -15,6 +16,24 @@
     </div>
   </div>
 </div></header>
+{% if pl.model_families %}
+<section class="notes" id="models"><div class="wrap">
+  <div class="kicker">Model families in the Sainte-Thérèse historic quarter</div>
+  <p>{{ pl.model_families.address_rows }} addresses, {{ pl.model_families.rows_with_model_code }} of them carrying a model code ({{ pl.model_families.rows_without_model_code }} blank in the source), across {{ pl.model_families.streets }} streets and {{ pl.model_families.distinct_model_codes }} distinct codes. Source: {{ pl.model_families.source|esc }}. Full list: <a href="{{ R }}{{ pl.model_families_csv }}">models_addresses.csv</a>.</p>
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Family</th><th>Models</th><th>Addresses</th><th>Multi-unit</th><th>Max units</th><th>Streets</th></tr></thead>
+    <tbody>
+    {% for f in pl.model_families.families %}
+    <tr><td><strong>{{ f.letter }}</strong></td>
+        <td class="chips">{% for m in f.models %}<span class="chip">{{ m }}</span>{% endfor %}</td>
+        <td>{{ f.addresses }}</td><td>{{ f.multi_unit_addresses }}</td><td>{{ f.max_units }}</td>
+        <td>{{ f.streets|join(", ")|esc }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+  <p class="pnote">{{ pl.model_families.units_note|esc }}</p>
+</div></section>
+{% endif %}
 <main id="grid"><div class="wrap"><div class="grid">
 {% for ph in pl.phases %}
 <div class="phase-divider {{ ph.colour_key }}" id="{{ ph.id }}"><div class="pd-head"><h3>{{ ph.label|esc }} · {{ ph.title_en|esc }}</h3><span>{{ ph.years }}</span></div><p>{{ ph.essay }}</p></div>
@@ -23,7 +42,9 @@
   <div class="card-head">
     <div class="eyebrow"><span class="dot"></span>{{ ph.label|esc }} · {{ ph.years }} · {{ t.eyebrow_ref|esc }}</div>
     <h2><a href="{{ R }}types/{{ t.id }}/">{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></a></h2>
-    <div class="stylename">Style: {{ t.style_label }}</div>
+    {% if t.style_label %}<div class="stylename">Style: {{ t.style_label }}</div>{% endif %}
+    {% if t.models_observed %}<div class="chips">{% for m in t.models_observed %}<span class="chip">{{ m }}</span>{% endfor %}</div>{% endif %}
+    {% if t.phase_confidence %}<div class="conf {{ t.phase_confidence }}">Phase attribution: {{ t.phase_confidence }}</div>{% endif %}
   </div>
   {% if t.photo.file %}<img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}" loading="lazy">{% else %}<div class="ph-pending">Photograph pending<span>{{ t.photo.credit|esc }}</span></div>{% endif %}
   <p class="blurb">{{ t.blurb_en|esc }}</p>

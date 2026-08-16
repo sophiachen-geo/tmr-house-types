@@ -28,3 +28,5 @@
 - {id: beaux-arts, name_en: Beaux-Arts, span: [1900, 1935]}
 # ---- Part 3 additions ----
 - {id: craftsman, name_en: Craftsman / Shingle Style, span: [1900, 1930]}
+# ---- Part 4a additions ----
+- {id: regionalist-neo-vernacular, name_en: Regionalist / neo-vernacular French-Canadian (Arvida), span: [1926, 1950]}

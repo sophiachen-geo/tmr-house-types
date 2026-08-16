@@ -166,6 +166,14 @@ table.matrix .decade{font:400 11px "IBM Plex Mono",monospace;color:var(--mute);d
 .picker .hint{font:400 12.5px "IBM Plex Sans",sans-serif;color:var(--mute);margin:8px 0 0}
 .conserve{margin-top:14px;border-top:1px dashed var(--line);padding-top:10px}
 .conserve ul{padding-left:14px;font-size:13.5px;color:#33383c;margin:0}
+.chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px}
+table.members .chips{margin-top:0}
+.chip{font:500 10.5px "IBM Plex Mono",monospace;letter-spacing:.04em;color:var(--mute);border:1px solid var(--line);border-radius:3px;padding:2px 6px;background:var(--ground)}
+.conf{margin-top:8px;font:500 10.5px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase}
+.conf.verified{color:var(--p2)}.conf.provisional{color:var(--p1)}
+figure.hero{margin:26px 0 0}
+figure.hero img{width:100%;height:auto;display:block;border-radius:3px;background:#ddd}
+figure.hero figcaption{font:400 11px "IBM Plex Mono",monospace;color:var(--mute);margin-top:5px;max-width:80ch}
 /* pending photograph placeholder */
 .ph-pending{display:flex;flex-direction:column;gap:4px;align-items:center;justify-content:center;min-height:120px;border:1px dashed var(--line);border-radius:3px;background:var(--ground);font:500 12px "IBM Plex Mono",monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);padding:16px;text-align:center}
 .ph-pending span{font:400 10.5px "IBM Plex Mono",monospace;text-transform:none;letter-spacing:0}

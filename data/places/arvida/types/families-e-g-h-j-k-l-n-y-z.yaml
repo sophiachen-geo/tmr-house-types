@@ -1,0 +1,53 @@
+id: arvida.families-e-g-h-j-k-l-n-y-z
+place: arvida
+phase: p3
+phase_confidence: provisional       # street evidence only; see profile_note
+name_en: Families E, G, H, J, K, L, N, Y and Z
+name_fr: Familles E, G, H, J, K, L, N, Y et Z
+source_ref: "Ville de Saguenay, Modèles des maisons arvidiennes (2014)"
+canonical: []                       # assign once the album documents these families
+styles: []                          # no style attribution: nothing about these elevations is documented
+tenure_plan: mixed
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+models_observed: [E01, E04, G01, G02, G03, G04, H01, H02, H03, J01, J02, J03, J04, K01, K02, K03, L01, N, Y, Z]
+profile:
+  siting_landscape:
+    - "Rue La Traverse carries E01, E04, H01, J01, J02, K01, K02, K03 and G01 — together with B03, B04 and C05, the models that appear nowhere in the 1926 core."
+    - "Rue Castner carries G02, G03, G04 and H02; rue Héroult G04; rue Coulomb G01, K01 and L01; rues Montgomery J03 and J04; rues Geoffrion and Neilson H03."
+    - "Rue De Normandie carries the single Y and Z entries; rue Lavoisier and boulevard du Saguenay the four N entries."
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: >-
+  Grouped stub for the families the public record does not describe; to be split into separate records
+  in Part 4b. The phase attribution is a hypothesis, not a finding: rue La Traverse and rue Castner lie
+  between the 1926 core and the war-era streets, and no online source identifies the 1936–41 Barott
+  houses by letter. Tenure is mixed and read from the civic numbering alone: G02, G03 and G04 are
+  paired (1654-58, 1673-77, 1689-93, 1657-61, 2928-32, 2936-40), as are the single Y (1725-43) and Z
+  (1739-41-43) entries, one H03 (1733-35 rue Neilson) and one N (2816-2820 boulevard du Saguenay);
+  every other entry in these families is a single civic number. Codes are as parsed from the 2014
+  address list, which carries only E01 and E04 for family E (the Part 4 brief anticipated E01–E05) and
+  bare N, Y and Z with no model number. No canonical form or style is assigned, and nothing has been
+  entered from photographs.
+blurb_en: >-
+  The families the catalogue index cannot yet describe: twenty codes clustered on rue La Traverse, rue
+  Castner and rue Coulomb, between the first streets of 1926 and the war-era additions.
+origin_en: >-
+  Probably the second construction phase, which opened in early 1936 with houses by the Montréal
+  architect Ernest Isbell Barott; no online source ties Barott's designs to particular model letters,
+  so the attribution stays provisional until Morisset's album is read.
+photos: [{file: null, credit: "pending: no photograph of a documented model in these families is available under a reusable licence", kind: placeholder}]
+# common fields per Part 4 brief §2.3
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "Ville de Saguenay address→model list (2014); Morisset 2022 (print)"
+model_addresses_csv: data/places/arvida/models_addresses.csv
+display_order: 9

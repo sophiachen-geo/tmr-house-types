@@ -1,0 +1,50 @@
+id: arvida
+name_en: Arvida (borough of Jonquière, Saguenay)
+name_fr: Arvida (arrondissement de Jonquière, Ville de Saguenay)
+sections: [planned]
+region: Saguenay–Lac-Saint-Jean
+founded: 1926
+settlement_mode: aluminium company town (Aluminum Company of America / Aluminum Company of Canada, later Alcan)
+governing_instruments:
+  - kind: site-patrimonial-declare
+    title: Site patrimonial d'Arvida, déclaré par le gouvernement du Québec (178 ha, 800+ buildings)
+    year: 2018
+    url: https://patrimoine-culturel.gouv.qc.ca/detail.do?id=168589&methode=consulter&type=bien
+  - kind: NHS
+    title: Arvida National Historic Site of Canada (designated 2012; plaque unveiled 3 June 2016)
+    year: 2012
+    url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13336&i=89525
+  - kind: site-patrimonial-cite
+    title: Municipal citations by Ville de Saguenay (site patrimonial du centre-ville d'Arvida; noyau institutionnel d'Arvida) preceding the 2018 declaration
+    year: null
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=206926&type=bien
+  - kind: PIIA
+    title: Ville de Saguenay, Règlement sur les PIIA — guidelines for the Quartier historique Sainte-Thérèse and for downtown Arvida; plus 20 "fiches techniques de rénovation patrimoniale" and a 3D "matériauthèque" for the wooden houses
+    year: null
+    url: https://infopermis.saguenay.ca/medias/reglements/reglements_urbanisme/reglement_sur_les_PIIA.pdf
+  - kind: conservation-plan
+    title: MCC, Plan de conservation du site patrimonial d'Arvida (in preparation / not yet published as of the City's page)
+    year: null
+    url: null
+typology_document:
+  title: Lucie K. Morisset, Les maisons d'Arvida 1926/1948. Album de 88 modèles de maisons de compagnie construites à Arvida, 1926–1948 (Éditions Patrimonium / Ville de Saguenay, 2022, 124 p.); Ville de Saguenay, "Modèles des maisons arvidiennes — Quartier historique Sainte-Thérèse" (address→model list, 2014)
+  year: 2022
+  format: model-catalogue
+  note: >-
+    88 models are those built inside the declared site; the whole town used "over 100" (Ville de
+    Saguenay), 125 (Morisset, 2018 press) or 126 (Le Quotidien, 2016) models for ~2,000 houses.
+    Model codes are letter-family + number (A1, B2, M11, R4). Per-model characteristics live in the
+    print album; only A1 and M11 are documented online.
+map_layer: null           # set to assets/places/arvida/models.geojson once geocoded
+summary_en: >-
+  The aluminium company's model city on the Saguenay: 2,400 hectares bought by Alcoa, a plan by
+  Harry B. Brainerd and Hjalmar E. Skougor (1926) mixing Garden City and City Beautiful ideas, and
+  270 houses raised in 135 days in the summer of 1926 from a handful of standardised models that
+  the engineer Harold R. Wake had adapted to French-Canadian habits and climate. Three construction
+  phases to 1950 produced some 2,000 company houses on more than 100 models; the 800-odd buildings of
+  the core were declared a site patrimonial in 2018. Arvida is the site's clearest case of a
+  typology defined by catalogue rather than by lot and massing.
+hero_photo:
+  file: assets/places/arvida/arvida-company-houses-commons.jpg
+  credit: "Company houses in Arvida. Photograph © Sandra Cohen-Rose and Colin Rose, CC BY-SA 2.0, via Wikimedia Commons (File:Arvida (5786308087).jpg). Illustrates the town's 1926-core house form; the photograph is not tied to a documented model."
+

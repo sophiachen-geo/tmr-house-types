@@ -33,7 +33,8 @@ ENUM = {
     "tenure_plan": {"single-family", "semi-detached", "row", "duplex", "triplex", "walk-up", "slab", "mixed"},
     "roof.form": {"flat", "gabled", "gabled-multi", "hipped", "mansard", "false-mansard", "bellcast", "pyramidal", "shed",
                   "flat-or-false-mansard",  # Part 2a: Plateau duplex-setback
-                  "gabled-or-hipped", "hipped-or-pyramidal", "flat-or-low-slope"},  # Part 3: Saint-Lambert fiches; recorded in methods
+                  "gabled-or-hipped", "hipped-or-pyramidal", "flat-or-low-slope",  # Part 3: Saint-Lambert fiches
+                  None},                        # Part 4a: Arvida families whose roof form is undocumented
     "window_proportion": {"vertical-2to1", "vertical", "square", "horizontal", "horizontal-2to1", "horizontal-2.5to1", None},
     "garage": {"none", "detached", "detached-or-set-back", "attached-set-back", "integrated-facade", "underground",
                "integrated-or-carport", None},  # integrated-or-carport: Part 3
@@ -232,6 +233,16 @@ for pdir in sorted((DATA / "places").iterdir()):
                 fail(f"{tctx}: {ck} must be a list")
         t.setdefault("conservation", None)
         t.setdefault("conservation_fr", None)
+        t.setdefault("models_observed", None)
+        t.setdefault("display_order", None)
+        if t.get("models_observed") is not None and not isinstance(t["models_observed"], list):
+            fail(f"{tctx}: models_observed must be a list of model codes")
+        pc = t.setdefault("phase_confidence", None)
+        if pc not in (None, "verified", "provisional"):
+            fail(f"{tctx}: phase_confidence must be 'verified' or 'provisional', got {pc!r}")
+        csv_rel = t.setdefault("model_addresses_csv", None)
+        if csv_rel and not (ROOT / csv_rel).exists():
+            fail(f"{tctx}: model_addresses_csv not found: {csv_rel}")
         # derived display fields
         t["slug"] = slug
         t["place_name"] = pl["name_en"]
@@ -240,7 +251,10 @@ for pdir in sorted((DATA / "places").iterdir()):
         t.setdefault("source_generation", None)
         m = re.search(r"art\.\s*(\d+)", t["source_ref"])
         t["art_no"] = int(m.group(1)) if m else None
-        t["eyebrow_ref"] = f"By-law art. {t['art_no']}" if (m and "y-law" in t["doc_short"]) else t["source_ref"]
+        # eyebrow: the by-law article where there is one, else a short ref (the
+        # full source_ref always shows in the card's metaline)
+        t["eyebrow_ref"] = (f"By-law art. {t['art_no']}" if (m and "y-law" in t["doc_short"])
+                            else t["source_ref"] if len(t["source_ref"]) <= 60 else t["doc_short"])
         # ordering within the source document: by-law article, fiche x.y, or family n
         if t["art_no"] is not None:
             t["src_order"] = float(t["art_no"])
@@ -274,7 +288,14 @@ for pdir in sorted((DATA / "places").iterdir()):
 
     # order types the way the source document orders them
     phase_order = {p["id"]: i for i, p in enumerate(phases)}
-    types.sort(key=lambda t: (phase_order[t["phase"]], t["src_order"] if t["src_order"] is not None else 10**6, t["name_en"]))
+    # explicit display_order (Part 4a) wins; otherwise phase order then source-document order
+    types.sort(key=lambda t: (
+        0 if t["display_order"] is not None else 1,
+        t["display_order"] or 0,
+        phase_order[t["phase"]],
+        t["src_order"] if t["src_order"] is not None else 10**6,
+        t["name_en"],
+    ))
     for t in types:
         PH[t["phase"]]["types"].append(t)
 
@@ -289,6 +310,17 @@ for pdir in sorted((DATA / "places").iterdir()):
     n = len(phases)
     pl["rail_aria"] = f"Timeline {p_min} to {p_max} divided into {NUM_WORDS.get(n, n)} phases"
     pl["phase_span"] = f"{p_min}–{p_max}"
+    fam_file = pdir / "model_families_summary.yaml"
+    pl["model_families"] = load_yaml(fam_file) if fam_file.exists() else None
+    if pl["model_families"]:
+        pl["model_families_csv"] = f"data/{pl['id']}-models-addresses.csv"
+    hero = pl.get("hero_photo")
+    if hero:
+        require(hero, ["file", "credit"], f"{ctx}: hero_photo")
+        if not (ROOT / hero["file"]).exists():
+            fail(f"{ctx}: hero_photo file not found: {hero['file']}")
+        hero["w"], hero["h"] = jpeg_size(ROOT / hero["file"])
+    pl.setdefault("hero_photo", None)
     pl["phases"] = phases
     pl["sources_list"] = sources
     pl["sources"] = sources
@@ -460,6 +492,7 @@ for t in all_types:
         "setback_side_m": t["setback_side_m"], "front_yard_green_pct": t["front_yard_green_pct"],
         "profile": t["profile"], "profile_fr": t.get("profile_fr"), "profile_note": t["profile_note"],
         "conservation": t["conservation"], "conservation_fr": t["conservation_fr"],
+        "models_observed": t["models_observed"], "phase_confidence": t["phase_confidence"],
         "source_generation": t["source_generation"],
         "blurb_en": t["blurb_en"], "origin_en": t["origin_en"],
         "photo": t["photo"], "url": f"types/{t['id']}/",
@@ -474,7 +507,8 @@ cw.writerow(["id", "place", "place_name", "phase", "phase_years", "phase_title",
              "roof_pitch_deg", "window_proportion", "principal_cladding", "roofing", "garage",
              "lot_width_min_m", "lot_width_max_m", "setback_front_m", "setback_side_m",
              "front_yard_green_pct", "siting_landscape", "massing", "articulation", "openings",
-             "materials", "conservation", "blurb_en", "origin_en", "photo_file", "photo_credit"])
+             "materials", "conservation", "models_observed", "phase_confidence",
+             "blurb_en", "origin_en", "photo_file", "photo_credit"])
 for t in all_types:
     cw.writerow([
         t["id"], t["place"], t["place_name"], t["phase"], t["phase_obj"]["years"],
@@ -488,6 +522,7 @@ for t in all_types:
         " | ".join(t["profile"]["siting_landscape"]), " | ".join(t["profile"]["massing"]),
         " | ".join(t["profile"]["articulation"]), " | ".join(t["profile"]["openings"]),
         " | ".join(t["profile"]["materials"]), " | ".join(t["conservation"] or []),
+        "; ".join(t["models_observed"] or []), t["phase_confidence"],
         t["blurb_en"], t["origin_en"],
         t["photo"]["file"], t["photo"]["credit"],
     ])
@@ -497,6 +532,10 @@ for t in all_types:
 shutil.copy(TPL / "base.css", DOCS / "base.css")
 shutil.copy(TPL / "app.js", DOCS / "app.js")
 shutil.copytree(ROOT / "assets", DOCS / "assets")
+for p in places:                       # publish each place's address list beside the data exports
+    if p.get("model_families"):
+        (DOCS / "data").mkdir(exist_ok=True)
+        shutil.copy(ROOT / p["types"][0]["model_addresses_csv"], DOCS / p["model_families_csv"])
 (DOCS / ".nojekyll").touch()
 
 print(f"build.py: OK — {len(places)} place(s), {len(all_types)} types, {len(canon_types)} canonical forms, "
