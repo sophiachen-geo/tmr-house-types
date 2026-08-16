@@ -1,0 +1,131 @@
+id: quebec.immeubles-a-logements
+place: quebec
+phase: p6
+name_en: Apartment block with a central stairwell
+name_fr: Immeubles à logements
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- apartment-block-central-stair
+styles:
+- rationalisme
+style_label: null
+tenure_plan: walk-up
+storeys: 2–3
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: vertical
+principal_cladding:
+- artificial-stone
+- clay-brick
+roofing: membrane
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 507
+phase_confidence: verified
+courant: Vernaculaire industriel
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=507
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=507
+quartiers:
+- Montcalm
+- Saint-Sacrement
+profile:
+  siting_landscape:
+  - Common in the urban parts of Québec, notably in the Montcalm and Saint-Sacrement quarters; its construction
+    period runs between 1920 and 1970 but it takes hold from 1930.
+  - It is set on a newly developed lot, or on an old lot that has to be rebuilt after a fire.
+  - The promoters and property companies that built out the city's quarters favoured it after the plex, because
+    it gives a greater density of residential fabric.
+  massing:
+  - 'Composition: a search for symmetry; a detached or party-wall building with a tripartite front and a centred
+    door monumentally treated.'
+  - Square plan; imposing volume.
+  - Two to three occupied levels (two to three storeys); a central stairwell giving access to four, six, eight or
+    more dwellings.
+  - Flat roof (basin or internal drainage); membrane covering.
+  - 'Central projections: avant-corps and perron; projections sheltered by an awning and superposed: balconies.'
+  - The stairwell, which may also be formed with an avant-corps, is lit by a vertical glass-block window and marked
+    by a crowning.
+  articulation:
+  - 'Ornaments: bandeaux, decorative brick, cornice, crowning and parapet.'
+  - Balconies set on either side of the symmetrical front give the whole composition its rhythm.
+  openings:
+  - Fully glazed single- or double-leaf door, with or without a transom above, fitted with a portal.
+  - Compound casements with transom, paired sashes, compound sashes, or fixed lights with or without glass blocks.
+  - The rectangular windows are sashes or casements with transoms, and sometimes paired; they are dressed with lintels
+    or flat arches.
+  materials:
+  - 'Walls: artificial masonry cladding.'
+  - Clad in brick or artificial masonry.
+profile_fr:
+  description:
+  - L’immeuble à logements est fréquent en milieu urbain, notamment dans les quartiers Montcalm et Saint-Sacrement
+    de Québec. Bien que sa période de construction s’étende entre 1920 et 1970, il s’impose à partir de 1930. Les
+    promoteurs et sociétés immobilières qui ont contribué au développement des quartiers de la ville au début du
+    20e siècle ont favorisé ce type après le plex, puisqu’il permet d’obtenir une plus grande densité du tissu résidentiel.
+    Il s’agit d’un bâtiment qui vient s’implanter sur un lot récemment développé ou sur un ancien lot qui doit être
+    reconstruit à la suite d’un incendie.
+  - Doté d’un volume imposant, l’immeuble à logements possède habituellement deux à trois niveaux d’occupation coiffés
+    d’une toiture plate ainsi qu’un plan rectangulaire ou carré. La porte d’entrée au centre de la façade est traitée
+    de manière monumentale. Elle donne accès à quatre, six, huit ou plusieurs logements par le biais d’un puits
+    d’escalier. Ce dernier, pouvant également être formé avec un avant-corps, est éclairé par une fenêtre verticale
+    en bloc de verre et souligné par un couronnement.
+  - L’immeuble à logements est revêtu de brique ou de maçonnerie artificielle et des balcons, disposés de part et
+    d’autre de la façade symétrique, viennent rythmer la composition d’ensemble. Les fenêtres rectangulaires sont
+    à guillotine ou à battants avec impostes et parfois, jumelées. Elles sont ornées de linteaux ou de plate-bande.
+  elements_caracteristiques:
+  - 'Composition : recherche de symétrie; bâtiment isolé ou mitoyen comprenant une façade tripartite avec une porte
+    centrée au traitement monumental.'
+  - Plan carré; volume imposant.
+  - Deux à trois niveaux d’occupation (2 à 3 étages); puits d’escalier central donnant accès à quatre, six, huit
+    ou plusieurs logements.
+  - 'Murs : revêtement de maçonnerie artificielle.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Porte entièrement vitrée à simple ou à double battant surmontée ou non d’une imposte et garnie d’un portail;
+    fenêtres composées à battants avec imposte, à guillotine jumelées, composées à guillotine ou fixes avec ou sans
+    blocs de verre.
+  - 'Saillies centrales : avant-corps et perron; saillies protégées par un auvent et superposées; balcons.'
+  - 'Ornements : bandeaux, briques décoratives, corniche, couronnement et parapet.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=507), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'What came after the plex when the promoters wanted more density still: a square block, a symmetrical
+  tripartite front, and one monumental central door opening on a stairwell that serves four, six, eight or more
+  flats — with a column of glass block up the front to light it.'
+origin_en: The apartment block is common in the urban parts of Québec, notably in the Montcalm and Saint-Sacrement
+  quarters. Though its construction period runs between 1920 and 1970, it takes hold from 1930. The promoters and
+  property companies that had built out the city's quarters at the beginning of the 20th century favoured this type
+  after the plex, since it allows a greater density of residential fabric. It is a building set on a newly developed
+  lot, or on an old lot that has to be rebuilt following a fire.
+related_buildings:
+- name: Appartements Turnbull
+  fiche_id: 404
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=404
+- name: Appartements De Salaberry
+  fiche_id: 419
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=419
+- name: Édifice Alexandre-Bédard
+  fiche_id: 428
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=428
+- name: Appartements Rita
+  fiche_id: 447
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=447
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/507/30.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

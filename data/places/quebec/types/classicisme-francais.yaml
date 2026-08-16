@@ -1,0 +1,95 @@
+id: quebec.classicisme-francais
+place: quebec
+phase: p1
+name_en: Classicisme français
+name_fr: Classicisme français
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 103
+is_residential: false
+courant: Influences françaises
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=103
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=103
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le classicisme s’inspire des idées et des valeurs de l’Antiquité grecque et romaine qui sont réunies dans un
+    système rationnel lors de la Renaissance italienne au 15e siècle. Apparu en France au début du 16e siècle, le
+    classicisme français est un mouvement dont le vocabulaire architectural est fondé sur l’étude des proportions
+    avec les ordres, la recherche d’harmonie et d’équilibre ainsi que la composition d’ensemble à laquelle répondent
+    les formes. En Nouvelle-France, il ne sera conservé que les lignes directrices de l’idéal classique qui est
+    traité plus sobrement. Les bâtiments sont érigés avec d’épais murs en maçonnerie, de hautes toitures et d’imposantes
+    cheminées recouvertes de tôle traditionnelle, des fenêtres à battants à petits carreaux et un dépouillement
+    ornemental. Ils possèdent également des murs coupe-feu qui dépassent les toitures pour éviter la propagation
+    d'incendies.
+  - Le classicisme français se traduit par une expression formelle plus recherchée pour les bâtiments imposants
+    ou prestigieux comme les ensembles conventuels. Ils comptent généralement des caves voûtées, deux ou trois niveaux
+    avec un comble, des clochetons et une ornementation en pierre de taille avec des bandeaux, des chaînes d’angles,
+    des corbeaux ou des tirants. Ces bâtiments demeurent malgré tout empreints de retenue et de simplicité. Ils
+    respectent les canons du classicisme français avec des façades en pierre de taille lisses et crépies en blanc
+    dont la composition est symétrique et les ouvertures disposées de façon régulière.
+  elements_caracteristiques:
+  - 'Composition sobre de l’idéal classique : système de proportions avec les ordres et recherche d’harmonie, d’équilibre
+    et de symétrie.'
+  - Deux à quatre niveaux d’occupation (2 à 3 étages ½); cave voûtée.
+  - Fondation en pierre visible hors sol.
+  - Murs en maçonnerie de pierre, généralement en pierre de taille; revêtement de crépi ou d’enduit (stuc) blanc.
+  - Toit à deux versants droits et sans avant-toit; pente forte (plus de 45°); revêtement de tôle traditionnelle.
+  - Ouvertures régulières; porte clouée, barrée à queue d’aronde, à emboîture et à panneaux sans vitrage; fenêtres
+    à battants et à petits carreaux; lucarnes à croupe, à pignon et chatière.
+  - 'Saillies : murs coupe-feu dépassant du toit, clochetons et cheminées.'
+  - 'Ornementation : bandeaux, chaînes d’angle, corbeaux et tirants.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are churches and monasteries. Recorded so the source's list can be read whole,
+  but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are churches and monasteries.'
+origin_en: Le classicisme s’inspire des idées et des valeurs de l’Antiquité grecque et romaine qui sont réunies
+  dans un système rationnel lors de la Renaissance italienne au 15e siècle. Apparu en France au début du 16e siècle,
+  le classicisme français est un mouvement dont le vocabulaire architectural est fondé sur l’étude des proportions
+  avec les ordres, la recherche d’harmonie et d’équilibre ainsi que la composition d’ensemble à laquelle répondent
+  les formes. En Nouvelle-France, il ne sera conservé que les lignes directrices de l’idéal classique qui est traité
+  plus sobrement. Les bâtiments sont érigés avec d’épais murs en maçonnerie, de hautes toitures et d’imposantes
+  cheminées recouvertes de tôle traditionnelle, des fenêtres à battants à petits carreaux et un dépouillement ornemental.
+  Ils possèdent également des murs coupe-feu qui dépassent les toitures pour éviter la propagation d'incendies.
+related_buildings:
+- name: Église de Notre-Dame-des-Victoires
+  fiche_id: 261
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=261
+- name: Aile du noviciat du Monastère-des-Augustines-de-l'Hôtel-Dieu-de-Québec
+  fiche_id: 1505
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1505
+- name: Église Notre-Dame-des-Anges
+  fiche_id: 1507
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1507
+- name: Monastère des Augustines-de-l'Hôpital Général de Québec / Bâtiment des Récollets
+  fiche_id: 1518
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1518
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/103/1_V1.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,69 @@
+id: terrebonne
+name_en: Vieux-Terrebonne
+name_fr: Site patrimonial du Vieux-Terrebonne
+sections: [historic-core]
+region: Lanaudière (MRC Les Moulins)
+founded: 1720                              # Louis Lepage de Sainte-Claire begins the mills and the bourg
+settlement_mode: seigneurial mill bourg on the rivière des Mille-Îles
+coordinates: {lat: 45.693139, lon: -73.637250}     # 45° 41' 35.3" N, -73° 38' 14.1" (RPCQ)
+governing_instruments:
+  - kind: site-patrimonial-declare
+    title: >-
+      Site patrimonial du Vieux-Terrebonne, déclaré par le gouvernement du Québec le 20 mai 2026 —
+      the 14th declared site in Québec. Statut block: "Déclaration, Site patrimonial, Ministre de la
+      Culture et des Communications, 2026-05-20, Prise d'effet : 2025-07-02"; prior statuses
+      "Recommandation ministérielle de déclaration, 2025-06-20" and "Dossier initié par le ministre,
+      2020-11-12". The effect date precedes the decree because protection runs from the ministerial
+      notice under the Loi sur le patrimoine culturel. ~25 ha; ~210 buildings; 225 associated
+      immovables in the RPCQ, of which four are immeubles patrimoniaux classés.
+    year: 2026
+    url: https://www.patrimoine-culturel.gouv.qc.ca/detail.do?id=231571&methode=consulter&type=bien
+  - kind: consultation
+    title: >-
+      CPCQ public consultation on the projet de déclaration: audience publique 10 September 2025,
+      18h30, amphithéâtre du collège Saint-Sacrement, 901 rue Saint-Louis; written submissions and
+      online questionnaire to 19 September 2025. The consultation page describes the site as
+      "environ 200 bâtiments construits à partir du XVIIIe siècle" on "25 hectares".
+    year: 2025
+    url: https://cpcq.gouv.qc.ca/consultations-publiques/archivees/projet-de-declaration-du-site-patrimonial-du-vieux-terrebonne/
+  - kind: citation
+    title: Ville de Terrebonne, Règlement 810 sur la citation des biens et immeubles patrimoniaux (adopted 13 September 2021, in force 20 September 2021), based on the Bergeron Gagnon inventory — 28 of the 225 associated RPCQ records carry a Citation
+    year: 2021
+    url: https://terrebonne.ca/reglements-permis/reglement-sur-la-citation-des-biens-et-immeubles-patrimoniaux/
+  - kind: PIIA
+    title: "Ville de Terrebonne, Règlement d'urbanisme 1011 (PIIA; replaced the abrogated 1005) — the articles applying to the Vieux-Terrebonne sector remain UNVERIFIED: terrebonne.ca refused every automated request (see notes)"
+    year: null
+    url: null
+  - kind: inventory
+    title: >-
+      Ville de Terrebonne / Bergeron Gagnon inc., inventaire du patrimoine bâti (2015): ~600–609
+      pre-1946 buildings, 7,000+ photographs. The published "Liste des biens et immeubles figurant à
+      l'inventaire patrimonial partiel de la MRC Les Moulins" (2024), issued for the statutory
+      pre-1940 inventory, numbers its fiches 1 to 609, of which 104 are marked "Retirée" — 505 live
+      entries across the MRC, not all of them inside the declared site.
+    year: 2015
+    url: https://terrebonne.ca/inventaire-du-patrimoine/
+typology_document:
+  title: RPCQ, Site patrimonial du Vieux-Terrebonne (id 231571), "Éléments caractéristiques" par unité de paysage; MCC, 2026
+  year: 2026
+  format: sector-characterisation
+  note: >-
+    The declaration characterises four unités de paysage, not building types. There is no per-type
+    table. Type records below are thin by necessity and carry profile_note; the per-building data
+    lives in the Bergeron Gagnon inventory and in the 225 associated RPCQ records.
+map_layer: null
+summary_en: >-
+  A seigneurial mill bourg laid out from 1720 on the north bank of the rivière des Mille-Îles, where
+  the river breaks into rapids: an orthogonal grid of narrow streets dropping from rue Saint-Louis to
+  the water, small vernacular houses packed tight along the Bas-de-la-Côte, a stone proto-industrial
+  complex on the island, a stone parish core on the ridge, and a line of merchants' houses on the
+  crest. Dévitalisé after the autoroute of 1965 and the boulevard of 1967 drew life away, it was
+  rescued by a 1970s mobilisation and is now "considéré comme une réussite en manière de
+  réhabilitation urbaine". Declared Québec's 14th site patrimonial on 20 May 2026.
+hero_photo:
+  file: assets/places/terrebonne/ile-des-moulins-commons.jpg
+  credit: >-
+    The île des Moulins, Terrebonne (2021) — the proto-industrial stone ensemble of unité de paysage
+    UP-2, classed in its own right as RPCQ id 92594 and reached from the mainland by McTavish's dyke.
+    © Jeangagnon, Wikimedia Commons, CC BY-SA 4.0.
+    https://commons.wikimedia.org/wiki/File:Ile-des-Moulins_-_01.jpg

@@ -1,0 +1,141 @@
+id: quebec.maison-londonienne
+place: quebec
+phase: p2
+name_en: London-type terrace house
+name_fr: Maison londonienne
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- london-terrace-house
+styles:
+- palladien
+- neoclassical-quebec
+style_label: null
+tenure_plan: row
+storeys: 2.5–3.5
+roof:
+  form: gabled
+  pitch_deg: 38
+window_proportion: vertical
+principal_cladding:
+- cut-stone
+- clay-brick
+- roughcast
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-VQ
+conservation: []
+conservation_fr: null
+tid: 203
+phase_confidence: verified
+courant: Néoclassique
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=203
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=203
+quartiers: null
+profile:
+  siting_landscape:
+  - It marks the urban fabric of 19th-century Québec, mainly from 1815 to 1870.
+  - It gives directly onto the street with no front setback, and may be pierced by a carriage passage giving access
+    to a rear yard.
+  - The houses are often grouped in pairs or form part of a longer series called a row, which lets symmetries be
+    played by alternating the plans from one house to the next.
+  massing:
+  - 'Composition: party-wall or row house with a front of two, three (the basic unit) or four bays and a door at
+    one end; the well-to-do house has a five-bay front with a centred door monumentally treated.'
+  - Rectangular plan, generally narrow and deep.
+  - Three to four occupied levels (two and a half to three and a half storeys); a hall serving the formal rooms
+    on the ground floor and rooms progressively more modest and private from one storey to the next.
+  - Straight two-slope roof; medium pitch, between 30° and 45°.
+  - 'Projections: party fire-break walls rising above the roof and containing the chimneys.'
+  - The roof edge oversails the wall little, and a few dormers light the attic.
+  articulation:
+  - The ornament is resolutely classical, with pediments, pilasters and cornices.
+  - Walls of ashlar or rubble stone, of brick, or covered in roughcast, showing a search for purity in the surfaces
+    that suits this sober and rigorous architecture.
+  openings:
+  - Carriage door surmounted by a transom; top-floor windows treated as an attic storey; cellar lights; dormers
+    present.
+  - Openings on the front are regularly disposed.
+  - 'Casements at first, the windows evolve continuously: small panes early in the 19th century, then large panes,
+    then with transoms or sashes.'
+  - The top-floor windows are treated as an attic — lower than those of the levels below — a particularity of the
+    London-type house.
+  materials:
+  - Walls of rubble stone; brick cladding.
+  - Foundation raised above the ground.
+profile_fr:
+  description:
+  - La maison londonienne se rattache au style néoclassique et rappelle les modèles résidentiels construits à Londres
+    au 18e siècle. À Québec, elle marque le milieu urbain du 19e siècle, principalement de 1815 à 1870. La maison
+    présente un volume imposant de deux ou trois niveaux avec un comble et des murs coupe-feu mitoyens dotés de
+    larges cheminées. Les murs en pierre de taille ou à moellons, en brique ou bien recouverts de crépi dénotent
+    une recherche de pureté dans les surfaces qui sied à cette architecture sobre et rigoureuse.
+  - Les maisons sont souvent regroupées par paires ou font partie d’une plus grande série appelée maisons en rangée,
+    ce qui permet de créer des jeux de symétrie par l’alternance des plans d’une maison à l’autre. L’unité de base,
+    étroite et profonde, comprend trois travées avec la porte d’entrée située à l’une des extrémités. La façade
+    de certaines maisons plus cossues est composée de cinq travées et marquée par une entrée centrale dont le traitement
+    est monumental. Elle donne directement sur la rue, sans marge de recul, et elle peut être percée d’un passage
+    cocher donnant accès à une cour arrière. La toiture est à deux versants droits et la pente varie de faible,
+    en deçà de 30 degrés, à moyenne, entre 30 et 45 degrés. Le rebord du toit dépasse peu la surface du mur et quelques
+    lucarnes éclairent le comble.
+  - 'Les ouvertures en façade sont disposées de façon régulière. À battants à l’origine, les fenêtres subissent
+    une évolution continue : à petits carreaux au début du 19e siècle, à grands carreaux et enfin, à imposte ou
+    à guillotine. Les fenêtres du dernier étage sont traitées en attique, c’est-à-dire qu’elles sont moins hautes
+    que celles des niveaux inférieurs, une particularité de la maison londonienne. L’ornementation est quant à elle
+    résolument classique avec l’emploi de frontons, de pilastres et de corniches. À l’intérieur, cette maison unifamiliale
+    se distingue par son organisation spatiale : l’espace habitable est distribué autour d’un hall qui dessert les
+    pièces à chaque niveau, favorisant la vie privées et modestes d’un étage à l’autre.'
+  elements_caracteristiques:
+  - 'Composition : maison mitoyenne ou en rangée (série) comprenant une façade de deux, trois (unité de base) ou
+    quatre travées avec une porte à l’une des extrémités et maison cossue comprenant une façade de cinq travées
+    avec une porte centrée au traitement monumental.'
+  - Plan rectangulaire, généralement étroit et profond.
+  - Trois à quatre niveaux d’occupation (2 étages ½ à 3 étages ½); hall desservant les pièces d’apparat au rez-de-chaussée
+    et les pièces de plus en plus modestes et privées d’un étage à l’autre.
+  - Fondation visible hors sol.
+  - Murs en pierre à moellons; revêtement de brique.
+  - Toit à deux versants droits; pente moyenne (entre 30° et 45°).
+  - Porte cochère surmontée d’une imposte; fenêtres du dernier étage traitées en attique; soupiraux; présence de
+    lucarnes.
+  - 'Saillies : murs coupe-feu mitoyens dépassant du toit et incluant les cheminées.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=203), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: Narrow, deep and built in pairs or rows straight onto the pavement, with the door at one end of a three-bay
+  front and a carriage passage to the yard behind. The rooms get smaller and more private as you climb, and the
+  top-floor windows are squashed into an attic band — the detail that identifies the type.
+origin_en: 'The London-type house belongs to the neoclassical style and recalls the residential models built in
+  London in the 18th century. At Québec it marks the urban fabric of the 19th century, mainly from 1815 to 1870:
+  an imposing volume of two or three levels with an attic, party fire-break walls carrying wide chimneys, and walls
+  of ashlar or rubble stone, brick or roughcast showing a search for purity of surface suited to this sober and
+  rigorous architecture.'
+related_buildings:
+- name: 4, rue Elgin
+  fiche_id: 4
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=4
+- name: 16-18, rue Elgin
+  fiche_id: 5
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5
+- name: 15, rue McMahon
+  fiche_id: 7
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=7
+- name: 1114-1120, rue Saint-Jean
+  fiche_id: 27
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=27
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/203/6.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

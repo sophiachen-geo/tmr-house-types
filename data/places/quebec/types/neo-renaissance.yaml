@@ -1,0 +1,146 @@
+id: quebec.neo-renaissance
+place: quebec
+phase: p5
+name_en: Neo-Renaissance house and mixed-use block
+name_fr: Néo-Renaissance
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- urban-house-stone-2-3st
+- eclectic-prestige-house
+styles:
+- neo-renaissance
+style_label: null
+tenure_plan: mixed
+storeys: 2.5–3.5
+roof:
+  form: hipped
+  pitch_deg: 25
+window_proportion: vertical
+principal_cladding:
+- rusticated-stone
+- clay-brick
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-VQ
+conservation: []
+conservation_fr: null
+tid: 407
+phase_confidence: verified
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=407
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=407
+quartiers: null
+profile:
+  siting_landscape:
+  - At Québec these buildings, though present in rural settings, are set above all in urban or semi-urban ones,
+    between 1850 and 1920.
+  - They put the owner's material ease, or the importance of the construction — its standing in the setting — in
+    the front rank.
+  massing:
+  - 'Composition drawn from Renaissance architecture: richness and refinement, the orders used in superposition
+    and an overabundance of decoration; a picturesque effect in reaction to the rigour of the Palladian and neoclassical
+    styles, or a more austere effect with a search for symmetry and an interior organisation tied to the form and
+    the openings of the building.'
+  - Simple or irregular plan.
+  - Three to four occupied levels (two and a half to three and a half storeys).
+  - Straight four-slope or truncated four-slope roof crowned with a lantern or a rooftop terrace; low pitch, under
+    30°; traditional sheet-metal covering. Flat roof (basin or internal drainage); membrane covering.
+  - 'Projection: perron, portal and square tower.'
+  articulation:
+  - 'Classical ornaments: crowning balustrade, bas-reliefs, quoins, columns, consoles, cornices, entablatures, pediments,
+    pilasters and cornice returns.'
+  - The roof edge carries a crowning balustrade or a massive cornice on consoles or modillions.
+  - With the orders used in superposition, the separation of the storeys is legible in the treatment of the fronts.
+  openings:
+  - Rectangular or arched openings fitted with sills, arches, keystones, surrounds and lintels.
+  - Panelled door with or without glazing, surmounted by a transom and fitted with a portal.
+  - Casements with large panes, or sashes with small panes or glazing bars.
+  - A mixed-use building draws attention to its commercial ground floor with wide shopfronts, against the sober
+    or distinctive look of the storeys above.
+  materials:
+  - 'Walls: cladding of variously rusticated stone, or of brick.'
+  - Stone foundation raised above the ground.
+profile_fr:
+  description:
+  - Apparue en Italie au 15e siècle, l’architecture de la Renaissance prône un retour aux formes antiques, en plus
+    de vouloir rétablir l’harmonie et l’équilibre des proportions avec les ordres. Le style néo-Renaissance s’inspire
+    des œuvres de cette période, plus précisément celles des palais et des villas italiennes des 16e et 17e siècles.
+    Elles sont adaptées à l’ère victorienne et industrielle, afin de créer un effet pittoresque qui se veut en réaction
+    à la rigueur du style palladien et néoclassique. Lorsqu’un effet plus austère est recherché, le bâtiment présente
+    une composition davantage symétrique tandis que la forme et les ouvertures peuvent correspondre à la disposition
+    intérieure.
+  - Les bâtiments de style néo-Renaissance mettent en avant plan l’aisance matérielle du propriétaire ou l’importance
+    de la construction, soit sa prestance dans le milieu. Ils ont généralement une fonction commerciale, industrielle
+    ou résidentielle. À Québec, bien qu’ils soient présents en milieu rural, ces bâtiments sont surtout implantés
+    en milieu urbain ou semi-urbain entre 1850 et 1920.
+  - Le style néo-Renaissance se caractérise par la richesse et le raffinement de la composition ainsi que par la
+    surabondance du décor qui puise dans le vocabulaire classique. Un bâtiment possède par exemple un plan simple
+    ou irrégulier dont la volumétrie est dotée d’une tour carrée. Le toit est plat, ou encore à pavillon ou à pavillon
+    tronqué surmonté d’un lanternon ou d’une terrasse faîtière. La bordure du toit est munie d’une balustrade de
+    couronnement ou d’une corniche massive à consoles ou à modillons. Avec l’emploi des ordres de manière superposée,
+    la séparation des étages est observable dans le traitement des façades. Un bâtiment à vocation mixte attire
+    donc l’attention sur le rez-de-chaussée commercial avec de larges vitrines, comparativement à l’allure sobre
+    ou distinctive des étages qui sont réservés à l’habitation. L’ornementation dans la construction de style néo-Renaissance
+    comprend entre autres des murs en pierre à bossages variés, des ouvertures rectangulaires ou en arc ornées de
+    frontons et de pilastres, des appuis élaborés sous les fenêtres et des chaînes d’angle.
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture de la Renaissance : richesse et raffinement, emploi des ordres de manière
+    superposée et surabondance du décor; création d’un effet pittoresque en réaction à la rigueur du style palladien
+    et néoclassique ou création d’un effet plus austère avec la recherche de symétrie et l’organisation intérieure
+    en lien avec la forme et les ouvertures du bâtiment.'
+  - Plan simple ou irrégulier.
+  - Trois à quatre niveaux d’occupation (2 étages ½ à 3 étages ½).
+  - Fondation en pierre visible hors sol.
+  - Toit à quatre versants droits ou à quatre versants droits tronqués couronné d’un lanternon ou d’une terrasse
+    faîtière; pente faible (moins de 30°); revêtement de tôle traditionnelle. Toit plat (bassin ou à égout intérieur);
+    revêtement de membrane(s).
+  - 'Murs : revêtement de pierre à bossages variés ou de brique.'
+  - Ouvertures rectangulaires ou en arc garnies d’appuis, d’arcs, de clefs, d’encadrements et de linteaux; porte
+    à panneau(x) avec ou sans vitrage surmontée d’une imposte et garnie d’un portail; fenêtres à battants et à grands
+    carreaux ou à guillotine et à petits carreaux ou à petit-bois.
+  - 'Saillie : perron, portail et tour carrée.'
+  - 'Ornements classiques : balustrade de couronnement, bas-reliefs, chaînes d’angle, colonnes, consoles, corniches,
+    entablements, frontons, pilastres et retours d’équerre.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=407), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'Italian palaces done over for the Victorian street: three or four levels of rusticated stone or brick,
+  the orders stacked storey on storey, a massive bracketed cornice or a balustrade at the top, and — where the ground
+  floor is a shop — wide plate-glass fronts under all that decoration.'
+origin_en: Renaissance architecture, which appeared in Italy in the 15th century, urged a return to antique forms
+  and the restoration of harmony and balance of proportion through the orders. The neo-Renaissance style draws on
+  the work of that period, more precisely the Italian palaces and villas of the 16th and 17th centuries, adapted
+  to the Victorian and industrial era to create a picturesque effect in reaction to the rigour of the Palladian
+  and neoclassical styles. These buildings generally have a commercial, industrial or residential function; at Québec
+  they are set above all in urban or semi-urban settings between 1850 and 1920.
+related_buildings:
+- name: Édifice Bell de la rue Saint-Jean
+  fiche_id: 22
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=22
+- name: Édifice Turcot
+  fiche_id: 23
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=23
+- name: 6, rue Sainte-Angèle
+  fiche_id: 43
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=43
+- name: 1039-1045, rue Saint-Jean
+  fiche_id: 82
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=82
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/407/14.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

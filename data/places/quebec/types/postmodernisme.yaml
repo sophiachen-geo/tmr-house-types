@@ -1,0 +1,105 @@
+id: quebec.postmodernisme
+place: quebec
+phase: p6
+name_en: Postmodernisme
+name_fr: Postmodernisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 901
+is_residential: false
+courant: Influences contemporaines
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=901
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=901
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Apparu en réaction au style international, le postmodernisme est un mouvement qui s’oppose à l’architecture
+    moderne dès les années 1960. L’architecte américain Robert Venturi est considéré comme l’un de ses précurseurs,
+    car il en pose les bases théoriques. Il s’agit entre autres de renouer avec le passé pour en repérer les modèles
+    typologiques, de s’inspirer de la tradition locale de construire à l’aide de l’architecture vernaculaire et
+    de prendre en considération le contexte dans lequel le bâtiment se trouve. Au Québec, le postmodernisme prend
+    forme autour de l’intérêt grandissant pour la conservation du patrimoine bâti, de la création du ministère des
+    Affaires culturelles (1961) et de la montée du mouvement nationaliste. Il se manifeste surtout à partir des
+    années 1980 dans les tissus urbains anciens de Québec comme les quartiers Saint-Jean-Baptiste, Montcalm et Saint-Sacrement,
+    mais également dans celui du Vieux-Québec / Cap-Blanc / Colline parlementaire.
+  - Le postmodernisme cherche avant tout à s’intégrer à l’environnement, soit en créant un lien avec les autres
+    bâtiments ou en empruntant des traits architecturaux au milieu qui permet son insertion. Cette intervention
+    se veut sensible, car elle fait la fusion entre le passé et le présent. L’échelle de la construction neuve ou
+    de l’agrandissement est de ce fait adaptée au cadre bâti existant tandis que les matériaux modernes et traditionnels
+    (bois, granit poli ou pierre de taille) sont employés simultanément. La réinterprétation esthétique de la composition
+    se rattache quant à elle aux styles issus du passé, en regard à la forme, aux éléments structuraux, à l’ornementation
+    ou aux principes d’une école comme celle des Beaux-Arts. Le postmodernisme se réfère à la symbolique de l’histoire,
+    mais en posant un regard conscient et actuel sur l’architecture, son traitement demeure contemporain.
+  elements_caracteristiques:
+  - 'Composition alliant le passé et le présent qui retourne à la symbolique de l’histoire et qui se veut en réaction
+    à l’architecture moderne : lien avec le passé pour en repérer les typologies, emploie simultané de matériaux
+    modernes et traditionnels, considération de la tradition locale de construire à l’aide de l’architecture vernaculaire
+    et intégration à l’environnement bâti.'
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de béton, de pierre, généralement de pierre de taille ou de granit poli, de bois,
+    de métal ou de métal et de verre avec le mur rideau; structure en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur) ou plat aménagé en terrasse; revêtement de membrane(s). Toit plat à
+    faible pente (à égout extérieur); pente très faible (moins de 15°); revêtement de bardeau d’asphalte ou de membrane(s).
+    Toit à deux versants droits, à versants multiples ou asymétrique; pente faible (moins de 30°), moyenne (entre
+    30° et 45°) ou forte (plus de 45°); revêtement de bardeau d’asphalte ou de tôle profilée.
+  - Porte à panneau avec vitrage, pleine ou entièrement vitrée; fenêtres avec vitrage clair, teinté, réfléchissant,
+    dépoli ou à motifs.
+  - 'Saillies : galerie, marquise, perron et portail.'
+  - Ornements inspirés des siècles précédents.
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are broadcast, bank and office buildings. Recorded so the source's list can be
+  read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from
+  the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are broadcast, bank and
+  office buildings.'
+origin_en: Apparu en réaction au style international, le postmodernisme est un mouvement qui s’oppose à l’architecture
+  moderne dès les années 1960. L’architecte américain Robert Venturi est considéré comme l’un de ses précurseurs,
+  car il en pose les bases théoriques. Il s’agit entre autres de renouer avec le passé pour en repérer les modèles
+  typologiques, de s’inspirer de la tradition locale de construire à l’aide de l’architecture vernaculaire et de
+  prendre en considération le contexte dans lequel le bâtiment se trouve. Au Québec, le postmodernisme prend forme
+  autour de l’intérêt grandissant pour la conservation du patrimoine bâti, de la création du ministère des Affaires
+  culturelles (1961) et de la montée du mouvement nationaliste. Il se manifeste surtout à partir des années 1980
+  dans les tissus urbains anciens de Québec comme les quartiers Saint-Jean-Baptiste, Montcalm et Saint-Sacrement,
+  mais également dans celui du Vieux-Québec / Cap-Blanc / Colline parlementaire.
+related_buildings:
+- name: Édifice Radio-Canada
+  fiche_id: 658
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=658
+- name: Ancienne caisse populaire Saint-Vincent-de-Paul
+  fiche_id: 665
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=665
+- name: 80-130, Grande Allée Est
+  fiche_id: 5436
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5436
+- name: Édifice CIBC
+  fiche_id: 5786
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5786
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/901/49.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

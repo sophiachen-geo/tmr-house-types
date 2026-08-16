@@ -1,0 +1,134 @@
+id: quebec.maison-cubique
+place: quebec
+phase: p5
+name_en: Cubic house (Four Square)
+name_fr: Maison cubique
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- foursquare-hipped-2st
+styles:
+- foursquare
+style_label: null
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: hipped-or-pyramidal
+  pitch_deg: 25
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+- wood-shingle
+- asbestos-cement-shingle
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 504
+phase_confidence: verified
+courant: Vernaculaire industriel
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=504
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=504
+quartiers: null
+profile:
+  siting_landscape:
+  - Built above all during the first half of the 20th century, it is found in the quarters and suburbs of Québec
+    and is strictly associated with residential architecture.
+  - Though a single-family house to begin with, more than one dwelling may be found in it.
+  massing:
+  - 'Composition: a search for symmetry; single-family house which may be converted into a multi-unit one.'
+  - Generally square plan; imposing volume.
+  - Two to three occupied levels (two to two and a half storeys).
+  - Roof generally straight four-slope or truncated four-slope; low pitch, under 30°; low-pitch flat roof (external
+    drainage); very low pitch, under 15°; asphalt shingle, membrane, profiled or traditional sheet-metal covering.
+    Flat roof (basin or internal drainage); membrane covering.
+  - 'Projections sheltered by an awning: balcony, gallery wrapping or not, and perron; secondary bodies: annexe,
+    summer kitchen, porch and veranda.'
+  - 'Two variants: a first covered with a flat roof and another, commoner, capped with a low-pitched four-slope
+    roof, occasionally surmounted by a rooftop terrace, with an inhabited attic lit by dormers.'
+  articulation:
+  - 'Ornaments: brackets, finials, cornices, crowning, pediments, lambrequins and corner boards.'
+  - The ornament varies with the taste and the means of the owner.
+  openings:
+  - Arched openings, usually segmental, fitted with arches, chambranles and keystones.
+  - Compound casements with transom, paired sashes or compound sashes; dormers present or not.
+  - The openings are regularly distributed and the windows are casements with large panes, casements with transoms,
+    or sashes.
+  - Hipped, gabled, triangular or shed dormers.
+  materials:
+  - 'Walls: brick, wood board, wood shingle or asbestos shingle cladding.'
+  - Traditional sheet metal on the four-slope roof.
+profile_fr:
+  description:
+  - Conçue aux États-Unis par l’architecte Frank Kidder en 1891, la maison cubique (Four Square House) a été abondamment
+    diffusée dans les catalogues d’architecture en faisant valoir l’intérêt des dimensions de son espace habitable.
+    Le plan et les élévations d’apparence carrée, de même que les deux ou trois niveaux d’occupation confèrent effectivement
+    à cette maison un volume imposant. Surtout érigée durant la première moitié du 20e siècle, elle se retrouve
+    dans les quartiers et les banlieues de Québec et est strictement associée à l’architecture résidentielle. Bien
+    qu’il s’agisse d’une maison unifamiliale à l’origine, plus d’un logement peuvent s’y retrouver.
+  - La maison cubique présente deux variantes; une première couverte d’un toit plat et une autre, plus commune,
+    coiffée d’un toit à quatre versants et à faible pente. Ce dernier est par ailleurs revêtu de tôle traditionnelle,
+    surmonté à l’occasion d’une terrasse faîtière et possède un comble habitable muni de lucarnes à croupe, à pignon,
+    triangulaire ou en appentis.
+  - La brique est utilisée comme revêtement mural, mais également la planche à clin ou à feuillures, ou encore le
+    bardeau de cèdre ou d’amiante. La composition d’ensemble demeure classique; les ouvertures sont distribuées
+    de façon régulière et les fenêtres sont à battants et à grands carreaux, à battant avec imposte ou à guillotine.
+    Les galeries et les balcons sont fréquents tandis que l’ornementation varie selon le goût et les moyens financiers
+    du propriétaire.
+  elements_caracteristiques:
+  - 'Composition : recherche de symétrie; maison unifamiliale qui peut être transformée en maison à logements.'
+  - Plan généralement carré; volume imposant.
+  - Deux à trois niveaux d’occupation (2 à 2 étages ½).
+  - 'Murs : brique, revêtement de planche de bois, de bardeau de bois ou de bardeau d’amiante.'
+  - Toit généralement à quatre versants droits ou à quatre versants droits tronqués; pente faible (moins de 30°);
+    toit plat à faible pente (à égout extérieur); pente très faible (moins de 15°); revêtement de bardeau d’asphalte,
+    de membrane(s), de tôle profilée ou de tôle traditionnelle. Toit plat (bassin ou à égout intérieur); revêtement
+    de membrane(s).
+  - Ouvertures en arc, mais généralement en arc surbaissé, garnies d’arcs, de chambranles et de clefs; fenêtres
+    composées à battants avec imposte, à guillotine jumelées ou composées à guillotine; présence ou non de lucarnes.
+  - 'Saillies protégées par un auvent : balcon, galerie tournante ou non et perron; corps secondaires : corps d’annexe,
+    cuisine d’été, porche et véranda.'
+  - 'Ornements : aisseliers, amortissements, corniches, couronnement, frontons, lambrequins et planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=504), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: A square plan, square elevations and two or three levels — a lot of house for the footprint, which is
+  exactly what the American catalogues sold it on. The common version has a low four-slope roof with dormers in
+  an inhabited attic; the other is simply flat-topped.
+origin_en: Devised in the United States by the architect Frank Kidder in 1891, the cubic house (Four Square House)
+  was abundantly circulated in architectural catalogues, which made much of the size of its living space. The plan
+  and elevations of square appearance, and the two or three occupied levels, do give this house an imposing volume.
+  Built above all during the first half of the 20th century, it is found in the quarters and suburbs of Québec and
+  is strictly associated with residential architecture. Though a single-family house to begin with, more than one
+  dwelling may be found in it.
+related_buildings:
+- name: 496, 2e Avenue
+  fiche_id: 186
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=186
+- name: Maison Albert-Racine
+  fiche_id: 416
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=416
+- name: Maison Beaulé
+  fiche_id: 493
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=493
+- name: Maison Chrysanthe-Jobin
+  fiche_id: 494
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=494
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/504/26.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

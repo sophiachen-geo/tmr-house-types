@@ -1,0 +1,149 @@
+id: quebec.style-international
+place: quebec
+phase: p6
+name_en: International Style house (residential)
+name_fr: Style International
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- modern-slab-tower
+- modern-slab-flat-brick
+styles:
+- international-style
+style_label: null
+tenure_plan: single-family
+storeys: 2–3
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: horizontal
+principal_cladding:
+- stucco
+- clay-brick
+- metal
+- stone
+roofing: membrane
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-SIL
+conservation: []
+conservation_fr: null
+tid: 802
+phase_confidence: verified
+courant: Influences modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=802
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=802
+quartiers:
+- Sillery
+profile:
+  siting_landscape:
+  - The building is put up in an isolated context — that is, without any real regard for the environment or the
+    setting it is inserted into.
+  - The first manifestations of the International Style appear at Québec from 1935, notably with the building of
+    white or brick houses of stripped-down form at Sillery, designed among others by the architects Robert Blatter
+    and Charles A. Jean.
+  massing:
+  - 'Composition drawn from modernism, breaking totally with the forms of the past: a dominant horizontality, a
+    stripped-down character, the volumes set off and brought forward, without symmetry, without regard for the natural
+    and built environment, forms sometimes borrowed from the means of transport, fronts of smooth uniform surfaces,
+    a palette of neutral sober colours, and an exterior that accounts for the interior organisation of the building.'
+  - Assembly of volumes and play of solids and voids.
+  - Flat roof (basin or internal drainage) or flat roof laid out as a terrace; membrane covering.
+  - 'Projections: gallery, marquee, perron, pilotis, portal and portico.'
+  - The distinct volumes, expressing the interior functions, are assembled and treated uniformly.
+  articulation:
+  - The smooth exterior surfaces carry no ornament and their colours stay neutral and sober; walls covered in stucco
+    come in various shades of white, grey or light pastel.
+  - Regularity and stripping-down applied as a principle, using every possibility offered by concrete, steel and
+    glass.
+  openings:
+  - Numerous openings; panelled door with glazing, solid, or fully glazed.
+  - Corner windows, ribbon windows, or fixed lights with glass blocks.
+  materials:
+  - 'Walls: stone, concrete, metal, metal-and-glass curtain wall, or render cladding; frame of wood, steel or reinforced
+    concrete.'
+  - Concrete foundation with or without pilotis.
+profile_fr:
+  description:
+  - La caractéristique principale du style International est la construction de bâtiments en rupture totale avec
+    les traditions du passé. Les architectes qui adhèrent à cette école de pensée mettent en valeur les volumes
+    par des surfaces extérieures lisses et sans ornementation. Ces volumes pourront ainsi être reproduits partout
+    à travers le monde, avec le moins d’influences culturelles locales. Étant donné que tous les humains ont les
+    mêmes besoins (se loger, s’instruire, travailler, produire, etc.), l’architecture devrait être la même pour
+    tous. Les adeptes du style International souhaitent donc appliquer le principe de régularité et de dépouillement
+    et utiliser pour cela toutes les possibilités offertes par le béton, l’acier et le verre dans leur plus simple
+    expression.
+  - 'Ce style résulte du mariage des idées européennes découlant de l’école du Bauhaus avec les techniques de construction
+    en acier et en verre des États-Unis. L’un des fondements de cette approche nous vient de Ludwig Mies van der
+    Rohe, un architecte allemand qui a immigré aux États-Unis : « Less is more ». Cela signifie que plus l’architecture
+    est dépouillée et réduite à l’essentiel, plus elle est belle. Ce principe minimaliste prônant la simplicité
+    se matérialise dans des structures apparentes en acier ou en béton, des murs-rideaux constitués d’aluminium
+    et de verre ainsi que des murs dépouillés de tout artifice laissant apprécier la texture des matériaux.'
+  - On voit apparaître, dès 1935, les premières manifestations du style International à Québec, notamment avec la
+    construction de maisons blanches ou en brique aux formes épurées à Sillery, notamment conçues par l’architecte
+    Robert Blatter et Charles A. Jean, mais aussi des bâtiments commerciaux et institutionnels qui se démarquent
+    par leur dépouillement ornemental.
+  - Le bâtiment de style International est érigé dans un contexte isolé, c’est-à-dire sans véritable considération
+    pour l’environnement ou le milieu dans lequel il s’insère. Il présente une géométrie asymétrique, une horizontalité
+    dominante et une simplicité de la ligne. Le principe de régularité est appliqué pour les matériaux afin d’utiliser
+    les nouvelles possibilités techniques offertes par le béton, l’acier et le verre. Les volumes distincts, exprimant
+    les fonctions intérieures, sont assemblés et traités de manière uniforme. Leurs surfaces extérieures lisses
+    ne possèdent pas d’ornementation et leurs couleurs demeurent neutres et sobres. Les murs recouverts de stuc
+    se déclinent par exemple en diverses teintes de blancs, de gris ou de pastels légers. Il est également reconnaissable
+    à ses toitures plates et aménagées en terrasse, ses façades avec des jeux de pleins et de vides, ses nombreuses
+    ouvertures de formes variées ainsi que par ses fenêtres longues et étroites faisant office de bandeau.
+  elements_caracteristiques:
+  - 'Composition issue du modernisme qui rompt totalement avec les formes du passé : horizontalité dominante, caractère
+    épuré, effet et mise en valeur des volumes, sans symétrie, sans considération pour l’environnement naturel et
+    bâti, formes parfois empruntées aux moyens de transport, façades aux surfaces lisses et uniformes, palette de
+    couleurs neutres et sobres et l’extérieur rend compte de l’organisation intérieure du bâtiment.'
+  - Assemblage de volumes et jeux de pleins et de vides.
+  - Fondation en béton avec ou sans pilotis.
+  - 'Murs : revêtement de pierre, de béton, de métal, de métal et de verre avec le mur rideau ou d’enduit (stuc);
+    structure en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur) ou plat aménagé en terrasse; revêtement de membrane(s).
+  - Ouvertures nombreuses; porte à panneau avec vitrage, pleine ou entièrement vitrée; fenêtres en coin, en bandeau
+    ou fixes avec blocs de verre.
+  - 'Saillies : galerie, marquise, perron, pilotis, portail et portique.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=802), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: Smooth white walls, a flat roof, corner and ribbon windows, volumes assembled to show what is happening
+  inside and no ornament anywhere — a house built as though the site had no history. At Québec that means Sillery
+  from 1935, and Robert Blatter.
+origin_en: The principal characteristic of the International Style is building in total rupture with the traditions
+  of the past. The architects of this school set off the volumes with smooth unornamented exterior surfaces, so
+  that those volumes could be reproduced anywhere in the world with the least possible local cultural inflection.
+  The style results from the marriage of European ideas out of the Bauhaus with the steel-and-glass building techniques
+  of the United States; one of its foundations comes from Ludwig Mies van der Rohe — 'Less is more'. The first manifestations
+  appear at Québec from 1935, notably with white or brick houses of stripped-down form at Sillery designed by Robert
+  Blatter and Charles A. Jean.
+related_buildings:
+- name: Habitations Montferrand (2 de 3)
+  fiche_id: 2194
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2194
+- name: Habitations Montferrand (3 de 3)
+  fiche_id: 2197
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2197
+- name: Résidence Charles-Omer-Paquet
+  fiche_id: 2287
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2287
+- name: 1850, boulevard Laurier
+  fiche_id: 2303
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2303
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/802/40.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

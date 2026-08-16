@@ -1,0 +1,100 @@
+id: quebec.fonctionnalisme
+place: quebec
+phase: p6
+name_en: Fonctionnalisme
+name_fr: Fonctionnalisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 803
+is_residential: false
+courant: Influences modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=803
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=803
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - 'Au début du 20e siècle, le célèbre architecte de Chicago Louis Sullivan a résumé en une phrase l’un des principes
+    de l’architecture moderne : la forme suit la fonction (form follows function). Cette formulation, devenue le
+    credo du fonctionnalisme, est un principe selon lequel la forme des bâtiments doit être exclusivement l’expression
+    de leur usage. En résumé, une école doit ressembler à une école, une église doit exprimer sa vocation dans son
+    architecture, tout comme un immeuble d’appartements, une usine ou un édifice commercial. Ce principe s’oppose
+    à l’ornementation des styles éclectiques et académiques du 19e siècle auxquels il était reproché de plaquer
+    un même décor, sans distinction, à des structures de fonctions diverses et de viser la symétrie parfaite.'
+  - Selon la pensée fonctionnaliste, la volumétrie d’un bâtiment, ses ouvertures et tous les autres éléments liés
+    à son apparence doivent dériver uniquement de sa fonction. Cette proposition signifie que la beauté architecturale
+    d’un édifice découle du fait que ses aspects fonctionnels sont respectés. La lecture claire de la fonction dans
+    la forme d’un bâtiment implique que les cages d’escalier sont exprimées en volumes, que les espaces liés aux
+    fonctions principales sont largement fenêtrés et que les fonctions répétitives, comme des bureaux ou des classes,
+    se manifestent par des traitements reproduits plusieurs fois en façade.
+  - La libération des volumes est possible grâce aux techniques de construction nouvelles et à l’apparition des
+    matériaux modernes. L’expression de la fonction en tant que définition formelle amène la structure à se dissocier
+    de l’enveloppe, de par l’emploi du béton armé, d’ossatures métalliques apparentes et de parois de verre qui
+    monumentalisent le système constructif. Le bâtiment est perçu comme une œuvre d’art ou un objet visible sous
+    tous ses angles.
+  elements_caracteristiques:
+  - 'Composition issue des théories qui cherchent à répondre aux besoins concrets d’une société : la forme suit
+    la fonction (form follows function), caractère monumental du système constructif et l’extérieur rend compte
+    de l’organisation intérieure du bâtiment; bâtiment perçu comme une œuvre d’art ou un objet visible sous tous
+    ses angles.'
+  - Volumes simples.
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de béton, de pierre, de métal ou de métal et de verre avec le mur rideau; structure
+    en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Ouvertures nombreuses; porte à panneau avec vitrage, pleine ou entièrement vitrée.
+  - 'Saillies : balcons, galerie, marquise, perron, portail et portique.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a gallery, an office building and churches. Recorded so the source's list
+  can be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim
+  from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a gallery, an office
+  building and churches.'
+origin_en: 'Au début du 20e siècle, le célèbre architecte de Chicago Louis Sullivan a résumé en une phrase l’un
+  des principes de l’architecture moderne : la forme suit la fonction (form follows function). Cette formulation,
+  devenue le credo du fonctionnalisme, est un principe selon lequel la forme des bâtiments doit être exclusivement
+  l’expression de leur usage. En résumé, une école doit ressembler à une école, une église doit exprimer sa vocation
+  dans son architecture, tout comme un immeuble d’appartements, une usine ou un édifice commercial. Ce principe
+  s’oppose à l’ornementation des styles éclectiques et académiques du 19e siècle auxquels il était reproché de plaquer
+  un même décor, sans distinction, à des structures de fonctions diverses et de viser la symétrie parfaite.'
+related_buildings:
+- name: Galerie Saint-Jean
+  fiche_id: 14
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=14
+- name: Édifice Chauveau
+  fiche_id: 150
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=150
+- name: Église Saint-Pierre-aux-Liens
+  fiche_id: 223
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=223
+- name: Église Notre-Dame-des-Laurentides
+  fiche_id: 224
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=224
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/803/44.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,55 @@
+id: quebec.influences-francaises
+place: quebec
+phase: p1
+name_en: French influences (1608-1800)
+name_fr: Influences françaises
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influences françaises »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-francaises.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Les bâtiments d’inspiration française des 17e et 18e siècles sont issus des modèles français adaptés aux conditions
+    locales particulières, dont le climat, le savoir-faire et les matériaux disponibles en Nouvelle-France. Érigés
+    en pierre ou en bois, leur architecture se caractérise par une économie de moyens et un dépouillement ornemental.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1608-1800.'
+blurb_en: One of the thesaurus's nine top-level currents, 1608-1800.
+origin_en: Les bâtiments d’inspiration française des 17e et 18e siècles sont issus des modèles français adaptés
+  aux conditions locales particulières, dont le climat, le savoir-faire et les matériaux disponibles en Nouvelle-France.
+  Érigés en pierre ou en bois, leur architecture se caractérise par une économie de moyens et un dépouillement ornemental.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-francaises.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,138 @@
+id: trois-rivieres.maison-reconstruction-1908
+place: trois-rivieres
+phase: p4
+phase_confidence: verified
+display_order: 3
+name_en: The 1908 reconstruction block — brick, flat-roofed, built all at once
+name_fr: Le bâti de la reconstruction d'après l'incendie de 1908
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: assembled from the reconstruction passages of the four sources; no single fiche describes it
+sectors: [SP-TR]
+canonical:
+- mixed-use-flat-roof-block
+styles:
+- victorian-eclectic
+- second-empire
+- boomtown
+tenure_plan: mixed
+storeys: "2–3"
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+roofing: tar-and-membrane flat roof
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - The rebuilt quarter occupies the ground between the river and rues Bonaventure, Champlain and Saint-Georges,
+    where the fire of 22 June 1908 stopped.
+  - Streets were widened and in places redrawn as part of the reconstruction; inside the declared site the widths of
+    rues des Casernes and des Ursulines and the public space on the site of the destroyed parish church are listed by
+    the RPCQ as characteristic elements produced by the post-fire works.
+  - The RPCQ notes that in the south-west of the declared site "quelques rues plus larges témoignent du réaménagement
+    qui a suivi le grand incendie de 1908"; the former couvent des Filles de Jésus is set back from the roadway for
+    the same reason.
+  - Continuous street frontage, the buildings taking the full width of their lots.
+  massing:
+  - Two to three storeys, occasionally four, under a flat roof.
+  - Rows built as rows, by a small number of hands, within four years — the source of the quarter's evenness.
+  - Inside the declared site, 13 buildings — close to 30 % of it — went up between 1908 and 1925, among them the
+    three-storey Appartements Laviolette of 1918, put up in place of a building the flames had probably taken.
+  articulation:
+  - Parapets and cornices on consoles; keystones, sills and lintels at the openings; brick patterning and banding.
+  - The Plan de conservation lists exactly these as the marks of the brick urban houses and immeubles à logements
+    built at the turn of the twentieth century in the declared site.
+  - Some of the rebuilt houses are Second Empire — the City's fiche captions the imposing house at 186-190 rue
+    Bonaventure, with its turret, carved lintels and worked cornice, as built after the great fire of 1908.
+  - The City's Maison à mansarde fiche makes the same point for the modest register, noting mansard houses built
+    after the 1908 fire alongside the 1870-1900 majority.
+  openings:
+  - Symmetrical arrangement of openings, wood doors usually at the centre of the façade, many with a glazed transom.
+  - Casement windows with panes and sash windows are the two commonest types, with moulded wood chambranles and
+    sometimes shutters or louvred blinds.
+  - Bay windows at ground level on some turn-of-the-century houses; oriels on several of the immeubles à logements.
+  materials:
+  - Brick, decisively. Of the 45 buildings in the declared site, 28 are brick-clad and 18 of those postdate 1908.
+  - Across the city the shift is measurable — a built stock still mostly of wood at the start of the twentieth
+    century was 55 % brick-housed by 1931, in part through the post-fire construction.
+profile_fr:
+  description:
+  - "En 1912, quatre ans après le grand incendie, le centre-ville de Trois-Rivières est à nouveau animé. Rebâti par une
+    poignée d'architectes et d'entrepreneurs, le quartier présente une grande homogénéité architecturale qui se constate
+    encore aujourd'hui. Avec la reconstruction, les rues du centre-ville sont élargies, voire redessinées et on assiste
+    à l'agrandissement de la ville à l'ouest et au nord."
+  - "Dans la partie sud-ouest, quelques rues plus larges témoignent du réaménagement qui a suivi le grand incendie de
+    1908."
+  - "Par ailleurs, le site patrimonial semble peu affecté par l'incendie de 1908, mais il est modifié par le
+    développement de la ville qui s'ensuit. De fait, 13 bâtiments, soit près de 30 % des édifices du site patrimonial,
+    sont érigés entre 1908 et 1925. L'un d'entre eux, les Appartements Laviolette, est un immeuble résidentiel de trois
+    étages bâti en 1918 en remplacement d'une construction vraisemblablement détruite par les flammes en 1908."
+  elements_caracteristiques:
+  - "les éléments issus de travaux réalisés à la suite de l'incendie de 1908, dont la largeur des rues des Casernes et
+    des Ursulines ainsi que l'espace public aménagé à l'emplacement de l'ancienne église paroissiale"
+  ornementation:
+  - "Les maisons urbaines et les immeubles à logements multiples recouverts de briques construits au tournant du XXe
+    siècle se distinguent par des éléments architecturaux tels que des parapets, des corniches à consoles, des clefs,
+    des appuis et des linteaux aux ouvertures, des jeux de briques ainsi que des bandeaux."
+  - "Cette imposante résidence a été construite après le grand feu de 1908. Sa tourelle, ses linteaux sculptés au-dessus
+    des ouvertures et sa corniche ouvragée sont typiques du courant Second Empire."
+  ouvertures:
+  - "La plupart des bâtiments résidentiels et institutionnels se caractérisent par des ouvertures disposées de façon
+    symétrique… les types de fenêtres les plus communs sont les fenêtres à battants à carreaux et les fenêtres à
+    guillotine. Ces fenêtres sont munies de chambranles moulurés en bois et, parfois, de contrevents ou de persiennes.
+    Quelques maisons construites au tournant du XXe siècle ont des fenêtres en saillie au rez-de-chaussée, tandis que
+    plusieurs immeubles à logements sont dotés d'oriels."
+  revetements:
+  - "Des 45 bâtiments qui se trouvent dans le site patrimonial de Trois-Rivières, 28 ont un parement de brique, ce qui
+    correspond approximativement à 62 % du nombre total de bâtiments du site patrimonial… L'analyse de la date de
+    construction des immeubles ayant un parement de brique révèle que 18 d'entre eux ont été construits après 1908,
+    date correspondant à l'incendie majeur qui a détruit une partie de la ville de Trois-Rivières."
+profile_note: >-
+  There is no municipal fiche for this type — the City catalogues courants, not moments, and the reconstruction cuts
+  across several of them. The record is therefore assembled from the reconstruction passages of the four sources
+  actually held, and every column names which. The research memo behind this record quoted a 2005 Commission des biens
+  culturels characterisation for the massing ("Des rangées continues de bâtiments de trois ou quatre étages…"); that
+  study is cited in the RPCQ bibliography but no copy could be reached, so it is NOT quoted here and the massing is
+  given from the Plan de conservation's own counts instead. Note also that this type sits mostly OUTSIDE the declared
+  site — the fire took the commercial centre, and the ministry finds the declared site "peu affecté" — but SP-TR is
+  listed in its sectors because the declared site's south-western streets, its street widths and thirteen of its
+  buildings are products of the reconstruction.
+related_buildings:
+- name: "Appartements Laviolette — a three-storey residential building of 1918 replacing a construction probably destroyed by the flames in 1908; inside the declared site."
+  url: https://commons.wikimedia.org/wiki/Category:Appartements_Laviolette
+- name: "Édifice Labarre — an immeuble à logements multiples of 1925, cited by the Plan de conservation as an eloquent example of residential brick architecture."
+  url: https://commons.wikimedia.org/wiki/Category:%C3%89difice_Labarre
+- name: "186-190 rue Bonaventure — an imposing house built after the great fire of 1908, with a turret, carved lintels and a worked cornice in the Second Empire manner."
+  url: null
+- name: "Monument du Sacré-Cœur, on the block bounded by rues Saint-Pierre and des Casernes — erected to mark the site of the parish church destroyed in the 1908 fire."
+  url: null
+- name: "835-843 rue des Ursulines (1918) — one of the post-fire immeubles à logements the Plan de conservation names."
+  url: null
+blurb_en: >-
+  A quarter rebuilt in four years by, as the City puts it, a handful of architects and contractors — and the evenness
+  that produced is the heritage claim, not a side effect of it. Brick, flat roofs, two to four storeys in continuous
+  rows, ornament gathered into parapets, cornices on consoles, keystones, lintels and brick banding. The fire took the
+  commercial centre and largely spared the old core, so this fabric surrounds the declared site rather than filling it;
+  but the site's widened streets, its public space on the burnt parish church's ground, and thirteen of its
+  forty-five buildings belong to the same four years.
+origin_en: >-
+  The fire of 22 June 1908 began in a hay store, pushed back the city's eight firefighters within a quarter of an hour,
+  and brought help from Shawinigan, Grand-Mère, Québec and Montréal. How much it destroyed is genuinely contested and
+  the figures are set out with their attributions in the notes on the place page — the City says "près de 800
+  bâtiments", its own Patri-Arch study says "environ 200 bâtiments", Radio-Canada says a quarter of the city and no
+  casualties, and the UQTR account reconciles the two counts as buildings-including-sheds against residences. What is
+  not contested is the speed and the singleness of the rebuilding, and its material — a city still largely of wood in
+  1900 was 55 % brick-housed by 1931.
+photos:
+- file: assets/places/trois-rivieres/appartements-laviolette-commons.jpg
+  credit: >-
+    Appartements Laviolette, in the site patrimonial de Trois-Rivières (March 2020) — a three-storey residential
+    building of 1918 that replaced a construction the 1908 fire had probably destroyed. © Fralambert, Wikimedia
+    Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Appartements_Laviolette_01.jpg
+  kind: single

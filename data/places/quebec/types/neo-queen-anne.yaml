@@ -1,0 +1,149 @@
+id: quebec.neo-queen-anne
+place: quebec
+phase: p5
+name_en: Neo-Queen Anne house
+name_fr: Néo-Queen Anne
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- queen-anne-irregular-2-5st
+styles:
+- queen-anne
+- victorian-eclectic
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled-multi
+  pitch_deg: 45
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+- stone
+- wood
+- roughcast
+- stucco
+roofing: slate
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 404
+phase_confidence: verified
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=404
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=404
+quartiers: null
+profile:
+  siting_landscape:
+  - In vogue between 1880 and 1915 with the anglophone community of Québec, and used almost exclusively in residential
+    architecture.
+  - The bourgeois houses, combining medieval picturesque with Georgian classicism, are associated with the rural
+    and suburban parts of the city.
+  massing:
+  - 'Composition drawn from the revival of English vernacular architecture, itself drawn from old rustic cottages:
+    a refined character, asymmetrical fronts, decoration at once simple and elaborate, and a contrasting treatment
+    of materials and ornaments; a picturesque effect combining the medieval picturesque with Georgian classicism.'
+  - Irregular plan; articulated volumes.
+  - Two to three occupied levels (one and a half to two and a half storeys).
+  - Straight two- or four-slope roof, truncated four-slope roof crowned with a rooftop terrace, multi-slope or asymmetrical;
+    medium pitch, about 45°.
+  - 'Projections: avant-corps, balcony, chimneys, logettes, oriels and perron; projections capped with conical roofs:
+    gallery, wrapping or not, towers and turrets; secondary body: side wing under a straight two-slope roof.'
+  articulation:
+  - 'Ornaments: bandeaux, quoins, columns, consoles, cornices, finials, pediments, cut-out woodwork, gables, corner
+    boards and cornice returns.'
+  - The ornamental treatment of the materials, at once textured and coloured, contrasts with the principal cladding
+    and picks out the different parts of the construction — the base, the asymmetrical fronts, the irregular steep
+    roofs, the chimney stacks, the dormers and the articulated volumes.
+  openings:
+  - Rectangular openings fitted with chambranles, keystones, lintels and flat arches.
+  - Panelled door with or without glazing, surmounted by a transom.
+  - Casements with large panes, or sashes with or without glazing bars; dormers present.
+  materials:
+  - 'Walls: textured or plain stone, wood, roughcast or stucco cladding, but generally red brick.'
+  - Stone foundation raised above the ground.
+  - Slate or traditional sheet-metal roof covering.
+profile_fr:
+  description:
+  - Le style néo-Queen Anne apparaît en Grande-Bretagne vers le milieu du 19e siècle, notamment grâce à l’architecte
+    Richard Norman Shaw qui en est le principal instigateur. Particulièrement prisé auprès de la classe moyenne
+    issue de la période industrielle, ce style véhicule le renouveau de l’architecture vernaculaire anglaise en
+    puisant son vocabulaire des cottages rustiques anciens. Malgré le fait qu’il tire son nom de la reine Anne Stuart,
+    il présente peu de lien avec l’architecture pratiquée sous son règne (1702-1714). Dans un certain sens, il se
+    réfère plutôt au passage du 17e au 18e siècle, soit à la transition entre la période historique du Moyen Âge
+    et celle de la constitution de l’Europe moderne.
+  - En vogue entre 1880 et 1915 auprès de la communauté anglophone de Québec, le style néo-Queen Anne est utilisé
+    presque exclusivement en architecture résidentielle où la recherche de pittoresque devient la norme établie
+    au cours de l’ère victorienne.
+  - Les maisons bourgeoises, combinant ainsi le pittoresque moyenâgeux au classicisme géorgien, sont associées au
+    milieu rural et suburbain de la ville.
+  - La maison de style néo-Queen Anne est recouverte de bois, de pierre ou de crépi, mais elle fait généralement
+    usage de brique rouge. Le traitement ornemental de ces matériaux, à la fois texturé et coloré, contraste avec
+    le revêtement principal. Ils viennent de ce fait souligner les différentes parties de la construction telles
+    que le soubassement, les façades asymétriques, les toitures irrégulières et à forte pente, les souches de cheminée,
+    les lucarnes ainsi que les volumes articulés et ponctués par des ailes, des frontons, des pignons ou des saillies.
+    Ces dernières comptent par exemple des tourelles circulaires ou carrées, des avant-corps munis d’oriels ou de
+    logettes, de même que des galeries tournantes couvertes de toits coniques. Afin de concevoir une maison de style
+    néo-Queen Anne, une composition raffinée et un décor à la fois simple et élaboré demeurent essentiels.
+  elements_caracteristiques:
+  - 'Composition issue du renouveau de l’architecture vernaculaire anglaise qui s’inspire des cottages rustiques
+    anciens : caractère raffiné, façades asymétriques, décor simple et élaboré et traitement des matériaux et des
+    ornements de manière contrastante; création d’un effet pittoresque combinant le pittoresque moyenâgeux au classicisme
+    géorgien.'
+  - Plan irrégulier; volumes articulés.
+  - Deux à trois niveaux d’occupation (1 étage ½ à 2 étages ½).
+  - Fondation en pierre visible hors sol.
+  - 'Murs : revêtement texturé ou non de pierre, de bois, de crépi ou d’enduit (stuc), mais généralement de brique
+    rouge.'
+  - Toit à deux ou à quatre versants droits, à quatre versants droits tronqués couronné d’une terrasse faîtière,
+    à versants multiples ou asymétrique; pente moyenne (environ 45°); revêtement d’ardoise ou de tôle traditionnelle.
+  - Ouvertures rectangulaires garnies de chambranles, de clefs, de linteaux et de plate-bande; porte à panneau(x)
+    avec ou sans vitrage surmontée d’une imposte; fenêtres à battants et à grands carreaux ou à guillotine avec
+    ou sans petit-bois; présence de lucarnes.
+  - 'Saillies : avant-corps, balcon, cheminées, logettes, oriels et perron; saillies coiffées de toits coniques
+    : galerie tournante ou non, tours et tourelles; corps secondaire : aile latérale coiffée d’un toit à deux versants
+    droits.'
+  - 'Ornements : bandeaux, chaînes d’angle, colonnes, consoles, corniches, épis, frontons, garnitures de bois découpées,
+    pignons, planches cornières et retours d’équerre.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=404), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The picturesque taken as far as it will go: an irregular plan, articulated volumes, asymmetrical fronts,
+  turrets under conical roofs, oriels and a wrap-around gallery, all in red brick whose texture and colour are worked
+  deliberately against the trim. Almost exclusively a house, and almost exclusively an anglophone one.'
+origin_en: The neo-Queen Anne style appeared in Britain about the middle of the 19th century, largely through the
+  architect Richard Norman Shaw. Particularly prized by the middle class of the industrial period, it carried the
+  revival of English vernacular architecture, drawing its vocabulary from old rustic cottages. Despite taking its
+  name from Queen Anne Stuart it has little connection with the architecture built under her reign (1702–1714).
+  In vogue between 1880 and 1915 with the anglophone community of Québec, it is used almost exclusively in residential
+  architecture, where the search for the picturesque had become the established norm of the Victorian era.
+related_buildings:
+- name: Maison Joseph-Sirois
+  fiche_id: 434
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=434
+- name: Maison Robert-Stanislas-Murphy
+  fiche_id: 435
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=435
+- name: 4, boulevard René-Lévesque Est
+  fiche_id: 439
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=439
+- name: Maison Marguerite-Marie-Parent
+  fiche_id: 2595
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2595
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/404/19.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

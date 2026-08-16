@@ -1,0 +1,58 @@
+id: quebec.influences-marginales
+place: quebec
+phase: p6
+name_en: Marginal influences (1910-1960)
+name_fr: Influences marginales
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influences marginales »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-marginales.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - En réaction à l’industrialisation et à la modernité montante, les influences marginales apparaissent au début
+    du XXe siècle. Venues d’Europe, elles sont portées par une idéologie nationaliste ou un désir de créer une architecture
+    originale et authentique. Elles prônent l’emploi de matériaux traditionnels ou locaux dont découle une ornementation
+    sans artifice. À Québec, ces principes se transposent surtout aux bâtiments à fonction résidentielle ou religieuse.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1910-1960.'
+blurb_en: One of the thesaurus's nine top-level currents, 1910-1960.
+origin_en: En réaction à l’industrialisation et à la modernité montante, les influences marginales apparaissent
+  au début du XXe siècle. Venues d’Europe, elles sont portées par une idéologie nationaliste ou un désir de créer
+  une architecture originale et authentique. Elles prônent l’emploi de matériaux traditionnels ou locaux dont découle
+  une ornementation sans artifice. À Québec, ces principes se transposent surtout aux bâtiments à fonction résidentielle
+  ou religieuse.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-marginales.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

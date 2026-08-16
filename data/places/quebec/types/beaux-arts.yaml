@@ -1,0 +1,107 @@
+id: quebec.beaux-arts
+place: quebec
+phase: p6
+name_en: Beaux-arts
+name_fr: Beaux-arts
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 602
+is_residential: false
+courant: Influences traditionnelles et modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=602
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=602
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le style Beaux-arts est en quelque sorte l’aboutissement de 200 ans d’un enseignement placé sous l’autorité
+    de l’école des Beaux-arts, en France, qui lui donne ses principales orientations. Considérée comme la plus prestigieuse
+    école au monde à la fin du 19e siècle, elle accueille des étudiants de tout l'Occident venant parfaire leur
+    formation. L'architecture française de la Renaissance et les modèles classiques y sont enseignés. Le style Beaux-arts
+    se répand en Amérique du Nord par le biais des architectes qui ont fréquenté cette école en grand nombre et
+    par l'instauration de programmes de formation calqués sur le modèle parisien. Au Québec, l'apparition du style
+    Beaux-arts correspond plus particulièrement à la période durant laquelle Louis-Alexandre Taschereau est premier
+    ministre (1920-1936). Une école des Beaux-arts est alors implantée à Québec en 1922 et le ministère des Travaux
+    publics transforme son Service d'architecture en 1927. Le personnel nouvellement engagé dans le département
+    possède une formation Beaux-Arts.
+  - Le style Beaux-arts privilégie un vocabulaire classique tout en véhiculant une image de modernité. Il renouvelle
+    ainsi le classicisme, en plus de préconiser l'usage de techniques et de matériaux nouveaux. À Québec, il relève
+    d’une conception surtout réservée aux bâtiments publics de l’État ou ceux à caractère monumental.
+  - Le bâtiment Beaux-arts présente une composition architecturale fondée sur trois principes, soit la clarté du
+    plan, l’équilibre des proportions et le caractère qui doit refléter la vocation et l’importance de la construction
+    dans le milieu. Il offre un équilibre entre le tout et ses parties, notamment par le traitement sobre du vocabulaire
+    classique dans une grille de composition respectant les règles de symétrie. L’ornementation renvoie ainsi à
+    l’utilisation de frontons, bandeaux, colonnes, pilastres ou corniches traitées de manière originale ou nouvelle.
+    Le volume imposant du bâtiment permet quant à lui de favoriser l’intégration de procédés de constructions modernes
+    telles que les structures d’acier, les toits plats et les systèmes mécaniques.
+  elements_caracteristiques:
+  - 'Composition sobre, mais renouvelée de l’idéal classique avec l’emploi de techniques et de matériaux nouveaux
+    permettant de véhiculer une image de modernité : clarté du plan, équilibre des proportions et caractère qui
+    reflète la fonction et l’importance du bâtiment dans le milieu.'
+  - Volume imposant.
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de brique ou de béton, mais généralement de pierre; structure en bois, en acier ou en béton
+    armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Ouvertures régulières et rectangulaires ou en arc surmontées ou non d’impostes et garnies d’arcs, de clefs,
+    d’encadrements et de linteaux; porte à panneau(x) avec ou sans vitrage garnie d’un portail; fenêtres à battants
+    et à grands carreaux ou à guillotine et à petits carreaux.
+  - 'Saillies : avant-corps, escalier monumental, perrons et portail.'
+  - 'Ornements classiques : balustrade de couronnement, bas-reliefs, bandeaux, chaînes d’angle, colonnes, consoles,
+    corniches, entablements, frontons et pilastres.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are commercial blocks on rue Saint-Jean. Recorded so the source's list can be
+  read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from
+  the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are commercial blocks
+  on rue Saint-Jean.'
+origin_en: Le style Beaux-arts est en quelque sorte l’aboutissement de 200 ans d’un enseignement placé sous l’autorité
+  de l’école des Beaux-arts, en France, qui lui donne ses principales orientations. Considérée comme la plus prestigieuse
+  école au monde à la fin du 19e siècle, elle accueille des étudiants de tout l'Occident venant parfaire leur formation.
+  L'architecture française de la Renaissance et les modèles classiques y sont enseignés. Le style Beaux-arts se
+  répand en Amérique du Nord par le biais des architectes qui ont fréquenté cette école en grand nombre et par l'instauration
+  de programmes de formation calqués sur le modèle parisien. Au Québec, l'apparition du style Beaux-arts correspond
+  plus particulièrement à la période durant laquelle Louis-Alexandre Taschereau est premier ministre (1920-1936).
+  Une école des Beaux-arts est alors implantée à Québec en 1922 et le ministère des Travaux publics transforme son
+  Service d'architecture en 1927. Le personnel nouvellement engagé dans le département possède une formation Beaux-Arts.
+related_buildings:
+- name: 1150, rue Saint-Jean
+  fiche_id: 65
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=65
+- name: 1160-1170, rue Saint-Jean
+  fiche_id: 67
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=67
+- name: 1174-1180, rue Saint-Jean
+  fiche_id: 68
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=68
+- name: 1139-1143, rue Saint-Jean
+  fiche_id: 143
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=143
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/602/35.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

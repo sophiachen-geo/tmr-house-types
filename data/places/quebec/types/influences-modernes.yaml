@@ -1,0 +1,87 @@
+id: quebec.influences-modernes
+place: quebec
+phase: p6
+name_en: Modern influences (1940-1980)
+name_fr: Influences modernes
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influences modernes »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-modernes.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Les influences modernes commencent à se manifester dès le tournant du XXe siècle. Les références au passé sont
+    peu à peu mises de côté pour en arriver à une architecture en rupture avec la tradition. Les nouvelles possibilités
+    techniques, entre autres amenées par la production en série, permettent de construire des bâtiments en utilisant
+    des matériaux tels que l’acier, l'aluminium, le béton et le verre. Les influences modernes, venues d’Europe
+    et ensuite des États-Unis, apparaissent principalement au Québec après la Seconde Guerre mondiale. Les transformations
+    sociales amenées par la Révolution tranquille, l’accès à la propriété privée lié à l’individualisme, l’étalement
+    urbain avec le développement de la banlieue ainsi que la planification du territoire associée aux schémas d’aménagement
+    des villes sont parmi les premiers phénomènes qui conduisent au renouvellement du vocabulaire architectural.
+    Née à la fois du mouvement moderne européen et de l'architecture rationaliste américaine, l'architecture moderne
+    est complètement coupée du passé. Elle se développe surtout au Québec après la Seconde Guerre mondiale, à l’aide
+    de procédés de construction tels que la standardisation et la préfabrication. Bien qu’elle se retrouve sur l’ensemble
+    du territoire de la ville de Québec, elle marque plus particulièrement la construction d’édifices institutionnels,
+    le développement en périphérie des tissus urbains anciens et la croissance suburbaine. L’architecture moderne
+    se caractérise par l’emploi de matériaux industriels qui témoigne des avancés techniques comme l’accélération
+    du coulage du béton et l’augmentation de la résistance des structures en acier ou en béton armé. Elle peut aussi
+    faire référence au savoir-faire nouveau comme l’installation de murs rideaux et la construction sur pilotis.
+    Les bâtiments modernes présentent donc des formes diverses et variées qui laissent une grande place à l’expérimentation,
+    des volumes simples et librement disposés dans l’espace, en plus d’une absence d’ornementation permettant de
+    mettre en valeur les matériaux utilisés.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1940-1980.'
+blurb_en: One of the thesaurus's nine top-level currents, 1940-1980.
+origin_en: Les influences modernes commencent à se manifester dès le tournant du XXe siècle. Les références au passé
+  sont peu à peu mises de côté pour en arriver à une architecture en rupture avec la tradition. Les nouvelles possibilités
+  techniques, entre autres amenées par la production en série, permettent de construire des bâtiments en utilisant
+  des matériaux tels que l’acier, l'aluminium, le béton et le verre. Les influences modernes, venues d’Europe et
+  ensuite des États-Unis, apparaissent principalement au Québec après la Seconde Guerre mondiale. Les transformations
+  sociales amenées par la Révolution tranquille, l’accès à la propriété privée lié à l’individualisme, l’étalement
+  urbain avec le développement de la banlieue ainsi que la planification du territoire associée aux schémas d’aménagement
+  des villes sont parmi les premiers phénomènes qui conduisent au renouvellement du vocabulaire architectural. Née
+  à la fois du mouvement moderne européen et de l'architecture rationaliste américaine, l'architecture moderne est
+  complètement coupée du passé. Elle se développe surtout au Québec après la Seconde Guerre mondiale, à l’aide de
+  procédés de construction tels que la standardisation et la préfabrication. Bien qu’elle se retrouve sur l’ensemble
+  du territoire de la ville de Québec, elle marque plus particulièrement la construction d’édifices institutionnels,
+  le développement en périphérie des tissus urbains anciens et la croissance suburbaine. L’architecture moderne
+  se caractérise par l’emploi de matériaux industriels qui témoigne des avancés techniques comme l’accélération
+  du coulage du béton et l’augmentation de la résistance des structures en acier ou en béton armé. Elle peut aussi
+  faire référence au savoir-faire nouveau comme l’installation de murs rideaux et la construction sur pilotis. Les
+  bâtiments modernes présentent donc des formes diverses et variées qui laissent une grande place à l’expérimentation,
+  des volumes simples et librement disposés dans l’espace, en plus d’une absence d’ornementation permettant de mettre
+  en valeur les matériaux utilisés.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-modernes.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

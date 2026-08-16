@@ -1,0 +1,99 @@
+id: quebec.neoclassique
+place: quebec
+phase: p2
+name_en: Néoclassique (courant)
+name_fr: Néoclassique
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 202
+is_courant: true
+courant: Influences britanniques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=202
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=202
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le style néoclassique se manifeste au Québec à partir du début du 19e siècle. Il est surtout diffusé sous le
+    Régime anglais, avec l’arrivée des ingénieurs et des architectes britanniques voulant affirmer leur rôle sur
+    le territoire. Il s’inspire de l’architecture antique grecque et romaine qui est redécouverte grâce aux fouilles
+    archéologiques effectuées en Europe à la fin du 18e siècle. Le style néoclassique propose une réinterprétation
+    du vocabulaire et de la composition des modèles traditionnels. Il se caractérise par la monumentalité et la
+    rigueur en faisant usage d’éléments classiques qui sont utilisés de façon sévère et codifiée. Les façades symétriques
+    présentent donc une ornementation logique avec l’emploi de colonnes, pilastres, frontons, chaînes d’angles,
+    arcades et corniches. Revêtus de pierre de taille ou de crépi, ces bâtiments possèdent des toitures à quatre
+    versants à faible pente recouvertes de tôle traditionnelle ainsi que des fenêtres à guillotine à grands carreaux.
+    Ils dégagent par ailleurs un air solennel, qu’ils soient de petite ou de grande envergure. Les plus complexes
+    d’entre eux sont souvent composés d’un corps principal en avancée et d’ailes latérales.
+  - Le style néoclassique marque l’estompement du caractère français qui dominait jusqu'alors dans le paysage bâti
+    de Québec, un état qui a été conditionné par l’évolution des besoins, la prise en charge de l’architecture par
+    des professionnels, la modification des techniques de construction et le développement urbain.
+  elements_caracteristiques:
+  - 'Composition sévère et codifiée de l’idéal classique : caractère monumental, aspect solennel et recherche de
+    symétrie.'
+  - Fondation en pierre.
+  - Murs en maçonnerie de pierre, généralement en pierre de taille; revêtement de crépi ou d’enduit (stuc).
+  - Toit à quatre versants droits; pente faible (moins de 30°); revêtement de tôle traditionnelle.
+  - Ouvertures régulières; porte à panneau(x) avec ou sans vitrage surmontée d’une imposte et garnie d’un portail;
+    fenêtres à battants et à petits ou à grands carreaux garnies d’impostes ou à guillotine et à petits carreaux.
+  - 'Saillies : avant-corps, dôme, portail et portique; corps secondaires : ailes latérales coiffées d’un toit à
+    deux versants droits et donnant l’impression du corps principal en avancé.'
+  - 'Ornements classiques cohérents avec la composition : arcades, colonnes, corniches, frontons et pilastres.'
+profile_note: 'A parent node of the thesaurus (a *courant*), not a building type: recorded so the source''s tree
+  can be read whole, but given no card and no page of its own. Its French is verbatim from the fiche; no English
+  five-column profile is written, because the node describes a family rather than a house. `tenure_plan` is set
+  to `mixed` because the schema requires a value and the family spans several.'
+blurb_en: 'A parent node of the thesaurus: the Néoclassique current, under which the City files its named house
+  types.'
+origin_en: Le style néoclassique se manifeste au Québec à partir du début du 19e siècle. Il est surtout diffusé
+  sous le Régime anglais, avec l’arrivée des ingénieurs et des architectes britanniques voulant affirmer leur rôle
+  sur le territoire. Il s’inspire de l’architecture antique grecque et romaine qui est redécouverte grâce aux fouilles
+  archéologiques effectuées en Europe à la fin du 18e siècle. Le style néoclassique propose une réinterprétation
+  du vocabulaire et de la composition des modèles traditionnels. Il se caractérise par la monumentalité et la rigueur
+  en faisant usage d’éléments classiques qui sont utilisés de façon sévère et codifiée. Les façades symétriques
+  présentent donc une ornementation logique avec l’emploi de colonnes, pilastres, frontons, chaînes d’angles, arcades
+  et corniches. Revêtus de pierre de taille ou de crépi, ces bâtiments possèdent des toitures à quatre versants
+  à faible pente recouvertes de tôle traditionnelle ainsi que des fenêtres à guillotine à grands carreaux. Ils dégagent
+  par ailleurs un air solennel, qu’ils soient de petite ou de grande envergure. Les plus complexes d’entre eux sont
+  souvent composés d’un corps principal en avancée et d’ailes latérales.
+related_buildings:
+- name: Presbytère St.Patrick Church
+  fiche_id: 34
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=34
+- name: Église Saint-Zéphirin-de-Stadacona
+  fiche_id: 282
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=282
+- name: Cathédrale Holy Trinity
+  fiche_id: 344
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=344
+- name: Villa Spencer Grange
+  fiche_id: 2159
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2159
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/202/5.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

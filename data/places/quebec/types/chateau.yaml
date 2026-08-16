@@ -1,0 +1,110 @@
+id: quebec.chateau
+place: quebec
+phase: p5
+name_en: Château
+name_fr: Château
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 411
+is_residential: false
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=411
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=411
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le style Château évoque l'architecture médiévale, mais plus précisément l’architecture militaire des châteaux
+    forts et celle des châteaux de la Loire en France. Ces derniers ont été construits ou passablement modifiés
+    entre le 15e et 16e siècle, soit pendant la Renaissance française. Apparu à la fin du 19e siècle à Québec, le
+    style Château prend définitivement forme lorsque le Chemin de fer Canadien Pacifique décide d'y ériger un hôtel
+    de luxe, le château Frontenac (1892-1993), conçu par l’architecte américain Bruce Price. La silhouette découpée
+    du bâtiment aux allures de château forteresse est renforcée par sa localisation sur le cap Diamant; elle renvoie
+    de ce fait aux notions de pittoresque et de romantisme en vogue durant l’ère victorienne. Bien qu’associé de
+    près à la ville de Québec, le style Château peut être considéré comme un style national canadien. Il s’étend
+    rapidement à travers le pays à l’aide d’un ensemble d’hôtels et de gares implanté par les compagnies ferroviaires.
+    Il connaît par ailleurs un nouvel essor à Québec, suite à la construction de la gare du Palais (1915-1917) et
+    de la tour centrale du château Frontenac (1920-1924). Dans les années 1920 et 1930, il est adopté par le gouvernement
+    fédéral pour l’érection de certains édifices publics comme les bureaux de poste et les édifices administratifs.
+  - Tant au niveau formel que décoratif, le bâtiment de style Château s’inspire du vocabulaire architectural des
+    châteaux du Moyen Âge et de la Renaissance. Il se caractérise entre autres par des volumes imposants et massifs
+    en pierre, des toitures aux pentes abruptes, des tours et des tourelles coiffées de toits coniques, des contreforts,
+    des meurtrières, des crénelages, des mâchicoulis, des poivrières et des échauguettes. Le tout est agencé pour
+    créer une composition pittoresque où l'asymétrie est généralement la norme. La brique de couleur brun-rouge
+    pour les façades et la tôle de cuivre à baguettes pour les toitures peuvent aussi être employées, ce qui dénote
+    plutôt l’influence des châteaux néogothiques anglais ou écossais. L’ornementation associée au style Château
+    est également reprise en architecture résidentielle. Traitée avec retenue, elle se trouve en bordure du toit.
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture militaire qui s’inspire des châteaux du Moyen Âge et de la Renaissance
+    : avec ou sans symétrie et forme s’exprimant à travers la silhouette médiévale ou pittoresque du bâtiment; style
+    repris en architecture résidentielle, généralement avec les ornements placés en bordure du toit.'
+  - Plan simple ou irrégulier; volumes imposants et massifs.
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de pierre ou de brique brun-rouge.'
+  - Toit à croupe, à quatre versants droits ou à quatre versants droits tronqués; pente forte (plus de 45°); revêtement
+    de tôle traditionnelle, mais généralement de tôle de cuivre à baguettes.
+  - Ouvertures isolées, jumelées ou groupées rectangulaires ou en arc garnies d’arcs, de clefs, d’encadrements et
+    de linteaux; porte à panneau(x) avec ou sans vitrage surmontée d’une imposte et garnie d’un portail; fenêtres
+    à meneaux et à croisillons de pierre, à battants et à petits ou à grands carreaux, à guillotine et à petits
+    carreaux ou à petit-bois ou fixes avec ou sans petits-fers; présence de lucarnes.
+  - 'Saillies : avant-corps, contreforts et portail; saillies coiffées de toits coniques : tours et tourelles.'
+  - 'Ornements : bandeaux, chaînes d’angle, créneaux, échauguettes, épis, pignons, poivrières, mâchicoulis et meurtrières.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are hotels and institutional pavilions. Recorded so the source's list can be read
+  whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the
+  fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are hotels and institutional
+  pavilions.'
+origin_en: Le style Château évoque l'architecture médiévale, mais plus précisément l’architecture militaire des
+  châteaux forts et celle des châteaux de la Loire en France. Ces derniers ont été construits ou passablement modifiés
+  entre le 15e et 16e siècle, soit pendant la Renaissance française. Apparu à la fin du 19e siècle à Québec, le
+  style Château prend définitivement forme lorsque le Chemin de fer Canadien Pacifique décide d'y ériger un hôtel
+  de luxe, le château Frontenac (1892-1993), conçu par l’architecte américain Bruce Price. La silhouette découpée
+  du bâtiment aux allures de château forteresse est renforcée par sa localisation sur le cap Diamant; elle renvoie
+  de ce fait aux notions de pittoresque et de romantisme en vogue durant l’ère victorienne. Bien qu’associé de près
+  à la ville de Québec, le style Château peut être considéré comme un style national canadien. Il s’étend rapidement
+  à travers le pays à l’aide d’un ensemble d’hôtels et de gares implanté par les compagnies ferroviaires. Il connaît
+  par ailleurs un nouvel essor à Québec, suite à la construction de la gare du Palais (1915-1917) et de la tour
+  centrale du château Frontenac (1920-1924). Dans les années 1920 et 1930, il est adopté par le gouvernement fédéral
+  pour l’érection de certains édifices publics comme les bureaux de poste et les édifices administratifs.
+related_buildings:
+- name: Hôtel Victoria / Pavillon d'entrée
+  fiche_id: 71
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=71
+- name: Pavillon principal de l'ancien Hôpital Jeffery-Hale
+  fiche_id: 425
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=425
+- name: Édifice Léopold-Poliquin
+  fiche_id: 693
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=693
+- name: Maison Elzéar-Charest
+  fiche_id: 920
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=920
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/411/22B.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

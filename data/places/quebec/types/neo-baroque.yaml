@@ -1,0 +1,111 @@
+id: quebec.neo-baroque
+place: quebec
+phase: p5
+name_en: Néo-baroque
+name_fr: Néo-baroque
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 408
+is_residential: false
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=408
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=408
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - L’architecture baroque s’est développée de la fin du 17e jusqu’au milieu 18e siècle. Née en Italie, elle est
+    ensuite apparue dans la plupart des pays d’Europe. La basilique Saint-Pierre de Rome (1506-1626) et la cathédrale
+    Saint-Paul de Londres (1675-1708) sont considérées comme deux de ses œuvres marquantes. Bien qu’elle applique
+    les règles esthétiques et décoratives de la période classique, elle s’inspire aussi des valeurs de la Renaissance.
+    Empreinte d’une certaine liberté, elle découle d’un maniérisme qui cherche à produire des effets à la fois contrastants
+    et précieux. L’architecture baroque provient donc de cette idéologie et par extension, à partir du milieu du
+    19e siècle, apparait le style néo-baroque. Ce dernier se réfère aux œuvres italiennes et françaises du 16e siècle,
+    mais il se définit par un traitement plus symétrique et grandiose où l’abondance de l’ornementation est de mise.
+    Apprécié par la communauté catholique, il se fait cependant discret à Québec. Il est présent entre 1890 et 1920,
+    tant en milieu urbain que semi-urbain. Il est surtout employé pour l’érection de lieux de cultes, de même que
+    pour les institutions, les commerces et les résidences qui veulent montrer une certaine prestance.
+  - Le bâtiment de style néo-baroque est traité avec opulence. Il comprend une composition régulière, équilibrée
+    et monumentale ainsi qu’un décor issu du vocabulaire classique. Un effet de lourdeur et de majesté est créé
+    par la combinaison des volumes, des surfaces courbes et contre-courbes ainsi que des saillies telles que le
+    dôme et le portique. La surcharge de l’ornementation est visible, notamment avec les murs à bossages variés
+    et les ouvertures couronnées de frontons brisés ou de triples clefs de voûte. Avec l’emploi de matériaux riches,
+    le style néo-baroque se reflète également à l’intérieur du bâtiment. Une église possède par exemple une coupole
+    et des baies permettant divers jeux d’ombres et de lumières. Le baldaquin du maître-autel est par ailleurs considéré
+    comme un élément central du style néo-baroque. Il s’agit d’une construction, soutenue par des colonnes, qui
+    est réalisée en bois, en marbre ou en métal.
+  elements_caracteristiques:
+  - 'Composition issue de l’idéal classique, des valeurs de la Renaissance et d’un maniérisme visant à produire
+    des effets à la fois contrastants et précieux : recherche d’harmonie, d’équilibre et de symétrie, caractère
+    monumental et opulent, emploi de courbes et de contre-courbes et surabondance du décor; création d’un effet
+    de lourdeur et de majesté.'
+  - Plan simple ou irrégulier; assemblage de volumes.
+  - Deux à trois niveaux d’occupation (2 à 3 étages).
+  - Fondation en pierre visible hors sol.
+  - 'Murs : revêtement de brique, mais généralement de pierre à bossages variés.'
+  - Toit à deux versants droits; pente moyenne (entre 30° et 45°); revêtement de tôle traditionnelle. Toit plat
+    (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Ouvertures régulières et rectangulaires ou en arc garnies d’arcs, de clefs, d’encadrement et de frontons; porte
+    à panneau(x) avec ou sans vitrage surmontée d’une imposte et garnie d’un portail; fenêtres à battants et à petits
+    ou à grands carreaux ou à guillotine avec ou sans petit-bois.
+  - 'Saillies : dôme, perron, portique et portail.'
+  - 'Ornements classiques : colonnes, corniches, entablements, frontons, pilastres et piliers'
+  - métal.
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a seminary chapel, a memorial building and a bank. Recorded so the source's
+  list can be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is
+  verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a seminary chapel,
+  a memorial building and a bank.'
+origin_en: L’architecture baroque s’est développée de la fin du 17e jusqu’au milieu 18e siècle. Née en Italie, elle
+  est ensuite apparue dans la plupart des pays d’Europe. La basilique Saint-Pierre de Rome (1506-1626) et la cathédrale
+  Saint-Paul de Londres (1675-1708) sont considérées comme deux de ses œuvres marquantes. Bien qu’elle applique
+  les règles esthétiques et décoratives de la période classique, elle s’inspire aussi des valeurs de la Renaissance.
+  Empreinte d’une certaine liberté, elle découle d’un maniérisme qui cherche à produire des effets à la fois contrastants
+  et précieux. L’architecture baroque provient donc de cette idéologie et par extension, à partir du milieu du 19e
+  siècle, apparait le style néo-baroque. Ce dernier se réfère aux œuvres italiennes et françaises du 16e siècle,
+  mais il se définit par un traitement plus symétrique et grandiose où l’abondance de l’ornementation est de mise.
+  Apprécié par la communauté catholique, il se fait cependant discret à Québec. Il est présent entre 1890 et 1920,
+  tant en milieu urbain que semi-urbain. Il est surtout employé pour l’érection de lieux de cultes, de même que
+  pour les institutions, les commerces et les résidences qui veulent montrer une certaine prestance.
+related_buildings:
+- name: Chapelle extérieure du Séminaire de Québec
+  fiche_id: 310
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=310
+- name: McKenzie Memorial Building de l'Hôpital Jeffery-Hale
+  fiche_id: 424
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=424
+- name: Édifice de la Canadian Bank of Commerce
+  fiche_id: 2497
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2497
+- name: Maison Maurice-Pollack
+  fiche_id: 5426
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5426
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/408/20.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

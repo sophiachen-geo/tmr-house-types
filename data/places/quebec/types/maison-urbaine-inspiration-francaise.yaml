@@ -1,0 +1,126 @@
+id: quebec.maison-urbaine-inspiration-francaise
+place: quebec
+phase: p1
+name_en: Urban stone house of French inspiration
+name_fr: Maison urbaine d’inspiration française
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- french-urban-house-stone
+styles:
+- colonial-francais
+- french-regime
+style_label: null
+tenure_plan: row
+storeys: 1–2 plus attic
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- stone
+- roughcast
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-VQ
+conservation: []
+conservation_fr: null
+tid: 102
+phase_confidence: provisional
+courant: Colonial français
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=102
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=102
+quartiers: null
+profile:
+  siting_landscape:
+  - 'The house of the walled town, rebuilt in stone after fire: few 17th-century examples survive, because most
+    were of wood and burned.'
+  - In the early 18th century the edicts and ordinances of the colony's intendants standardised how the house was
+    to be built, and that series of regulations shaped the urban landscape of the town by reconsidering how it was
+    to be lived in.
+  massing:
+  - One to three occupied levels (one to two and a half storeys); a vaulted cellar in the well-to-do house.
+  - Straight two-slope roof.
+  - 'Projections: party fire-break walls rising above the roof and containing the chimneys — built so to check the
+    spread of flames.'
+  - The more substantial houses are built over stone vaults.
+  articulation:
+  - 'Reduced ornament: bandeaux, quoins, corbels and tie-rods.'
+  - Decorative components are rare, limited to surrounds, lintels and chambranles.
+  openings:
+  - Regular openings; cellar lights; hipped, gabled and cat-slide dormers.
+  - Openings distributed fairly regularly, but without any search for symmetry.
+  - The usual window is the casement with small panes, fitted with working shutters.
+  materials:
+  - 'Roof: slate, board-and-batten or lapped board, but generally traditional sheet metal.'
+  - Foundation raised above the ground.
+  - A stone construction of one or two levels with an attic.
+profile_fr:
+  description:
+  - Le style colonial français s’est développé en Nouvelle-France d’après les modèles de construction du pays auquel
+    il se rattache, la France. Il retient les principes généraux du classicisme français avec son système de proportions,
+    sa composition harmonieuse d’ensemble et une certaine réserve dans l’expression architecturale. En lien avec
+    la tradition, les premiers colons répètent les formes simples dont l’usage est commun. Artisans, entrepreneurs
+    ou maçons construisent ainsi des bâtiments dans un état d’esprit français, tout en proposant quelques adaptations
+    compte tenu du climat ou de la règlementation imposée à différentes époques.
+  - Maison urbaine d’inspiration française
+  - Il reste peu de maisons urbaines d’inspiration française construites au 17e siècle à Québec. L’utilisation du
+    bois pour la grande majorité d’entre elles n’est pas étrangère aux incendies qui les ont détruites. Au début
+    du 18e siècle, les édits et les ordonnances des intendants de la colonie normalisent la construction de la maison
+    afin de remédier à la situation. Cette série de règlements façonne le paysage urbain de la ville en reconsidérant
+    la manière d’habiter.
+  - La maison urbaine d’inspiration française est donc une construction en pierre d’un ou deux niveaux avec un comble.
+    Le toit à deux versants droits est revêtu d’ardoise ou de tôle traditionnelle. Les cheminées sont comprises
+    dans les murs mitoyens coupe-feu et dépassent la toiture pour contrer la propagation des flammes en cas d’incendie.
+    Les maisons plus cossues sont construites sur des voûtes en pierre.
+  - Les ouvertures de la maison sont distribuées assez régulièrement, mais sans recherche de symétrie. La fenêtre
+    à battants et à petits carreaux, munie de contrevents fonctionnels, est le modèle le plus usuel. Les composantes
+    décoratives sont plutôt rares; elles sont limitées aux encadrement, linteaux et chambranles.
+  elements_caracteristiques:
+  - Un à trois niveaux d’occupation (1 à 2 étages ½); cave voûtée pour la maison cossue.
+  - Fondation visible hors sol.
+  - 'Toit : revêtement d’ardoise, de planche à couvre-joints ou de planche chevauchée, mais généralement de tôle
+    traditionnelle.'
+  - Ouvertures régulières; soupiraux; lucarnes à croupe, à pignon et chatière.
+  - 'Saillies: murs coupe-feu mitoyens dépassant du toit et incluant les cheminées.'
+  - 'Ornements réduits : bandeaux, chaînes d’angle, corbeaux et tirants.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=102), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: Stone, one or two levels and an attic, with the party walls carried up past the roof as fire-breaks and
+  the chimneys buried inside them — the shape the intendants' ordinances imposed on the walled town after wooden
+  Québec kept burning down. The well-to-do version sits on a stone vault.
+origin_en: Few urban houses of French inspiration built at Québec in the 17th century survive, and the wood most
+  of them were made of is not unconnected with the fires that destroyed them. In the early 18th century the edicts
+  and ordinances of the colony's intendants normalised how the house was to be built in order to remedy this, and
+  that series of by-laws shaped the urban landscape of the town by reconsidering how it was to be lived in.
+related_buildings:
+- name: 1074, rue Saint-Jean
+  fiche_id: 25
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=25
+- name: Maison James-Murray
+  fiche_id: 74
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=74
+- name: Maison des Jésuites-de-Sillery
+  fiche_id: 2233
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2233
+- name: Édifice de la Banque-du-Peuple
+  fiche_id: 2488
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2488
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/102/3.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,94 @@
+id: quebec.art-deco
+place: quebec
+phase: p6
+name_en: Art déco
+name_fr: Art déco
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 603
+is_residential: false
+courant: Influences traditionnelles et modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=603
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=603
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - L’Art déco fait partie des premiers mouvements d’architecture du 20e siècle qui ont ouvert la voie à une modernité
+    plus affirmée. Apparu en Europe à la suite d’une grande exposition sur les arts décoratifs tenue à Paris en
+    1925, ce style est d’abord employé pour la décoration intérieure, comme son nom l’indique, notamment pour les
+    hôtels, les restaurants, et même les paquebots. Même s’il rejette les formes du passé, l’Art déco laisse une
+    bonne place à l’ornementation, qui sera plus tard bannie par les architectes modernes.
+  - Ce style connaît ensuite une forte popularité en Amérique du Nord dans les années 1920 et 1930 où il a été largement
+    utilisé pour la construction de gratte-ciel construits « en escalier » à New York, à Chicago et à Montréal.
+    Dans les bâtiments plus modestes, ce style se distingue par ses lignes pures qui accentuent la verticalité,
+    par son ornementation stylisée aux motifs géométriques et par des bas-reliefs souvent moulés en ciment imitant
+    la pierre. Les édifices d’influence Art déco utilisent habituellement un parement de brique, mais aussi des
+    matériaux plus luxueux comme le laiton, le marbre, le granit poli ou le chrome. Quelques immeubles de la ville
+    de Québec peuvent être attribués à ce style et comptent parfois parmi les premières utilisations du béton armé.
+  elements_caracteristiques:
+  - 'Composition abstraite qui rompt avec les formes du passé : lignes pures accentuant la verticalité du bâtiment
+    et large place à l''ornementation.'
+  - Volume simple, retraits et décrochés en gradin.
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de laiton, de marbre, de granit poli, de chrome ou de béton, mais généralement de brique
+    ou de pierre; structure en bois, mais généralement en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Ouvertures rectangulaires garnies de clefs, de linteaux et de plate-bande; porte à panneau(x) avec ou sans vitrage
+    surmontée d’une imposte et garnie d’un portail; fenêtres à battants et à grands carreaux, à guillotine et à
+    petits carreaux ou à petit-bois ou fixes.
+  - 'Saillies : avant-corps et oriels.'
+  - 'Ornements : bas-reliefs, couronnements, motifs géométriques en losanges, en triangles ou en zigzags et pierres
+    incrustées.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are commercial and office buildings. Recorded so the source's list can be read
+  whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the
+  fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are commercial and office
+  buildings.'
+origin_en: L’Art déco fait partie des premiers mouvements d’architecture du 20e siècle qui ont ouvert la voie à
+  une modernité plus affirmée. Apparu en Europe à la suite d’une grande exposition sur les arts décoratifs tenue
+  à Paris en 1925, ce style est d’abord employé pour la décoration intérieure, comme son nom l’indique, notamment
+  pour les hôtels, les restaurants, et même les paquebots. Même s’il rejette les formes du passé, l’Art déco laisse
+  une bonne place à l’ornementation, qui sera plus tard bannie par les architectes modernes.
+related_buildings:
+- name: 19, rue McMahon
+  fiche_id: 8
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=8
+- name: Édifice Cassulo & Copeman
+  fiche_id: 19
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=19
+- name: 1060-1070, rue Saint-Jean
+  fiche_id: 24
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=24
+- name: 1110, rue Saint-Jean
+  fiche_id: 72
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=72
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/603/36.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

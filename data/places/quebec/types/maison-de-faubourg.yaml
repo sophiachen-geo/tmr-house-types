@@ -1,0 +1,143 @@
+id: quebec.maison-de-faubourg
+place: quebec
+phase: p4
+name_en: Rudimentary faubourg house
+name_fr: Maison de faubourg
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- faubourg-house-1-1-5st
+styles:
+- neoclassical-quebec
+- faubourg-vernacular
+style_label: null
+tenure_plan: row
+storeys: 1–1.5
+roof:
+  form: gabled
+  pitch_deg: 50
+window_proportion: vertical
+principal_cladding:
+- wood-board-vertical
+- wood-clapboard
+- clay-brick
+- roughcast
+- stucco
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-VQ
+conservation: []
+conservation_fr: null
+tid: 303
+phase_confidence: verified
+courant: Néoclassique québécois
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=303
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=303
+quartiers:
+- Saint-Roch
+- Saint-Sauveur
+- Saint-Jean-Baptiste
+profile:
+  siting_landscape:
+  - Built outside the limits of the walled town, it spread widely at Québec through the faubourgs of Saint-Roch,
+    Saint-Sauveur and Saint-Jean-Baptiste, which grew under demographic pressure from the middle of the 18th century.
+  - Often party-wall, or set off from its neighbours by a narrow alley.
+  massing:
+  - 'Composition: a simple, rudimentary house, with or without symmetry, party-wall or set off from its neighbours
+    by a narrow alley; a type descended from the urban house of French inspiration and from the Québécois neoclassical
+    house.'
+  - One to two occupied levels (one to one and a half storeys); following densification or a fire, the house may
+    be rebuilt, enlarged, raised by one or two storeys, given dormers, or capped with a mansard roof.
+  - Two-slope roof with shallow straight or curved eaves; steep pitch, over 45°; following the by-laws against fire,
+    an eaveless roof.
+  - The basic model has a ground floor under a two-slope roof, straight or curved, with a shallow eave.
+  articulation:
+  - 'Ornaments: corner boards.'
+  - The ornament stays limited to corner boards and chambranles.
+  openings:
+  - 'Few openings, fitted with chambranles: three at the front including the door at the end of the façade, and
+    two at the rear; no dormer.'
+  - The gable walls usually stay blind.
+  materials:
+  - Walls of pièce-sur-pièce timber; vertical or horizontal wood board cladding; following the by-laws against fire,
+    walls clad in brick, roughcast or stucco.
+  - Foundation barely visible or raised above the ground.
+  - Roof covering of cedar shingle, board-and-batten or lapped board; following the by-laws against fire, traditional
+    sheet metal.
+profile_fr:
+  description:
+  - Implanté à l’extérieur des limites de la ville intra-muros, ce type est issu de la maison urbaine d’inspiration
+    française et il peut être vu comme une version simplifiée de la maison néoclassique québécoise. Il s’est largement
+    répandu à Québec dans les faubourgs comme Saint-Roch, Saint-Sauveur et Saint-Jean-Baptiste qui se sont développés
+    en raison de la pression démographique à partir du milieu du 18e siècle. La maison de faubourg est donc une
+    habitation unifamiliale, simple et rudimentaire, construite jusqu’à la fin 19e siècle par des artisans, des
+    ouvriers ou même par son propriétaire. Le modèle de base comprend un rez-de-chaussée coiffé d’une toiture à
+    deux versants, droits ou recourbés, avec un faible avant-toit. Il est souvent mitoyen ou espacé des maisons
+    voisines par une allée étroite.
+  - 'Les murs de cette maison sont montés en bois pièce sur pièce et recouverts à l’origine de planches verticales
+    ou horizontales. Plus tard, la réglementation pour lutter contre les incendies oblige à crépir les murs ou à
+    les revêtir de briques tandis que les toitures de bardeau de cèdre ou de planches à couvre-joints font place
+    à des couvertures en tôle. Les murs pignons restent habituellement aveugles et les ouvertures sont peu nombreuses
+    : trois à l’avant incluant la porte et deux à l’arrière. L’ornementation demeure limitée aux planches cornières
+    et aux chambranles.'
+  - À la suite des grands incendies ou de la densification des faubourgs, il arrive souvent que ces maisons soient
+    reconstruites, agrandies, surhaussées d’un ou deux étages, munies de lucarnes ou coiffées d’une toiture mansardée
+    qui offre davantage d’espace sous les combles.
+  elements_caracteristiques:
+  - 'Composition : maison simple, rudimentaire, avec ou sans symétrie et mitoyenne ou espacée des maisons voisines
+    par une allée étroite; type issu de la maison urbaine d’inspiration française et de la maison néoclassique québécoise.'
+  - Un à deux niveaux d’occupation (1 à 1 étage ½); suite à la densification ou à un incendie, la maison peut être
+    reconstruite, agrandie, surhaussée d’un ou deux étages, munie de lucarnes ou coiffée d’une toiture mansardée.
+  - Fondation peu visible ou visible hors sol.
+  - 'Murs en bois pièce sur pièce; revêtement de planche de bois verticale ou horizontale; suite à la règlementation
+    pour lutter contre les incendies, murs : revêtement de brique, de crépi ou d’enduit (stuc).'
+  - Toit à deux versants et faibles avant-toits droits ou recourbés; pente forte (plus de 45°); revêtement de bardeau
+    de cèdre, de planche à couvre-joints ou de planche chevauchée; suite à la règlementation pour lutter contre
+    les incendies, toit sans avant-toit; revêtement de tôle traditionnelle.
+  - 'Ouvertures peu nombreuses et garnies de chambranles : trois à l’avant incluant la porte à l’extrémité de la
+    façade et deux à l’arrière; absence de lucarne.'
+  - 'Ornements : planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=303), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The plainest house in the city and the one the fires rewrote: a storey or a storey and a half of pièce-sur-pièce
+  timber under a steep two-slope roof, three openings at the front with the door pushed to one end, two at the back,
+  blind gables, and corner boards for the whole of its ornament. After the fires the by-laws took away the boards
+  and the shingles and gave it brick or roughcast and eaveless tin instead.'
+origin_en: Set outside the limits of the walled town, this type descends from the urban house of French inspiration
+  and can be read as a simplified version of the Québécois neoclassical house. It spread widely at Québec through
+  faubourgs such as Saint-Roch, Saint-Sauveur and Saint-Jean-Baptiste, which grew under demographic pressure from
+  the middle of the 18th century. It is a single-family dwelling, simple and rudimentary, built until the end of
+  the 19th century by artisans, by workers, or by the owner himself. Following the great fires or the densification
+  of the faubourgs, these houses were often rebuilt, enlarged, raised by one or two storeys, given dormers, or capped
+  with a mansard roof that gave more space under the attic.
+related_buildings:
+- name: Maison Rémi-Rinfret-Dit-Malouin
+  fiche_id: 21
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=21
+- name: Épicerie J. A. Moisan
+  fiche_id: 353
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=353
+- name: 675-679, rue Saint-Jean
+  fiche_id: 354
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=354
+- name: 875-885, rue de Claire-Fontaine
+  fiche_id: 522
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=522
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/303/12.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

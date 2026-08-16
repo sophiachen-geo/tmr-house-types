@@ -1,0 +1,141 @@
+id: quebec.maison-neogothique
+place: quebec
+phase: p3
+name_en: Neo-Gothic house, villa or cottage
+name_fr: Néogothique
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- detached-cottage-steep-gable
+styles:
+- neogothique
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled
+  pitch_deg: 45
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+- wood-shingle
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 405
+phase_confidence: verified
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=405
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=405
+quartiers: null
+profile:
+  siting_landscape:
+  - Present at Québec between 1830 and 1880 for the style at large, and observable until about 1920 for residential
+    buildings.
+  - The residential examples are mostly villas or cottages set on the edge of the urban centre.
+  massing:
+  - 'Composition: a search for symmetry.'
+  - Rectangular or L-shaped plan; irregular ground plan in the residential examples.
+  - Two to three occupied levels (one and a half to two and a half storeys).
+  - Straight two-slope roof; medium pitch, about 45°.
+  - 'Projection: gallery; central secondary body: porch.'
+  - The aesthetic form is expressed through the medieval or picturesque silhouette of the building.
+  articulation:
+  - 'Ornaments: finials, cut-out woodwork and cornice returns.'
+  - 'A new ornamental vocabulary: a central gable dormer on the front, pinnacles, cut-out wood motifs running along
+    the cornice, and heavy roll or ''chapeau de gendarme'' mouldings.'
+  - Structural elements used to essentially decorative ends.
+  openings:
+  - Openings fitted with chambranles, roll mouldings and 'chapeau de gendarme' heads.
+  - Windows, with or without glazing bars forming diamonds, sashes with glazing bars or with iron bars.
+  - Central gable dormer.
+  - Pointed (ogee) arched openings.
+  materials:
+  - 'Walls: brick, wood board or wood shingle cladding.'
+  - The walls and the chimney stacks are of brick, while the windows may carry diamond-shaped panes.
+profile_fr:
+  description:
+  - S’inspirant de l’architecture médiévale, le style néogothique apparaît en Angleterre vers 1750, puis il se répand
+    à travers l'Europe avant d'atteindre l'Amérique du Nord. Les esprits romantiques y trouvaient une réponse à
+    la sévérité de l'architecture néoclassique. L’art gothique médiéval, fortement associé à la ferveur religieuse,
+    est particulièrement prisé pour la construction de lieux de culte ou de bâtiments qui leur sont attachés. Présent
+    entre 1830 et 1880 à Québec, la popularité du style néogothique sera cependant de courte durée. Il devient rapidement
+    le choix de prédilection de l'Église protestante, mais les communautés catholiques s'en éloignent après l'engouement
+    des années 1850-1860. Il est donc principalement employé par la communauté anglophone, notamment pour les édifices
+    qui se destinent aux œuvres charitables comme les écoles, asiles ou orphelinats.
+  - Ce style se caractérise par l’utilisation des éléments structuraux du bâtiment à des fins essentiellement décoratives.
+    Il emploie l'arc brisé ou en ogive pour tous les types d'ouvertures, les créneaux à la manière des demeures
+    féodales, les contreforts et les pinacles à fleurons ainsi que les rosaces ornées de vitraux. La forme esthétique
+    donnée à l’architecture s’exprime ainsi par la silhouette médiévale ou pittoresque du bâtiment.
+  - 'Comparativement à l’architecture religieuse, ce style est observable à Québec jusque vers 1920 pour les bâtiments
+    résidentiels. Ces derniers, majoritairement associés aux villas ou cottages implantés en périphérie du centre
+    urbain, possèdent un plan au sol irrégulier et utilise un nouveau vocabulaire ornemental : lucarne-pignon en
+    façade, ouvertures en arc d’ogive, pinacles, motifs de bois découpés longeant la corniche et grosses moulures
+    en boudin ou en forme de « chapeau de gendarme ». Les murs et les souches de cheminées sont en brique tandis
+    que les fenêtres peuvent être dotées de carreaux en forme de losanges.'
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture médiévale : forme s’exprimant à travers la silhouette médiévale ou pittoresque
+    du bâtiment et éléments structuraux utilisés à des fins essentiellement décoratives; style associé aux lieux
+    de culte protestant.'
+  - Plan irrégulier.
+  - Fondation en pierre visible hors sol.
+  - Murs en maçonnerie de pierre, généralement en pierre de taille.
+  - Toit à deux versants droits; pente moyenne (environ 45°); revêtement de tôle traditionnelle.
+  - Ouvertures rectangulaires ou en arc brisé (arc en ogive); porte à panneau(x) avec ou sans vitrage surmontée
+    d’une imposte et garnie d’un portail; fenêtres à battants et à grands carreaux garnies d’impostes, à guillotine
+    et à petits carreaux, fixes à petit-bois, à petits-fers ou avec vitrail (verrière) et roses.
+  - 'Saillies : avant-corps, contreforts et portail.'
+  - 'Ornements : corniches, créneaux, pinacles à fleurons et rosaces.'
+  - 'Éléments caractéristiques pour maison, villa ou cottage néogothique:'
+  - 'Composition : recherche de symétrie.'
+  - Plan rectangulaire ou en « L ».
+  - Deux à trois niveaux d’occupation (1 étage ½ à 2 étages ½).
+  - 'Murs : revêtement de brique, de planche de bois ou de bardeau de bois.'
+  - Ouvertures garnies de chambranles, de moulures en boudin et de chapeaux de gendarme; fenêtres, avec ou sans
+    petits-bois formant des losanges, à guillotine et à petits-bois ou à petits-fers; lucarne-pignon centrale.
+  - 'Saillie : galerie; corps secondaire central : porche.'
+  - 'Ornements : épis, garnitures de bois découpées et retours d’équerre.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=405), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The domestic half of a style that mostly built churches: a villa or cottage on the edge of town with
+  a central gable dormer over the front door, pointed-arch windows, diamond panes and cut-out wood running along
+  the cornice — structure turned into decoration, which is what neo-Gothic mostly was.'
+origin_en: 'Drawing on medieval architecture, the neo-Gothic style appeared in England about 1750, then spread through
+  Europe before reaching North America; romantic spirits found in it an answer to the severity of neoclassical architecture.
+  Present at Québec between 1830 and 1880, its popularity was short-lived: it quickly became the Protestant church''s
+  preferred choice, while Catholic communities moved away from it after the enthusiasm of the 1850s and 1860s. Compared
+  with religious architecture, the style is observable at Québec until about 1920 for residential buildings — mostly
+  villas or cottages set on the edge of the urban centre.'
+related_buildings:
+- name: Maison de la littérature
+  fiche_id: 93
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=93
+- name: Édifice de la National School
+  fiche_id: 118
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=118
+- name: Église Notre-Dame-de-Recouvrance
+  fiche_id: 201
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=201
+- name: Église Saint-Charles-Garnier
+  fiche_id: 209
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=209
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/405/13.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

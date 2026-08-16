@@ -1,0 +1,141 @@
+id: quebec.plex
+place: quebec
+phase: p5
+name_en: Plex — superposed dwellings
+name_fr: Plex
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- plex-superposed-units
+- duplex-flat-roof-brick
+styles:
+- vernaculaire-industriel
+style_label: null
+tenure_plan: triplex
+storeys: 2–4
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+roofing: membrane
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 503
+phase_confidence: verified
+courant: Vernaculaire industriel
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=503
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=503
+quartiers:
+- Montcalm
+- Limoilou
+- Vieux-Limoilou
+- Lairet
+- Maizerets
+profile:
+  siting_landscape:
+  - Common in the urban parts of Québec, notably in the Montcalm and Limoilou quarters — today Vieux-Limoilou, Lairet
+    and Maizerets.
+  - Usually party-wall, which allows a greater urban density; built in numbers, plexes can form ensembles whose
+    fronts are given rhythm by repeated elements.
+  - The small setback left in front of the buildings is what makes the projecting stairs, balconies and galleries
+    possible.
+  massing:
+  - 'Composition: multi-unit house, detached, party-wall or in a row, taking in several types including the duplex,
+    triplex and quadruplex, and comprising superposed dwelling units with independent entries reached by exterior
+    or interior stairs.'
+  - Two to four occupied levels (two to four storeys).
+  - Flat roof (basin or internal drainage); membrane covering. Low-pitch flat roof (external drainage); very low
+    pitch, under 15°; asphalt shingle, membrane, profiled or traditional sheet-metal covering.
+  - 'Projections: avant-corps, straight, turning, spiral or recessed stairs, logettes and oriels; projections sheltered
+    by an awning and superposed: balconies, galleries and perrons.'
+  - 'It stands beside, then from about 1910 supplants, the Boomtown building, taking over several of its characteristics:
+    brick cladding, flat roof, imposing cornice or crowning, and standardised components.'
+  articulation:
+  - 'Ornaments: acroteria, finials, bandeaux, decorative brick, quoins, consoles, corbels, cornice in sheet metal
+    or wood, and crowning.'
+  - Ornamental wrought iron used for risers and posts, but generally for the balustrades of the projections.
+  openings:
+  - Arched openings, usually segmental, fitted with arches and keystones.
+  - Fully glazed door, with or without a transom above.
+  - Compound casements with transom, paired sashes or compound sashes.
+  - The rectangular windows are casements with transoms or sashes, dressed with lintels or flat arches.
+  materials:
+  - Brick cladding.
+  - The projecting stairs, balconies and galleries are of brick, wood or iron.
+profile_fr:
+  description:
+  - Le plex est une maison à logements. Il comprend deux (duplex), trois (triplex) ou quatre (quadruplex) unités
+    d’habitation superposées dont les entrées indépendantes sont accessibles par des escaliers extérieurs ou intérieurs.
+    Il est fréquent en milieu urbain de Québec, notamment dans les quartiers Montcalm et Limoilou (aujourd’hui Vieux-Limoilou,
+    Lairet et Maizerets). Les promoteurs et sociétés immobilières qui ont contribué au développement des quartiers
+    de la ville au début du 20e siècle ont favorisé ce type. Ce dernier permet de construire rapidement et de manière
+    logique dans un tissu résidentiel compact.
+  - 'Le plex côtoie, puis supplante vers 1910 le bâtiment de type Boomtown dont il reprend plusieurs caractéristiques
+    : revêtement en brique, toit plat, corniche ou couronnement imposant et composantes standardisées. Il est habituellement
+    mitoyen, ce qui permet une plus grande densité urbaine. Construits en plusieurs exemplaires, les Plex peuvent
+    former des ensembles dont les façades sont rythmées par des éléments répétitifs tels que les oriels, escaliers,
+    balcons, galeries ou avant-corps. L’apparition de ces saillies en brique, en bois ou en fer est possible en
+    raison de la petite marge de recul laissée devant les bâtiments. Les fenêtres rectangulaires sont à battants
+    avec impostes ou à guillotine. Elles sont ornées de linteaux ou de plate-bande.'
+  elements_caracteristiques:
+  - 'Composition : maison à logements, isolée, mitoyenne ou en rangée, regroupant plusieurs types dont le duplex,
+    le triplex ou le quadruplex et comprenant des unités d’habitation superposées avec des entrées indépendantes
+    qui sont accessibles par des escaliers extérieurs ou intérieurs.'
+  - Deux à quatre niveaux d’occupation (2 à 4 étages).
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s). Toit plat à faible pente (à égout extérieur);
+    pente très faible (moins de 15°); revêtement de bardeau d’asphalte, de membrane(s), de tôle profilée ou de tôle
+    traditionnelle.
+  - Ouvertures en arc, mais généralement en arc surbaissé, garnies d’arcs et de clefs; porte entièrement vitrée
+    surmontée ou non d’une imposte; fenêtres composées à battants avec imposte, à guillotine jumelées ou composées
+    à guillotine.
+  - 'Saillies : avant-corps, escaliers droits, tournants, en colimaçon ou encastrés, logettes et oriels; saillies
+    protégées par un auvent et superposées : balcons, galeries et perrons.'
+  - 'Ornements : acrotères, amortissements, bandeaux, briques décoratives, chaînes d’angle, consoles, corbeaux,
+    corniche en tôle ou en bois et couronnement.'
+  - Fer forgé ornemental employé pour les contremarches et les poteaux, mais généralement pour les balustrades des
+    saillies.
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=503), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: Two, three or four dwellings stacked with their own front doors, reached — and this is where Québec parts
+  company with Montréal — by stairs that may be inside as readily as out. Brick, flat-roofed, party-walled, built
+  in numbers so the oriels, balconies and stairs set up a rhythm along the whole street.
+origin_en: The plex is a multi-unit house comprising two (duplex), three (triplex) or four (quadruplex) superposed
+  dwelling units whose independent entries are reached by exterior or interior stairs. It is common in the urban
+  parts of Québec, notably in the Montcalm and Limoilou quarters. The promoters and property companies that built
+  out the city's quarters at the beginning of the 20th century favoured this type, which allowed rapid and logical
+  building in a compact residential fabric. It stands beside, then from about 1910 supplants, the Boomtown building,
+  taking over its brick cladding, flat roof, imposing cornice and standardised components.
+related_buildings:
+- name: 699, 3e Avenue
+  fiche_id: 180
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=180
+- name: 973-975A, 3e Avenue
+  fiche_id: 181
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=181
+- name: Théatre Lairet
+  fiche_id: 182
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=182
+- name: 1522-1532, 4e Avenue
+  fiche_id: 183
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=183
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/503/29.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,63 @@
+id: quebec.influences-traditionnelles-modernes
+place: quebec
+phase: p6
+name_en: Traditional and modern influences (1900-1950)
+name_fr: Influences traditionnelles et modernes
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influences traditionnelles et modernes »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-traditionnelles-modernes.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - La première moitié du XXe siècle est partagée entre les influences traditionnelles et modernes. L’historicité
+    du XIXe siècle perdure, elle préconise toujours l’imitation de formes anciennes issues d’une esthétique classique,
+    mais avec l’avènement de techniques de construction et de matériaux plus performants, les nouvelles formes commencent
+    à s’imposer. À Québec, l’architecture conventionnelle, tout en étant moderne sur certains aspects, maintient
+    le poids de la tradition. La normalisation de la construction, le développement des quartiers ouvriers, la salubrité
+    de l’aménagement et les principes d’urbanisation nord-américains sont quelques-uns des facteurs qui viennent
+    transformer le paysage bâti de la ville.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1900-1950.'
+blurb_en: One of the thesaurus's nine top-level currents, 1900-1950.
+origin_en: La première moitié du XXe siècle est partagée entre les influences traditionnelles et modernes. L’historicité
+  du XIXe siècle perdure, elle préconise toujours l’imitation de formes anciennes issues d’une esthétique classique,
+  mais avec l’avènement de techniques de construction et de matériaux plus performants, les nouvelles formes commencent
+  à s’imposer. À Québec, l’architecture conventionnelle, tout en étant moderne sur certains aspects, maintient le
+  poids de la tradition. La normalisation de la construction, le développement des quartiers ouvriers, la salubrité
+  de l’aménagement et les principes d’urbanisation nord-américains sont quelques-uns des facteurs qui viennent transformer
+  le paysage bâti de la ville.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-traditionnelles-modernes.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

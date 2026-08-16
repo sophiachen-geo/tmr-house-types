@@ -1,0 +1,140 @@
+id: quebec.maison-neo-georgienne
+place: quebec
+phase: p6
+name_en: Neo-Georgian house
+name_fr: Néo-georgien
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- eclectic-prestige-house
+- symmetric-brick-3-5-bay-2st
+styles:
+- georgian-revival
+style_label: null
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: gabled
+  pitch_deg: 38
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+roofing: asphalt-shingle-dark
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 410
+phase_confidence: provisional
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=410
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=410
+quartiers: null
+profile:
+  siting_landscape:
+  - A revival of the Georgian style at the beginning of the 20th century, after its popularity in Britain and through
+    the thirteen English colonies of North America.
+  massing:
+  - 'Composition drawn from English vernacular architecture with the classical ideal applied to it: a system of
+    proportions with the orders and a search for harmony, balance and symmetry; a house with a front of three or
+    five bays with a centred door monumentally treated, and a precise colour scheme — white for the windows, projections
+    and ornaments against the red of the brick and the black of the shutters and doors.'
+  - Square or rectangular plan.
+  - Two to three occupied levels (two to two and a half storeys).
+  - Straight two-slope roof, or straight two-slope with half-hips; medium pitch, between 30° and 45°.
+  - 'Projections: a chimney at each of the gable walls; central projections: perron; central secondary body: porch.'
+  articulation:
+  - 'Classical ornaments: columns, cornices, pediments, pilasters and cornice returns.'
+  - The three or five bays of the front are regularly disposed and the entrance door, with its transom and sidelights,
+    serves as the axis.
+  openings:
+  - Regular rectangular openings.
+  - Central door with sidelight(s) and transom, fitted with a portal.
+  - Sash windows with small panes fitted with louvred shutters.
+  - Gabled, pedimented or wall-gable dormers, present or not.
+  materials:
+  - 'Walls: wood board cladding, but generally brick.'
+  - Concrete or stone foundation raised above the ground.
+  - Asphalt shingle or traditional sheet-metal roof covering.
+profile_fr:
+  description:
+  - Le style georgien doit son nom à l’architecture pratiquée en Grande-Bretagne pendant les règnes des quatre premiers
+    monarques de la maison de Hanover (1714-1830), soit entre la proclamation de George 1er et la mort de Georges
+    IV. Palladienne, gothique, néoclassique et Regency, les sources d’inspiration de cette période sont variées,
+    mais le style georgien se réfère plus précisément à l’architecture de la Renaissance. Il prône ainsi le retour
+    du système de proportions avec les ordres, en plus de vouloir rétablir l’équilibre et l’harmonie d’ensemble.
+    Après avoir été popularisé en Grande-Bretagne, puis à travers les treize colonies anglaises d’Amérique du Nord
+    qui donnèrent naissances aux États-Unis en 1776, il obtient un regain de popularité au début du 20e siècle avec
+    le style néo-georgien. Ce dernier est en vogue auprès de la communauté anglophone de Québec entre 1900 et 1930,
+    bien que plusieurs bâtiments semblent construits après cette période. Presque exclusivement associé à l'architecture
+    résidentielle, il se retrouve en milieu urbain et se-mi-urbain.
+  - 'Le bâtiment de style néo-georgien, rattaché au style georgien et au style colonial américain, s’inspire de
+    l’architecture vernaculaire anglaise à laquelle les règles classiques sont appliquées. Il possède un volume
+    carré ou rectangulaire d’au moins deux niveaux d’occupation, un revêtement de brique ou de bois, des fenêtres
+    à guillotine à petits carreaux et une cheminée à chacune des extrémités de la toiture. Celle-ci est à deux versants
+    droits ou à deux versants droits avec demi-croupes, en plus de posséder une pente moyenne qui peut être munie
+    de lucarnes. Reprenant l’un des principaux traits du style georgien, le bâtiment présente une composition symétrique.
+    Les trois ou cinq travées de la façade sont disposées régulièrement et la porte d’entrée, dotée d’une imposte
+    et de baies latérales, fait office d’axe central. L’ornementation est tirée du vocabulaire classique. Elle se
+    transpose sur les perrons, les portails, les boiseries et en bordure de la toiture, entre autres avec les corniches
+    et les retours d’équerre. La palette de couleurs adoptée est quant à elle relativement précise : le blanc des
+    fenêtres, des saillies et du décor est combiné au rouge de la brique et au noir des persiennes et des portes.'
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture vernaculaire anglaise à laquelle l’idéal classique est appliqué : système
+    de proportions avec les ordres et recherche d’harmonie, d’équilibre et de symétrie; maison comprenant une façade
+    de trois ou de cinq travées avec une porte centrée au traitement monumental et une palette de couleurs précise
+    avec le blanc des fenêtres, des saillies et des ornements combinés au rouge de la brique et au noir des persiennes
+    et des portes.'
+  - Plan carré ou rectangulaire.
+  - Deux à trois niveaux d’occupation (2 étages à 2 étages ½).
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de planche de bois, mais généralement de brique.'
+  - Toit à deux versants droits ou à deux versants droits avec demi-croupes; pente moyenne (entre 30° et 45°); revêtement
+    de bardeau d’asphalte ou de tôle traditionnelle.
+  - Ouvertures régulières et rectangulaires; porte centrale à baies(s) latérale(s) et à imposte garnie d’un portail;
+    fenêtres à guillotine et à petits carreaux garnies de persiennes; présence ou non de lucarnes à pignon, à fronton
+    ou gâble.
+  - 'Saillies : cheminée à chacun des murs pignons; saillies centrales : perron; corps secondaire central : porche.'
+  - 'Ornements classiques : colonnes, corniches, frontons, pilastres et retours d’équerre.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=410), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'Georgian rules applied to a 20th-century house: a square or rectangular block of at least two levels,
+  three or five bays regularly disposed about a centred door with transom and sidelights, a chimney at each gable
+  end, and a colour scheme fixed as tightly as the proportions — white trim, red brick, black shutters and door.'
+origin_en: The Georgian style takes its name from the architecture built in Britain during the reigns of the first
+  four monarchs of the House of Hanover (1714–1830). Palladian, Gothic, neoclassical and Regency, its sources are
+  varied, but the Georgian refers more precisely to Renaissance architecture, urging a return to the system of proportions
+  with the orders and the restoration of overall balance and harmony. After being popularised in Britain and then
+  through the thirteen English colonies of North America that became the United States in 1776, it gained a fresh
+  popularity at the beginning of the 20th century as the neo-Georgian.
+related_buildings:
+- name: 300-300A, 18e Rue
+  fiche_id: 197
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=197
+- name: Ancienne Banque Provinciale du Canada
+  fiche_id: 3505
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=3505
+- name: 225, avenue Wilfrid-Laurier
+  fiche_id: 5708
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5708
+- name: 255, avenue Wilfrid-Laurier
+  fiche_id: 5709
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5709
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/410/23.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

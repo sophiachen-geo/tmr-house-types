@@ -1,0 +1,89 @@
+id: quebec.contemporaine
+place: quebec
+phase: p6
+name_en: Contemporaine
+name_fr: Contemporaine
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 904
+is_residential: false
+courant: Influences contemporaines
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=904
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=904
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - L’architecture contemporaine se caractérise par de grandes thématiques plutôt que par des traits précis et dominants.
+    À partir des années 1970, la diversité des matériaux et des techniques de construction rend possible une multitude
+    d’approches qui seront davantage détaillées au fil des recherches en patrimoine. Le territoire de la ville de
+    Québec possède de ce fait des bâtiments autres que ceux pouvant se retrouver dans la typologie architecturale
+    contemporaine que le minimalisme, le high-tech et le postmodernisme. Il peut par exemple s’agir de bâtiments
+    associés au régionalisme critique, au déconstructivisme ou à l’architecture environnementale, mais également
+    à des bâtiments dont l’impact social sur le milieu, la technologie ou l’aménagement du site est mis de l’avant
+    au moment de la conception.
+  elements_caracteristiques:
+  - 'Composition issue du pluralisme des influences : sans ligne directrice dominante, éclatement des formes à l’aide
+    des avancées technologiques et techniques, pratiques de construction durables encadrées par les normes LEED
+    et pérennité des bâtiments.'
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de béton, de pierre, de bois, de métal, de métal et de verre avec le mur rideau
+    ou d’enduit (stuc); revêtement d’inox, d’aluminium, de plastique, de contre-plaqué, de lamellé-collé et d’aggloméré
+    qui sont davantage employés; structure en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur) ou plat aménagé en terrasse; revêtement de membrane(s).
+  - Porte à panneau avec vitrage, pleine ou entièrement vitrée; fenêtres avec vitrage clair, teinté, réfléchissant,
+    dépoli ou à motifs.
+  - 'Saillies : galeries, marquise, perron et portail.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are theatres and a college. Recorded so the source's list can be read whole, but
+  out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are theatres and a college.'
+origin_en: L’architecture contemporaine se caractérise par de grandes thématiques plutôt que par des traits précis
+  et dominants. À partir des années 1970, la diversité des matériaux et des techniques de construction rend possible
+  une multitude d’approches qui seront davantage détaillées au fil des recherches en patrimoine. Le territoire de
+  la ville de Québec possède de ce fait des bâtiments autres que ceux pouvant se retrouver dans la typologie architecturale
+  contemporaine que le minimalisme, le high-tech et le postmodernisme. Il peut par exemple s’agir de bâtiments associés
+  au régionalisme critique, au déconstructivisme ou à l’architecture environnementale, mais également à des bâtiments
+  dont l’impact social sur le milieu, la technologie ou l’aménagement du site est mis de l’avant au moment de la
+  conception.
+related_buildings:
+- name: Théâtre Périscope
+  fiche_id: 420
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=420
+- name: Théâtre la Bordée
+  fiche_id: 10315
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=10315
+- name: 325-365, rue De Saint-Vallier Est
+  fiche_id: 10733
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=10733
+- name: Collège Notre-Dame-de-Bellevue / Accueil Marguerite-Bourgeoys
+  fiche_id: 14304
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=14304
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/904/52.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

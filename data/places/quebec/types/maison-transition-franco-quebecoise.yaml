@@ -1,0 +1,131 @@
+id: quebec.maison-transition-franco-quebecoise
+place: quebec
+phase: p2
+name_en: Franco-Québécois transition house
+name_fr: Maison de transition franco-québécoise
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- transition-franco-quebecoise
+styles:
+- french-regime
+- neoclassical-quebec
+style_label: null
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: gabled
+  pitch_deg: 45
+window_proportion: vertical
+principal_cladding:
+- stone
+- wood-piece-sur-piece
+- wood-clapboard
+- roughcast
+- stucco
+roofing: cedar-shingle
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 304
+phase_confidence: verified
+courant: Néoclassique québécois
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=304
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=304
+quartiers: null
+profile:
+  siting_landscape:
+  - Built at Québec in rural and semi-urban settings, and in the faubourgs.
+  - The period from about 1770 to 1820 begins the adaptation of the French model to the Québécois context, under
+    the influence of the neoclassical style.
+  massing:
+  - 'Composition: with or without symmetry; a type descended from the rural house of French inspiration.'
+  - Rectangular plan; variable volume.
+  - Two occupied levels (one and a half storeys); no cellar.
+  - Two-slope roof with straight or curved eaves; medium pitch, about 45°.
+  - 'Projection: chimney at the centre, off-centre, or set within the gable wall.'
+  - The type keeps a good footing on the ground, a steep roof and massive chimney stacks from the house of French
+    inspiration; the roof pitch is often less pronounced than that house's, and the eave, straight or curved, oversails
+    the wall face.
+  articulation:
+  - Classical ornaments such as pediments sometimes dress the dormers and the windows, which are surrounded by carved
+    wood chambranles.
+  openings:
+  - Openings fitted with chambranles; gabled or pedimented dormers.
+  - The British influence is legible in the more regular disposition of the openings and the chimneys.
+  - The openings are more numerous than on the house of French inspiration and their panes are enlarged; dormers,
+    the gabled model in ordinary use, become general.
+  materials:
+  - Walls of rubble stone or pièce-sur-pièce timber; wood board, roughcast or stucco cladding.
+  - Foundation barely raised above the ground.
+  - Cedar shingle roof covering.
+profile_fr:
+  description:
+  - La maison évolue peu dans les décennies qui suivent la Conquête de 1759-1760, car les gens de métier et leurs
+    traditions françaises demeurent. Elle n’est confrontée aux influences britanniques qu’au tournant du 19e siècle,
+    suite à l’immigration anglaise qui apporte avec ces nouveaux arrivants leurs propres traditions de construire.
+    Cette période, aux environs de 1770 à 1820, amorce ainsi l’adaptation du modèle français au contexte québécois,
+    tout en étant influencée par le style néoclassique. Elle entraîne le développement de la maison de transition
+    franco-québécoise qui s’est implantée à Québec en milieu rural et semi-urbain, ou encore dans les faubourgs.
+  - Ce type reprend quelques caractéristiques de la maison d’inspiration française avec une bonne assise au sol,
+    un toit à forte pente, des murs en pierre de moellons ou en pièce-sur-pièce et d’imposantes souches de cheminée.
+    L’influence britannique est quant à elle observable dans la disposition plus régulière des ouvertures et des
+    cheminées. Des ornements classiques comme les frontons garnissent parfois les lucarnes et les fenêtres qui sont
+    entourées de chambranles de bois sculpté.
+  - La maison compte un rez-de-chaussée et un comble habitable, un volume variable, des murs revêtus de bois ou
+    de crépi, une pente de toit souvent moins prononcée que celle de la maison d’inspiration française et un avant-toit
+    droit ou courbé qui déborde de la surface du mur. La position de la souche de cheminée varie considérablement
+    ; au centre, ou bien à une ou à chaque extrémité de la toiture. Les ouvertures sont plus nombreuses que sur
+    la maison d’inspiration française et leurs carreaux de verre sont agrandis. La présence de lucarnes, avec le
+    modèle d’usage à pignon, se généralise.
+  elements_caracteristiques:
+  - 'Composition : avec ou sans symétrie; type issu de la maison rurale d’inspiration française.'
+  - Plan rectangulaire; volume variable.
+  - Deux niveaux d’occupation (1 étage ½); absence de cave.
+  - Fondation peu visible hors sol.
+  - Murs en pierre à moellons ou en bois pièce sur pièce; revêtement de planche de bois, de crépi ou d’enduit (stuc).
+  - Toit à deux versants et avant-toits droits ou recourbés; pente moyenne (environ 45°); revêtement de bardeau
+    de cèdre.
+  - Ouvertures garnies de chambranles; lucarnes à pignon ou à fronton.
+  - 'Saillie : cheminée au centre, décentrée ou incluse dans le mur pignon.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=304), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The house caught between two building traditions: French footing, steep roof and massive chimney stacks,
+  with the British contribution visible only in how regularly the openings and the chimneys are now placed, how
+  many more windows there are, and how much larger the panes have grown.'
+origin_en: The house changed little in the decades after the Conquest of 1759–1760, because the tradesmen and their
+  French traditions remained. It met British influence only at the turn of the 19th century, with the English immigration
+  that brought the newcomers' own ways of building. That period, from about 1770 to 1820, begins the adaptation
+  of the French model to the Québécois context while under the influence of the neoclassical style, and produces
+  the Franco-Québécois transition house, built at Québec in rural and semi-urban settings and in the faubourgs.
+related_buildings:
+- name: Maison Beaumont-Lefebvre
+  fiche_id: 177
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=177
+- name: 2140, avenue Notre-Dame
+  fiche_id: 1540
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1540
+- name: 1034, rue Gaudar
+  fiche_id: 1544
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1544
+- name: 2347-2349, avenue Notre-Dame
+  fiche_id: 1593
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1593
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/304/10.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

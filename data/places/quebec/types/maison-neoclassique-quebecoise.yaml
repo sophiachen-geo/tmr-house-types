@@ -1,0 +1,133 @@
+id: quebec.maison-neoclassique-quebecoise
+place: quebec
+phase: p3
+name_en: Québécois neoclassical house
+name_fr: Maison néoclassique québécoise
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- quebec-traditional-1-5st-gable
+styles:
+- neoclassical-quebec
+style_label: null
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: gabled
+  pitch_deg: 45
+window_proportion: vertical
+principal_cladding:
+- wood-clapboard
+- wood-shingle
+- clay-brick
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 301
+phase_confidence: verified
+courant: Néoclassique québécois
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=301
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=301
+quartiers: null
+profile:
+  siting_landscape:
+  - All through the 19th century it was built at Québec in rural and semi-urban settings, and in the faubourgs.
+  - The house is raised well above ground level and frequently has, on its long axis, a summer kitchen reproducing
+    the main body's characteristics at a smaller scale.
+  massing:
+  - 'Composition: a search for symmetry; the type is seen as the vernacular house of Québécois residential architecture,
+    and takes in several variants including the artisan''s house with a shop at basement level.'
+  - Rectangular plan; variable volume.
+  - Two occupied levels (one and a half storeys).
+  - Two-slope roof with straight, but generally curved, eaves; medium pitch, about 45°; traditional sheet-metal
+    covering.
+  - 'Projections sheltered by the curved eaves or by an awning: perron and gallery; secondary bodies: lean-to, larder
+    and dairy, but generally a summer kitchen.'
+  - The roof carries past the front and rear walls on curved bell-cast eaves that shelter a gallery laid out at
+    the front; where the slopes are straight, a lean-to or awning often roofs the gallery instead.
+  articulation:
+  - 'Ornaments: brackets, lambrequins and corner boards.'
+  - The ornament stays sober, with corner boards and chambranles; cut-out woodwork can give the house a picturesque
+    touch.
+  openings:
+  - Openings fitted with chambranles; central door; gabled or pedimented dormers.
+  - The attic is inhabited, as the presence of dormers shows.
+  materials:
+  - 'Walls: brick cladding, but generally wood board or wood shingle.'
+  - Foundation raised above the ground.
+  - Traditional sheet metal laid in battens, à la canadienne or pinched.
+profile_fr:
+  description:
+  - Issue du Régime français, ce type de maison a évolué sous le Régime anglais au contact du style néoclassique.
+    Il s’agit d’une construction plus libre qui répond spécifiquement à des contraintes fonctionnelles, économiques
+    et climatiques en regard au lieu d’érection et au statut social de ses occupants. La maison néoclassique québécoise
+    connaît ainsi plusieurs variantes; du petit corps de logis dépouillé, elle peut prendre la forme d’une habitation
+    villageoise plus développée et ornementée. Tout au long du 19e siècle, elle est implantée à Québec en milieu
+    rural et semi-urbain, ou encore dans les faubourgs.
+  - Malgré sa versatilité, la maison néoclassique québécoise possède des caractéristiques récurrentes permettant
+    de définir ce type. De manière générale, elle présente une symétrie dans la composition de la façade. La toiture
+    est à deux versants avec une pente d’environ 45 degrés. Celle-ci se prolonge au-delà des murs avant et arrière
+    (gouttereaux) grâce à des larmiers incurvés qui protègent une galerie aménagée à l’avant. Les toitures sont
+    recouvertes de tôle traditionnelle à baguettes, à la canadienne ou pincée. Lorsque les versants de la toiture
+    sont droits, il n’est pas rare qu’un toit en appentis (ou auvent) recouvre l’espace de la galerie. Les combles
+    sont pour leur part habités, comme en témoigne la présence de lucarnes.
+  - La maison est surhaussée par rapport au niveau du sol et possède fréquemment, dans son prolongement longitudinal,
+    une cuisine d’été qui reproduit à plus petite échelle les caractéristiques du corps de logis principal. Le parement
+    est en planche de bois posée à l’horizontale, en bardeau de cèdre ou en brique. L’ornementation demeure sobre
+    avec des planches cornières et des chambranles. Des boiseries découpées peuvent quant à elles donner une touche
+    pittoresque à la maison.
+  elements_caracteristiques:
+  - 'Composition : recherche de symétrie; type perçu comme la maison vernaculaire de l’architecture résidentielle
+    québécoise et comprenant plusieurs variantes dont la maison d’artisan avec une boutique au niveau du sous-sol.'
+  - Plan rectangulaire; volume variable.
+  - Deux niveaux d’occupation (1 étage ½).
+  - Fondation visible hors sol.
+  - 'Murs : revêtement de brique, mais généralement de planche de bois ou de bardeau de bois.'
+  - Toit à deux versants et avant-toits droits, mais généralement recourbés; pente moyenne (environ 45°); revêtement
+    de tôle traditionnelle.
+  - Ouvertures garnies de chambranles; porte centrale; lucarnes à pignon ou à fronton.
+  - 'Saillies protégées par l’avant-toit recourbé ou par un auvent : perron et galerie; corps secondaires : appentis,
+    dépense et laiterie, mais généralement une cuisine d’été.'
+  - 'Ornements : aisseliers, lambrequins et planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=301), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The vernacular house of Québec, and the one the faubourg house is a stripped-down copy of: a storey and
+  a half under a 45-degree roof whose bell-cast eaves sweep out to cover the front gallery, dormers in the attic,
+  a summer kitchen trailing off the end, and corner boards for ornament.'
+origin_en: 'Descended from the French regime, this house evolved under the English regime in contact with the neoclassical
+  style. It is a freer construction answering specifically to functional, economic and climatic constraints according
+  to where it was built and the social standing of its occupants, and so takes several variants: from the small
+  stripped-down body of lodging it can become a more developed and ornamented village dwelling. All through the
+  19th century it was built at Québec in rural and semi-urban settings, and in the faubourgs.'
+related_buildings:
+- name: 40, rue Couillard
+  fiche_id: 58
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=58
+- name: Maison Tessier
+  fiche_id: 167
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=167
+- name: 529-535, rue Saint-Patrick
+  fiche_id: 585
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=585
+- name: 795, rue Saint-Olivier
+  fiche_id: 933
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=933
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/301/11.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

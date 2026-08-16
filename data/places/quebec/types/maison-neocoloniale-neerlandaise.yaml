@@ -1,0 +1,155 @@
+id: quebec.maison-neocoloniale-neerlandaise
+place: quebec
+phase: p6
+name_en: Dutch Colonial Revival house
+name_fr: Maison néocoloniale néerlandaise
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- eclectic-prestige-house
+styles:
+- colonial-revival
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: mansard
+  pitch_deg: 60
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+- wood-shiplap
+- wood-shingle
+- asbestos-cement-shingle
+- stucco
+roofing: asphalt-shingle-dark
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-SIL
+conservation: []
+conservation_fr: null
+tid: 508
+phase_confidence: verified
+courant: Vernaculaire industriel
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=508
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=508
+quartiers:
+- Sillery
+profile:
+  siting_landscape:
+  - It spread through Québec between the wars thanks to the models available in the sales catalogues, and was one
+    of the most popular models of that period, particularly in anglophone circles.
+  - At Québec it appears during the 1920s but reaches its height at the beginning of the 1940s; though rarer, houses
+    of this style are found across practically the whole territory of the city, with a notable concentration in
+    the Sillery quarter.
+  massing:
+  - Rectangular or L-shaped plan; simple volume.
+  - Two occupied levels (one and a half storeys, more rarely two and a half).
+  - 'Bell-shaped roof: an asymmetrical broken attic roof made of two pronounced slopes. Wide, elongated, oversailing
+    eaves; asphalt shingle covering. The roof is generally pierced by a wide continuous shed dormer, which adds
+    to its massive look.'
+  - 'Projections: perron, porch or short covered gallery. Most often a portico surmounted by a triangular or semicircular
+    pedimented awning tied to the main roof, carried on single or double columns without a balustrade; annexe, balcony,
+    veranda, chimney at the end of the gable wall.'
+  - It is distinguished from the mansard roof by the asymmetry of its slopes, with a very short terrasson and a
+    very long flared brisis recalling the shape of a bell, giving it a massive and austere aspect.
+  articulation:
+  - 'Ornamentation: sober, with a more or less ornamented portal around the door, pediment, cornice returns, plain
+    or decorated chambranles, surrounds, shutters or louvred shutters, columns, piers and flat arches.'
+  - The bell-shaped roof is truly the centrepiece and the most emblematic attribute of houses belonging to this
+    style.
+  openings:
+  - 'Doors: glazed-panel door, screen door with several joinered elements. Entrance placed centrally.'
+  - 'Windows: rectangular, sashes with small panes, or more rarely casements with a fixed paned section. Often accompanied
+    by shutters or louvred shutters. Fixed windows, oval or semicircular, present or not.'
+  - Composition of the fronts regular and symmetrical, with an emphasis on the vertical lines.
+  materials:
+  - 'Cladding: brick, clapboard, shiplap board, wood shingle, asbestos shingle, render.'
+  - Concrete foundation.
+profile_fr:
+  description:
+  - Le style de la maison néocoloniale néerlandaise trouve ses origines au début du 18e siècle, lorsque les colons
+    hollandais ont introduit leurs traditions de construction dans les colonies américaines. Ce style est rapidement
+    devenu populaire dans l’État de New York et le long du fleuve Hudson. Les colons hollandais ont adapté leur
+    technique de construction européenne au climat plus rigoureux de l’Amérique du Nord, créant des maisons fonctionnelles
+    et distinctives. Avec ses deux pentes, le toit à comble brisé caractéristique du style se voulait non seulement
+    un choix esthétique, mais également pratique, permettant d’optimiser l’espace intérieur tout en supportant de
+    fortes chutes de neige.
+  - Au début du 20e siècle, le style colonial hollandais connaît un renouveau, ce qui conduit à la construction
+    de nombreuses maisons reflétant le style d’origine, mais de façon schématisée et plus uniformisée, notamment
+    par l’utilisation de matériaux usinés et d’éléments architecturaux standardisés, distribués par catalogue (livres
+    de modèles) ou par des revues. Cette nouvelle méthode de construction, rapide, simple et peu coûteuse, mène
+    à une volumétrie simplifiée du modèle d’origine.
+  - Ce style s’est répandu au Québec durant l’entre-deux-guerres, grâce aux modèles disponibles dans les catalogues
+    de vente. C’est l’un des modèles les plus populaires de cette époque, particulièrement dans les milieux anglophones.
+    À Québec, la maison néocoloniale néerlandaise apparaît durant les années 1920, mais y connaîtra son apogée au
+    début des années 1940. Bien que plus rares, des maisons de ce style se retrouvent dans pratiquement tout le
+    territoire de la Ville de Québec, avec une concentration notable dans le quartier de Sillery.
+  - Les maisons de style néocolonial néerlandais se reconnaissent principalement par leur toit à comble brisé, constitué
+    de deux pans présentant chacun une pente douce au-dessus d’une pente plus raide. Il se distingue du toit mansardé
+    par l’asymétrie de ses pentes, avec son terrasson très court et son brisis très allongé et évasé, rappelant
+    la forme d’une cloche, ce qui lui confère un aspect massif et austère. Ce toit en forme de cloche est véritablement
+    la pièce maîtresse et l’attribut le plus emblématique des maisons appartenant à ce style.
+  elements_caracteristiques:
+  - Plan rectangulaire ou en L; volume simple.
+  - Deux niveaux d’occupation (1 étage ½, plus rarement 2 étages ½).
+  - 'Revêtement : brique, planche à clin, planche à feuillures, bardeaux de bois, bardeaux d’amiante, enduit.'
+  - Fondation en béton.
+  - 'Toit en forme de cloche : comble brisé asymétrique, constitué de deux pentes prononcées. Large avant-toit allongé
+    et en surplomb; revêtement en bardeaux d’asphalte. Toiture généralement percée d’une large lucarne continue
+    en appentis, contribuant à son aspect massif.'
+  - 'Portes : porte à carreaux vitrés, porte moustiquaire avec plusieurs éléments menuisés. Entrée disposée de manière
+    centrale.'
+  - 'Fenêtres : rectangulaires, à guillotine à petits carreaux, ou plus rarement à deux battants avec partie fixe
+    à carreaux. Souvent accompagnées de volets ou de persiennes. Présence ou non de fenêtres fixes, en ovale ou
+    en demi-cercle.'
+  - Composition des façades régulière et symétrique, avec un accent sur les lignes verticales.
+  - 'Saillies : perron, porche ou courte galerie couverte. Le plus souvent présence d’un portique surmonté d’un
+    auvent en fronton triangulaire ou semi-circulaire relié au toit principal, supporté par des colonnes simples
+    ou doubles, sans balustrade; corps d’annexe, balcon, véranda, cheminée à l’extrémité du mur pignon.'
+  - 'Ornementation : sobre, portail plus ou moins orné autour de la porte, fronton, retours d’équerre, chambranles
+    sobres ou décorées, encadrements, contrevents ou persiennes, colonnes, piliers, plates-bandes.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=508), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'Known by its roof and almost nothing else: a bell-shaped gambrel of two very unequal slopes — a stub
+  of terrasson over a long flared brisis — with a wide continuous shed dormer cut into it and deep eaves oversailing.
+  An interwar catalogue house, and at Québec a Sillery one.'
+origin_en: The Dutch Colonial Revival house has its origins at the beginning of the 18th century, when Dutch settlers
+  brought their building traditions into the American colonies; the style became popular quickly in New York State
+  and along the Hudson. They adapted their European technique to the harsher climate of North America, and the broken
+  attic roof characteristic of the style was not only an aesthetic choice but a practical one, optimising the interior
+  space while carrying heavy snowfall. At the beginning of the 20th century the Dutch colonial style was revived,
+  leading to many houses reflecting the original in a schematised and more uniform way, through machined materials
+  and standardised components distributed by catalogue. It spread through Québec between the wars, appearing during
+  the 1920s and reaching its height at the beginning of the 1940s.
+related_buildings:
+- name: Résidence Zaché-Langlois
+  fiche_id: 13539
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=13539
+- name: Résidence Noël-Dorion
+  fiche_id: 20619
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=20619
+- name: Résidence Rémi Langlois
+  fiche_id: 20994
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=20994
+- name: 1217, avenue Preston
+  fiche_id: 21010
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=21010
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/508/maison_neocoloniale_neerlandaise.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

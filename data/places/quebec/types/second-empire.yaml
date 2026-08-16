@@ -1,0 +1,109 @@
+id: quebec.second-empire
+place: quebec
+phase: p4
+name_en: Second Empire (courant)
+name_fr: Second Empire
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 401
+is_courant: true
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=401
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=401
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le style Second Empire apparait en France sous le règne de l'empereur Napoléon III (1808-1873). Deux édifices
+    lui permettent de prendre forme et d’affirmer son vocabulaire architectural, soit l'agrandissement du Louvre
+    (1852-1857) ainsi que l’Opéra de Paris (1861-1875). À travers une monumentalité, une plastique recherchée et
+    de riches décors, il s’exprime par un éclectisme en lien avec l’architecture de l’Antiquité gréco-romaine, ou
+    encore de la Renaissance italienne ou française. Il rayonne rapidement à travers l'Europe et l'Amérique du Nord
+    pour arriver au Québec vers le milieu du 19e siècle. Bien que Joseph-Ferdinand Peachy introduise et popularise
+    ce style à Québec, l'Hôtel du Parlement (1877-1886) d’Eugène-Étienne Taché en devient l’œuvre marquante.
+  - Le style Second Empire se caractérise par l’utilisation d’un toit mansardé ou brisé dont la forme imite celle
+    des édifices de François Mansart, un architecte du 17e siècle. La toiture mansardée, à deux ou à quatre versants,
+    possède un terrasson à pente douce et un brisis presque vertical percé de lucarnes. Considérée comme une variante
+    de la forme originale, la toiture à fausse-mansarde peut également être employée. Elle est plate ou à faible
+    pente, puisqu’elle ne possède qu’un faux brisis en façade.
+  - Le bâtiment de style Second Empire est marqué par des composantes formelles et décoratives élaborées qui conduisent
+    à sa monumentalité. Afin d’accentuer l’effet de grandeur recherché, son rez-de-chaussée est surélevé, ses ouvertures
+    sont réparties en travée régulière et ses façades sont articulées par des tourelles, des avant-corps ou des
+    oriels pouvant être couronnés de terrasses faîtières ou d’épis. Son ornementation, issue du vocabulaire classique,
+    permet de percevoir le bâtiment plus imposant et complexe qu’il ne l’est en réalité. La pierre de taille ainsi
+    que les boiseries ouvragées sont par exemple utilisées autour des ouvertures, en bordure du toit, de même que
+    pour définir les saillies ou l’intersection de deux pans de murs.
+  elements_caracteristiques:
+  - 'Composition : caractère monumental, recherche plastique et richesse du décor exprimés par un éclectisme en
+    lien avec l’architecture de l’Antiquité gréco-romaine ou de la Renaissance italienne ou française; recherche
+    de symétrie pour le résidentiel.'
+  - Plan rectangulaire; carré ou en « L ».
+  - Deux à quatre niveaux d’occupation (2 à 4 étages).
+  - Fondation en pierre visible hors sol.
+  - 'Murs : en maçonnerie de pierre, généralement en pierre de taille; résidentiel : parement de brique, de planche
+    de bois, de bardeaux de bois ou bardeau d''amiante.'
+  - 'Toit à terrasson et à brisis (mansardé ou brisé) droits ou recourbés : à deux versants, à deux versants avec
+    demi-croupes ou à quatre versants. Toit à fausse-mansarde avec brisis droits ou recourbés ; pente faible pour
+    le terrasson (moins de 30°) et très forte pour le brisis (plus de 75°); revêtement de tôle traditionnelle.'
+  - Ouvertures régulières et rectangulaires ou en arc, mais généralement en arc surbaissé, garnies d’arcs, de chambranles,
+    de clefs, d’encadrements et de linteaux; porte à panneau(x) avec ou sans vitrage surmontée d’une imposte et
+    garnie d’un portail; fenêtres à battants et à grands carreaux ou à guillotine avec ou sans petit-bois; présence
+    de lucarnes sur le brisis du toit.
+  - 'Saillies couronnées de terrasses faîtières ou d’épis : avant-corps, tours et tourelles; galerie protégé ou
+    non par l''avant-tout recourbé ou par un auvent.'
+  - 'Ornements classiques : aisseliers, chaînes d’angle, colonnes, consoles, corbeaux, corniches, entablements,
+    frontons, garnitures de bois découpées, lambrequins, planche cornières, pilastres, retours d’équerre.'
+profile_note: 'A parent node of the thesaurus (a *courant*), not a building type: recorded so the source''s tree
+  can be read whole, but given no card and no page of its own. Its French is verbatim from the fiche; no English
+  five-column profile is written, because the node describes a family rather than a house. `tenure_plan` is set
+  to `mixed` because the schema requires a value and the family spans several.'
+blurb_en: 'A parent node of the thesaurus: the Second Empire current, under which the City files its named house
+  types.'
+origin_en: Le style Second Empire apparait en France sous le règne de l'empereur Napoléon III (1808-1873). Deux
+  édifices lui permettent de prendre forme et d’affirmer son vocabulaire architectural, soit l'agrandissement du
+  Louvre (1852-1857) ainsi que l’Opéra de Paris (1861-1875). À travers une monumentalité, une plastique recherchée
+  et de riches décors, il s’exprime par un éclectisme en lien avec l’architecture de l’Antiquité gréco-romaine,
+  ou encore de la Renaissance italienne ou française. Il rayonne rapidement à travers l'Europe et l'Amérique du
+  Nord pour arriver au Québec vers le milieu du 19e siècle. Bien que Joseph-Ferdinand Peachy introduise et popularise
+  ce style à Québec, l'Hôtel du Parlement (1877-1886) d’Eugène-Étienne Taché en devient l’œuvre marquante.
+related_buildings:
+- name: Maison John Patrick O'meara
+  fiche_id: 32
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=32
+- name: 5, rue Saint-Stanislas
+  fiche_id: 33
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=33
+- name: 28-30, rue Couillard
+  fiche_id: 53
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=53
+- name: 17, rue Saint-Stanislas
+  fiche_id: 75
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=75
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/401/15.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

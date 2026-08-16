@@ -1,0 +1,100 @@
+id: quebec.neo-roman
+place: quebec
+phase: p5
+name_en: Néo-roman
+name_fr: Néo-roman
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 406
+is_residential: false
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=406
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=406
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le style néo-roman se manifeste en Europe vers le milieu du 19e siècle. Il met en avant-plan les formes du Moyen
+    Âge roman, plus particulièrement celles des édifices religieux de la France du 10e au 12e siècle. Il prend racine
+    dans l’interprétation de l’art et de l’architecture médiévale, entre autres alimenté par les écrits de l’architecte
+    français Eugène Emmanuel Viollet-le-Duc. En Amérique du Nord, sa portée religieuse s’estompe quelque peu sous
+    l’influence américaine. L’architecte bostonien Henry Hobson Richardson popularise sa propre variante du style
+    néo-roman; ses constructions d’allure massive possèdent des façades rythmées et des formes simplifiées qui tendent
+    vers le modernisme.
+  - Au Québec, le style néo-roman est surtout employé pour la construction de lieux de culte catholique ou de bâtiments
+    qui leur sont attachés. Il est ainsi perçu comme le concurrent du style néogothique, en général associé aux
+    lieux de culte protestant. Il fait sa marque entre 1870 et 1930 sur le territoire de la ville de Québec, mais
+    sa présence est plutôt diluée. Il peut être combiné à d’autres styles pour donner une œuvre éclectique, ou encore
+    quelques-unes de ses caractéristiques peuvent être intégrées à la conception d’ensemble d’un bâtiment.
+  - Afin de faire ressortir l’expressivité des matériaux, le style néo-roman se définit par une composition sobre
+    et un jeu de volumes. Le bâtiment possède des murs en pierre ou en brique dont l’effet de masse est accentué
+    par des tours carrées, des piliers, des colonnes trapues ou des contreforts surmontés de pinacles. L’usage de
+    l’arc plein cintre est un trait récurrent de ce style. Il se retrouve par exemple dans les portails à voussures
+    dotés d’embrasures à ressauts, les portiques avec arcades ainsi que les ouvertures larges qui sont jumelées
+    ou en groupe de trois.
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture médiévale de la période romane : allure sobre et jeu de volumes permettant
+    de faire ressortir l’expressivité des matériaux; création d’un effet de masse; style associé aux lieux de culte
+    catholique.'
+  - Plan simple ou irrégulier.
+  - Fondation en pierre visible hors sol.
+  - 'Murs : revêtement de brique, mais généralement en pierre.'
+  - Toit à deux versants droits; pente moyenne (entre 30° et 45°); revêtement de tôle traditionnelle.
+  - Ouvertures rectangulaires ou isolées, jumelées ou groupées en arc plein cintre; porte à panneau(x) avec ou sans
+    vitrage surmontée d’une imposte et garnie d’un portail; fenêtres à battants et à petits ou à grands carreaux
+    garnies d’impostes, à guillotine et à petits carreaux ou à petit-bois, fixes à petit-bois, à petits-fers ou
+    avec vitrail (verrière) et roses.
+  - 'Saillies : contreforts, portail, portique et tours carrées.'
+  - 'Ornements : arcades, colonnes trapues, piliers et pinacles.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are four parish churches. Recorded so the source's list can be read whole, but
+  out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are four parish churches.'
+origin_en: Le style néo-roman se manifeste en Europe vers le milieu du 19e siècle. Il met en avant-plan les formes
+  du Moyen Âge roman, plus particulièrement celles des édifices religieux de la France du 10e au 12e siècle. Il
+  prend racine dans l’interprétation de l’art et de l’architecture médiévale, entre autres alimenté par les écrits
+  de l’architecte français Eugène Emmanuel Viollet-le-Duc. En Amérique du Nord, sa portée religieuse s’estompe quelque
+  peu sous l’influence américaine. L’architecte bostonien Henry Hobson Richardson popularise sa propre variante
+  du style néo-roman; ses constructions d’allure massive possèdent des façades rythmées et des formes simplifiées
+  qui tendent vers le modernisme.
+related_buildings:
+- name: Église de Saint-Grégoire-de-Montmorency
+  fiche_id: 232
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=232
+- name: Église Saint-Louis-de-Courville
+  fiche_id: 233
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=233
+- name: Église de Saint-Ignace-de-Loyola
+  fiche_id: 237
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=237
+- name: Église Saint-Émile
+  fiche_id: 247
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=247
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/406/17.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

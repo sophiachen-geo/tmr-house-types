@@ -1,0 +1,103 @@
+id: quebec.rationalisme
+place: quebec
+phase: p6
+name_en: Rationalisme
+name_fr: Rationalisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 601
+is_residential: false
+courant: Influences traditionnelles et modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=601
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=601
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Considéré par plusieurs comme une doctrine, le rationalisme prend forme au 20e siècle. Ses théories mettent
+    en avant-plan les liens et l’apport nouveau de l’architecture eu égard à l’industrie et au développement des
+    villes. Aux États-Unis, il est surtout associé à la conception des premiers gratte-ciel modernes par le groupe
+    d’architectes de l’École de Chicago. Ceux-ci apportent un renouveau technique en construction avec l’utilisation
+    d’une ossature métallique sans mur porteur, soit le mur rideau. À Québec, le rationalisme est principalement
+    destiné aux bâtiments à usage industriel et commercial de la fin du 19e et du début du 20e siècle.
+  - Alliant la solidité et l’utilité, le bâtiment issu de l’architecture rationaliste se caractérise par une simplicité
+    monumentale et une mise en valeur de la qualité expressive des matériaux. La forme finale devient sans importance,
+    puisque la fonction et la structure prédominent. En ce qui a trait à la fonction, l’extérieur doit rendre compte
+    de l’organisation intérieure tandis que pour la structure, toute ornementation qui n’en fait pas partie est
+    à proscrire.
+  - Le bâtiment d’allure rationaliste présente donc généralement un volume rectangulaire ou carré qui est coiffé
+    d’un toit plat ou à faible pente. L'utilisation du béton armé et de l'acier permet de concevoir des espaces
+    vastes et éclairés. Bien que les façades soient dépouillées d'ornements, des éléments décoratifs sont parfois
+    puisés des répertoires des siècles précédents. Afin de rompre moins radicalement avec la tradition, des motifs
+    formés par des appareillages ou des teintes de briques, de même que par des insertions de pierre sont employés.
+    Les bandeaux, corniches et pilastres ainsi créés servent à marquer les éléments structuraux formés par la toiture,
+    les niveaux ou les angles. Dans certains cas, les murs sont presque entièrement vitrés et des puits de lumière
+    percent les toitures pour optimiser l’entrée de lumière naturelle.
+  elements_caracteristiques:
+  - 'Composition : caractère monumental, qualité expressive des matériaux, prédominance de la fonction et de la
+    structure sur la forme et l’extérieur rend compte de l’organisation intérieure du bâtiment.'
+  - Plan carré ou rectangulaire; volume simple.
+  - Pièces vastes et éclairées et puits de lumière.
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de béton, de pierre, de métal ou de métal et de verre avec le mur rideau, mais généralement
+    de brique; structure en bois, mais généralement apparente en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s). Toit à deux versants droits; pente faible
+    (moins de 30°) ou moyenne (entre 30° et 45°); revêtement de bardeau d’asphalte, de tôle profilée ou de tôle
+    traditionnelle.
+  - Ouvertures régulières, larges et rectangulaires ou en arc surmontées ou non d’impostes et garnies d’arcs, de
+    clefs et de linteaux; porte à panneau(x) avec ou sans vitrage ou entièrement vitrée; fenêtres à battants et
+    à grands carreaux, à guillotine et à petits carreaux ou à petit-bois ou fixes.
+  - 'Ornements utilisés pour mettre en valeur les éléments structuraux : bandeaux, consoles, corbeaux, corniches,
+    motifs formés par divers appareillages, pierres incrustées, pilastres et polychromie.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are churches and office buildings. Recorded so the source's list can be read whole,
+  but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are churches and office
+  buildings.'
+origin_en: Considéré par plusieurs comme une doctrine, le rationalisme prend forme au 20e siècle. Ses théories mettent
+  en avant-plan les liens et l’apport nouveau de l’architecture eu égard à l’industrie et au développement des villes.
+  Aux États-Unis, il est surtout associé à la conception des premiers gratte-ciel modernes par le groupe d’architectes
+  de l’École de Chicago. Ceux-ci apportent un renouveau technique en construction avec l’utilisation d’une ossature
+  métallique sans mur porteur, soit le mur rideau. À Québec, le rationalisme est principalement destiné aux bâtiments
+  à usage industriel et commercial de la fin du 19e et du début du 20e siècle.
+related_buildings:
+- name: 5, rue D'Auteuil
+  fiche_id: 2
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2
+- name: Église Saint-Jérôme
+  fiche_id: 228
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=228
+- name: Église Baptiste française
+  fiche_id: 341
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=341
+- name: Édifice Tremblay-Dion
+  fiche_id: 602
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=602
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/601/34.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

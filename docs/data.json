@@ -3338,6 +3338,1842 @@
    "url": "types/hampstead.contemporary-rebuild/"
   },
   {
+   "id": "levis.regime-francais",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p1",
+   "phase_label": "1636–1780",
+   "phase_years": "1636 – 1780",
+   "phase_title": "The seigneurie de Lauzon",
+   "name_en": "French-regime house (Régime français)",
+   "name_fr": "Régime français",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 16 « Régime français », 1620-1800",
+   "canonical": [
+    "french-rural-house-1st-hip",
+    "french-urban-house-stone"
+   ],
+   "canonical_names": [
+    "One-storey rural house of French inspiration, pièce-sur-pièce walls, hipped roof without eaves, no cellar",
+    "Urban stone house of French inspiration, one or two levels plus attic, two-slope roof, chimneys in fire-break party walls"
+   ],
+   "styles": [
+    "french-regime"
+   ],
+   "style_names": [
+    "French-regime rural house"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "gabled-or-hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "fieldstone",
+    "stucco-render",
+    "wood-clapboard",
+    "wood-vertical-board"
+   ],
+   "roofing": "wood shingle",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 15 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half storeys, sitting very low to the ground.",
+     "Rectangular plan.",
+     "Two-slope or hipped roof of steep pitch, with a barely projecting eaves overhang, covered in wood shingle.",
+     "One or more large stone chimneys."
+    ],
+    "articulation": [
+     "Plain window and door surrounds; stripped-back decoration."
+    ],
+    "openings": [
+     "Casement windows with small panes, few in number and asymmetrically placed; small dormers added in the 19th century."
+    ],
+    "materials": [
+     "Massive stone walls, sometimes rendered in stucco or clad in wood clapboard or vertical boarding."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ étage très peu dégagé du sol"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "à 2 versants ou à croupe, à pente forte, avant-toit peu débordant, revêtement de bardeau de bois"
+    ],
+    "saillies": [
+     "large(s) cheminée(s) en pierre"
+    ],
+    "ornementation": [
+     "chambranles simples, décor dépouillé"
+    ],
+    "ouvertures": [
+     "fenêtres à battants à petits carreaux, rares et asymétriques, petites lucarnes ajoutées au 19e siècle"
+    ],
+    "revetements": [
+     "murs massifs en pierre, parfois revêtus de crépi, de clin de bois ou de planches verticales"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1620-1800).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "One and a half storeys sitting almost on the ground under a steep two-slope or hipped roof with barely any eaves overhang. Walls are massive stone, sometimes rendered or boarded over. Windows are few, small-paned casements, set without symmetry; a large stone chimney is the only projection.",
+   "origin_en": "The oldest of the twenty currents in the City's catalogue, covering the French colonial period on the seigneurie de Lauzon, granted to Jean de Lauson in 1636 and settled at Pointe-Lévy from 1647. The City counts about fifteen buildings of this kind across the whole merged territory — the smallest surviving group in the catalogue, and the reason so little of Lévis reads as pre-Conquest today.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 16 « Régime français » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=16 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=16",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of French-regime house (Régime français) houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.regime-francais/"
+  },
+  {
+   "id": "levis.franco-quebecois",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p2",
+   "phase_label": "1780–1861",
+   "phase_years": "1780 – 1861",
+   "phase_title": "Pointe-Lévy, the ferry and the shipyards",
+   "name_en": "Franco-Québécois transitional house",
+   "name_fr": "Franco-québécois",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 11 « Franco-québécois », 1780-1820",
+   "canonical": [
+    "transition-franco-quebecoise"
+   ],
+   "canonical_names": [
+    "Franco-Québécois transition house, high foundation, steep roof, massive chimney stacks"
+   ],
+   "styles": [
+    "french-regime",
+    "neoclassical-quebec"
+   ],
+   "style_names": [
+    "French-regime rural house",
+    "Québec neoclassical"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "bellcast",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "fieldstone",
+    "stucco-render",
+    "wood-clapboard",
+    "wood-shingle"
+   ],
+   "roofing": "wood shingle or tôle à la canadienne",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 50 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half storeys, sitting low to the ground.",
+     "Rectangular plan.",
+     "Two-slope roof with a curved bellcast eave, of steep pitch, covered in wood shingle or Canadian-pan tin.",
+     "Chimney; entrance stoop."
+    ],
+    "articulation": [
+     "Window and door surrounds; corner boards where the cladding is wood."
+    ],
+    "openings": [
+     "Casement windows with small or large panes, symmetrically placed; gabled dormers."
+    ],
+    "materials": [
+     "Stone, stucco render, wood clapboard or wood shingle."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ étage peu dégagé du sol"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "à 2 versants à larmier recourbé, à pente forte, revêtement de bardeau de bois ou de tôle à la canadienne"
+    ],
+    "saillies": [
+     "cheminée, perron"
+    ],
+    "ornementation": [
+     "chambranles, planches cornières lorsque le revêtement est en bois"
+    ],
+    "ouvertures": [
+     "fenêtres à battants à petits ou à grands carreaux, symétriques, lucarnes à pignon"
+    ],
+    "revetements": [
+     "pierre, crépi, clin ou bardeau de bois"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1780-1820).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "The step between the French-regime house and the Québécois house: still one and a half storeys and low to the ground, but the eaves now curve out in a bellcast and the windows line up symmetrically. Stone, render, clapboard or shingle; a chimney and a stoop.",
+   "origin_en": "The transitional form of the decades either side of 1800, when Pointe-Lévy was a ferry landing and the shipyards at Lauzon were beginning. The bellcast eave that defines it is the single feature that separates it from the French-regime house behind it and connects it to the Québécois house that follows. About fifty are counted city-wide.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 11 « Franco-québécois » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=11 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=11",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Franco-Québécois transitional house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.franco-quebecois/"
+  },
+  {
+   "id": "levis.quebecois",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p2",
+   "phase_label": "1780–1861",
+   "phase_years": "1780 – 1861",
+   "phase_title": "Pointe-Lévy, the ferry and the shipyards",
+   "name_en": "Québécois traditional house",
+   "name_fr": "Québécois",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 2 « Québécois », 1820-1880",
+   "canonical": [
+    "quebec-traditional-1-5st-gable"
+   ],
+   "canonical_names": [
+    "One-and-a-half-storey rectangular house, steep two-slope roof (straight or bell-cast), full-width gallery under the eaves, stone or wood"
+   ],
+   "styles": [
+    "neoclassical-quebec"
+   ],
+   "style_names": [
+    "Québec neoclassical"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2.5",
+   "roof": {
+    "form": "bellcast",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-clapboard",
+    "wood-shingle"
+   ],
+   "roofing": "tôle à la canadienne or standing-seam tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 700 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).",
+     "Documented in Vieux-Lévis on rue Wolfe by the City's walking-tour brochure Le Vieux-Lévis à pied (maison Lefrançois, 39; maison Pampalon, 40)."
+    ],
+    "massing": [
+     "One and a half to two and a half storeys, raised slightly above the ground.",
+     "Rectangular plan.",
+     "Two-slope roof with a curved bellcast base, of medium pitch, in Canadian-pan or standing-seam tin.",
+     "Covered veranda — sheltered by the bellcast eave or by an independent awning — and a chimney."
+    ],
+    "articulation": [
+     "Window and door surrounds and corner boards; a doorcase; veranda trim (knee braces, railings)."
+    ],
+    "openings": [
+     "Casement windows of four and six panes, plentiful and symmetrical; one or more gabled dormers."
+    ],
+    "materials": [
+     "Wood clapboard or wood shingle."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ à 2 ½ étages, légèrement dégagé du sol"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "à 2 versants à base recourbée, pente moyenne, en tôle à la canadienne ou à baguettes"
+    ],
+    "saillies": [
+     "galerie couverte (par larmier ou auvent indépendant) et cheminée"
+    ],
+    "ornementation": [
+     "chambranles et planches cornières, portail, garnitures de galeries (aisseliers, garde-corps)"
+    ],
+    "ouvertures": [
+     "fenêtres à battants à 4 et 6 carreaux, abondantes et symétriques, lucarne(s) à pignon"
+    ],
+    "revetements": [
+     "clin ou bardeau de bois"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1820-1880).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PIIA-LEVIS"
+   ],
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "The house that gives Lévis its street picture: one and a half to two and a half storeys, raised a little off the ground, under a medium-pitched two-slope roof whose curved base carries out over a covered veranda. Clapboard or shingle walls, four- and six-pane casements set symmetrically, gabled dormers, and carpentered trim on the surrounds, corner boards and veranda.",
+   "origin_en": "At about seven hundred buildings this is the second most numerous current in the catalogue, and the one the City's own walking-tour brochure uses to explain how the Norman house of the colonists became something Québécois. The brochure reads the maison Lefrançois at 39 rue Wolfe as exactly that evolution — dormers cut into the roof and clapboard on the walls — and the maison Pampalon at 40 rue Wolfe as its later stage, where the ground floor lifts far enough to make the basement usable.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 2 « Québécois » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=2 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=2",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Québécois traditional house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.quebecois/"
+  },
+  {
+   "id": "levis.regency",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p2",
+   "phase_label": "1780–1861",
+   "phase_years": "1780 – 1861",
+   "phase_title": "Pointe-Lévy, the ferry and the shipyards",
+   "name_en": "Regency cottage",
+   "name_fr": "Regency",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 18 « Regency », 1830-1880",
+   "canonical": [
+    "regency-cottage-hipped-veranda"
+   ],
+   "canonical_names": [
+    "Regency cottage — low hipped roof whose eaves extend to cover a wrap-around veranda"
+   ],
+   "styles": [
+    "regency"
+   ],
+   "style_names": [
+    "Regency"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2.5",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-clapboard",
+    "wood-shingle",
+    "clay-brick"
+   ],
+   "roofing": "wood shingle or standing-seam tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 15 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half or two and a half storeys.",
+     "Square plan.",
+     "Hipped (four-slope) pavilion roof with a curved bellcast base, in wood shingle or standing-seam tin.",
+     "Veranda sheltered by the roof overhang; chimneys."
+    ],
+    "articulation": [
+     "Window and door surrounds, corner boards, entrance doorcase."
+    ],
+    "openings": [
+     "Casement windows of six large panes; gabled or hipped dormers; symmetrical arrangement."
+    ],
+    "materials": [
+     "Wood clapboard or wood shingle; brick."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ ou 2 ½ étages"
+    ],
+    "plan": [
+     "carré"
+    ],
+    "toiture": [
+     "à pavillon (4 versants) à base recourbée, bardeau de bois ou tôle à baguettes"
+    ],
+    "saillies": [
+     "galerie protégée par débord de toit, cheminées"
+    ],
+    "ornementation": [
+     "chambranles, planches cornières, portail d'entrée"
+    ],
+    "ouvertures": [
+     "fenêtres à battants à 6 grands carreaux, lucarnes à pignon ou à croupe, disposition symétrique"
+    ],
+    "revetements": [
+     "clin ou bardeau de bois, brique"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1830-1880).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Square in plan under a four-slope pavilion roof whose curved base runs out over a veranda on every side. Six-pane casements arranged symmetrically, gabled or hipped dormers, and clapboard, shingle or brick walls.",
+   "origin_en": "The British officer's cottage as it was built on the south shore facing Québec, and one of the rarest currents in the catalogue at about fifteen buildings. The RPCQ's description of the cited site at Saint-Nicolas names the Regency among the « manifestations d'architecture pittoresque » that give that ensemble its character.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 18 « Regency » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=18 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=18",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Regency cottage houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.regency/"
+  },
+  {
+   "id": "levis.neogothique",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p2",
+   "phase_label": "1780–1861",
+   "phase_years": "1780 – 1861",
+   "phase_title": "Pointe-Lévy, the ferry and the shipyards",
+   "name_en": "Neo-Gothic",
+   "name_fr": "Néogothique",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 17 « Néogothique », 1830-1940",
+   "canonical": [
+    "detached-cottage-steep-gable"
+   ],
+   "canonical_names": [
+    "Detached cottage, steep multi-gabled roof, brick base / light upper"
+   ],
+   "styles": [
+    "neogothique"
+   ],
+   "style_names": [
+    "Néogothique"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "clay-brick",
+    "fieldstone",
+    "wood-clapboard"
+   ],
+   "roofing": "tôle à la canadienne or wood shingle",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 10 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).",
+     "Documented in Vieux-Lévis at the carré Déziel by the City's walking-tour brochure Le Vieux-Lévis à pied."
+    ],
+    "massing": [
+     "One and a half to two and a half storeys.",
+     "Irregular plan.",
+     "Steeply pitched two-slope roof in Canadian-pan tin or wood shingle.",
+     "Bell tower, projecting bays, buttresses, pilasters, pinnacles."
+    ],
+    "articulation": [
+     "String courses, friezes, patterned brick or stonework, stained glass, a doorcase, decorative woodwork."
+    ],
+    "openings": [
+     "Pointed-arch openings; vertical openings of varied pattern."
+    ],
+    "materials": [
+     "Brick, stone or wood clapboard."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ à 2 ½ étages"
+    ],
+    "plan": [
+     "irrégulier"
+    ],
+    "toiture": [
+     "à 2 versants à pente forte, tôle à la canadienne ou bardeau de bois"
+    ],
+    "saillies": [
+     "clocher, avancées, contreforts, pilastres, pinacles"
+    ],
+    "ornementation": [
+     "bandeaux, frises, jeux de brique ou de pierre, vitraux, portail, boiseries décoratives"
+    ],
+    "ouvertures": [
+     "à arc ogival, ouvertures verticales de modèles variées"
+    ],
+    "revetements": [
+     "brique, pierre ou clin de bois"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1830-1940).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "provisional",
+   "sectors": [
+    "PIIA-LEVIS"
+   ],
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Steep two-slope roofs over an irregular plan, with pointed-arch openings and vertical windows of varied pattern. The City's own line drawing for this current is a chapel, and its projections — bell tower, buttresses, pinnacles — are ecclesiastical; the domestic version reads through the same steep gables and decorative bargeboards.",
+   "origin_en": "Lévis's best-known Neo-Gothic building is a house: the maison Alphonse-Desjardins of 1882–1884, where the first caisse populaire was founded in 1900. The RPCQ describes it as « une habitation de style néogothique… de plan asymétrique en forme de « L », à un étage et demi… coiffée d'un toit à deux versants ponctué de deux pignons en façade », and it was classed an immeuble patrimonial on 21 March 1983. The City's fiche spans 1830 to 1940, a reach of over a century, so the phase placement here follows the opening date and is marked provisional.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 17 « Néogothique » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=17 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=17",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Neo-Gothic houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.neogothique/"
+  },
+  {
+   "id": "levis.neoclassique",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p2",
+   "phase_label": "1780–1861",
+   "phase_years": "1780 – 1861",
+   "phase_title": "Pointe-Lévy, the ferry and the shipyards",
+   "name_en": "Neoclassical house",
+   "name_fr": "Néoclassique",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 9 « Néoclassique », 1840-1880",
+   "canonical": [
+    "eclectic-prestige-house"
+   ],
+   "canonical_names": [
+    "Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château, Edwardian)"
+   ],
+   "styles": [
+    "neoclassical-quebec"
+   ],
+   "style_names": [
+    "Québec neoclassical"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "2–3",
+   "roof": {
+    "form": "gabled-or-hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "cut-stone",
+    "wood-clapboard"
+   ],
+   "roofing": "standing-seam tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 50 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).",
+     "Documented in Vieux-Lévis around the carré Déziel by the City's walking-tour brochure Le Vieux-Lévis à pied."
+    ],
+    "massing": [
+     "Two to three storeys.",
+     "Rectangular plan.",
+     "Straight two-slope or hipped roof in standing-seam tin.",
+     "Chimneys; gables that observe the symmetry."
+    ],
+    "articulation": [
+     "Window and door surrounds, pediments, doorcases, cornices, pilasters."
+    ],
+    "openings": [
+     "Sash or casement windows with large panes, symmetrically arranged; gabled or hipped dormers."
+    ],
+    "materials": [
+     "Brick or cut stone on the principal façade, wood clapboard on the secondary elevations."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "2 à 3 étages"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "à 2 versants droits ou à croupe, tôle à baguettes"
+    ],
+    "saillies": [
+     "cheminées, pignons respectant la symétrie"
+    ],
+    "ornementation": [
+     "chambranles, frontons, portails, corniches, pilastres"
+    ],
+    "ouvertures": [
+     "fenêtres à guillotine ou à battants à grands carreaux disposées symétriquement, lucarnes à pignon ou à croupe"
+    ],
+    "revetements": [
+     "brique ou pierre de taille en façade, clin de bois sur façades secondaires"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1840-1880).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PIIA-LEVIS"
+   ],
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Two to three storeys under a straight two-slope or hipped tin roof, faced in brick or cut stone at the front and clapboard down the sides — a distinction of expense that the fiche records plainly. Large-paned windows in strict symmetry, and pediments, cornices and pilasters at the door.",
+   "origin_en": "The idiom of the Lévis bourgeoisie in the decades around incorporation in 1861. Its public monument is the église Notre-Dame-de-la-Victoire of 1851 on plans by Thomas Baillargé, which the City's walking-tour brochure calls « un chef-d'œuvre néoclassique » and reads through its four Doric pilasters carrying a pediment.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 9 « Néoclassique » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=9 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=9",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Neoclassical house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.neoclassique/"
+  },
+  {
+   "id": "levis.agricole-vernaculaire",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p2",
+   "phase_label": "1780–1861",
+   "phase_years": "1780 – 1861",
+   "phase_title": "Pointe-Lévy, the ferry and the shipyards",
+   "name_en": "Agricultural vernacular building",
+   "name_fr": "Agricole vernaculaire",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 8 « Agricole vernaculaire », 1850-1950",
+   "canonical": [
+    "industrial-vernacular-cottage"
+   ],
+   "canonical_names": [
+    "Industrial-vernacular cottage, 1½–2½ storeys, rectangular/L/T plan, straight two-slope roof"
+   ],
+   "styles": [
+    "agricole-vernaculaire"
+   ],
+   "style_names": [
+    "Agricole vernaculaire"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-vertical-board",
+    "wood-shingle"
+   ],
+   "roofing": "wood shingle or barn tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 100 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half to two and a half storeys.",
+     "Rectangular plan.",
+     "Straight two-slope roof, sometimes mansarded, in wood shingle or barn tin.",
+     "Roof vent, lean-to volumes, silo."
+    ],
+    "articulation": [
+     "Sober; window and door surrounds; a weathervane."
+    ],
+    "openings": [
+     "Large hinged or sliding (track-hung) doors; windows with large panes."
+    ],
+    "materials": [
+     "Vertical wood boarding or wood shingle."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ à 2 ½ étages"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "à 2 versants droits, parfois mansardé, en bardeau de bois ou en tôle de grange"
+    ],
+    "saillies": [
+     "évent, volumes en appentis, silo"
+    ],
+    "ornementation": [
+     "sobre, chambranles, girouette"
+    ],
+    "ouvertures": [
+     "grandes portes à battants ou coulissantes (sur rail), fenêtres à grands carreaux"
+    ],
+    "revetements": [
+     "planches de bois verticales ou bardeau de bois"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1850-1950). Rural rather than urban: the fiche describes farm buildings, and its openings row is about barn doors rather than windows.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "provisional",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "The rural building of the merged territory: a long rectangle of vertical boarding or shingle under a straight two-slope roof, sometimes mansarded, with big hinged or track-hung doors, a roof vent, lean-to additions and a silo.",
+   "origin_en": "Rural rather than urban, and included here because Lévis's 2002 merger of ten municipalities brought a large farming territory inside one city boundary — Saint-Étienne, Saint-Nicolas, Pintendre, Breakeyville and Vire-Crêpes all carry PIIA heritage sectors of this kind. The RPCQ's cited site at Saint-Nicolas is itself described as « un ensemble continu de propriétés agricoles ». About a hundred are counted.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 8 « Agricole vernaculaire » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=8 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=8",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Agricultural vernacular building houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.agricole-vernaculaire/"
+  },
+  {
+   "id": "levis.second-empire",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p3",
+   "phase_label": "1861–1900",
+   "phase_years": "1861 – 1900",
+   "phase_title": "Ville de Lévis — railway, forts, terraces",
+   "name_en": "Second Empire house",
+   "name_fr": "Second Empire",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 5 « Second Empire », 1870-1920",
+   "canonical": [
+    "mansard-house-2st"
+   ],
+   "canonical_names": [
+    "Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under its own awning"
+   ],
+   "styles": [
+    "second-empire"
+   ],
+   "style_names": [
+    "Second Empire / mansard"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "2–3",
+   "roof": {
+    "form": "mansard",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "wood-clapboard",
+    "wood-shingle"
+   ],
+   "roofing": "standing-seam tin on the terrasson, tôle à la canadienne on the brisis",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 450 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "Two to three storeys.",
+     "Rectangular plan.",
+     "Mansard roof of two or four slopes, standing-seam tin on the flat upper deck (terrasson) and Canadian-pan tin on the steep lower slope (brisis).",
+     "Chimney; covered veranda."
+    ],
+    "articulation": [
+     "Window and door surrounds, corner boards, decorative woodwork and veranda trim."
+    ],
+    "openings": [
+     "Casement windows of four and six panes and, more rarely, sash windows; gabled or round-headed dormers."
+    ],
+    "materials": [
+     "Brick, wood clapboard or wood shingle."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "2 à 3 étages"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "mansardée, à 2 ou à 4 versants, tôle à baguettes sur le terrasson et tôle à la canadienne sur le brisis"
+    ],
+    "saillies": [
+     "cheminée, galerie couverte"
+    ],
+    "ornementation": [
+     "chambranles, planches cornières, boiseries décoratives et garnitures de galerie"
+    ],
+    "ouvertures": [
+     "fenêtre à battants à 4 et 6 carreaux et, plus rarement, à guillotine, lucarnes à pignon ou ceintrées"
+    ],
+    "revetements": [
+     "brique, clin ou bardeau de bois"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1870-1920).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Two to three storeys under a mansard whose two tin finishes are specified separately — standing seam on the flat deck above, Canadian pan on the steep slope below. Four- and six-pane casements, gabled or round-headed dormers, a covered veranda and carpentered trim.",
+   "origin_en": "At about 450 buildings, one of the four big currents in the catalogue, and the form of the Lévis of the railway decades after 1870. The old hôtel de ville, demolished in 1965 and shown in the City's walking-tour brochure on the site of the present parc Joseph-Godéric-Blanchet, was Second Empire.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 5 « Second Empire » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=5 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=5",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Second Empire house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.second-empire/"
+  },
+  {
+   "id": "levis.victorien",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p3",
+   "phase_label": "1861–1900",
+   "phase_years": "1861 – 1900",
+   "phase_title": "Ville de Lévis — railway, forts, terraces",
+   "name_en": "Victorian house",
+   "name_fr": "Victorien",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 7 « Victorien », 1880-1930",
+   "canonical": [
+    "queen-anne-irregular-2-5st"
+   ],
+   "canonical_names": [
+    "2½-storey house of irregular plan, medium-pitched roofs, towers/turrets/oriels/gables, asymmetrical"
+   ],
+   "styles": [
+    "victorian-eclectic",
+    "queen-anne"
+   ],
+   "style_names": [
+    "Victorian eclecticism",
+    "Queen Anne"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "2–3",
+   "roof": {
+    "form": "gabled-multi",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-clapboard",
+    "wood-shingle-cut",
+    "clay-brick"
+   ],
+   "roofing": "standing-seam tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 100 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).",
+     "Documented in Vieux-Lévis on rue Guenette and rue Wolfe by the City's walking-tour brochure Le Vieux-Lévis à pied."
+    ],
+    "massing": [
+     "Two to three storeys, well raised above the ground.",
+     "Complex, articulated plan with projecting bays.",
+     "Two- and four-slope roofs in standing-seam tin.",
+     "Turret, veranda, gable, chimney, balcony, oriel."
+    ],
+    "articulation": [
+     "Very heavily loaded, with decorative woodwork — surrounds, finial mast, knee braces, valances, cornices, frieze and the like."
+    ],
+    "openings": [
+     "Windows and dormers of varied pattern, sometimes paired."
+    ],
+    "materials": [
+     "Wood clapboard, cut (fancy-butt) wood shingle, brick."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "2 à 3 étages, bien dégagé du sol"
+    ],
+    "plan": [
+     "complexe et articulé avec des avancées"
+    ],
+    "toiture": [
+     "à 2 et 4 versants, tôle à baguettes"
+    ],
+    "saillies": [
+     "tourelle, galerie, pignon, cheminée, balcon, oriel"
+    ],
+    "ornementation": [
+     "très chargée avec boiseries décoratives (chambranles, mât, aiselliers, lambrequins, corniches, frise, etc.)"
+    ],
+    "ouvertures": [
+     "modèles de fenêtres et de lucarnes variés, parfois jumelés"
+    ],
+    "revetements": [
+     "clin de bois, bardeau de bois découpé, brique"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1880-1930).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PIIA-LEVIS"
+   ],
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Two to three storeys well up off the ground on a complex articulated plan, broken by turrets, oriels, balconies and gables, and covered in decorative woodwork — the fiche calls the ornament « très chargée » and then lists seven kinds of it.",
+   "origin_en": "The City's walking-tour brochure points to the three houses at 20, 22-26 and 28 rue Guenette — « le trio victorien » — as « un des ensembles architecturaux les plus intéressants du Québec », reading them through bichrome brick at the quoins and entablements, imitation keystones over the lintels, arched windows and elaborated gables.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 7 « Victorien » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=7 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=7",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Victorian house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.victorien/"
+  },
+  {
+   "id": "levis.vernaculaire-americain",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p3",
+   "phase_label": "1861–1900",
+   "phase_years": "1861 – 1900",
+   "phase_title": "Ville de Lévis — railway, forts, terraces",
+   "name_en": "American vernacular house",
+   "name_fr": "Vernaculaire américain",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 1 « Vernaculaire américain », 1880-1940",
+   "canonical": [
+    "industrial-vernacular-cottage"
+   ],
+   "canonical_names": [
+    "Industrial-vernacular cottage, 1½–2½ storeys, rectangular/L/T plan, straight two-slope roof"
+   ],
+   "styles": [
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-clapboard",
+    "wood-shingle",
+    "asbestos-cement-tile"
+   ],
+   "roofing": "standing-seam tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 1 700 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half or two storeys, well raised above the ground.",
+     "Rectangular plan, sometimes L-shaped.",
+     "Straight two-slope roof in standing-seam tin, of medium to shallow pitch.",
+     "Veranda covered by an independent awning."
+    ],
+    "articulation": [
+     "Window and door surrounds, corner boards, veranda trim, cornice returns."
+    ],
+    "openings": [
+     "Large-paned casement windows or sash windows; gabled or shed dormers."
+    ],
+    "materials": [
+     "Wood clapboard or wood shingle; diamond-pattern asbestos-cement tiles."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ ou 2 étages, bien dégagé du sol"
+    ],
+    "plan": [
+     "rectangulaire, parfois en « L »"
+    ],
+    "toiture": [
+     "à 2 versants droits, en tôle à baguettes, pente moyenne à faible"
+    ],
+    "saillies": [
+     "galerie couverte d'un auvent indépendant"
+    ],
+    "ornementation": [
+     "chambranles, planches cornières, garnitures de galerie, retour de corniche"
+    ],
+    "ouvertures": [
+     "fenêtres à battants à grands carreaux ou fenêtres à guillotine, lucarne à pignon ou en appentis"
+    ],
+    "revetements": [
+     "clin ou bardeau de bois, tuiles d'amiante-ciment en losange"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1880-1940).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "At about 1,700 buildings the most numerous current in Lévis by a wide margin: one and a half or two storeys well clear of the ground, rectangular or L-shaped, under a straight tin roof of medium to shallow pitch, with a veranda under its own separate awning.",
+   "origin_en": "The workers' house of the industrial south shore, and the plainest demonstration of what the catalogue is for — one form accounting for more than a third of the 4,000-odd heritage buildings the City counts. The diamond-pattern asbestos-cement tile the fiche names as a cladding is the same material it lists for Boomtown, and marks the interwar re-skinning of both.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 1 « Vernaculaire américain » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=1 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=1",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of American vernacular house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.vernaculaire-americain/"
+  },
+  {
+   "id": "levis.beaux-arts",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p4",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Boomtown, cubique and the flat roof",
+   "name_en": "Beaux-Arts house",
+   "name_fr": "Beaux-arts",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 15 « Beaux-arts », 1900-1930",
+   "canonical": [
+    "eclectic-prestige-house"
+   ],
+   "canonical_names": [
+    "Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château, Edwardian)"
+   ],
+   "styles": [
+    "beaux-arts"
+   ],
+   "style_names": [
+    "Beaux-Arts"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "2–3",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "cut-stone"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 10 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).",
+     "Documented in Vieux-Lévis on rue Wolfe and avenue Bégin by the City's walking-tour brochure Le Vieux-Lévis à pied."
+    ],
+    "massing": [
+     "Two or three storeys.",
+     "Rectangular plan.",
+     "Flat roof.",
+     "Covered veranda."
+    ],
+    "articulation": [
+     "Modillion cornice, balustrade, quoins, doorcase, pediment, window surrounds, keystone, columns and pilasters."
+    ],
+    "openings": [
+     "Rectangular or arched windows with transoms, sometimes grouped; symmetrical arrangement."
+    ],
+    "materials": [
+     "Brick or stone."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "2 ou 3 étages"
+    ],
+    "plan": [
+     "rectangulaire"
+    ],
+    "toiture": [
+     "plate"
+    ],
+    "saillies": [
+     "galerie couverte"
+    ],
+    "ornementation": [
+     "corniche à modillons, garde-corps, chaînages d'angle, portail, fronton, chambranles, clé de voûte, colonnes et pilastres"
+    ],
+    "ouvertures": [
+     "fenêtres rectangulaires ou arquées avec impostes, parfois regroupées, disposition symétrique"
+    ],
+    "revetements": [
+     "brique ou pierre"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1900-1930).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PIIA-LEVIS"
+   ],
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Two or three storeys of brick or stone under a flat roof, symmetrical, with a covered veranda and the longest ornament list in the catalogue — modillion cornice, balustrade, quoins, doorcase, pediment, keystone, columns and pilasters.",
+   "origin_en": "A prestige house rather than a public building: the City's line drawing for this current is a two-storey dwelling with a veranda, quoins and a modillion cornice, and its worked example is 55 avenue Bégin. The walking-tour brochure's maison Lasnier at 44 rue Wolfe, rebuilt in 1910 down to the basement in a « style éclectique d'inspiration palladienne », is the same idea. About ten are counted.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 15 « Beaux-arts » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=15 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=15",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Beaux-Arts house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.beaux-arts/"
+  },
+  {
+   "id": "levis.boomtown",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p4",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Boomtown, cubique and the flat roof",
+   "name_en": "Boomtown house",
+   "name_fr": "Boomtown",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 10 « Boomtown », 1900-1930",
+   "canonical": [
+    "boomtown-false-front"
+   ],
+   "canonical_names": [
+    "Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown"
+   ],
+   "styles": [
+    "boomtown"
+   ],
+   "style_names": [
+    "Boomtown (false front)"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1–2",
+   "roof": {
+    "form": "flat-or-low-slope",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-clapboard",
+    "wood-shingle",
+    "asbestos-cement-tile"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 100 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One to two storeys.",
+     "Rectangular or square plan.",
+     "Flat, or of very shallow pitch falling to the rear.",
+     "Parapet or cornice; covered veranda."
+    ],
+    "articulation": [
+     "Corner boards and window surrounds; cornice elements."
+    ],
+    "openings": [
+     "Multi-paned sash windows, symmetrically arranged."
+    ],
+    "materials": [
+     "Wood clapboard or wood shingle; diamond-pattern asbestos-cement tiles."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 à 2 étages"
+    ],
+    "plan": [
+     "rectangulaire ou carré"
+    ],
+    "toiture": [
+     "plate ou à très faible pente vers l'arrière"
+    ],
+    "saillies": [
+     "parapet ou corniche, galerie couverte"
+    ],
+    "ornementation": [
+     "planches cornières et chambranles, éléments de corniche"
+    ],
+    "ouvertures": [
+     "fenêtres à guillotine à carreaux, disposées symétriquement"
+    ],
+    "revetements": [
+     "clin ou bardeau de bois, tuiles d'amiante-ciment en losange"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1900-1930).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "One to two storeys, square or rectangular, with the roof either flat or falling so gently to the rear that the street sees a straight line. A parapet or cornice finishes the front, a covered veranda fronts it, and corner boards and surrounds do the rest.",
+   "origin_en": "The same form Saint-Lambert, Gatineau, Québec City and Trois-Rivières each describe in their own words — six independent municipal descriptions of one building. Lévis's fiche is the tersest of them and the only one that pins the shallow pitch to the rear slope explicitly. About a hundred are counted.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 10 « Boomtown » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=10 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=10",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Boomtown house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.boomtown/"
+  },
+  {
+   "id": "levis.cubique",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p4",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Boomtown, cubique and the flat roof",
+   "name_en": "Cubic house (maison cubique)",
+   "name_fr": "Cubique",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 4 « Cubique », 1900-1945",
+   "canonical": [
+    "foursquare-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey square or rectangular block under a pyramidal or hipped roof, brick, gallery or porch"
+   ],
+   "styles": [
+    "foursquare"
+   ],
+   "style_names": [
+    "American Foursquare"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "hipped-or-pyramidal",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "wood-clapboard",
+    "wood-shingle",
+    "asbestos-cement-tile"
+   ],
+   "roofing": "tôle à la canadienne or pincée",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 450 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "Two storeys.",
+     "Square plan.",
+     "Four-slope or pavilion roof of shallow pitch, in Canadian-pan or pinched-seam tin.",
+     "Covered veranda, sometimes on more than one elevation."
+    ],
+    "articulation": [
+     "Sober; corner boards and window surrounds."
+    ],
+    "openings": [
+     "Sash or casement windows with transoms; a central gabled or shed dormer."
+    ],
+    "materials": [
+     "Brick, wood clapboard or wood shingle; asbestos-cement tiles."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "2 étages"
+    ],
+    "plan": [
+     "carré"
+    ],
+    "toiture": [
+     "à 4 versants ou en pavillon, à faible pente, en tôle à la canadienne ou pincée"
+    ],
+    "saillies": [
+     "galerie couverte, parfois sur plus d'une façade"
+    ],
+    "ornementation": [
+     "sobre, planches cornières et chambranles"
+    ],
+    "ouvertures": [
+     "fenêtres à guillotine ou à battants avec imposte, lucarne centrale à pignon ou en appentis"
+    ],
+    "revetements": [
+     "brique, clin ou bardeau de bois, tuiles d'amiante-ciment"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1900-1945).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Two storeys on a square plan under a shallow four-slope or pavilion roof, with a central dormer and a covered veranda that sometimes wraps a second face. Ornament is explicitly sober — corner boards and surrounds only.",
+   "origin_en": "At about 450 buildings this is level with Second Empire as the third most numerous current. It is the same foursquare that Saint-Lambert, Gatineau, Québec City and Trois-Rivières each catalogue, and Lévis's version is distinguished by the veranda turning the corner.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 4 « Cubique » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=4 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=4",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Cubic house (maison cubique) houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.cubique/"
+  },
+  {
+   "id": "levis.toit-plat",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p4",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Boomtown, cubique and the flat roof",
+   "name_en": "Flat-roofed house",
+   "name_fr": "Toit plat",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 3 « Toit plat », 1900-1945",
+   "canonical": [
+    "plex-superposed-units",
+    "faubourg-house-flat-roof"
+   ],
+   "canonical_names": [
+    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof",
+    "Flat-roofed faubourg house, party-wall multi-unit filling the full lot width, porte cochère, ornamented crown"
+   ],
+   "styles": [
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": null,
+   "tenure_plan": "walk-up",
+   "storeys": "2–3",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "wood-clapboard",
+    "wood-shingle",
+    "asbestos-cement-tile"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 600 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "Two or three storeys.",
+     "Square or rectangular plan.",
+     "Flat roof.",
+     "Cornice or parapet; covered veranda."
+    ],
+    "articulation": [
+     "Modillion cornice, window surrounds, corner boards, patterned brickwork, veranda trim."
+    ],
+    "openings": [
+     "Sash or casement windows with transoms."
+    ],
+    "materials": [
+     "Brick, wood clapboard or wood shingle; asbestos-cement tiles."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "2 ou 3 étages"
+    ],
+    "plan": [
+     "carré ou rectangulaire"
+    ],
+    "toiture": [
+     "plate"
+    ],
+    "saillies": [
+     "corniche ou parapet, galerie couverte"
+    ],
+    "ornementation": [
+     "corniche à modillons, chambranles, planches cornières, jeux de brique, garnitures de galerie"
+    ],
+    "ouvertures": [
+     "fenêtres à guillotine ou à battants avec imposte"
+    ],
+    "revetements": [
+     "brique, clin ou bardeau de bois, tuiles d'amiante-ciment"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1900-1945).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Two or three storeys, square or rectangular, flat-roofed, finished at the top by a cornice or parapet and at the front by a covered veranda — the superposed-dwelling form of the industrial faubourgs, and at about 600 buildings the third most numerous current in the catalogue.",
+   "origin_en": "Where Boomtown hides a shallow slope behind a parapet, this current has no slope to hide: the flat roof is the type. It is the Lévis relative of the Montréal plex and of Gatineau's flat-roofed brick and wood houses, and the City's ornament list — modillion cornice, patterned brickwork, veranda trim — is the richest of the three flat-roofed currents it publishes.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 3 « Toit plat » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=3 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=3",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Flat-roofed house houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.toit-plat/"
+  },
+  {
+   "id": "levis.arts-et-metiers",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p4",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Boomtown, cubique and the flat roof",
+   "name_en": "Arts & Crafts house (Arts & métiers)",
+   "name_fr": "Arts & métiers",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 14 « Arts & métiers », 1910-1945",
+   "canonical": [
+    "detached-cottage-steep-gable"
+   ],
+   "canonical_names": [
+    "Detached cottage, steep multi-gabled roof, brick base / light upper"
+   ],
+   "styles": [
+    "arts-et-metiers",
+    "arts-and-crafts"
+   ],
+   "style_names": [
+    "Arts & métiers (Québec usage for Arts and Crafts)",
+    "Arts and Crafts"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2",
+   "roof": {
+    "form": "gabled-multi",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "fieldstone",
+    "clay-brick",
+    "stucco-render",
+    "wood-clapboard",
+    "wood-shingle"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 60 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half to two storeys.",
+     "Complex, articulated plan.",
+     "Roofs of varied and complex form and pitch — two- or four-slope, hipped, half-hipped.",
+     "Covered verandas, chimneys, oriels."
+    ],
+    "articulation": [
+     "Decorative woodwork."
+    ],
+    "openings": [
+     "Windows and dormers of varied form and type."
+    ],
+    "materials": [
+     "Natural materials: stone, brick, stucco render, wood clapboard or wood shingle, sometimes several materials combined."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ à 2 étages"
+    ],
+    "plan": [
+     "complexe et articulé"
+    ],
+    "toiture": [
+     "formes et pentes de toitures variées (2 ou 4 versants, à croupe, à demi-croupe) et complexes"
+    ],
+    "saillies": [
+     "galeries couvertes, cheminées, oriels"
+    ],
+    "ornementation": [
+     "boiseries décoratives"
+    ],
+    "ouvertures": [
+     "fenêtres et lucarnes de formes et de types variés"
+    ],
+    "revetements": [
+     "matériaux naturels : pierre, brique, crépi, clin ou bardeau de bois, parfois plusieurs matériaux amalgamés"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1910-1945).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "One and a half to two storeys on a complex articulated plan under roofs the fiche describes only as varied and complex, in natural materials — stone, brick, render, clapboard, shingle — often several at once. Verandas, chimneys and oriels project; the ornament is woodwork.",
+   "origin_en": "Lévis says « Arts & métiers » where English-speaking Canada says Arts and Crafts, and the catalogue dates it 1910–1945. The insistence on « matériaux naturels » and on combining several of them is the movement's own argument, restated as a planning description. About sixty are counted.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 14 « Arts & métiers » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=14 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=14",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Arts & Crafts house (Arts & métiers) houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.arts-et-metiers/"
+  },
+  {
+   "id": "levis.wartime-housing",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p5",
+   "phase_label": "1940–1975",
+   "phase_years": "1940 – 1975",
+   "phase_title": "Wartime housing and modernism",
+   "name_en": "Wartime housing dwelling",
+   "name_fr": "Wartime housing",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 6 « Wartime housing », 1940-1970",
+   "canonical": [
+    "wartime-housing-1940s"
+   ],
+   "canonical_names": [
+    "Wartime Housing dwelling, 1940s–60s, minimal detached"
+   ],
+   "styles": [
+    "wartime-housing",
+    "minimal-traditional"
+   ],
+   "style_names": [
+    "Wartime Housing",
+    "Minimal Traditional"
+   ],
+   "style_label": null,
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "asbestos-cement-tile",
+    "aluminium-clapboard",
+    "masonite-clapboard"
+   ],
+   "roofing": "asphalt shingle",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 200 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "One and a half storeys.",
+     "Rectangular or square plan.",
+     "Straight two-slope, half-hipped or four-slope (pavilion) roof, in asphalt shingle.",
+     "Veranda, stoop, chimney."
+    ],
+    "articulation": [
+     "Sober; a gable, ornamental ironwork on the veranda."
+    ],
+    "openings": [
+     "Sash windows; gabled or shed dormers."
+    ],
+    "materials": [
+     "Light claddings: asbestos-cement tiles, aluminium or masonite clapboard."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "1 ½ étage"
+    ],
+    "plan": [
+     "rectangulaire ou carré"
+    ],
+    "toiture": [
+     "à 2 versants droits, à demi-croupe ou à 4 versants (pavillon), bardeau d'asphalte"
+    ],
+    "saillies": [
+     "galerie, perron, cheminée"
+    ],
+    "ornementation": [
+     "sobre, pignon, fer ornemental sur la galerie"
+    ],
+    "ouvertures": [
+     "fenêtres à guillotine, lucarne à pignon ou en appentis"
+    ],
+    "revetements": [
+     "parements légers : tuiles d'amiante-ciment, clin d'aluminium ou de masonite"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1940-1970).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "One and a half storeys, rectangular or square, under asphalt shingle, in the light claddings that arrived with it — asbestos-cement tile, aluminium or masonite clapboard. A veranda or stoop, a chimney, and ornamental ironwork as the only decoration.",
+   "origin_en": "Wartime Housing Limited's standard dwelling, built for shipyard and munitions workers and kept in production into the 1960s; the City dates the current 1940–1970 and counts about 200. It is the first current in the catalogue whose materials are all industrial products rather than wood, stone or tin, and the ornamental ironwork on the veranda is the period's signature.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 6 « Wartime housing » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=6 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=6",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Wartime housing dwelling houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.wartime-housing/"
+  },
+  {
+   "id": "levis.modernisme",
+   "place": "levis",
+   "place_name": "Lévis",
+   "phase": "p5",
+   "phase_label": "1940–1975",
+   "phase_years": "1940 – 1975",
+   "phase_title": "Wartime housing and modernism",
+   "name_en": "Modernist building",
+   "name_fr": "Modernisme",
+   "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 19 « Modernisme », 1950-1975",
+   "canonical": [
+    "one-storey-ranch-low-roof",
+    "modern-slab-tower"
+   ],
+   "canonical_names": [
+    "One-storey horizontal house, ≤30° roof, integrated garage",
+    "Postwar modernist residential tower or slab"
+   ],
+   "styles": [
+    "international-style",
+    "ranch"
+   ],
+   "style_names": [
+    "International Style / Modernist",
+    "Ranch"
+   ],
+   "style_label": null,
+   "tenure_plan": "mixed",
+   "storeys": "varies by use",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": "horizontal",
+   "principal_cladding": [
+    "clay-brick",
+    "concrete",
+    "sheet-metal"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The City counts about 30 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »)."
+    ],
+    "massing": [
+     "Varied, according to use.",
+     "Rectangular or complex plan.",
+     "Flat roof.",
+     "Annexe volumes."
+    ],
+    "articulation": [
+     "Sober."
+    ],
+    "openings": [
+     "Varied and repetitive, in horizontal bands."
+    ],
+    "materials": [
+     "Brick, concrete, metal cladding."
+    ]
+   },
+   "profile_fr": {
+    "volumetrie": [
+     "diversifiée selon l'usage"
+    ],
+    "plan": [
+     "rectangulaire ou complexe"
+    ],
+    "toiture": [
+     "plate"
+    ],
+    "saillies": [
+     "volumes annexes"
+    ],
+    "ornementation": [
+     "sobre"
+    ],
+    "ouvertures": [
+     "variées et répétitives, en bandeau horizontal"
+    ],
+    "revetements": [
+     "brique, béton, revêtement métallique"
+    ]
+   },
+   "profile_note": "Encoded by sources/levis/parse.py from the City's fiche for this courant. The five columns follow the fiche's own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche's wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue's own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index's period range (1950-1975).",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)",
+   "blurb_en": "Flat-roofed, brick, concrete or metal-clad, with openings set in repeating horizontal bands. The one current in the catalogue whose massing the City declines to fix at all — « diversifiée selon l'usage » — because the same language served houses, schools and offices.",
+   "origin_en": "The last of the twenty currents, dated 1950–1975 and counted at about thirty buildings. Lévis published a separate Inventaire du patrimoine moderne in 2016 covering 79 buildings put up between 1946 and 1975 (RPCQ inventory 1313), and a guide, L'architecture moderne, un héritage du 20e siècle à démystifier. The City's line drawing for the current is an office block, and the fiche's own volumetry row concedes the range, so both a low ranch house and a slab are cross-linked here.",
+   "photo": {
+    "file": null,
+    "credit": "Ville de Lévis, « Styles architecturaux », fiche 19 « Modernisme » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=19 . Not reproduced: the Ville de Lévis conditions d'utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=19",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Modernist building houses in Lévis, from Ville de Lévis"
+   },
+   "url": "types/levis.modernisme/"
+  },
+  {
    "id": "mount-royal.garden-city",
    "place": "mount-royal",
    "place_name": "Town of Mount Royal",
@@ -7245,6 +9081,392 @@
     "alt": "Photograph of Upper-district company house (Somerville, 1925–1950) houses in Témiscaming, from CCA"
    },
    "url": "types/temiscaming.upper-district-house/"
+  },
+  {
+   "id": "trois-rivieres.maison-regime-francais-pierre",
+   "place": "trois-rivieres",
+   "place_name": "Trois-Rivières",
+   "phase": "p1",
+   "phase_label": "1634–1760",
+   "phase_years": "1634 – 1760",
+   "phase_title": "The French-regime bourg",
+   "name_en": "French-regime house in stone (colonial français)",
+   "name_fr": "La maison d'esprit français (courant colonial français)",
+   "source_ref": "Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014",
+   "canonical": [
+    "french-urban-house-stone"
+   ],
+   "canonical_names": [
+    "Urban stone house of French inspiration, one or two levels plus attic, two-slope roof, chimneys in fire-break party walls"
+   ],
+   "styles": [
+    "french-regime",
+    "colonial-francais"
+   ],
+   "style_names": [
+    "French-regime rural house",
+    "Colonial français"
+   ],
+   "style_label": "French-regime rural house / Colonial français",
+   "tenure_plan": "single-family",
+   "storeys": "1–1.5",
+   "roof": {
+    "form": "gabled-or-hipped",
+    "pitch_deg": 55
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "stone",
+    "wood-piece-sur-piece",
+    "stucco"
+   ],
+   "roofing": "cedar shingle; traditional tin in town",
+   "garage": "none",
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Built at ground level, without a cellar, on shallow stone footings; the house is entered from the flat.",
+     "In town, set with the façade directly on the street, so that the party walls carried above the roof do the work a setback would otherwise do.",
+     "Stone was almost absent from the Trois-Rivières district and had to be brought from the south shore, so the rare stone houses belonged to the well-off or the notable; stone was otherwise reserved for mills, convents and churches."
+    ],
+    "massing": [
+     "Rectangular body close to the ground, squat in proportion.",
+     "A single ground floor under an inhabited attic.",
+     "Steep straight two-slope roof, pitches reaching as much as 55 degrees; some roofs hipped on four slopes.",
+     "Short straight eaves (larmiers), or later slightly upturned ones.",
+     "Some rural houses longer and shallower, like the manoir Boucher-De Niverville; others squarer and more massive."
+    ],
+    "articulation": [
+     "Few ornaments beyond the chambranles framing the openings; simplicity and bareness are the point.",
+     "Massive stone chimney stacks, sometimes set \"en chicane\" — not all on the same roof slope.",
+     "Fire-break party walls carried above the roof in urban settings.",
+     "Where a house was later brought up to date, the neoclassical additions read as additions — at the maison Georges-De Gannes a pedimented entrance portal, a cornice, cornice returns and carved window surrounds."
+    ],
+    "openings": [
+     "Asymmetrical façade composition; openings distributed by need rather than by rule.",
+     "Openings few in number, to limit heat loss, and doubled by storm doors and storm windows.",
+     "Double casement windows with small panes, working shutters.",
+     "Few or no dormers, and where present, gabled and small; dormers appear only at the end of the French regime, as a new way of inhabiting the attic."
+    ],
+    "materials": [
+     "Squat carré of rubble stone or of massive squared timber, sometimes rendered in roughcast or covered with vertical boards; a slight batter in the walls.",
+     "Roof traditionally of cedar shingle; in town the wooden shingle often gives way to traditional tin."
+    ]
+   },
+   "profile_fr": {
+    "contexte": [
+     "Les premières constructions érigées au moment de la fondation de Trois-Rivières sont des constructions modestes élevées à la hâte en pleine nature sauvage. Originaires des milieux ruraux de France, les colons ainsi que les gens de métier – charpentiers, maçons, menuisiers – apportent au pays leur savoir-faire traditionnel en matière de construction.",
+     "Cette première architecture est issue des traditions constructives de la France, tout particulièrement des régions du nord-ouest telles que la Bretagne, la Normandie et l'Île-de-France.",
+     "La pierre est quasi absente de la région et doit être apportée de la rive sud. Ainsi, les rares habitations de pierre sur le territoire trifluvien appartenaient à des familles bien nanties ou d'une certaine notoriété. La pierre est souvent réservée aux bâtiments plus imposants tels les moulins, les couvents et les églises.",
+     "Comme en témoignent certains bâtiments construits entre 1780 et 1820, ce courant perdure au-delà de la Conquête anglaise en raison de l'isolement de la population de la Nouvelle-France. Continuant à évoluer et subissant l'influence de l'architecture anglaise, la maison coloniale française engendre, à partir des années 1820, la maison dite de tradition québécoise."
+    ],
+    "volumetrie": [
+     "Corps de logis rectangulaire situé près du sol, fondations peu profondes en pierre",
+     "Les maisons coloniales françaises sont généralement construites à ras de terre, sans cave, ne comportant qu'un rez-de-chaussée auquel on accède de plain-pied."
+    ],
+    "toiture": [
+     "Toit à deux versants droits ou à croupes, traditionnellement recouvert de bardeau de cèdre. En milieu urbain, le bardeau de bois fait souvent place à de la tôle traditionnelle",
+     "Le corps de logis est surmonté de combles sous des toits à pignons hauts et aigus dont les pentes peuvent atteindre 55 degrés. Certains toits sont à croupes (quatre versants) et d'autres disposent de larmiers courts et droits ou, plus tard, légèrement retroussés."
+    ],
+    "revetements": [
+     "Carré trapu en pierre à moellons ou en bois d'œuvre massif, peut être recouvert de crépi ou de planches verticales, léger fruit dans les murs"
+    ],
+    "ouvertures": [
+     "Composition de façade asymétrique",
+     "Ouvertures peu nombreuses, fenêtres à double battant à petits carreaux, volets fonctionnels, peu ou pas de lucarnes (à pignon)"
+    ],
+    "ornementation": [
+     "Cheminées massives en pierre, parfois disposées en chicane (pas toutes sur le même versant de toit), présence de murs coupe-feu en milieu urbain",
+     "Peu d'ornements, mis à part les chambranles autour des ouvertures"
+    ],
+    "sous_variantes": [
+     "Répondant à des besoins spécifiques, ces demeures sont fonctionnelles. Sans décoration ni recherche stylistique, elles brillent par la simplicité de leur aspect plutôt trapu. Les ouvertures sont peu nombreuses et distribuées selon les besoins, sans symétrie, les lucarnes sont rares et petites, et les cheminées, importantes.",
+     "Plusieurs bâtiments érigés durant le Régime français ont été soit reconstruits ou agrandis, soit mis au goût du jour durant le Régime anglais."
+    ]
+   },
+   "profile_note": "Encoded from the City's \"Colonial français\" fiche (Patri-Arch), which is city-wide, and cross-read against the two ministerial documents for the declared site. Only about a dozen buildings of this period survive anywhere in Trois-Rivières, and the surviving domestic examples inside the declared site number three. The stone version is encoded here because it is the one the RPCQ singles out — \"des résidences de notables en pierre, comme le manoir de Tonnancour\" — but the fiche's own point is that stone was the exception in this district and that most French-regime building here was of wood; the maison Saint-François is the wooden survivor. Dates differ between sources and are reported with their attributions in `related_buildings` rather than averaged.",
+   "conservation": [
+    "Prefer: preserve the imposing volume and the squat aspect of these houses, and the asymmetrical distribution of the openings, which should also stay few in number.",
+    "Prefer: use traditional materials — stone and wood for the walls, wood shingle or traditional tin for the roofs, and wood for doors and windows. Avoid modern materials such as vinyl and aluminium.",
+    "Avoid: adding ornament. Simplicity and bareness are what characterise these buildings.",
+    "Avoid: moving, enlarging, adding or altering doors, windows and dormers.",
+    "Avoid: uprooting old buildings from the place they were built. The City's own fiche makes the point about the 1781 windmill, moved to the university grounds in 1974: the move saved it from demolition but cost it part of its historical meaning."
+   ],
+   "conservation_fr": [
+    "Lors de travaux de restauration ou de rénovations, il est impératif de préserver le volume imposant et l'aspect trapu de ces demeures, ainsi que la distribution asymétrique des ouvertures qui doivent d'ailleurs demeurer peu nombreuses.",
+    "Idéalement, des matériaux traditionnels devraient être employés : pierre et bois pour les façades, bardeau de bois ou tôle traditionnelle pour les toits et ouvertures en bois. L'utilisation de matériaux modernes, tels que le vinyle et l'aluminium, est à éviter.",
+    "Il faut finalement résister à l'idée d'ajouter des ornements, car la simplicité et le dépouillement caractérisent ces bâtiments.",
+    "Il vaut mieux éviter de déplacer, d'agrandir, d'ajouter ou de modifier des portes, des fenêtres et des lucarnes.",
+    "Il faut éviter de déraciner des bâtiments anciens de leur lieu d'origine."
+   ],
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "SP-TR"
+   ],
+   "source_generation": "city-wide courant fiche, cross-read against the declared-site texts",
+   "blurb_en": "The house the first colonists built and the notables rebuilt in stone: a squat rectangle sitting straight on the ground without a cellar, one floor under a steep roof that could reach 55 degrees, few windows because the winter demanded few, and massive chimneys because it demanded many. In town the party walls run up past the roof as fire-breaks. Trois-Rivières had almost no local stone, so the stone version was always the exception — the mark of a family with the means to ship it from the south shore.",
+   "origin_en": "Brought from rural north-western France — Brittany, Normandy, the Île-de-France — and adapted fast to a country with different materials and a harsher winter. The RPCQ says of the declared site that \"le Régime français a légué… la maison Saint-François… des résidences de notables en pierre, comme le manoir de Tonnancour (1795-1797)\". The form outlived the Conquest by the isolation of the population, and buildings put up between 1780 and 1820 still show it; from the 1820s, crossed with English neoclassicism, it produced the maison de tradition québécoise. The 1908 fire destroyed several of the city's French-regime buildings, including the parish church and the maison des Gouverneurs.",
+   "photo": {
+    "file": "assets/places/trois-rivieres/834-rue-des-ursulines-georges-de-gannes-commons.jpg",
+    "credit": "Maison Georges-De Gannes, 834 rue des Ursulines, in the site patrimonial de Trois-Rivières (October 2020) — built about 1756, classed as an immeuble patrimonial in 1961. © Cantons-de-l'Est, Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Trois-Rivieres,_Quebec_-_834_rue_des_Ursulines.jpg",
+    "kind": "single",
+    "w": 1600,
+    "h": 1067,
+    "alt": "Photograph of French-regime house in stone (colonial français) houses in Trois-Rivières, from Ville de Trois-Rivières"
+   },
+   "url": "types/trois-rivieres.maison-regime-francais-pierre/"
+  },
+  {
+   "id": "trois-rivieres.maison-cossue-pierre",
+   "place": "trois-rivieres",
+   "place_name": "Trois-Rivières",
+   "phase": "p3",
+   "phase_label": "1860–1908",
+   "phase_years": "1860 – 1908",
+   "phase_title": "Forestry capital of the Mauricie",
+   "name_en": "Well-to-do bourgeois house in stone and brick (maison cossue)",
+   "name_fr": "La demeure bourgeoise / la résidence cossue",
+   "source_ref": "Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014",
+   "canonical": [
+    "maison-cossue-ornamented"
+   ],
+   "canonical_names": [
+    "Opulent village house (maison cossue) in stone or brick with elaborate ornamentation, deep setback and ornamental fence"
+   ],
+   "styles": [
+    "neoclassical-quebec",
+    "second-empire",
+    "victorian-eclectic"
+   ],
+   "style_names": [
+    "Québec neoclassical",
+    "Second Empire / mansard",
+    "Victorian eclecticism"
+   ],
+   "style_label": "Québec neoclassical / Second Empire / mansard / Victorian eclecticism",
+   "tenure_plan": "single-family",
+   "storeys": "2–2.5",
+   "roof": {
+    "form": "gabled-or-hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "stone",
+    "cut-stone",
+    "clay-brick"
+   ],
+   "roofing": "traditional tin; copper on the grandest",
+   "garage": "none",
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Along the terrasse Turcotte and rue des Ursulines, where the declared site's occupation is at its thinnest — the RPCQ contrasts \"la faible densité d'occupation en bordure de la rue des Ursulines et de la terrasse Turcotte\" with the smaller, more densely built lots of rues Saint-Pierre, Saint-François-Xavier, Saint-Louis and des Casernes.",
+     "Deeper front margins than in the institutional blocks, and a marked tree cover, in the Plan de conservation's unité de paysage of \"maisons urbaines individuelles\".",
+     "The grandest georgian houses stand alone in the middle of a large lot."
+    ],
+    "massing": [
+     "Rectangular body well clear of the ground, two or two and a half storeys.",
+     "Two- or four-slope roof of medium or shallow pitch; mansard roofs on the Second Empire examples.",
+     "Monumental in effect rather than in size; the Plan de conservation calls the group homogeneous in volume, height and material.",
+     "Few or no projecting elements such as balconies and galleries in the neoclassical register; on the Second Empire and eclectic examples, a projecting central bay marking the entrance, turrets, and polygonal projections."
+    ],
+    "articulation": [
+     "Order, symmetry and sobriety are the three watchwords of the neoclassical register — regularity in the plan as much as in the distribution of the openings, sometimes to the point of austerity.",
+     "Classical ornament drawn from antiquity — pediment, round arch over the openings, columns, piers, pilasters, quoins, cornice returns.",
+     "On the eclectic examples, an elaborate crown — cornices on consoles and modillions, carved lintels, worked cornices, dormers under semicircular pediments.",
+     "Main entrance marked by a porch or a portal."
+    ],
+    "openings": [
+     "Casement or sash windows, with panes.",
+     "Round-arched doors and windows and oculi in the palladian register; segmental-arched openings on the later ones.",
+     "Symmetrical arrangement of openings and chimneys, the English signature on a house otherwise French in its siting and roof."
+    ],
+    "materials": [
+     "Smooth wall surfaces — cut stone, roughcast, brick or wood boards.",
+     "Stone in the earlier houses; the Plan de conservation records that the declared site's ten stone buildings include the classed houses, and that only two stone dwellings postdate 1900.",
+     "Brick predominates in the turn-of-the-century group, which the Plan de conservation describes as \"résidences individuelles en brique à deux niveaux d'habitation\".",
+     "Copper roofing on at least one — the house of about 1850 at 858 terrasse Turcotte."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "Le XIXe siècle est représenté par des demeures bourgeoises en pierre, comme la maison Hertel-De La Fresnière (1824-1829) et celles qui longent la terrasse Turcotte.",
+     "les bâtiments témoignant de la fonction résidentielle au XIXe siècle, entre autres les résidences bourgeoises de styles variés (néoclassique, Second Empire et georgien)",
+     "Cette unité de paysage est formée de bâtiments individuels de type résidentiel et regroupe surtout des résidences cossues datant du tournant du XXe siècle… Les résidences présentent des caractéristiques architecturales homogènes en ce qui a trait au volume, à la hauteur et aux matériaux. Les résidences individuelles en brique à deux niveaux d'habitation prédominent dans cette unité."
+    ],
+    "volumetrie": [
+     "Corps de bâtiment rectangulaire bien dégagé du sol, à un ou deux étages"
+    ],
+    "toiture": [
+     "Toiture à deux ou à quatre versants de pente moyenne ou faible"
+    ],
+    "saillies": [
+     "Peu ou pas d'éléments en saillie tels les balcons, galeries"
+    ],
+    "revetements": [
+     "Revêtements lisses : pierre de taille, crépi, brique ou planches de bois"
+    ],
+    "ouvertures": [
+     "Ordonnance, symétrie et sobriété dans les compositions et la distribution des ouvertures",
+     "Fenêtre à battants ou à guillotine, à carreaux",
+     "Entrée principale soulignée par un porche ou un portail"
+    ],
+    "ornementation": [
+     "Ornements classiques variés : fronton, arc en plein cintre au-dessus des ouvertures, colonnes, piliers, pilastres, chaînage d'angle, retour de corniche"
+    ],
+    "sous_variantes": [
+     "Trois-Rivières compte également plusieurs maisons georgiennes. Ces résidences monumentales constituent un style néoclassique assez pur, proche de modèles du nord-est des États-Unis : grandes maisons à deux étages et demi, de composition symétrique, avec retours de corniche amorçant des frontons. Ces maisons de briques se dressent toujours seules au centre d'un terrain vaste.",
+     "L'architecture palladienne est caractéristique de l'austérité néoclassique. Elle présente en effet une ordonnance irréprochable et une parfaite symétrie. Il est fréquent d'y voir un avant-corps central et un porche ouvert à fronton coiffé d'un toit en pavillon. Ses composantes distinctives sont les portes et fenêtres réalisées en arc en plein cintre, la présence d'oculi et un parement en pierre de taille.",
+     "Le cottage Regency arbore une architecture en communion avec son environnement. Parmi ses principales caractéristiques, on note le profil bas de la toiture à quatre versants dont les avant-toits se prolongent au-delà des murs et recouvrent une galerie ceinturant le carré de la maison."
+    ]
+   },
+   "profile_note": "This record is assembled, not transcribed. The City publishes no fiche for a \"maison cossue\" — the term is the ministry's, used in the RPCQ fiche and in the Plan de conservation's unité de paysage \"les maisons urbaines individuelles\". The five columns therefore take their architectural detail from the City's Néoclassicisme fiche, which is the courant the RPCQ names first for these houses, and their siting and material detail from the two ministerial documents. The phase is provisional because the sources straddle two of them: the RPCQ places the stone bourgeois houses in the nineteenth century, with the maison Hertel-De La Fresnière at 1824-1829, while the Plan de conservation's cossues date \"du tournant du XXe siècle\". The RPCQ names three registers for these houses — \"néoclassique, Second Empire et georgien\" — and the third has no style id in this project; it is recorded verbatim above instead of being forced into one.",
+   "conservation": [
+    "Avoid: cladding and roofing materials on the house and its dormers, and railing patterns, that do not answer to the noble character of this architecture.",
+    "Avoid: the combination that has stripped one such house of all its attributes — replacement cladding, replacement window and door models, and unsuitable railings, applied together while the overall composition was respected."
+   ],
+   "conservation_fr": [
+    "Le choix des matériaux revêtant les lucarnes et la toiture ainsi que le choix du modèle de garde-corps ne conviennent pas à cette architecture au caractère noble.",
+    "Cette résidence aux influences néoclassiques a malheureusement perdu l'ensemble de ses attributs par le recours à des matériaux de revêtement, des modèles de fenêtres et de portes, ainsi qu'à des garde-corps inappropriés."
+   ],
+   "models_observed": null,
+   "phase_confidence": "provisional",
+   "sectors": [
+    "SP-TR"
+   ],
+   "source_generation": "declared-site texts (RPCQ + Plan de conservation) read with the City's Néoclassicisme fiche",
+   "blurb_en": "The merchant's house of a river town that had money before it had industry, standing back from the street behind mature trees on the thinnest-built edge of the old core. Stone in the first half of the nineteenth century, brick by the turn of the twentieth, always well clear of the ground and always symmetrical — the neoclassical order held on here longer than anywhere else in Québec, and when it finally loosened it did so into Second Empire mansards and eclectic crowns rather than into anything plainer.",
+   "origin_en": "English neoclassicism arrived with the British and Scottish military engineers and architects at the start of the nineteenth century, and the City's fiche notes that in Trois-Rivières it gave ground to eclecticism more slowly than elsewhere, even reviving early in the twentieth century as Beaux-Arts. Its bourgeois version is what the RPCQ means by \"des maisons cossues\", the first of the two residential registers it says characterise the declared site — the other being \"des immeubles d'habitation construits sur des lots étroits\". The same opulent-house form is described under `maison-cossue-ornamented` at Vieux-Terrebonne, where the declaration reads it off the rue Saint-Louis crest; here it is read off the terrasse Turcotte and rue des Ursulines.",
+   "photo": {
+    "file": "assets/places/trois-rivieres/802-rue-des-ursulines-hertel-de-la-fresniere-commons.jpg",
+    "credit": "Maison Hertel-De La Fresnière, 802 rue des Ursulines, in the site patrimonial de Trois-Rivières (October 2020) — built 1824-1829, classed as an immeuble patrimonial; the RPCQ's own example of \"des demeures bourgeoises en pierre\". © Cantons-de-l'Est, Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Trois-Rivieres,_Quebec_-_802_rue_des_Ursulines_-_1.jpg",
+    "kind": "single",
+    "w": 1600,
+    "h": 1171,
+    "alt": "Photograph of Well-to-do bourgeois house in stone and brick (maison cossue) houses in Trois-Rivières, from Ville de Trois-Rivières"
+   },
+   "url": "types/trois-rivieres.maison-cossue-pierre/"
+  },
+  {
+   "id": "trois-rivieres.maison-reconstruction-1908",
+   "place": "trois-rivieres",
+   "place_name": "Trois-Rivières",
+   "phase": "p4",
+   "phase_label": "1908–1920",
+   "phase_years": "1908 – 1920",
+   "phase_title": "The fire and the reconstruction",
+   "name_en": "The 1908 reconstruction block — brick, flat-roofed, built all at once",
+   "name_fr": "Le bâti de la reconstruction d'après l'incendie de 1908",
+   "source_ref": "Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014",
+   "canonical": [
+    "mixed-use-flat-roof-block"
+   ],
+   "canonical_names": [
+    "Mixed commercial-residential block, flat roof, shops below and dwellings above"
+   ],
+   "styles": [
+    "victorian-eclectic",
+    "second-empire",
+    "boomtown"
+   ],
+   "style_names": [
+    "Victorian eclecticism",
+    "Second Empire / mansard",
+    "Boomtown (false front)"
+   ],
+   "style_label": "Victorian eclecticism / Second Empire / mansard / Boomtown (false front)",
+   "tenure_plan": "mixed",
+   "storeys": "2–3",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "clay-brick"
+   ],
+   "roofing": "tar-and-membrane flat roof",
+   "garage": "none",
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The rebuilt quarter occupies the ground between the river and rues Bonaventure, Champlain and Saint-Georges, where the fire of 22 June 1908 stopped.",
+     "Streets were widened and in places redrawn as part of the reconstruction; inside the declared site the widths of rues des Casernes and des Ursulines and the public space on the site of the destroyed parish church are listed by the RPCQ as characteristic elements produced by the post-fire works.",
+     "The RPCQ notes that in the south-west of the declared site \"quelques rues plus larges témoignent du réaménagement qui a suivi le grand incendie de 1908\"; the former couvent des Filles de Jésus is set back from the roadway for the same reason.",
+     "Continuous street frontage, the buildings taking the full width of their lots."
+    ],
+    "massing": [
+     "Two to three storeys, occasionally four, under a flat roof.",
+     "Rows built as rows, by a small number of hands, within four years — the source of the quarter's evenness.",
+     "Inside the declared site, 13 buildings — close to 30 % of it — went up between 1908 and 1925, among them the three-storey Appartements Laviolette of 1918, put up in place of a building the flames had probably taken."
+    ],
+    "articulation": [
+     "Parapets and cornices on consoles; keystones, sills and lintels at the openings; brick patterning and banding.",
+     "The Plan de conservation lists exactly these as the marks of the brick urban houses and immeubles à logements built at the turn of the twentieth century in the declared site.",
+     "Some of the rebuilt houses are Second Empire — the City's fiche captions the imposing house at 186-190 rue Bonaventure, with its turret, carved lintels and worked cornice, as built after the great fire of 1908.",
+     "The City's Maison à mansarde fiche makes the same point for the modest register, noting mansard houses built after the 1908 fire alongside the 1870-1900 majority."
+    ],
+    "openings": [
+     "Symmetrical arrangement of openings, wood doors usually at the centre of the façade, many with a glazed transom.",
+     "Casement windows with panes and sash windows are the two commonest types, with moulded wood chambranles and sometimes shutters or louvred blinds.",
+     "Bay windows at ground level on some turn-of-the-century houses; oriels on several of the immeubles à logements."
+    ],
+    "materials": [
+     "Brick, decisively. Of the 45 buildings in the declared site, 28 are brick-clad and 18 of those postdate 1908.",
+     "Across the city the shift is measurable — a built stock still mostly of wood at the start of the twentieth century was 55 % brick-housed by 1931, in part through the post-fire construction."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "En 1912, quatre ans après le grand incendie, le centre-ville de Trois-Rivières est à nouveau animé. Rebâti par une poignée d'architectes et d'entrepreneurs, le quartier présente une grande homogénéité architecturale qui se constate encore aujourd'hui. Avec la reconstruction, les rues du centre-ville sont élargies, voire redessinées et on assiste à l'agrandissement de la ville à l'ouest et au nord.",
+     "Dans la partie sud-ouest, quelques rues plus larges témoignent du réaménagement qui a suivi le grand incendie de 1908.",
+     "Par ailleurs, le site patrimonial semble peu affecté par l'incendie de 1908, mais il est modifié par le développement de la ville qui s'ensuit. De fait, 13 bâtiments, soit près de 30 % des édifices du site patrimonial, sont érigés entre 1908 et 1925. L'un d'entre eux, les Appartements Laviolette, est un immeuble résidentiel de trois étages bâti en 1918 en remplacement d'une construction vraisemblablement détruite par les flammes en 1908."
+    ],
+    "elements_caracteristiques": [
+     "les éléments issus de travaux réalisés à la suite de l'incendie de 1908, dont la largeur des rues des Casernes et des Ursulines ainsi que l'espace public aménagé à l'emplacement de l'ancienne église paroissiale"
+    ],
+    "ornementation": [
+     "Les maisons urbaines et les immeubles à logements multiples recouverts de briques construits au tournant du XXe siècle se distinguent par des éléments architecturaux tels que des parapets, des corniches à consoles, des clefs, des appuis et des linteaux aux ouvertures, des jeux de briques ainsi que des bandeaux.",
+     "Cette imposante résidence a été construite après le grand feu de 1908. Sa tourelle, ses linteaux sculptés au-dessus des ouvertures et sa corniche ouvragée sont typiques du courant Second Empire."
+    ],
+    "ouvertures": [
+     "La plupart des bâtiments résidentiels et institutionnels se caractérisent par des ouvertures disposées de façon symétrique… les types de fenêtres les plus communs sont les fenêtres à battants à carreaux et les fenêtres à guillotine. Ces fenêtres sont munies de chambranles moulurés en bois et, parfois, de contrevents ou de persiennes. Quelques maisons construites au tournant du XXe siècle ont des fenêtres en saillie au rez-de-chaussée, tandis que plusieurs immeubles à logements sont dotés d'oriels."
+    ],
+    "revetements": [
+     "Des 45 bâtiments qui se trouvent dans le site patrimonial de Trois-Rivières, 28 ont un parement de brique, ce qui correspond approximativement à 62 % du nombre total de bâtiments du site patrimonial… L'analyse de la date de construction des immeubles ayant un parement de brique révèle que 18 d'entre eux ont été construits après 1908, date correspondant à l'incendie majeur qui a détruit une partie de la ville de Trois-Rivières."
+    ]
+   },
+   "profile_note": "There is no municipal fiche for this type — the City catalogues courants, not moments, and the reconstruction cuts across several of them. The record is therefore assembled from the reconstruction passages of the four sources actually held, and every column names which. The research memo behind this record quoted a 2005 Commission des biens culturels characterisation for the massing (\"Des rangées continues de bâtiments de trois ou quatre étages…\"); that study is cited in the RPCQ bibliography but no copy could be reached, so it is NOT quoted here and the massing is given from the Plan de conservation's own counts instead. Note also that this type sits mostly OUTSIDE the declared site — the fire took the commercial centre, and the ministry finds the declared site \"peu affecté\" — but SP-TR is listed in its sectors because the declared site's south-western streets, its street widths and thirteen of its buildings are products of the reconstruction.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "SP-TR"
+   ],
+   "source_generation": "assembled from the reconstruction passages of the four sources; no single fiche describes it",
+   "blurb_en": "A quarter rebuilt in four years by, as the City puts it, a handful of architects and contractors — and the evenness that produced is the heritage claim, not a side effect of it. Brick, flat roofs, two to four storeys in continuous rows, ornament gathered into parapets, cornices on consoles, keystones, lintels and brick banding. The fire took the commercial centre and largely spared the old core, so this fabric surrounds the declared site rather than filling it; but the site's widened streets, its public space on the burnt parish church's ground, and thirteen of its forty-five buildings belong to the same four years.",
+   "origin_en": "The fire of 22 June 1908 began in a hay store, pushed back the city's eight firefighters within a quarter of an hour, and brought help from Shawinigan, Grand-Mère, Québec and Montréal. How much it destroyed is genuinely contested and the figures are set out with their attributions in the notes on the place page — the City says \"près de 800 bâtiments\", its own Patri-Arch study says \"environ 200 bâtiments\", Radio-Canada says a quarter of the city and no casualties, and the UQTR account reconciles the two counts as buildings-including-sheds against residences. What is not contested is the speed and the singleness of the rebuilding, and its material — a city still largely of wood in 1900 was 55 % brick-housed by 1931.",
+   "photo": {
+    "file": "assets/places/trois-rivieres/appartements-laviolette-commons.jpg",
+    "credit": "Appartements Laviolette, in the site patrimonial de Trois-Rivières (March 2020) — a three-storey residential building of 1918 that replaced a construction the 1908 fire had probably destroyed. © Fralambert, Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Appartements_Laviolette_01.jpg",
+    "kind": "single",
+    "w": 1600,
+    "h": 1200,
+    "alt": "Photograph of The 1908 reconstruction block — brick, flat-roofed, built all at once houses in Trois-Rivières, from Ville de Trois-Rivières"
+   },
+   "url": "types/trois-rivieres.maison-reconstruction-1908/"
   },
   {
    "id": "westmount.villa-estate",

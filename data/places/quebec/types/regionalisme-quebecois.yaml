@@ -1,0 +1,98 @@
+id: quebec.regionalisme-quebecois
+place: quebec
+phase: p6
+name_en: Régionalisme québécois
+name_fr: Régionalisme québécois
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 702
+is_residential: false
+courant: Influences marginales
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=702
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=702
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - L’architecture régionaliste québécoise peut en quelque sorte être comprise comme la version québécoise du mouvement
+    Arts and Crafts. Ce dernier, apparu en Angleterre au 19e siècle, favorise la tradition locale de construire,
+    tant au niveau de l’artisanat, des matériaux que des savoir-faire. Il se veut en réaction à la montée de l’industrialisation
+    et aux règles classiques d’équilibre du style Beaux-Arts.
+  - Connue sous le nom de style Nouvelle-France, l’architecture régionaliste québécoise matérialise aussi la réflexion
+    qui s’inscrit dans le mouvement plus vaste du nationalisme québécois, soit d’interroger le passé à la recherche
+    d’une identité collective, rempart contre l’assimilation. Elle favorise les formes traditionnelles, puisqu’elle
+    s’inspire de l’histoire et cherche à affirmer l’existence de la communauté québécoise. Développée parallèlement
+    avec la crise économique (1929-1939) et les travaux publics de l’État québécois, elle est surtout présente en
+    architecture religieuse et résidentielle, en plus d’être associée au travail de l’architecte Sylvio Brassard
+    qui en constitue la figure de proue au Québec. Sa période de diffusion est relativement courte, elle s’étend
+    aux environs de 1925 à 1945.
+  - Les bâtiments régionalistes québécois se confondent facilement avec ceux des 17e, 18e et 19e siècles, car ils
+    tentent d’imiter le vocabulaire architectural des siècles passés. Ils se caractérisent généralement par le traitement
+    rustique des matériaux, le profil haut des toitures à deux versants munis de lucarnes et l’emploi de volumes
+    simples.
+  elements_caracteristiques:
+  - 'Composition issue du mouvement Arts and Crafts qui s’inspire de la tradition française et locale de construire
+    en regard à l’artisanat, aux matériaux et aux savoir-faire: formes issues des 17e, 18e et 19e siècles qui s’expriment
+    à travers l’histoire et l’existence de la communauté québécoise.'
+  - Volume simple. Plan rectangulaire.
+  - Fondation en béton ou en pierre peu visible ou visible hors sol.
+  - Murs en maçonnerie de pierre, généralement en pierre à moellons; revêtement de pierre, de crépi ou d’enduit
+    (stuc) blanc.
+  - Toit à deux versants droits; pente forte (plus de 45°) ou à croupe et sans avant-toit; revêtement de tôle traditionnelle,
+    mais généralement de bardeau de cèdre.
+  - Ouvertures rectangulaires garnies de chambranles et de linteaux; porte à panneau(x) avec ou sans vitrage; fenêtres
+    à battants et à petits ou à grands carreaux ou fixes à petit-bois, à petits-fers ou avec vitrail (verrière)
+    garnies de contrevents; lucarnes à croupe, à pignon ou châtière.
+  - 'Saillies : cheminée au centre, décentrée ou incluse dans le mur pignon, galerie, murs coupe-feu dépassant du
+    toit et incluant les cheminées et perron.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a church, an art centre, a youth centre and a school. Recorded so the source's
+  list can be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is
+  verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a church, an art centre,
+  a youth centre and a school.'
+origin_en: L’architecture régionaliste québécoise peut en quelque sorte être comprise comme la version québécoise
+  du mouvement Arts and Crafts. Ce dernier, apparu en Angleterre au 19e siècle, favorise la tradition locale de
+  construire, tant au niveau de l’artisanat, des matériaux que des savoir-faire. Il se veut en réaction à la montée
+  de l’industrialisation et aux règles classiques d’équilibre du style Beaux-Arts.
+related_buildings:
+- name: Église Sainte-Geneviève
+  fiche_id: 206
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=206
+- name: Centre d'art La Chapelle
+  fiche_id: 289
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=289
+- name: Maison des jeunes de Sillery
+  fiche_id: 2130
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2130
+- name: École des Ursulines de Loretteville
+  fiche_id: 3625
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=3625
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/702/32.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

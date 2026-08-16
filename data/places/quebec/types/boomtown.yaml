@@ -1,0 +1,138 @@
+id: quebec.boomtown
+place: quebec
+phase: p5
+name_en: Boomtown house and shop-house
+name_fr: Boomtown
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- boomtown-false-front
+styles:
+- boomtown
+- vernaculaire-industriel
+style_label: null
+tenure_plan: mixed
+storeys: 1–2
+roof:
+  form: flat-or-low-slope
+  pitch_deg: 0
+window_proportion: vertical
+principal_cladding:
+- wood-clapboard
+- clay-brick
+- wood-shingle
+- asbestos-cement-shingle
+- metal
+roofing: membrane
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 502
+phase_confidence: verified
+courant: Vernaculaire industriel
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=502
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=502
+quartiers: null
+profile:
+  siting_landscape:
+  - Principally associated with urban residential architecture — housing workers' families, for instance — but also
+    referring to commercial architecture.
+  - The balloon frame arrived from the United States and coincided with the rapid growth of the cities and their
+    demographic surge; the type appeared after the Long Depression (1873–1896) and carried on into the first decades
+    of the 20th century.
+  massing:
+  - 'Composition: a search for symmetry; single-family house, duplex.'
+  - One to two occupied levels (one to two storeys); ground floor in commercial or residential use.
+  - Flat roof (basin or internal drainage); membrane covering. Low-pitch flat roof (external drainage); very low
+    pitch, under 15°; straight two-slope roof; low pitch, under 30°; asphalt shingle, membrane, profiled or traditional
+    sheet-metal covering.
+  - 'Projections sheltered by an awning: balcony, gallery and perron.'
+  - The economy of means dictates a simple plan, a balloon frame, an inexpensive cladding and a stripped-down decoration.
+  - At first a low-pitch roof draining to the rear, reaching 15 degrees, then the flat roof drained internally and
+    covered in tar or membrane and gravel.
+  articulation:
+  - 'Ornaments: finials, cornice, crowning, mast, parapet and corner boards.'
+  - As the roof is no longer visible, its presence is marked by ornamental work such as the cornice or the parapet.
+  - For Boomtown shops, the cornice or parapet is used to give the volume of the construction some standing.
+  openings:
+  - Commercial shopfronts.
+  - The gallery often runs across the whole of the principal façade, with a balcony at the upper storey.
+  materials:
+  - 'Walls: wood board cladding; balloon frame. Side walls: wood shingle, asbestos shingle, sheet tin or brick paper
+    cladding.'
+  - Sometimes clad in brick, often built of wood.
+profile_fr:
+  description:
+  - L’industrialisation a permis de mettre au point de nouveaux modes de constructions économiques qui accélèrent
+    considérablement le travail. Venue des États-Unis puis introduite au Canada, la charpente à claire-voie (Balloon
+    Frame) coïncide par conséquent avec la croissance rapide des villes et leur essor démographique. Qualifiés d’American
+    Boomtown, les bâtiments qui utilisent cette charpente plus légère, à l’aide de madriers sciés, sont surtout
+    apparus par le biais de l’architecture développée après la Grande Dépression (1873-1896), pour se poursuivre
+    dans les premières décennies du 20e siècle.
+  - Les bâtiments de type Boomtown sont faciles à construire. En règle générale, l’économie de moyens commande un
+    plan simple, une charpente à claire-voie, un parement peu couteux et un décor dépouillé. Bien qu’ils soient
+    principalement associés à l’architecture résidentielle urbaine afin d’y loger les familles d’ouvriers par exemple,
+    ils renvoient aussi à l’architecture commerciale.
+  - 'Parfois revêtue de brique, souvent bâtie en bois, la maison Boomtown se caractérise par sa volumétrie : un
+    ou deux niveaux d’occupation coiffés d’un toit à faible pente ou plat. Elle possède à ses débuts une toiture
+    à faible pente vers l’arrière, dit à égout extérieur, qui peut atteindre 15 degrés. Elle adopte ensuite le toit
+    plat, dit à bassin ou à égout intérieur, qui est recouvert de goudron ou de membranes et de gravier. Comme le
+    toit n’est plus visible, sa présence est soulignée par des ouvrages ornementaux tels que la corniche ou le parapet.
+    Les saillies sont souvent constituées d’une galerie, courant sur toute la façade principale, et d’un balcon
+    à l’étage. En ce qui à trait aux commerces Boomtown, la corniche ou le parapet est utilisé pour donner de la
+    prestance au volume de la construction. L’ordonnance et le modèle des ouvertures sont directement en lien avec
+    la fonction du bâtiment : des fenêtres à guillotine ou à grands carreaux, disposées symétriquement, caractérisent
+    les étages alors que des vitrines se trouvent au rez-de-chaussée.'
+  elements_caracteristiques:
+  - 'Composition : recherche de symétrie; maison unifamiliale, duplex.'
+  - Un à deux niveaux d’occupation (1 à 2 étages); rez-de-chaussée à usage commercial ou résidentiel.
+  - 'Murs : revêtement de planche de bois; charpente à claire-voie (Balloon Frame). Murs latéraux : revêtement de
+    bardeau de bois, de bardeau d’amiante, de tôle en plaques ou de papier brique.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s). Toit plat à faible pente (à égout extérieur);
+    pente très faible (moins de 15°); toit à deux versants droits; pente faible (moins de 30°); revêtement de bardeau
+    d’asphalte, de membrane(s), de tôle profilée ou de tôle traditionnelle.
+  - Vitrines commerciales.
+  - 'Saillies protégées par un auvent : balcon, galerie et perron.'
+  - 'Ornements : amortissements, corniche, couronnement, mât, parapet et planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=502), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'Cheap, fast and light: a balloon frame, a simple plan, boards on the front and whatever came to hand
+  down the sides, under a roof that slopes gently back or lies flat. Because the roof cannot be seen, the whole
+  architectural argument is moved to the cornice and the parapet at the top of the wall.'
+origin_en: 'Industrialisation brought new economical ways of building that sped the work up considerably. The balloon
+  frame, which came from the United States and was then introduced into Canada, coincided with the rapid growth
+  of the cities and their demographic surge. Called American Boomtown, the buildings using this lighter frame of
+  sawn timber appeared above all in the architecture developed after the Long Depression (1873–1896) and carried
+  on into the first decades of the 20th century. They are easy to build: the economy of means dictates a simple
+  plan, a balloon frame, an inexpensive cladding and a stripped-down decoration.'
+related_buildings:
+- name: 1093-1095, rue Saint-Jean
+  fiche_id: 137
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=137
+- name: 588-590, rue Saint-Patrick
+  fiche_id: 1438
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1438
+- name: 2761-2763, avenue Notre-Dame
+  fiche_id: 1542
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1542
+- name: Hôtel Champigny
+  fiche_id: 1700
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1700
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/502/25.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

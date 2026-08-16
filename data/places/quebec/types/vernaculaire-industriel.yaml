@@ -1,0 +1,100 @@
+id: quebec.vernaculaire-industriel
+place: quebec
+phase: p5
+name_en: Vernaculaire industriel (courant)
+name_fr: Vernaculaire industriel
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 506
+is_courant: true
+courant: Influences américaines
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=506
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=506
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - L’architecture vernaculaire industrielle, également désignée sous le terme d’architecture vernaculaire américaine,
+    se rattache au courant industriel. Ce dernier est moins tourné vers la tradition, puisqu’il emploie de nouvelles
+    méthodes et matériaux de construction. Le métal, le béton armé et le verre permettent l’émergence d’une architecture
+    qui se caractérise par la simplicité et l’uniformité. La forme du bâtiment est mise en avant-plan à l’aide des
+    éléments structuraux, une composition d’ensemble rationnelle et une ornementation sobre.
+  - Développée aux États-Unis puis introduite au Canada, l’architecture vernaculaire industrielle a connu une grande
+    popularité et a contribué à la croissance rapide des villes, conséquente à l’explosion démographique. Elle marque
+    donc principalement l’architecture résidentielle et se retrouve dans les quartiers et les banlieues de Québec.
+    Davantage présente dans Limoilou, Montcalm ou à Vanier, elle est aussi populaire dans Saint-Sacrement, à Sainte-Foy
+    et à Sillery. Elle se décline sous différents types dont la diffusion massive a contribué à la disparition des
+    savoir-faire locaux traditionnels. D’un autre côté, elle a facilité l’accès aux plans et aux matériaux de construction,
+    en plus de permettre l’érection rapide et à faible coût d’un bâtiment.
+  - L’architecture vernaculaire industrielle se distingue peu d’un point de vue stylistique, puisqu’elle reprend
+    souvent les types du siècle précédent en les simplifiant, particulièrement dans l’architecture résidentielle.
+    L’innovation est visible au chapitre des matériaux et des éléments architecturaux utilisés; les premiers sont
+    usinés, tels que les poutres et les planches, tandis que les seconds, notamment les portes et les fenêtres,
+    sont standardisés et distribués par catalogues ou revues. La volumétrie du bâtiment est simplifiée à l’extrême;
+    elle se résume souvent à une boîte carrée dont l’austérité est amenuisée par des éléments décoratifs ou des
+    toitures à pentes variables. Tous ces facteurs, en plus de l’utilisation de la charpente à claire-voie (Balloon
+    Frame), accélèrent considérablement le processus de construction. Il est possible, selon les publicités de l’époque,
+    de bâtir sa maison en quelques jours sans connaissance pratique préalable à partir d’un plan type que le client
+    peut adapter à ses besoins et à ses moyens.
+  elements_caracteristiques:
+  - 'Composition issue du courant industriel : caractère rationnel et logique, construction rapide et standardisée
+    et forme mise en avant-plan à l’aide des éléments structuraux.'
+  - Plan rectangulaire; volume simple.
+  - Fondation en blocs de béton ou en pierre visible hors sol, mais généralement en béton.
+  - 'Murs : revêtement de brique.'
+  - Ouvertures régulières et rectangulaires garnies de chambranles, de clefs, de linteaux et de plates-bandes; porte
+    à panneau(x) avec vitrage surmontée ou non d’une imposte; fenêtres à battants et à grands carreaux, à battants
+    avec imposte ou à guillotine avec ou sans petits-bois.
+  - Ornements réduits.
+profile_note: 'A parent node of the thesaurus (a *courant*), not a building type: recorded so the source''s tree
+  can be read whole, but given no card and no page of its own. Its French is verbatim from the fiche; no English
+  five-column profile is written, because the node describes a family rather than a house. `tenure_plan` is set
+  to `mixed` because the schema requires a value and the family spans several.'
+blurb_en: 'A parent node of the thesaurus: the Vernaculaire industriel current, under which the City files its named
+  house types.'
+origin_en: L’architecture vernaculaire industrielle, également désignée sous le terme d’architecture vernaculaire
+  américaine, se rattache au courant industriel. Ce dernier est moins tourné vers la tradition, puisqu’il emploie
+  de nouvelles méthodes et matériaux de construction. Le métal, le béton armé et le verre permettent l’émergence
+  d’une architecture qui se caractérise par la simplicité et l’uniformité. La forme du bâtiment est mise en avant-plan
+  à l’aide des éléments structuraux, une composition d’ensemble rationnelle et une ornementation sobre.
+related_buildings:
+- name: 786-796, côte d'Abraham
+  fiche_id: 164
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=164
+- name: Immeuble Hector Jobin
+  fiche_id: 166
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=166
+- name: 360, 18e Rue
+  fiche_id: 194
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=194
+- name: 875, avenue Turnbull
+  fiche_id: 449
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=449
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/506/24.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

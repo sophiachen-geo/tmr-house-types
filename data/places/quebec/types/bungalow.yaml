@@ -1,0 +1,156 @@
+id: quebec.bungalow
+place: quebec
+phase: p6
+name_en: Bungalow
+name_fr: Bungalow
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- one-storey-ranch-low-roof
+- split-level
+styles:
+- ranch
+- minimal-traditional
+style_label: null
+tenure_plan: single-family
+storeys: 1–1.5
+roof:
+  form: gabled
+  pitch_deg: 25
+window_proportion: horizontal
+principal_cladding:
+- clay-brick
+- stone
+- artificial-stone
+- wood-clapboard
+- metal-siding
+roofing: asphalt-shingle-dark
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 801
+phase_confidence: verified
+courant: Prairie
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=801
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=801
+quartiers: null
+profile:
+  siting_landscape:
+  - Concentration of houses marked by a parallel siting, set back from the street.
+  - It became popular across the whole continent on the strength of the baby boom, the growth of the suburbs, easier
+    access to ownership and the popularity of the car.
+  - So popular that it became a genuine consumer product manufactured in series — the queen of the suburb and the
+    symbol of the American dream.
+  massing:
+  - 'Composition seeking to renew the form of residential architecture: a single-family house for the middle class,
+    which dominates the development of the suburbs, draws on influences from the past, and takes in several types
+    including the North American bungalow, the long-fronted bungalow and the split-level.'
+  - 'Long-fronted bungalow (the popular model in Québec): rectangular plan, level with the ground.'
+  - One occupied level (one storey); a vestibule separating the day rooms on one side from the night rooms on the
+    other.
+  - Straight two-slope roof; low pitch, under 30°.
+  - 'Projections: awning and bay window.'
+  - 'Other variants: square or L-shaped plan; two occupied levels (one and a half storeys); straight two-slope,
+    straight four-slope or asymmetrical roof, medium pitch between 30° and 45°; or flat roof (basin or internal
+    drainage).'
+  - 'Secondary bodies: cellar entrance and garage.'
+  articulation:
+  - 'Reduced ornament: rafters and corner boards.'
+  openings:
+  - Numerous openings; panelled door with glazing, or solid.
+  - Windows single, paired or grouped, fitted with chambranles; casements with or without transom, compound casements
+    with or without transom, sashes with small panes, sashes with or without glazing bars, or compound sashes.
+  - Dormers present, including the central hipped, gabled or shed dormer.
+  materials:
+  - 'Walls: brick, stone, artificial masonry, wood board, aluminium board, plastic board or wood-fibre board cladding.'
+  - Concrete foundation.
+  - Asphalt shingle roof covering.
+  - 'Other variants: wood shingle or asbestos shingle cladding.'
+profile_fr:
+  description:
+  - 'Issu du style Prairie mais aussi de certains modèles de maisons californiennes (ex. : ranch house), le bungalow
+    nord-américain d’après-guerre s’est popularisé à travers tout le continent à la faveur du baby-boom, du développement
+    de la banlieue, de l’accès plus facile à la propriété et de la popularité de l’automobile. En effet, le bungalow
+    conçu pour la famille nucléaire désireuse d’avoir son propre terrain et sa maison de plain-pied dotée d’un garage
+    a fait fureur dans les années 1950 et 1960. La popularité du bungalow est telle qu’il devient un véritable produit
+    de consommation fabriqué en série. Cette maison unifamiliale apparaît comme la reine de la banlieue et le symbole
+    du rêve américain. Parmi les caractéristiques architecturales du bungalow, notons le volume au profil bas d’un
+    seul niveau en plus du sous-sol, la composition qui accentue l’horizontalité, la toiture à faible pente qui
+    déborde largement au-delà des murs, la cheminée comme seul élément vertical, la présence d’un garage ou d’un
+    abri d’auto, les ouvertures de forme et de taille variées pour s’adapter aux pièces qu’elles éclairent (salon,
+    chambres, cuisine, etc.) ainsi que le revêtement de brique ou de pierre qui est souvent agencé à d’autres matériaux
+    légers (bois ou autre parement industriel). Il existe plusieurs modèles de bungalow selon que l’on modifie l’orientation
+    et la pente du toit, les composantes architecturales ainsi que les matériaux utilisés. La ville de Québec a
+    vécu une importante phase d’expansion au cours de ces décennies qui a donné lieu au développement de plusieurs
+    couronnes de banlieue. Compte tenu de la popularité de ce type de bâtiment à l’époque, plusieurs quartiers résidentiels
+    se sont développés en exploitant différentes variantes du bungalow.'
+  elements_caracteristiques:
+  - Bungalow
+  - 'Composition voulant renouveler la forme de l’architecture résidentielle : maison unifamiliale destinée à la
+    classe moyenne qui domine le développement des banlieues, puise dans les influences issues du passé et regroupe
+    plusieurs types dont le bungalow nord-américain, à long pan ou à niveaux décalés (split-level).'
+  - Bungalow à long pan (modèle populaire au Québec)
+  - Plan rectangulaire, plain-pied avec le sol.
+  - Un niveau d’occupation (1 étage); vestibule séparant d’un côté les pièces de jour et de l’autre les pièces de
+    nuit.
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de pierre, de maçonnerie artificielle, de planche en bois, de planche en aluminium,
+    de planche en plastique ou de planche en fibre de bois.'
+  - Toit à deux versants droits; pente faible (moins de 30°); revêtement de bardeau d’asphalte.
+  - Ouvertures nombreuses; porte à panneau avec vitrage ou pleine.
+  - 'Saillies : auvent et bay-window.'
+  - Concentration de maisons caractérisée par une implantation en parallèle et en retrait avec la rue.
+  - Autres variantes
+  - Plan carré ou en « L ».
+  - Deux niveaux d’occupation (1 étage ½).
+  - 'Murs : revêtement de bardeau de bois ou de bardeau d’amiante.'
+  - Toit à deux versants droits, à quatre versants droits ou asymétrique; pente moyenne (entre 30° et 45°); revêtement
+    de bardeau d’asphalte. Toit plat (bassin ou à égout intérieur); revêt-ment de membrane(s).
+  - Fenêtres isolées, jumelées ou groupées, garnies de chambranles, à battants avec ou sans imposte, composées à
+    battants avec ou sans imposte, à guillotine et à petits carreaux, à guillotine avec ou sans à petit-bois ou
+    composées à guillotine; présence de lucarnes dont la lucarne centrale à croupe, à pignon ou en appentis.
+  - 'Saillie protégée par l’avant-toit droit : galerie et perron; corps secondaires : entrée de cave et garage.'
+  - 'Ornements réduits : chevrons et planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=801), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: One storey level with the ground, a long low rectangle with a vestibule dividing the day rooms from the
+  night rooms, a shallow gable, a picture window and a garage. Descended from the Prairie house and the California
+  ranch, and by the 1950s manufactured in series like any other consumer product.
+origin_en: Descended from the Prairie style but also from certain Californian house models such as the ranch house,
+  the postwar North American bungalow was popularised across the whole continent on the strength of the baby boom,
+  the growth of the suburbs, easier access to home ownership and the popularity of the car. The bungalow, designed
+  for the nuclear family wanting its own ground and a single-storey house with a garage, was a runaway success in
+  the 1950s and 1960s — so much so that it became a genuine consumer product manufactured in series, the queen of
+  the suburb and the symbol of the American dream. Given how popular it was, several residential quarters developed
+  by working different variants of it.
+related_buildings:
+- name: 1044, chemin de Bélair
+  fiche_id: 1833
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1833
+- name: École no 7 du rang Saint-Denis
+  fiche_id: 1885
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1885
+- name: Résidence Donald-Simons
+  fiche_id: 2111
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2111
+- name: Résidence Marcel-Deslauriers
+  fiche_id: 2122
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2122
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/801/43.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

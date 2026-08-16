@@ -1,0 +1,93 @@
+id: quebec.influences-contemporaines
+place: quebec
+phase: p6
+name_en: Contemporary influences (1970-)
+name_fr: Influences contemporaines
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influences contemporaines »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-contemporaines.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Les influences contemporaines sont considérées comme étant actuelles, c’est-à-dire de notre temps. Bien qu’elles
+    soient encore peu connues et explorées, elles commencent à prendre forme au cours des dernières décennies du
+    XXe siècle. Ouvert sur le monde, le Québec est touché par les divers apports internationaux, tant au niveau
+    économique, écologique, technique, informatique et culturel. L’architecture d’aujourd’hui s’affirme de plus
+    en plus, puisqu’elle tente de faire la paix avec l’histoire et le poids des traditions de la société québécoise.
+    Pouvant être perçue comme une réponse à l’acte universel de construire, l’architecture contemporaine s’inscrit
+    dans le présent. Au Québec, l’effervescence des travaux des années 1970 laisse ensuite place à de nouvelles
+    préoccupations qui sont axées sur la qualité du cadre de vie et de l’environnement. La densification des quartiers
+    centraux, les projets de rénovation et de recyclage, la mise en valeur du patrimoine bâti avec le chantier de
+    Place-Royale et la revitalisation du quartier Saint Roch sont quelques jalons marquants qui définissent cette
+    architecture à Québec. Elle se retrouve sur l’ensemble du territoire de la ville, mais concerne surtout les
+    bâtiments qui structurent ou resserrent le tissu urbain et semi-urbain. L’architecture contemporaine se définit
+    par le pluralisme des influences. Les théories d’une école de pensée, les styles architecturaux ou les tendances
+    propres à un pays peuvent servir de source d’inspiration. Elle ne possède donc pas de lignes directrices dominantes,
+    mais mise plutôt sur les multiples contributions que lui apporte un monde évoluant à grande vitesse. La CAO
+    (Conception assistée par ordinateur) fait par exemple éclater les formes que les avancées techniques permettent
+    de réaliser grâce à l’amélioration de la portée des éléments structuraux. Des matériaux tels que l’inox, l’aluminium
+    et le plastique sont davantage employés, de même que les variantes issues du bois comme le contre-plaqué, le
+    lamellé-collé et l’aggloméré. Les pratiques de construction durables, encadrées par les normes LEED (Leadership
+    in Energy and Environmental Design), entraînent quant à elles la mise en place de systèmes d’économie d’énergie
+    et la réalisation d’aménagements écologiques sur le site. La pérennité des bâtiments est mise de l’avant, puisque
+    l’architecture contemporaine est vue comme une intervention ayant des conséquences sur le milieu.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1970-.'
+blurb_en: One of the thesaurus's nine top-level currents, 1970-.
+origin_en: Les influences contemporaines sont considérées comme étant actuelles, c’est-à-dire de notre temps. Bien
+  qu’elles soient encore peu connues et explorées, elles commencent à prendre forme au cours des dernières décennies
+  du XXe siècle. Ouvert sur le monde, le Québec est touché par les divers apports internationaux, tant au niveau
+  économique, écologique, technique, informatique et culturel. L’architecture d’aujourd’hui s’affirme de plus en
+  plus, puisqu’elle tente de faire la paix avec l’histoire et le poids des traditions de la société québécoise.
+  Pouvant être perçue comme une réponse à l’acte universel de construire, l’architecture contemporaine s’inscrit
+  dans le présent. Au Québec, l’effervescence des travaux des années 1970 laisse ensuite place à de nouvelles préoccupations
+  qui sont axées sur la qualité du cadre de vie et de l’environnement. La densification des quartiers centraux,
+  les projets de rénovation et de recyclage, la mise en valeur du patrimoine bâti avec le chantier de Place-Royale
+  et la revitalisation du quartier Saint Roch sont quelques jalons marquants qui définissent cette architecture
+  à Québec. Elle se retrouve sur l’ensemble du territoire de la ville, mais concerne surtout les bâtiments qui structurent
+  ou resserrent le tissu urbain et semi-urbain. L’architecture contemporaine se définit par le pluralisme des influences.
+  Les théories d’une école de pensée, les styles architecturaux ou les tendances propres à un pays peuvent servir
+  de source d’inspiration. Elle ne possède donc pas de lignes directrices dominantes, mais mise plutôt sur les multiples
+  contributions que lui apporte un monde évoluant à grande vitesse. La CAO (Conception assistée par ordinateur)
+  fait par exemple éclater les formes que les avancées techniques permettent de réaliser grâce à l’amélioration
+  de la portée des éléments structuraux. Des matériaux tels que l’inox, l’aluminium et le plastique sont davantage
+  employés, de même que les variantes issues du bois comme le contre-plaqué, le lamellé-collé et l’aggloméré. Les
+  pratiques de construction durables, encadrées par les normes LEED (Leadership in Energy and Environmental Design),
+  entraînent quant à elles la mise en place de systèmes d’économie d’énergie et la réalisation d’aménagements écologiques
+  sur le site. La pérennité des bâtiments est mise de l’avant, puisque l’architecture contemporaine est vue comme
+  une intervention ayant des conséquences sur le milieu.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-contemporaines.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

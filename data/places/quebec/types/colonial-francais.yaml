@@ -1,0 +1,71 @@
+id: quebec.colonial-francais
+place: quebec
+phase: p1
+name_en: Colonial français (courant)
+name_fr: Colonial français
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 105
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=105
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=105
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le style colonial français s’est développé en Nouvelle-France d’après les modèles de construction du pays auquel
+    il se rattache, la France. Il retient les principes généraux du classicisme français avec son système de proportions,
+    sa composition harmonieuse d’ensemble et une certaine réserve dans l’expression architecturale. En lien avec
+    la tradition, les premiers colons répètent les formes simples dont l’usage est commun. Artisans, entrepreneurs
+    ou maçons construisent ainsi des bâtiments dans un état d’esprit français, tout en proposant quelques adaptations
+    compte tenu du climat ou de la règlementation imposée à différentes époques.
+  elements_caracteristiques:
+  - 'Composition sobre de l’idéal classique : système de proportions avec les ordres et recherche d’harmonie, mais
+    sans symétrie.'
+  - Fondation en pierre.
+  - Murs en maçonnerie de pierre, généralement en pierre à moellons; revêtement de crépi ou d’enduit (stuc) blanc.
+  - Toit à deux versants droits et sans avant-toit; pente forte (plus de 45°); revêtement de bardeau de cèdre.
+  - Porte clouée, barrée à queue d’aronde, à emboîture et à panneaux sans vitrage; fenêtres à battants et à petits
+    carreaux garnies de chambranles, d’encadrements, de linteaux et de contrevents.
+profile_note: 'A parent node of the thesaurus (a *courant*), not a building type: recorded so the source''s tree
+  can be read whole, but given no card and no page of its own. Its French is verbatim from the fiche; no English
+  five-column profile is written, because the node describes a family rather than a house. `tenure_plan` is set
+  to `mixed` because the schema requires a value and the family spans several.'
+blurb_en: 'A parent node of the thesaurus: the Colonial français current, under which the City files its named house
+  types.'
+origin_en: Le style colonial français s’est développé en Nouvelle-France d’après les modèles de construction du
+  pays auquel il se rattache, la France. Il retient les principes généraux du classicisme français avec son système
+  de proportions, sa composition harmonieuse d’ensemble et une certaine réserve dans l’expression architecturale.
+  En lien avec la tradition, les premiers colons répètent les formes simples dont l’usage est commun. Artisans,
+  entrepreneurs ou maçons construisent ainsi des bâtiments dans un état d’esprit français, tout en proposant quelques
+  adaptations compte tenu du climat ou de la règlementation imposée à différentes époques.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=105
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

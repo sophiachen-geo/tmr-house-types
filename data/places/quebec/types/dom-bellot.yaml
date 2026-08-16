@@ -1,0 +1,98 @@
+id: quebec.dom-bellot
+place: quebec
+phase: p6
+name_en: Dom Bellot
+name_fr: Dom Bellot
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 703
+is_residential: false
+courant: Influences marginales
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=703
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=703
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le renouveau architectural religieux a été introduit au Québec par l’architecte et moine bénédictin français
+    Dom Paul Bellot. Après avoir conçu plusieurs immeubles religieux en France, en Belgique et aux Pays-Bas dans
+    les années 1920 et 1930, Dom Bellot a participé à quelques constructions au Québec (oratoire Saint-Joseph de
+    Montréal et abbaye Saint-Benoît-du-Lac). Son approche nouvelle, plus tard appelée dombellotisme, a eu beaucoup
+    d’échos auprès d’architectes québécois qui ont appliqué ses principes rationalistes à l’architecture religieuse
+    du Québec entre 1935 et 1955.
+  - Dans les œuvres d’influence Dom Bellot, les matériaux forment à la fois la structure et le décor, ce qui rejoint
+    le principe du rationalisme en architecture et qui rappelle certaines œuvres du Moyen Âge. Aucune ornementation
+    n’est ajoutée à la construction. Ce sont la forme, la texture et la couleur des matériaux structuraux (brique
+    ou béton) qui participent à la beauté de l’œuvre. L’architecte Dom Bellot, ou dombellotisme, se caractérise
+    par un système de proportions rigoureux et par le plein rendement de chaque matériau employé avec une logique
+    impeccable et une puissante originalité. Plusieurs églises de style Dom Bellot sont d’ailleurs construites à
+    partir de grands arcs cintrés ou brisés, en brique ou en béton, qui sont franchement exprimés dans leur expression
+    la plus pure. L’agencement fantaisiste de briques de différentes couleurs ou d’arêtes en béton créant des motifs
+    géométriques suffit, avec l’emploi de la lumière, à ornementer les églises et les couvents.
+  - La ville de Québec compte plusieurs réalisations issues de cette approche architecturale, notamment des œuvres
+    de l’architecte Adrien Dufresne qui était l’un des plus grands adeptes québécois de dom Bellot.
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture médiévale et de la doctrine rationaliste : système de proportions rigoureux
+    et matériaux jouant un rôle à la fois structural et ornemental; style associé aux lieux de culte.'
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de brique, de béton ou de pierre; structure apparente en brique, en béton armé ou en pierre.'
+  - Toit à deux versants droits; pente moyenne (entre 30° et 45°) ou forte (plus de 45°); revêtement de bardeau
+    d’asphalte, de tôle profilée ou de tôle traditionnelle.
+  - Ouvertures rectangulaires ou en arc, généralement en arc parabolique ou polygonal; porte à panneau(x) avec ou
+    sans vitrage surmontée d’une imposte et garnie d’un portail; fenêtres à battants et à petits ou à grands carreaux
+    ou fixes à petit-bois, à petits-fers ou avec vitrail (verrière).
+  - 'Saillie : portail.'
+  - 'Ornements, à l’extérieur et l''intérieur du bâtiment, utilisés pour mettre en valeur la lumière et les matériaux
+    : éléments structuraux, jeux d’ombres et de lumière, motifs, généralement géométriques, formés par divers appareillages
+    et polychromie.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are four churches. Recorded so the source's list can be read whole, but out of
+  this site's residential scope, so it gets no card and no page. Its French is verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are four churches.'
+origin_en: Le renouveau architectural religieux a été introduit au Québec par l’architecte et moine bénédictin français
+  Dom Paul Bellot. Après avoir conçu plusieurs immeubles religieux en France, en Belgique et aux Pays-Bas dans les
+  années 1920 et 1930, Dom Bellot a participé à quelques constructions au Québec (oratoire Saint-Joseph de Montréal
+  et abbaye Saint-Benoît-du-Lac). Son approche nouvelle, plus tard appelée dombellotisme, a eu beaucoup d’échos
+  auprès d’architectes québécois qui ont appliqué ses principes rationalistes à l’architecture religieuse du Québec
+  entre 1935 et 1955.
+related_buildings:
+- name: Église Saint-Thomas-d'Aquin
+  fiche_id: 213
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=213
+- name: Sanctuaire Sainte-Thérèse-de-l'Enfant-Jésus
+  fiche_id: 239
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=239
+- name: Église Saint-Albert-le-Grand
+  fiche_id: 264
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=264
+- name: Église Saint-Fidèle
+  fiche_id: 270
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=270
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/703/33.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

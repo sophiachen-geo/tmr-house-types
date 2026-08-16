@@ -1,0 +1,105 @@
+id: quebec.expressionnisme
+place: quebec
+phase: p6
+name_en: Expressionnisme
+name_fr: Expressionnisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 804
+is_residential: false
+courant: Influences modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=804
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=804
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - L’expressionnisme est un mouvement qui s’est développé en Europe du Nord à partir du début 20e siècle. À l’origine,
+    il se manifeste notamment en Allemagne, en plus d’influencer les architectes des Pays-Bas regroupés autour de
+    l’École d’Amsterdam. Il marque en quelque sorte la fin de la période associée à l’architecture moderne, puisqu’il
+    favorise une démarche créatrice individuelle où la recherche formelle du bâtiment est une fin en soi. Entre
+    1960 et 1980, il façonne une partie du paysage urbain et semi-urbain de Québec avec les réalisations d’architectes
+    tels qu’Evans St-Gelais, Jean-Marie Roy et André Robitaille. La création du campus de l’Université Laval et
+    l’aménagement de la colline parlementaire sont par ailleurs deux projets qui regroupent des constructions marquantes
+    de cette période. Celle-ci présente également des liens étroits avec le mouvement brutaliste qui prône l’expressivité
+    des matériaux bruts et des systèmes techniques.
+  - Le bâtiment découlant de l’expressionnisme se caractérise par une composition audacieuse et monumentale. En
+    réaction à l'austérité de la doctrine fonctionnaliste, les architectes se libèrent de la fonction pour aller
+    vers une conception plus formelle et symbolique, ce qui les amène à proposer un geste ou une signature architecturale.
+    Le bâtiment se démarque ainsi du milieu, il devient une véritable œuvre d’art. L’utilisation de techniques de
+    construction innovantes permet par exemple de réaliser des envolées plastiques qui prennent la forme de cônes,
+    de dômes ou d’une quelconque géométrie courbe. L’expression sculpturale recherchée, à travers l’exploration
+    formelle, se distingue aussi par un effet dramatique de la ligne verticale ou horizontale, un assemblage de
+    volumes purs, une uniformisation des surfaces, un jeu de textures et un contraste lumineux.
+  elements_caracteristiques:
+  - 'Composition issue d’une démarche créatrice individuelle où la recherche formelle est une fin en soi : caractère
+    monumental et audacieux, envolées plastiques, effet dramatique de la ligne verticale ou horizontale et façades
+    aux surfaces uniformes; bâtiment perçu comme une œuvre d’art qui symbolise un geste ou une signature architecturale.'
+  - Assemblage de volumes.
+  - Fondation en béton.
+  - 'Murs : revêtement de béton, de métal, de métal et de verre avec le mur rideau ou d’enduit (stuc); structure
+    en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s). Toit plat à faible pente (à égout extérieur);
+    pente très faible (moins de 15°); revêtement de bardeau d’asphalte ou de membrane(s). Toit à deux versants droits,
+    à versants multiples ou asymétrique; pente faible (moins de 30°), moyenne (entre 30° et 45°) ou forte (plus
+    de 45°); revêtement de bardeau d’asphalte.
+  - Ouvertures nombreuses; porte à panneau avec vitrage, pleine ou entièrement vitrée.
+  - 'Saillies : marquise, perron, portail et portique.'
+  - 'Ornements utilisés pour mettre en valeur la lumière et les matériaux : jeux d’ombres et de lumière et jeu de
+    textures.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a library, churches and a hotel. Recorded so the source's list can be read
+  whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the
+  fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a library, churches
+  and a hotel.'
+origin_en: L’expressionnisme est un mouvement qui s’est développé en Europe du Nord à partir du début 20e siècle.
+  À l’origine, il se manifeste notamment en Allemagne, en plus d’influencer les architectes des Pays-Bas regroupés
+  autour de l’École d’Amsterdam. Il marque en quelque sorte la fin de la période associée à l’architecture moderne,
+  puisqu’il favorise une démarche créatrice individuelle où la recherche formelle du bâtiment est une fin en soi.
+  Entre 1960 et 1980, il façonne une partie du paysage urbain et semi-urbain de Québec avec les réalisations d’architectes
+  tels qu’Evans St-Gelais, Jean-Marie Roy et André Robitaille. La création du campus de l’Université Laval et l’aménagement
+  de la colline parlementaire sont par ailleurs deux projets qui regroupent des constructions marquantes de cette
+  période. Celle-ci présente également des liens étroits avec le mouvement brutaliste qui prône l’expressivité des
+  matériaux bruts et des systèmes techniques.
+related_buildings:
+- name: Bibliothèque Monique-Corriveau
+  fiche_id: 205
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=205
+- name: Église Saint-Louis-de-France
+  fiche_id: 211
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=211
+- name: Église de Sainte-Cécile
+  fiche_id: 225
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=225
+- name: Hôtel Le Concorde de Québec
+  fiche_id: 6024
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=6024
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/804/46.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

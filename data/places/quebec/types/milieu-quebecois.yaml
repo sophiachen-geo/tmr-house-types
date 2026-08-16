@@ -1,0 +1,54 @@
+id: quebec.milieu-quebecois
+place: quebec
+phase: p3
+name_en: The Québécois milieu (1770-1900)
+name_fr: Milieu québécois
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Milieu québécois »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/milieu-quebecois.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Les bâtiments influencés par le milieu québécois apparaissent progressivement à la fin du 18e siècle, alors
+    que la tradition française de construire rencontre celle des nouveaux arrivants anglais.
+  - L’architecture se transforme pour en arriver à s’intégrer au contexte environnant propre au Québec.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1770-1900.'
+blurb_en: One of the thesaurus's nine top-level currents, 1770-1900.
+origin_en: Les bâtiments influencés par le milieu québécois apparaissent progressivement à la fin du 18e siècle,
+  alors que la tradition française de construire rencontre celle des nouveaux arrivants anglais.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/milieu-quebecois.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

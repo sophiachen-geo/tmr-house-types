@@ -1,0 +1,99 @@
+id: quebec.high-tech
+place: quebec
+phase: p6
+name_en: High-tech
+name_fr: High-tech
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 902
+is_residential: false
+courant: Influences contemporaines
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=902
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=902
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le high-tech (haute technologie) s’est développé en Angleterre et aux États-Unis au cours des années 1970. Il
+    proteste contre la rigueur de l’architecture moderne et l’historicisme du mouvement postmoderne tandis que sa
+    démarche découle de la doctrine fonctionnaliste et du mouvement brutaliste. Une sorte de confiance se dégage
+    de la technique qui devient indissociable de l’architecture, en ce qui à trait a la forme et la structure du
+    bâtiment. Le Centre Pompidou à Paris, par Renzo Piano et Richard Rogers, est considéré comme la première œuvre
+    marquante de ce style. Ce dernier présente plutôt une allure high-tech au Québec, puisque le climat froid et
+    humide, l’impact environnemental de la construction ainsi que les coûts importants associés aux technologies
+    sophistiquées deviennent des facteurs non négligeables lors de la conception. Apparu au cours des années 1980
+    à Québec, il est majoritairement associé aux bâtiments à vocation institutionnelle, commerciale et industrielle.
+  - Le high-tech se distingue par des structures porteuses à la fois légères et transparentes. La composition d’ensemble,
+    ordonnée et rationnelle, s’inspire de tous les domaines technologiques. Illustrant le progrès qui s’affiche
+    à l’extérieur du bâtiment, les matériaux et les éléments techniques se réfèrent à l’esthétique industrielle.
+    Une structure en métal ou en béton, enveloppé d’un mur-rideau et d’une toiture indépendante, peut par conséquent
+    être stabilisée et mise en valeur par des poutres d’acier, des contreventements ou des câbles métalliques tendus.
+    Allant de pair avec l’idée d’évoquer le travail de la machine, les éléments techniques comme les conduits, les
+    circulations verticales ou les brise-soleils se doivent également d’être montrés.
+  elements_caracteristiques:
+  - 'Composition issue de la doctrine fonctionnaliste et du mouvement brutaliste : caractère rationnel, technique
+    indissociable de la forme et de la structure porteuse qui se veut légère et transparente et esthétique industrielle;
+    style ayant plutôt une allure high-tech au Québec.'
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de béton, de pierre, de bois, de métal ou de métal et de verre avec le mur rideau;
+    structure apparente en bois, mais généralement en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur) ou plat aménagé en terrasse; revêtement de membrane(s).
+  - Porte à panneau avec vitrage, pleine ou entièrement vitrée; fenêtres avec vitrage clair, teinté, réfléchissant,
+    dépoli ou à motifs.
+  - 'Saillies : galerie, marquise, perron et portail.'
+  - 'Ornements utilisés pour mettre en valeur les systèmes techniques et les éléments structuraux : systèmes structuraux,
+    mécaniques et électriques et éléments structuraux, brise-soleils, câbles métalliques, circulations verticales,
+    conduits, contreventements et poutres.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a convention centre and a library. Recorded so the source's list can be read
+  whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim from the
+  fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a convention centre
+  and a library.'
+origin_en: Le high-tech (haute technologie) s’est développé en Angleterre et aux États-Unis au cours des années
+  1970. Il proteste contre la rigueur de l’architecture moderne et l’historicisme du mouvement postmoderne tandis
+  que sa démarche découle de la doctrine fonctionnaliste et du mouvement brutaliste. Une sorte de confiance se dégage
+  de la technique qui devient indissociable de l’architecture, en ce qui à trait a la forme et la structure du bâtiment.
+  Le Centre Pompidou à Paris, par Renzo Piano et Richard Rogers, est considéré comme la première œuvre marquante
+  de ce style. Ce dernier présente plutôt une allure high-tech au Québec, puisque le climat froid et humide, l’impact
+  environnemental de la construction ainsi que les coûts importants associés aux technologies sophistiquées deviennent
+  des facteurs non négligeables lors de la conception. Apparu au cours des années 1980 à Québec, il est majoritairement
+  associé aux bâtiments à vocation institutionnelle, commerciale et industrielle.
+related_buildings:
+- name: Centre des Congrès
+  fiche_id: 1433
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1433
+- name: Bibliothèque Gabrielle-Roy
+  fiche_id: 10326
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=10326
+- name: 685, rue Sainte-Marguerite
+  fiche_id: 11263
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=11263
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/902/50.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

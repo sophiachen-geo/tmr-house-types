@@ -1,0 +1,89 @@
+# The four unités de paysage of the declared site, with their éléments caractéristiques
+# transcribed verbatim from RPCQ id 231571 (MCC, 2026). The fiche runs each sector's
+# characteristics as one long semicolon-terminated bullet; the clauses are split here at the
+# fiche's own commas and are otherwise unaltered — including "largueur", which is the fiche's
+# spelling. Source text: sources/terrebonne/rpcq_231571.txt, lines 132–135.
+- id: bas-de-la-cote
+  code: UP-1
+  name_fr: Secteur du Bas-de-la-Côte
+  value: unite-de-paysage
+  summary_en: >-
+    The largest part of the site: boulevard des Braves and rues Saint-Pierre, Saint-François-Xavier,
+    Sainte-Marie, Saint-André and Saint-Joseph. Dominantly residential, with surviving built
+    witnesses of commercial and artisanal activity.
+  characteristics_fr:
+    - "ses voies publiques relativement rectilignes et étroites formant une grille de rue orthogonale"
+    - "la déclivité descendante du secteur depuis la rue Saint-Louis vers la rivière"
+    - "les marges de recul limitées de ses bâtiments formant un fort encadrement urbain"
+    - "les aménagements sobres et limités en cour avant"
+    - "ses bâtiments résidentiels dominant avec également des témoins bâtis d'activités commerciales et artisanales"
+    - "l'architecture vernaculaire des bâtiments (parements de bois, maçonnerie de briques, couverture de tôle) qui sont souvent de gabarit restreint (hauteur, largueur)"
+    - "les saillies sur rue comme les galeries et les balcons de bois de facture traditionnelle"
+    - "les détails architecturaux des bâtiments implantés aux intersections des rues comme les portes en angle"
+    - "la ruelle du Passant reliant les rues Sainte-Marie et Saint-André"
+    - "le mur de soutènement en bordure de la rivière"
+  streets: ["boulevard des Braves", "rue Saint-Pierre", "rue Saint-François-Xavier", "rue Sainte-Marie", "rue Saint-André", "rue Saint-Joseph"]
+  source: "RPCQ id 231571 (MCC, 2026)"
+  note: >-
+    Ten clauses, not nine. The Part 8 brief's transcription omitted "ses bâtiments résidentiels
+    dominant avec également des témoins bâtis d'activités commerciales et artisanales", having
+    rendered it as English in summary_en instead; it is restored here in the fiche's own order so
+    the list is complete. 133 of the 225 associated RPCQ records sit on these six streets.
+- id: ile-des-moulins
+  code: UP-2
+  name_fr: Secteur de l'Île-des-Moulins
+  value: unite-de-paysage
+  summary_en: A proto-industrial stone ensemble of regional significance, linked to the mainland by a dyke.
+  characteristics_fr:
+    - "l'implantation de ses bâtiments anciens sur un axe au sud de l'île"
+    - "la maçonnerie de pierres et la sobriété des bâtiments associées à leur fonction industrielle d'origine"
+    - "les ouvrages de régulation de l'eau (digue, barrage)"
+    - "la partie boisée de l'île avec ses sculptures, l'étang Masson et sa fontaine"
+  source: "RPCQ id 231571"
+  note: >-
+    The ensemble is separately classed as the Ensemble d'immeubles patrimoniaux de l'Île-des-Moulins
+    (RPCQ id 92594, classement 1973-12-12). It is a provincial classement, NOT a Parks Canada
+    national historic site — the research memo's framing was wrong. Six further records — the
+    boulangerie, the bureau seigneurial, the moulin neuf, the trois moulins de la jetée and the two
+    barrages — carry "Classement — Situé dans un immeuble patrimonial" because they sit inside it,
+    which is why the site has ten Classement records but only four classed immeubles.
+- id: secteur-institutionnel
+  code: UP-3
+  name_fr: Secteur institutionnel
+  value: unite-de-paysage
+  summary_en: >-
+    A parish core at the meeting of boulevard des Braves and rue Saint-Louis — church, presbytery and
+    convent — continuing to the riverbank where the hôtel de ville stands.
+  characteristics_fr:
+    - "sa localisation en deux emplacements, l'un sur la rue Saint-Louis, près du boulevard des Braves, et l'autre en bordure de la rivière des Mille-Îles"
+    - "les marges de recul et les marges latérales importantes des bâtiments"
+    - "la présence de végétation en cour avant comme des arbres matures décidus sur pelouse"
+    - "les clôtures ouvragées délimitant les cours avant"
+    - "l'architecture élaborée et le gabarit imposant des bâtiments"
+    - "la maçonnerie de pierres (église, presbytère, couvent, manoir) ou de briques (hôtel de ville) des bâtiments, les couvertures de tôle et les portes et fenêtres en bois"
+  source: "RPCQ id 231571"
+  note: >-
+    Eleven of the 225 associated records carry the RPCQ usage "Services et institutions"; six of
+    those are cited under Règlement 810 — the highest citation rate of any usage group on the site.
+- id: secteur-residentiel-bourgeois
+  code: UP-4
+  name_fr: Secteur résidentiel bourgeois
+  value: unite-de-paysage
+  summary_en: The rue Saint-Louis spine, lined with merchants' houses in generous grounds.
+  characteristics_fr:
+    - "le parcours sinueux de la rue Saint-Louis formant son épine dorsale"
+    - "les marges de recul et les marges latérales des bâtiments relativement importantes"
+    - "les clôtures de facture traditionnelle délimitant les cours avant"
+    - "la présence de végétation en cour avant comme des arbres matures décidus sur pelouse, les alignements de grands arbres décidus en bordure de la rue"
+    - "ses résidences cossues (maçonnerie de pierres ou de briques, parements de bois, couvertures de tôle) à l'ornementation élaborée"
+    - "les dépendances résidentielles anciennes s'harmonisant souvent aux maisons"
+    - "la ruelle des Anges implantée à la limite de deux propriétés"
+    - "la rive escarpée et boisée de la rivière"
+  streets: ["rue Saint-Louis"]
+  source: "RPCQ id 231571"
+  note: >-
+    Rue Saint-Louis carries 44 of the 225 associated RPCQ records, more than any other street, and
+    almost every named maison in the set — Roussil, Joseph-Augé, Hercule-Masson,
+    Louis-de-Gonzague-Masson, Alexandre-Henri-Masson, Raymond-Masson, the manoir
+    Fraser-McKenzie-Masson. The declaration gives no ornament vocabulary beyond "à l'ornementation
+    élaborée", so neither does this record.

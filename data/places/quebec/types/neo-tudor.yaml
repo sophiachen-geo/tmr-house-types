@@ -1,0 +1,143 @@
+id: quebec.neo-tudor
+place: quebec
+phase: p5
+name_en: Neo-Tudor house
+name_fr: Néo-Tudor
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- tudor-manor-stone-timber
+- modest-tudor-cottage-brick-2st
+styles:
+- tudor-revival
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled-multi
+  pitch_deg: 50
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+- stone
+- wood
+- roughcast
+- half-timbering
+roofing: slate
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 409
+phase_confidence: verified
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=409
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=409
+quartiers: null
+profile:
+  siting_landscape:
+  - Present across the city's territory between 1890 and 1920, and principally associated with residential architecture.
+  - A picturesque effect, integrating the forms into the natural and built environment.
+  massing:
+  - 'Composition drawn from traditional English and Scottish architecture, itself drawn from the manors and farms
+    of the 16th century: with or without symmetry.'
+  - Simple or irregular plan, but flexible; the upper storeys project over the ground floor.
+  - Two to three occupied levels (one and a half to two and a half storeys); a functional arrangement of the rooms,
+    and one private and comfortable for the house.
+  - Straight two- or four-slope roof, or truncated four-slope; medium pitch, between 30° and 45°, or steep, over
+    45°.
+  - 'Projections: chimneys, logettes, oriels, perron and square towers.'
+  - The steep roof carries dormers and tall chimneys ornamented at their heads.
+  articulation:
+  - 'Ornaments: cornices, finials, false half-timbering, pediments and gables.'
+  - The gables or parts of the fronts are cut up by false half-timbering set into surfaces of roughcast or white
+    render.
+  openings:
+  - Rectangular openings, or Tudor-arched (a depressed pointed arch).
+  - Panelled door with or without glazing, surmounted by a transom.
+  - Stone mullioned and transomed windows, or casements with small or large panes, but generally sashes with or
+    without glazing bars; dormers present.
+  - Tall narrow mullioned windows, and projections such as square towers and oriels, to increase the natural light
+    indoors.
+  materials:
+  - 'Walls: stone or wood cladding, but generally red brick combined with roughcast or white stucco.'
+  - Stone foundation raised above the ground.
+  - Slate, cedar shingle or traditional sheet-metal roof covering.
+profile_fr:
+  description:
+  - Le style néo-Tudor se caractérise par une approche plus sobre du vocabulaire Tudor qui s’est développé en Angleterre
+    au 16e siècle sous les règnes d'Henri VIII (1491-1547) et d’Élizabeth 1re (1533-1603). S’inspirant de l’architecture
+    traditionnelle anglaise et écossaise, il se veut un rappel des manoirs et des fermes de cette période. Le style
+    néo-Tudor est popularisé à Québec à la fin du 19e siècle, entre autres par les architectes et la communauté
+    bourgeoise de souche anglo-saxonne qui désirent affirmer son identité culturelle. Il s’agit d’un retour aux
+    sources, afin d’en arriver à une architecture anglaise authentique. Présent sur le territoire de la ville entre
+    1890 et 1920, il est principalement associé à l’architecture résidentielle.
+  - Le bâtiment de style néo-Tudor possède un plan symétrique ou asymétrique dont la flexibilité permet d’aménager
+    des espaces intérieurs fonctionnels, de même que privés et confortables en ce qui a trait à l’habitation. Il
+    est revêtu de pierre, de brique rouge ou de bois et les étages font saillie sur le rez-de-chaussée. Les pignons
+    ou certaines parties des façades sont découpés par des faux colombages inscrits dans des surfaces en crépi ou
+    en enduit blanc. La toiture à forte pente est munie de lucarnes et de hautes cheminées ornées à leur sommet.
+    Les ouvertures en arc Tudor, soit un arc brisé surbaissé, comprennent par exemple des fenêtres hautes et étroites
+    à meneaux et à croisillons de pierre. Afin d’augmenter l’apport naturel de lumière à l’intérieur, des saillies
+    telles que des tours carrées, des oriels et des logettes sont considérés comme des extensions non négligeables
+    à la construction. En réponse à la recherche de pittoresque en cours durant l’ère victorienne, le bâtiment de
+    style néo-Tudor veut établir des liens avec l’environnement naturel ou bâti. Il tend par conséquent à s’adapter
+    au milieu dans lequel il s’insère.
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture traditionnelle anglaise et écossaise qui s’inspire des manoirs et des fermes
+    du 16e siècle : avec ou sans symétrie; création d’un effet pittoresque avec l’intégration des formes à l’environnement
+    naturel et bâti.'
+  - Plan simple ou irrégulier, mais flexible; étages en saillie sur le rez-de-chaussée.
+  - Deux à trois niveaux d’occupation (1 étage ½ à 2 étages ½); aménagement fonctionnel des pièces, en plus d’être
+    privé et confortable pour la maison.
+  - Fondation en pierre visible hors sol.
+  - 'Murs : revêtement de pierre ou de bois, mais généralement de brique rouge combiné avec le crépi ou l’enduit
+    (stuc) blanc.'
+  - Toit à deux ou quatre versants droits ou à quatre versants droits tronqués; pente moyenne (entre 30° et 45°)
+    ou forte (plus de 45°); revêtement d’ardoise, de bardeau de cèdre ou de tôle traditionnelle.
+  - Ouvertures rectangulaires ou en arc Tudor (arc brisé surbaissé); porte à panneau(x) avec ou sans vitrage surmontée
+    d’une imposte; fenêtres à meneaux et à croisillons de pierre ou à battants et à petits ou à grands carreaux,
+    mais généralement à guillotine avec ou sans petit-bois; présence de lucarnes.
+  - 'Saillies : cheminées, logettes, oriels, perron et tours carrées.'
+  - 'Ornements : corniches, épis, faux colombages, frontons et pignons.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=409), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The English manor scaled down for an anglophone bourgeoisie asserting itself: red brick below, white
+  roughcast and false half-timbering above, upper storeys jettied out over the ground floor, steep gables, tall
+  ornamented chimneys and stone-mullioned windows under depressed Tudor arches.'
+origin_en: The neo-Tudor style is a soberer reading of the Tudor vocabulary developed in England in the 16th century
+  under Henry VIII (1491–1547) and Elizabeth I (1533–1603). Drawing on traditional English and Scottish architecture,
+  it means to recall the manors and farms of that period. It was popularised at Québec at the end of the 19th century,
+  among others by architects and by the bourgeois community of Anglo-Saxon stock wanting to assert its cultural
+  identity — a return to the sources, in pursuit of an authentic English architecture. Present across the city's
+  territory between 1890 and 1920, it is principally associated with residential architecture.
+related_buildings:
+- name: St. Matthew's School
+  fiche_id: 786
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=786
+- name: Villa Clermont
+  fiche_id: 2421
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2421
+- name: Maison Arthur-Jobin
+  fiche_id: 3265
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=3265
+- name: Bloc Quatre-Vents
+  fiche_id: 4691
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=4691
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/409/21.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

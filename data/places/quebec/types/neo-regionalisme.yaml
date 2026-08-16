@@ -1,0 +1,90 @@
+id: quebec.neo-regionalisme
+place: quebec
+phase: p6
+name_en: Néo-régionalisme
+name_fr: Néo-régionalisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 810
+is_residential: false
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=810
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=810
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Un peu à la manière des courants régionalistes de la première moitié du 20e siècle, un mouvement de retour vers
+    les matériaux naturels et les formes s’inspirant de l’architecture traditionnelle marque l’architecture moderne
+    résidentielle des années 1960 et 1970. Cette architecture, complètement à l’opposé des œuvres du style International
+    et du brutalisme, prône une architecture nordique plus régionale où l'extérieur de la maison doit inspirer la
+    protection de ses habitants et l'intérieur doit être traité avec soin puisqu'en période froide, la vie intérieure
+    occupe une grande importance. L'utilisation du bois, notamment du bardeau de cèdre, de la brique d’argile et
+    de la pierre naturelle constitue une ligne directrice des œuvres issues de ce courant. À la même époque, le
+    Shed Style, né dans les années 1960 des dessins des architectes Charles Willard Moore et Robert Venturi en Californie,
+    met de l’avant des jeux de volumes aux pentes enveloppantes recouvertes de bardeau de cèdre. Le bois domine
+    tant l'enveloppe extérieure que la structure et la finition intérieure. Ces différents courants ont influencé
+    les concepteurs québécois, certains allant même jusqu’à imiter des maisons « canadiennes ». D’autres ont fait
+    preuve d’innovation en mariant la modernité et les matériaux traditionnels.
+  elements_caracteristiques:
+  - 'Volumétrie : variées.'
+  - 'Matériaux: bardeau de cèdre, brique d’argile et ou pierre naturelle.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are houses and addresses, but the fiche is two bullets long and describes no dwelling.
+  Recorded so the source's list can be read whole, but out of this site's residential scope, so it gets no card
+  and no page. Its French is verbatim from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are houses and addresses,
+  but the fiche is two bullets long and describes no dwelling.'
+origin_en: Un peu à la manière des courants régionalistes de la première moitié du 20e siècle, un mouvement de retour
+  vers les matériaux naturels et les formes s’inspirant de l’architecture traditionnelle marque l’architecture moderne
+  résidentielle des années 1960 et 1970. Cette architecture, complètement à l’opposé des œuvres du style International
+  et du brutalisme, prône une architecture nordique plus régionale où l'extérieur de la maison doit inspirer la
+  protection de ses habitants et l'intérieur doit être traité avec soin puisqu'en période froide, la vie intérieure
+  occupe une grande importance. L'utilisation du bois, notamment du bardeau de cèdre, de la brique d’argile et de
+  la pierre naturelle constitue une ligne directrice des œuvres issues de ce courant. À la même époque, le Shed
+  Style, né dans les années 1960 des dessins des architectes Charles Willard Moore et Robert Venturi en Californie,
+  met de l’avant des jeux de volumes aux pentes enveloppantes recouvertes de bardeau de cèdre. Le bois domine tant
+  l'enveloppe extérieure que la structure et la finition intérieure. Ces différents courants ont influencé les concepteurs
+  québécois, certains allant même jusqu’à imiter des maisons « canadiennes ». D’autres ont fait preuve d’innovation
+  en mariant la modernité et les matériaux traditionnels.
+related_buildings:
+- name: 1765-1767, côte à Gignac
+  fiche_id: 2263
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2263
+- name: 1725, boulevard Laurier
+  fiche_id: 2302
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2302
+- name: Résidence Charles-Cova
+  fiche_id: 2341
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2341
+- name: Maison Fleury
+  fiche_id: 4416
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=4416
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/810/45A.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

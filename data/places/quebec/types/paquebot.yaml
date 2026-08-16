@@ -1,0 +1,82 @@
+id: quebec.paquebot
+place: quebec
+phase: p6
+name_en: Paquebot (Streamline Moderne)
+name_fr: Paquebot
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 809
+is_residential: false
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=809
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=809
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Ce mouvement de design, à cheval entre l’Art déco et le style International, s’inspire de l’aérodynamisme des
+    moyens de transport des années 1930, 1940 et 1950, notamment les avions à hélices, les locomotives à vapeur,
+    les automobiles de luxe et les paquebots, qui sont des symboles de progrès et d’un nouvel art de vivre. Si pour
+    l’Art déco, l’accent était mis sur la verticalité, le courant Streamline, aussi appelé Art moderne ou Streamline
+    Deco, verra en revanche l’horizontalité dominer, en accord avec les traînées de vent qui évoquent la rapidité
+    des véhicules. Ce style est surtout employé dans l’architecture commerciale, industrielle et résidentielle jusqu’à
+    l’orée des années 1960. Il préconise des angles arrondis, des bandeaux horizontaux continus, des fenêtres divisées
+    à l’horizontale et des bas-reliefs épurés.
+  elements_caracteristiques:
+  - 'Volumétrie : horizontalité, souvent un coin de l’édifice est arrondi.'
+  - Bandeau de fenêtre.
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a medical centre and commercial blocks. Recorded so the source's list can
+  be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim
+  from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a medical centre and
+  commercial blocks.'
+origin_en: Ce mouvement de design, à cheval entre l’Art déco et le style International, s’inspire de l’aérodynamisme
+  des moyens de transport des années 1930, 1940 et 1950, notamment les avions à hélices, les locomotives à vapeur,
+  les automobiles de luxe et les paquebots, qui sont des symboles de progrès et d’un nouvel art de vivre. Si pour
+  l’Art déco, l’accent était mis sur la verticalité, le courant Streamline, aussi appelé Art moderne ou Streamline
+  Deco, verra en revanche l’horizontalité dominer, en accord avec les traînées de vent qui évoquent la rapidité
+  des véhicules. Ce style est surtout employé dans l’architecture commerciale, industrielle et résidentielle jusqu’à
+  l’orée des années 1960. Il préconise des angles arrondis, des bandeaux horizontaux continus, des fenêtres divisées
+  à l’horizontale et des bas-reliefs épurés.
+related_buildings:
+- name: Édifice Centre Médical
+  fiche_id: 6198
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=6198
+- name: Édifice Cadrin
+  fiche_id: 10211
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=10211
+- name: 250-270, boulevard Charest Est
+  fiche_id: 10241
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=10241
+- name: Édifice Garneau
+  fiche_id: 10262
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=10262
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/809/41.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

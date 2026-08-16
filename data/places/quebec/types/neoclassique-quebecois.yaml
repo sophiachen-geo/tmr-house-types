@@ -1,0 +1,90 @@
+id: quebec.neoclassique-quebecois
+place: quebec
+phase: p3
+name_en: Néoclassique québécois (courant)
+name_fr: Néoclassique québécois
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 302
+is_courant: true
+courant: Milieu québécois
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=302
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=302
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - En vogue au 19e siècle, le style néoclassique québécois est une réinterprétation des styles néoclassiques venue
+    d’Europe et d’Amérique. Ces derniers proposent un retour à l’architecture antique classique basé sur une composition
+    rigoureuse, c’est-à-dire plus simple et dépouillé que les modèles anciens qui ont été redécouverts grâce à l’archéologie.
+  - Les bâtiments de style néoclassique québécois dégagent une logique et une harmonie des proportions qui est adaptée
+    à la réalité d’ici. Ils s’inscrivent dans la continuité de l’esthétique classique tout en étant moins codifiés.
+    Présent dans l’architecture institutionnelle et ensuite domestique, ils caractérisent le paysage identitaire
+    de la province.
+  - 'À Québec, le style néoclassique québécois est fortement associé aux bâtiments à usage ou à connotation religieuse.
+    Introduit et développé par l’architecte Thomas Baillairgé (1791-1859), il s’agit d’une synthèse entre les formes
+    et la tradition. Il combine les styles néoclassiques français et anglais à la tradition locale de construction
+    au Bas-Canada, tant du point de vue des techniques que des matériaux. Les bâtiments présentent une composition
+    d’ensemble cohérente, une monumentalité et un sens du classicisme, aussi bien sur les élévations extérieures
+    que dans le décor intérieur des églises par exemple. L’ornementation classique, sculptée en bois, est utilisée
+    discrètement et de manière épurée : corniches, entablements, colonnes, pilastres et frontons.'
+  elements_caracteristiques:
+  - 'Composition moins codifiée de l’idéal classique avec la réinterprétation des styles néoclassiques qui sont
+    adaptés à la réalité québécoise : système de proportions avec les ordres, recherche d’harmonie et d’équilibre,
+    caractère monumental et synthèse entre les formes et la tradition locale de construire.'
+  - Fondation en pierre.
+  - Ouvertures régulières; porte à panneau(x) avec ou sans vitrage; fenêtres à battants et à petits carreaux, mais
+    généralement à grands carreaux.
+  - 'Ornements classiques utilisés discrètement et de manière épurée : colonnes, corniches, entablements, frontons
+    et pilastres.'
+profile_note: 'A parent node of the thesaurus (a *courant*), not a building type: recorded so the source''s tree
+  can be read whole, but given no card and no page of its own. Its French is verbatim from the fiche; no English
+  five-column profile is written, because the node describes a family rather than a house. `tenure_plan` is set
+  to `mixed` because the schema requires a value and the family spans several.'
+blurb_en: 'A parent node of the thesaurus: the Néoclassique québécois current, under which the City files its named
+  house types.'
+origin_en: En vogue au 19e siècle, le style néoclassique québécois est une réinterprétation des styles néoclassiques
+  venue d’Europe et d’Amérique. Ces derniers proposent un retour à l’architecture antique classique basé sur une
+  composition rigoureuse, c’est-à-dire plus simple et dépouillé que les modèles anciens qui ont été redécouverts
+  grâce à l’archéologie.
+related_buildings:
+- name: 722-724, côte d'Abraham
+  fiche_id: 170
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=170
+- name: Maison François-Xavier-Langevin
+  fiche_id: 171
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=171
+- name: Église de Saint-Charles-Borromée
+  fiche_id: 226
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=226
+- name: Église Saint-Félix-de-Cap-Rouge
+  fiche_id: 252
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=252
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/302/9.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,119 @@
+id: quebec.prairie
+place: quebec
+phase: p6
+name_en: Prairie house (Frank Lloyd Wright inspiration)
+name_fr: Prairie
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- prairie-contemporary
+styles:
+- prairie
+- arts-and-crafts
+style_label: null
+tenure_plan: single-family
+storeys: 1–2
+roof:
+  form: hipped
+  pitch_deg: 20
+window_proportion: horizontal
+principal_cladding:
+- clay-brick
+- wood
+- stucco
+roofing: asphalt-shingle-dark
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 808
+phase_confidence: provisional
+courant: Influences modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=808
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=808
+quartiers: null
+profile:
+  siting_landscape:
+  - Horizontality and regard for the natural environment.
+  - Wright designed for his wealthy clients several houses of very elongated, horizontal form fitting perfectly
+    into the prairie landscapes of the American Midwest.
+  - At Québec, certain bungalows reflect this Prairie influence.
+  massing:
+  - 'Composition drawn from the architecture of the American Midwest, breaking with the forms of the past: horizontality
+    and regard for the natural environment; a style seen as one of the variants of the Arts and Crafts movement,
+    popularised in the United States.'
+  - Simple volumes.
+  - 'Projections sheltered by an awning: perron and gallery.'
+  - The model was taken up across North America by architects and builders for middle-class people wanting an individual
+    house in the suburbs, worked through every form while keeping the horizontal treatment of its architecture.
+  - These houses may have a flat or low-pitched roof.
+  articulation:
+  - The horizontal treatment of the architecture is what is kept through every variant of the model.
+  openings: []
+  materials:
+  - Wood frame.
+  - The houses present various materials.
+profile_fr:
+  description:
+  - La maison d’inspiration Frank Lloyd Wright
+  - L’architecte Frank Lloyd Wright a été parmi les premiers, au début du 20e siècle, à développer un mode d’habitat
+    typiquement américain. Cet architecte conçoit, pour ses clients fortunés, plusieurs maisons de forme très allongée
+    et horizontale qui s’intègrent parfaitement aux paysages de prairie du Midwest américain. Ce modèle de résidence
+    est ensuite repris, partout en Amérique du Nord, par des architectes et constructeurs pour des gens de la classe
+    moyenne qui souhaitent acheter une maison individuelle personnalisée en banlieue. Ils déclinent ce modèle d’habitation
+    dans toutes ses formes en conservant toutefois le traitement horizontal de son architecture. Ainsi, ces maisons
+    peuvent avoir un toit plat ou à faible pente, présenter divers matériaux, habituellement naturels, agencés entre
+    eux et prendre des formes inusitées qui s’adaptent aux espaces intérieurs. De plus, ces résidences, souvent
+    conçues par un architecte, tirent profit de leur site d’implantation en maximisant les vues sur le paysage ou
+    en bénéficiant du meilleur ensoleillement possible.
+  - À Québec, certains bungalows reflètent cette influence de style Prairie.
+  - Découvrez-en davantage en lisant cet article de blogue sur les influences de Frank Lloyd Wright à Québec.
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture du Midwest américain qui rompt avec les formes du passé : horizontalité
+    et considération pour l’environnement naturel; style perçu comme l’une des variantes du mouvement Arts and Crafts
+    popularisée aux États-Unis.'
+  - Volumes simples.
+  - Charpente en bois.
+  - 'Saillies protégées par un auvent : perron et galerie.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=808), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: Wright's long low horizontal house, worked down from wealthy clients to suburban builders across North
+  America, keeping only the horizontality. The thesaurus's own fiche is brief; at Québec its clearest trace is in
+  the bungalow, which the City files as its déclinaison.
+origin_en: The architect Frank Lloyd Wright was among the first, at the beginning of the 20th century, to develop
+  a typically American mode of dwelling. For his wealthy clients he designed several houses of very elongated and
+  horizontal form that fitted perfectly into the prairie landscapes of the American Midwest. The model was then
+  taken up across North America by architects and builders for middle-class people who wanted an individual, personalised
+  house in the suburbs; they worked it through every form while keeping the horizontal treatment of its architecture,
+  so that these houses may have a flat or low-pitched roof and present various materials. At Québec, certain bungalows
+  reflect this Prairie influence.
+related_buildings:
+- name: Résidence Roger-Barré
+  fiche_id: 2148
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2148
+- name: Résidence Dr.-André-Jacques
+  fiche_id: 2204
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2204
+- name: Résidence Jean-Paul-Massé
+  fiche_id: 2271
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2271
+- name: Résidence Camille-Lacroix
+  fiche_id: 2272
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2272
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/808/42.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

@@ -1,0 +1,151 @@
+id: quebec.arts-and-crafts
+place: quebec
+phase: p6
+name_en: Arts and Crafts house
+name_fr: Arts and Crafts (Arts et Métiers)
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- english-revival-stone-2st
+- modest-tudor-cottage-brick-2st
+styles:
+- arts-and-crafts
+- arts-et-metiers
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled-or-hipped
+  pitch_deg: 38
+window_proportion: vertical
+principal_cladding:
+- wood-shingle
+- stone
+- clay-brick
+- roughcast
+- stucco
+roofing: cedar-shingle
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 701
+phase_confidence: verified
+courant: Influences marginales
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=701
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=701
+quartiers: null
+profile:
+  siting_landscape:
+  - The Arts and Crafts house is conceived in complementarity with the setting it stands in, physical and natural
+    alike.
+  - Built during the first half of the 20th century at Québec, and principally associated with residential architecture.
+  massing:
+  - 'Composition drawn from the architecture of the English countryside, itself drawn from the local way of building
+    with regard to craft, materials and know-how: a picturesque effect, integrating the forms into the natural and
+    built environment.'
+  - Square or rectangular plan, but generally irregular; an informal plan.
+  - Two to three occupied levels (one and a half to two and a half storeys); the upper storeys project over the
+    ground floor.
+  - Straight two- or four-slope roof, straight two-slope with half-hips, two-slope broken, multi-slope or asymmetrical;
+    low pitch, under 30°, medium, between 30° and 45°, or steep, over 45°.
+  - 'Projections: chimneys, gallery sheltered by the straight eave or by the upper storeys, logettes, oriels and
+    perron; secondary bodies: annexe and veranda.'
+  articulation:
+  - 'Reduced ornament: rafters, false half-timbering, piers and corner boards.'
+  - 'The decorative components stay simple: false half-timbering, exposed rafters at the ends of the roof, corner
+    boards and chambranles.'
+  openings:
+  - Rectangular openings fitted with chambranles.
+  - Panelled door with glazing, with or without a transom above.
+  - Windows single, paired or grouped, with or without glazing bars forming diamonds; casements with transom, compound
+    casements with transom, sashes with or without glazing bars, sashes with small panes or compound sashes.
+  - Dormers present, including the central shed dormer.
+  materials:
+  - 'Walls: stone, wood — generally wood shingle — or brick cladding combined with roughcast or render.'
+  - Concrete or stone foundation raised above the ground.
+  - Cedar shingle or traditional sheet-metal roof covering.
+profile_fr:
+  description:
+  - Au 19e siècle en Angleterre, la société subit des transformations majeures en raison de l’industrialisation.
+    Des mouvements de pensée apparaissent en réaction à la perte de la structure sociale traditionnelle, des mœurs
+    et de la religion. Les adeptes du mouvement Arts and Crafts proposent pour leur part une architecture qui s’inspire
+    de l’artisanat et de l’habitation issue de la campagne anglaise. Le retour au travail manuel, l’usage de matériaux
+    traditionnels ainsi que le recours aux savoir-faire locaux sont valorisés pour faire obstacle à la standardisation.
+  - Le mouvement gagne ensuite les États-Unis où il sera connu par le biais de plusieurs styles comme le Shingle
+    Style, retrouvé sur la côte est, le Prairie Style, associé au centre, et le Craftsman Style, présent sur la
+    côte ouest. Sa popularité est majoritairement due aux catalogues et aux revues d’architecture qui sont distribués
+    à travers l’Amérique du Nord à partir du début du 20e siècle. Bien que les bâtiments en lien avec ce mouvement
+    soient largement diffusés, son idéologie est mal comprise. Le changement préconisé demeure sans portée sociale,
+    puisque les caractéristiques formelles des styles prédominent. Érigés durant la première moitié du 20e siècle
+    à Québec, les bâtiments Arts and Crafts sont principalement associés à l’architecture résidentielle qui se retrouve
+    dans les quartiers et les banlieues de la ville.
+  - 'La maison Arts and Crafts est conçue en complémentarité avec le milieu dans lequel elle se trouve, tant sur
+    le plan physique que naturel. Dotée d’un plan informel, il s’agit d’une maison unifamiliale qui s’inspire de
+    la chaumière anglaise. Elle possède deux ou trois niveaux d’occupation et elle est coiffée d’un toit à deux
+    ou à quatre versants droits. Le revêtement est en bardeau de bois, mais la pierre, la brique, le crépi ou l’enduit
+    sont également employés. Les fenêtres isolées, jumelées ou groupées sont à battants avec imposte ou à guillotine
+    tandis qu’une ou plusieurs lucarnes surmontent la toiture. Les composantes décoratives demeurent simples : faux
+    colombages, chevrons apparents aux extrémités du toit, planches cornières et chambranles autour des ouvertures.'
+  elements_caracteristiques:
+  - 'Composition issue de l’architecture de la campagne anglaise qui s’inspire de la tradition locale de construire
+    en regard à l’artisanat, aux matériaux et aux savoir-faire : création d’un effet pittoresque avec l’intégration
+    des formes à l’environnement naturel et bâti.'
+  - Plan carré ou rectangulaire, mais généralement irrégulier.
+  - Deux à trois niveaux d’occupation (1 étage ½ à 2 étages ½); étages en saillie sur le rez-de-chaussée.
+  - Fondation en béton ou en pierre visible hors sol.
+  - 'Murs : revêtement de pierre, de bois, généralement de bardeau de bois, ou de brique combiné avec le crépi ou
+    l’enduit (stuc).'
+  - Toit à deux ou à quatre versants droits, à deux versants droits avec demi-croupes, à deux versants brisés, à
+    versants multiples ou asymétrique; pente faible (moins de 30°), moyenne (entre 30° et 45°) ou forte (plus de
+    45°); revêtement de bardeau de cèdre ou de tôle traditionnelle.
+  - Ouvertures rectangulaires garnies de chambranles; porte à panneau(x) avec vitrage surmontée ou non d’une imposte;
+    fenêtres isolées, jumelées ou groupées, avec ou sans petit-bois formant des losanges, à battants avec imposte,
+    composées à battants avec imposte, à guillotine avec ou sans petit-bois, à guillotine et à petits carreaux ou
+    composées à guillotine; présence de lucarnes dont la lucarne centrale en appentis.
+  - 'Saillies : cheminées, galerie protégée par l’avant-toit droit ou par les étages, logettes, oriels et perron;
+    corps secondaires : corps d’annexe et véranda.'
+  - 'Ornements réduits : chevrons, faux colombages, piliers et planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=701), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The English cottage as an argument against the factory: an informal plan, wood shingle over stone or
+  brick, upper storeys jettied out, a gallery tucked under the eaves, and ornament cut back to exposed rafters,
+  corner boards and a little false half-timbering.'
+origin_en: In 19th-century England, society underwent major transformations because of industrialisation, and movements
+  of thought appeared in reaction to the loss of the traditional social structure. The adherents of the Arts and
+  Crafts movement proposed an architecture drawn from craft and from the dwelling of the English countryside, valuing
+  a return to manual work, the use of traditional materials and recourse to local know-how as an obstacle to standardisation.
+  The movement then reached the United States, where it was known through several styles — the Shingle Style on
+  the east coast, the Prairie Style in the centre, and the Craftsman Style on the west. Its popularity was largely
+  owed to the architectural catalogues and magazines distributed across North America from the beginning of the
+  20th century, although its ideology was poorly understood.
+related_buildings:
+- name: 18-20, rue Sainte-Ursule
+  fiche_id: 114
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=114
+- name: Église Sainte-Anne
+  fiche_id: 248
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=248
+- name: Maison Alexandre-Boivin
+  fiche_id: 1615
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1615
+- name: Maison Ernest-Paradis
+  fiche_id: 2030
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=2030
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/701/31.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

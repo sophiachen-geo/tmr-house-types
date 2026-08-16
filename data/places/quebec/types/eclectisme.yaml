@@ -1,0 +1,116 @@
+id: quebec.eclectisme
+place: quebec
+phase: p5
+name_en: Éclectisme (courant)
+name_fr: Éclectisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 403
+is_courant: true
+courant: Influence des styles historiques
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=403
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=403
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le mouvement éclectique peut être considéré comme le résultat d’un apport constant de styles qui se sont mis
+    en place tout au long du 19e siècle, période principalement associée au règne de la reine Victoria (1837-1901).
+    Il vise avant tout à produire des effets, inédits et pittoresques, sans souci de cohérence. Cette pratique artistique
+    est fondée sur la synthèse des styles pour en arriver à une architecture définie, c’est-à-dire à une œuvre menée
+    à terme. Entre 1875 et 1920, l’éclectisme est présent sur l’ensemble du territoire de la ville de Québec avec
+    les réalisations d’architectes tels que Joseph-Ferdinand Peachy, Staveley & Staveley, Georges-Émile Tanguay
+    et Elzéar Charest. Il est fortement associé aux bâtiments à usage ou à connotation religieuse, mais également
+    aux maisons bourgeoises ou à toutes autres constructions laissant paraître la richesse et le statut social du
+    propriétaire. Au fil du temps, certains bâtiments aux allures plus modestes peuvent bénéficier d’une superposition
+    stylistique en regard à leur ornementation d’origine. Il est donc possible qu’une maison néoclassique québécoise
+    soit dotée d’un garde-corps à motifs géométriques, d’une crête faîtière, d’un portail d’ordre classique et de
+    garnitures de bois découpées.
+  - 'L’éclectisme combine le vocabulaire architectural de plusieurs néo-styles qui s’inspirent eux-mêmes de l’architecture
+    médiévale, grecque, romane, gothique, classique ou baroque. Chaque œuvre est unique, puisque l’architecte ou
+    le constructeur s’appliquent à concevoir un bâtiment empreint d’originalité. Ce dernier présente habituellement
+    une composition d’ensemble asymétrique, complexe et imposante : un plan irrégulier avec des décrochés, divers
+    toits dont celui de forme conique ainsi que des façades articulées par des dômes, des avant-corps, des tourelles
+    ou des galeries. Afin d’augmenter l’effet visuel recherché, l’emploi de plusieurs couleurs et de matériaux,
+    de même que l’abondance de l’ornementation sont de mise. La mécanisation des procédés de fabrication dans le
+    domaine de la construction, à partir de la seconde moitié du 19e siècle, n’est pas étrangère à la surcharge
+    du décor. Celui-ci peut dorénavant être produit rapidement et à moindre coût dans des installations industrielles
+    comme les scieries et les fonderies.'
+  elements_caracteristiques:
+  - 'Composition issue de la synthèse des styles qui se sont mis en place tout au long du 19e siècle : caractère
+    complexe et imposant, emploi de plusieurs couleurs et matériaux et surabondance du décor; création d’effets
+    inédits et pittoresques sans souci de cohérence; conception d’une œuvre unique et originale ou superposition
+    stylistique du décor sur un bâtiment qui présentait une allure plus modeste à l’origine.'
+  - Plan irrégulier; volumes articulés.
+  - Deux à quatre niveaux d’occupation (1 étage ½ à 4 étages).
+  - Fondation en pierre visible hors sol.
+  - 'Murs : revêtement de pierre, de brique ou de bois.'
+  - Toit à deux ou à quatre versants droits, à deux versants brisés, à versants multiples ou asymétrique; pente
+    moyenne; revêtement d’ardoise ou de tôle traditionnelle. Toit plat (bassin ou à égout intérieur); revêtement
+    de membrane(s).
+  - Ouvertures rectangulaires ou en arc garnies d’arcs, de chambranles, de clefs, d’encadrements et de linteaux;
+    porte à panneau(x) avec ou sans vitrage surmontée d’une imposte et garnie d’un portail; fenêtres isolées, jumelées
+    ou groupées à battants et à grands carreaux ou à guillotine avec ou sans petit-bois; présence ou non de lucarnes.
+  - 'Saillies : avant-corps, balcon, dôme et perron; saillies coiffées de toits coniques : galerie tournante ou
+    non, tours et tourelles.'
+  - 'Ornements : aisseliers, chaînes d’angle, colonnes, consoles, corniches, entablements, épis, frontons, garnitures
+    de bois découpées, lambrequins, pignons, planches cornières, pilastres, piliers, retours d’équerre et terrasses
+    faîtières.'
+profile_note: 'A parent node of the thesaurus (a *courant*), not a building type: recorded so the source''s tree
+  can be read whole, but given no card and no page of its own. Its French is verbatim from the fiche; no English
+  five-column profile is written, because the node describes a family rather than a house. `tenure_plan` is set
+  to `mixed` because the schema requires a value and the family spans several.'
+blurb_en: 'A parent node of the thesaurus: the Éclectisme current, under which the City files its named house types.'
+origin_en: Le mouvement éclectique peut être considéré comme le résultat d’un apport constant de styles qui se sont
+  mis en place tout au long du 19e siècle, période principalement associée au règne de la reine Victoria (1837-1901).
+  Il vise avant tout à produire des effets, inédits et pittoresques, sans souci de cohérence. Cette pratique artistique
+  est fondée sur la synthèse des styles pour en arriver à une architecture définie, c’est-à-dire à une œuvre menée
+  à terme. Entre 1875 et 1920, l’éclectisme est présent sur l’ensemble du territoire de la ville de Québec avec
+  les réalisations d’architectes tels que Joseph-Ferdinand Peachy, Staveley & Staveley, Georges-Émile Tanguay et
+  Elzéar Charest. Il est fortement associé aux bâtiments à usage ou à connotation religieuse, mais également aux
+  maisons bourgeoises ou à toutes autres constructions laissant paraître la richesse et le statut social du propriétaire.
+  Au fil du temps, certains bâtiments aux allures plus modestes peuvent bénéficier d’une superposition stylistique
+  en regard à leur ornementation d’origine. Il est donc possible qu’une maison néoclassique québécoise soit dotée
+  d’un garde-corps à motifs géométriques, d’une crête faîtière, d’un portail d’ordre classique et de garnitures
+  de bois découpées.
+related_buildings:
+- name: 1165-1167, rue Saint-Jean
+  fiche_id: 147
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=147
+- name: Hôpital Saint-François d'Assise
+  fiche_id: 195
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=195
+- name: 965, avenue De Salaberry
+  fiche_id: 421
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=421
+- name: 967-969, avenue De Salaberry
+  fiche_id: 422
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=422
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/403/18.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

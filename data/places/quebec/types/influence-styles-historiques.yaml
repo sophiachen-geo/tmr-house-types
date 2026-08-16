@@ -1,0 +1,93 @@
+id: quebec.influence-styles-historiques
+place: quebec
+phase: p4
+name_en: The historical styles (1830-1930)
+name_fr: Influence des styles historiques
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influence des styles historiques »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-styles-historiques.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Les influences historiques apparaissent à Québec après le premier quart du XIXe siècle. Elles font référence
+    à une période de l’architecture empreinte d’effets romantiques et pittoresques qui est fortement liée au règne
+    de la reine Victoria (1837-1901), mais également à une société qui se transforme sous le phénomène de l'industrialisation.
+    Au cours de la seconde moitié au XIXe siècle, les chantiers maritimes et le commerce du bois laissent graduellement
+    place aux industries de la chaussure, de la tannerie ou du tabac. Cette période est marquée par les grands incendies
+    des faubourgs Saint-Roch, Saint-Jean et Saint-Sauveur, les premiers programmes d’urbanisme dont l’élargissement
+    et l’aménagement de la Grande Allée ainsi que les divers projets commémoratifs comme la création du Parc des
+    Champs-de-Bataille. Le paysage bâti de la ville s’en trouve transformé, puisque l’architecture est à la fois
+    tournée vers le passé et la mise en valeur de l’histoire, de même que vers l’avenir et les avancées technologiques.
+    Ces dernières reposent par exemple sur l’amélioration de la résistance au feu et de la portée des éléments structuraux
+    d’un bâtiment, et ce, à l’aide de la fonte, de l’acier, du verre et du béton. À partir de la seconde moitié
+    du XIXe siècle, intégré à l’Empire britannique, le Dominion (1867) connaît une expansion démographique et économique
+    importante. Cet essor se traduit par l’apparition de programmes architecturaux et le besoin accru de bâtiments.
+    Les architectes nouvellement arrivés de Grande-Bretagne et des États-Unis ainsi que les architectes locaux formés
+    au Séminaire de Québec, à partir de 1828, modifient la manière de construire. Ils ont la capacité d’élaborer
+    un projet sur papier en suivant des conventions précises, de par leurs connaissances théoriques plus poussées
+    que celles des maîtres d’œuvre issus des ateliers. Ils contribuent ainsi au dépassement de l’architecture traditionnelle
+    avec l’introduction et la diffusion de nouveaux styles venus d’Europe. Ces derniers sont souvent inspirés de
+    l’architecture des siècles précédents comme le Moyen Âge ou la Renaissance. Appelés Revivals ou néo-styles,
+    ces styles historiques empruntent des attributs architecturaux habituellement dévolus aux églises, cathédrales,
+    châteaux ou manoirs du passé. À Québec, ils relèvent d’une conception réservée aux bâtiments dont la monumentalité,
+    la fantaisie ou l’opulence cherche à être mise en évidence.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1830-1930.'
+blurb_en: One of the thesaurus's nine top-level currents, 1830-1930.
+origin_en: Les influences historiques apparaissent à Québec après le premier quart du XIXe siècle. Elles font référence
+  à une période de l’architecture empreinte d’effets romantiques et pittoresques qui est fortement liée au règne
+  de la reine Victoria (1837-1901), mais également à une société qui se transforme sous le phénomène de l'industrialisation.
+  Au cours de la seconde moitié au XIXe siècle, les chantiers maritimes et le commerce du bois laissent graduellement
+  place aux industries de la chaussure, de la tannerie ou du tabac. Cette période est marquée par les grands incendies
+  des faubourgs Saint-Roch, Saint-Jean et Saint-Sauveur, les premiers programmes d’urbanisme dont l’élargissement
+  et l’aménagement de la Grande Allée ainsi que les divers projets commémoratifs comme la création du Parc des Champs-de-Bataille.
+  Le paysage bâti de la ville s’en trouve transformé, puisque l’architecture est à la fois tournée vers le passé
+  et la mise en valeur de l’histoire, de même que vers l’avenir et les avancées technologiques. Ces dernières reposent
+  par exemple sur l’amélioration de la résistance au feu et de la portée des éléments structuraux d’un bâtiment,
+  et ce, à l’aide de la fonte, de l’acier, du verre et du béton. À partir de la seconde moitié du XIXe siècle, intégré
+  à l’Empire britannique, le Dominion (1867) connaît une expansion démographique et économique importante. Cet essor
+  se traduit par l’apparition de programmes architecturaux et le besoin accru de bâtiments. Les architectes nouvellement
+  arrivés de Grande-Bretagne et des États-Unis ainsi que les architectes locaux formés au Séminaire de Québec, à
+  partir de 1828, modifient la manière de construire. Ils ont la capacité d’élaborer un projet sur papier en suivant
+  des conventions précises, de par leurs connaissances théoriques plus poussées que celles des maîtres d’œuvre issus
+  des ateliers. Ils contribuent ainsi au dépassement de l’architecture traditionnelle avec l’introduction et la
+  diffusion de nouveaux styles venus d’Europe. Ces derniers sont souvent inspirés de l’architecture des siècles
+  précédents comme le Moyen Âge ou la Renaissance. Appelés Revivals ou néo-styles, ces styles historiques empruntent
+  des attributs architecturaux habituellement dévolus aux églises, cathédrales, châteaux ou manoirs du passé. À
+  Québec, ils relèvent d’une conception réservée aux bâtiments dont la monumentalité, la fantaisie ou l’opulence
+  cherche à être mise en évidence.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-styles-historiques.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

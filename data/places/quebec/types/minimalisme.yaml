@@ -1,0 +1,108 @@
+id: quebec.minimalisme
+place: quebec
+phase: p6
+name_en: Minimalisme
+name_fr: Minimalisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 903
+is_residential: false
+courant: Influences contemporaines
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=903
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=903
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - 'Le minimalisme en architecture découle de l’Art minimal, un mouvement artistique se voulant en réaction à l’expressionnisme
+    abstrait. Il prend plus spécifiquement forme au cours des années 1960, suite aux réflexions de deux architectes
+    : l’autrichien Adolf Loos avec l’essai Ornement et crime (Ornament und Verbrechen) et l’allemand naturalisé
+    américain Ludwig Mies van der Rohe avec la formule Less is more (moins, c’est plus). Il rejette l’ornementation
+    et tous les éléments superflus, afin de ne miser que sur l’idée, l’espace et l’esthétique du bâtiment. La réalisation
+    de ce dernier s’effectue donc avec retenue et sobriété. Présent à partir des années 1980 à Québec, le minimalisme
+    se trouve sur l’ensemble du territoire de la ville.'
+  - Le bâtiment issu du mouvement minimaliste se caractérise par une économie de concepts, de formes et de matériaux,
+    ce qui résulte en une utilisation d’un minimum de moyens pour créer un maximum d’effet. Il présente une géométrie
+    épurée et simplifiée, un raffinement des proportions ainsi qu’une pureté plastique pouvant nécessiter des technologies
+    de pointe et des techniques de construction complexes. Les matériaux riches, nobles et de qualité sont associés
+    à une mise en œuvre impeccable et dépouillée, en plus de mettre en valeur les composantes fondamentales du bâtiment
+    comme la toiture, les poteaux ou les fenêtres. Cette architecture se veut également intemporelle, puisqu’elle
+    cherche l’abstraction. À l’aide du traitement de la lumière, elle configure par exemple l’espace pour le stimuler
+    ou le rendre irréel.
+  - Malgré le fait que le minimalisme ne soit pas associé à un budget limité, il se rapproche de l’architecture
+    low-tech (basse technologie) et de l’architecture low-cost (à bon marché) qui apparaissent en quelque sorte
+    dans son sillage. Les contraintes économiques d’un projet tendent par conséquent à aller vers l’essentiel, et
+    ce, en terme de contribution à l’espace et d’adéquation avec le milieu. En usant d’originalité et d’inventivité,
+    un bâtiment peut être réalisé avec des matériaux industriels ou recyclés, des techniques de construction locale
+    efficientes et des procédés qui maximisent l’énergie, la surface d’occupation ou la qualité du milieu environnant.
+  elements_caracteristiques:
+  - 'Composition abstraite issue de l’Art minimal : moins, c’est plus (less is more), caractère épuré, raffinement
+    des proportions, pureté plastique, importance accordée à l’idée, l’espace et l’esthétique du bâtiment et absence
+    d’ornementation ou ornementation permettant la mise en valeur des matériaux; mouvement qui se rapproche de l’architecture
+    low-tech (basse technologie) et low-cost (à bon marché).'
+  - Volume simple.
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de béton, de pierre, de bois, de métal, de métal et de verre avec le mur rideau
+    ou d’enduit (stuc); structure en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur) ou plat aménagé en terrasse; revêtement de membrane(s). Toit plat à
+    faible pente (à égout extérieur); pente très faible (moins de 15°); revêtement de bardeau d’asphalte ou de membrane(s).
+  - Porte à panneau avec vitrage, pleine ou entièrement vitrée; fenêtres avec vitrage clair, teinté, réfléchissant,
+    dépoli ou à motifs.
+  - 'Saillies : galerie, marquise, perron et portail.'
+  - 'Ornements utilisés pour mettre en valeur la lumière et les matériaux : jeux d’ombres et de lumière et composantes
+    de base du bâtiment avec la fondation, les éléments structuraux, les murs, les cloisons, le toit et les systèmes
+    structuraux, mécaniques et électriques.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are community centres and institutional pavilions. Recorded so the source's list
+  can be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim
+  from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are community centres
+  and institutional pavilions.'
+origin_en: 'Le minimalisme en architecture découle de l’Art minimal, un mouvement artistique se voulant en réaction
+  à l’expressionnisme abstrait. Il prend plus spécifiquement forme au cours des années 1960, suite aux réflexions
+  de deux architectes : l’autrichien Adolf Loos avec l’essai Ornement et crime (Ornament und Verbrechen) et l’allemand
+  naturalisé américain Ludwig Mies van der Rohe avec la formule Less is more (moins, c’est plus). Il rejette l’ornementation
+  et tous les éléments superflus, afin de ne miser que sur l’idée, l’espace et l’esthétique du bâtiment. La réalisation
+  de ce dernier s’effectue donc avec retenue et sobriété. Présent à partir des années 1980 à Québec, le minimalisme
+  se trouve sur l’ensemble du territoire de la ville.'
+related_buildings:
+- name: Résidence Notre-Dame-de-Foy des Soeurs du Bon-Pasteur / Résidence et chapelle
+  fiche_id: 14345
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=14345
+- name: Centre communautaire Ferland
+  fiche_id: 201991
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=201991
+- name: Centre des loisirs Notre-Dame-de-Foy
+  fiche_id: 202357
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=202357
+- name: Pavillon Delphis-Brochu
+  fiche_id: 209469
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=209469
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/903/51.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

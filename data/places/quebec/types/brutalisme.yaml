@@ -1,0 +1,105 @@
+id: quebec.brutalisme
+place: quebec
+phase: p6
+name_en: Brutalisme
+name_fr: Brutalisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 806
+is_residential: false
+courant: Influences modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=806
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=806
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le mouvement brutaliste marque la fin du modernisme au Québec. D’abord apparu au Royaume-Uni, puis en France
+    dans les années 1950, ce mouvement est né du désir de certains architectes, dont Le Corbusier, de créer des
+    compositions plus expressives et monumentales. Après avoir connu une certaine popularité aux États-Unis, le
+    brutalisme atteint le Québec à la fin des années 1960. À cette époque, les bouleversements de la Révolution
+    tranquille engendrent des besoins en écoles polyvalentes, en immeubles de bureaux et en édifices liés aux sports
+    et à la culture. Les bâtiments brutalistes se caractérisent par l’expression de leur volume massif et par la
+    texture des surfaces. Leur forme est traitée comme une sculpture dans la ville qui est modelée selon les besoins.
+    Plutôt refermés sur eux-mêmes, les édifices issus du brutalisme possèdent souvent peu d’ouvertures et misent
+    plutôt sur les jeux d’ombres et de lumières formés par leur traitement expressif pour rythmer les façades.
+  - Le béton est l’un des matériaux de prédilection de l’architecture moderne. La recherche d’expressivité de ce
+    matériau atteint son paroxysme dans les œuvres modernes des années 1960 et 1970. Ce matériau, qui a révolutionné
+    l’architecture au 20e siècle, est très polyvalent. Son état liquide lorsqu’il est préparé permet de lui donner
+    la forme voulue grâce aux coffrages dans lesquels il est moulé en attendant son durcissement. Les architectes
+    modernes ont donc appris à « sculpter » le béton pour lui donner des formes arrondies ou orthogonales, minces
+    ou massives, lisses ou texturées. Les surfaces peuvent demeurer brutes en portant les marques des coffrages
+    ou être travaillées par la suite en les martelant ou en faisant éclater leurs arêtes. Le béton peut être coulé
+    sur place ou préfabriqué en usine sous la forme de panneaux qui sont ensuite assemblés sur le chantier. Bref,
+    il n’est pas surprenant que le béton ait été si populaire auprès des créateurs de bâtiments modernes tellement
+    les possibilités qu’il offre sont nombreuses.
+  elements_caracteristiques:
+  - 'Composition issue de la doctrine fonctionnaliste et du mouvement expressionniste : caractère monumental et
+    rationnel, geste brutal se répercutant en un objectif formel, apparence brute des matériaux, visibilité de l’infrastructure
+    technique et façades aux surfaces texturées ; création d’un effet de masse.'
+  - Assemblage de volumes.
+  - Fondation en béton.
+  - 'Murs sans finition et laissés au naturel : revêtement de brique ou de métal et de verre avec le mur rideau,
+    mais généralement de béton; structure en acier, mais généralement en béton armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Ouvertures nombreuses; porte à panneau avec vitrage, pleine ou entièrement vitrée.
+  - 'Saillies : marquise, perron, portail et portique.'
+  - 'Ornements, à l’extérieur et parfois même à l’intérieur du bâtiment, utilisés pour mettre en valeur les matériaux
+    et les systèmes techniques : surfaces striées, coupées, cassées, cannelées, martelées et nervurées et systèmes
+    structuraux, mécaniques et électriques.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a church, a theatre and government towers. Recorded so the source's list can
+  be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim
+  from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a church, a theatre
+  and government towers.'
+origin_en: Le mouvement brutaliste marque la fin du modernisme au Québec. D’abord apparu au Royaume-Uni, puis en
+  France dans les années 1950, ce mouvement est né du désir de certains architectes, dont Le Corbusier, de créer
+  des compositions plus expressives et monumentales. Après avoir connu une certaine popularité aux États-Unis, le
+  brutalisme atteint le Québec à la fin des années 1960. À cette époque, les bouleversements de la Révolution tranquille
+  engendrent des besoins en écoles polyvalentes, en immeubles de bureaux et en édifices liés aux sports et à la
+  culture. Les bâtiments brutalistes se caractérisent par l’expression de leur volume massif et par la texture des
+  surfaces. Leur forme est traitée comme une sculpture dans la ville qui est modelée selon les besoins. Plutôt refermés
+  sur eux-mêmes, les édifices issus du brutalisme possèdent souvent peu d’ouvertures et misent plutôt sur les jeux
+  d’ombres et de lumières formés par leur traitement expressif pour rythmer les façades.
+related_buildings:
+- name: Église Notre-Dame-de-Foy
+  fiche_id: 204
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=204
+- name: Grand Théâtre de Québec
+  fiche_id: 5914
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=5914
+- name: Édifice Marie-Guyart (Tour)
+  fiche_id: 6050
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=6050
+- name: Édifice Marie-Guyart / Aile Louis-Alexandre Tachereau et Aile Saint-Amable (Basilaire)
+  fiche_id: 6107
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=6107
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/806/47.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

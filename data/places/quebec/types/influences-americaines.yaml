@@ -1,0 +1,61 @@
+id: quebec.influences-americaines
+place: quebec
+phase: p5
+name_en: American influences (1875-1950)
+name_fr: Influences américaines
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+is_courant: true
+courant: null
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, courant « Influences américaines »
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-americaines.aspx
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Dès la fin du XIXe siècle, les concepts et les théories venus des États-Unis marquent le paysage bâti à travers
+    l’Amérique. Divers phénomènes comme la standardisation des matériaux, la mécanisation du travail, l’assemblage
+    d’éléments préfabriqués, de même que la diffusion de plans types de maisons par le biais de catalogues et de
+    revues à grande échelle vont influencer notre architecture. À Québec, l’essor économique et la croissance démographique
+    sont directement liés à l’expansion et à la densification de la ville, ce qui entraîne des changements à la
+    construction des bâtiments et aux règles d’urbanisme.
+profile_note: 'One of the nine top-level currents of the thesaurus — a landing page, not a thesaurus node, so it
+  carries no tid and no Éléments caractéristiques list. Recorded so the nine-current tree can be read whole and
+  checked against docs_tableau_styles.pdf; given no card and no page of its own. Its French is the landing page''s
+  own introduction, verbatim. Period band: 1875-1950.'
+blurb_en: One of the thesaurus's nine top-level currents, 1875-1950.
+origin_en: Dès la fin du XIXe siècle, les concepts et les théories venus des États-Unis marquent le paysage bâti
+  à travers l’Amérique. Divers phénomènes comme la standardisation des matériaux, la mécanisation du travail, l’assemblage
+  d’éléments préfabriqués, de même que la diffusion de plans types de maisons par le biais de catalogues et de revues
+  à grande échelle vont influencer notre architecture. À Québec, l’essor économique et la croissance démographique
+  sont directement liés à l’expansion et à la densification de la ville, ce qui entraîne des changements à la construction
+  des bâtiments et aux règles d’urbanisme.
+related_buildings: null
+photos:
+- file: null
+  source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/influences-americaines.aspx
+  credit: © Ville de Québec
+  licence: permission required
+  kind: placeholder

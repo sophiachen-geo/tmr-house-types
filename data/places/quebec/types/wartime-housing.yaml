@@ -1,0 +1,145 @@
+id: quebec.wartime-housing
+place: quebec
+phase: p6
+name_en: Wartime Housing house (Cape Cod)
+name_fr: Wartime housing
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- wartime-housing-prefab
+styles:
+- cape-cod
+- wartime-housing
+style_label: null
+tenure_plan: single-family
+storeys: 1–1.5
+roof:
+  form: gabled
+  pitch_deg: 38
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- asbestos-cement-shingle
+- wood-clapboard
+roofing: asphalt-shingle-dark
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 604
+phase_confidence: verified
+courant: Cape Cod
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=604
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=604
+quartiers: null
+profile:
+  siting_landscape:
+  - Concentration of houses marked by tight subdivision and a regular siting.
+  - Between 1942 and 1945 Wartime Housing Limited put up single-family houses across the country, notably in the
+    quarters and suburbs of Québec.
+  - The sectors where Cape Cod dwellings are found are marked by tight subdivision and regular siting.
+  massing:
+  - 'Composition drawn from the English house of the colonial period in New England, and belonging to the line of
+    industrial vernacular architecture: an affordable single-family house, built quickly and without symmetry; originally
+    prefabricated and assembled on site without a footing.'
+  - Over the years the house may be renovated, enlarged, raised by a storey, or given a dormer.
+  - Eaveless roof; medium pitch, between 30° and 45°.
+  - 'Projection: perron.'
+  - The attic is sometimes habitable, though roof pitches vary considerably from one construction to another.
+  articulation:
+  - The Cape Cod house contains few ornamented details.
+  openings:
+  - Panelled door with glazing, or solid.
+  - Windows single, paired or grouped, sashes with or without glazing bars.
+  - Dormers present or not, including the central gabled or shed dormer.
+  materials:
+  - 'Walls: brick or asbestos shingle cladding; gables of the side walls: cladding the same as, or different from,
+    that of the walls.'
+  - Concrete foundation.
+  - Asphalt shingle or profiled sheet-metal roof covering.
+  - The materials used had to be non-essential to the war industry, light enough to handle on site, and among the
+    cheapest available.
+profile_fr:
+  description:
+  - Le style Cape Cod
+  - Les origines de l’habitation de style Cape Cod remontent à l’époque coloniale en Nouvelle-Angleterre et s’inscrivent
+    dans la lignée de l’architecture vernaculaire industrielle du 20e siècle. La maison de style Cape Cod est généralement
+    basse, souvent d’un étage principal et munie d’un toit à pignon, d’une cheminée centrale et contenant peu de
+    détails ornementés. À l’origine, la maison de ce type est préfabriquée et assemblée sur place. Le comble est
+    parfois habitable, même si les pentes de toit varient considérablement d’une construction à l’autre. Les secteurs
+    où on trouve les habitations de type Cape Cod se caractérisent par un lotissement serré et une implantation
+    régulière. La déclinaison la plus fréquente à Québec de ce style est la maison de type « Wartime Housing ».
+  - Wartime Housing
+  - Lorsque la Wartime Housing Limited est créée en 1942 par le gouvernement fédéral canadien, la nouvelle société
+    a pour mandat de loger rapidement et de manière économique les familles de soldats et les ouvriers de l'industrie
+    de la guerre. Entre 1942-1945, elle s’occupe donc d’ériger des maisons unifamiliales à travers le pays, notamment
+    dans les quartiers ou les banlieues de Québec. Devenue la Société centrale d'hypothèques et de logements (SCHL)
+    en 1946, elle poursuit ses efforts après le deuxième conflit mondial, puisque le retour des combattants entraîne
+    une autre campagne de construction de maisons abordables.
+  - La maison Wartime Housing s’inspire de l’habitation anglaise remontant à l’époque coloniale en Nouvelle-Angleterre,
+    soit celle issue du style Cape Cod, en plus de s’inscrire dans la lignée de l'architecture vernaculaire industrielle
+    du 20e siècle. À l’origine, ce type est préfabriqué et assemblé sur place sans solage. Le comble est parfois
+    habitable, même si les pentes de toit varient considérablement d’une construction à l’autre. Les matériaux employés
+    se doivent d’être non essentiels à l’industrie de la guerre, légers pour faciliter la manipulation sur le chantier
+    et compter parmi les moins coûteux. Le revêtement peut être en clin de bois ou en bardeau d’amiante-ciment tandis
+    que la couverture en bardeau d’asphalte commence à être employée. Le fenêtrage est disposé de façon irrégulière
+    et asymétrique, les fenêtres à guillotine sont à petits carreaux et les ornements sont limités à des chambranles
+    autour des ouvertures. Au fil des années, la plupart des maisons Wartime Housing seront posées sur un solage,
+    mais elles peuvent également être rénovées, agrandies, surhaussées d’un étage ou munies d’une lucarne. Les secteurs
+    où se concentre ce type se caractérisent par un lotissement serré et une implantation régulière, ils préfigurent
+    la banlieue avec la venue du bungalow.
+  elements_caracteristiques:
+  - 'Composition qui s’inspire de la maison anglaise de l’époque coloniale en Nouvelle-Angleterre et qui s’inscrit
+    dans la lignée de l''architecture vernaculaire industrielle : maison unifamiliale abordable, construite rapidement
+    et sans symétrie; à l’origine, type préfabriqué et assemblé sur place sans solage.'
+  - Au fil des années, la maison peut être rénovée, agrandie, surhaussée d’un étage ou munie d’une lucarne.
+  - Fondation en béton.
+  - 'Murs : revêtement de brique ou de bardeau d’amiante; pignons des murs latéraux : revêtement identique ou différent
+    de celui des murs.'
+  - Toit sans avant-toit; pente moyenne (entre 30° et 45°); revêtement de bardeau d’asphalte ou de tôle profilée.
+  - Porte à panneau avec vitrage ou pleine; fenêtres isolées, jumelées ou groupées à guillotine avec ou sans à petit-bois;
+    présence ou non de lucarnes dont la lucarne centrale à pignon ou en appentis.
+  - 'Saillie : perron.'
+  - Concentration de maisons caractérisée par un lotissement serré et une implantation régulière.
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=604), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'A federal housing programme rendered as a house: a small eaveless gabled box, prefabricated and set down
+  without a footing, built of whatever the war industry did not need, in tightly subdivided sectors laid out on
+  a regular grid. Most have since been renovated, raised or given a dormer.'
+origin_en: When Wartime Housing Limited was created in 1942 by the Canadian federal government, the new company's
+  mandate was to house the families of soldiers and the workers of the war industry quickly and economically. Between
+  1942 and 1945 it put up single-family houses across the country, notably in the quarters and suburbs of Québec.
+  Having become the Central Mortgage and Housing Corporation in 1946, it carried on after the second conflict, since
+  the return of the combatants brought another campaign of affordable house-building. The Wartime Housing house
+  draws on the English dwelling of the colonial period in New England — the Cape Cod style — and belongs to the
+  line of 20th-century industrial vernacular architecture.
+related_buildings:
+- name: Villa Colette
+  fiche_id: 1807
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=1807
+- name: Maison Antonio-Houde
+  fiche_id: 3328
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=3328
+- name: Maison Bernier-Robichaud
+  fiche_id: 9933
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=9933
+- name: 1970-1980, rue de la Bastille
+  fiche_id: 9940
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=9940
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/604/38.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

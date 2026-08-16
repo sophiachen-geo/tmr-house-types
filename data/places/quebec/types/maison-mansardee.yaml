@@ -1,0 +1,138 @@
+id: quebec.maison-mansardee
+place: quebec
+phase: p4
+name_en: Mansard-roofed house
+name_fr: Maison mansardée
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical:
+- mansard-house-2st
+styles:
+- second-empire
+style_label: null
+tenure_plan: single-family
+storeys: 2–4
+roof:
+  form: mansard
+  pitch_deg: 75
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+- wood-shingle
+- asbestos-cement-shingle
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- SP-VQ
+conservation: []
+conservation_fr: null
+tid: 402
+phase_confidence: verified
+courant: Second Empire
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=402
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=402
+quartiers: null
+profile:
+  siting_landscape:
+  - It leaves its mark on the Québécois landscape between 1860 and 1920, in rural, semi-urban and urban settings
+    alike.
+  - At Québec this type densifies the built fabric of the faubourgs in particular, since a two-slope roof was often
+    replaced by a lit attic that became a full living space.
+  - In rural settings it is common to find a gallery laid out at the front and a summer kitchen at the side or rear
+    of the main body.
+  massing:
+  - 'Composition: simple, modest decoration, with or without symmetry, and a silhouette giving off a certain elegance
+    but without the monumental character; a type able to densify the urban fabric and seen as the vernacular house
+    of the Second Empire style.'
+  - Rectangular, square or L-shaped plan.
+  - 'Mansard (broken) roof with straight or curved terrasson and brisis: two-slope, two-slope with half-hips, or
+    four-slope. False-mansard roof with straight or curved brisis; low pitch for the terrasson, under 30°, and very
+    steep for the brisis, over 75°; traditional sheet-metal covering.'
+  - 'Projections: gallery, wrapping or not, sheltered by the curved eave or by an awning, logettes, oriels, perron
+    and fire-break walls; secondary bodies: summer kitchen and porch.'
+  - Two to four occupied levels; the brisis is pierced by dormers.
+  articulation:
+  - 'Ornaments: brackets, corbels, cut-out woodwork, lambrequins and corner boards.'
+  - The decorative repertoire, drawn from French classical eclecticism, stays simple and modest.
+  - The roof edge may be dressed with a cornice, corbels or consoles.
+  openings:
+  - Rectangular or arched openings picked out by chambranles.
+  - Sash or casement windows divided into four or six panes.
+  - The brisis is pierced by dormers, which light the attic storey.
+  materials:
+  - 'Walls: brick, wood board, wood shingle or asbestos shingle cladding.'
+  - Roof covering of traditional sheet metal.
+profile_fr:
+  description:
+  - La maison mansardée ou à toit brisé peut être comprise comme la version vernaculaire de la maison de style Second
+    Empire. Bien qu’elle n’en possède pas la monumentalité et la prestance, sa silhouette dégage une certaine élégance.
+    Elle est popularisée aux États-Unis par le biais de catalogues d’architecture dont les variations des pentes
+    et l’évasement des toitures deviennent des particularités régionales. Elle laisse sa marque dans le paysage
+    québécois entre 1860 et 1920, tant en milieu rural, semi-urbain et urbain. À Québec, ce type densifie notamment
+    le cadre bâti des faubourgs, puisqu’une toiture à deux versants est souvent remplacée par un comble éclairé
+    qui devient un espace habitable complet.
+  - La maison mansardée présente généralement une symétrie d’ensemble, un plan rectangulaire, deux à quatre niveaux
+    d’occupation et une toiture mansardée à deux versants formés d’un terrasson dans la partie supérieure et d’un
+    brisis percé de lucarnes dans la partie inférieure. Le recouvrement des murs est en brique ou en bois et celui
+    de la toiture est en tôle traditionnelle. Le répertoire décoratif, inspiré de l’éclectisme classique français,
+    demeure simple et modeste. Les ouvertures rectangulaires ou en arc sont par exemple soulignées par des chambranles
+    tandis que la bordure du toit peut être ornée par une corniche, des corbeaux ou des consoles. Les fenêtres sont
+    quant à elles à guillotine ou à battants divisés en quatre ou en six carreaux.
+  - 'Plusieurs variantes de la maison mansardée sont possibles : une maison de plan carré peut ainsi être coiffée
+    d’une toiture mansardée à quatre versants avec larmiers débordants, alors qu’une maison de plan rectangulaire
+    peut être surmontée d’une toiture mansardée à deux versants avec demi-croupes ou d’une toiture à fausse-mansarde.
+    En milieu rural, il est commun de retrouver une galerie aménagée en façade et une cuisine d’été sur le côté
+    ou à l’arrière du corps principal.'
+  elements_caracteristiques:
+  - 'Composition : décor simple et modeste, avec ou sans symétrie et silhouette dégageant une certaine élégance,
+    mais sans le caractère monumental; type pouvant densifier le tissu urbain et perçu comme la maison vernaculaire
+    de la maison de style Second Empire.'
+  - Plan rectangulaire, carré ou en « L ».
+  - 'Toit à terrasson et à brisis (mansardé ou brisé) droits ou recourbés : à deux versants, à deux versants avec
+    demi-croupes ou à quatre versants. Toit à fausse-mansarde avec brisis droits ou recourbés ; pente faible pour
+    le terrasson (moins de 30°) et très forte pour le brisis (plus de 75°); revêtement de tôle traditionnelle.'
+  - 'Murs : revêtement de brique, de planche de bois, de bardeau de bois, ou de bardeau d’amiante.'
+  - 'Saillies : galerie tournante ou non et protégée par l’avant-toit recourbé ou par un auvent, logettes, oriels,
+    perron et murs coupe-feu; corps secondaires : cuisine d’été et porche.'
+  - 'Ornements : aisseliers, corbeaux, garnitures de bois découpées, lambrequins et planches cornières.'
+profile_note: 'Encoded from the City''s thesaurus fiche for this node (tid=402), crawled 2026-08-16. The French
+  beneath the table is the fiche''s own text: « Description (source) » is its history-and-description paragraphs
+  and « Éléments caractéristiques (source) » its bullet list, both verbatim. Three normalisations are applied to
+  that French and are the only changes made to it: hyphenation broken by a line wrap is rejoined, the newlines the
+  CMS emits mid-sentence are collapsed, and HTML entities are resolved; the source''s own typography, including
+  its U+2019 apostrophes, is left alone. The five English columns translate the bullet list, which the thesaurus
+  orders composition → volumétrie → matériaux → toit → ouvertures → saillies → ornements; the siting row is drawn
+  from the fiche''s prose, since the bullet list does not cover siting. Where the fiche is silent the field is null
+  rather than inferred from the drawing. The thesaurus carries no conservation guidance of any kind, so `conservation`
+  is empty here by fact and not by omission.'
+blurb_en: 'The Second Empire without the monumentality: the same broken roof, the same dormers cut into a near-vertical
+  brisis, but on a plain house, popularised through American plan catalogues. At Québec it is a densification device
+  — swap a two-slope roof for a mansard and the attic becomes a whole extra floor.'
+origin_en: The mansard or broken-roofed house can be understood as the vernacular version of the Second Empire style.
+  Though it has neither its monumentality nor its presence, its silhouette gives off a certain elegance. It was
+  popularised in the United States through architectural catalogues, in which the variations of pitch and the flaring
+  of the roofs became regional particularities. It leaves its mark on the Québécois landscape between 1860 and 1920,
+  in rural, semi-urban and urban settings, and at Québec it densifies the built fabric of the faubourgs in particular.
+related_buildings:
+- name: Maison Marguerite-Boivin
+  fiche_id: 380
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=380
+- name: Maison Léandre-Renaud
+  fiche_id: 396
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=396
+- name: 171-173, rue Saint-Jean
+  fiche_id: 406
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=406
+- name: 400-422, rue Prévost
+  fiche_id: 524
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=524
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/402/16.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder

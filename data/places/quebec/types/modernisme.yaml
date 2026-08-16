@@ -1,0 +1,97 @@
+id: quebec.modernisme
+place: quebec
+phase: p6
+name_en: Modernisme
+name_fr: Modernisme
+source_generation: Ville de Québec, Thésaurus du patrimoine bâti (fiches de styles architecturaux), consulté 2026-08-16
+canonical: []
+styles: []
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: []
+conservation: []
+conservation_fr: null
+tid: 805
+is_residential: false
+courant: Influences modernes
+source_ref: Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=805
+source_url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/thesaurus.aspx?tid=805
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - Le modernisme ou mouvement moderne peut être vu comme l’aboutissement des révolutions sociales et politiques
+    dynamisé depuis la Première Guerre mondiale, ou encore comme une résultante du développement technique qui a
+    contribué à la révolution industrielle. Cette volonté de changement et cette remise en question naissent en
+    réaction à l’architecture historiciste et au style Beaux-Arts. Le renouvellement du langage architectural emprunte
+    ainsi une démarche technique et fonctionnaliste où les formes géométriques pures sont libérées du passé. Le
+    modernisme fait sa marque en Europe au cours années 1920, aux États-Unis durant les années 1930 et finalement,
+    au Québec entre les années 1930 et 1950. Bien qu’associé à l’architecture résidentielle de la ville de Québec
+    à ses débuts, il représente en fait l’apparition des premières constructions modernes sur son territoire.
+  - Les bâtiments issus du modernisme misent sur l’horizontalité ainsi que sur la définition et l’agencement des
+    volumes. Ces derniers expriment clairement la fonction ou le programme de l’édifice, soit la distribution des
+    espaces intérieurs. L’emploi de techniques de construction et de matériaux nouveaux résulte en une composition
+    dépouillée qui présente généralement des toits plats, des façades aux surfaces lisses et uniformes, d’abondantes
+    ouvertures, des fenêtres en coin et en bandeau, de même que des jeux de plans verticaux et horizontaux. Aucune
+    ornementation superflue n'est par ailleurs ajoutée afin d'apprécier l'expressivité des matériaux. En architecture
+    résidentielle, le garage fait souvent partie intégrante de la maison.
+  elements_caracteristiques:
+  - 'Composition qui rompt avec les formes du passé et qui se veut en réaction à l’architecture historiciste et
+    au style Beaux-Arts : horizontalité, caractère dépouillé, démarche technique et fonctionnaliste, façades aux
+    surfaces lisses et uniformes et l’extérieur rend compte de l’organisation intérieure du bâtiment.'
+  - Assemblage de volumes et jeux de plans verticaux et horizontaux.
+  - Fondation en béton.
+  - 'Murs : revêtement de brique, de béton, de pierre, de bois, de métal ou de métal et de verre avec le mur rideau;
+    structure en bois, en acier ou en béton armé.'
+  - Toit plat (bassin ou à égout intérieur); revêtement de membrane(s).
+  - Ouvertures nombreuses; porte à panneau avec vitrage, pleine ou entièrement vitrée; fenêtres en coin ou en bandeau.
+  - 'Saillies : galerie, marquise, perron, portail et portique.'
+profile_note: A style the thesaurus applies to non-residential buildings — the fiche carries no storey-count-for-habitation
+  bullet and its linked exemplars are a restaurant, a community centre and churches. Recorded so the source's list
+  can be read whole, but out of this site's residential scope, so it gets no card and no page. Its French is verbatim
+  from the fiche.
+blurb_en: 'A thesaurus style outside this site''s residential scope: its linked exemplars are a restaurant, a community
+  centre and churches.'
+origin_en: Le modernisme ou mouvement moderne peut être vu comme l’aboutissement des révolutions sociales et politiques
+  dynamisé depuis la Première Guerre mondiale, ou encore comme une résultante du développement technique qui a contribué
+  à la révolution industrielle. Cette volonté de changement et cette remise en question naissent en réaction à l’architecture
+  historiciste et au style Beaux-Arts. Le renouvellement du langage architectural emprunte ainsi une démarche technique
+  et fonctionnaliste où les formes géométriques pures sont libérées du passé. Le modernisme fait sa marque en Europe
+  au cours années 1920, aux États-Unis durant les années 1930 et finalement, au Québec entre les années 1930 et
+  1950. Bien qu’associé à l’architecture résidentielle de la ville de Québec à ses débuts, il représente en fait
+  l’apparition des premières constructions modernes sur son territoire.
+related_buildings:
+- name: Restaurant L'Esplanade
+  fiche_id: 26
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=26
+- name: Centre communautaire Fernand-Dufour
+  fiche_id: 202
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=202
+- name: Église de Saint-Mathieu
+  fiche_id: 207
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=207
+- name: Église Saint-Benoît-Abbé
+  fiche_id: 208
+  url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=208
+photos:
+- file: null
+  source_url: https://imagespatrimoine.ville.quebec.qc.ca/thesaurus/805/39.jpg
+  credit: 'Illustration : Charles-Étienne Brochu, 2022 — © Ville de Québec'
+  licence: permission required
+  kind: placeholder
