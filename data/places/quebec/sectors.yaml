@@ -1,0 +1,58 @@
+- id: vieux-quebec
+  code: SP-VQ
+  name_fr: Site patrimonial du Vieux-Québec
+  value: declared-site
+  summary_en: >-
+    Decreed 1963 and enlarged 1964; about 135 hectares; "Il comprend près de 1 400 bâtiments
+    construits à partir du XVIIe siècle" (RPCQ id 93523). Inscribed on the UNESCO World Heritage List
+    on 3 December 1985 — per the City, "Québec a été la première agglomération urbaine située au nord
+    du Mexique à recevoir cet honneur." Perimeter roughly the St. Lawrence, rues Saint-André and
+    Saint-Paul, the Palais de l'intendant / îlot Fleurie, rue Saint-Vallier Est and côte d'Abraham;
+    includes the walled Haute-Ville plus parts of Basse-Ville, Cap-Blanc and Saint-Roch. Residential
+    fabric: "des immeubles d'inspiration française, des édifices d'esprit palladien et néoclassique
+    ainsi que des bâtiments d'influence plus éclectique."
+  plan_de_conservation: "MCC, projet de plan de conservation, March 2019"
+  source: RPCQ id 93523
+
+- id: sillery
+  code: SP-SIL
+  name_fr: Site patrimonial de Sillery
+  value: declared-site
+  summary_en: >-
+    Declared 5 February 1964, Québec's first declared site; a linear territory about 3.5 km long,
+    roughly 224 hectares, with about 350 buildings and three classified immovables. Three topographic
+    zones — terrasse fluviale, escarpement, sommet — carrying workers' houses along the chemin du
+    Foulon and the côte de Sillery, the 19th-century villas of the "barons du bois" at the summit,
+    religious-community estates, trapezoidal and irregular parcels, and heavy tree cover.
+  plan_de_conservation: "MCC, plan de conservation, 2013"
+  source: RPCQ id 93522
+
+- id: beauport
+  code: SP-BEA
+  name_fr: Site patrimonial de Beauport
+  value: declared-site
+  summary_en: Declared 1964 and enlarged 1985; residential fabric organised along the ancien chemin du Roy.
+  plan_de_conservation: "MCC, plan de conservation, 2016"
+  source: null
+
+- id: charlesbourg
+  code: SP-CHA
+  name_fr: Site patrimonial de Charlesbourg (Trait-Carré)
+  value: declared-site
+  summary_en: >-
+    "Une superficie de 24 hectares… structuré selon un plan radial… un carré central d'environ
+    8,5 hectares (25 arpents), délimité par Le Trait-Carré Est et Le Trait-Carré Ouest, et des lots…
+    trapézoïdale qui rayonnent" (RPCQ id 93524).
+  plan_de_conservation: "MCC, plan de conservation, 2016 (dir. Sylvain Lizotte; réd. Émilie Deschênes, 121 p.); Commission des biens culturels, Étude de caractérisation, April 2005"
+  source: RPCQ id 93524
+  note: "Declaration year given as 1965 by secondary sources — verify the decree year in the RPCQ legal field before publishing."
+
+- id: secteurs-cucq
+  code: CUCQ
+  name_fr: Secteurs assujettis à la Commission d'urbanisme et de conservation de Québec
+  value: review-jurisdiction
+  summary_en: >-
+    Not a heritage designation but a permit-review jurisdiction: within these sectors no permit or
+    certificate issues without CUCQ approval under R.V.Q. 1324. Encode as an overlay, not a heritage
+    ranking; extract the sector list from secteurs_cucq.aspx.
+  source: null

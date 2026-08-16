@@ -1,0 +1,69 @@
+id: quebec
+name_en: Québec City
+name_fr: Ville de Québec
+sections: [historic-core, borough-vernacular]
+region: Capitale-Nationale
+founded: 1608
+settlement_mode: colonial capital, then port-industrial city with faubourgs and a postwar suburban belt
+governing_instruments:
+  - kind: municipal-commission
+    title: >-
+      Commission d'urbanisme et de conservation de Québec (CUCQ), in existence since 1925 and unique
+      in Québec: in "secteurs assujettis" no construction permit or certificate is issued without its
+      prior approval. It rules "à partir du Règlement sur la Commission d'urbanisme et de
+      conservation de Québec, R.V.Q. 1324 et des guides d'intervention pour le patrimoine bâti". A
+      recent reform added about 800 pre-1940 buildings to its demolition jurisdiction and raised 47
+      buildings to "supérieure/exceptionnelle" (847 in total, including 22 churches).
+    year: 1925
+    url: https://www.ville.quebec.qc.ca/apropos/administration/autres-organismes-municipaux/cucq.aspx
+  - kind: demolition-bylaw
+    title: Règlement relatif à la démolition d'immeubles patrimoniaux, R.V.Q. 3117 (adopted 2023)
+    year: 2023
+    url: null
+  - kind: subsidy
+    title: Règlement sur le programme d'intervention et de revitalisation de bâtiments patrimoniaux, R.V.Q. 864
+    year: null
+    url: https://www.ville.quebec.qc.ca/apropos/programmes-subventions/habitation/batiments_patrimoniaux.aspx
+  - kind: guides
+    title: >-
+      Guides d'intervention "Conserver et mettre en valeur…" (Vieux-Québec, 1998; site patrimonial de
+      Beauport; site patrimonial de Charlesbourg), organised component by component (fondations,
+      revêtements, portes, fenêtres, ornementation, saillies), plus per-site trousses d'accueil
+    year: 1998
+    url: https://www.ville.quebec.qc.ca/citoyens/propriete/maison_patrimoniale.aspx
+  - kind: national-capital-status
+    title: >-
+      Under the Loi accordant à la Ville de Québec le statut de capitale nationale (2016) the City
+      exercises the Minister's powers for certain works inside the Vieux-Québec declared site
+    year: 2016
+    url: null
+  - kind: inventory
+    title: >-
+      City-wide inventory of all pre-1940 buildings under the Loi sur le patrimoine culturel, to be
+      adopted by 2026; the Saint-Roch / Saint-Sacrement / Vieux-Québec / Cap-Blanc / colline
+      parlementaire tranche (1,773 pre-1940 immeubles) was adopted in January 2026. Content flows
+      into the Répertoire du patrimoine bâti (>17,000 documented buildings, about 10 % of properties)
+    year: 2026
+    url: https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/inventaires-patrimoniaux.aspx
+typology_document:
+  title: >-
+    Ville de Québec, Répertoire du patrimoine bâti — Thésaurus des styles architecturaux (nine
+    courants, ~27 residential types, each with a tid, an "Éléments caractéristiques" list and
+    linked exemplar buildings; illustrations by Charles-Étienne Brochu, 2022), with the
+    "Synthèse des styles architecturaux et de leurs déclinaisons" (tableau_styles_historiques.pdf)
+  year: 2022
+  format: thesaurus
+  note: >-
+    The thesaurus is descriptive, not regulatory: it has no conservation guidance and no per-quartier
+    tables. Conservation rules live in the CUCQ guides and the ministerial plans de conservation, and
+    are attached here by geography rather than by type.
+map_layer: null
+summary_en: >-
+  The one place on this site whose types were named before we came looking: the City publishes a
+  thesaurus that sorts its housing into nine currents, from the pièce-sur-pièce rural house of the
+  French regime and the stone urban house of the walled town, through the London terrace and the
+  Regency villa, the néoclassique québécois and its stripped-down faubourg house, the mansard that
+  densified the working districts, to the industrial vernacular that built Limoilou and Montcalm —
+  Boomtown, plex, cubique, immeuble à logements — and finally the postwar bungalow. Its housing
+  history is legible because it burned repeatedly: the fires of 1845, 1866, 1876, 1881 and 1889
+  wrote brick walls, tin roofs and eaveless gables into the by-laws, and the types record it.
