@@ -1,0 +1,106 @@
+id: levis.neoclassique
+place: levis
+phase: p2
+phase_confidence: verified
+display_order: 6
+name_en: 'Neoclassical house'
+name_fr: 'Néoclassique'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 9 « Néoclassique », 1840-1880'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 9
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=9'
+period_label: '1840-1880'
+count_in_place: 50
+is_courant: false
+is_residential: true
+courant: null
+sectors:
+- 'PIIA-LEVIS'
+canonical:
+- 'eclectic-prestige-house'
+styles:
+- 'neoclassical-quebec'
+style_label: null
+tenure_plan: single-family
+storeys: '2–3'
+roof:
+  form: gabled-or-hipped
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'clay-brick'
+- 'cut-stone'
+- 'wood-clapboard'
+roofing: 'standing-seam tin'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 50 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  - 'Documented in Vieux-Lévis around the carré Déziel by the City''s walking-tour brochure Le Vieux-Lévis à pied.'
+  massing:
+  - 'Two to three storeys.'
+  - 'Rectangular plan.'
+  - 'Straight two-slope or hipped roof in standing-seam tin.'
+  - 'Chimneys; gables that observe the symmetry.'
+  articulation:
+  - 'Window and door surrounds, pediments, doorcases, cornices, pilasters.'
+  openings:
+  - 'Sash or casement windows with large panes, symmetrically arranged; gabled or hipped dormers.'
+  materials:
+  - 'Brick or cut stone on the principal façade, wood clapboard on the secondary elevations.'
+profile_fr:
+  volumetrie:
+  - '2 à 3 étages'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'à 2 versants droits ou à croupe, tôle à baguettes'
+  saillies:
+  - 'cheminées, pignons respectant la symétrie'
+  ornementation:
+  - 'chambranles, frontons, portails, corniches, pilastres'
+  ouvertures:
+  - 'fenêtres à guillotine ou à battants à grands carreaux disposées symétriquement, lucarnes à pignon ou à croupe'
+  revetements:
+  - 'brique ou pierre de taille en façade, clin de bois sur façades secondaires'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1840-1880).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Two to three storeys under a straight two-slope or hipped tin roof, faced in brick or cut stone at the front and clapboard down the sides — a distinction of expense that the fiche records plainly. Large-paned windows in strict symmetry, and pediments, cornices and pilasters at the door.'
+origin_en: 'The idiom of the Lévis bourgeoisie in the decades around incorporation in 1861. Its public monument is the église Notre-Dame-de-la-Victoire of 1851 on plans by Thomas Baillargé, which the City''s walking-tour brochure calls « un chef-d''œuvre néoclassique » and reads through its four Doric pilasters carrying a pediment.'
+related_buildings:
+- name: 'Église Notre-Dame-de-la-Victoire, carré Déziel, Vieux-Lévis (1851, Thomas Baillargé), classed — « L''architecture de l''église est considérée comme un chef-d''œuvre néoclassique » (Le Vieux-Lévis à pied, stop 13)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+- name: 'Collège de Lévis, 9 rue Mgr-Gosselin, founded 1853 by curé Joseph-David Déziel (Le Vieux-Lévis à pied, stop 14)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 9 « Néoclassique » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=9 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=9'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5285-58-9441-52-wolfe-1911.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-wolfe-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09_150110mhc.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/Wolfe-52-04-2015-006.JPG'
+  licence: 'permission required'

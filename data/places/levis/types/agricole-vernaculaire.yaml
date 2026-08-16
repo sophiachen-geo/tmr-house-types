@@ -1,0 +1,94 @@
+id: levis.agricole-vernaculaire
+place: levis
+phase: p2
+phase_confidence: provisional
+display_order: 7
+name_en: 'Agricultural vernacular building'
+name_fr: 'Agricole vernaculaire'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 8 « Agricole vernaculaire », 1850-1950'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 8
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=8'
+period_label: '1850-1950'
+count_in_place: 100
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'industrial-vernacular-cottage'
+styles:
+- 'agricole-vernaculaire'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5–2.5'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-vertical-board'
+- 'wood-shingle'
+roofing: 'wood shingle or barn tin'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 100 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One and a half to two and a half storeys.'
+  - 'Rectangular plan.'
+  - 'Straight two-slope roof, sometimes mansarded, in wood shingle or barn tin.'
+  - 'Roof vent, lean-to volumes, silo.'
+  articulation:
+  - 'Sober; window and door surrounds; a weathervane.'
+  openings:
+  - 'Large hinged or sliding (track-hung) doors; windows with large panes.'
+  materials:
+  - 'Vertical wood boarding or wood shingle.'
+profile_fr:
+  volumetrie:
+  - '1 ½ à 2 ½ étages'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'à 2 versants droits, parfois mansardé, en bardeau de bois ou en tôle de grange'
+  saillies:
+  - 'évent, volumes en appentis, silo'
+  ornementation:
+  - 'sobre, chambranles, girouette'
+  ouvertures:
+  - 'grandes portes à battants ou coulissantes (sur rail), fenêtres à grands carreaux'
+  revetements:
+  - 'planches de bois verticales ou bardeau de bois'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1850-1950). Rural rather than urban: the fiche describes farm buildings, and its openings row is about barn doors rather than windows.'
+conservation: null
+conservation_fr: null
+blurb_en: 'The rural building of the merged territory: a long rectangle of vertical boarding or shingle under a straight two-slope roof, sometimes mansarded, with big hinged or track-hung doors, a roof vent, lean-to additions and a silo.'
+origin_en: 'Rural rather than urban, and included here because Lévis''s 2002 merger of ten municipalities brought a large farming territory inside one city boundary — Saint-Étienne, Saint-Nicolas, Pintendre, Breakeyville and Vire-Crêpes all carry PIIA heritage sectors of this kind. The RPCQ''s cited site at Saint-Nicolas is itself described as « un ensemble continu de propriétés agricoles ». About a hundred are counted.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 8 « Agricole vernaculaire » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=8 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=8'
+fiche_photos:
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-st-joseph-1190-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-140511mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-st-joseph-1190-apres..jpg'
+  licence: 'permission required'

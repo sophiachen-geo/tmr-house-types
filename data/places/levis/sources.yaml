@@ -1,0 +1,114 @@
+- id: levis-styles-index
+  citation: >-
+    Ville de Lévis, « Architecture patrimoniale — Styles architecturaux » (index of 20 courants),
+    https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/
+    — crawled 16 August 2026.
+  used_for: >-
+    The courant list, its order, each courant's name_fr and period_label, and the count of twenty.
+    The index is also the source of the "plus de 4000 bâtiments patrimoniaux" figure.
+
+- id: levis-styles-fiches
+  citation: >-
+    Ville de Lévis, « Styles architecturaux », the twenty individual fiches at
+    …/styles-architecturaux/?idfiche=N for N in 1–20 — crawled 16 August 2026. Each fiche carries
+    Nombre à Lévis, Période de construction, and the seven fields Volumétrie, Plan, Toiture,
+    Revêtements, Ouvertures, Saillies and Ornementation, plus a line drawing, historic and
+    present-day example strips, and an ANCIENNE / AVANT / POTENTIEL / APRÈS restoration set.
+  used_for: >-
+    Every type record: profile_fr verbatim, the English profile translated from it, count_in_place,
+    period_label, fiche_id, source_url and the photo inventory. Parsed by sources/levis/parse.py,
+    whose output is sources/levis/parsed.json; the parse is checked on every run against fiche 10
+    (Boomtown) and fiche 1 (Vernaculaire américain).
+
+- id: levis-composantes-lexique
+  citation: >-
+    Ville de Lévis, « Composantes et modèles » (downloadable croquis, croquis_toutes_les_diapos.pdf),
+    « Lexique architectural » and « Recherche par adresse », same section — crawled 16 August 2026.
+  used_for: >-
+    Context for the catalogue's structure. The fiches hyperlink individual component terms
+    (clin, bardeau, guillotine, parapet, corniche, chambranle, planche cornière …) into
+    « Composantes et modèles »; those links are captured in parsed.json as field_links but are not
+    yet rendered.
+
+- id: levis-piia
+  citation: >-
+    Ville de Lévis, « Plans d'implantation et d'intégration architecturale - Patrimoniale »
+    (Règlement RV-2019-19-74, PIIA – volet patrimonial), and the map
+    « Localisation des secteurs de PIIA patrimonial », 20200304_PIIA_patrimonial_carte.pdf,
+    14 sheets dated 4 March 2020 — crawled 16 August 2026.
+  used_for: >-
+    sectors.yaml — the thirteen secteurs d'intérêt patrimonial, their names and the four gradings
+    (Primaire, Secondaire, Périphérique, Spécifique) inside each; and the City's own warning not to
+    confuse the municipal by-law with the Loi sur le patrimoine culturel.
+
+- id: levis-conditions-utilisation
+  citation: >-
+    Ville de Lévis, « Politiques de confidentialité et protection des renseignements personnels »,
+    sections « Conditions d'utilisation » and « Droits d'auteur »,
+    https://www.ville.levis.qc.ca/politiques-de-confidentialite-et-protection-des-renseignements-personnels/
+    — read 16 August 2026, before any image was handled.
+  used_for: >-
+    The photograph decision. « Il vous est interdit de copier ou de publier, pour rediffusion à des
+    tiers ou à des fins commerciales, la moindre partie du contenu. » No fiche image is copied into
+    assets/; all are recorded with source_url and file: null.
+
+- id: levis-brochure-vieux-levis
+  citation: >-
+    Corporation de développement du Vieux-Lévis, « Le Vieux-Lévis à pied — Petit guide du promeneur,
+    pour une balade historique et patrimoniale » (ISBN 978-2-9808500-1-1), distributed by the Ville
+    de Lévis as brochure-vieux-levis-a-pied.pdf.
+  used_for: >-
+    The walking-tour anchors attached to the Vieux-Lévis types via related_buildings — carré Déziel,
+    église Notre-Dame-de-la-Victoire, Collège de Lévis, le trio victorien at 20/22-26/28 rue
+    Guenette, maison Lefrançois at 39 rue Wolfe, maison Pampalon at 40 rue Wolfe, maison Lasnier at
+    44 rue Wolfe — and the phase essays.
+
+- id: levis-guides
+  citation: >-
+    Ville de Lévis, « Brochures et publications » — « Rénover les bâtiments anciens en toute
+    simplicité » (4.3 Mo), « Lévis, un patrimoine à protéger et à mettre en valeur » (3.2 Mo),
+    « L'architecture moderne, un héritage du 20e siècle à démystifier » (2.6 Mo), and
+    « Promenade de découverte du patrimoine bâti du secteur Saint-Nicolas ».
+  used_for: >-
+    Fetched and held in sources/levis/ as the City's own intervention guidance. Not yet mined for
+    per-type `conservation` guidance, which is the obvious next step for this place.
+
+- id: rpcq-93507
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, « Site patrimonial de Saint-Nicolas », id 93507.
+  used_for: >-
+    The Saint-Nicolas sector record: description, éléments caractéristiques, and the statut block
+    that resolves the citation-date conflict to 1987-10-05 with anterior statuses of 1987-07-06.
+
+- id: rpcq-93382
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, « Site patrimonial de
+    l'Église-et-du-Presbytère-de-Saint-Jean-Chrysostome », id 93382.
+  used_for: >-
+    The Saint-Jean-Chrysostome sector record: description, éléments caractéristiques, and the
+    citation date of 2001-08-20 (avis de motion 2001-05-07).
+
+- id: rpcq-92424
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, « Maison Alphonse-Desjardins », id 92424 —
+    classed immeuble patrimonial 21 March 1983, 8 rue du Mont-Marie, built 1882–1884.
+  used_for: >-
+    The named example for the Néogothique courant, and the address correction from 6 to 8 rue du
+    Mont-Marie. Also the source of the note that an « Inventaire des bâtiments patrimoniaux
+    significatifs de Lévis. Mise à jour 2023 » exists as an associated inventory.
+
+- id: levis-inventaire-moderne
+  citation: >-
+    Ville de Lévis, Inventaire du patrimoine moderne de Lévis (2016): 79 buildings built 1946–1975,
+    RPCQ inventory id 1313.
+  used_for: >-
+    The Modernisme record and the p5 phase essay. The RPCQ inventory page returned HTTP 500 on
+    every attempt during the crawl and could not be captured — see MANIFEST.md.
+
+- id: giram
+  citation: >-
+    Groupe d'initiatives et de recherches appliquées au milieu (GIRAM), 2005 request to create
+    heritage sites for « le Vieux-Lévis et le corridor de la rue Saint-Joseph à Lauzon ».
+  used_for: >-
+    The note that Vieux-Lévis and Vieux-Lauzon were proposed for cited status and that the request
+    was not acted on. Carried from the Part 8 research memo and not independently verified.

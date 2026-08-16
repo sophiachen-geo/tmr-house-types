@@ -1,0 +1,100 @@
+id: levis.vernaculaire-americain
+place: levis
+phase: p3
+phase_confidence: verified
+display_order: 12
+name_en: 'American vernacular house'
+name_fr: 'Vernaculaire américain'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 1 « Vernaculaire américain », 1880-1940'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 1
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=1'
+period_label: '1880-1940'
+count_in_place: 1700
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'industrial-vernacular-cottage'
+styles:
+- 'vernaculaire-industriel'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5–2'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-clapboard'
+- 'wood-shingle'
+- 'asbestos-cement-tile'
+roofing: 'standing-seam tin'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 1 700 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One and a half or two storeys, well raised above the ground.'
+  - 'Rectangular plan, sometimes L-shaped.'
+  - 'Straight two-slope roof in standing-seam tin, of medium to shallow pitch.'
+  - 'Veranda covered by an independent awning.'
+  articulation:
+  - 'Window and door surrounds, corner boards, veranda trim, cornice returns.'
+  openings:
+  - 'Large-paned casement windows or sash windows; gabled or shed dormers.'
+  materials:
+  - 'Wood clapboard or wood shingle; diamond-pattern asbestos-cement tiles.'
+profile_fr:
+  volumetrie:
+  - '1 ½ ou 2 étages, bien dégagé du sol'
+  plan:
+  - 'rectangulaire, parfois en « L »'
+  toiture:
+  - 'à 2 versants droits, en tôle à baguettes, pente moyenne à faible'
+  saillies:
+  - 'galerie couverte d''un auvent indépendant'
+  ornementation:
+  - 'chambranles, planches cornières, garnitures de galerie, retour de corniche'
+  ouvertures:
+  - 'fenêtres à battants à grands carreaux ou fenêtres à guillotine, lucarne à pignon ou en appentis'
+  revetements:
+  - 'clin ou bardeau de bois, tuiles d''amiante-ciment en losange'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1880-1940).'
+conservation: null
+conservation_fr: null
+blurb_en: 'At about 1,700 buildings the most numerous current in Lévis by a wide margin: one and a half or two storeys well clear of the ground, rectangular or L-shaped, under a straight tin roof of medium to shallow pitch, with a veranda under its own separate awning.'
+origin_en: 'The workers'' house of the industrial south shore, and the plainest demonstration of what the catalogue is for — one form accounting for more than a third of the 4,000-odd heritage buildings the City counts. The diamond-pattern asbestos-cement tile the fiche names as a cladding is the same material it lists for Boomtown, and marks the interwar re-skinning of both.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 1 « Vernaculaire américain » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=1 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=1'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5285-87-5528-35 guenette-1970.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-guenette-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-140526mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-guenette_apres.jpg'
+  licence: 'permission required'

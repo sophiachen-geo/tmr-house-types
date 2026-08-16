@@ -1,0 +1,107 @@
+id: levis.victorien
+place: levis
+phase: p3
+phase_confidence: verified
+display_order: 11
+name_en: 'Victorian house'
+name_fr: 'Victorien'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 7 « Victorien », 1880-1930'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 7
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=7'
+period_label: '1880-1930'
+count_in_place: 100
+is_courant: false
+is_residential: true
+courant: null
+sectors:
+- 'PIIA-LEVIS'
+canonical:
+- 'queen-anne-irregular-2-5st'
+styles:
+- 'victorian-eclectic'
+- 'queen-anne'
+style_label: null
+tenure_plan: single-family
+storeys: '2–3'
+roof:
+  form: gabled-multi
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-clapboard'
+- 'wood-shingle-cut'
+- 'clay-brick'
+roofing: 'standing-seam tin'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 100 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  - 'Documented in Vieux-Lévis on rue Guenette and rue Wolfe by the City''s walking-tour brochure Le Vieux-Lévis à pied.'
+  massing:
+  - 'Two to three storeys, well raised above the ground.'
+  - 'Complex, articulated plan with projecting bays.'
+  - 'Two- and four-slope roofs in standing-seam tin.'
+  - 'Turret, veranda, gable, chimney, balcony, oriel.'
+  articulation:
+  - 'Very heavily loaded, with decorative woodwork — surrounds, finial mast, knee braces, valances, cornices, frieze and the like.'
+  openings:
+  - 'Windows and dormers of varied pattern, sometimes paired.'
+  materials:
+  - 'Wood clapboard, cut (fancy-butt) wood shingle, brick.'
+profile_fr:
+  volumetrie:
+  - '2 à 3 étages, bien dégagé du sol'
+  plan:
+  - 'complexe et articulé avec des avancées'
+  toiture:
+  - 'à 2 et 4 versants, tôle à baguettes'
+  saillies:
+  - 'tourelle, galerie, pignon, cheminée, balcon, oriel'
+  ornementation:
+  - 'très chargée avec boiseries décoratives (chambranles, mât, aiselliers, lambrequins, corniches, frise, etc.)'
+  ouvertures:
+  - 'modèles de fenêtres et de lucarnes variés, parfois jumelés'
+  revetements:
+  - 'clin de bois, bardeau de bois découpé, brique'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1880-1930).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Two to three storeys well up off the ground on a complex articulated plan, broken by turrets, oriels, balconies and gables, and covered in decorative woodwork — the fiche calls the ornament « très chargée » and then lists seven kinds of it.'
+origin_en: 'The City''s walking-tour brochure points to the three houses at 20, 22-26 and 28 rue Guenette — « le trio victorien » — as « un des ensembles architecturaux les plus intéressants du Québec », reading them through bichrome brick at the quoins and entablements, imitation keystones over the lintels, arched windows and elaborated gables.'
+related_buildings:
+- name: 'Le trio victorien, 20, 22-26 and 28 rue Guenette, Vieux-Lévis — « Un des ensembles architecturaux les plus intéressants du Québec » (Le Vieux-Lévis à pied, stop 10)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+- name: 'Résidences jumelles de la famille Roy, 2-12 rue Wolfe, Vieux-Lévis (Le Vieux-Lévis à pied, stop 16)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 7 « Victorien » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=7 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=7'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4880-31-1683-2219-fleuve-fonds-jocelyn-huard.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-fleuve-2219-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-140526mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-fleuve-2219-apres.jpg'
+  licence: 'permission required'

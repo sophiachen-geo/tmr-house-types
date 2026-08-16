@@ -1,0 +1,102 @@
+id: levis.toit-plat
+place: levis
+phase: p4
+phase_confidence: verified
+display_order: 17
+name_en: 'Flat-roofed house'
+name_fr: 'Toit plat'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 3 « Toit plat », 1900-1945'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 3
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=3'
+period_label: '1900-1945'
+count_in_place: 600
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'plex-superposed-units'
+- 'faubourg-house-flat-roof'
+styles:
+- 'vernaculaire-industriel'
+style_label: null
+tenure_plan: walk-up
+storeys: '2–3'
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'clay-brick'
+- 'wood-clapboard'
+- 'wood-shingle'
+- 'asbestos-cement-tile'
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 600 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'Two or three storeys.'
+  - 'Square or rectangular plan.'
+  - 'Flat roof.'
+  - 'Cornice or parapet; covered veranda.'
+  articulation:
+  - 'Modillion cornice, window surrounds, corner boards, patterned brickwork, veranda trim.'
+  openings:
+  - 'Sash or casement windows with transoms.'
+  materials:
+  - 'Brick, wood clapboard or wood shingle; asbestos-cement tiles.'
+profile_fr:
+  volumetrie:
+  - '2 ou 3 étages'
+  plan:
+  - 'carré ou rectangulaire'
+  toiture:
+  - 'plate'
+  saillies:
+  - 'corniche ou parapet, galerie couverte'
+  ornementation:
+  - 'corniche à modillons, chambranles, planches cornières, jeux de brique, garnitures de galerie'
+  ouvertures:
+  - 'fenêtres à guillotine ou à battants avec imposte'
+  revetements:
+  - 'brique, clin ou bardeau de bois, tuiles d''amiante-ciment'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1900-1945).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Two or three storeys, square or rectangular, flat-roofed, finished at the top by a cornice or parapet and at the front by a covered veranda — the superposed-dwelling form of the industrial faubourgs, and at about 600 buildings the third most numerous current in the catalogue.'
+origin_en: 'Where Boomtown hides a shallow slope behind a parapet, this current has no slope to hide: the flat roof is the type. It is the Lévis relative of the Montréal plex and of Gatineau''s flat-roofed brick and wood houses, and the City''s ornament list — modillion cornice, patterned brickwork, veranda trim — is the richest of the three flat-roofed currents it publishes.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 3 « Toit plat » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=3 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=3'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5386-49-3125-162-entente-1970.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-entente-162-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-140329mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-entente-162-apres.jpg'
+  licence: 'permission required'

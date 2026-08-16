@@ -1,0 +1,97 @@
+id: levis.modernisme
+place: levis
+phase: p5
+phase_confidence: verified
+display_order: 20
+name_en: 'Modernist building'
+name_fr: 'Modernisme'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 19 « Modernisme », 1950-1975'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 19
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=19'
+period_label: '1950-1975'
+count_in_place: 30
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'one-storey-ranch-low-roof'
+- 'modern-slab-tower'
+styles:
+- 'international-style'
+- 'ranch'
+style_label: null
+tenure_plan: mixed
+storeys: 'varies by use'
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: horizontal
+principal_cladding:
+- 'clay-brick'
+- 'concrete'
+- 'sheet-metal'
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 30 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'Varied, according to use.'
+  - 'Rectangular or complex plan.'
+  - 'Flat roof.'
+  - 'Annexe volumes.'
+  articulation:
+  - 'Sober.'
+  openings:
+  - 'Varied and repetitive, in horizontal bands.'
+  materials:
+  - 'Brick, concrete, metal cladding.'
+profile_fr:
+  volumetrie:
+  - 'diversifiée selon l''usage'
+  plan:
+  - 'rectangulaire ou complexe'
+  toiture:
+  - 'plate'
+  saillies:
+  - 'volumes annexes'
+  ornementation:
+  - 'sobre'
+  ouvertures:
+  - 'variées et répétitives, en bandeau horizontal'
+  revetements:
+  - 'brique, béton, revêtement métallique'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1950-1975).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Flat-roofed, brick, concrete or metal-clad, with openings set in repeating horizontal bands. The one current in the catalogue whose massing the City declines to fix at all — « diversifiée selon l''usage » — because the same language served houses, schools and offices.'
+origin_en: 'The last of the twenty currents, dated 1950–1975 and counted at about thirty buildings. Lévis published a separate Inventaire du patrimoine moderne in 2016 covering 79 buildings put up between 1946 and 1975 (RPCQ inventory 1313), and a guide, L''architecture moderne, un héritage du 20e siècle à démystifier. The City''s line drawing for the current is an office block, and the fiche''s own volumetry row concedes the range, so both a low ranch house and a slab are cross-linked here.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 19 « Modernisme » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=19 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=19'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-begin-29.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-begin-59-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19_150110mhc.jpg'
+  licence: 'permission required'

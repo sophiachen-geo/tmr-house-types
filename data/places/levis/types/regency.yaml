@@ -1,0 +1,95 @@
+id: levis.regency
+place: levis
+phase: p2
+phase_confidence: verified
+display_order: 4
+name_en: 'Regency cottage'
+name_fr: 'Regency'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 18 « Regency », 1830-1880'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 18
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=18'
+period_label: '1830-1880'
+count_in_place: 15
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'regency-cottage-hipped-veranda'
+styles:
+- 'regency'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5–2.5'
+roof:
+  form: hipped
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-clapboard'
+- 'wood-shingle'
+- 'clay-brick'
+roofing: 'wood shingle or standing-seam tin'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 15 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One and a half or two and a half storeys.'
+  - 'Square plan.'
+  - 'Hipped (four-slope) pavilion roof with a curved bellcast base, in wood shingle or standing-seam tin.'
+  - 'Veranda sheltered by the roof overhang; chimneys.'
+  articulation:
+  - 'Window and door surrounds, corner boards, entrance doorcase.'
+  openings:
+  - 'Casement windows of six large panes; gabled or hipped dormers; symmetrical arrangement.'
+  materials:
+  - 'Wood clapboard or wood shingle; brick.'
+profile_fr:
+  volumetrie:
+  - '1 ½ ou 2 ½ étages'
+  plan:
+  - 'carré'
+  toiture:
+  - 'à pavillon (4 versants) à base recourbée, bardeau de bois ou tôle à baguettes'
+  saillies:
+  - 'galerie protégée par débord de toit, cheminées'
+  ornementation:
+  - 'chambranles, planches cornières, portail d''entrée'
+  ouvertures:
+  - 'fenêtres à battants à 6 grands carreaux, lucarnes à pignon ou à croupe, disposition symétrique'
+  revetements:
+  - 'clin ou bardeau de bois, brique'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1830-1880).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Square in plan under a four-slope pavilion roof whose curved base runs out over a veranda on every side. Six-pane casements arranged symmetrically, gabled or hipped dormers, and clapboard, shingle or brick walls.'
+origin_en: 'The British officer''s cottage as it was built on the south shore facing Québec, and one of the rarest currents in the catalogue at about fifteen buildings. The RPCQ''s description of the cited site at Saint-Nicolas names the Regency among the « manifestations d''architecture pittoresque » that give that ensemble its character.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 18 « Regency » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=18 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=18'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4779-22-9305-1736-fleuve-banq-fonds-jean-paul-morisset-1957.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-fleuve-1736-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-140701mjd.jpg'
+  licence: 'permission required'

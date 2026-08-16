@@ -1,0 +1,163 @@
+id: trois-rivieres.maison-cossue-pierre
+place: trois-rivieres
+phase: p3
+phase_confidence: provisional
+display_order: 2
+name_en: Well-to-do bourgeois house in stone and brick (maison cossue)
+name_fr: La demeure bourgeoise / la résidence cossue
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: declared-site texts (RPCQ + Plan de conservation) read with the City's Néoclassicisme fiche
+courant: Néoclassicisme
+source_url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Neoclassicisme.pdf
+sectors: [SP-TR]
+canonical:
+- maison-cossue-ornamented
+styles:
+- neoclassical-quebec
+- second-empire
+- victorian-eclectic
+tenure_plan: single-family
+storeys: "2–2.5"
+roof:
+  form: gabled-or-hipped
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- stone
+- cut-stone
+- clay-brick
+roofing: traditional tin; copper on the grandest
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Along the terrasse Turcotte and rue des Ursulines, where the declared site's occupation is at its thinnest —
+    the RPCQ contrasts "la faible densité d'occupation en bordure de la rue des Ursulines et de la terrasse Turcotte"
+    with the smaller, more densely built lots of rues Saint-Pierre, Saint-François-Xavier, Saint-Louis and des Casernes.
+  - Deeper front margins than in the institutional blocks, and a marked tree cover, in the Plan de conservation's
+    unité de paysage of "maisons urbaines individuelles".
+  - The grandest georgian houses stand alone in the middle of a large lot.
+  massing:
+  - Rectangular body well clear of the ground, two or two and a half storeys.
+  - Two- or four-slope roof of medium or shallow pitch; mansard roofs on the Second Empire examples.
+  - Monumental in effect rather than in size; the Plan de conservation calls the group homogeneous in volume,
+    height and material.
+  - Few or no projecting elements such as balconies and galleries in the neoclassical register; on the Second Empire
+    and eclectic examples, a projecting central bay marking the entrance, turrets, and polygonal projections.
+  articulation:
+  - Order, symmetry and sobriety are the three watchwords of the neoclassical register — regularity in the plan
+    as much as in the distribution of the openings, sometimes to the point of austerity.
+  - Classical ornament drawn from antiquity — pediment, round arch over the openings, columns, piers, pilasters,
+    quoins, cornice returns.
+  - On the eclectic examples, an elaborate crown — cornices on consoles and modillions, carved lintels, worked
+    cornices, dormers under semicircular pediments.
+  - Main entrance marked by a porch or a portal.
+  openings:
+  - Casement or sash windows, with panes.
+  - Round-arched doors and windows and oculi in the palladian register; segmental-arched openings on the later ones.
+  - Symmetrical arrangement of openings and chimneys, the English signature on a house otherwise French in its
+    siting and roof.
+  materials:
+  - Smooth wall surfaces — cut stone, roughcast, brick or wood boards.
+  - Stone in the earlier houses; the Plan de conservation records that the declared site's ten stone buildings
+    include the classed houses, and that only two stone dwellings postdate 1900.
+  - Brick predominates in the turn-of-the-century group, which the Plan de conservation describes as
+    "résidences individuelles en brique à deux niveaux d'habitation".
+  - Copper roofing on at least one — the house of about 1850 at 858 terrasse Turcotte.
+profile_fr:
+  description:
+  - "Le XIXe siècle est représenté par des demeures bourgeoises en pierre, comme la maison Hertel-De La Fresnière
+    (1824-1829) et celles qui longent la terrasse Turcotte."
+  - "les bâtiments témoignant de la fonction résidentielle au XIXe siècle, entre autres les résidences bourgeoises
+    de styles variés (néoclassique, Second Empire et georgien)"
+  - "Cette unité de paysage est formée de bâtiments individuels de type résidentiel et regroupe surtout des résidences
+    cossues datant du tournant du XXe siècle… Les résidences présentent des caractéristiques architecturales homogènes
+    en ce qui a trait au volume, à la hauteur et aux matériaux. Les résidences individuelles en brique à deux niveaux
+    d'habitation prédominent dans cette unité."
+  volumetrie:
+  - "Corps de bâtiment rectangulaire bien dégagé du sol, à un ou deux étages"
+  toiture:
+  - "Toiture à deux ou à quatre versants de pente moyenne ou faible"
+  saillies:
+  - "Peu ou pas d'éléments en saillie tels les balcons, galeries"
+  revetements:
+  - "Revêtements lisses : pierre de taille, crépi, brique ou planches de bois"
+  ouvertures:
+  - "Ordonnance, symétrie et sobriété dans les compositions et la distribution des ouvertures"
+  - "Fenêtre à battants ou à guillotine, à carreaux"
+  - "Entrée principale soulignée par un porche ou un portail"
+  ornementation:
+  - "Ornements classiques variés : fronton, arc en plein cintre au-dessus des ouvertures, colonnes, piliers, pilastres,
+    chaînage d'angle, retour de corniche"
+  sous_variantes:
+  - "Trois-Rivières compte également plusieurs maisons georgiennes. Ces résidences monumentales constituent un style
+    néoclassique assez pur, proche de modèles du nord-est des États-Unis : grandes maisons à deux étages et demi, de
+    composition symétrique, avec retours de corniche amorçant des frontons. Ces maisons de briques se dressent toujours
+    seules au centre d'un terrain vaste."
+  - "L'architecture palladienne est caractéristique de l'austérité néoclassique. Elle présente en effet une ordonnance
+    irréprochable et une parfaite symétrie. Il est fréquent d'y voir un avant-corps central et un porche ouvert à
+    fronton coiffé d'un toit en pavillon. Ses composantes distinctives sont les portes et fenêtres réalisées en arc en
+    plein cintre, la présence d'oculi et un parement en pierre de taille."
+  - "Le cottage Regency arbore une architecture en communion avec son environnement. Parmi ses principales
+    caractéristiques, on note le profil bas de la toiture à quatre versants dont les avant-toits se prolongent au-delà
+    des murs et recouvrent une galerie ceinturant le carré de la maison."
+profile_note: >-
+  This record is assembled, not transcribed. The City publishes no fiche for a "maison cossue" — the term is the
+  ministry's, used in the RPCQ fiche and in the Plan de conservation's unité de paysage "les maisons urbaines
+  individuelles". The five columns therefore take their architectural detail from the City's Néoclassicisme fiche,
+  which is the courant the RPCQ names first for these houses, and their siting and material detail from the two
+  ministerial documents. The phase is provisional because the sources straddle two of them: the RPCQ places the stone
+  bourgeois houses in the nineteenth century, with the maison Hertel-De La Fresnière at 1824-1829, while the Plan de
+  conservation's cossues date "du tournant du XXe siècle". The RPCQ names three registers for these houses —
+  "néoclassique, Second Empire et georgien" — and the third has no style id in this project; it is recorded verbatim
+  above instead of being forced into one.
+conservation_fr:
+- "Le choix des matériaux revêtant les lucarnes et la toiture ainsi que le choix du modèle de garde-corps ne
+  conviennent pas à cette architecture au caractère noble."
+- "Cette résidence aux influences néoclassiques a malheureusement perdu l'ensemble de ses attributs par le recours à
+  des matériaux de revêtement, des modèles de fenêtres et de portes, ainsi qu'à des garde-corps inappropriés."
+conservation:
+- 'Avoid: cladding and roofing materials on the house and its dormers, and railing patterns, that do not answer to the
+  noble character of this architecture.'
+- 'Avoid: the combination that has stripped one such house of all its attributes — replacement cladding, replacement
+  window and door models, and unsuitable railings, applied together while the overall composition was respected.'
+related_buildings:
+- name: "Maison Hertel-De La Fresnière, 802 rue des Ursulines — 1824-1829 per the RPCQ and the Plan de conservation, \"érigée en 1824\" per the City's fiche; classed. Stone masonry, façade directly on the street, fire-break walls, a roof of tôle à baguettes; French in its siting and pitch, English in its symmetry, its pedimented dormers and its carved window surrounds."
+  url: https://commons.wikimedia.org/wiki/Category:Maison_Hertel-De_La_Fresni%C3%A8re
+- name: "858 terrasse Turcotte — \"Cette grande résidence, coiffée d'une toiture en cuivre, est un bon exemple d'architecture néoclassique construit vers 1850.\""
+  url: null
+- name: "836 rue des Ursulines — a georgian house of the historic district whose elaborate decoration tends toward Victorian eclecticism, keeping a typically neoclassical volume, quoins, segmental-arched windows and a cornice that returns on the side walls."
+  url: null
+- name: "571 rue des Ursulines — a georgian house in red brick with a pedimented, columned porch."
+  url: null
+- name: "849-859 rue Laviolette — an imposing semi-detached georgian pair with a columned portico under a balcony, a cornice on consoles and modillions, and dormers under semicircular pediments."
+  url: null
+- name: "1160 terrasse Turcotte — one of the site's ten two-and-a-half-storey buildings (Plan de conservation)."
+  url: null
+- name: "890 terrasse Turcotte — one of the site's five hipped-roof houses (Plan de conservation)."
+  url: null
+blurb_en: >-
+  The merchant's house of a river town that had money before it had industry, standing back from the street behind
+  mature trees on the thinnest-built edge of the old core. Stone in the first half of the nineteenth century, brick by
+  the turn of the twentieth, always well clear of the ground and always symmetrical — the neoclassical order held on
+  here longer than anywhere else in Québec, and when it finally loosened it did so into Second Empire mansards and
+  eclectic crowns rather than into anything plainer.
+origin_en: >-
+  English neoclassicism arrived with the British and Scottish military engineers and architects at the start of the
+  nineteenth century, and the City's fiche notes that in Trois-Rivières it gave ground to eclecticism more slowly than
+  elsewhere, even reviving early in the twentieth century as Beaux-Arts. Its bourgeois version is what the RPCQ means
+  by "des maisons cossues", the first of the two residential registers it says characterise the declared site — the
+  other being "des immeubles d'habitation construits sur des lots étroits". The same opulent-house form is described
+  under `maison-cossue-ornamented` at Vieux-Terrebonne, where the declaration reads it off the rue Saint-Louis crest;
+  here it is read off the terrasse Turcotte and rue des Ursulines.
+photos:
+- file: assets/places/trois-rivieres/802-rue-des-ursulines-hertel-de-la-fresniere-commons.jpg
+  credit: >-
+    Maison Hertel-De La Fresnière, 802 rue des Ursulines, in the site patrimonial de Trois-Rivières (October 2020) —
+    built 1824-1829, classed as an immeuble patrimonial; the RPCQ's own example of "des demeures bourgeoises en
+    pierre". © Cantons-de-l'Est, Wikimedia Commons, CC BY-SA 4.0 —
+    https://commons.wikimedia.org/wiki/File:Trois-Rivieres,_Quebec_-_802_rue_des_Ursulines_-_1.jpg
+  kind: single

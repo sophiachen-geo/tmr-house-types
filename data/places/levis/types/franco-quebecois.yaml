@@ -1,0 +1,102 @@
+id: levis.franco-quebecois
+place: levis
+phase: p2
+phase_confidence: verified
+display_order: 2
+name_en: 'Franco-Québécois transitional house'
+name_fr: 'Franco-québécois'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 11 « Franco-québécois », 1780-1820'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 11
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=11'
+period_label: '1780-1820'
+count_in_place: 50
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'transition-franco-quebecoise'
+styles:
+- 'french-regime'
+- 'neoclassical-quebec'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: bellcast
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'fieldstone'
+- 'stucco-render'
+- 'wood-clapboard'
+- 'wood-shingle'
+roofing: 'wood shingle or tôle à la canadienne'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 50 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One and a half storeys, sitting low to the ground.'
+  - 'Rectangular plan.'
+  - 'Two-slope roof with a curved bellcast eave, of steep pitch, covered in wood shingle or Canadian-pan tin.'
+  - 'Chimney; entrance stoop.'
+  articulation:
+  - 'Window and door surrounds; corner boards where the cladding is wood.'
+  openings:
+  - 'Casement windows with small or large panes, symmetrically placed; gabled dormers.'
+  materials:
+  - 'Stone, stucco render, wood clapboard or wood shingle.'
+profile_fr:
+  volumetrie:
+  - '1 ½ étage peu dégagé du sol'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'à 2 versants à larmier recourbé, à pente forte, revêtement de bardeau de bois ou de tôle à la canadienne'
+  saillies:
+  - 'cheminée, perron'
+  ornementation:
+  - 'chambranles, planches cornières lorsque le revêtement est en bois'
+  ouvertures:
+  - 'fenêtres à battants à petits ou à grands carreaux, symétriques, lucarnes à pignon'
+  revetements:
+  - 'pierre, crépi, clin ou bardeau de bois'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1780-1820).'
+conservation: null
+conservation_fr: null
+blurb_en: 'The step between the French-regime house and the Québécois house: still one and a half storeys and low to the ground, but the eaves now curve out in a bellcast and the windows line up symmetrically. Stone, render, clapboard or shingle; a chimney and a stoop.'
+origin_en: 'The transitional form of the decades either side of 1800, when Pointe-Lévy was a ferry landing and the shipyards at Lauzon were beginning. The bellcast eave that defines it is the single feature that separates it from the French-regime house behind it and connects it to the Québécois house that follows. About fifty are counted city-wide.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 11 « Franco-québécois » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=11 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=11'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4780-90-1932-2039-fonds-jocelyn-huard.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-fleuve-2039-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-140513mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-fleuve-2039-apres.jpg'
+  licence: 'permission required'

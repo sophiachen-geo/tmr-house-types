@@ -1,0 +1,91 @@
+id: levis.wartime-housing
+place: levis
+phase: p5
+phase_confidence: verified
+display_order: 19
+name_en: 'Wartime housing dwelling'
+name_fr: 'Wartime housing'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 6 « Wartime housing », 1940-1970'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 6
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=6'
+period_label: '1940-1970'
+count_in_place: 200
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'wartime-housing-1940s'
+styles:
+- 'wartime-housing'
+- 'minimal-traditional'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'asbestos-cement-tile'
+- 'aluminium-clapboard'
+- 'masonite-clapboard'
+roofing: 'asphalt shingle'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 200 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One and a half storeys.'
+  - 'Rectangular or square plan.'
+  - 'Straight two-slope, half-hipped or four-slope (pavilion) roof, in asphalt shingle.'
+  - 'Veranda, stoop, chimney.'
+  articulation:
+  - 'Sober; a gable, ornamental ironwork on the veranda.'
+  openings:
+  - 'Sash windows; gabled or shed dormers.'
+  materials:
+  - 'Light claddings: asbestos-cement tiles, aluminium or masonite clapboard.'
+profile_fr:
+  volumetrie:
+  - '1 ½ étage'
+  plan:
+  - 'rectangulaire ou carré'
+  toiture:
+  - 'à 2 versants droits, à demi-croupe ou à 4 versants (pavillon), bardeau d''asphalte'
+  saillies:
+  - 'galerie, perron, cheminée'
+  ornementation:
+  - 'sobre, pignon, fer ornemental sur la galerie'
+  ouvertures:
+  - 'fenêtres à guillotine, lucarne à pignon ou en appentis'
+  revetements:
+  - 'parements légers : tuiles d''amiante-ciment, clin d''aluminium ou de masonite'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1940-1970).'
+conservation: null
+conservation_fr: null
+blurb_en: 'One and a half storeys, rectangular or square, under asphalt shingle, in the light claddings that arrived with it — asbestos-cement tile, aluminium or masonite clapboard. A veranda or stoop, a chimney, and ornamental ironwork as the only decoration.'
+origin_en: 'Wartime Housing Limited''s standard dwelling, built for shipyard and munitions workers and kept in production into the 1960s; the City dates the current 1940–1970 and counts about 200. It is the first current in the catalogue whose materials are all industrial products rather than wood, stone or tin, and the ornamental ironwork on the veranda is the period''s signature.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 6 « Wartime housing » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=6 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=6'
+fiche_photos:
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-st-augustin-263-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-140526mjd.jpg'
+  licence: 'permission required'

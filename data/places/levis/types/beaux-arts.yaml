@@ -1,0 +1,98 @@
+id: levis.beaux-arts
+place: levis
+phase: p4
+phase_confidence: verified
+display_order: 14
+name_en: 'Beaux-Arts house'
+name_fr: 'Beaux-arts'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 15 « Beaux-arts », 1900-1930'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 15
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=15'
+period_label: '1900-1930'
+count_in_place: 10
+is_courant: false
+is_residential: true
+courant: null
+sectors:
+- 'PIIA-LEVIS'
+canonical:
+- 'eclectic-prestige-house'
+styles:
+- 'beaux-arts'
+style_label: null
+tenure_plan: single-family
+storeys: '2–3'
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'clay-brick'
+- 'cut-stone'
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 10 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  - 'Documented in Vieux-Lévis on rue Wolfe and avenue Bégin by the City''s walking-tour brochure Le Vieux-Lévis à pied.'
+  massing:
+  - 'Two or three storeys.'
+  - 'Rectangular plan.'
+  - 'Flat roof.'
+  - 'Covered veranda.'
+  articulation:
+  - 'Modillion cornice, balustrade, quoins, doorcase, pediment, window surrounds, keystone, columns and pilasters.'
+  openings:
+  - 'Rectangular or arched windows with transoms, sometimes grouped; symmetrical arrangement.'
+  materials:
+  - 'Brick or stone.'
+profile_fr:
+  volumetrie:
+  - '2 ou 3 étages'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'plate'
+  saillies:
+  - 'galerie couverte'
+  ornementation:
+  - 'corniche à modillons, garde-corps, chaînages d''angle, portail, fronton, chambranles, clé de voûte, colonnes et pilastres'
+  ouvertures:
+  - 'fenêtres rectangulaires ou arquées avec impostes, parfois regroupées, disposition symétrique'
+  revetements:
+  - 'brique ou pierre'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1900-1930).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Two or three storeys of brick or stone under a flat roof, symmetrical, with a covered veranda and the longest ornament list in the catalogue — modillion cornice, balustrade, quoins, doorcase, pediment, keystone, columns and pilasters.'
+origin_en: 'A prestige house rather than a public building: the City''s line drawing for this current is a two-storey dwelling with a veranda, quoins and a modillion cornice, and its worked example is 55 avenue Bégin. The walking-tour brochure''s maison Lasnier at 44 rue Wolfe, rebuilt in 1910 down to the basement in a « style éclectique d''inspiration palladienne », is the same idea. About ten are counted.'
+related_buildings:
+- name: 'Maison Lasnier, 44 rue Wolfe, Vieux-Lévis — « Le style éclectique d''inspiration palladienne date seulement de 1910 » (Le Vieux-Lévis à pied, stop 20)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 15 « Beaux-arts » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=15 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=15'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5285-76-7028-55-begin-1970.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-begin-55-002.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-140617cl.jpg'
+  licence: 'permission required'

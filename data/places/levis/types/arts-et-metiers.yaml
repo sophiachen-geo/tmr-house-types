@@ -1,0 +1,93 @@
+id: levis.arts-et-metiers
+place: levis
+phase: p4
+phase_confidence: verified
+display_order: 18
+name_en: 'Arts & Crafts house (Arts & métiers)'
+name_fr: 'Arts & métiers'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 14 « Arts & métiers », 1910-1945'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 14
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=14'
+period_label: '1910-1945'
+count_in_place: 60
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'detached-cottage-steep-gable'
+styles:
+- 'arts-et-metiers'
+- 'arts-and-crafts'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5–2'
+roof:
+  form: gabled-multi
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'fieldstone'
+- 'clay-brick'
+- 'stucco-render'
+- 'wood-clapboard'
+- 'wood-shingle'
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 60 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One and a half to two storeys.'
+  - 'Complex, articulated plan.'
+  - 'Roofs of varied and complex form and pitch — two- or four-slope, hipped, half-hipped.'
+  - 'Covered verandas, chimneys, oriels.'
+  articulation:
+  - 'Decorative woodwork.'
+  openings:
+  - 'Windows and dormers of varied form and type.'
+  materials:
+  - 'Natural materials: stone, brick, stucco render, wood clapboard or wood shingle, sometimes several materials combined.'
+profile_fr:
+  volumetrie:
+  - '1 ½ à 2 étages'
+  plan:
+  - 'complexe et articulé'
+  toiture:
+  - 'formes et pentes de toitures variées (2 ou 4 versants, à croupe, à demi-croupe) et complexes'
+  saillies:
+  - 'galeries couvertes, cheminées, oriels'
+  ornementation:
+  - 'boiseries décoratives'
+  ouvertures:
+  - 'fenêtres et lucarnes de formes et de types variés'
+  revetements:
+  - 'matériaux naturels : pierre, brique, crépi, clin ou bardeau de bois, parfois plusieurs matériaux amalgamés'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1910-1945).'
+conservation: null
+conservation_fr: null
+blurb_en: 'One and a half to two storeys on a complex articulated plan under roofs the fiche describes only as varied and complex, in natural materials — stone, brick, render, clapboard, shingle — often several at once. Verandas, chimneys and oriels project; the ornament is woodwork.'
+origin_en: 'Lévis says « Arts & métiers » where English-speaking Canada says Arts and Crafts, and the catalogue dates it 1910–1945. The insistence on « matériaux naturels » and on combining several of them is the movement''s own argument, restated as a planning description. About sixty are counted.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 14 « Arts & métiers » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=14 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=14'
+fiche_photos:
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-st-hilaire-76-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-140512jd.jpg'
+  licence: 'permission required'

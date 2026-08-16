@@ -1,0 +1,100 @@
+id: levis.boomtown
+place: levis
+phase: p4
+phase_confidence: verified
+display_order: 15
+name_en: 'Boomtown house'
+name_fr: 'Boomtown'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 10 « Boomtown », 1900-1930'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 10
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=10'
+period_label: '1900-1930'
+count_in_place: 100
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'boomtown-false-front'
+styles:
+- 'boomtown'
+style_label: null
+tenure_plan: single-family
+storeys: '1–2'
+roof:
+  form: flat-or-low-slope
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-clapboard'
+- 'wood-shingle'
+- 'asbestos-cement-tile'
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 100 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One to two storeys.'
+  - 'Rectangular or square plan.'
+  - 'Flat, or of very shallow pitch falling to the rear.'
+  - 'Parapet or cornice; covered veranda.'
+  articulation:
+  - 'Corner boards and window surrounds; cornice elements.'
+  openings:
+  - 'Multi-paned sash windows, symmetrically arranged.'
+  materials:
+  - 'Wood clapboard or wood shingle; diamond-pattern asbestos-cement tiles.'
+profile_fr:
+  volumetrie:
+  - '1 à 2 étages'
+  plan:
+  - 'rectangulaire ou carré'
+  toiture:
+  - 'plate ou à très faible pente vers l''arrière'
+  saillies:
+  - 'parapet ou corniche, galerie couverte'
+  ornementation:
+  - 'planches cornières et chambranles, éléments de corniche'
+  ouvertures:
+  - 'fenêtres à guillotine à carreaux, disposées symétriquement'
+  revetements:
+  - 'clin ou bardeau de bois, tuiles d''amiante-ciment en losange'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1900-1930).'
+conservation: null
+conservation_fr: null
+blurb_en: 'One to two storeys, square or rectangular, with the roof either flat or falling so gently to the rear that the street sees a straight line. A parapet or cornice finishes the front, a covered veranda fronts it, and corner boards and surrounds do the rest.'
+origin_en: 'The same form Saint-Lambert, Gatineau, Québec City and Trois-Rivières each describe in their own words — six independent municipal descriptions of one building. Lévis''s fiche is the tersest of them and the only one that pins the shallow pitch to the rear slope explicitly. About a hundred are counted.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 10 « Boomtown » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=10 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=10'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5587-95-3988-636-st-joseph-ca1970.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-st-joseph-636-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-140513mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-st-joseph-636-apres.jpg'
+  licence: 'permission required'

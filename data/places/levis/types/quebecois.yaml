@@ -1,0 +1,105 @@
+id: levis.quebecois
+place: levis
+phase: p2
+phase_confidence: verified
+display_order: 3
+name_en: 'Québécois traditional house'
+name_fr: 'Québécois'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 2 « Québécois », 1820-1880'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 2
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=2'
+period_label: '1820-1880'
+count_in_place: 700
+is_courant: false
+is_residential: true
+courant: null
+sectors:
+- 'PIIA-LEVIS'
+canonical:
+- 'quebec-traditional-1-5st-gable'
+styles:
+- 'neoclassical-quebec'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5–2.5'
+roof:
+  form: bellcast
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-clapboard'
+- 'wood-shingle'
+roofing: 'tôle à la canadienne or standing-seam tin'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 700 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  - 'Documented in Vieux-Lévis on rue Wolfe by the City''s walking-tour brochure Le Vieux-Lévis à pied (maison Lefrançois, 39; maison Pampalon, 40).'
+  massing:
+  - 'One and a half to two and a half storeys, raised slightly above the ground.'
+  - 'Rectangular plan.'
+  - 'Two-slope roof with a curved bellcast base, of medium pitch, in Canadian-pan or standing-seam tin.'
+  - 'Covered veranda — sheltered by the bellcast eave or by an independent awning — and a chimney.'
+  articulation:
+  - 'Window and door surrounds and corner boards; a doorcase; veranda trim (knee braces, railings).'
+  openings:
+  - 'Casement windows of four and six panes, plentiful and symmetrical; one or more gabled dormers.'
+  materials:
+  - 'Wood clapboard or wood shingle.'
+profile_fr:
+  volumetrie:
+  - '1 ½ à 2 ½ étages, légèrement dégagé du sol'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'à 2 versants à base recourbée, pente moyenne, en tôle à la canadienne ou à baguettes'
+  saillies:
+  - 'galerie couverte (par larmier ou auvent indépendant) et cheminée'
+  ornementation:
+  - 'chambranles et planches cornières, portail, garnitures de galeries (aisseliers, garde-corps)'
+  ouvertures:
+  - 'fenêtres à battants à 4 et 6 carreaux, abondantes et symétriques, lucarne(s) à pignon'
+  revetements:
+  - 'clin ou bardeau de bois'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1820-1880).'
+conservation: null
+conservation_fr: null
+blurb_en: 'The house that gives Lévis its street picture: one and a half to two and a half storeys, raised a little off the ground, under a medium-pitched two-slope roof whose curved base carries out over a covered veranda. Clapboard or shingle walls, four- and six-pane casements set symmetrically, gabled dormers, and carpentered trim on the surrounds, corner boards and veranda.'
+origin_en: 'At about seven hundred buildings this is the second most numerous current in the catalogue, and the one the City''s own walking-tour brochure uses to explain how the Norman house of the colonists became something Québécois. The brochure reads the maison Lefrançois at 39 rue Wolfe as exactly that evolution — dormers cut into the roof and clapboard on the walls — and the maison Pampalon at 40 rue Wolfe as its later stage, where the ground floor lifts far enough to make the basement usable.'
+related_buildings:
+- name: 'Maison Lefrançois, 39 rue Wolfe, Vieux-Lévis — « Cette maison illustre l''évolution de la maison normande, héritage des colons en Nouvelle-France, vers un style proprement canadien » (Le Vieux-Lévis à pied, stop 18)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+- name: 'Maison Pampalon, 40 rue Wolfe, Vieux-Lévis — « nous reprenons ici l''évolution du style québécois avec une surélévation davantage marquée du premier plancher » (Le Vieux-Lévis à pied, stop 19)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 2 « Québécois » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=2 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=2'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5386-09-4430-30 st-joseph-1970.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-joseph-30-avant-.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-140526mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-joseph-30-apres.jpg'
+  licence: 'permission required'

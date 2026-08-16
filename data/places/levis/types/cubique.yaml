@@ -1,0 +1,91 @@
+id: levis.cubique
+place: levis
+phase: p4
+phase_confidence: verified
+display_order: 16
+name_en: 'Cubic house (maison cubique)'
+name_fr: 'Cubique'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 4 « Cubique », 1900-1945'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 4
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=4'
+period_label: '1900-1945'
+count_in_place: 450
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'foursquare-hipped-2st'
+styles:
+- 'foursquare'
+style_label: null
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: hipped-or-pyramidal
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'clay-brick'
+- 'wood-clapboard'
+- 'wood-shingle'
+- 'asbestos-cement-tile'
+roofing: 'tôle à la canadienne or pincée'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 450 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'Two storeys.'
+  - 'Square plan.'
+  - 'Four-slope or pavilion roof of shallow pitch, in Canadian-pan or pinched-seam tin.'
+  - 'Covered veranda, sometimes on more than one elevation.'
+  articulation:
+  - 'Sober; corner boards and window surrounds.'
+  openings:
+  - 'Sash or casement windows with transoms; a central gabled or shed dormer.'
+  materials:
+  - 'Brick, wood clapboard or wood shingle; asbestos-cement tiles.'
+profile_fr:
+  volumetrie:
+  - '2 étages'
+  plan:
+  - 'carré'
+  toiture:
+  - 'à 4 versants ou en pavillon, à faible pente, en tôle à la canadienne ou pincée'
+  saillies:
+  - 'galerie couverte, parfois sur plus d''une façade'
+  ornementation:
+  - 'sobre, planches cornières et chambranles'
+  ouvertures:
+  - 'fenêtres à guillotine ou à battants avec imposte, lucarne centrale à pignon ou en appentis'
+  revetements:
+  - 'brique, clin ou bardeau de bois, tuiles d''amiante-ciment'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1900-1945).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Two storeys on a square plan under a shallow four-slope or pavilion roof, with a central dormer and a covered veranda that sometimes wraps a second face. Ornament is explicitly sober — corner boards and surrounds only.'
+origin_en: 'At about 450 buildings this is level with Second Empire as the third most numerous current. It is the same foursquare that Saint-Lambert, Gatineau, Québec City and Trois-Rivières each catalogue, and Lévis''s version is distinguished by the veranda turning the corner.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 4 « Cubique » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=4 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=4'
+fiche_photos:
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-st-georges-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-140526mjd.jpg'
+  licence: 'permission required'

@@ -1,0 +1,95 @@
+id: levis.second-empire
+place: levis
+phase: p3
+phase_confidence: verified
+display_order: 10
+name_en: 'Second Empire house'
+name_fr: 'Second Empire'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 5 « Second Empire », 1870-1920'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 5
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=5'
+period_label: '1870-1920'
+count_in_place: 450
+is_courant: false
+is_residential: true
+courant: null
+sectors: null
+canonical:
+- 'mansard-house-2st'
+styles:
+- 'second-empire'
+style_label: null
+tenure_plan: single-family
+storeys: '2–3'
+roof:
+  form: mansard
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'clay-brick'
+- 'wood-clapboard'
+- 'wood-shingle'
+roofing: 'standing-seam tin on the terrasson, tôle à la canadienne on the brisis'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 450 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'Two to three storeys.'
+  - 'Rectangular plan.'
+  - 'Mansard roof of two or four slopes, standing-seam tin on the flat upper deck (terrasson) and Canadian-pan tin on the steep lower slope (brisis).'
+  - 'Chimney; covered veranda.'
+  articulation:
+  - 'Window and door surrounds, corner boards, decorative woodwork and veranda trim.'
+  openings:
+  - 'Casement windows of four and six panes and, more rarely, sash windows; gabled or round-headed dormers.'
+  materials:
+  - 'Brick, wood clapboard or wood shingle.'
+profile_fr:
+  volumetrie:
+  - '2 à 3 étages'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'mansardée, à 2 ou à 4 versants, tôle à baguettes sur le terrasson et tôle à la canadienne sur le brisis'
+  saillies:
+  - 'cheminée, galerie couverte'
+  ornementation:
+  - 'chambranles, planches cornières, boiseries décoratives et garnitures de galerie'
+  ouvertures:
+  - 'fenêtre à battants à 4 et 6 carreaux et, plus rarement, à guillotine, lucarnes à pignon ou ceintrées'
+  revetements:
+  - 'brique, clin ou bardeau de bois'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1870-1920).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Two to three storeys under a mansard whose two tin finishes are specified separately — standing seam on the flat deck above, Canadian pan on the steep slope below. Four- and six-pane casements, gabled or round-headed dormers, a covered veranda and carpentered trim.'
+origin_en: 'At about 450 buildings, one of the four big currents in the catalogue, and the form of the Lévis of the railway decades after 1870. The old hôtel de ville, demolished in 1965 and shown in the City''s walking-tour brochure on the site of the present parc Joseph-Godéric-Blanchet, was Second Empire.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 5 « Second Empire » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=5 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=5'
+fiche_photos:
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-3avenue-306-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-140619cl.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-3e-306-01-apres.jpg'
+  licence: 'permission required'

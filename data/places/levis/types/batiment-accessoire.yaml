@@ -1,0 +1,93 @@
+id: levis.batiment-accessoire
+place: levis
+phase: p2
+phase_confidence: provisional
+display_order: 8
+name_en: 'Accessory building (other than agricultural)'
+name_fr: 'Autre type : Bâtiment accessoire (autre qu’agricole)'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 13 « Autre type : Bâtiment accessoire (autre qu’agricole) », 1850-1950'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 13
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=13'
+period_label: '1850-1950'
+count_in_place: null
+is_courant: false
+is_residential: false
+courant: null
+sectors: null
+canonical: []
+styles: []
+style_label: null
+tenure_plan: single-family
+storeys: '1–1.5'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'wood-vertical-board'
+- 'wood-clapboard'
+- 'wood-shingle'
+roofing: null
+garage: detached
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The fiche gives no « Nombre à Lévis » figure for this entry — one of only two of the twenty that do not.'
+  massing:
+  - 'One to one and a half storeys.'
+  - 'Rectangular plan.'
+  - 'Two-slope roof of shallow pitch.'
+  - 'None.'
+  articulation:
+  - 'Sober; window and door surrounds and corner boards.'
+  openings:
+  - 'Garage door; fixed windows.'
+  materials:
+  - 'Vertical wood boarding, wood clapboard or wood shingle.'
+profile_fr:
+  volumetrie:
+  - '1 à 1 ½ étage'
+  plan:
+  - 'rectangulaire'
+  toiture:
+  - 'à 2 versants à faible pente'
+  saillies:
+  - 'aucune'
+  ornementation:
+  - 'sobre, chambranles et planches cornières'
+  ouvertures:
+  - 'porte de garage, fenêtres fixes'
+  revetements:
+  - 'planches de bois verticales, clin ou bardeau de bois'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1850-1950). Not a dwelling: recorded from the catalogue and exported, but not rendered as a type card.'
+conservation: null
+conservation_fr: null
+blurb_en: 'The catalogue''s entry for garages, sheds and other outbuildings that are not farm buildings: one to one and a half storeys, shallow two-slope roof, boarded or shingled walls, a garage door and fixed lights, and no projections at all.'
+origin_en: 'One of the two entries the catalogue files under « Autre type », and one of only two of the twenty that carry no « Nombre à Lévis » figure. It is recorded here because it is part of the published catalogue, but it is not a dwelling and gets no card.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 13 « Autre type : Bâtiment accessoire (autre qu’agricole) » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=13 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=13'
+fiche_photos:
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-carrier-48-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-140504mjd.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-carrier-48-apres.jpg'
+  licence: 'permission required'

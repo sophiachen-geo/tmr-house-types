@@ -1,0 +1,106 @@
+id: levis.neogothique
+place: levis
+phase: p2
+phase_confidence: provisional
+display_order: 5
+name_en: 'Neo-Gothic'
+name_fr: 'Néogothique'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 17 « Néogothique », 1830-1940'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 17
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=17'
+period_label: '1830-1940'
+count_in_place: 10
+is_courant: false
+is_residential: true
+courant: null
+sectors:
+- 'PIIA-LEVIS'
+canonical:
+- 'detached-cottage-steep-gable'
+styles:
+- 'neogothique'
+style_label: null
+tenure_plan: single-family
+storeys: '1.5–2.5'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- 'clay-brick'
+- 'fieldstone'
+- 'wood-clapboard'
+roofing: 'tôle à la canadienne or wood shingle'
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 10 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  - 'Documented in Vieux-Lévis at the carré Déziel by the City''s walking-tour brochure Le Vieux-Lévis à pied.'
+  massing:
+  - 'One and a half to two and a half storeys.'
+  - 'Irregular plan.'
+  - 'Steeply pitched two-slope roof in Canadian-pan tin or wood shingle.'
+  - 'Bell tower, projecting bays, buttresses, pilasters, pinnacles.'
+  articulation:
+  - 'String courses, friezes, patterned brick or stonework, stained glass, a doorcase, decorative woodwork.'
+  openings:
+  - 'Pointed-arch openings; vertical openings of varied pattern.'
+  materials:
+  - 'Brick, stone or wood clapboard.'
+profile_fr:
+  volumetrie:
+  - '1 ½ à 2 ½ étages'
+  plan:
+  - 'irrégulier'
+  toiture:
+  - 'à 2 versants à pente forte, tôle à la canadienne ou bardeau de bois'
+  saillies:
+  - 'clocher, avancées, contreforts, pilastres, pinacles'
+  ornementation:
+  - 'bandeaux, frises, jeux de brique ou de pierre, vitraux, portail, boiseries décoratives'
+  ouvertures:
+  - 'à arc ogival, ouvertures verticales de modèles variées'
+  revetements:
+  - 'brique, pierre ou clin de bois'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1830-1940).'
+conservation: null
+conservation_fr: null
+blurb_en: 'Steep two-slope roofs over an irregular plan, with pointed-arch openings and vertical windows of varied pattern. The City''s own line drawing for this current is a chapel, and its projections — bell tower, buttresses, pinnacles — are ecclesiastical; the domestic version reads through the same steep gables and decorative bargeboards.'
+origin_en: 'Lévis''s best-known Neo-Gothic building is a house: the maison Alphonse-Desjardins of 1882–1884, where the first caisse populaire was founded in 1900. The RPCQ describes it as « une habitation de style néogothique… de plan asymétrique en forme de « L », à un étage et demi… coiffée d''un toit à deux versants ponctué de deux pignons en façade », and it was classed an immeuble patrimonial on 21 March 1983. The City''s fiche spans 1830 to 1940, a reach of over a century, so the phase placement here follows the opening date and is marked provisional.'
+related_buildings:
+- name: 'Maison Alphonse-Desjardins, 8 rue du Mont-Marie, Lévis (1882–1884), classed immeuble patrimonial 21 March 1983 — RPCQ 92424'
+  url: 'https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92424&type=bien'
+- name: 'Carré Déziel and the maison historique Alphonse-Desjardins — « Cette coquette résidence d''esprit victorien démontre une inspiration néogothique par les nombreux éléments décoratifs tels les dentelles de bois et les pignons » (Le Vieux-Lévis à pied, stops 11–12)'
+  url: 'https://www.ville.levis.qc.ca/fileadmin/Documents_PDF/brochure-vieux-levis-a-pied.pdf'
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 17 « Néogothique » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=17 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=17'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4574-47-0126-3016-eglises.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-eglises-3016-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17_140526MJD.jpg'
+  licence: 'permission required'
+- kind: after
+  file: null
+  label_fr: 'APRÈS les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-eglises-3016-apres.jpg'
+  licence: 'permission required'

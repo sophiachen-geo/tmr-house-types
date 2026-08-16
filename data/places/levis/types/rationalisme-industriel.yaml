@@ -1,0 +1,96 @@
+id: levis.rationalisme-industriel
+place: levis
+phase: p2
+phase_confidence: provisional
+display_order: 9
+name_en: 'Industrial rationalism'
+name_fr: 'Rationalisme industriel'
+source_ref: 'Ville de Lévis, « Styles architecturaux », fiche 20 « Rationalisme industriel », 1850-1960'
+source_generation: 'Ville de Lévis « Styles architecturaux » online catalogue (crawled 16 August 2026)'
+fiche_id: 20
+source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=20'
+period_label: '1850-1960'
+count_in_place: 10
+is_courant: false
+is_residential: false
+courant: null
+sectors: null
+canonical: []
+styles:
+- 'rationalisme-industriel'
+style_label: null
+tenure_plan: mixed
+storeys: '1–5'
+roof:
+  form: flat-or-low-slope
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- 'fieldstone'
+- 'clay-brick'
+- 'stucco-render'
+- 'concrete'
+- 'sheet-metal'
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The City counts about 10 buildings of this current across the merged territory of Lévis (fiche  « Nombre à Lévis »).'
+  massing:
+  - 'One to five storeys.'
+  - 'Rectangular or complex plan.'
+  - 'Flat or straight two-slope roof.'
+  - 'Chimneys, annexe volumes.'
+  articulation:
+  - 'Sober.'
+  openings:
+  - 'Large windows or garage doors.'
+  materials:
+  - 'Stone, brick, stucco render, concrete, metal cladding.'
+profile_fr:
+  volumetrie:
+  - 'de 1 à 5 étages'
+  plan:
+  - 'rectangulaire ou complexe'
+  toiture:
+  - 'plate ou à 2 versants droits'
+  saillies:
+  - 'cheminées, volumes annexes'
+  ornementation:
+  - 'sobre'
+  ouvertures:
+  - 'grandes fenêtres ou portes de garage'
+  revetements:
+  - 'pierre, brique, crépi, béton, revêtement métallique'
+profile_note: 'Encoded by sources/levis/parse.py from the City''s fiche for this courant. The five columns follow the fiche''s own seven fields: Volumétrie, Plan, Toiture and Saillies together make up massing, Ornementation is articulation, Ouvertures is openings and Revêtements is materials. The French under each English list is the fiche''s wording verbatim, unedited. Siting has no counterpart in the fiche, so it carries the catalogue''s own « Nombre à Lévis » distribution figure instead, and no French. Phase follows the opening year of the index''s period range (1850-1960). Not a dwelling: recorded from the catalogue and exported, but not rendered as a type card.'
+conservation: null
+conservation_fr: null
+blurb_en: 'One to five storeys, flat or straight-gabled, in stone, brick, render, concrete or sheet metal, with large windows or vehicle doors and nothing decorative about it. The building type of the Davie yards at Lauzon and the railway works.'
+origin_en: 'The industrial current of a shipbuilding and railway town — the Davie yard at Lauzon has been building ships since 1829 — and the only entry in the catalogue that the City gives a style but no house form. Not a dwelling, so it is recorded and exported but gets no card.'
+related_buildings: null
+photos:
+- file: null
+  credit: 'Ville de Lévis, « Styles architecturaux », fiche 20 « Rationalisme industriel » — historic, before, potential and after photographs at https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=20 . Not reproduced: the Ville de Lévis conditions d''utilisation state « Il vous est interdit de copier ou de publier, pour rediffusion à des tiers ou à des fins commerciales, la moindre partie du contenu. »'
+  kind: placeholder
+  licence: 'permission required'
+  source_url: 'https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=20'
+fiche_photos:
+- kind: historic
+  file: null
+  label_fr: 'ANCIENNE photographie'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-wolfe-17-avant2.jpg'
+  licence: 'permission required'
+- kind: before
+  file: null
+  label_fr: 'AVANT les travaux'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-wolfe-17-avant.jpg'
+  licence: 'permission required'
+- kind: potential
+  file: null
+  label_fr: 'POTENTIEL de mise en valeur'
+  source_url: 'https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20_150110mhc.jpg'
+  licence: 'permission required'
