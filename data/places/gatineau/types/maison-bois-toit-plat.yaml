@@ -17,12 +17,11 @@ tenure_plan: single-family
 storeys: '2'
 roof:
   form: flat-or-low-slope
-  pitch_deg: 0
+  pitch_deg: null
 window_proportion: null
 principal_cladding:
 - wood-clapboard
 - wood-shiplap
-- pressed-metal
 roofing: null
 garage: null
 lot_width_m: null
@@ -30,7 +29,8 @@ setback_front_m: null
 setback_side_m: null
 front_yard_green_pct: null
 profile:
-  siting_landscape: []
+  siting_landscape:
+  - Marked presence in the Hull sector and, to a lesser extent, in the Aylmer, Gatineau and Masson-Angers sectors.
   massing:
   - 'Roof form: flat roof, or low-slope roof sloping down towards the rear.'
   - 'Height: two storeys above ground.'
@@ -99,13 +99,15 @@ profile_fr:
     sur la façade avant.
   - Planches cornières (fréquent).
   - Chambranles autour des ouvertures (fréquent).
-profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
-  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
-  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
-  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
-  from the historical context section instead.
+profile_note: 'Encoded from the City''s 2023 fiche for this type. The five columns follow the fiche''s own sections
+  — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings,
+  revêtement → materials — and the French beneath each English list is the fiche''s wording. Three normalisations
+  are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the
+  figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche''s
+  « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction
+  period is encoded and the phase rests on the historical-context section instead.'
 conservation:
-- 'Prefer: Extensions should be made at the rear of the building and remain barely visible from the street. In the
+- 'Prefer: Extensions should be made at the rear of the building and remain little visible from the street. In the
   case of a contemporary extension at the rear, the new volume could draw on the scale and the forms of the original
   extensions or secondary volumes.'
 - 'Prefer: Original projecting elements should be maintained and preserved as far as possible.'
@@ -155,14 +157,14 @@ conservation_fr:
 - Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
   bâtiment.
 - Éviter de retirer des ornements originaux sans les remplacer.
-blurb_en: Two storeys under a flat roof, or one pitched just enough to drain to the rear, on a rectangular plan. A
-  porch or covered gallery on square wood posts under a shed roof fronts an off-centre door, and the ornament is saved
-  for the eaves — a plain overhang, or a cornice on brackets, dentils or modillions — with corner boards and casings
-  around the openings.
+blurb_en: Two storeys under a flat roof, or a low slope falling to the rear, most often on a rectangular plan set
+  perpendicular to the street. A porch (frequent) or covered gallery (occasional) stands at the front under a shed
+  roof on wood columns, square more often than round; the simple main door, with a window beside it, is set off-centre.
+  The sober ornament is concentrated on the roof overhang and the openings.
 origin_en: 'Like most houses of the industrial vernacular style, the flat-roofed wood house appeared in the wake of
-  industrialisation and the standardisation of building materials: milling lumber into studs of set dimensions (2"
-  × 4", 2" × 6", etc.) made new techniques possible, notably wood-frame construction from the 1860s. Building this
-  way was faster and cheaper and produced roomier houses, of two full storeys, within reach of the working class.
+  industrialisation and the standardisation of building materials: milling lumber into studs of various dimensions
+  (2" × 4", 2" × 6", etc.) made new techniques possible, notably wood-frame construction from the 1860s. Building
+  this way was faster and cheaper and produced roomier houses, of two full storeys, within reach of the working class.
   The type is bound to industrialisation not only through its standardised materials and the new techniques that produced
   it, but through its purpose — housing a factory workforce newly settled in the cities, from the end of the 19th
   century into the beginning of the 20th — which is why most of these houses are found in dense urban settings. In

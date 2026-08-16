@@ -107,11 +107,13 @@ profile_fr:
     en pierre.
   - Chambranles en bois encadrant les ouvertures (fréquent) sur les maisons recouvertes de bois.
   - Planches cornières sur les maisons recouvertes de bois (fréquent).
-profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
-  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
-  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
-  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
-  from the historical context section instead.
+profile_note: 'Encoded from the City''s 2023 fiche for this type. The five columns follow the fiche''s own sections
+  — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings,
+  revêtement → materials — and the French beneath each English list is the fiche''s wording. Three normalisations
+  are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the
+  figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche''s
+  « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction
+  period is encoded and the phase rests on the historical-context section instead.'
 conservation:
 - 'Prefer: Additions should be made at the rear of the building and remain little visible from the street. In the
   case of a contemporary addition at the rear, the new volume could take inspiration from the size and the forms of

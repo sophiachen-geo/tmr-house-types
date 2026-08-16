@@ -822,7 +822,7 @@
    "storeys": "2–3",
    "roof": {
     "form": "flat-or-low-slope",
-    "pitch_deg": 0
+    "pitch_deg": null
    },
    "window_proportion": "vertical",
    "principal_cladding": [
@@ -837,7 +837,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Aylmer, Hull and Buckingham sectors and, to a lesser extent, in the Gatineau sector."
+    ],
     "massing": [
      "Flat roof, or of shallow pitch sloping down towards the rear.",
      "Two to three storeys above ground.",
@@ -901,7 +903,7 @@
      "Pierre millésimée en façade (rare)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Extensions should be built at the rear of the building and remain little visible from the street. In the case of a contemporary rear extension, the new volume could take its cue from the scale and forms of the original extensions or secondary volumes.",
     "Prefer: Preserve the symmetry of the volume and of the façade composition.",
@@ -992,7 +994,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Aylmer sector and, to a lesser extent, in the Hull and Buckingham sectors."
+    ],
     "massing": [
      "Straight two-slope (gable) roof of low to medium pitch, with the ridge line parallel to the street (frequent) or perpendicular to the street (occasional).",
      "Where the roof is low-pitched with the ridge line parallel to the street, the roof extends over a veranda at the front (frequent).",
@@ -1063,7 +1067,7 @@
      "Balustres de bois droits composant la balustrade de la galerie (fréquent)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Enlargements should be made at the rear of the building and remain barely visible from the street.",
     "Prefer: Maintain and keep the original components of the verandas and porches as well as the massing.",
@@ -1155,7 +1159,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Hull sector and, to a lesser extent, in the Buckingham sector."
+    ],
     "massing": [
      "Roof with two straight slopes of medium pitch.",
      "One and a half to two and a half storeys.",
@@ -1220,7 +1226,7 @@
      "Briques en soldat en maçonnerie au-dessus des ouvertures des duplex recouverts de briques (rare)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Extensions should be made at the rear of the building and remain barely visible from the street. In the case of a contemporary extension at the rear, the new volume could draw on the size and the forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and verandas as well as the massing.",
@@ -1384,7 +1390,7 @@
      "Planches cornières sur les maisons recouvertes de bois (fréquent)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Additions should be made at the rear of the building and remain little visible from the street. In the case of a contemporary addition at the rear, the new volume could take inspiration from the size and the forms of the original extensions or secondary volumes.",
     "Prefer: Preserve the symmetry of the volume and of the façade composition.",
@@ -1487,7 +1493,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "A marked presence in the sectors of Hull, Aylmer and Buckingham."
+    ],
     "massing": [
      "The roof form is often complex and presents several projecting elements (turret, gable, etc.).",
      "Four-slope hipped roof, with or without a ridge platform (terrasse faîtière) and projecting gables (frequent).",
@@ -1580,7 +1588,7 @@
      "Persiennes (occasionnel)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Extensions should be made at the rear of the building and remain little visible from the street. In the case of a contemporary extension at the rear, the new volume could take inspiration from the size and the forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -1671,7 +1679,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Strongly present in the Hull and Aylmer sectors and, to a lesser extent, in the Gatineau, Masson-Angers and Buckingham sectors."
+    ],
     "massing": [
      "Broken (mansard) roof with two slopes, the ridge line perpendicular to the street, and a gable wall on the façade.",
      "Brisis of shallow angle, straight (frequent) or with coyaux (occasional).",
@@ -1745,7 +1755,7 @@
      "Retour de l'avant-toit (occasionnel)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Enlargements should be made at the rear of the building and remain little visible from the street. In the case of a contemporary rear addition, the new volume could take inspiration from the size and the forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -1838,7 +1848,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Hull and Aylmer sectors and, to a lesser extent, in the Buckingham, Gatineau and Masson-Angers sectors."
+    ],
     "massing": [
      "Straight two-slope (gable) roof with the ridge perpendicular to the street and the gable wall on the front.",
      "One and a half storeys.",
@@ -1902,7 +1914,7 @@
      "Retour de l'avant-toit (occasionnel)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Extensions should be built at the rear of the building and remain barely visible from the street. In the case of a contemporary rear extension, the new volume could take inspiration from the size and forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -1997,7 +2009,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Hull sector and, to a lesser extent, in the Aylmer, Buckingham, Gatineau and Masson-Angers sectors."
+    ],
     "massing": [
      "Straight two-slope gable roof with the ridge line perpendicular to the street and the gable wall on the façade.",
      "Two to two and a half storeys.",
@@ -2062,7 +2076,7 @@
      "Retour de l’avant-toit (occasionnel)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Enlargements should be made at the rear of the building and remain barely visible from the street. In the case of a contemporary rear enlargement, the new volume could draw on the scale and the forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries, as well as the massing.",
@@ -2156,7 +2170,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Hull and Aylmer sectors and, to a lesser extent, in the Buckingham sector."
+    ],
     "massing": [
      "Gable roof with two straight slopes, with the ridge line perpendicular to the street and the gable wall on the façade.",
      "Two storeys to two and a half storeys.",
@@ -2226,7 +2242,7 @@
      "Jeu de relief avec la brique en façade (fréquent)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Enlargements should be made at the rear of the building and remain barely visible from the street. In the case of a contemporary rear enlargement, the new volume could draw on the size and the forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -2307,7 +2323,7 @@
    "storeys": "2–2.5",
    "roof": {
     "form": "hipped-or-pyramidal",
-    "pitch_deg": 30
+    "pitch_deg": null
    },
    "window_proportion": null,
    "principal_cladding": [
@@ -2398,7 +2414,7 @@
      "Planches cornières et chambranles lorsque le revêtement est en bois (fréquent)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Significant enlargements, additions or alterations should be carried out at the rear of the building and remain little visible from the street. In the case of a contemporary rear extension, the new volume could take its cue from the size and forms of the original extensions already found on certain houses.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -2437,8 +2453,8 @@
    "phase_confidence": "verified",
    "sectors": [],
    "source_generation": "2023 type fiches (Ville de Gatineau)",
-   "blurb_en": "Two to two and a half storeys on a square or barely rectangular plan — narrower in Hull, where the lots are — under a four-slope pavilion or hipped roof pitched under 30 degrees. A front gallery on square wood columns about 8 to 10 inches on a side, a door off-centre under its transom, and frequently a dormer on the front. Red Modular brick in stretcher bond, clapboard, or concrete block in the eastern sectors.",
-   "origin_en": "The cubic house became popular at the start of the 20th century through the American architectural plan catalogues, which also enjoyed great success in Canada; from the 1890s those magazines published cubic-house plans, and by the 1900s the type had become a staple. Residential construction was democratising at the same time, eased by the arrival of standardised, machine-made building materials and architectural components — which is why the type is associated with industrial vernacular architecture. Beyond the timbers of the structure and frame, the standardised and prefabricated elements turn up above all in the exterior and interior ornamentation, and that variety of ornaments and claddings also let the cubic house take on different architectural styles. Its popularity owed as well to the generous dimensions allowed by a square plan on two storeys, giving increased living space; industrialisation and the fall in construction costs it brought made the cubic house an affordable model.",
+   "blurb_en": "Two to two and a half storeys on a square or barely rectangular plan — narrower in Hull, on account of the lot format — under a four-slope pavilion or hipped roof of low to medium pitch, under 30 degrees. A front gallery is frequent, as are square wood columns about 8 to 10 inches on a side, and a single door usually beneath a transom, most often off-centre though sometimes centred. Red Modular brick in stretcher bond most often, occasionally clapboard, or concrete block in the Buckingham, Gatineau and Masson-Angers sectors.",
+   "origin_en": "The cubic house became popular at the start of the 20th century through the American architectural plan catalogues, which also enjoyed great success in Canada; from the 1890s those magazines published cubic-house plans, and by the 1900s the type had become a staple. Residential construction was democratising at the same time, eased by the arrival of standardised, machine-made building materials and architectural components ; the type is moreover associated with industrial vernacular architecture. Beyond the timbers of the structure and frame, the standardised and prefabricated elements turn up notably in the exterior and interior ornamentation, and that variety of ornaments and claddings also let the cubic house take on different architectural styles. Its popularity owed as well to the generous dimensions allowed by a square plan on two storeys, giving increased living space; industrialisation and the fall in construction costs it brought made the cubic house an affordable model.",
    "photo": {
     "file": null,
     "credit": "Passerelles Coopérative en patrimoine. 2023. 57, rue Principale — Ville de Gatineau. Not reproduced: the City's conditions of use prohibit republication to third parties.",
@@ -2459,7 +2475,7 @@
    "phase_title": "The CIP mill and the Quartier-du-Moulin",
    "name_en": "CIP executive's house (maison de cadre de la CIP)",
    "name_fr": "La maison de cadre de la CIP",
-   "source_ref": "Ville de Gatineau, fiche « La maison de cadre de la CIP » (Passerelles Coopérative en patrimoine, 2023)",
+   "source_ref": "Ville de Gatineau, fiche « La maison de cadre de la CIP » (Passerelles Coopérative en patrimoine, 2023); RPCQ, Site patrimonial du Quartier-du-Moulin (id 92813)",
    "canonical": [
     "company-house-executive-1925"
    ],
@@ -2467,12 +2483,10 @@
     "Executive/managerial company house of the 1925–1950 upper district, English-cottage idiom"
    ],
    "styles": [
-    "arts-and-crafts",
-    "tudor-revival"
+    "arts-and-crafts"
    ],
    "style_names": [
-    "Arts and Crafts",
-    "Tudor Revival"
+    "Arts and Crafts"
    ],
    "style_label": null,
    "tenure_plan": "single-family",
@@ -2484,6 +2498,7 @@
    "window_proportion": null,
    "principal_cladding": [
     "wood-shingle",
+    "wood-shiplap",
     "wood-clapboard"
    ],
    "roofing": null,
@@ -2493,7 +2508,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Present in the Gatineau sector, and more particularly within the Quartier-du-Moulin heritage site."
+    ],
     "massing": [
      "Roof form",
      "Medium-pitched to steep roof with perpendicular gables (frequent).",
@@ -2576,7 +2593,7 @@
      "Présence de pilastres encastrés dans la façade au niveau de l'entrée (occasionnel)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Extensions should be built at the rear of the building and remain barely visible from the street. In the case of a contemporary extension at the rear, the new volume, while leaving precedence to the original one, could take inspiration from the scale and forms of the original projections or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -2617,7 +2634,7 @@
     "SP-MOULIN"
    ],
    "source_generation": "2023 type fiches (Ville de Gatineau)",
-   "blurb_en": "The paper company's house for its managers: an Arts and Crafts cottage of one and a half to two and a half storeys, its rectangular or L plan broken by projections, under a medium to steep roof with perpendicular gables and flared coyaux, in dark-painted shingle or board, with carved shutters — set back behind a double row of trees on three blocks of the Quartier-du-Moulin.",
+   "blurb_en": "The paper company's house for its managers: an Arts and Crafts house of one and a half to two and a half storeys, its rectangular or L plan broken by projections, under a medium to steep roof with perpendicular gables and flared coyaux, in dark-painted shingle or board, with carved shutters. Found in the Gatineau sector and particularly inside the site patrimonial du Quartier-du-Moulin, whose citation lists the setback from the street and the double row of pavement trees among the elements it protects.",
    "origin_en": "Built at the end of the 1920s, these houses were intended to lodge the executives of the Canadian International Paper (CIP), whose mill stood adjacent to — and gave its name to — the Quartier-du-Moulin. The building type belongs to the American Arts & Crafts current, whose stylistic and architectural characteristics were imported from the United Kingdom and adapted to the North American continent, and which favours natural materials such as wood in the form of shingles or boards, brick, or stone. Architectural magazines presenting house models were hugely popular in the United States and Canada in the early 20th century and spread the Arts & Crafts style through the anglophone world; the Toronto architect William Lyon Somerville, one of CIP's retained architects and the presumed designer of these houses, probably chose this style for the Quartier-du-Moulin residences. The movement's founding principles — the ideal of a return to nature and the appeal of a pastoral way of life — suited the garden-city principles the company followed in planning its towns, and details such as the roof coyaux and shed dormers found on some houses may vaguely evoke a thatched roof.",
    "photo": {
     "file": "assets/places/gatineau/124-rue-poplar-commons.jpg",
@@ -2657,13 +2674,12 @@
    "storeys": "2",
    "roof": {
     "form": "flat-or-low-slope",
-    "pitch_deg": 0
+    "pitch_deg": null
    },
    "window_proportion": null,
    "principal_cladding": [
     "wood-clapboard",
-    "wood-shiplap",
-    "pressed-metal"
+    "wood-shiplap"
    ],
    "roofing": null,
    "garage": null,
@@ -2672,7 +2688,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Hull sector and, to a lesser extent, in the Aylmer, Gatineau and Masson-Angers sectors."
+    ],
     "massing": [
      "Roof form: flat roof, or low-slope roof sloping down towards the rear.",
      "Height: two storeys above ground.",
@@ -2737,9 +2755,9 @@
      "Chambranles autour des ouvertures (fréquent)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
-    "Prefer: Extensions should be made at the rear of the building and remain barely visible from the street. In the case of a contemporary extension at the rear, the new volume could draw on the scale and the forms of the original extensions or secondary volumes.",
+    "Prefer: Extensions should be made at the rear of the building and remain little visible from the street. In the case of a contemporary extension at the rear, the new volume could draw on the scale and the forms of the original extensions or secondary volumes.",
     "Prefer: Original projecting elements should be maintained and preserved as far as possible.",
     "Prefer: Favour a flat roof for extensions.",
     "Avoid: Avoid extensions or additions in height that would alter the massing of the roof or the precedence of the main volume.",
@@ -2776,8 +2794,8 @@
    "phase_confidence": "verified",
    "sectors": [],
    "source_generation": "2023 type fiches (Ville de Gatineau)",
-   "blurb_en": "Two storeys under a flat roof, or one pitched just enough to drain to the rear, on a rectangular plan. A porch or covered gallery on square wood posts under a shed roof fronts an off-centre door, and the ornament is saved for the eaves — a plain overhang, or a cornice on brackets, dentils or modillions — with corner boards and casings around the openings.",
-   "origin_en": "Like most houses of the industrial vernacular style, the flat-roofed wood house appeared in the wake of industrialisation and the standardisation of building materials: milling lumber into studs of set dimensions (2\" × 4\", 2\" × 6\", etc.) made new techniques possible, notably wood-frame construction from the 1860s. Building this way was faster and cheaper and produced roomier houses, of two full storeys, within reach of the working class. The type is bound to industrialisation not only through its standardised materials and the new techniques that produced it, but through its purpose — housing a factory workforce newly settled in the cities, from the end of the 19th century into the beginning of the 20th — which is why most of these houses are found in dense urban settings. In the United States the type is often associated with the Boomtown style, which developed spectacularly at the time of industrialisation.",
+   "blurb_en": "Two storeys under a flat roof, or a low slope falling to the rear, most often on a rectangular plan set perpendicular to the street. A porch (frequent) or covered gallery (occasional) stands at the front under a shed roof on wood columns, square more often than round; the simple main door, with a window beside it, is set off-centre. The sober ornament is concentrated on the roof overhang and the openings.",
+   "origin_en": "Like most houses of the industrial vernacular style, the flat-roofed wood house appeared in the wake of industrialisation and the standardisation of building materials: milling lumber into studs of various dimensions (2\" × 4\", 2\" × 6\", etc.) made new techniques possible, notably wood-frame construction from the 1860s. Building this way was faster and cheaper and produced roomier houses, of two full storeys, within reach of the working class. The type is bound to industrialisation not only through its standardised materials and the new techniques that produced it, but through its purpose — housing a factory workforce newly settled in the cities, from the end of the 19th century into the beginning of the 20th — which is why most of these houses are found in dense urban settings. In the United States the type is often associated with the Boomtown style, which developed spectacularly at the time of industrialisation.",
    "photo": {
     "file": null,
     "credit": "Enclume. 2023. 855, rue Jacques-Cartier — Ville de Gatineau. Not reproduced: the City's conditions of use prohibit republication to third parties.",
@@ -2816,7 +2834,7 @@
    "storeys": "2–3",
    "roof": {
     "form": "flat-or-low-slope",
-    "pitch_deg": 0
+    "pitch_deg": null
    },
    "window_proportion": "vertical",
    "principal_cladding": [
@@ -2829,7 +2847,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Markedly present in the Hull sector and, to a lesser extent, in the Aylmer and Buckingham sectors."
+    ],
     "massing": [
      "Flat roof, or low-pitched sloping toward the rear.",
      "Two storeys (common) to three storeys (occasional) above ground.",
@@ -2891,7 +2911,7 @@
      "Briques en soldat (fréquent) ou linteaux arqués en briques (occasionnel), ou linteaux en béton moulé (occasionnel) au-dessus des ouvertures et allèges en béton moulé en dessous des fenêtres (fréquent)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Enlargements should be made at the rear of the building and remain little visible from the street. In the case of a contemporary enlargement at the rear, the new volume could draw on the size and the forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep up the original components of the projections and galleries as well as the massing.",
@@ -2930,8 +2950,8 @@
    "phase_confidence": "verified",
    "sectors": [],
    "source_generation": "2023 type fiches (Ville de Gatineau)",
-   "blurb_en": "The same box in brick: two to three storeys of fine-grained red Modular brick in stretcher bond under a roof that is flat or falls gently to the rear, finished at the street by an ornamented cornice on consoles, modillions or dentils, sometimes with a parapet above. Soldier courses, arched brick or moulded-concrete lintels over the openings, moulded-concrete sills beneath the windows.",
-   "origin_en": "The type follows the industrialisation of building materials and methods: Balloon Frame construction (charpente à claire-voie) arrived at the end of the 19th century and allowed faster building with standardised parts such as wood studs, while the waterproof roof membranes of the 1910s and 1920s permitted shallower roof slopes for drainage. It is often associated with the headlong growth of industrial zones in North American cities and of the workers' quarters near them. In Hull, sawmills made standardised wood easy to obtain, and ornamental elements in wood or metal, such as corbels, could be standardised too. Recourse to brick masonry as a cladding material became general after a by-law required incombustible cladding on buildings within the perimeter ravaged by the great Hull fire of 1900, so most flat-roofed brick houses in Gatineau were built after those of the same type in wood.",
+   "blurb_en": "The brick counterpart of the wood flat-roofed house, and generally built later: two to three storeys of fine-grained red Modular brick in stretcher bond under a roof that is flat or falls gently to the rear. The street front is finished by a cornice with moulding carrying consoles, modillions or dentils, rarely with a parapet above; soldier courses run over the openings, or less often arched brick or moulded-concrete lintels, with moulded-concrete sills beneath the windows.",
+   "origin_en": "The type follows the industrialisation of building materials and methods: Balloon Frame construction (charpente à claire-voie) arrived at the end of the 19th century and allowed faster building with standardised parts such as wood studs, while the waterproof roof membranes of the 1910s and 1920s permitted shallower roof slopes for drainage. It is often associated with the headlong growth of industrial zones in North American cities and of the workers' quarters near them. In Hull, sawmills made standardised wood easier to obtain, and ornamental elements in wood or metal, such as corbels, could be standardised too. Recourse to brick masonry as a cladding material became general after a by-law required incombustible cladding on buildings within the perimeter ravaged by the great Hull fire of 1900, so most flat-roofed brick houses in Gatineau were built after those of the same type in wood.",
    "photo": {
     "file": null,
     "credit": "Enclume. 2023. 115-117, rue Wright — Ville de Gatineau. Not reproduced: the City's conditions of use prohibit republication to third parties.",
@@ -2946,27 +2966,21 @@
    "id": "gatineau.maison-plan-l-toit-deux-versants",
    "place": "gatineau",
    "place_name": "Gatineau",
-   "phase": "p1",
-   "phase_label": "1800–1850",
-   "phase_years": "1800 – 1850",
-   "phase_title": "Wright's Town and the founding of Aylmer",
+   "phase": "p2",
+   "phase_label": "1850–1900",
+   "phase_years": "1850 – 1900",
+   "phase_title": "The match works and the first maisons allumettes",
    "name_en": "L-plan house with a two-slope (gable) roof (maison avec plan en L à toit à deux versants)",
    "name_fr": "La maison avec plan en L à toit à deux versants",
-   "source_ref": "Ville de Gatineau, fiche « La maison de plan en L à toit à deux versants » (Enclume, 2023)",
+   "source_ref": "Ville de Gatineau, fiche « La maison avec plan en L à toit à deux versants » (Enclume, 2023)",
    "canonical": [
     "l-plan-gable-house"
    ],
    "canonical_names": [
     "L-plan house with a two-slope roof, rural-vernacular"
    ],
-   "styles": [
-    "french-regime",
-    "neoclassical-quebec"
-   ],
-   "style_names": [
-    "French-regime rural house",
-    "Québec neoclassical"
-   ],
+   "styles": [],
+   "style_names": [],
    "style_label": null,
    "tenure_plan": "single-family",
    "storeys": "1.5–2.5",
@@ -2986,7 +3000,9 @@
    "setback_side_m": null,
    "front_yard_green_pct": null,
    "profile": {
-    "siting_landscape": [],
+    "siting_landscape": [
+     "Marked presence in the Buckingham and Aylmer sectors and, to a lesser extent, in the Gatineau (rural sector), Masson-Angers and Hull sectors."
+    ],
     "massing": [
      "Roof of two straight slopes with a medium to steep pitch.",
      "Roof of two mansarded slopes (rare).",
@@ -3053,7 +3069,7 @@
      "Jeu de relief avec la brique en façade (rare)."
     ]
    },
-   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken from the historical context section instead.",
+   "profile_note": "Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement → materials — and the French beneath each English list is the fiche's wording. Three normalisations are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche's « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction period is encoded and the phase rests on the historical-context section instead.",
    "conservation": [
     "Prefer: Additions should be made at the rear of the building and remain little visible from the street. In the case of a contemporary addition at the rear, the new volume could take inspiration from the size and forms of the original extensions or secondary volumes.",
     "Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.",
@@ -3094,11 +3110,11 @@
    "phase_confidence": "verified",
    "sectors": [],
    "source_generation": "2023 type fiches (Ville de Gatineau)",
-   "blurb_en": "Two wings meeting at a right angle under straight gable roofs of medium to steep pitch, with a covered gallery set into the crook of the L and running along one or two façades on worked columns. Walls are wood clapboard or rabbeted board, sometimes red Modular brick. Some of these houses carry two entrance doors, one to each volume.",
-   "origin_en": "The L-plan house with a two-slope roof appears toward the end of the 19th century, when industrialisation made possible the mass production of standardised building materials, many of them in wood. Architectural and ornamental wood elements such as doors and windows were also available by catalogue, which gave the chance to personalise different types of houses, and the plans of these houses — the L-plan among them — were themselves available by catalogue. The period corresponds to a major development of North American cities, where demand for housing intensified because of the rural exodus. Though present in urban settings, the L-plan house also spread in rural areas in the context of settlement of the territory: the perpendicular arrangement of the two building volumes gives a spacious volume, less compact than a rectangular or cubic plan, allows a gallery to be inserted in the crook of the L (particularly observable in rural settings), and creates numerous exterior walls that permit windows offering different views.",
+   "blurb_en": "Two wings meeting at a right angle under a straight two-slope roof of medium to steep pitch. A covered gallery on one or two façades is frequent, commonly on worked columns; in rural settings it is often set into the crook of the L. Walls are usually wood clapboard or rabbeted board, sometimes red Modular brick. Some of these houses carry two entrance doors, one to each main volume.",
+   "origin_en": "The L-plan house with a two-slope roof appears toward the end of the 19th century, when industrialisation made possible the mass production of standardised building materials, many of them in wood. Architectural and ornamental wood elements such as doors and windows were also available by catalogue, which gave the chance to personalise different types of houses, and the plans of these houses — the L-plan among them — were themselves available by catalogue. The period corresponds to a major development of North American cities, where demand for housing intensified because of the rural exodus. Though present in urban settings, the L-plan house also spread in rural areas in the context of settlement of the territory. The perpendicular arrangement of the two building volumes gives a spacious volume, less compact than a rectangular or cubic plan, it also allows a gallery to be inserted in the crook of the L, particularly observable in rural settings, and the numerous exterior walls that permit windows offering different views.",
    "photo": {
     "file": null,
-    "credit": "Enclume. 2023. 9, chemin Donaldson — Ville de Gatineau. Not reproduced: the City's conditions of use prohibit republication to third parties.",
+    "credit": "Enclume. 2023. 9, rue Donaldson — Ville de Gatineau. Not reproduced: the City's conditions of use prohibit republication to third parties.",
     "kind": "placeholder",
     "w": null,
     "h": null,

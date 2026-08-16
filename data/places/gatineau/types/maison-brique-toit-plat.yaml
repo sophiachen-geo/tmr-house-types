@@ -17,7 +17,7 @@ tenure_plan: single-family
 storeys: 2–3
 roof:
   form: flat-or-low-slope
-  pitch_deg: 0
+  pitch_deg: null
 window_proportion: vertical
 principal_cladding:
 - clay-brick-red
@@ -28,7 +28,8 @@ setback_front_m: null
 setback_side_m: null
 front_yard_green_pct: null
 profile:
-  siting_landscape: []
+  siting_landscape:
+  - Markedly present in the Hull sector and, to a lesser extent, in the Aylmer and Buckingham sectors.
   massing:
   - Flat roof, or low-pitched sloping toward the rear.
   - Two storeys (common) to three storeys (occasional) above ground.
@@ -104,11 +105,13 @@ profile_fr:
   - Présence de corbeaux aux extrémités de la corniche (fréquent).
   - Briques en soldat (fréquent) ou linteaux arqués en briques (occasionnel), ou linteaux en béton moulé (occasionnel)
     au-dessus des ouvertures et allèges en béton moulé en dessous des fenêtres (fréquent).
-profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
-  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
-  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
-  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
-  from the historical context section instead.
+profile_note: 'Encoded from the City''s 2023 fiche for this type. The five columns follow the fiche''s own sections
+  — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings,
+  revêtement → materials — and the French beneath each English list is the fiche''s wording. Three normalisations
+  are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the
+  figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche''s
+  « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction
+  period is encoded and the phase rests on the historical-context section instead.'
 conservation:
 - 'Prefer: Enlargements should be made at the rear of the building and remain little visible from the street. In the
   case of a contemporary enlargement at the rear, the new volume could draw on the size and the forms of the original
@@ -162,15 +165,16 @@ conservation_fr:
 - Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
   bâtiment.
 - Éviter de retirer des ornements originaux sans les remplacer.
-blurb_en: 'The same box in brick: two to three storeys of fine-grained red Modular brick in stretcher bond under a
-  roof that is flat or falls gently to the rear, finished at the street by an ornamented cornice on consoles, modillions
-  or dentils, sometimes with a parapet above. Soldier courses, arched brick or moulded-concrete lintels over the openings,
-  moulded-concrete sills beneath the windows.'
+blurb_en: 'The brick counterpart of the wood flat-roofed house, and generally built later: two to three storeys of
+  fine-grained red Modular brick in stretcher bond under a roof that is flat or falls gently to the rear. The street
+  front is finished by a cornice with moulding carrying consoles, modillions or dentils, rarely with a parapet above;
+  soldier courses run over the openings, or less often arched brick or moulded-concrete lintels, with moulded-concrete
+  sills beneath the windows.'
 origin_en: 'The type follows the industrialisation of building materials and methods: Balloon Frame construction (charpente
   à claire-voie) arrived at the end of the 19th century and allowed faster building with standardised parts such as
   wood studs, while the waterproof roof membranes of the 1910s and 1920s permitted shallower roof slopes for drainage.
   It is often associated with the headlong growth of industrial zones in North American cities and of the workers''
-  quarters near them. In Hull, sawmills made standardised wood easy to obtain, and ornamental elements in wood or
+  quarters near them. In Hull, sawmills made standardised wood easier to obtain, and ornamental elements in wood or
   metal, such as corbels, could be standardised too. Recourse to brick masonry as a cladding material became general
   after a by-law required incombustible cladding on buildings within the perimeter ravaged by the great Hull fire
   of 1900, so most flat-roofed brick houses in Gatineau were built after those of the same type in wood.'

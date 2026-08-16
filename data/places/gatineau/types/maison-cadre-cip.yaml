@@ -5,7 +5,8 @@ phase_confidence: verified
 display_order: 11
 name_en: CIP executive's house (maison de cadre de la CIP)
 name_fr: La maison de cadre de la CIP
-source_ref: Ville de Gatineau, fiche « La maison de cadre de la CIP » (Passerelles Coopérative en patrimoine, 2023)
+source_ref: Ville de Gatineau, fiche « La maison de cadre de la CIP » (Passerelles Coopérative en patrimoine, 2023);
+  RPCQ, Site patrimonial du Quartier-du-Moulin (id 92813)
 source_generation: 2023 type fiches (Ville de Gatineau)
 sectors:
 - SP-MOULIN
@@ -13,7 +14,6 @@ canonical:
 - company-house-executive-1925
 styles:
 - arts-and-crafts
-- tudor-revival
 style_label: null
 tenure_plan: single-family
 storeys: 1.5–2.5
@@ -23,6 +23,7 @@ roof:
 window_proportion: null
 principal_cladding:
 - wood-shingle
+- wood-shiplap
 - wood-clapboard
 roofing: null
 garage: null
@@ -31,7 +32,8 @@ setback_front_m: null
 setback_side_m: null
 front_yard_green_pct: null
 profile:
-  siting_landscape: []
+  siting_landscape:
+  - Present in the Gatineau sector, and more particularly within the Quartier-du-Moulin heritage site.
   massing:
   - Roof form
   - Medium-pitched to steep roof with perpendicular gables (frequent).
@@ -117,11 +119,13 @@ profile_fr:
   - Planches cornières (fréquent).
   - Contrevents ou volet en bois, ornementés d'un motif sculpté (fréquent).
   - Présence de pilastres encastrés dans la façade au niveau de l'entrée (occasionnel).
-profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
-  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
-  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
-  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
-  from the historical context section instead.
+profile_note: 'Encoded from the City''s 2023 fiche for this type. The five columns follow the fiche''s own sections
+  — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings,
+  revêtement → materials — and the French beneath each English list is the fiche''s wording. Three normalisations
+  are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the
+  figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche''s
+  « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction
+  period is encoded and the phase rests on the historical-context section instead.'
 conservation:
 - 'Prefer: Extensions should be built at the rear of the building and remain barely visible from the street. In the
   case of a contemporary extension at the rear, the new volume, while leaving precedence to the original one, could
@@ -170,10 +174,11 @@ conservation_fr:
 - Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
   bâtiment.
 - Éviter de retirer des ornements originaux sans les remplacer.
-blurb_en: 'The paper company''s house for its managers: an Arts and Crafts cottage of one and a half to two and a
-  half storeys, its rectangular or L plan broken by projections, under a medium to steep roof with perpendicular gables
-  and flared coyaux, in dark-painted shingle or board, with carved shutters — set back behind a double row of trees
-  on three blocks of the Quartier-du-Moulin.'
+blurb_en: 'The paper company''s house for its managers: an Arts and Crafts house of one and a half to two and a half
+  storeys, its rectangular or L plan broken by projections, under a medium to steep roof with perpendicular gables
+  and flared coyaux, in dark-painted shingle or board, with carved shutters. Found in the Gatineau sector and particularly
+  inside the site patrimonial du Quartier-du-Moulin, whose citation lists the setback from the street and the double
+  row of pavement trees among the elements it protects.'
 origin_en: Built at the end of the 1920s, these houses were intended to lodge the executives of the Canadian International
   Paper (CIP), whose mill stood adjacent to — and gave its name to — the Quartier-du-Moulin. The building type belongs
   to the American Arts & Crafts current, whose stylistic and architectural characteristics were imported from the

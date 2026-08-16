@@ -17,7 +17,7 @@ tenure_plan: single-family
 storeys: 2–2.5
 roof:
   form: hipped-or-pyramidal
-  pitch_deg: 30
+  pitch_deg: null
 window_proportion: null
 principal_cladding:
 - clay-brick-red
@@ -113,11 +113,13 @@ profile_fr:
   - Briques en soldat (fréquent) ou linteaux en pierre de taille ou en béton moulé au-dessus des ouvertures (fréquent)
     et allèges en béton moulé en dessous des fenêtres (fréquent).
   - Planches cornières et chambranles lorsque le revêtement est en bois (fréquent).
-profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
-  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
-  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
-  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
-  from the historical context section instead.
+profile_note: 'Encoded from the City''s 2023 fiche for this type. The five columns follow the fiche''s own sections
+  — répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings,
+  revêtement → materials — and the French beneath each English list is the fiche''s wording. Three normalisations
+  are applied to that French and are the only changes made to it: hyphenation lost at line breaks is rejoined, the
+  figure-key letters set mid-sentence (A, B, C …) are removed, and apostrophes are written ’ throughout. The fiche''s
+  « Période de construction principale » is a bar graphic whose extent is not recoverable from the text, so no construction
+  period is encoded and the phase rests on the historical-context section instead.'
 conservation:
 - 'Prefer: Significant enlargements, additions or alterations should be carried out at the rear of the building and
   remain little visible from the street. In the case of a contemporary rear extension, the new volume could take its
@@ -174,16 +176,17 @@ conservation_fr:
 - Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
   bâtiment.
 - Éviter de retirer des ornements originaux sans les remplacer.
-blurb_en: Two to two and a half storeys on a square or barely rectangular plan — narrower in Hull, where the lots
-  are — under a four-slope pavilion or hipped roof pitched under 30 degrees. A front gallery on square wood columns
-  about 8 to 10 inches on a side, a door off-centre under its transom, and frequently a dormer on the front. Red Modular
-  brick in stretcher bond, clapboard, or concrete block in the eastern sectors.
+blurb_en: Two to two and a half storeys on a square or barely rectangular plan — narrower in Hull, on account of the
+  lot format — under a four-slope pavilion or hipped roof of low to medium pitch, under 30 degrees. A front gallery
+  is frequent, as are square wood columns about 8 to 10 inches on a side, and a single door usually beneath a transom,
+  most often off-centre though sometimes centred. Red Modular brick in stretcher bond most often, occasionally clapboard,
+  or concrete block in the Buckingham, Gatineau and Masson-Angers sectors.
 origin_en: The cubic house became popular at the start of the 20th century through the American architectural plan
   catalogues, which also enjoyed great success in Canada; from the 1890s those magazines published cubic-house plans,
   and by the 1900s the type had become a staple. Residential construction was democratising at the same time, eased
-  by the arrival of standardised, machine-made building materials and architectural components — which is why the
-  type is associated with industrial vernacular architecture. Beyond the timbers of the structure and frame, the standardised
-  and prefabricated elements turn up above all in the exterior and interior ornamentation, and that variety of ornaments
+  by the arrival of standardised, machine-made building materials and architectural components ; the type is moreover
+  associated with industrial vernacular architecture. Beyond the timbers of the structure and frame, the standardised
+  and prefabricated elements turn up notably in the exterior and interior ornamentation, and that variety of ornaments
   and claddings also let the cubic house take on different architectural styles. Its popularity owed as well to the
   generous dimensions allowed by a square plan on two storeys, giving increased living space; industrialisation and
   the fall in construction costs it brought made the cubic house an affordable model.
