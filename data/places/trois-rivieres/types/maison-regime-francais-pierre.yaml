@@ -1,0 +1,166 @@
+id: trois-rivieres.maison-regime-francais-pierre
+place: trois-rivieres
+phase: p1
+phase_confidence: verified
+display_order: 1
+name_en: French-regime house in stone (colonial français)
+name_fr: La maison d'esprit français (courant colonial français)
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: city-wide courant fiche, cross-read against the declared-site texts
+courant: Colonial français
+source_url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Colonial-francais.pdf
+sectors: [SP-TR]
+canonical:
+- french-urban-house-stone
+styles:
+- french-regime
+- colonial-francais
+tenure_plan: single-family
+storeys: "1–1.5"
+roof:
+  form: gabled-or-hipped
+  pitch_deg: 55
+window_proportion: vertical
+principal_cladding:
+- stone
+- wood-piece-sur-piece
+- stucco
+roofing: cedar shingle; traditional tin in town
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built at ground level, without a cellar, on shallow stone footings; the house is entered from the flat.
+  - In town, set with the façade directly on the street, so that the party walls carried above the roof do the work
+    a setback would otherwise do.
+  - Stone was almost absent from the Trois-Rivières district and had to be brought from the south shore, so the rare
+    stone houses belonged to the well-off or the notable; stone was otherwise reserved for mills, convents and churches.
+  massing:
+  - Rectangular body close to the ground, squat in proportion.
+  - A single ground floor under an inhabited attic.
+  - Steep straight two-slope roof, pitches reaching as much as 55 degrees; some roofs hipped on four slopes.
+  - Short straight eaves (larmiers), or later slightly upturned ones.
+  - Some rural houses longer and shallower, like the manoir Boucher-De Niverville; others squarer and more massive.
+  articulation:
+  - Few ornaments beyond the chambranles framing the openings; simplicity and bareness are the point.
+  - Massive stone chimney stacks, sometimes set "en chicane" — not all on the same roof slope.
+  - Fire-break party walls carried above the roof in urban settings.
+  - Where a house was later brought up to date, the neoclassical additions read as additions — at the maison
+    Georges-De Gannes a pedimented entrance portal, a cornice, cornice returns and carved window surrounds.
+  openings:
+  - Asymmetrical façade composition; openings distributed by need rather than by rule.
+  - Openings few in number, to limit heat loss, and doubled by storm doors and storm windows.
+  - Double casement windows with small panes, working shutters.
+  - Few or no dormers, and where present, gabled and small; dormers appear only at the end of the French regime,
+    as a new way of inhabiting the attic.
+  materials:
+  - Squat carré of rubble stone or of massive squared timber, sometimes rendered in roughcast or covered with
+    vertical boards; a slight batter in the walls.
+  - Roof traditionally of cedar shingle; in town the wooden shingle often gives way to traditional tin.
+profile_fr:
+  contexte:
+  - "Les premières constructions érigées au moment de la fondation de Trois-Rivières sont des constructions modestes
+    élevées à la hâte en pleine nature sauvage. Originaires des milieux ruraux de France, les colons ainsi que les
+    gens de métier – charpentiers, maçons, menuisiers – apportent au pays leur savoir-faire traditionnel en matière
+    de construction."
+  - "Cette première architecture est issue des traditions constructives de la France, tout particulièrement des régions
+    du nord-ouest telles que la Bretagne, la Normandie et l'Île-de-France."
+  - "La pierre est quasi absente de la région et doit être apportée de la rive sud. Ainsi, les rares habitations de
+    pierre sur le territoire trifluvien appartenaient à des familles bien nanties ou d'une certaine notoriété. La pierre
+    est souvent réservée aux bâtiments plus imposants tels les moulins, les couvents et les églises."
+  - "Comme en témoignent certains bâtiments construits entre 1780 et 1820, ce courant perdure au-delà de la Conquête
+    anglaise en raison de l'isolement de la population de la Nouvelle-France. Continuant à évoluer et subissant
+    l'influence de l'architecture anglaise, la maison coloniale française engendre, à partir des années 1820, la maison
+    dite de tradition québécoise."
+  volumetrie:
+  - "Corps de logis rectangulaire situé près du sol, fondations peu profondes en pierre"
+  - "Les maisons coloniales françaises sont généralement construites à ras de terre, sans cave, ne comportant qu'un
+    rez-de-chaussée auquel on accède de plain-pied."
+  toiture:
+  - "Toit à deux versants droits ou à croupes, traditionnellement recouvert de bardeau de cèdre. En milieu urbain,
+    le bardeau de bois fait souvent place à de la tôle traditionnelle"
+  - "Le corps de logis est surmonté de combles sous des toits à pignons hauts et aigus dont les pentes peuvent
+    atteindre 55 degrés. Certains toits sont à croupes (quatre versants) et d'autres disposent de larmiers courts et
+    droits ou, plus tard, légèrement retroussés."
+  revetements:
+  - "Carré trapu en pierre à moellons ou en bois d'œuvre massif, peut être recouvert de crépi ou de planches
+    verticales, léger fruit dans les murs"
+  ouvertures:
+  - "Composition de façade asymétrique"
+  - "Ouvertures peu nombreuses, fenêtres à double battant à petits carreaux, volets fonctionnels, peu ou pas de
+    lucarnes (à pignon)"
+  ornementation:
+  - "Cheminées massives en pierre, parfois disposées en chicane (pas toutes sur le même versant de toit), présence
+    de murs coupe-feu en milieu urbain"
+  - "Peu d'ornements, mis à part les chambranles autour des ouvertures"
+  sous_variantes:
+  - "Répondant à des besoins spécifiques, ces demeures sont fonctionnelles. Sans décoration ni recherche stylistique,
+    elles brillent par la simplicité de leur aspect plutôt trapu. Les ouvertures sont peu nombreuses et distribuées
+    selon les besoins, sans symétrie, les lucarnes sont rares et petites, et les cheminées, importantes."
+  - "Plusieurs bâtiments érigés durant le Régime français ont été soit reconstruits ou agrandis, soit mis au goût du
+    jour durant le Régime anglais."
+profile_note: >-
+  Encoded from the City's "Colonial français" fiche (Patri-Arch), which is city-wide, and cross-read against the two
+  ministerial documents for the declared site. Only about a dozen buildings of this period survive anywhere in
+  Trois-Rivières, and the surviving domestic examples inside the declared site number three. The stone version is
+  encoded here because it is the one the RPCQ singles out — "des résidences de notables en pierre, comme le manoir de
+  Tonnancour" — but the fiche's own point is that stone was the exception in this district and that most French-regime
+  building here was of wood; the maison Saint-François is the wooden survivor. Dates differ between sources and are
+  reported with their attributions in `related_buildings` rather than averaged.
+conservation_fr:
+- "Lors de travaux de restauration ou de rénovations, il est impératif de préserver le volume imposant et l'aspect
+  trapu de ces demeures, ainsi que la distribution asymétrique des ouvertures qui doivent d'ailleurs demeurer peu
+  nombreuses."
+- "Idéalement, des matériaux traditionnels devraient être employés : pierre et bois pour les façades, bardeau de bois
+  ou tôle traditionnelle pour les toits et ouvertures en bois. L'utilisation de matériaux modernes, tels que le vinyle
+  et l'aluminium, est à éviter."
+- "Il faut finalement résister à l'idée d'ajouter des ornements, car la simplicité et le dépouillement caractérisent
+  ces bâtiments."
+- "Il vaut mieux éviter de déplacer, d'agrandir, d'ajouter ou de modifier des portes, des fenêtres et des lucarnes."
+- "Il faut éviter de déraciner des bâtiments anciens de leur lieu d'origine."
+conservation:
+- 'Prefer: preserve the imposing volume and the squat aspect of these houses, and the asymmetrical distribution of the
+  openings, which should also stay few in number.'
+- 'Prefer: use traditional materials — stone and wood for the walls, wood shingle or traditional tin for the roofs,
+  and wood for doors and windows. Avoid modern materials such as vinyl and aluminium.'
+- 'Avoid: adding ornament. Simplicity and bareness are what characterise these buildings.'
+- 'Avoid: moving, enlarging, adding or altering doors, windows and dormers.'
+- 'Avoid: uprooting old buildings from the place they were built. The City''s own fiche makes the point about the 1781
+  windmill, moved to the university grounds in 1974: the move saved it from demolition but cost it part of its
+  historical meaning.'
+related_buildings:
+- name: "Maison Georges-De Gannes, 834 rue des Ursulines — built about 1756 for Georges de Gannes, major of the French marine troops; classed 1961. Later brought up to date in the neoclassical spirit."
+  url: https://commons.wikimedia.org/wiki/Category:Maison_Georges-De_Gannes
+- name: "Maison Saint-François, 126-144 rue Saint-François-Xavier — a wooden house, dated 1757 by the Plan de conservation and \"vers 1757\" by the City's fiche, mid-18th century in the RPCQ. It abuts a Boomtown house with which it communicates."
+  url: null
+- name: "Manoir de Tonnancour (maison Deschenaux), 864 rue des Ursulines — the RPCQ and the Plan de conservation give 1795-1797; the City's fiche gives \"vers 1795-1798\" and adds the earlier history: erected about 1723-1725, burned in 1784, then rebuilt by judge Pierre-Louis Deschenaux reusing the foundations, the masonry walls, the cellar joists and the ground-floor beams. Its mansard roof and classical arrangement are British influence."
+  url: null
+- name: "Manoir Boucher-De Niverville, 168 rue Bonaventure — classed; outside the declared site, and the City's fiche's chief example of the longer, shallower rural plan."
+  url: null
+- name: "Moulin seigneurial de Tonnancour, 11930 rue Notre-Dame Ouest — classed; second half of the 18th century; outside the declared site. Not to be confused with the manoir."
+  url: null
+- name: "Section la plus ancienne du couvent des Ursulines, 700-784 rue des Ursulines — white roughcast masonry walls stripped of ornament."
+  url: null
+blurb_en: >-
+  The house the first colonists built and the notables rebuilt in stone: a squat rectangle sitting straight on the
+  ground without a cellar, one floor under a steep roof that could reach 55 degrees, few windows because the winter
+  demanded few, and massive chimneys because it demanded many. In town the party walls run up past the roof as
+  fire-breaks. Trois-Rivières had almost no local stone, so the stone version was always the exception — the mark of a
+  family with the means to ship it from the south shore.
+origin_en: >-
+  Brought from rural north-western France — Brittany, Normandy, the Île-de-France — and adapted fast to a country with
+  different materials and a harsher winter. The RPCQ says of the declared site that "le Régime français a légué… la
+  maison Saint-François… des résidences de notables en pierre, comme le manoir de Tonnancour (1795-1797)". The form
+  outlived the Conquest by the isolation of the population, and buildings put up between 1780 and 1820 still show it;
+  from the 1820s, crossed with English neoclassicism, it produced the maison de tradition québécoise. The 1908 fire
+  destroyed several of the city's French-regime buildings, including the parish church and the maison des Gouverneurs.
+photos:
+- file: assets/places/trois-rivieres/834-rue-des-ursulines-georges-de-gannes-commons.jpg
+  credit: >-
+    Maison Georges-De Gannes, 834 rue des Ursulines, in the site patrimonial de Trois-Rivières (October 2020) — built
+    about 1756, classed as an immeuble patrimonial in 1961. © Cantons-de-l'Est, Wikimedia Commons, CC BY-SA 4.0 —
+    https://commons.wikimedia.org/wiki/File:Trois-Rivieres,_Quebec_-_834_rue_des_Ursulines.jpg
+  kind: single

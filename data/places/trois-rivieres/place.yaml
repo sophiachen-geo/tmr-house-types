@@ -1,0 +1,121 @@
+id: trois-rivieres
+name_en: Trois-Rivières
+name_fr: Ville de Trois-Rivières
+sections: [historic-core, borough-vernacular]
+region: Mauricie
+founded: 1634                            # poste founded 4 July 1634 at Champlain's request, by Laviolette
+settlement_mode: French-regime fortified bourg, then a forestry and pulp-and-paper city
+governing_instruments:
+  - kind: site-patrimonial-declare
+    title: >-
+      Site patrimonial de Trois-Rivières (formerly Arrondissement historique de Trois-Rivières;
+      also Vieux-Trois-Rivières), declared by the Gouvernement du Québec on 6 May 1964 — the fiche's
+      statut block reads "Déclaration, Site patrimonial, Gouvernement du Québec, 1964-05-06", the
+      only status the fiche carries. About 6.7 hectares, "délimité notamment par les rues des
+      Casernes, Saint-Pierre et Sainte-Cécile, et par la terrasse Turcotte", with limits following
+      in part the 17th-century palisade of the fortified bourg and in part Jacques Levasseur de
+      Neré's 1704 palisade project. Building count differs between the two ministerial documents:
+      the RPCQ fiche says "la cinquantaine de bâtiments", the 2014 Plan de conservation counts
+      "45 bâtiments principaux". The site holds three classed immeubles patrimoniaux that are
+      buildings — maison Georges-De Gannes, manoir de Tonnancour, maison Hertel-De La Fresnière —
+      plus the classed place d'Armes (1960) and the site patrimonial des Récollets-de-Trois-Rivières
+      (2003); the Plan de conservation therefore counts four classed immeubles.
+    year: 1964
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93531&type=bien
+  - kind: conservation-plan
+    title: >-
+      Sylvain Lizotte (dir.), Plan de conservation du site patrimonial de Trois-Rivières, Québec,
+      Ministère de la Culture et des Communications, 2014 — the source of the per-building analysis
+      of the declared site (dates 1714–1956, cladding, roof form, storeys) and of the four unités de
+      paysage. The RPCQ bibliography gives 85 p.; the published PDF runs to 90 pages with covers.
+    year: 2014
+    url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_trois-rivieres.pdf
+  - kind: inventory
+    title: >-
+      Patri-Arch, Inventaire du patrimoine bâti de la Ville de Trois-Rivières (2008–2010), with the
+      ministère de la Culture: "Des 3856 bâtiments inventoriés, on retient 250 bâtiments pour leur
+      valeur patrimoniale exceptionnelle", published as eight per-secteur PDFs plus a Synthèse
+      architecturale et patrimoniale. The inventory's own Introduction et méthodologie describes a
+      narrower set — "Environ 200 bâtiments de valeur exceptionnelle ou supérieure ou situés à
+      l'intérieur de l'arrondissement historique" — that received a written énoncé de valeur
+      patrimoniale, so 250 and ~200 count different things.
+    year: 2010
+    url: https://www.v3r.net/culture/histoire-et-patrimoine/patrimoine-architectural
+  - kind: study
+    title: >-
+      Étude de caractérisation du patrimoine industriel trifluvien (2024), documenting the industrial
+      city from the 17th century onward; and Nathalie Hamel, Étude de caractérisation de
+      l'arrondissement historique de Trois-Rivières, Commission des biens culturels du Québec, 2005,
+      73 p.
+    year: 2024
+    url: https://www.v3r.net/wp-content/uploads/2024/07/Rapport_Patrimoine-industriel_TR_240718_Final.pdf
+  - kind: guides
+    title: >-
+      Patri-Arch, Répertoire des courants architecturaux de Trois-Rivières — sixteen illustrated
+      fiches published by the City, each with "Caractéristiques architecturales du courant",
+      Historique, Variantes, Conservation advice and captioned photographs of real addresses.
+      Fourteen are summarised on the City's Patrimoine architectural page; the "fiche complète" PDFs
+      carry more.
+    year: 2021
+    url: https://www.v3r.net/culture/histoire-et-patrimoine/patrimoine-architectural
+  - kind: subsidy
+    title: >-
+      Programme de Redéveloppement des premiers quartiers (PRPQ), for "la partie des premiers
+      quartiers assujettie à un plan d'implantation et d'intégration architecturale (PIIA)"; and the
+      Programme de restauration du patrimoine immobilier, a 3.75 M$ Ville–MCC agreement funded 60 %
+      by the ministère and 40 % by the City, paying "60 % du coût réel des travaux admissibles"
+      (budget reported fully committed at the date consulted). The research memo's "up to 50 % of
+      eligible works" could not be confirmed on the City's page and is not encoded.
+    year: null
+    url: https://www.v3r.net/services-a-la-population/subventions-a-la-population
+  - kind: PIIA
+    title: >-
+      "Règlement établissant le cadre discrétionnaire en matière d'urbanisme (2021, chapitre 127)" —
+      UNVERIFIED. The City's by-law index returned 404 at the date consulted; the subsidy pages do
+      confirm that a PIIA applies to the premiers quartiers and that superior-value buildings are
+      "visés par un règlement sur les PIIA". Neither the chapter number nor the year was confirmed.
+    year: null
+    url: null
+  - kind: demolition-bylaw
+    title: >-
+      "Règlement sur la démolition d'immeubles (2023, chapitre 61)" — UNVERIFIED; not confirmed
+      against any document fetched. Recorded here only so the gap is visible.
+    year: null
+    url: null
+typology_document:
+  title: >-
+    RPCQ id 93531 (site level, MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières
+    (2014), "Le cadre bâti" and "Les unités de paysage"; Ville de Trois-Rivières, "Patrimoine
+    architectural" — the Patri-Arch Répertoire des courants architecturaux, with renovation advice
+    and named addresses
+  year: 2014
+  format: mixed-site-and-courant
+  note: >-
+    Two scales must not be conflated. The declared site is tiny — about 6.7 hectares and 45 to 50
+    buildings, depending which ministerial document you read — while the city-wide Patri-Arch
+    inventory covers 3,856 buildings of which 250 are retained. The type records below are drawn
+    from the city-wide courants and are city-wide in scope; the `sectors` field on each marks which
+    of them the declared-site texts also describe inside the perimeter. Nothing in a type record
+    should be read as a statement about the declared site unless SP-TR appears in its sectors.
+map_layer: null
+summary_en: >-
+  Founded in 1634 and burned on 22 June 1908, Trois-Rivières is a city whose housing is legible as
+  before and after — but not where you would expect. The fire took the commercial centre, not the
+  old core: the ministry's own plan finds the declared site "peu affecté par l'incendie de 1908",
+  and inside its six and a half hectares the Ursulines' monastery, a wooden house of 1757 and three
+  classed stone houses still stand. What the fire produced instead was a reconstruction of
+  remarkable evenness — "Rebâti par une poignée d'architectes et d'entrepreneurs, le quartier
+  présente une grande homogénéité architecturale qui se constate encore aujourd'hui" — brick,
+  flat-roofed, trimmed with cornices and quoins, and that homogeneity is itself the heritage value.
+  Then the paper mills filled the parishes of Saint-Philippe, Notre-Dame-des-Sept-Allégresses and
+  Sainte-Cécile with Boomtown houses whose diamond attic vents are a trifluvien signature, and after
+  1910 with the plex that replaced them.
+hero_photo:
+  file: assets/places/trois-rivieres/maison-saint-francois-commons.jpg
+  credit: >-
+    The maison Saint-François, 126-144 rue Saint-François-Xavier, in the site patrimonial de
+    Trois-Rivières (March 2020) — a wooden house of about 1757, the oldest dwelling in the declared
+    site and one of the few French-regime survivors in the city. The City's own fiche notes that it
+    "jouxte une maison de type Boomtown avec laquelle elle communique": the two centuries the place
+    is made of, sharing a wall. © Fralambert, Wikimedia Commons, CC BY-SA 4.0 —
+    https://commons.wikimedia.org/wiki/File:Maison_Saint-Fran%C3%A7ois.jpg

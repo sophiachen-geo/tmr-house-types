@@ -1,0 +1,213 @@
+# Lévis has no site patrimonial déclaré. It has two cited sites, both of them former village
+# church cores, and thirteen secteurs d'intérêt patrimonial that exist only as a municipal
+# permit-review jurisdiction under the PIIA by-law. The thirteen sector names and the four
+# gradings inside each are read off the City's own map sheet,
+# 20200304_PIIA_patrimonial_carte.pdf (14 pages, 4 March 2020).
+
+- id: site-patrimonial-saint-nicolas
+  code: SP-NICOLAS
+  name_fr: Site du patrimoine de Saint-Nicolas
+  value: cited-site
+  summary_en: >-
+    Eight principal buildings of varied architectural tradition, erected between 1760 and 1887,
+    west of the Saint-Nicolas village core along the old chemin du Roy (today route Marie-Victorin),
+    in the borough of Les Chutes-de-la-Chaudière-Ouest. Protection applies to the land and to the
+    exterior envelope of the buildings on it. The perimeter contains the maison Pâquet and the
+    chapelle Notre-Dame-de-Grâce, both classed immeubles patrimoniaux. Much of the area is the
+    former domaine Paquet — a chapel, a hermitage and two houses inside a working farm — which the
+    RPCQ calls unique in Lévis and rare in Québec. Note that the site is older than the village it
+    sits beside: the village core itself developed mainly after 1850.
+  summary_fr: >-
+    « Le site du patrimoine de Saint-Nicolas comprend huit bâtiments principaux aux traditions
+    architecturales variées, érigés entre 1760 et 1887. Le site du patrimoine est localisé à
+    l'ouest du noyau villageois de Saint-Nicolas, en bordure de l'ancien chemin du Roy, au sein de
+    l'arrondissement municipal des Chutes-de-la-Chaudière-Ouest de la ville de Lévis. Ce bien est
+    cité site patrimonial. La protection s'applique aux terrains et à l'enveloppe extérieure des
+    constructions qui s'y élèvent. Le périmètre du site comprend la maison Pâquet et la chapelle
+    Notre-Dame-de-Grâce, classées immeubles patrimoniaux. »
+  characteristics_fr:
+    - "la diversité des cultures architecturales représentées, dont l'architecture d'inspiration française, l'apport anglo-saxon et d'autres manifestations d'architecture pittoresque comme le style Regency, le néogothique et le Second Empire"
+    - "la singularité et la récurrence de certaines composantes architecturales, dont les parements de bardeau de bois ouvragé et les éléments décoratifs en bois"
+    - "le respect et la visibilité du parcellaire d'origine (lots plutôt étroits mais très profonds, orientés nord-ouest - sud-est)"
+    - "la présence bien marquée des lignes de lot"
+    - "la grande représentativité des édifices par rapport à leur type architectural respectif"
+    - "l'aspect comparable de sept des huit édifices par rapport à l'état prévalant lors de leur construction"
+    - "les détails architecturaux telles les consoles découpées au sommet des colonnes et les planches cornières"
+    - "les ornements de portes constitués par les chambranles découpés, les pilastres, les corniches, les baies latérales et les impostes"
+    - "l'architecture de très grande qualité de la chapelle néogothique Notre-Dame-de-Grâce s'exprimant par le parement en brique, la couverture en bardeau de bois polychrome, les ouvertures en arc brisé, les contreforts, les pinacles et le portique très ouvragé"
+  streets: ["route Marie-Victorin (ancien chemin du Roy)"]
+  source: RPCQ id 93507
+  note: >-
+    Date conflict resolved on the primary source. The RPCQ statut block reads Citation, site
+    patrimonial, Municipalité (Lévis), 1987-10-05 — 5 October 1987 — with anterior statuses "Avis
+    de motion de citation, 1987-07-06" and "Citation, 1987-07-06". The "5 November 1987" figure
+    that circulates is not supported by the register; the 6 July 1987 anterior date is a third
+    figure that neither version mentions.
+
+- id: site-patrimonial-eglise-presbytere-saint-jean-chrysostome
+  code: SP-JEAN-CHRYSOSTOME
+  name_fr: Site du patrimoine de l'Église-et-du-Presbytère-de-Saint-Jean-Chrysostome
+  value: cited-site
+  summary_en: >-
+    A village religious ensemble planned in 1829 and built out over the second half of the 19th
+    century, in the borough of Les Chutes-de-la-Chaudière-Est: the neoclassical church of 1848–1850
+    on plans by Thomas Baillairgé revised by his pupil Thomas Fournier, the presbytery of 1871, the
+    parish cemetery, a statue of Christ and a public square. The oldest religious ensemble in Lévis
+    and the only parish where church and presbytery both predate 1875; the presbytery is the only
+    one in the city in the traditional Québécois manner. The church famously turns its back on the
+    main street — the parishioners overruled the ecclesiastical authorities on the orientation,
+    fearing the north-east wind.
+  summary_fr: >-
+    « Le site du patrimoine de l'Église-et-du-Presbytère-de-Saint-Jean-Chrysostome est un ensemble
+    religieux villageois planifié en 1829 et mis en place durant la seconde moitié du XIXe siècle.
+    Il comprend l'église d'inspiration néoclassique construite entre 1848 et 1850, le presbytère
+    bâti en 1871, le cimetière paroissial, une statue du Christ et une place publique. »
+  characteristics_fr:
+    - "les caractéristiques de l'église, entre autres le plan en croix latine, avec choeur et abside en saillie, le parement en pierre foncée, taillée en grands blocs, la sacristie reliée à l'église par un chemin couvert de pierres, le clocher disposé sur le toit, en retrait de la façade"
+    - "la symétrie et l'équilibre des proportions des différentes composantes, la fenêtre serlienne, le fronton à base interrompue et, en son centre, un oculus"
+    - "les caractéristiques du presbytère, entre autres son vaste plan rectangulaire, le toit à deux versants avec larmiers courbés, l'escalier central monumental, la large galerie à balustrade"
+    - "la porte principale dotée de pilastres, d'un entablement, d'une imposte et de baies latérales, les fenêtres traditionnelles à battants à six carreaux, les lucarnes à pignon s'alignant aux ouvertures du rez-de-chaussée par souci de symétrie, ainsi que le rez-de-chaussée surélevé par rapport au sol"
+  streets: []
+  source: RPCQ id 93382
+  note: >-
+    Citation 20 August 2001; anterior status "Avis de motion de citation, 2001-05-07". The
+    presbytery is the one building inside either of Lévis's two cited sites that belongs squarely
+    to a courant in the City's own catalogue — its two-slope roof with curved larmiers, six-pane
+    casements and aligned gabled dormers are the Québécois house at institutional scale.
+
+- id: piia-levis
+  code: PIIA-LEVIS
+  name_fr: Secteur d'intérêt patrimonial de Lévis (Vieux-Lévis)
+  value: review-jurisdiction
+  summary_en: >-
+    The historic core — Pointe-Lévy on the promontory, the carré Déziel, and the streets Wolfe,
+    Guenette, Fraser, Saint-Louis, D'Aubigny, Mirepoix and avenue Bégin down to the côte du Passage
+    and the ferry landing. This is the densest concentration of 19th-century houses in the city and
+    the subject of the City's own walking-tour brochure, and it has no cited or declared status
+    whatsoever: it is covered only by the discretionary PIIA by-law.
+  streets: ["rue Wolfe", "rue Guenette", "rue Fraser", "rue Saint-Louis", "rue D'Aubigny",
+            "rue Mirepoix", "avenue Bégin", "côte du Passage", "rue du Mont-Marie"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Lévis" (4 March 2020)
+  note: >-
+    Graded Primaire / Secondaire / Périphérique / Spécifique on the City's map sheet. The general
+    sheet also names sub-areas inside the city: Secteur de la Traverse, Secteur d'intérêt
+    patrimonial, Secteur de la Rotonde, Secteur de l'anse Tibbits.
+
+- id: piia-lauzon
+  code: PIIA-LAUZON
+  name_fr: Secteur d'intérêt patrimonial de Lauzon
+  value: review-jurisdiction
+  summary_en: >-
+    The old village of Saint-Joseph-de-la-Pointe-Lévy, renamed Lauzon in 1867 and the site of the
+    Davie shipyard from 1829. Like Vieux-Lévis it carries no cited or declared status. A 2005
+    request by the GIRAM to create heritage sites for "le Vieux-Lévis et le corridor de la rue
+    Saint-Joseph à Lauzon" was not acted upon.
+  streets: ["rue Saint-Joseph"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Lauzon" (4 March 2020)
+
+- id: piia-saint-romuald
+  code: PIIA-ROMUALD
+  name_fr: Secteur d'intérêt patrimonial de Saint-Romuald
+  value: review-jurisdiction
+  summary_en: >-
+    The village core of Saint-Romuald above the mouth of the Chaudière, one of the ten
+    municipalities merged in 2002. Covered by the PIIA by-law only; not cited, not declared.
+  streets: ["rue Saint-Maurice", "rue de Soeur-Sidonie"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Saint-Romuald" (4 March 2020)
+
+- id: piia-saint-jean-chrysostome
+  code: PIIA-CHRYSOSTOME
+  name_fr: Secteur d'intérêt patrimonial de Saint-Jean-Chrysostome
+  value: review-jurisdiction
+  summary_en: >-
+    Vieux-Saint-Jean-Chrysostome around avenue Taniata and rue Saint-Irénée. This is the one PIIA
+    sector that also contains a cited site — the église-et-presbytère ensemble — so the two levels
+    of protection overlap here and nowhere else in the city except Saint-Nicolas.
+  streets: ["avenue Taniata", "rue Saint-Irénée"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Saint-Jean-Chrysostome" (4 March 2020)
+
+- id: piia-saint-nicolas
+  code: PIIA-NICOLAS
+  name_fr: Secteur d'intérêt patrimonial de Saint-Nicolas
+  value: review-jurisdiction
+  summary_en: >-
+    The Saint-Nicolas village core on the plateau above the river, along route Marie-Victorin. The
+    City's general map sheet draws the cited "Secteur du site patrimonial de Saint-Nicolas" as a
+    separate polygon inside this PIIA sector.
+  streets: ["route Marie-Victorin", "rue Marguerite-Demers", "rue des Pionniers"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Saint-Nicolas" (4 March 2020)
+
+- id: piia-charny
+  code: PIIA-CHARNY
+  name_fr: Secteur d'intérêt patrimonial de Charny
+  value: review-jurisdiction
+  summary_en: >-
+    The railway village of Charny above the Chaudière, laid out around the Grand Trunk yards. The
+    City's general sheet names a "Secteur de la Rotonde" — the roundhouse — among its sub-areas.
+  streets: ["avenue de la Sérénade", "rue du Quartier-d'Antan"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Charny" (4 March 2020)
+
+- id: piia-saint-redempteur
+  code: PIIA-REDEMPTEUR
+  name_fr: Secteur d'intérêt patrimonial de Saint-Rédempteur
+  value: review-jurisdiction
+  summary_en: The Saint-Rédempteur village core, in the borough of Les Chutes-de-la-Chaudière-Ouest.
+  streets: ["rue Mère-Marie-Anne-Baron"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Saint-Rédempteur" (4 March 2020)
+
+- id: piia-saint-etienne
+  code: PIIA-ETIENNE
+  name_fr: Secteur d'intérêt patrimonial de Saint-Étienne
+  value: review-jurisdiction
+  summary_en: >-
+    Saint-Étienne-de-Lauzon, one of the rural municipalities brought inside the city boundary in
+    2002 and one reason the catalogue has to carry an agricultural vernacular current.
+  streets: ["rue des Plaines", "rue Saint-Étienne"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Saint-Etienne" (4 March 2020)
+
+- id: piia-saint-david
+  code: PIIA-DAVID
+  name_fr: Secteur d'intérêt patrimonial de Saint-David
+  value: review-jurisdiction
+  summary_en: Saint-David-de-l'Auberivière, on the river east of Lauzon.
+  streets: ["rue Louis-Dantin", "rue Amas"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Saint-David" (4 March 2020)
+
+- id: piia-pintendre
+  code: PIIA-PINTENDRE
+  name_fr: Secteur d'intérêt patrimonial de Pintendre
+  value: review-jurisdiction
+  summary_en: The Pintendre village core, inland and agricultural in origin.
+  streets: ["rue Georges", "rue Alphonse-Couture"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Pintendre" (4 March 2020)
+
+- id: piia-breakeyville
+  code: PIIA-BREAKEYVILLE
+  name_fr: Secteur d'intérêt patrimonial de Breakeyville
+  value: review-jurisdiction
+  summary_en: >-
+    The mill village founded by the Breakey lumber family on the Chaudière. The City's general map
+    sheet names a "Secteur des villas de Breakeyville" — the owners' and managers' houses — as a
+    distinct sub-area.
+  streets: ["rue Davie-Anderson", "rue des Gouverneurs"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Breakeyville" (4 March 2020)
+
+- id: piia-new-liverpool
+  code: PIIA-NEWLIVERPOOL
+  name_fr: Secteur d'intérêt patrimonial de New Liverpool
+  value: review-jurisdiction
+  summary_en: >-
+    The timber-cove settlement of New Liverpool on the river west of Saint-Romuald, where the
+    square-timber trade loaded its rafts. Named as its own secteur on the City's general sheet.
+  streets: ["rue des Caps", "rue Hardy"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "New Liverpool" (4 March 2020)
+
+- id: piia-vire-crepes
+  code: PIIA-VIRECREPES
+  name_fr: Secteur d'intérêt patrimonial de Vire-Crêpes
+  value: review-jurisdiction
+  summary_en: >-
+    The chemin Vire-Crêpes, a rural road corridor rather than a village core — the clearest case of
+    the City protecting a farmed landscape rather than a built ensemble.
+  streets: ["chemin Vire-Crêpes", "route Lagueux"]
+  source: Ville de Lévis, Localisation des secteurs de PIIA patrimonial, sheet "Vire-Crêpes" (4 March 2020)

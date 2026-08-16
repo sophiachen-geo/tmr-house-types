@@ -1,0 +1,10 @@
+# Phase anchors are taken from RPCQ id 93531 (Informations historiques), the MCC Plan de
+# conservation (2014), the Ville de Trois-Rivières "Histoire de Trois-Rivières" page and the
+# Patri-Arch Synthèse architecturale et patrimoniale. Where those four disagree the disagreement is
+# recorded in prose.md ## notes rather than resolved silently.
+- {id: p1, label: 1634–1760, start: 1634, end: 1760, title_en: The French-regime bourg, colour_key: p1}
+- {id: p2, label: 1760–1860, start: 1760, end: 1860, title_en: British regime, judicial seat, bishopric, colour_key: p2}
+- {id: p3, label: 1860–1908, start: 1860, end: 1908, title_en: Forestry capital of the Mauricie, colour_key: p3}
+- {id: p4, label: 1908–1920, start: 1908, end: 1920, title_en: The fire and the reconstruction, colour_key: p4}
+- {id: p5, label: 1907–1945, start: 1907, end: 1945, title_en: Pulp and paper — the workers' parishes, colour_key: p5}
+- {id: p6, label: 1945–2002, start: 1945, end: 2002, title_en: Bungalow belt, urban renewal, merger, colour_key: p6}

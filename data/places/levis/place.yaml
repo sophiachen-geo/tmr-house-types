@@ -1,0 +1,67 @@
+id: levis
+name_en: Lévis
+name_fr: Ville de Lévis
+sections: [historic-core, borough-vernacular]
+region: Chaudière-Appalaches
+founded: 1861                              # Ville de Lévis incorporated 18 May 1861; seigneurie de Lauzon 1636
+settlement_mode: ferry and railway town facing Québec, with shipyards at Lauzon; ten municipalities merged in 2002
+governing_instruments:
+  - kind: PIIA
+    title: >-
+      Ville de Lévis, Règlement RV-2019-19-74 sur les plans d'implantation et d'intégration
+      architecturale (PIIA) — volet patrimonial, applying to the secteurs d'intérêt patrimonial.
+      Thirteen sector sheets are mapped, each graded Primaire / Secondaire / Périphérique /
+      Spécifique. The by-law number carries 2019; the sector map sheets are dated 4 March 2020,
+      and the adoption date itself was not verified.
+    year: 2019
+    url: https://www.ville.levis.qc.ca/taxes-permis-reglements/autorisations-et-demandes-de-permis/permis-de-construction-et-de-renovation/plans-dimplantation-et-dintegration-architecturale-patrimoniale/
+  - kind: site-patrimonial-cite
+    title: >-
+      Site du patrimoine de Saint-Nicolas, cited by the municipality. The RPCQ statut block gives
+      Citation, site patrimonial, Municipalité (Lévis), 1987-10-05, with anterior statuses "Avis de
+      motion de citation, 1987-07-06" and "Citation, 1987-07-06" — so 5 October 1987, not 5
+      November. Eight principal buildings erected between 1760 and 1887; contains the maison Pâquet
+      and the chapelle Notre-Dame-de-Grâce, both classed immeubles patrimoniaux.
+    year: 1987
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93507&type=bien
+  - kind: site-patrimonial-cite
+    title: >-
+      Site du patrimoine de l'Église-et-du-Presbytère-de-Saint-Jean-Chrysostome, cited 20 August
+      2001 (avis de motion 7 May 2001). A village religious ensemble planned in 1829: the
+      neoclassical church of 1848–1850, the presbytery of 1871, the parish cemetery, a statue of
+      Christ and a public square. The oldest religious ensemble in Lévis.
+    year: 2001
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93382&type=bien
+  - kind: inventory
+    title: >-
+      Inventaire du patrimoine moderne de Lévis (2016): 79 buildings built 1946–1975, RPCQ
+      inventory id 1313. An Inventaire des bâtiments patrimoniaux significatifs de Lévis, mise à
+      jour 2023, is also cited as an associated inventory on RPCQ building records. Whether either
+      satisfies the statutory pre-1940 inventory obligation is UNVERIFIED — see notes.
+    year: 2016
+    url: null
+typology_document:
+  title: >-
+    Ville de Lévis, "Architecture patrimoniale — Styles architecturaux": a public catalogue of
+    architectural courants, each with a fixed field set (Nombre à Lévis, Période de construction,
+    Volumétrie, Plan, Toiture, Revêtements, Ouvertures, Saillies, Ornementation), historic and
+    before/after photographs, and a companion "Recherche par adresse" tool. The section also holds
+    "Composantes et modèles" (downloadable croquis) and a "Lexique architectural".
+  year: null
+  format: per-type-table
+  note: >-
+    "La Ville de Lévis regroupe plus de 4000 bâtiments patrimoniaux qui sont souvent associés à un
+    style ou une typologie architecturale." The index lists 20 courants — counted on the crawl of
+    16 August 2026, which harvested exactly 20 distinct ?idfiche= links, numbered 1 to 20; the
+    research memo had said 21. Lévis says "style" where Québec City says "courant" and Gatineau
+    says "type architectural"; the objects sit at the same level of abstraction. The idfiche
+    numbers do not follow the index order — Boomtown is 10 and Vernaculaire américain is 1 — so
+    the ids are harvested from the index rather than iterated.
+map_layer: null
+summary_en: >-
+  Ten municipalities merged in 2002 into one city facing Québec across the river, and the only place
+  in this part with no provincially declared site — its protection is municipal and discretionary.
+  What it has instead is the best public type catalogue in the province after Gatineau's: twenty
+  architectural currents from the Régime français to Modernisme, each with its volumetry, plan, roof,
+  cladding, openings, projections and ornament set out in the same seven fields, keyed to more than
+  four thousand heritage buildings and searchable by street address.

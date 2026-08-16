@@ -1,0 +1,100 @@
+- id: tr-rpcq-93531
+  citation: >-
+    RPCQ, Site patrimonial de Trois-Rivières (id 93531); déclaration, Gouvernement du Québec,
+    1964-05-06; other names "Arrondissement historique de Trois-Rivières", "Vieux-Trois-Rivières";
+    description, valeur patrimoniale, éléments caractéristiques, informations historiques,
+    emplacement (46° 20' 35.0" N, 72° 32' 17.0" O), sixteen Borden codes (CcFd-15 to CcFd-42).
+    Source : Ministère de la Culture et des Communications.
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93531&type=bien
+  used_for: [protection, sectors, types, phases, prose]
+- id: tr-mcc-plan-2014
+  citation: >-
+    Sylvain Lizotte (dir.), Plan de conservation du site patrimonial de Trois-Rivières, Québec,
+    Ministère de la Culture et des Communications, 2014. Sections "Le cadre bâti" (45 principal
+    buildings; construction dates 1714–1956; parement, forme du toit, nombre d'étages, ouvertures et
+    ornementation) and "Les unités de paysage" (four units).
+  url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_trois-rivieres.pdf
+  used_for: [sectors, types, protection, prose]
+- id: tr-ville-courants
+  citation: >-
+    Ville de Trois-Rivières, "Patrimoine architectural" (Culture › Histoire et patrimoine; page last
+    updated 28 July 2026) — the inventory figures and a summary of fourteen courants architecturaux
+    with named example addresses. All French quoted in `profile_fr` on the type records comes from
+    this page and from the matching "fiche complète" PDF.
+  url: https://www.v3r.net/culture/histoire-et-patrimoine/patrimoine-architectural
+  used_for: [types, inventory, prose]
+- id: tr-patri-arch-fiches
+  citation: >-
+    Patri-Arch (recherche et rédaction; conception graphique Maëlstrom créatif), Répertoire des
+    courants architecturaux de Trois-Rivières, Ville de Trois-Rivières, sixteen illustrated fiches
+    (PDF, published 2021): Architecture de villégiature, Arts & Crafts, Boomtown, Bungalow, Colonial
+    français, Cottage vernaculaire américain, Cubique, Éclectisme victorien et néo-Queen Anne,
+    Immeuble d'appartements, Immeuble de type plex, Maison à mansarde, Modernisme, Néoclassicisme,
+    Second empire, Styles historiques, Tradition québécoise. Each carries Caractéristiques
+    architecturales du courant, Historique, Variantes, Conservation and a lexique.
+  url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Boomtown.pdf
+  used_for: [types, prose]
+- id: tr-patri-arch-synthese
+  citation: >-
+    Patri-Arch, Inventaire du patrimoine bâti — Ville de Trois-Rivières : Synthèse architecturale et
+    patrimoniale, with the companion Introduction et méthodologie and seven per-secteur volumes
+    (Cap-de-la-Madeleine, Pointe-du-Lac, Sainte-Marthe, Saint-Louis-de-France, Trois-Rivières
+    parties 1 and 2, Trois-Rivières-Ouest). 3,856 buildings surveyed 2008–2010; about 200 given a
+    written énoncé de valeur patrimoniale; the City reports 250 retained for exceptional and
+    superior value.
+  url: https://www.v3r.net/Fichiers/PatrimoineArchitectural/Synthese_architecturale_et_patrimoniale.pdf
+  used_for: [types, inventory, prose]
+- id: tr-ville-histoire
+  citation: >-
+    Ville de Trois-Rivières, "Histoire de Trois-Rivières" (page last updated 30 January 2025) —
+    survol historique and ligne du temps. On the fire: "Le 22 juin 1908, Trois-Rivières connaît
+    l'incendie le plus dévastateur de son histoire… Près de 800 bâtiments sont rasés, ruinant et
+    jetant des centaines de personnes à la rue." On the reconstruction: "En 1912, quatre ans après le
+    grand incendie, le centre-ville de Trois-Rivières est à nouveau animé. Rebâti par une poignée
+    d'architectes et d'entrepreneurs, le quartier présente une grande homogénéité architecturale qui
+    se constate encore aujourd'hui."
+  url: https://www.v3r.net/culture/histoire-et-patrimoine/histoire-de-trois-rivieres
+  used_for: [phases, prose]
+- id: tr-radio-canada-2008
+  citation: >-
+    "Un feu centenaire", Radio-Canada, 2008 — "un incendie qui a ravagé le quart de la ville";
+    "Plus de 800 bâtiments ont été rasés par les flammes"; "Tout le secteur situé entre les rues du
+    Fleuve, Bonaventure, Champlain et Saint-Georges avait été complètement dévasté. Quelque 800
+    bâtiments avaient été rasés par le feu."; "Les pompiers avaient combattu les flammes pendant 24
+    heures. Il n'y avait eu aucun mort ni blessé à la suite de cet incendie dévastateur."
+  url: https://ici.radio-canada.ca/nouvelle/401911/incendie-1908-trois-rivieres
+  used_for: [prose]
+- id: tr-uqtr-incendie
+  citation: >-
+    Micheline Champoux, "Le grand incendie de Trois-Rivières", Histoire et culture régionale du
+    Québec, Université du Québec à Trois-Rivières — "un incendie a détruit toute la partie de la
+    ville située entre les rues du Fleuve, Bonaventure, Champlain, et Saint-Georges"; "En tout, 800
+    bâtiments, y compris hangars et entrepôts, ont brûlé"; "Plus de 200 résidences et presque tous
+    les commerces de la ville ont été complètement rasés par les flammes."
+  url: https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=4080&owa_no_fiche=53
+  used_for: [prose]
+- id: tr-cbcq-hamel-2005
+  citation: >-
+    Nathalie Hamel, Étude de caractérisation de l'arrondissement historique de Trois-Rivières,
+    Québec, Commission des biens culturels du Québec, 2005, 73 p. Cited in the RPCQ bibliography for
+    id 93531. NOT CONSULTED DIRECTLY — no copy was reachable at the date of writing, so the
+    characterisation of the rebuilt centre attributed to it in the research memo ("Des rangées
+    continues de bâtiments de trois ou quatre étages…") is not quoted anywhere in these records.
+  url: null
+  used_for: [prose]
+- id: tr-ville-subventions
+  citation: >-
+    Ville de Trois-Rivières, "Subventions à la population" — Programme de Redéveloppement des
+    premiers quartiers (PRPQ) and Programme de restauration du patrimoine immobilier (entente Ville
+    – ministère de la Culture et des Communications of 3.75 M$, 60 % MCC / 40 % Ville, paying "60 %
+    du coût réel des travaux admissibles").
+  url: https://www.v3r.net/services-a-la-population/subventions-a-la-population
+  used_for: [instruments]
+- id: tr-patrimoine-industriel-2024
+  citation: >-
+    Étude de caractérisation du patrimoine industriel trifluvien, Ville de Trois-Rivières, 2024 —
+    the Wabasso Cotton (1907, rue Saint-Paul), the Wayagamack Pulp and Paper on île La Poterie, the
+    St. Lawrence Pulp and Paper (now Kruger), and the company housing on rues Sainte-Cécile and
+    Saint-Paul.
+  url: https://www.v3r.net/wp-content/uploads/2024/07/Rapport_Patrimoine-industriel_TR_240718_Final.pdf
+  used_for: [prose, sectors]

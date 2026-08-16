@@ -1,0 +1,86 @@
+# Two records only, and they are not the same kind of thing — which is the point.
+# SP-TR is a provincially declared site with a legal perimeter and a ministerial conservation plan.
+# QO is a descriptive grouping of the pulp-and-paper parishes, with no status of any kind.
+- id: site-patrimonial-trois-rivieres
+  code: SP-TR
+  name_fr: Site patrimonial de Trois-Rivières
+  value: declared-site
+  summary_en: >-
+    Declared 6 May 1964, the second of Québec's declared sites after Québec City. About 6.7
+    hectares on the north shore of the St Lawrence near the mouth of the Saint-Maurice, "délimité
+    notamment par les rues des Casernes, Saint-Pierre et Sainte-Cécile, et par la terrasse
+    Turcotte", its limits following in part the palisade of the 17th-century fortified bourg and in
+    part Jacques Levasseur de Neré's palisade project of 1704. Rue des Ursulines runs the length of
+    it and five streets traced from 1650 cross it, making the orthogonal grid. The RPCQ counts "la
+    cinquantaine de bâtiments"; the ministry's 2014 Plan de conservation counts 45 principal
+    buildings, dating from 1714 to 1956, of which about 85 % are residential — 21 rural and urban
+    houses and 17 immeubles à logements multiples. Two residential registers coexist, as the RPCQ
+    puts it: "des maisons cossues" on one hand, "des immeubles d'habitation construits sur des lots
+    étroits" on the other. Eleven archaeological sites lie inside the perimeter.
+  summary_fr: >-
+    L'environnement de ce dernier est caractérisé par la présence de deux types de bâtiments
+    résidentiels : d'une part se trouvent des maisons cossues; d'autre part s'élèvent des immeubles
+    d'habitation construits sur des lots étroits. Dans la partie sud-ouest, quelques rues plus larges
+    témoignent du réaménagement qui a suivi le grand incendie de 1908.
+  characteristics_fr:
+    - "sa situation dans la ville de Trois-Rivières, le long du fleuve Saint-Laurent, près de l'embouchure de la rivière Saint-Maurice"
+    - "les sites archéologiques permettant de retracer l'occupation humaine du lieu et ses portions intactes offrant un potentiel de recherche"
+    - "les immeubles et les sites patrimoniaux classés"
+    - "les lieux et les éléments commémoratifs, dont le Platon et la place d'Armes"
+    - "les éléments issus de travaux réalisés à la suite de l'incendie de 1908, dont la largeur des rues des Casernes et des Ursulines ainsi que l'espace public aménagé à l'emplacement de l'ancienne église paroissiale"
+    - "les traces du bourg fortifié du XVIIe siècle, dont le tracé orthogonal des rues (Saint-Pierre, des Ursulines, Saint-Jean, Saint-Louis et Saint-François-Xavier) et les cinq îlots"
+    - "les traces du bourg de 1704, dont le secteur longeant la rue des Ursulines compris entre la rue Saint-François-Xavier et la rue Sainte-Cécile et les rues ouvertes au tournant du XVIIIe siècle (de l'Hôpital et de la Poudrière)"
+    - "les établissements religieux concentrés le long de la rue des Ursulines, dont le monastère et les jardins des Ursulines, l'ancien couvent des Récollets et l'église anglicane Saint-James"
+    - "les éléments rattachés à la fonction résidentielle, dont la faible densité d'occupation en bordure de la rue des Ursulines et de la terrasse Turcotte, contrastant avec les lots plus petits et plus densément occupés des rues Saint-Pierre, Saint-François-Xavier, Saint-Louis et des Casernes"
+    - "les liens avec le fleuve Saint-Laurent et les environs, dont les percées visuelles créées par l'implantation irrégulière des bâtiments et les panoramas offerts de la terrasse Turcotte et des parcs"
+    - "les parcs publics, les aménagements paysagers tels que la terrasse Turcotte et les nombreuses oeuvres d'art public"
+    - "les bâtiments témoignant de la fonction institutionnelle, entre autres le monastère des Ursulines comprenant le couvent, l'hôpital, la chapelle et l'école, et les édifices du site patrimonial des Récollets-de-Trois-Rivières"
+    - "les bâtiments témoignant de la fonction résidentielle sous le Régime français, entre autres la maison Saint-François (habitation en bois de type rural) ainsi que la maison Georges-De Gannes et le manoir de Tonnancour (maisons de notables en pierre)"
+    - "les bâtiments témoignant de la fonction résidentielle au XIXe siècle, entre autres les résidences bourgeoises de styles variés (néoclassique, Second Empire et georgien)"
+    - "les bâtiments témoignant de la fonction résidentielle durant la période d'industrialisation, entre autres les habitations d'ouvriers et les maisons de style « boomtown » (caractérisées par un volume cubique, une maçonnerie de brique, une élévation de deux étages, un toit plat incliné vers l'arrière et une corniche ornementée), ainsi que les immeubles de logements (caractérisés par un volume cubique, un toit plat, une élévation de deux à trois étages, une corniche ornementée ainsi que des balcons en bois ou en fer forgé)"
+  plan_de_conservation: >-
+    The MCC's 2014 plan divides the site into four unités de paysage, which are landscape units and
+    not building types: les îlots institutionnels (three blocks of religious and institutional
+    buildings, all of stone, set with a shallow front margin along rue des Ursulines, plus the
+    former couvent des Filles de Jésus set back from the street "témoignant du réaménagement du
+    secteur après l'incendie de 1908"); les maisons urbaines individuelles ("regroupe surtout des
+    résidences cossues datant du tournant du XXe siècle", homogeneous in volume, height and
+    material, predominantly two-level individual brick houses, with deeper setbacks and a marked
+    tree cover); les îlots résidentiels (denser, on narrower parcels, "certains bâtiments érigés dès
+    la fin du XIXe siècle sont des maisons ouvrières en brique à deux niveaux de type boomtown
+    ornées sobrement", with more elaborately ornamented three-storey buildings of the early
+    twentieth century "notamment dans le secteur de la rue des Casernes, qui a été reconstruit après
+    la conflagration de 1908"); and les parcs et îlots commémoratifs (the Platon, the place d'Armes,
+    the place Pierre-Boucher with its monument Le Flambeau, the monument du Sacré-Cœur marking the
+    parish church destroyed in 1908). The same plan gives the fabric in numbers: 28 of the 45
+    buildings are brick and 18 of those postdate 1908; ten are stone, eight of them built between
+    1714 and 1873; six are or were wood; 21 have flat roofs and 15 have two-slope roofs; 39
+    buildings, about 87 %, rise two, two and a half or three storeys.
+  note: >-
+    The declared site is NOT the fire zone and must not be described as what survived the fire. The
+    Plan de conservation states that "le site patrimonial semble peu affecté par l'incendie de
+    1908" — but that 13 buildings, close to 30 % of the site, went up between 1908 and 1925 as the
+    city rebuilt around it, and that the widths of rues des Casernes and des Ursulines are
+    themselves a product of the post-fire works.
+  source: "RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014"
+- id: quartiers-ouvriers
+  code: QO
+  name_fr: Saint-Philippe, Notre-Dame-des-Sept-Allégresses, Sainte-Cécile
+  value: interesting
+  summary_en: >-
+    The pulp-and-paper parishes, founded as the mills filled them: Saint-Philippe in 1909,
+    Notre-Dame-des-Sept-Allégresses in 1911, Sainte-Cécile in 1912 (Très-Saint-Sacrement 1926,
+    Saint-François-d'Assise 1927 and Sainte-Marguerite-de-Cortone 1932 followed). This is the ground
+    of the Boomtown house and of the plex that displaced it: the Synthèse records that Boomtown
+    "se répand dans les quartiers Saint-Philippe, Sainte-Cécile et Notre-Dame à la fin du XIXe et au
+    début du XXe siècle et dans les plus vieux quartiers du Cap-de-la-Madeleine", and that
+    "l'immeuble de type plex remplace la maison Boomtown dans les années 1920 comme principal
+    logement ouvrier". Between 1910 and 1940 the population tripled while the built-up area only
+    doubled; with no urban plan and heavy land speculation, houses were set closer together or made
+    party-wall, and the city that had been mostly of wood in 1900 was 55 % brick-housed by 1931.
+    This grouping carries no legal status of any kind — it is a description, not a designation.
+  streets: [rue Sainte-Cécile, boulevard du Saint-Maurice, rue Royale, rue Saint-Paul, rue Saint-Roch, rue Gervais]
+  note: >-
+    Named here for the three parishes the sources name. The Synthèse's own phrasing for the third is
+    the quartier "Notre-Dame"; the parish erected in 1911 is Notre-Dame-des-Sept-Allégresses.
+  source: "Patri-Arch, Synthèse architecturale et patrimoniale (Inventaire du patrimoine bâti, Ville de Trois-Rivières); Patri-Arch, Répertoire des courants architecturaux"

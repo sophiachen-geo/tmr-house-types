@@ -1,0 +1,74 @@
+title_en: The 225 RPCQ records inside the declared site
+source: Répertoire du patrimoine culturel du Québec, « Site patrimonial du Vieux-Terrebonne » (id 231571),
+  block « Patrimoine immobilier associé (225) », crawled record by record 16 August 2026. © Gouvernement
+  du Québec; reproduced here as bibliographic metadata only.
+note_en: >-
+  This is not the site's building count. The declaration counts « environ 210 édifices » on the ground;
+  the RPCQ separately holds 225 immovable records that fall inside the perimeter, some of which are
+  components of a larger classed ensemble (the six mill buildings and dams on the île des Moulins are
+  each their own record inside id 92594) and some of which are landscape rather than buildings (parks,
+  a street, gloriettes, a retaining wall). The rows below are grouped by the RPCQ's own « Usage »
+  field, which one record leaves blank. Four records carry a Classement as an immeuble patrimonial —
+  the four the fiche means when it says « Il compte quatre immeubles patrimoniaux classés »; six more
+  carry « Classement — Situé dans un immeuble patrimonial » because they sit inside the Île-des-Moulins
+  ensemble. Every one of the 225 carries the 2026-05-20 Déclaration.
+rows: 225
+streets: 11
+named_buildings: 60
+columns:
+- Code
+- Usage (RPCQ)
+- Records
+- Classés
+- Cités
+- Inventoriés
+- Au Registre
+categories:
+- code: RES
+  label_fr: Fonction résidentielle
+  count: 176
+  extra: [3, 17, 130, 20]
+- code: COM
+  label_fr: Fonction commerciale
+  count: 14
+  extra: [0, 2, 8, 2]
+- code: INST
+  label_fr: Services et institutions
+  count: 11
+  extra: [0, 6, 6, 6]
+- code: TCP
+  label_fr: Transport, communication et services publics
+  count: 11
+  extra: [0, 0, 0, 0]
+- code: CULT
+  label_fr: Fonction culturelle et récréative, loisir
+  count: 7
+  extra: [0, 2, 4, 2]
+- code: IND-V
+  label_fr: Fonction industrielle, transformation de matières végétales et animales
+  count: 3
+  extra: [0, 0, 0, 0]
+- code: IND-M
+  label_fr: Fonction industrielle, transformation des minéraux et fabrication de produits finis
+  count: 1
+  extra: [0, 1, 0, 1]
+- code: N/A
+  label_fr: Non applicable (l'ensemble classé de l'Île-des-Moulins)
+  count: 1
+  extra: [1, 0, 0, 1]
+- code: '—'
+  label_fr: Sans usage indiqué dans la fiche
+  count: 1
+  extra: [0, 0, 1, 0]
+top_streets:
+- {name: rue Saint-Louis, count: 44}
+- {name: rue Saint-Joseph, count: 40}
+- {name: rue Saint-André, count: 38}
+- {name: rue Sainte-Marie, count: 26}
+- {name: rue Saint-Pierre, count: 23}
+- {name: rue Saint-François-Xavier, count: 23}
+- {name: boulevard des Braves, count: 13}
+- {name: rue Saint-Jean-Baptiste, count: 10}
+- {name: place de l'Île-des-Moulins, count: 4}
+- {name: île des Moulins, count: 3}
+- {name: ruelle du Passant, count: 1}
