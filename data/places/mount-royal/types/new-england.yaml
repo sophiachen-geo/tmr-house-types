@@ -1,0 +1,63 @@
+id: mount-royal.new-england
+place: mount-royal
+phase: p2
+name_en: New England House
+name_fr: Maison Nouvelle-Angleterre
+source_ref: By-law 1449, art. 23
+canonical:
+- side-gabled-colonial-2st
+styles:
+- colonial-revival
+style_label: "Colonial Revival — New England / Cape Cod branch"
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: gabled
+  pitch_deg: 38
+window_proportion: vertical-2to1
+principal_cladding:
+- stone-natural
+- clay-brick-red
+- clapboard
+- stucco
+roofing: asphalt-shingle-dark
+garage: attached-set-back
+lot_width_m:
+- 15
+- 22
+setback_front_m: 10
+setback_side_m: 4
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Side driveway of medium width"
+  - "Narrow pedestrian path distinct from the driveway"
+  - "Front setback of about 10 m from the sidewalk; side setbacks of about 3.5–5 m"
+  - "Typical lot width 15–22 m"
+  massing:
+  - "Simple rectangular volumes with the long side facing the street"
+  - "Attached garage, set back from the main volume"
+  - "Front entrance with a discreet canopy"
+  - "Aligned openings and symmetrical composition"
+  - "Canopies may be converted into enclosed entrance vestibules if they read as distinct through a light cladding (wood, aluminium, composite or acrylic) and keep a high degree of openness"
+  articulation:
+  - "Double-slope roofs of medium pitch (30–45°)"
+  - "Base expressed, where a base/body distinction already exists, up to the height of the ground-floor lintels"
+  - "Dormers placed halfway between the upper floor and the roof"
+  - "Bay windows are the only projecting elements"
+  openings:
+  - "Small-paned glazing"
+  - "Vertical window proportion maintained (height = twice the width)"
+  materials:
+  - "Natural stone or red clay brick, either full height or on the ground floor only with stucco or clapboard above"
+  - "Brick in a small traditional module (4 × 8 × 2.5 in.)"
+  - "Dark asphalt shingle roofing"
+  - "Same roofing material on the main roof and on dormer roofs"
+profile_note: null
+blurb_en: "Colonial Revival as it arrived from the American Northeast: a long, simple gabled rectangle with its broad side to the street, symmetrical windows, dormers set halfway up the roof, and a discreet canopy over the front door. Brick or stone below, clapboard or stucco above. It is quieter than the Georgian house, and the by-law wants it kept quiet: bay windows are the only projections allowed."
+origin_en: "A long side-gabled rectangle with its broad face to the street, symmetrical openings, dormers half-way up the roof, a discreet door canopy; brick or stone below and clapboard or stucco above. It is the New England colonial house as codified in 1920s–40s pattern books and builders' plan services, the quieter cousin of Georgian Revival. The by-law keeps it quiet: bay windows are the only projections it allows."
+photos:
+- file: assets/places/mount-royal/05-new-england.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 23
+  kind: strip

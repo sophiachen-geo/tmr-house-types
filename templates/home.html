@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">A catalogue of catalogues</div>
+  <h1>Québec Residential <em>Typologies</em></h1>
+  <p class="lede">Across Québec, towns and boroughs classify their own houses — in design-review by-laws, heritage inventories and typo-morphological studies. This site gathers those local catalogues into one structure: each place keeps its own vocabulary and its own build-out phases, and a canonical layer of forms and styles connects them, so a house type in one town can be read against its cousins everywhere else.</p>
+  <div class="tl">
+    <div class="tl-axis">{% for y in tl_ticks %}<span>{{ y }}</span>{% endfor %}</div>
+    {% for pl in places %}
+    <div class="swimlane">
+      <div class="sw-label"><a href="{{ R }}places/{{ pl.id }}/">{{ pl.name_en|esc }}</a><span class="fr">{{ pl.name_fr|esc }}</span></div>
+      <div class="sw-track">
+        {% for ph in pl.phases %}
+        <a class="band {{ ph.colour_key }}" style="left:{{ ph.tl_left }}%;width:{{ ph.tl_width }}%" href="{{ R }}places/{{ pl.id }}/#{{ ph.id }}" title="{{ ph.start }}–{{ ph.end }}">{{ ph.title_en|esc }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div></header>
+<main><div class="wrap">
+  {% for sec in sections %}
+  <div class="sectionblock {{ sec.colour_key }}">
+    <div class="kicker">Section {{ sec.letter }}</div>
+    <h2><a href="{{ R }}sections/{{ sec.key }}/" style="text-decoration:none">{{ sec.name|esc }}</a></h2>
+    <p>{{ sec.teaser }}</p>
+    {% if sec.places %}
+    <div class="cardsgrid">
+      {% for pl in sec.places %}
+      <div class="cardsimple">
+        <div class="meta">{{ pl.region|esc }} · {{ pl.founded }} · {{ pl.types|length }} types</div>
+        <h3><a href="{{ R }}places/{{ pl.id }}/">{{ pl.name_en|esc }}</a><span class="fr">{{ pl.name_fr|esc }}</span></h3>
+        <p>{{ pl.summary_en|esc }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="none">No places yet — this section fills in with later parts.</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div></main>
+<footer><div class="wrap">
+  <p>Built from structured records in <code>data/</code> — one YAML file per local type, validated and rendered by <code>build.py</code>. Machine-readable exports: <a href="{{ R }}data.json">data.json</a> · <a href="{{ R }}data.csv">data.csv</a>. See <a href="{{ R }}methods/">methods</a> for what is verbatim and what is interpretive.</p>
+</div></footer>
+{% endblock %}

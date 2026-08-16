@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker"><a href="{{ R }}places/{{ t.place }}/" style="text-decoration:none">{{ t.place_name|esc }}</a> · Local type</div>
+  <h1>{{ t.name_en|esc }}</h1>
+  <div class="metaline">{{ t.place_name|esc }} · {{ t.phase_obj.label|esc }} ({{ t.phase_obj.years }}) · {{ t.source_ref|esc }} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% endfor %}</div>
+  <div class="stylename">Style: {{ t.style_label }} — {% for s in t.style_objs %}<a href="{{ R }}styles/{{ s.id }}/">{{ s.name_en|esc }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</div>
+</div></header>
+<main><div class="wrap"><div class="typebody">
+  <h2>{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></h2>
+  <img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}">
+  <p class="figcredit">{{ t.photo.credit|esc }}</p>
+  <p class="blurb">{{ t.blurb_en|esc }}</p>
+  <div class="origin" style="margin-top:16px"><span class="olabel">Where it comes from</span><p>{{ t.origin_en }}</p></div>
+
+  <div class="tablewrap"><table class="fields">
+    <tr><th>Tenure / plan</th><td>{{ t.tenure_plan|dash }}</td></tr>
+    <tr><th>Storeys</th><td>{{ t.storeys|dash }}</td></tr>
+    <tr><th>Roof form</th><td>{{ t.roof.form|dash }}</td></tr>
+    <tr><th>Roof pitch</th><td>{{ t.roof.pitch_deg|deg }}</td></tr>
+    <tr><th>Window proportion</th><td>{{ t.window_proportion|dash }}</td></tr>
+    <tr><th>Principal cladding</th><td>{{ t.principal_cladding|joinlist }}</td></tr>
+    <tr><th>Roofing</th><td>{{ t.roofing|dash }}</td></tr>
+    <tr><th>Garage</th><td>{{ t.garage|dash }}</td></tr>
+    <tr><th>Lot width</th><td>{{ t.lot_width_m|range_m }}</td></tr>
+    <tr><th>Front setback</th><td>{{ t.setback_front_m|num_m }}</td></tr>
+    <tr><th>Side setback</th><td>{{ t.setback_side_m|num_m }}</td></tr>
+    <tr><th>Front yard green</th><td>{{ t.front_yard_green_pct|pct }}</td></tr>
+  </table></div>
+
+  <h2 style="margin-top:34px;font-size:24px">What {{ t.doc_short|esc }} says about this type</h2>
+  <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}</ul></div>{% endfor %}</div>
+  {% if t.profile_note %}<p class="figcredit" style="margin-top:8px">{{ t.profile_note|esc }}</p>{% endif %}
+
+  <div class="xlinks">
+    {% for group in t.xlinks %}
+    <div class="xl-group">
+      <h3>{{ group.label }}</h3>
+      <ul>{% if group.entries %}{% for x in group.entries %}<li><a href="{{ R }}types/{{ x.id }}/">{{ x.name_en|esc }}</a> <span class="null">({{ x.place_name|esc }})</span></li>{% endfor %}{% else %}<li class="null">–</li>{% endif %}</ul>
+    </div>
+    {% endfor %}
+  </div>
+  <a class="btn" href="{{ R }}compare/?ids={{ t.id }}">Compare with …</a>
+</div></div></main>
+{% endblock %}

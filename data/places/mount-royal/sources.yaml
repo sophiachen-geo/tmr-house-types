@@ -1,0 +1,41 @@
+# Citations may contain inline <em> markup; build.py renders them as HTML.
+- id: parks-canada-nhs
+  citation: "Parks Canada, Directory of Federal Heritage Designations, <em>Model City of Mount Royal National Historic Site of Canada</em> (designated 2008)."
+  url: null
+  used_for: [place, prose]
+- id: tmr-bylaw-1449
+  citation: "Town of Mount Royal, <em>History and Patrimony</em>, ville.mont-royal.qc.ca; and <em>Règlement n° 1449 sur les plans d'implantation et d'intégration architecturale</em> (adopted 20 August 2018, in force 4 October 2018), chapters I–III and Annex A."
+  url: https://www.ville.mont-royal.qc.ca/storage/app/media/ma-ville/vie-democratique/reglements-municipaux/1449_piia_fr.pdf
+  used_for: [types, phases]
+- id: mamh-guide-piia
+  citation: "Government of Québec / MAMH, <em>Guide La prise de décision en urbanisme</em>, \"Règlement sur les plans d'implantation et d'intégration architecturale\" (LAU ss. 145.15–145.20.1)."
+  url: null
+  used_for: [prose]
+- id: canadian-encyclopedia
+  citation: "<em>The Canadian Encyclopedia</em>, \"Architectural History: 1914–1967\" (Nobbs, Traquair, Gagnon and the Québec regionalist house; streamlined design of the 1930s–40s)."
+  url: null
+  used_for: [origins]
+- id: heritage-montreal-2021
+  citation: "Héritage Montréal, \"Quelle est la personnalité de votre maison ?\" (2021): the 1920s plex repertoire, the postwar bungalow and its presence in Mount Royal."
+  url: null
+  used_for: [origins, phases]
+- id: spacing-2009
+  citation: "Émile Thomas, \"Ville Mont-Royal : elle a de beaux restes\", <em>Spacing Montreal</em>, 20 Aug. 2009: the earlier eight-style PIIA and the Kindersley Avenue litigation."
+  url: null
+  used_for: [prose]
+- id: quebec-thesaurus-plateau
+  citation: "Ville de Québec, <em>Thésaurus du patrimoine bâti</em>, entries \"maison de faubourg\" and \"maison de faubourg à toit plat\"; Arrondissement du Plateau-Mont-Royal, <em>Typologies architecturales PIIA</em> (2004)."
+  url: null
+  used_for: [origins]
+- id: oqlf-gdt
+  citation: "Office québécois de la langue française, <em>Grand dictionnaire terminologique</em>, entries \"cottage\" and \"fausse mansarde\"."
+  url: null
+  used_for: [origins, glossary]
+- id: style-references
+  citation: "General style references: V. &amp; L. McAlester, <em>A Field Guide to American Houses</em> (rev. ed. 2013), for Tudor, Colonial and Georgian Revival, Minimal Traditional, Ranch, Split-level, Contemporary and Prairie; H. Kalman, <em>A History of Canadian Architecture</em> (1994), for the Canadian reception of the revivals and of postwar Modernism."
+  url: null
+  used_for: [origins]
+- id: tmr-photos
+  citation: "Photographs © Ville de Mont-Royal, reproduced from By-law 1449, chapter II, for personal, non-commercial use; each caption gives the article the photograph illustrates."
+  url: null
+  used_for: [photos]

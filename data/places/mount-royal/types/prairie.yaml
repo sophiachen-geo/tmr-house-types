@@ -1,0 +1,62 @@
+id: mount-royal.prairie
+place: mount-royal
+phase: p3
+name_en: Prairie House
+name_fr: Maison Prairie
+source_ref: By-law 1449, art. 30
+canonical:
+- prairie-contemporary
+styles:
+- prairie
+style_label: "Prairie / Wrightian Contemporary"
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: pyramidal
+  pitch_deg: 30
+window_proportion: horizontal
+principal_cladding:
+- clay-brick-red
+- stone-natural
+roofing: asphalt-shingle-dark
+garage: attached-set-back
+lot_width_m:
+- 20
+- 25
+setback_front_m: 12
+setback_side_m: 2.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Wide driveway"
+  - "Pedestrian path joins the driveway"
+  - "Front setback of about 12 m from the sidewalk; side setbacks of about 2.5 m"
+  - "Typical lot width 20–25 m"
+  massing:
+  - "Asymmetrical composition"
+  - "Simple volumes of two full storeys"
+  - "One-storey porch or secondary volumes (garage, solarium, etc.) that reinforce the horizontality"
+  articulation:
+  - "A base ending below the upper-floor window sills"
+  - "Horizontality reinforced by the details"
+  - "Low-pitched (30°) pyramidal or multi-slope roofs with deep soffits"
+  - "Typical width of 15 m for both semi-detached and detached units"
+  openings:
+  - "Windows subdivided horizontally, without small panes"
+  - "Bay windows may be added if they respect the type"
+  - "Upper-floor windows directly under the horizontal soffit line"
+  - "Ribbon windows that may wrap the corners of volumes"
+  - "Horizontal window proportion (width > height)"
+  materials:
+  - "Brownish-red clay brick or natural stone"
+  - "Elongated “Roman” brick module, or long cut stone"
+  - "A light material (wood, aluminium, composite or acrylic) may be used in gables and above the base"
+  - "Dark asphalt shingles, or a tone matched to the main cladding"
+profile_note: null
+blurb_en: "Frank Lloyd Wright's Prairie idiom, filtered through 1960s Montreal: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked right under the eaves and running around the corners as ribbons, long “Roman” brick or long-cut stone, and one-storey wings (garage, porch, solarium) that stretch the composition sideways. Asymmetrical, and the most architect-driven of the phase-3 types."
+origin_en: "Frank Lloyd Wright's Prairie idiom of 1900–1915, revived and simplified in the 1950s–60s Contemporary house: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked under the eaves and wrapping the corners as ribbons, long \"Roman\" brick or long-cut stone, one-storey wings that stretch the composition sideways. Asymmetrical and the most architect-driven of the Phase 3 types; the by-law's insistence on the Roman brick module is the tell."
+photos:
+- file: assets/places/mount-royal/12-prairie.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 30
+  kind: strip

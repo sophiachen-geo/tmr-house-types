@@ -1,0 +1,63 @@
+id: mount-royal.english-manor
+place: mount-royal
+phase: p2
+name_en: English Manor House
+name_fr: Maison manoir anglais
+source_ref: By-law 1449, art. 26
+canonical:
+- tudor-manor-stone-timber
+styles:
+- tudor-revival
+style_label: "Tudor Revival"
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: gabled-multi
+  pitch_deg: 45
+window_proportion: vertical-2to1
+principal_cladding:
+- stone-natural
+- clay-brick-red
+- stucco
+- half-timbering
+roofing: asphalt-shingle-dark
+garage: attached-set-back
+lot_width_m:
+- 15
+- 22
+setback_front_m: 14
+setback_side_m: 4.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Side driveway of medium width"
+  - "Narrow pedestrian path (curved or not) distinct from the driveway"
+  - "Typical lot width 15–22 m"
+  - "Front setback of about 14 m from the sidewalk; side setbacks of about 3.5–6 m"
+  massing:
+  - "Projections or volumetric modulation allowing the roofs to articulate"
+  - "Part of the attic storey habitable"
+  - "Asymmetrical composition"
+  - "Typical width of 13.5 m per semi-detached unit, 15 m for a detached house"
+  - "Small attached garage set back from the main volume"
+  - "Original recessed entrances preserved"
+  articulation:
+  - "Transition from base to body marked by a specific detail, where such a distinction exists"
+  - "A particular level of cladding detail on the body (half-timbering, brick motifs, etc.)"
+  - "Multi-slope roofs of steep pitch (45°) with gables and dormers"
+  openings:
+  - "Small-paned glazing"
+  - "Vertical window proportion (height = twice the width)"
+  materials:
+  - "Natural stone on the ground floor with brownish-red clay brick, or stucco with wood half-timbering, on the upper floor"
+  - "Brick in a small traditional module (4 × 8 × 2.5 in.) with worked bonds (herringbone, Dutch bond, etc.)"
+  - "Dark asphalt shingle roofing"
+  - "Same roofing material on the main roof and on porch and gallery roofs"
+profile_note: null
+blurb_en: "Tudor Revival, TMR's most romantic type: steep 45° roofs broken into several gables, a natural-stone ground floor with brick or half-timbered stucco above, patterned brickwork (herringbone, Dutch bond), small-paned casements, sometimes a round turret at the entrance. Where the Georgian house is symmetrical, the manor is deliberately picturesque, and its garage is meant to hide."
+origin_en: "The by-law's \"English manor\" is Tudor Revival by any other name: stone ground floor with brick or stucco-and-timber above, patterned brick (herringbone, Dutch bond), 45° multi-gabled roofs, small-paned casements, sometimes a round entrance turret. In North America the style peaked in the 1920s–30s and lingered into the 1940s; its Montreal fashion was strongest in the anglophone west end and suburbs. Tudor detailing also surfaces on some Phase 1 Garden City houses, which is why the two types share the half-timbered gable."
+photos:
+- file: assets/places/mount-royal/08-english-manor.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 26
+  kind: strip

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">Vocabulary</div>
+  <h1>Glossary</h1>
+  <p class="lede">Terms used by the by-laws, inventories and studies this site draws on, and by the site itself. French terms are shown in italics.</p>
+</div></header>
+<main><div class="wrap">
+  <dl class="glossary">
+    {% for g in glossary %}
+    <dt>{{ g.term|esc }}{% if g.term_fr and g.term_fr != g.term %} <span class="fr">· {{ g.term_fr|esc }}</span>{% endif %}</dt>
+    <dd>{{ g.definition_en|esc }}</dd>
+    {% endfor %}
+  </dl>
+</div></main>
+{% endblock %}

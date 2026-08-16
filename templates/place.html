@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <h1>Residential Architectural Styles of <em>{{ pl.name_en|esc }}</em></h1>
+  {% for p in pl.prose.intro %}<p class="lede">{{ p }}</p>{% endfor %}
+  <div class="timeline">
+    <div class="rail" role="img" aria-label="{{ pl.rail_aria }}" style="background:{{ pl.rail_gradient }}"></div>
+    <div class="rail-years">{% for y in pl.rail_years %}<span>{{ y }}</span>{% endfor %}</div>
+    <div class="phases">
+      {% for ph in pl.phases %}
+      <div class="pblock {{ ph.colour_key }}"><div class="pyears">{{ ph.years }}</div><div class="pname">{{ ph.label|esc }}</div><p>{{ ph.summary_en|esc }}</p><ul class="pticks">
+        {% for t in ph.types %}<li><a href="#{{ t.slug }}">{{ t.name_en|esc }}</a></li>{% endfor %}
+      </ul></div>
+      {% endfor %}
+    </div>
+  </div>
+</div></header>
+<main id="grid"><div class="wrap"><div class="grid">
+{% for ph in pl.phases %}
+<div class="phase-divider {{ ph.colour_key }}" id="{{ ph.id }}"><div class="pd-head"><h3>{{ ph.label|esc }} · {{ ph.title_en|esc }}</h3><span>{{ ph.years }}</span></div><p>{{ ph.essay }}</p></div>
+{% for t in ph.types %}
+<article class="card {{ ph.colour_key }}" id="{{ t.slug }}">
+  <div class="card-head">
+    <div class="eyebrow"><span class="dot"></span>{{ ph.label|esc }} · {{ ph.years }} · {{ t.eyebrow_ref|esc }}</div>
+    <h2><a href="{{ R }}types/{{ t.id }}/">{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></a></h2>
+    <div class="stylename">Style: {{ t.style_label }}</div>
+  </div>
+  <img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}" loading="lazy">
+  <p class="blurb">{{ t.blurb_en|esc }}</p>
+  <div class="origin"><span class="olabel">Where it comes from</span><p>{{ t.origin_en }}</p></div>
+  <details class="traits">
+    <summary>What {{ t.doc_short|esc }} says about this type <span class="chev">›</span></summary>
+    <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}</ul></div>{% endfor %}</div>
+  </details>
+  <div class="metaline">{{ pl.name_en|esc }} · {{ ph.label|esc }} · {{ t.source_ref|esc }} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% endfor %}</div>
+</article>
+{% endfor %}
+{% endfor %}
+</div></div></main>
+<section class="notes" id="approach"><div class="wrap">
+  <div class="kicker">Notes on the approach</div>
+  {% for p in pl.prose.notes %}<p>{{ p }}</p>{% endfor %}
+</div></section>
+<footer><div class="wrap">
+  {% for p in pl.prose.footer %}<p>{{ p }}</p>{% endfor %}
+  <p><strong>Sources.</strong></p><ol class="sources">{% for s in pl.sources %}<li>{{ s.citation }}</li>{% endfor %}</ol>
+</div></footer>
+{% endblock %}

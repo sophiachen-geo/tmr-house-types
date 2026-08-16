@@ -1,0 +1,54 @@
+# Canonical vocabulary of built forms, v0 (Part 1 seed).
+# `members` is filled automatically by build.py from types' `canonical`; keep [] here.
+- id: detached-cottage-steep-gable
+  name_en: Detached cottage, steep multi-gabled roof, brick base / light upper
+  definition_en: 1.5–2 storey detached house, roof ≥45°, asymmetrical, brick ground floor with stucco/timber above.
+  members: []
+- id: brick-box-flat-or-hipped-2st
+  name_en: Two-storey brick box, flat/hipped/false-mansard roof, front gallery
+  definition_en: Plain two-storey brick volume with aligned openings and minimal ornament; flat, hipped or false-mansard roof; front gallery or verandah on posts.
+  members: []
+- id: walkup-3st-flat-brick
+  name_en: Three-storey brick walk-up, flat roof, decorated parapet
+  definition_en: Three-storey multi-family brick block under a flat roof, base differentiated, parapet with brick motifs, balconies and a prominent entrance.
+  members: []
+- id: bellcast-roof-stone-house
+  name_en: Steep bell-cast roof house with flared eaves, dormers, stone walls
+  definition_en: 1.5-storey house whose steep roof flares into larmiers sheltering the door; row of dormers, stone walls, symmetrical front.
+  members: []
+- id: side-gabled-colonial-2st
+  name_en: Long side-gabled two-storey rectangle, dormers, symmetrical
+  definition_en: Simple two-storey rectangle with its long gabled side to the street, dormers halfway up the roof, symmetrical openings, discreet entrance.
+  members: []
+- id: courtyard-apartment-u-l
+  name_en: Low-rise U/L-plan apartment court, gables, stone base
+  definition_en: Low-rise apartment block in a U or L plan around a green forecourt; steep gables and dormers, stone base and banding.
+  members: []
+- id: symmetric-brick-3-5-bay-2st
+  name_en: Symmetrical two-storey brick house, 3–5 bays, central door
+  definition_en: Formal two-storey brick box of three or five bays; central door with surround, sash windows, frieze under a moderately pitched roof.
+  members: []
+- id: tudor-manor-stone-timber
+  name_en: Steep multi-gabled house, stone base, brick or half-timber above, patterned brick
+  definition_en: Picturesque 2-storey house with steep multi-gabled roofs, stone ground floor, brick or half-timbered stucco above, worked brick bonds.
+  members: []
+- id: one-storey-ranch-low-roof
+  name_en: One-storey horizontal house, ≤30° roof, integrated garage
+  definition_en: Long, low one-storey house with shallow roof and deep overhang, recessed entrance, garage in the façade, horizontal windows.
+  members: []
+- id: postwar-2st-box-low-hip
+  name_en: Two-storey box, low hip roof, integrated garage, marquise
+  definition_en: Plain postwar two-storey box under a low hip roof; base/body dividing line, garage in the façade, flat marquise over the door.
+  members: []
+- id: split-level
+  name_en: Two volumes offset half a storey, garage under bedrooms
+  definition_en: Two volumes offset by half a storey under one low roof; garage tucked under the bedroom wing and pushed forward, recessed entrance.
+  members: []
+- id: prairie-contemporary
+  name_en: Low pyramidal/hipped roof, deep soffits, ribbon windows, Roman brick
+  definition_en: Horizontal composition under low pyramidal or multi-hipped roofs with deep soffits; ribbon windows under the eaves, elongated brick or stone.
+  members: []
+- id: modern-slab-flat-brick
+  name_en: Flat-roof brick apartment slab, loggias, penthouse setback
+  definition_en: Flat-roofed modernist apartment slab with coping band, set-back penthouse storey, loggia balconies and wide undivided windows.
+  members: []

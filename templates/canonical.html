@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">Canonical form</div>
+  <h1>{{ c.name_en|esc }}</h1>
+  <p class="lede">{{ c.definition_en|esc }}</p>
+</div></header>
+<main><div class="wrap">
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Place</th><th>Local name</th><th>Phase years</th><th>Storeys</th><th>Roof</th><th>Window</th><th>Cladding</th><th>Garage</th></tr></thead>
+    <tbody>
+    {% for t in c.members %}
+    <tr>
+      <td><a href="{{ R }}places/{{ t.place }}/">{{ t.place_name|esc }}</a></td>
+      <td><a href="{{ R }}types/{{ t.id }}/">{{ t.name_en|esc }}</a> <em>{{ t.name_fr|esc }}</em></td>
+      <td>{{ t.phase_obj.years }}</td>
+      <td>{{ t.storeys|dash }}</td>
+      <td>{{ t.roof.form|dash }}</td>
+      <td>{{ t.window_proportion|dash }}</td>
+      <td>{{ t.principal_cladding|joinlist }}</td>
+      <td>{{ t.garage|dash }}</td>
+    </tr>
+    {% else %}
+    <tr><td colspan="8" class="null">No members yet.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+  <div class="photorow">
+    {% for t in c.members %}<figure><img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}" loading="lazy"><figcaption>{{ t.place_name|esc }} · {{ t.name_en|esc }}</figcaption></figure>{% endfor %}
+  </div>
+</div></main>
+{% endblock %}

@@ -1,0 +1,60 @@
+id: mount-royal.bungalow
+place: mount-royal
+phase: p3
+name_en: Bungalow
+name_fr: Maison bungalow
+source_ref: By-law 1449, art. 27
+canonical:
+- one-storey-ranch-low-roof
+styles:
+- ranch
+style_label: "Ranch / postwar bungalow"
+tenure_plan: single-family
+storeys: '1'
+roof:
+  form: hipped
+  pitch_deg: 30
+window_proportion: horizontal-2to1
+principal_cladding:
+- stone-natural
+- clay-brick-buff
+roofing: asphalt-shingle-black
+garage: integrated-facade
+lot_width_m:
+- 20
+- 25
+setback_front_m: 10
+setback_side_m: 1.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Wide driveway"
+  - "Pedestrian path joins the driveway"
+  - "Front setback of about 10 m from the sidewalk; side setbacks of about 1.5 m"
+  - "Typical lot width 20–25 m"
+  massing:
+  - "Simple, horizontal volumes"
+  - "Attic additions and alterations respect the massing"
+  - "Integrated garages, in the façade"
+  - "Typical width of 15 m per semi-detached unit and 15 m for a detached house"
+  - "Entrance sheltered by the roof overhang"
+  articulation:
+  - "Garage projecting in the façade"
+  - "Recessed entrance protected by the roof overhang"
+  - "Two- or four-slope roofs of low pitch (30°)"
+  openings:
+  - "Glazing without small panes"
+  - "Bay windows may be added if they respect the type"
+  - "Horizontal window proportion (width = twice the height)"
+  materials:
+  - "Natural stone or buff (chamois) clay brick"
+  - "Black asphalt shingles, or a tone matched to the cladding colour"
+  - "A light cladding (wood, aluminium, composite or acrylic) may be used for architectural elements"
+profile_note: null
+blurb_en: "The postwar ranch bungalow: one storey, long and low, with a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, and big undivided windows wider than they are tall. Buff (“chamois”) brick or stone, black shingles, a wide driveway. The type that arrived with the car and the last empty lots of the 1950s and 60s."
+origin_en: "One storey, long and low, a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, big undivided windows wider than tall, buff (\"chamois\") brick or stone, a wide driveway. In Québec usage <em>bungalow</em> simply means the postwar single-family suburban house; the form is the Ranch house that spread from the American Southwest after 1945 and became the default Canadian suburban dwelling of the 1950s–60s."
+photos:
+- file: assets/places/mount-royal/09-bungalow.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 27
+  kind: strip

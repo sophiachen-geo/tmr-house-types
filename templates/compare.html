@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">Side by side</div>
+  <h1>Compare <em>types</em></h1>
+  <p class="lede">Pick two to four local types and read them side by side: the fixed fields first, then the five-column profiles, then the styles.</p>
+  <noscript><p class="lede"><strong>This page needs JavaScript</strong> to fetch the data and render columns. Without it, browse the <a href="{{ R }}matrix/">matrix</a> or the place pages instead.</p></noscript>
+  <div class="picker" id="cmp-picker" hidden>
+    <input type="search" id="cmp-search" placeholder="Add a type — search by name or place…" autocomplete="off">
+    <ul class="results" id="cmp-results"></ul>
+    <p class="hint" id="cmp-status">Loading data…</p>
+  </div>
+</div></header>
+<main><div class="wrap">
+  <div class="compare-grid tablewrap" id="cmp-mount"></div>
+</div></main>
+{% endblock %}

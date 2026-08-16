@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">Cross-reference</div>
+  <h1>Style ↔ place <em>matrix</em></h1>
+  <p class="lede">Rows are art-history styles; columns are places. Each cell lists the local types that carry the style. Rows with no members yet are reserved for later parts.</p>
+  <button class="btn" id="mx-sort" data-mode="decade" style="margin-top:6px">Sorted by decade — click to sort by name</button>
+</div></header>
+<main><div class="wrap">
+  <div class="tablewrap"><table class="matrix" id="mx-table">
+    <thead><tr><th>Style</th>{% for pl in places %}<th><a href="{{ R }}places/{{ pl.id }}/">{{ pl.name_en|esc }}</a></th>{% endfor %}</tr></thead>
+    <tbody>
+    {% for s in styles %}
+    <tr data-decade="{{ s.span[0] }}" data-name="{{ s.name_en|esc }}">
+      <td class="rowhead"><a href="{{ R }}styles/{{ s.id }}/">{{ s.name_en|esc }}</a><span class="decade">{{ s.span[0] }}–{{ s.span[1] }}</span></td>
+      {% for pl in places %}
+      <td>{% set cell = s.members_by_place.get(pl.id, []) %}{% if cell %}{% for t in cell %}<a href="{{ R }}types/{{ t.id }}/">{{ t.name_en|esc }}</a>{% if not loop.last %} · {% endif %}{% endfor %}{% else %}<span class="null">–</span>{% endif %}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+</div></main>
+{% endblock %}

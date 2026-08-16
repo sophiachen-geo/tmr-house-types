@@ -1,0 +1,25 @@
+id: mount-royal
+name_en: Town of Mount Royal
+name_fr: Ville de Mont-Royal
+sections: [planned]
+region: Agglomération de Montréal
+founded: 1912
+settlement_mode: railway garden suburb
+governing_instruments:
+  - kind: PIIA
+    title: Règlement n° 1449 sur les plans d'implantation et d'intégration architecturale
+    year: 2018
+    url: https://www.ville.mont-royal.qc.ca/storage/app/media/ma-ville/vie-democratique/reglements-municipaux/1449_piia_fr.pdf
+  - kind: NHS
+    title: Model City of Mount Royal National Historic Site of Canada
+    year: 2008
+typology_document:
+  title: Règlement n° 1449, chapitre II, art. 18–31
+  year: 2018
+  format: per-type-table
+map_layer: null
+summary_en: >-
+  Only Québec locality built entirely to one garden-city plan, drawn by Frederick
+  Gage Todd in 1912 for the Canadian Northern Railway. Three build-out phases,
+  1915–1975, each with its own family of houses; thirteen types codified in the
+  town's design-review by-law.

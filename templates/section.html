@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">Section {{ sec.letter }}</div>
+  <h1>{{ sec.name|esc }}</h1>
+  <div class="prose">{{ sec.essay_html }}</div>
+</div></header>
+<main><div class="wrap">
+  {% if sec.places %}
+  <div class="cardsgrid">
+    {% for pl in sec.places %}
+    <div class="cardsimple">
+      <div class="meta">{{ pl.region|esc }} · {{ pl.founded }} · {{ pl.types|length }} types · {{ pl.phase_span }}</div>
+      <h3><a href="{{ R }}places/{{ pl.id }}/">{{ pl.name_en|esc }}</a><span class="fr">{{ pl.name_fr|esc }}</span></h3>
+      <p>{{ pl.summary_en|esc }}</p>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="lede">No places in this section yet.</p>
+  {% endif %}
+</div></main>
+{% endblock %}

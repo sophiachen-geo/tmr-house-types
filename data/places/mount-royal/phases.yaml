@@ -1,0 +1,32 @@
+# `summary_en` is a Part-1 addition to the schema (timeline blurb per phase);
+# recorded in docs/methods.
+- id: p1
+  label: Phase 1
+  start: 1915
+  end: 1935
+  title_en: Garden City and Montreal vernacular
+  colour_key: p1
+  summary_en: >-
+    The railway years. Building begins around the new station and Connaught Park;
+    the vocabulary is English garden-suburb cottage on one hand and Montreal's own
+    faubourg brick vernacular on the other.
+- id: p2
+  label: Phase 2
+  start: 1935
+  end: 1955
+  title_en: The period revivals
+  colour_key: p2
+  summary_en: >-
+    The revival decades. Larger lots (15–22 m), attached garages, and a menu of
+    historical styles: Quebec farmhouse, New England colonial, Georgian, Tudor
+    manor. Symmetry versus picturesque, brick versus stone.
+- id: p3
+  label: Phase 3
+  start: 1955
+  end: 1975
+  title_en: Postwar suburban modern
+  colour_key: p3
+  summary_en: >-
+    The postwar fill-in. Widest lots (20–25 m), the car in the façade, low roofs,
+    big undivided windows and horizontal proportions. Bungalow, cottage,
+    split-level, Prairie, and modernist apartment blocks.

@@ -1,0 +1,58 @@
+id: mount-royal.faubourg-collective
+place: mount-royal
+phase: p1
+name_en: Faubourg Apartment Block
+name_fr: Faubourg (collectif)
+source_ref: By-law 1449, art. 21
+canonical:
+- walkup-3st-flat-brick
+styles:
+- art-deco
+- stripped-classicism
+style_label: "Interwar walk-up, with Art Deco and stripped-classical trim"
+tenure_plan: walk-up
+storeys: '3'
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick-red
+- stone-natural
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: 95
+profile:
+  siting_landscape:
+  - "At least 95 % of the front yard kept as vegetation"
+  - "Parking in a basement garage at the rear or side, reached from a lane"
+  massing:
+  - "Simple volumes"
+  - "Position and visibility of the main entrances preserved"
+  articulation:
+  - "Base of the building differentiated from the upper floors by a specific treatment"
+  - "A single building body crowned by a brick motif and a parapet"
+  - "Aligned openings and symmetrical composition preserved"
+  - "Balconies, with attention to railing detail"
+  - "Entrances sheltered by a substantial portico"
+  openings:
+  - "Divided-light glazing"
+  - "Bay windows may be added if they respect the type"
+  - "Vertical window proportion maintained (height = twice the width)"
+  - "Character of the wooden entrance doors and their glazing proportion preserved"
+  - "Window frame colour coordinated with the facing brick"
+  materials:
+  - "Brownish-red clay brick in a traditional module (4 × 8 × 2.5 in.)"
+  - "Distinctive brick patterns and bonds on the facing walls"
+  - "Flat roof"
+  - "Stone, steel and wrought iron for balcony balustrades and columns"
+profile_note: null
+blurb_en: "The interwar Montreal walk-up, three storeys of red brick under a flat roof, with a decorated parapet, a stone base, patterned brickwork and a prominent entrance portico. Balconies with iron or stone railings give the façade its rhythm. These sit on the town's few multi-family lots and are the collective sibling of the faubourg house."
+origin_en: "Three-storey brick apartment houses of the 1920s and 30s, Montreal's standard multi-family building of the period. This is where <strong>Art Deco</strong> actually lives in TMR: stepped and decorated parapets, geometric brick panels, artificial-stone entrance surrounds, iron balcony rails with angular motifs. Héritage Montréal describes the same repertoire on 1920s Montreal plexes (dark brick, artificial-stone insertions around doors and windows, appliqués with geometric forms). The by-law absorbs it as \"distinctive brick motifs and bonds\" and \"a body crowned by a brick motif and a parapet\" rather than naming the style."
+photos:
+- file: assets/places/mount-royal/03-faubourg-collective.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 21
+  kind: strip

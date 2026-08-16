@@ -1,0 +1,62 @@
+id: mount-royal.georgian
+place: mount-royal
+phase: p2
+name_en: Georgian House
+name_fr: Maison géorgienne
+source_ref: By-law 1449, art. 25
+canonical:
+- symmetric-brick-3-5-bay-2st
+styles:
+- georgian-revival
+style_label: "Georgian Revival"
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: hipped
+  pitch_deg: 35
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick-red
+roofing: asphalt-shingle-dark
+garage: attached-set-back
+lot_width_m:
+- 15
+- 22
+setback_front_m: 14
+setback_side_m: 4.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Side driveway of medium width"
+  - "Narrow pedestrian path (curved or not) distinct from the driveway"
+  - "Typical lot width 15–22 m"
+  - "Front setback of about 14 m from the sidewalk; side setbacks of about 3.5–6 m"
+  massing:
+  - "Simple volumes of two full storeys"
+  - "Symmetrical façade composition"
+  - "Typical width of 13.5 m per semi-detached unit, 15 m for a detached house"
+  - "Attached garage, set back and smaller than the main volume"
+  - "Vestibule inside the main volume"
+  articulation:
+  - "Uniform treatment over the full height of the main body, crowned by a frieze"
+  - "Hierarchy reinforced by a distinctive treatment of secondary volumes"
+  - "Vertical distribution of the façade openings in three or five bays"
+  - "The central bay may be emphasised by a slight projection topped with a pediment (gable)"
+  - "Roofs of medium pitch (30–40°) with side gables or pyramidal, with narrow soffits"
+  openings:
+  - "Sash (guillotine) windows with small panes"
+  - "Vertical window proportion (height = twice the width)"
+  - "Central entrance door flanked by pilasters and topped by an elaborate crown acting as a canopy"
+  materials:
+  - "Brownish-red clay brick"
+  - "Brick in a small traditional module (4 × 8 × 2.5 in.)"
+  - "A light material (wood, aluminium, composite or acrylic) may be used in gables and the upper part of secondary volumes"
+  - "Dark asphalt shingle roofing"
+profile_note: null
+blurb_en: "Georgian Revival: the most formal of TMR's houses. A red-brick box of two full storeys, three or five bays wide, with a central door flanked by pilasters and topped by an elaborate crown, sash windows with small panes, and a frieze under a moderately pitched hip or side-gabled roof. Symmetry is the whole point; the by-law lets you emphasise the central bay with a slight projection and a pediment, and nothing more."
+origin_en: "The formal wing of Colonial Revival. Two full storeys of red brick, three or five bays, a central door with pilasters and an entablature or pediment, sash windows with small panes, a frieze under a moderately pitched hip or side-gable roof. Symmetry is the whole point; the by-law permits one flourish, a slightly projected central bay under a pediment, and nothing else. In Canada the style carried an Imperial-loyalist inflection that made it a natural fit for a town founded and first settled by anglophones."
+photos:
+- file: assets/places/mount-royal/07-georgian.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 25
+  kind: strip

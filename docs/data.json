@@ -1,0 +1,1149 @@
+{
+ "site": "Québec Residential Typologies",
+ "part": 1,
+ "types": [
+  {
+   "id": "mount-royal.garden-city",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p1",
+   "phase_label": "Phase 1",
+   "phase_years": "1915 – 1935",
+   "phase_title": "Garden City and Montreal vernacular",
+   "name_en": "Garden City House",
+   "name_fr": "Maison cité-jardin",
+   "source_ref": "By-law 1449, art. 19",
+   "canonical": [
+    "detached-cottage-steep-gable"
+   ],
+   "canonical_names": [
+    "Detached cottage, steep multi-gabled roof, brick base / light upper"
+   ],
+   "styles": [
+    "arts-and-crafts",
+    "english-domestic-revival",
+    "tudor-revival"
+   ],
+   "style_names": [
+    "Arts and Crafts",
+    "English Domestic Revival",
+    "Tudor Revival"
+   ],
+   "style_label": "Arts and Crafts / English Domestic Revival",
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "gabled-multi",
+    "pitch_deg": 45
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "clay-brick-red",
+    "stucco",
+    "half-timbering"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "detached-or-set-back",
+   "lot_width_m": [
+    10,
+    12
+   ],
+   "setback_front_m": 14,
+   "setback_side_m": 3.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Side driveway, minimum width about 2.5 m",
+     "Narrow pedestrian path (curved or not), separate from the driveway",
+     "Front setback of about 14 m from the sidewalk; side setbacks of about 3.5 m",
+     "Typical lot width 10–12 m"
+    ],
+    "massing": [
+     "Fragmented volumes",
+     "Typical width of 7.5 m per semi-detached unit, 15 m for a detached house",
+     "Habitable attic storey",
+     "Projecting elements (balconies, entrance vestibules, verandas, solariums) may be altered if they still read as distinct from the main volume through a light cladding (wood, aluminium, composite or acrylic) and keep their high degree of openness",
+     "Detached garage, or one set back from the front façade so it reads as a separate volume"
+    ],
+    "articulation": [
+     "Multi-slope roofs, steeply pitched (45°), with gables",
+     "Asymmetrical composition"
+    ],
+    "openings": [
+     "Small-paned glazing",
+     "Bay windows may be added if they respect the type",
+     "Vertical window proportion (height = twice the width)"
+    ],
+    "materials": [
+     "Brownish-red clay brick on the ground floor, in a small traditional module (4 in. deep × 8 in. long × 2.5 in. high)",
+     "Stucco and/or wood half-timbering on the upper floor and in the gables",
+     "Dark asphalt shingle roofing",
+     "Same roofing material (texture and colour) on the main roof and on porch and gallery roofs",
+     "Wood balustrades and columns for balconies and galleries"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "The founding house type of TMR. When Frederick Todd laid out the town in 1912 he was borrowing directly from Ebenezer Howard's Garden City movement, and the first houses near the station borrowed the movement's architecture too: the English Arts-and-Crafts cottage of Letchworth and Hampstead Garden Suburb. Look for steep 45° gables, a brick ground floor with stucco or half-timbering above, small-paned windows, and a deliberately picturesque, asymmetrical silhouette that reads as a cottage in a garden rather than a house on a street.",
+   "origin_en": "The Garden City movement's architecture as well as its planning. Ebenezer Howard's 1898 tract produced Letchworth (Parker & Unwin, 1903) and Hampstead Garden Suburb (1907), and their house vocabulary, itself drawn from Voysey, Baillie Scott and the English cottage, travelled with the idea: steep gables, roughcast or half-timbered upper storeys over brick, small-paned casements, picturesque asymmetry, the house read as a cottage in a garden. The by-law's Garden City House is this, with the 45° roof, stucco-and-timber upper floor and small brick module written out as criteria.",
+   "photo": {
+    "file": "assets/places/mount-royal/01-garden-city.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 19",
+    "kind": "strip",
+    "w": 796,
+    "h": 179,
+    "alt": "Three photographs of Garden City House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.garden-city/"
+  },
+  {
+   "id": "mount-royal.faubourg",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p1",
+   "phase_label": "Phase 1",
+   "phase_years": "1915 – 1935",
+   "phase_title": "Garden City and Montreal vernacular",
+   "name_en": "Faubourg House",
+   "name_fr": "Maison faubourienne",
+   "source_ref": "By-law 1449, art. 20",
+   "canonical": [
+    "brick-box-flat-or-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey brick box, flat/hipped/false-mansard roof, front gallery"
+   ],
+   "styles": [
+    "faubourg-vernacular",
+    "foursquare"
+   ],
+   "style_names": [
+    "Montréal faubourg vernacular",
+    "American Foursquare"
+   ],
+   "style_label": "Montreal faubourg vernacular (with Foursquare crossings)",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "clay-brick-red"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "detached-or-set-back",
+   "lot_width_m": null,
+   "setback_front_m": 10,
+   "setback_side_m": 6,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Side driveway, minimum width 2.5 m",
+     "Narrow pedestrian path (curved or not), distinct from the driveway",
+     "Front setback of about 10 m from the sidewalk; side setbacks of about 4–8 m"
+    ],
+    "massing": [
+     "Simple, rather cubic volumes of two full storeys",
+     "Main entrance visible, either on the side or the front",
+     "Detached garage, or one set back from the front façade so it reads as a separate volume",
+     "Typical width of 7.5 m per semi-detached unit, 14 m for a detached house",
+     "Projecting elements (balconies, vestibules, verandas, solariums) may be enclosed if they still read as distinct through a light cladding (wood, aluminium, composite or acrylic) and keep their openness"
+    ],
+    "articulation": [
+     "Flat, hipped, false-mansard or gabled roofs",
+     "Aligned openings and symmetrical composition"
+    ],
+    "openings": [
+     "Small-paned glazing",
+     "Bay windows may be added if they respect the type",
+     "Vertical window proportion (height = twice the width)"
+    ],
+    "materials": [
+     "Brownish-red clay brick in a small traditional module (4 × 8 × 2.5 in.)",
+     "Dark asphalt shingle roofing",
+     "Same roofing material on the main roof and on porch and gallery roofs",
+     "Wood balustrades and columns for balconies and galleries"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "“Faubourien” refers to the vernacular of Montreal's old inner suburbs (the faubourgs): a plain two-storey brick box, flat or hipped roof, sometimes a false mansard, and a front verandah on wooden columns. In TMR the type is what the Plateau or Rosemont row house becomes when it is given its own lot, a side driveway and a lawn. Its virtue is restraint: symmetry, aligned windows, one material.",
+   "origin_en": "<em>Faubourien</em> points to the <em>maison de faubourg</em>, the plain brick house of Québec's nineteenth-century inner suburbs: two or three storeys, flat or false-mansard roof, aligned openings, minimal ornament, a front gallery on wooden posts. Montreal's Plateau PIIA uses the same term for its own housing stock. In TMR the type is what that urban house becomes on a detached or semi-detached lot with a side driveway; several examples take on the cubic mass and hipped roof of the American Foursquare, which was being built across Canada in the same years.",
+   "photo": {
+    "file": "assets/places/mount-royal/02-faubourg.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 20",
+    "kind": "strip",
+    "w": 797,
+    "h": 237,
+    "alt": "Three photographs of Faubourg House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.faubourg/"
+  },
+  {
+   "id": "mount-royal.faubourg-collective",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p1",
+   "phase_label": "Phase 1",
+   "phase_years": "1915 – 1935",
+   "phase_title": "Garden City and Montreal vernacular",
+   "name_en": "Faubourg Apartment Block",
+   "name_fr": "Faubourg (collectif)",
+   "source_ref": "By-law 1449, art. 21",
+   "canonical": [
+    "walkup-3st-flat-brick"
+   ],
+   "canonical_names": [
+    "Three-storey brick walk-up, flat roof, decorated parapet"
+   ],
+   "styles": [
+    "art-deco",
+    "stripped-classicism"
+   ],
+   "style_names": [
+    "Art Deco",
+    "Stripped classicism"
+   ],
+   "style_label": "Interwar walk-up, with Art Deco and stripped-classical trim",
+   "tenure_plan": "walk-up",
+   "storeys": "3",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": 0
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "clay-brick-red",
+    "stone-natural"
+   ],
+   "roofing": null,
+   "garage": "underground",
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": 95,
+   "profile": {
+    "siting_landscape": [
+     "At least 95 % of the front yard kept as vegetation",
+     "Parking in a basement garage at the rear or side, reached from a lane"
+    ],
+    "massing": [
+     "Simple volumes",
+     "Position and visibility of the main entrances preserved"
+    ],
+    "articulation": [
+     "Base of the building differentiated from the upper floors by a specific treatment",
+     "A single building body crowned by a brick motif and a parapet",
+     "Aligned openings and symmetrical composition preserved",
+     "Balconies, with attention to railing detail",
+     "Entrances sheltered by a substantial portico"
+    ],
+    "openings": [
+     "Divided-light glazing",
+     "Bay windows may be added if they respect the type",
+     "Vertical window proportion maintained (height = twice the width)",
+     "Character of the wooden entrance doors and their glazing proportion preserved",
+     "Window frame colour coordinated with the facing brick"
+    ],
+    "materials": [
+     "Brownish-red clay brick in a traditional module (4 × 8 × 2.5 in.)",
+     "Distinctive brick patterns and bonds on the facing walls",
+     "Flat roof",
+     "Stone, steel and wrought iron for balcony balustrades and columns"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "The interwar Montreal walk-up, three storeys of red brick under a flat roof, with a decorated parapet, a stone base, patterned brickwork and a prominent entrance portico. Balconies with iron or stone railings give the façade its rhythm. These sit on the town's few multi-family lots and are the collective sibling of the faubourg house.",
+   "origin_en": "Three-storey brick apartment houses of the 1920s and 30s, Montreal's standard multi-family building of the period. This is where <strong>Art Deco</strong> actually lives in TMR: stepped and decorated parapets, geometric brick panels, artificial-stone entrance surrounds, iron balcony rails with angular motifs. Héritage Montréal describes the same repertoire on 1920s Montreal plexes (dark brick, artificial-stone insertions around doors and windows, appliqués with geometric forms). The by-law absorbs it as \"distinctive brick motifs and bonds\" and \"a body crowned by a brick motif and a parapet\" rather than naming the style.",
+   "photo": {
+    "file": "assets/places/mount-royal/03-faubourg-collective.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 21",
+    "kind": "strip",
+    "w": 760,
+    "h": 269,
+    "alt": "Three photographs of Faubourg Apartment Block houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.faubourg-collective/"
+  },
+  {
+   "id": "mount-royal.canadian",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p2",
+   "phase_label": "Phase 2",
+   "phase_years": "1935 – 1955",
+   "phase_title": "The period revivals",
+   "name_en": "Canadian House",
+   "name_fr": "Maison canadienne",
+   "source_ref": "By-law 1449, art. 22",
+   "canonical": [
+    "bellcast-roof-stone-house"
+   ],
+   "canonical_names": [
+    "Steep bell-cast roof house with flared eaves, dormers, stone walls"
+   ],
+   "styles": [
+    "quebec-revival"
+   ],
+   "style_names": [
+    "Québec Revival (maison canadienne)"
+   ],
+   "style_label": "Québec Revival (<em>maison canadienne</em>, néo-québécois)",
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "bellcast",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "stone-natural"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "attached-set-back",
+   "lot_width_m": [
+    15,
+    22
+   ],
+   "setback_front_m": 14,
+   "setback_side_m": 3,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Driveway of medium width",
+     "Narrow pedestrian path distinct from the driveway",
+     "Front setback of about 14 m from the sidewalk; side setbacks of about 3 m",
+     "Typical lot width 15–22 m"
+    ],
+    "massing": [
+     "Habitable attic storey",
+     "Main entrance sheltered by the roof's drip edge (larmier)",
+     "Attached garages",
+     "Garage volume and roof distinct from those of the main building",
+     "Typical width of 11 m per semi-detached unit, 15 m for a detached house"
+    ],
+    "articulation": [
+     "Base of the building expressed by the roof overhang",
+     "Two- or four-slope roofs with dormers or a mansard",
+     "Flared eaves (larmiers) typical of Canadian roofs",
+     "Aligned openings and symmetrical composition"
+    ],
+    "openings": [
+     "Small-paned glazing",
+     "Bay windows may be added if they respect the type",
+     "Vertical window proportion (height = twice the width)"
+    ],
+    "materials": [
+     "Natural stone facing",
+     "Dark asphalt shingle roofing",
+     "Same roofing material on the main roof and on dormer roofs"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "A 1930s–50s revival of the 18th-century Quebec farmhouse: a steep roof whose eaves flare out into “larmiers” that shelter the front door, a row of dormers, fieldstone walls, and a calm symmetrical front. It was the domestic face of a broader interwar interest in Québécois heritage. The distinctive move is the roof, which is asked to express the base of the house through its overhang.",
+   "origin_en": "A regionalist revival of the eighteenth-century Laurentian farmhouse: bell-cast roof whose eaves flare into <em>larmiers</em> sheltering the door, a row of dormers, fieldstone walls, a calm symmetrical front. The Canadian Encyclopedia locates its source in the anglophone rediscovery of pre-industrial Québec during the 1920s–30s, stimulated by Clarence Gagnon's paintings and encouraged by Percy Nobbs and Ramsay Traquair at McGill, whose surveys of old Québec buildings fed a fashion for fieldstone and pitched roofs among the province's leading domestic architects. TMR's Canadian houses are the suburban, builder-scale version of that fashion.",
+   "photo": {
+    "file": "assets/places/mount-royal/04-canadian.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 22",
+    "kind": "strip",
+    "w": 797,
+    "h": 193,
+    "alt": "Three photographs of Canadian House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.canadian/"
+  },
+  {
+   "id": "mount-royal.new-england",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p2",
+   "phase_label": "Phase 2",
+   "phase_years": "1935 – 1955",
+   "phase_title": "The period revivals",
+   "name_en": "New England House",
+   "name_fr": "Maison Nouvelle-Angleterre",
+   "source_ref": "By-law 1449, art. 23",
+   "canonical": [
+    "side-gabled-colonial-2st"
+   ],
+   "canonical_names": [
+    "Long side-gabled two-storey rectangle, dormers, symmetrical"
+   ],
+   "styles": [
+    "colonial-revival"
+   ],
+   "style_names": [
+    "Colonial Revival (New England / Cape Cod)"
+   ],
+   "style_label": "Colonial Revival — New England / Cape Cod branch",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": 38
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "stone-natural",
+    "clay-brick-red",
+    "clapboard",
+    "stucco"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "attached-set-back",
+   "lot_width_m": [
+    15,
+    22
+   ],
+   "setback_front_m": 10,
+   "setback_side_m": 4,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Side driveway of medium width",
+     "Narrow pedestrian path distinct from the driveway",
+     "Front setback of about 10 m from the sidewalk; side setbacks of about 3.5–5 m",
+     "Typical lot width 15–22 m"
+    ],
+    "massing": [
+     "Simple rectangular volumes with the long side facing the street",
+     "Attached garage, set back from the main volume",
+     "Front entrance with a discreet canopy",
+     "Aligned openings and symmetrical composition",
+     "Canopies may be converted into enclosed entrance vestibules if they read as distinct through a light cladding (wood, aluminium, composite or acrylic) and keep a high degree of openness"
+    ],
+    "articulation": [
+     "Double-slope roofs of medium pitch (30–45°)",
+     "Base expressed, where a base/body distinction already exists, up to the height of the ground-floor lintels",
+     "Dormers placed halfway between the upper floor and the roof",
+     "Bay windows are the only projecting elements"
+    ],
+    "openings": [
+     "Small-paned glazing",
+     "Vertical window proportion maintained (height = twice the width)"
+    ],
+    "materials": [
+     "Natural stone or red clay brick, either full height or on the ground floor only with stucco or clapboard above",
+     "Brick in a small traditional module (4 × 8 × 2.5 in.)",
+     "Dark asphalt shingle roofing",
+     "Same roofing material on the main roof and on dormer roofs"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "Colonial Revival as it arrived from the American Northeast: a long, simple gabled rectangle with its broad side to the street, symmetrical windows, dormers set halfway up the roof, and a discreet canopy over the front door. Brick or stone below, clapboard or stucco above. It is quieter than the Georgian house, and the by-law wants it kept quiet: bay windows are the only projections allowed.",
+   "origin_en": "A long side-gabled rectangle with its broad face to the street, symmetrical openings, dormers half-way up the roof, a discreet door canopy; brick or stone below and clapboard or stucco above. It is the New England colonial house as codified in 1920s–40s pattern books and builders' plan services, the quieter cousin of Georgian Revival. The by-law keeps it quiet: bay windows are the only projections it allows.",
+   "photo": {
+    "file": "assets/places/mount-royal/05-new-england.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 23",
+    "kind": "strip",
+    "w": 557,
+    "h": 177,
+    "alt": "Three photographs of New England House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.new-england/"
+  },
+  {
+   "id": "mount-royal.new-england-collective",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p2",
+   "phase_label": "Phase 2",
+   "phase_years": "1935 – 1955",
+   "phase_title": "The period revivals",
+   "name_en": "New England Apartment Block",
+   "name_fr": "Nouvelle-Angleterre (collectif)",
+   "source_ref": "By-law 1449, art. 24",
+   "canonical": [
+    "courtyard-apartment-u-l"
+   ],
+   "canonical_names": [
+    "Low-rise U/L-plan apartment court, gables, stone base"
+   ],
+   "styles": [
+    "collegiate-gothic"
+   ],
+   "style_names": [
+    "Collegiate Gothic / Tudor apartment court"
+   ],
+   "style_label": "Collegiate Gothic / Tudor apartment court",
+   "tenure_plan": "walk-up",
+   "storeys": "2–3",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": 45
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "clay-brick-red",
+    "stone-natural"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "underground",
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": 95,
+   "profile": {
+    "siting_landscape": [
+     "At least 95 % of the front yard kept as vegetation",
+     "Basement parking garage at the rear or side, reached from a lane"
+    ],
+    "massing": [
+     "Simple volumes with recesses and projections forming U- or L-shaped plans",
+     "Main entrance underlined by a distinct architectural element",
+     "Alignment of openings preserved"
+    ],
+    "articulation": [
+     "Double-slope roofs of steep pitch (45° and more), with gables and dormers",
+     "Dormers placed halfway between the upper floor and the roof",
+     "Base expressed up to the ground-floor window lintels or the upper-floor window sills",
+     "Vertical elements projecting from the main volume (turrets, gable walls, etc.)"
+    ],
+    "openings": [
+     "Divided-light glazing",
+     "Vertical window proportion maintained (height = twice the width)"
+    ],
+    "materials": [
+     "Red clay brick as the main facing",
+     "Natural stone at the base and as horizontal banding",
+     "Brick in a traditional module (4 × 8 × 2.5 in.)",
+     "Dark asphalt shingle roofing",
+     "Same roofing material on the main roof and on gable and dormer roofs",
+     "Soffit materials similar to the originals"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "Low-rise red-brick apartment courts arranged in U or L plans around a green forecourt, with steep gables, dormers and the occasional turret. A stone base and stone string courses tie them to the collegiate-Tudor mood of the interwar decades. Entrances are marked by a distinct architectural element rather than a big portico.",
+   "origin_en": "Low-rise red-brick apartment blocks in U or L plans around a green forecourt, with stone bases, stone string courses, steep gables, dormers and the occasional turret. The idiom is the residential cousin of interwar school and college architecture, and of the \"garden apartment\" courts built across North America in the 1930s–40s. The by-law's \"New England (collective)\" label is looser than the architecture: these blocks are more Tudor than New England.",
+   "photo": {
+    "file": "assets/places/mount-royal/06-new-england-collective.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 24",
+    "kind": "strip",
+    "w": 797,
+    "h": 254,
+    "alt": "Three photographs of New England Apartment Block houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.new-england-collective/"
+  },
+  {
+   "id": "mount-royal.georgian",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p2",
+   "phase_label": "Phase 2",
+   "phase_years": "1935 – 1955",
+   "phase_title": "The period revivals",
+   "name_en": "Georgian House",
+   "name_fr": "Maison géorgienne",
+   "source_ref": "By-law 1449, art. 25",
+   "canonical": [
+    "symmetric-brick-3-5-bay-2st"
+   ],
+   "canonical_names": [
+    "Symmetrical two-storey brick house, 3–5 bays, central door"
+   ],
+   "styles": [
+    "georgian-revival"
+   ],
+   "style_names": [
+    "Georgian Revival"
+   ],
+   "style_label": "Georgian Revival",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": 35
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "clay-brick-red"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "attached-set-back",
+   "lot_width_m": [
+    15,
+    22
+   ],
+   "setback_front_m": 14,
+   "setback_side_m": 4.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Side driveway of medium width",
+     "Narrow pedestrian path (curved or not) distinct from the driveway",
+     "Typical lot width 15–22 m",
+     "Front setback of about 14 m from the sidewalk; side setbacks of about 3.5–6 m"
+    ],
+    "massing": [
+     "Simple volumes of two full storeys",
+     "Symmetrical façade composition",
+     "Typical width of 13.5 m per semi-detached unit, 15 m for a detached house",
+     "Attached garage, set back and smaller than the main volume",
+     "Vestibule inside the main volume"
+    ],
+    "articulation": [
+     "Uniform treatment over the full height of the main body, crowned by a frieze",
+     "Hierarchy reinforced by a distinctive treatment of secondary volumes",
+     "Vertical distribution of the façade openings in three or five bays",
+     "The central bay may be emphasised by a slight projection topped with a pediment (gable)",
+     "Roofs of medium pitch (30–40°) with side gables or pyramidal, with narrow soffits"
+    ],
+    "openings": [
+     "Sash (guillotine) windows with small panes",
+     "Vertical window proportion (height = twice the width)",
+     "Central entrance door flanked by pilasters and topped by an elaborate crown acting as a canopy"
+    ],
+    "materials": [
+     "Brownish-red clay brick",
+     "Brick in a small traditional module (4 × 8 × 2.5 in.)",
+     "A light material (wood, aluminium, composite or acrylic) may be used in gables and the upper part of secondary volumes",
+     "Dark asphalt shingle roofing"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "Georgian Revival: the most formal of TMR's houses. A red-brick box of two full storeys, three or five bays wide, with a central door flanked by pilasters and topped by an elaborate crown, sash windows with small panes, and a frieze under a moderately pitched hip or side-gabled roof. Symmetry is the whole point; the by-law lets you emphasise the central bay with a slight projection and a pediment, and nothing more.",
+   "origin_en": "The formal wing of Colonial Revival. Two full storeys of red brick, three or five bays, a central door with pilasters and an entablature or pediment, sash windows with small panes, a frieze under a moderately pitched hip or side-gable roof. Symmetry is the whole point; the by-law permits one flourish, a slightly projected central bay under a pediment, and nothing else. In Canada the style carried an Imperial-loyalist inflection that made it a natural fit for a town founded and first settled by anglophones.",
+   "photo": {
+    "file": "assets/places/mount-royal/07-georgian.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 25",
+    "kind": "strip",
+    "w": 797,
+    "h": 198,
+    "alt": "Three photographs of Georgian House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.georgian/"
+  },
+  {
+   "id": "mount-royal.english-manor",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p2",
+   "phase_label": "Phase 2",
+   "phase_years": "1935 – 1955",
+   "phase_title": "The period revivals",
+   "name_en": "English Manor House",
+   "name_fr": "Maison manoir anglais",
+   "source_ref": "By-law 1449, art. 26",
+   "canonical": [
+    "tudor-manor-stone-timber"
+   ],
+   "canonical_names": [
+    "Steep multi-gabled house, stone base, brick or half-timber above, patterned brick"
+   ],
+   "styles": [
+    "tudor-revival"
+   ],
+   "style_names": [
+    "Tudor Revival"
+   ],
+   "style_label": "Tudor Revival",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "gabled-multi",
+    "pitch_deg": 45
+   },
+   "window_proportion": "vertical-2to1",
+   "principal_cladding": [
+    "stone-natural",
+    "clay-brick-red",
+    "stucco",
+    "half-timbering"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "attached-set-back",
+   "lot_width_m": [
+    15,
+    22
+   ],
+   "setback_front_m": 14,
+   "setback_side_m": 4.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Side driveway of medium width",
+     "Narrow pedestrian path (curved or not) distinct from the driveway",
+     "Typical lot width 15–22 m",
+     "Front setback of about 14 m from the sidewalk; side setbacks of about 3.5–6 m"
+    ],
+    "massing": [
+     "Projections or volumetric modulation allowing the roofs to articulate",
+     "Part of the attic storey habitable",
+     "Asymmetrical composition",
+     "Typical width of 13.5 m per semi-detached unit, 15 m for a detached house",
+     "Small attached garage set back from the main volume",
+     "Original recessed entrances preserved"
+    ],
+    "articulation": [
+     "Transition from base to body marked by a specific detail, where such a distinction exists",
+     "A particular level of cladding detail on the body (half-timbering, brick motifs, etc.)",
+     "Multi-slope roofs of steep pitch (45°) with gables and dormers"
+    ],
+    "openings": [
+     "Small-paned glazing",
+     "Vertical window proportion (height = twice the width)"
+    ],
+    "materials": [
+     "Natural stone on the ground floor with brownish-red clay brick, or stucco with wood half-timbering, on the upper floor",
+     "Brick in a small traditional module (4 × 8 × 2.5 in.) with worked bonds (herringbone, Dutch bond, etc.)",
+     "Dark asphalt shingle roofing",
+     "Same roofing material on the main roof and on porch and gallery roofs"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "Tudor Revival, TMR's most romantic type: steep 45° roofs broken into several gables, a natural-stone ground floor with brick or half-timbered stucco above, patterned brickwork (herringbone, Dutch bond), small-paned casements, sometimes a round turret at the entrance. Where the Georgian house is symmetrical, the manor is deliberately picturesque, and its garage is meant to hide.",
+   "origin_en": "The by-law's \"English manor\" is Tudor Revival by any other name: stone ground floor with brick or stucco-and-timber above, patterned brick (herringbone, Dutch bond), 45° multi-gabled roofs, small-paned casements, sometimes a round entrance turret. In North America the style peaked in the 1920s–30s and lingered into the 1940s; its Montreal fashion was strongest in the anglophone west end and suburbs. Tudor detailing also surfaces on some Phase 1 Garden City houses, which is why the two types share the half-timbered gable.",
+   "photo": {
+    "file": "assets/places/mount-royal/08-english-manor.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 26",
+    "kind": "strip",
+    "w": 797,
+    "h": 195,
+    "alt": "Three photographs of English Manor House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.english-manor/"
+  },
+  {
+   "id": "mount-royal.bungalow",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p3",
+   "phase_label": "Phase 3",
+   "phase_years": "1955 – 1975",
+   "phase_title": "Postwar suburban modern",
+   "name_en": "Bungalow",
+   "name_fr": "Maison bungalow",
+   "source_ref": "By-law 1449, art. 27",
+   "canonical": [
+    "one-storey-ranch-low-roof"
+   ],
+   "canonical_names": [
+    "One-storey horizontal house, ≤30° roof, integrated garage"
+   ],
+   "styles": [
+    "ranch"
+   ],
+   "style_names": [
+    "Ranch"
+   ],
+   "style_label": "Ranch / postwar bungalow",
+   "tenure_plan": "single-family",
+   "storeys": "1",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": 30
+   },
+   "window_proportion": "horizontal-2to1",
+   "principal_cladding": [
+    "stone-natural",
+    "clay-brick-buff"
+   ],
+   "roofing": "asphalt-shingle-black",
+   "garage": "integrated-facade",
+   "lot_width_m": [
+    20,
+    25
+   ],
+   "setback_front_m": 10,
+   "setback_side_m": 1.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Wide driveway",
+     "Pedestrian path joins the driveway",
+     "Front setback of about 10 m from the sidewalk; side setbacks of about 1.5 m",
+     "Typical lot width 20–25 m"
+    ],
+    "massing": [
+     "Simple, horizontal volumes",
+     "Attic additions and alterations respect the massing",
+     "Integrated garages, in the façade",
+     "Typical width of 15 m per semi-detached unit and 15 m for a detached house",
+     "Entrance sheltered by the roof overhang"
+    ],
+    "articulation": [
+     "Garage projecting in the façade",
+     "Recessed entrance protected by the roof overhang",
+     "Two- or four-slope roofs of low pitch (30°)"
+    ],
+    "openings": [
+     "Glazing without small panes",
+     "Bay windows may be added if they respect the type",
+     "Horizontal window proportion (width = twice the height)"
+    ],
+    "materials": [
+     "Natural stone or buff (chamois) clay brick",
+     "Black asphalt shingles, or a tone matched to the cladding colour",
+     "A light cladding (wood, aluminium, composite or acrylic) may be used for architectural elements"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "The postwar ranch bungalow: one storey, long and low, with a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, and big undivided windows wider than they are tall. Buff (“chamois”) brick or stone, black shingles, a wide driveway. The type that arrived with the car and the last empty lots of the 1950s and 60s.",
+   "origin_en": "One storey, long and low, a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, big undivided windows wider than tall, buff (\"chamois\") brick or stone, a wide driveway. In Québec usage <em>bungalow</em> simply means the postwar single-family suburban house; the form is the Ranch house that spread from the American Southwest after 1945 and became the default Canadian suburban dwelling of the 1950s–60s.",
+   "photo": {
+    "file": "assets/places/mount-royal/09-bungalow.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 27",
+    "kind": "strip",
+    "w": 797,
+    "h": 167,
+    "alt": "Three photographs of Bungalow houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.bungalow/"
+  },
+  {
+   "id": "mount-royal.cottage",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p3",
+   "phase_label": "Phase 3",
+   "phase_years": "1955 – 1975",
+   "phase_title": "Postwar suburban modern",
+   "name_en": "Cottage",
+   "name_fr": "Maison cottage",
+   "source_ref": "By-law 1449, art. 28",
+   "canonical": [
+    "postwar-2st-box-low-hip"
+   ],
+   "canonical_names": [
+    "Two-storey box, low hip roof, integrated garage, marquise"
+   ],
+   "styles": [
+    "minimal-traditional",
+    "streamline-moderne"
+   ],
+   "style_names": [
+    "Minimal Traditional",
+    "Streamline Moderne"
+   ],
+   "style_label": "Postwar two-storey (Québec <em>cottage</em>), with Minimal Traditional and Moderne notes",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": 30
+   },
+   "window_proportion": "horizontal-2to1",
+   "principal_cladding": [
+    "stone-natural",
+    "clay-brick-red",
+    "stucco",
+    "clapboard"
+   ],
+   "roofing": "asphalt-shingle-black",
+   "garage": "integrated-facade",
+   "lot_width_m": [
+    20,
+    25
+   ],
+   "setback_front_m": 12,
+   "setback_side_m": 2.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Wide driveway",
+     "Pedestrian path joins the driveway",
+     "Front setback of about 12 m from the sidewalk; side setbacks of about 2.5 m",
+     "Typical lot width 20–25 m"
+    ],
+    "massing": [
+     "Simple volumes of two full storeys",
+     "Typical width of 15 m per semi-detached unit, 16 m for a detached house",
+     "Garage integrated into the volume, in the façade",
+     "Entrance sheltered by a marquise"
+    ],
+    "articulation": [
+     "A base distinguished by a dividing line at the ground-floor window lintels or the upper-floor window sills",
+     "Four-slope roofs of low pitch (30°)"
+    ],
+    "openings": [
+     "Glazing without small panes",
+     "Bay windows may be added if they respect the type",
+     "Horizontal window proportion (width = twice the height)"
+    ],
+    "materials": [
+     "Natural stone or red clay brick on the ground floor",
+     "Stucco or clapboard on the upper floor",
+     "Black asphalt shingles, or a tone matched to the cladding colour"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "In Quebec usage a “cottage” is simply a two-storey detached house, and this is its postwar version: a plain box under a low hip roof, stone or brick on the ground floor with stucco or siding above, garage built into the front, and a flat marquise over the door. A visible line at the ground-floor lintels or the upper sills divides base from body.",
+   "origin_en": "In Québec real-estate usage a <em>cottage</em> is a two-storey detached house, as opposed to the one-storey bungalow; the OQLF notes the word's British origin and its earlier sense of an elegant, English-inspired country house. TMR's postwar cottage is a plain box: stone or brick base, stucco or siding above, low hip roof, integrated garage, flat <em>marquise</em> over the door, a horizontal line at the ground-floor lintels or upper sills dividing base from body. Some examples keep vestigial colonial detailing (Minimal Traditional); others, in cut stone with flat roofs and rounded or banded corners, are the town's clearest echo of <strong>Streamline Moderne</strong>.",
+   "photo": {
+    "file": "assets/places/mount-royal/10-cottage.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 28",
+    "kind": "strip",
+    "w": 797,
+    "h": 187,
+    "alt": "Three photographs of Cottage houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.cottage/"
+  },
+  {
+   "id": "mount-royal.split-level",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p3",
+   "phase_label": "Phase 3",
+   "phase_years": "1955 – 1975",
+   "phase_title": "Postwar suburban modern",
+   "name_en": "Split-Level",
+   "name_fr": "Maison demi-niveau",
+   "source_ref": "By-law 1449, art. 29",
+   "canonical": [
+    "split-level"
+   ],
+   "canonical_names": [
+    "Two volumes offset half a storey, garage under bedrooms"
+   ],
+   "styles": [
+    "split-level"
+   ],
+   "style_names": [
+    "Split-level"
+   ],
+   "style_label": "Split-level",
+   "tenure_plan": "single-family",
+   "storeys": "1–1.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": 30
+   },
+   "window_proportion": "horizontal-2to1",
+   "principal_cladding": [
+    "stone-natural",
+    "wood",
+    "metal"
+   ],
+   "roofing": "asphalt-shingle-black",
+   "garage": "integrated-facade",
+   "lot_width_m": [
+    20,
+    25
+   ],
+   "setback_front_m": 12,
+   "setback_side_m": 2.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Wide driveway",
+     "Pedestrian path joins the driveway",
+     "Front setback of about 12 m from the sidewalk; side setbacks of about 2.5 m",
+     "Typical lot width 20–25 m"
+    ],
+    "massing": [
+     "Recessed entrance protected by the roof overhang",
+     "Attic additions and alterations respect the massing",
+     "Garage integrated into the volume and projecting from the façade"
+    ],
+    "articulation": [
+     "Composition in two vertical sections, one of one storey and the other of one and a half storeys",
+     "A base expressed on the one-and-a-half-storey volume, continuous with the level of the one-storey part",
+     "Two- or four-slope roofs of low pitch (30°)",
+     "Typical width of 15 m per semi-detached unit and 15 m for a detached house"
+    ],
+    "openings": [
+     "Glazing without small panes",
+     "Bay windows may be added if they respect the type",
+     "Horizontal window proportion (width = twice the height)"
+    ],
+    "materials": [
+     "Salmon, buff, brown or sand natural stone; wood or metal cladding for infill elements",
+     "Black asphalt shingles, or a tone matched to the main cladding",
+     "Same roofing material on both sections",
+     "A light cladding (wood, aluminium, composite or acrylic) may be used for architectural elements"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "Two volumes offset by half a storey: a one-storey wing beside a one-and-a-half-storey wing, with the garage tucked under the bedrooms and pushed forward, and a recessed entrance under the eaves. Salmon, buff or brown stone with wood or metal infill panels; both roofs share one low-pitched material. The interior stair does the work the façade shows.",
+   "origin_en": "A plan type more than a style, dominant across North American suburbs from the mid-1950s: two volumes offset by half a storey, the garage under the bedrooms and pushed forward, a recessed entrance under the eaves. TMR's are dressed in Ranch and Contemporary materials, salmon, buff or brown stone with wood or metal infill panels, under one shared low-pitched roof.",
+   "photo": {
+    "file": "assets/places/mount-royal/11-split-level.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 29",
+    "kind": "strip",
+    "w": 797,
+    "h": 175,
+    "alt": "Three photographs of Split-Level houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.split-level/"
+  },
+  {
+   "id": "mount-royal.prairie",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p3",
+   "phase_label": "Phase 3",
+   "phase_years": "1955 – 1975",
+   "phase_title": "Postwar suburban modern",
+   "name_en": "Prairie House",
+   "name_fr": "Maison Prairie",
+   "source_ref": "By-law 1449, art. 30",
+   "canonical": [
+    "prairie-contemporary"
+   ],
+   "canonical_names": [
+    "Low pyramidal/hipped roof, deep soffits, ribbon windows, Roman brick"
+   ],
+   "styles": [
+    "prairie"
+   ],
+   "style_names": [
+    "Prairie / Wrightian Contemporary"
+   ],
+   "style_label": "Prairie / Wrightian Contemporary",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "pyramidal",
+    "pitch_deg": 30
+   },
+   "window_proportion": "horizontal",
+   "principal_cladding": [
+    "clay-brick-red",
+    "stone-natural"
+   ],
+   "roofing": "asphalt-shingle-dark",
+   "garage": "attached-set-back",
+   "lot_width_m": [
+    20,
+    25
+   ],
+   "setback_front_m": 12,
+   "setback_side_m": 2.5,
+   "front_yard_green_pct": 60,
+   "profile": {
+    "siting_landscape": [
+     "At least 60 % of the front yard kept as vegetation",
+     "Wide driveway",
+     "Pedestrian path joins the driveway",
+     "Front setback of about 12 m from the sidewalk; side setbacks of about 2.5 m",
+     "Typical lot width 20–25 m"
+    ],
+    "massing": [
+     "Asymmetrical composition",
+     "Simple volumes of two full storeys",
+     "One-storey porch or secondary volumes (garage, solarium, etc.) that reinforce the horizontality"
+    ],
+    "articulation": [
+     "A base ending below the upper-floor window sills",
+     "Horizontality reinforced by the details",
+     "Low-pitched (30°) pyramidal or multi-slope roofs with deep soffits",
+     "Typical width of 15 m for both semi-detached and detached units"
+    ],
+    "openings": [
+     "Windows subdivided horizontally, without small panes",
+     "Bay windows may be added if they respect the type",
+     "Upper-floor windows directly under the horizontal soffit line",
+     "Ribbon windows that may wrap the corners of volumes",
+     "Horizontal window proportion (width > height)"
+    ],
+    "materials": [
+     "Brownish-red clay brick or natural stone",
+     "Elongated “Roman” brick module, or long cut stone",
+     "A light material (wood, aluminium, composite or acrylic) may be used in gables and above the base",
+     "Dark asphalt shingles, or a tone matched to the main cladding"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "Frank Lloyd Wright's Prairie idiom, filtered through 1960s Montreal: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked right under the eaves and running around the corners as ribbons, long “Roman” brick or long-cut stone, and one-storey wings (garage, porch, solarium) that stretch the composition sideways. Asymmetrical, and the most architect-driven of the phase-3 types.",
+   "origin_en": "Frank Lloyd Wright's Prairie idiom of 1900–1915, revived and simplified in the 1950s–60s Contemporary house: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked under the eaves and wrapping the corners as ribbons, long \"Roman\" brick or long-cut stone, one-storey wings that stretch the composition sideways. Asymmetrical and the most architect-driven of the Phase 3 types; the by-law's insistence on the Roman brick module is the tell.",
+   "photo": {
+    "file": "assets/places/mount-royal/12-prairie.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 30",
+    "kind": "strip",
+    "w": 797,
+    "h": 167,
+    "alt": "Three photographs of Prairie House houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.prairie/"
+  },
+  {
+   "id": "mount-royal.modern-collective",
+   "place": "mount-royal",
+   "place_name": "Town of Mount Royal",
+   "phase": "p3",
+   "phase_label": "Phase 3",
+   "phase_years": "1955 – 1975",
+   "phase_title": "Postwar suburban modern",
+   "name_en": "Modern Apartment Block",
+   "name_fr": "Moderne (collectif)",
+   "source_ref": "By-law 1449, art. 31",
+   "canonical": [
+    "modern-slab-flat-brick"
+   ],
+   "canonical_names": [
+    "Flat-roof brick apartment slab, loggias, penthouse setback"
+   ],
+   "styles": [
+    "international-style"
+   ],
+   "style_names": [
+    "International Style / Modernist"
+   ],
+   "style_label": "International Style / Modernist apartment block",
+   "tenure_plan": "slab",
+   "storeys": null,
+   "roof": {
+    "form": "flat",
+    "pitch_deg": 0
+   },
+   "window_proportion": "horizontal-2.5to1",
+   "principal_cladding": [
+    "clay-brick-sand",
+    "clay-brick-red"
+   ],
+   "roofing": null,
+   "garage": "underground",
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": 95,
+   "profile": {
+    "siting_landscape": [
+     "At least 95 % of the front yard kept as vegetation",
+     "Basement parking garage at the rear or side, reached from a lane"
+    ],
+    "massing": [
+     "Simple, horizontal volumes",
+     "Entrance sheltered by a marquise",
+     "Main volume crowned by a set-back penthouse storey"
+    ],
+    "articulation": [
+     "Balconies grouped in loggias",
+     "Flat roof with a horizontal coping band"
+    ],
+    "openings": [
+     "Glazing without small panes",
+     "Bay windows may be added if they respect the type",
+     "Horizontal window proportion (width = 2.5 times the height)"
+    ],
+    "materials": [
+     "Clay brick in a sand or red tone",
+     "A variety of brick colours"
+    ]
+   },
+   "profile_note": null,
+   "blurb_en": "The 1950s–70s modernist apartment building: flat roof finished with a horizontal coping band, a set-back penthouse floor on top, balconies grouped into recessed loggias, wide undivided windows and a marquise over the door. Sand or red brick, often several brick colours on one façade. Parking goes underground; the front yard stays almost entirely green.",
+   "origin_en": "Flat-roofed brick slabs of the 1950s–70s with a horizontal coping band, a set-back penthouse floor, loggia balconies and wide undivided windows, in sand or red brick and often several brick colours on one façade. The town's share of the postwar Modernism that lines Côte-des-Neiges and Sherbrooke; the earliest examples, with brick-and-stone banding, still carry a Streamline accent.",
+   "photo": {
+    "file": "assets/places/mount-royal/13-modern-collective.jpg",
+    "credit": "© Ville de Mont-Royal, By-law 1449 art. 31",
+    "kind": "strip",
+    "w": 797,
+    "h": 185,
+    "alt": "Three photographs of Modern Apartment Block houses in Town of Mount Royal, from By-law 1449"
+   },
+   "url": "types/mount-royal.modern-collective/"
+  }
+ ]
+}

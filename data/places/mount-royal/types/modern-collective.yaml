@@ -1,0 +1,51 @@
+id: mount-royal.modern-collective
+place: mount-royal
+phase: p3
+name_en: Modern Apartment Block
+name_fr: Moderne (collectif)
+source_ref: By-law 1449, art. 31
+canonical:
+- modern-slab-flat-brick
+styles:
+- international-style
+style_label: "International Style / Modernist apartment block"
+tenure_plan: slab
+storeys: null
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: horizontal-2.5to1
+principal_cladding:
+- clay-brick-sand
+- clay-brick-red
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: 95
+profile:
+  siting_landscape:
+  - "At least 95 % of the front yard kept as vegetation"
+  - "Basement parking garage at the rear or side, reached from a lane"
+  massing:
+  - "Simple, horizontal volumes"
+  - "Entrance sheltered by a marquise"
+  - "Main volume crowned by a set-back penthouse storey"
+  articulation:
+  - "Balconies grouped in loggias"
+  - "Flat roof with a horizontal coping band"
+  openings:
+  - "Glazing without small panes"
+  - "Bay windows may be added if they respect the type"
+  - "Horizontal window proportion (width = 2.5 times the height)"
+  materials:
+  - "Clay brick in a sand or red tone"
+  - "A variety of brick colours"
+profile_note: null
+blurb_en: "The 1950s–70s modernist apartment building: flat roof finished with a horizontal coping band, a set-back penthouse floor on top, balconies grouped into recessed loggias, wide undivided windows and a marquise over the door. Sand or red brick, often several brick colours on one façade. Parking goes underground; the front yard stays almost entirely green."
+origin_en: "Flat-roofed brick slabs of the 1950s–70s with a horizontal coping band, a set-back penthouse floor, loggia balconies and wide undivided windows, in sand or red brick and often several brick colours on one façade. The town's share of the postwar Modernism that lines Côte-des-Neiges and Sherbrooke; the earliest examples, with brick-and-stone banding, still carry a Streamline accent."
+photos:
+- file: assets/places/mount-royal/13-modern-collective.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 31
+  kind: strip

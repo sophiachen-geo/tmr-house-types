@@ -1,0 +1,57 @@
+id: mount-royal.faubourg
+place: mount-royal
+phase: p1
+name_en: Faubourg House
+name_fr: Maison faubourienne
+source_ref: By-law 1449, art. 20
+canonical:
+- brick-box-flat-or-hipped-2st
+styles:
+- faubourg-vernacular
+- foursquare
+style_label: "Montreal faubourg vernacular (with Foursquare crossings)"
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick-red
+roofing: asphalt-shingle-dark
+garage: detached-or-set-back
+lot_width_m: null
+setback_front_m: 10
+setback_side_m: 6
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Side driveway, minimum width 2.5 m"
+  - "Narrow pedestrian path (curved or not), distinct from the driveway"
+  - "Front setback of about 10 m from the sidewalk; side setbacks of about 4–8 m"
+  massing:
+  - "Simple, rather cubic volumes of two full storeys"
+  - "Main entrance visible, either on the side or the front"
+  - "Detached garage, or one set back from the front façade so it reads as a separate volume"
+  - "Typical width of 7.5 m per semi-detached unit, 14 m for a detached house"
+  - "Projecting elements (balconies, vestibules, verandas, solariums) may be enclosed if they still read as distinct through a light cladding (wood, aluminium, composite or acrylic) and keep their openness"
+  articulation:
+  - "Flat, hipped, false-mansard or gabled roofs"
+  - "Aligned openings and symmetrical composition"
+  openings:
+  - "Small-paned glazing"
+  - "Bay windows may be added if they respect the type"
+  - "Vertical window proportion (height = twice the width)"
+  materials:
+  - "Brownish-red clay brick in a small traditional module (4 × 8 × 2.5 in.)"
+  - "Dark asphalt shingle roofing"
+  - "Same roofing material on the main roof and on porch and gallery roofs"
+  - "Wood balustrades and columns for balconies and galleries"
+profile_note: null
+blurb_en: "“Faubourien” refers to the vernacular of Montreal's old inner suburbs (the faubourgs): a plain two-storey brick box, flat or hipped roof, sometimes a false mansard, and a front verandah on wooden columns. In TMR the type is what the Plateau or Rosemont row house becomes when it is given its own lot, a side driveway and a lawn. Its virtue is restraint: symmetry, aligned windows, one material."
+origin_en: "<em>Faubourien</em> points to the <em>maison de faubourg</em>, the plain brick house of Québec's nineteenth-century inner suburbs: two or three storeys, flat or false-mansard roof, aligned openings, minimal ornament, a front gallery on wooden posts. Montreal's Plateau PIIA uses the same term for its own housing stock. In TMR the type is what that urban house becomes on a detached or semi-detached lot with a side driveway; several examples take on the cubic mass and hipped roof of the American Foursquare, which was being built across Canada in the same years."
+photos:
+- file: assets/places/mount-royal/02-faubourg.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 20
+  kind: strip

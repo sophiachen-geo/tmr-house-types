@@ -1,0 +1,25 @@
+# Art-history styles, v0 (Part 1 seed). `members` derived at build time.
+- {id: arts-and-crafts, name_en: Arts and Crafts, span: [1890, 1930]}
+- {id: english-domestic-revival, name_en: English Domestic Revival, span: [1900, 1935]}
+- {id: faubourg-vernacular, name_en: Montréal faubourg vernacular, span: [1850, 1930]}
+- {id: foursquare, name_en: American Foursquare, span: [1900, 1930]}
+- {id: art-deco, name_en: Art Deco, span: [1925, 1940]}
+- {id: streamline-moderne, name_en: Streamline Moderne, span: [1933, 1950]}
+- {id: stripped-classicism, name_en: Stripped classicism, span: [1920, 1945]}
+- {id: tudor-revival, name_en: Tudor Revival, span: [1910, 1945]}
+- {id: colonial-revival, name_en: Colonial Revival (New England / Cape Cod), span: [1920, 1955]}
+- {id: georgian-revival, name_en: Georgian Revival, span: [1920, 1955]}
+- {id: quebec-revival, name_en: Québec Revival (maison canadienne), span: [1930, 1960]}
+- {id: collegiate-gothic, name_en: Collegiate Gothic / Tudor apartment court, span: [1925, 1945]}
+- {id: ranch, name_en: Ranch, span: [1945, 1970]}
+- {id: minimal-traditional, name_en: Minimal Traditional, span: [1940, 1955]}
+- {id: split-level, name_en: Split-level, span: [1950, 1970]}
+- {id: prairie, name_en: Prairie / Wrightian Contemporary, span: [1955, 1975]}
+- {id: international-style, name_en: International Style / Modernist, span: [1950, 1975]}
+# reserved for later parts (leave in file, no members yet):
+- {id: french-regime, name_en: French-regime rural house, span: [1650, 1780]}
+- {id: neoclassical-quebec, name_en: Québec neoclassical, span: [1780, 1880]}
+- {id: second-empire, name_en: Second Empire / mansard, span: [1860, 1900]}
+- {id: queen-anne, name_en: Queen Anne, span: [1880, 1910]}
+- {id: boomtown, name_en: Boomtown (false front), span: [1880, 1930]}
+- {id: shoebox, name_en: Shoebox, span: [1910, 1935]}

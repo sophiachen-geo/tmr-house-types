@@ -1,0 +1,60 @@
+id: mount-royal.canadian
+place: mount-royal
+phase: p2
+name_en: Canadian House
+name_fr: Maison canadienne
+source_ref: By-law 1449, art. 22
+canonical:
+- bellcast-roof-stone-house
+styles:
+- quebec-revival
+style_label: "Québec Revival (<em>maison canadienne</em>, néo-québécois)"
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: bellcast
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- stone-natural
+roofing: asphalt-shingle-dark
+garage: attached-set-back
+lot_width_m:
+- 15
+- 22
+setback_front_m: 14
+setback_side_m: 3
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Driveway of medium width"
+  - "Narrow pedestrian path distinct from the driveway"
+  - "Front setback of about 14 m from the sidewalk; side setbacks of about 3 m"
+  - "Typical lot width 15–22 m"
+  massing:
+  - "Habitable attic storey"
+  - "Main entrance sheltered by the roof's drip edge (larmier)"
+  - "Attached garages"
+  - "Garage volume and roof distinct from those of the main building"
+  - "Typical width of 11 m per semi-detached unit, 15 m for a detached house"
+  articulation:
+  - "Base of the building expressed by the roof overhang"
+  - "Two- or four-slope roofs with dormers or a mansard"
+  - "Flared eaves (larmiers) typical of Canadian roofs"
+  - "Aligned openings and symmetrical composition"
+  openings:
+  - "Small-paned glazing"
+  - "Bay windows may be added if they respect the type"
+  - "Vertical window proportion (height = twice the width)"
+  materials:
+  - "Natural stone facing"
+  - "Dark asphalt shingle roofing"
+  - "Same roofing material on the main roof and on dormer roofs"
+profile_note: null
+blurb_en: "A 1930s–50s revival of the 18th-century Quebec farmhouse: a steep roof whose eaves flare out into “larmiers” that shelter the front door, a row of dormers, fieldstone walls, and a calm symmetrical front. It was the domestic face of a broader interwar interest in Québécois heritage. The distinctive move is the roof, which is asked to express the base of the house through its overhang."
+origin_en: "A regionalist revival of the eighteenth-century Laurentian farmhouse: bell-cast roof whose eaves flare into <em>larmiers</em> sheltering the door, a row of dormers, fieldstone walls, a calm symmetrical front. The Canadian Encyclopedia locates its source in the anglophone rediscovery of pre-industrial Québec during the 1920s–30s, stimulated by Clarence Gagnon's paintings and encouraged by Percy Nobbs and Ramsay Traquair at McGill, whose surveys of old Québec buildings fed a fashion for fieldstone and pitched roofs among the province's leading domestic architects. TMR's Canadian houses are the suburban, builder-scale version of that fashion."
+photos:
+- file: assets/places/mount-royal/04-canadian.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 22
+  kind: strip

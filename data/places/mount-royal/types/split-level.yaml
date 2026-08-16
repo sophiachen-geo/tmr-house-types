@@ -1,0 +1,61 @@
+id: mount-royal.split-level
+place: mount-royal
+phase: p3
+name_en: Split-Level
+name_fr: Maison demi-niveau
+source_ref: By-law 1449, art. 29
+canonical:
+- split-level
+styles:
+- split-level
+style_label: "Split-level"
+tenure_plan: single-family
+storeys: 1–1.5
+roof:
+  form: gabled
+  pitch_deg: 30
+window_proportion: horizontal-2to1
+principal_cladding:
+- stone-natural
+- wood
+- metal
+roofing: asphalt-shingle-black
+garage: integrated-facade
+lot_width_m:
+- 20
+- 25
+setback_front_m: 12
+setback_side_m: 2.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Wide driveway"
+  - "Pedestrian path joins the driveway"
+  - "Front setback of about 12 m from the sidewalk; side setbacks of about 2.5 m"
+  - "Typical lot width 20–25 m"
+  massing:
+  - "Recessed entrance protected by the roof overhang"
+  - "Attic additions and alterations respect the massing"
+  - "Garage integrated into the volume and projecting from the façade"
+  articulation:
+  - "Composition in two vertical sections, one of one storey and the other of one and a half storeys"
+  - "A base expressed on the one-and-a-half-storey volume, continuous with the level of the one-storey part"
+  - "Two- or four-slope roofs of low pitch (30°)"
+  - "Typical width of 15 m per semi-detached unit and 15 m for a detached house"
+  openings:
+  - "Glazing without small panes"
+  - "Bay windows may be added if they respect the type"
+  - "Horizontal window proportion (width = twice the height)"
+  materials:
+  - "Salmon, buff, brown or sand natural stone; wood or metal cladding for infill elements"
+  - "Black asphalt shingles, or a tone matched to the main cladding"
+  - "Same roofing material on both sections"
+  - "A light cladding (wood, aluminium, composite or acrylic) may be used for architectural elements"
+profile_note: null
+blurb_en: "Two volumes offset by half a storey: a one-storey wing beside a one-and-a-half-storey wing, with the garage tucked under the bedrooms and pushed forward, and a recessed entrance under the eaves. Salmon, buff or brown stone with wood or metal infill panels; both roofs share one low-pitched material. The interior stair does the work the façade shows."
+origin_en: "A plan type more than a style, dominant across North American suburbs from the mid-1950s: two volumes offset by half a storey, the garage under the bedrooms and pushed forward, a recessed entrance under the eaves. TMR's are dressed in Ranch and Contemporary materials, salmon, buff or brown stone with wood or metal infill panels, under one shared low-pitched roof."
+photos:
+- file: assets/places/mount-royal/11-split-level.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 29
+  kind: strip

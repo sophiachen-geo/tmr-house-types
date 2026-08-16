@@ -1,0 +1,56 @@
+id: mount-royal.new-england-collective
+place: mount-royal
+phase: p2
+name_en: New England Apartment Block
+name_fr: Nouvelle-Angleterre (collectif)
+source_ref: By-law 1449, art. 24
+canonical:
+- courtyard-apartment-u-l
+styles:
+- collegiate-gothic
+style_label: "Collegiate Gothic / Tudor apartment court"
+tenure_plan: walk-up
+storeys: 2–3
+roof:
+  form: gabled
+  pitch_deg: 45
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick-red
+- stone-natural
+roofing: asphalt-shingle-dark
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: 95
+profile:
+  siting_landscape:
+  - "At least 95 % of the front yard kept as vegetation"
+  - "Basement parking garage at the rear or side, reached from a lane"
+  massing:
+  - "Simple volumes with recesses and projections forming U- or L-shaped plans"
+  - "Main entrance underlined by a distinct architectural element"
+  - "Alignment of openings preserved"
+  articulation:
+  - "Double-slope roofs of steep pitch (45° and more), with gables and dormers"
+  - "Dormers placed halfway between the upper floor and the roof"
+  - "Base expressed up to the ground-floor window lintels or the upper-floor window sills"
+  - "Vertical elements projecting from the main volume (turrets, gable walls, etc.)"
+  openings:
+  - "Divided-light glazing"
+  - "Vertical window proportion maintained (height = twice the width)"
+  materials:
+  - "Red clay brick as the main facing"
+  - "Natural stone at the base and as horizontal banding"
+  - "Brick in a traditional module (4 × 8 × 2.5 in.)"
+  - "Dark asphalt shingle roofing"
+  - "Same roofing material on the main roof and on gable and dormer roofs"
+  - "Soffit materials similar to the originals"
+profile_note: null
+blurb_en: "Low-rise red-brick apartment courts arranged in U or L plans around a green forecourt, with steep gables, dormers and the occasional turret. A stone base and stone string courses tie them to the collegiate-Tudor mood of the interwar decades. Entrances are marked by a distinct architectural element rather than a big portico."
+origin_en: "Low-rise red-brick apartment blocks in U or L plans around a green forecourt, with stone bases, stone string courses, steep gables, dormers and the occasional turret. The idiom is the residential cousin of interwar school and college architecture, and of the \"garden apartment\" courts built across North America in the 1930s–40s. The by-law's \"New England (collective)\" label is looser than the architecture: these blocks are more Tudor than New England."
+photos:
+- file: assets/places/mount-royal/06-new-england-collective.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 24
+  kind: strip

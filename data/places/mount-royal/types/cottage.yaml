@@ -1,0 +1,61 @@
+id: mount-royal.cottage
+place: mount-royal
+phase: p3
+name_en: Cottage
+name_fr: Maison cottage
+source_ref: By-law 1449, art. 28
+canonical:
+- postwar-2st-box-low-hip
+styles:
+- minimal-traditional
+- streamline-moderne
+style_label: "Postwar two-storey (Québec <em>cottage</em>), with Minimal Traditional and Moderne notes"
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: hipped
+  pitch_deg: 30
+window_proportion: horizontal-2to1
+principal_cladding:
+- stone-natural
+- clay-brick-red
+- stucco
+- clapboard
+roofing: asphalt-shingle-black
+garage: integrated-facade
+lot_width_m:
+- 20
+- 25
+setback_front_m: 12
+setback_side_m: 2.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Wide driveway"
+  - "Pedestrian path joins the driveway"
+  - "Front setback of about 12 m from the sidewalk; side setbacks of about 2.5 m"
+  - "Typical lot width 20–25 m"
+  massing:
+  - "Simple volumes of two full storeys"
+  - "Typical width of 15 m per semi-detached unit, 16 m for a detached house"
+  - "Garage integrated into the volume, in the façade"
+  - "Entrance sheltered by a marquise"
+  articulation:
+  - "A base distinguished by a dividing line at the ground-floor window lintels or the upper-floor window sills"
+  - "Four-slope roofs of low pitch (30°)"
+  openings:
+  - "Glazing without small panes"
+  - "Bay windows may be added if they respect the type"
+  - "Horizontal window proportion (width = twice the height)"
+  materials:
+  - "Natural stone or red clay brick on the ground floor"
+  - "Stucco or clapboard on the upper floor"
+  - "Black asphalt shingles, or a tone matched to the cladding colour"
+profile_note: null
+blurb_en: "In Quebec usage a “cottage” is simply a two-storey detached house, and this is its postwar version: a plain box under a low hip roof, stone or brick on the ground floor with stucco or siding above, garage built into the front, and a flat marquise over the door. A visible line at the ground-floor lintels or the upper sills divides base from body."
+origin_en: "In Québec real-estate usage a <em>cottage</em> is a two-storey detached house, as opposed to the one-storey bungalow; the OQLF notes the word's British origin and its earlier sense of an elegant, English-inspired country house. TMR's postwar cottage is a plain box: stone or brick base, stucco or siding above, low hip roof, integrated garage, flat <em>marquise</em> over the door, a horizontal line at the ground-floor lintels or upper sills dividing base from body. Some examples keep vestigial colonial detailing (Minimal Traditional); others, in cut stone with flat roofs and rounded or banded corners, are the town's clearest echo of <strong>Streamline Moderne</strong>."
+photos:
+- file: assets/places/mount-royal/10-cottage.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 28
+  kind: strip

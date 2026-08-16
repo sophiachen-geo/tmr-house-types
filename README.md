@@ -1,26 +1,43 @@
-# Residential Architectural Styles of Town of Mount Royal
+# Québec Residential Typologies
 
-A single-page, mobile-friendly catalogue of the thirteen residential architectural
-types defined by Town of Mount Royal's design-review by-law (PIIA By-law No. 1449,
-2018), in English, illustrated with the by-law's own photographs.
+A structured catalogue of residential building types across Québec, place by
+place, built from each locality's own typology documents (design-review
+by-laws, inventories, characterisation studies). Part 1 contains the repo
+scaffold, the data schema, and the first place: **Town of Mount Royal**
+(13 types from PIIA By-law 1449).
 
-**Live site:** https://sophiachen-geo.github.io/tmr-house-types/
+**Live site (current):** https://sophiachen-geo.github.io/tmr-house-types/ —
+still the single-page TMR catalogue served from `pages/` via the `gh-pages`
+branch. The multi-place site below is built to `docs/` and will take over the
+URL when it is ready to deploy (Part 11, or on request).
 
-## Structure
+## Layout
 
-- `pages/` — the website itself (plain HTML and CSS, no build step)
-  - `index.html` — the whole page
-  - `img/` — photographs reproduced from By-law 1449
-- `.github/workflows/deploy-pages.yml` — publishes `pages/` to GitHub Pages
+- `build.py` — loads and validates `data/`, renders the site into `docs/`
+- `data/canon/` — canonical vocabulary: forms, styles, glossary, section essays
+- `data/places/mount-royal/` — place record, phases, sources, prose, 13 type YAMLs
+- `assets/places/mount-royal/` — photo strips from By-law 1449
+- `templates/` — Jinja2 templates + `base.css` + `app.js`
+- `docs/` — generated site (home + timeline, sections, place page, type pages,
+  canonical forms, styles, matrix, compare, glossary, methods, `data.json`, `data.csv`)
+- `pages/` — the original single-page TMR site (currently what GitHub Pages serves)
+
+## Build
+
+```
+pip install -r requirements.txt   # pyyaml, jinja2, markdown
+python build.py                   # validates data/, writes docs/
+```
+
+The generated Mount Royal place page (`docs/places/mount-royal/`) is
+content-identical to `pages/index.html`; see `docs/methods/` (or the Methods
+page on the built site) for what is verbatim vs interpretive and for the
+schema-additions log. Later parts add more places as data packs under
+`data/places/<id>/` — drop in the YAML, add photos, run `python build.py`, commit.
 
 ## Publishing
 
-GitHub Pages serves the `gh-pages` branch, which holds a snapshot of `pages/`.
-The "Publish website to GitHub Pages" workflow refreshes that snapshot
-automatically whenever `pages/` changes on `main` or
-`claude/website-responsive-github-pages-qnvdpq`; it can also be run manually
-from the **Actions** tab. There is no build step — edit `pages/index.html`,
-push, and the site republishes itself. Don't edit the `gh-pages` branch by
+GitHub Pages serves the `gh-pages` branch, refreshed automatically by the
+"Publish website to GitHub Pages" workflow whenever `pages/` changes on `main`
+or `claude/website-responsive-github-pages-qnvdpq`. Don't edit `gh-pages` by
 hand; it is overwritten on every publish.
-
-The layout is responsive and adapts to phones, tablets and desktops.

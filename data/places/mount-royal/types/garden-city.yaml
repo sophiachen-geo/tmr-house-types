@@ -1,0 +1,64 @@
+id: mount-royal.garden-city
+place: mount-royal
+phase: p1
+name_en: Garden City House
+name_fr: Maison cité-jardin
+source_ref: By-law 1449, art. 19
+canonical:
+- detached-cottage-steep-gable
+styles:
+- arts-and-crafts
+- english-domestic-revival
+- tudor-revival
+style_label: "Arts and Crafts / English Domestic Revival"
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: gabled-multi
+  pitch_deg: 45
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick-red
+- stucco
+- half-timbering
+roofing: asphalt-shingle-dark
+garage: detached-or-set-back
+lot_width_m:
+- 10
+- 12
+setback_front_m: 14
+setback_side_m: 3.5
+front_yard_green_pct: 60
+profile:
+  siting_landscape:
+  - "At least 60 % of the front yard kept as vegetation"
+  - "Side driveway, minimum width about 2.5 m"
+  - "Narrow pedestrian path (curved or not), separate from the driveway"
+  - "Front setback of about 14 m from the sidewalk; side setbacks of about 3.5 m"
+  - "Typical lot width 10–12 m"
+  massing:
+  - "Fragmented volumes"
+  - "Typical width of 7.5 m per semi-detached unit, 15 m for a detached house"
+  - "Habitable attic storey"
+  - "Projecting elements (balconies, entrance vestibules, verandas, solariums) may be altered if they still read as distinct from the main volume through a light cladding (wood, aluminium, composite or acrylic) and keep their high degree of openness"
+  - "Detached garage, or one set back from the front façade so it reads as a separate volume"
+  articulation:
+  - "Multi-slope roofs, steeply pitched (45°), with gables"
+  - "Asymmetrical composition"
+  openings:
+  - "Small-paned glazing"
+  - "Bay windows may be added if they respect the type"
+  - "Vertical window proportion (height = twice the width)"
+  materials:
+  - "Brownish-red clay brick on the ground floor, in a small traditional module (4 in. deep × 8 in. long × 2.5 in. high)"
+  - "Stucco and/or wood half-timbering on the upper floor and in the gables"
+  - "Dark asphalt shingle roofing"
+  - "Same roofing material (texture and colour) on the main roof and on porch and gallery roofs"
+  - "Wood balustrades and columns for balconies and galleries"
+profile_note: null
+blurb_en: "The founding house type of TMR. When Frederick Todd laid out the town in 1912 he was borrowing directly from Ebenezer Howard's Garden City movement, and the first houses near the station borrowed the movement's architecture too: the English Arts-and-Crafts cottage of Letchworth and Hampstead Garden Suburb. Look for steep 45° gables, a brick ground floor with stucco or half-timbering above, small-paned windows, and a deliberately picturesque, asymmetrical silhouette that reads as a cottage in a garden rather than a house on a street."
+origin_en: "The Garden City movement's architecture as well as its planning. Ebenezer Howard's 1898 tract produced Letchworth (Parker & Unwin, 1903) and Hampstead Garden Suburb (1907), and their house vocabulary, itself drawn from Voysey, Baillie Scott and the English cottage, travelled with the idea: steep gables, roughcast or half-timbered upper storeys over brick, small-paned casements, picturesque asymmetry, the house read as a cottage in a garden. The by-law's Garden City House is this, with the 45° roof, stucco-and-timber upper floor and small brick module written out as criteria."
+photos:
+- file: assets/places/mount-royal/01-garden-city.jpg
+  credit: © Ville de Mont-Royal, By-law 1449 art. 19
+  kind: strip
