@@ -1,9 +1,15 @@
 name: Publish website to GitHub Pages
 
 # GitHub Pages for this repository serves the gh-pages branch. This workflow
-# keeps that branch in sync with the pages/ folder: every time the site
-# changes on the main development branches, the new version is force-pushed
+# keeps that branch in sync with the generated site in docs/: every time the
+# site changes on the main development branches, the new version is force-pushed
 # to gh-pages as a fresh snapshot and Pages redeploys it automatically.
+#
+# docs/ is what `python build.py` writes. Until Part 6a this workflow published
+# pages/ instead — the hand-written single-page Town of Mount Royal site the
+# project started from — so the live site stayed at that first version while the
+# repository grew to nine places. pages/ is kept as the historical original;
+# nothing generates into it any more.
 
 on:
   push:
@@ -11,7 +17,7 @@ on:
       - main
       - claude/website-responsive-github-pages-qnvdpq
     paths:
-      - "pages/**"
+      - "docs/**"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
@@ -29,11 +35,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Push pages/ to the gh-pages branch
+      - name: Push docs/ to the gh-pages branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cd pages
+          cd docs
           git init -b gh-pages
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
