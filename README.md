@@ -20,6 +20,8 @@ URL when it is ready to deploy (Part 11, or on request).
 - `templates/` — Jinja2 templates + `base.css` + `app.js`
 - `docs/` — generated site (home + timeline, sections, place page, type pages,
   canonical forms, styles, matrix, compare, glossary, methods, `data.json`, `data.csv`)
+- `sources/<place>/` — acquired source documents (PDFs, `pdftotext` extractions,
+  `MANIFEST.md` with provenance and SHA-256 per file)
 - `pages/` — the original single-page TMR site (currently what GitHub Pages serves)
 
 ## Build

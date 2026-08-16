@@ -7,3 +7,23 @@ OK   PIIA_TYPOLOGIE_MAISONFAUBOURG_0.PDF (20220619221627, try 1, 96732 bytes)
 OK   PIIA_TYPOLOGIE_IMMEUBLECOMMERCIAL_3.PDF (20220619221649, try 1, 78283 bytes)
 OK   PIIA_TYPOLOGIE_MAISONURBAINE_0.PDF (20220621015250, try 1, 272447 bytes)
 OK   PIIA_FASCICULE_4.PDF (20250516020114, try 1, 92138 bytes)
+OK   PIIA_FASCICULE_5.PDF (20250516021415, try 1, 79099 bytes)
+== done ==
+total 15484
+drwxr-xr-x 2 root root    4096 Aug 16 17:40 .
+drwxr-xr-x 3 root root    4096 Aug 16 17:34 ..
+-rw-r--r-- 1 root root 9125008 Aug 16 17:34 11_evaluation_patrimoine_plateau.pdf
+-rw-r--r-- 1 root root   92138 Aug 16 17:40 PIIA_FASCICULE_4.PDF
+-rw-r--r-- 1 root root   79099 Aug 16 17:40 PIIA_FASCICULE_5.PDF
+-rw-r--r-- 1 root root  289609 Aug 16 17:40 PIIA_TYPOLOGIE_DUPLEX_0.PDF
+-rw-r--r-- 1 root root  110473 Aug 16 17:39 PIIA_TYPOLOGIE_IMMEUBLEAPPARTEMENTS_0.PDF
+-rw-r--r-- 1 root root   78283 Aug 16 17:40 PIIA_TYPOLOGIE_IMMEUBLECOMMERCIAL_3.PDF
+-rw-r--r-- 1 root root   99351 Aug 16 17:39 PIIA_TYPOLOGIE_IMMEUBLEMIXTE_0.PDF
+-rw-r--r-- 1 root root   34194 Aug 16 17:39 PIIA_TYPOLOGIE_INTRO.PDF
+-rw-r--r-- 1 root root   96732 Aug 16 17:40 PIIA_TYPOLOGIE_MAISONFAUBOURG_0.PDF
+-rw-r--r-- 1 root root  272447 Aug 16 17:40 PIIA_TYPOLOGIE_MAISONURBAINE_0.PDF
+-rw-r--r-- 1 root root  110497 Aug 16 17:40 PIIA_TYPOLOGIE_TRIPLEX_0.PDF
+-rw-r--r-- 1 root root    1301 Aug 16 17:39 cdx.txt
+-rw-r--r-- 1 root root     747 Aug 16 17:40 fetch-wayback.log
+-rw-r--r-- 1 root root   13333 Aug 16 17:36 fetch.log
+-rw-r--r-- 1 root root 5412699 Aug 16 17:34 pmr_piia_etude_typomorphologique.pdf

@@ -1,0 +1,912 @@
+ARRONDISSEMENT DU PLATEAU-MONT-ROYAL
+DIRECTION DE L’AMÉNAGEMENT URBAIN
+ET DES SERVICES AUX ENTREPRISES
+DIVISION – URBANISME
+
+
+
+
+                                 Étude typomorphologique
+                                 de l’arrondissement du
+                                 Plateau-Mont-Royal
+
+
+
+
+                                 1 re étape : Découpage du territoire
+                                 en unités de paysage homogènes
+
+                                 Rapport final
+
+
+                                        4 septembre 2003
+                       Étude typomorphologique de
+                  l’arrondissement du Plateau-Mont-Royal
+                        1re étape : Découpage du territoire en
+                            unités de paysage homogènes
+
+                                       Rapport final
+
+
+Cette étude, commandée par l’arrondissement du Plateau-Mont-Royal de la Ville de Montréal, a été
+réalisée par la firme de consultants en patrimoine et architecture Patri-Arch.
+
+
+
+
+                           Chargé de projet         Martin Dubois
+
+      Recherche, rédaction et photographie          Martin Dubois
+                                                    Patrick Marmen
+
+             Collaboration à la cartographie        Philippe Lemay
+
+
+
+
+L’équipe de Patri-Arch tient à remercier Isabelle Laterreur et Claude Laurin de l’arrondissement du
+Plateau-Mont-Royal ainsi que Anne-Marie Dufour, Julie Boivin et Denise Caron de la Division du
+patrimoine et de la toponymie du Service du développement économique et du développement
+urbain de la Ville de Montréal pour leur collaboration et leur disponibilité tout au long du mandat.
+
+
+
+Québec, 4 septembre 2003
+RÉSUMÉ
+
+L’étude typomorphologique du territoire du Plateau-Mont-Royal s’inscrit dans le cadre de
+l’élaboration du Plan d’urbanisme de la Ville de Montréal pour lequel les arrondissements ont à
+identifier leurs enjeux urbanistiques locaux. Étant donné que la mise en valeur du patrimoine
+bâti et de la forme urbaine représente pour l’arrondissement du Plateau-Mont-Royal un
+enjeu d’aménagement majeur, on désire se doter d’une réglementation basée sur une
+meilleure connaissance du milieu.
+
+L’étude typomorphologique réalisée par l’arrondissement visait à effectuer un découpage du
+territoire qui rendait compte, notamment, de la forme urbaine (parcellaire, bâti et aménagement
+des terrains), des phases d’évolution ainsi que des lieux urbains les plus structurants. L’étude
+doit se réaliser en quatre étapes : 1) identification des périodes de développement et des zones
+aux caractéristiques typomorphologiques similaires, 2) caractérisation typomorphologique des
+zones, 3) identification des grands enjeux urbains du territoire et 4) élaboration d’un règlement
+de plan d’implantation et d’intégration architecturale (PIIA) adapté. Le présent rapport ne
+concerne que la première étape de l’étude.
+
+La présente étude a été divisée en quatre volets. En premier lieu, des recherches
+documentaires et de l’analyse de cartes anciennes ont permis de définir les grandes périodes
+de développement du secteur. Le second volet a quant à lui été consacré au découpage
+préliminaire du territoire en zones aux caractéristiques typomorphologiques similaires. En
+troisième lieu, les hypothèses de découpage ont été validées sur le terrain et les limites des
+zones ont été ajustées en conséquence. Par la même occasion, un relevé photographique
+sommaire a été réalisé. Enfin, le quatrième volet a été consacré à la mise en forme de la carte
+définitive des zones, du rapport final et des fiches des unités de paysage qui sont regroupées
+dans un document annexe.
+
+
+
+
+Patri-Arch
+septembre 2003
+INTRODUCTION
+Méthodologie employée
+
+L’analyse typomorphologique du territoire du Plateau-Mont-Royal visait à comprendre et
+décrire le développement de ce territoire afin d’identifier les unités de paysage homogènes ainsi
+que les règles d’organisation formelle qui leur sont propres. Pour ce faire, l’étude présente un
+regard sur le tissu urbain qui puise dans sa dimension historique et qui utilise une conception
+large de ses composantes, c’est-à-dire comprenant à la fois le réseau des voies, les
+découpages fonciers et les constructions1. L’identification des unités de paysage homogènes
+repose sur l’étude croisée à la fois des phases d’édification du territoire et des caractéristiques
+du tissu urbain.
+
+Dans le cas qui nous préoccupe, le processus de découpage du territoire s’est déroulé en trois
+étapes successives :
+
+     1. La détermination de principales périodes de développement, appelées phases
+        d’édification, selon l’analyse de cartes anciennes et de la littérature historique ;
+
+          Cette étape était en quelque sorte la phase préparatoire au découpage préliminaire du
+          territoire en unités de paysage et aux travaux sur le terrain. Certaines parties du territoire
+          avaient déjà fait l’objet d’étude de ce genre. Ces différentes études se sont avérées très
+          utiles tout au long du mandat. Citons par exemple l’étude sur le patrimoine du square
+          Saint-Louis et de ses abords par la firme Consaur (1991), les analyses du macro-
+          inventaire montréalais (Ethnotech, 1983) et l’étude sur la forme urbaine du secteur
+          Centre (Groupe Cardinal Hardy, 2003).
+
+          En plus des données cartographiques fournies par la Ville de Montréal pour la réalisation
+          de cartes présentées dans ce rapport, une collecte de cartes historiques a été réalisée
+          pour l’analyse de la forme urbaine et des différentes périodes de développement.
+          L’analyse de cartes a permis de réaliser la majeure partie du découpage avant même les
+          travaux sur le terrain. La liste des cartes consultées se trouve également dans ce
+          document.
+
+     2. L’identification des secteurs de développement homogènes (période de développement
+        unique, mode de lotissement similaire) ;
+
+          Dans un premier temps, l’identification des secteurs de développement homogènes s’est
+          basée exclusivement sur l’observation des cartes historiques et des caractéristiques du
+          tissu. Cet aspect de l’étude comprend le type architectural non seulement comme une
+          suite de caractéristique du bâti mais aussi comme un ensemble de relations entretenues
+          entre le bâti et la forme urbaine. Ainsi, une largeur de parcelle différente ou la présence
+          d’une ruelle entraîne forcément des modifications dans le fonctionnement et
+          l’organisation interne du bâtiment. Par conséquent, à partir de la lecture des cartes
+
+
+
+1.   Définition du tissu urbain donnée par Panerai P. et al (1999)
+
+Patri-Arch
+septembre 2003
+   anciennes et contemporaines, il est possible de poser des hypothèses sur l’homogénéité
+   des caractéristiques formelles.
+
+   Pour cette étape de l’étude, les critères d’analyse étaient :
+
+           a. Période de développement
+
+           b. Mode d’organisation de la forme urbaine
+
+           c. Organisation des îlots
+
+           d. Dimensions du parcellaire
+
+3. Validation des aires et des unités de paysage en fonction des visites sur le terrain.
+
+   Le ratissage de tout le territoire afin d’observer les caractéristiques urbaines et
+   architecturales des différents quartiers touchés par l’étude a été une étape importante du
+   projet. Les visites sur le terrain ont permis d’associer plus fortement la caractérisation du
+   paysage bâti avec celle de la forme urbaine. L’identification des types architecturaux
+   présents sur le territoire a rendu possible la validation des zones homogènes.
+
+   Pour cette étape de l’étude, les critères d’analyse étaient :
+
+           a. Type architectural (villa, duplex, triplex, ...)
+
+           b. Gabarit des bâtiments (hauteur, largeur)
+
+           c. Marge de recul avant et latérale
+
+   Un relevé photographique afin de documenter la forme urbaine et les témoins bâtis les
+   plus significatifs a également été réalisé. Plus de 900 photographies ont été prises sur
+   tout le territoire à l’étude. Les photographies sous format numérique ont été réalisées en
+   haute résolution. Ces photographies ont permis d’illustrer les fiches d’unités de paysage
+   tout en constituant une base documentaire pour des travaux ultérieurs. Toutes les
+   photographies numériques sont archivées sur un support CD. Un index photographique
+   est présent en annexe de ce rapport. Il est à noter que l’important couvert végétal du
+   territoire à l’étude et la période de l’année (mois d’août) où ont été réalisés les relevés
+   ont quelque peu affecté la qualité des photographies en raison de l’effet d’écran et des
+   ombrages causés par les arbres.
+
+   Pour une meilleure compréhension de la forme et du développement du territoire de
+   l’étude, celui-ci a été divisé en deux catégories de secteur. La première, l’aire de
+   paysage, regroupe un ensemble plus vaste, dont le processus de formation et de
+   transformation est similaire même si les caractéristiques architecturales à l’intérieur
+   diffèrent. Elles reflètent souvent la présence de limite administrative, où la présence de
+
+
+
+
+                                                                                     Patri-Arch
+                                                                                   septembre 2003
+        barrières dîtes infranchissables2 qui rompent abruptement le développement – par
+        exemple la voie ferrée. Les aires de paysage correspondent en partie aux anciens
+        villages du Plateau apparus au XIXe siècle. La deuxième catégorie de secteur est l’unité
+        de paysage. Celle-ci est un sous-secteur de l’aire de paysage dont les caractéristiques
+        architecturales et urbaines sont homogènes. Elles sont souvent composées du terrain
+        appartenant à une seule terre de la division cadastrale d’origine ou d’un regroupement
+        de terres dont le lotissement a été réalisé au même moment et avec les mêmes règles
+        d’édification. L’homogénéité du tissu urbain est présent seulement au niveau de l’unité
+        de paysage. Le but de l’aire de paysage est principalement de refléter les facteurs de
+        développement.
+
+        Il est à noter que dans certains cas, les unités de paysage sont séparées en deux, trois
+        ou quatre parties distinctes, souvent séparées par des voies structurantes importantes.
+        Nous avons tout simplement ajoutées les lettres a, b, c ou d à la suite de leur numéro et
+        de leur appellation pour désigner l’appartenance à la même unité homogène.
+
+
+
+
+Patri-Arch
+septembre 2003
+SYNTHÈSE DU DÉVELOPPEMENT
+
+Préalable au découpage du territoire de l’arrondissement du Plateau-Mont-Royal en unités
+de paysage homogènes, cette synthèse du développement vise à identifier les phases de
+développement du territoire de l’arrondissement du Plateau-Mont-Royal de même que les
+principaux éléments qui ont marqué ces phases de développement. Cette synthèse de
+développement a principalement été réalisée à partir de sources secondaires, et de quelques
+cartes anciennes qui permettent de visualiser la progression du développement. À partir de ces
+sources, 5 grandes phases ont été identifiées :
+
+        1.   avant 1845 : La formation de la structure territoriale
+        2.   1845 – 1880 : La formation des villages
+        3.   1880 – 1914 : L’âge d’or du développement
+        4.   1914 – 1960 : La consolidation
+        5.   après 1960 : Les grandes transformations et le retour à la ville
+
+On remarque que de ces phases de développement, seules les trois premières sont des
+périodes actives dans la construction du paysage bâti du territoire du Plateau-Mont-Royal.
+Les deux dernières sont essentiellement des périodes de transformation durant lesquelles le
+patrimoine architectural a tantôt été détruit, tantôt été rénové.
+
+Avant 1845 : La formation de la structure territoriale
+
+1.1     Contexte de développement
+
+La première période de développement consiste principalement au développement de la
+structure territoriale du Plateau-Mont-Royal. Peu d’information a été repérée sur l’influence de la
+présence amérindienne sur le territoire à l’étude. La localisation des chemins semble due plus à
+l’organisation du système parcellaire agricole qu’à la présence de sentiers amérindiens. Les
+premiers découpages de ce système parcellaire agricole date de la concession des terres en
+arrière-fiefs durant la deuxième moitié du XVIIe siècle. Le fief Closse, concédé en 1654, longe le
+boulevard Saint-Laurent à l’est. Le fief La Gauchetière, concédé en 1665, est situé
+immédiatement à l’est du précédent. Les autres fiefs ont été concédés à des dates non
+identifiées.
+
+À l’issue du découpage parcellaire initial, l’ensemble du territoire du Plateau-Mont-Royal fait
+partie de deux structures différentes. La première, à l’ouest de la rue Papineau est la Côte-
+Saint-Louis, la seconde, à l’est de la rue Papineau, est la Côte-de-la-Visitation. Cette limite
+demeurera une barrière importante dans le développement du territoire, et les terres de la Côte-
+de-la-Visitation demeureront à vocation agricole pour une période plus longue.
+
+Une partie de la Côte-Saint-Louis est aussi fréquemment appelée la Côte-à-Baron en raison du
+nom du propriétaire d’une de ses terres, un dénommé Jean Augé dit Baron. Cette terre était
+située entre les rues Sainte-Famille et Saint-Urbain de part et d’autre de la rue Sherbrooke. Par
+extrapolation, ce nom a été donné, jusqu’au milieu du XIXe siècle, à tout le territoire situé entre
+les rues Durocher et Saint-Denis.
+
+
+Patri-Arch
+septembre 2003
+Malgré la présence d’un parcellaire agricole, l’ensemble du territoire demeure peu habité jusqu’à
+la moitié du XIXe siècle. La plupart des propriétaires terriens préfèrent résider en ville. De plus,
+la structure du parcellaire subira plusieurs modifications par des jeux de divisions et/ou fusions
+des terres. La création de grandes propriétés au cours du XIXe siècle aura pour effet de
+concentrer la propriété foncière entre les mains de quelques individus parmi lesquelles on
+retrouve des membres influents de la société montréalaise de l’époque, notamment les
+Papineau, De Lorimier, Viger, et Cherrier. Elle aura aussi comme conséquence de faciliter
+le développement de grands lotissements homogènes qui donnent au paysage bâti du
+Plateau-Mont-Royal son caractère distinctif.
+
+Si l’activité agricole amène peu de résidants sur le territoire du Plateau-Mont-Royal, l’artisanat
+de même que l’exploitation des carrières conduira à la création des premiers villages. Au nord
+de l’arrondissement, approximativement à l’intersection des avenues du Mont-Royal et Henri-
+Julien, se trouvait la tannerie de la famille Bélair, propriétaire terrien important du Mile-End.
+Cette tannerie est présente à cet emplacement depuis le XVIIIe siècle. Un extrait du journal La
+Patrie (cité par SIDAC de l’avenue du Mont-Royal, 1992) mentionne que le manoir des Bélair a
+été érigé à cet endroit vers 1740. Autour de cette tannerie s’établissent plusieurs ouvriers. Il en
+est de même sur le chemin des Carrières, aujourd’hui la rue Gilford, qui permettait de rejoindre
+les carrières Dubuc et Limoges, situées approximativement à l’emplacement actuel du parc Sir-
+Wilfrid-Laurier. Ainsi, « au recensement de 1825, on compte 24 maisons et un magasin au
+village des Tanneries des Bélair » (Macro-inventaire montréalais (8), 1983 : 25). Ce premier pôle
+de développement donnera naissance, plus tard, au village Coteau Saint-Louis.
+
+La présence du boulevard Saint-Laurent est également un autre moteur de développement. Ce
+chemin, tracé en 1717 pour rejoindre le Sault-au-Récollet et l’île Jésus, devient un lieu de
+rassemblement des agriculteurs qui rejoignent Montréal pour vendre leurs produits. Ceux-ci
+s’arrêtent régulièrement dans les hôtels du boulevard Saint-Laurent pour passer la nuit afin de
+retourner sur leur ferme le lendemain matin. Cette activité est manifeste dans un relevé de 1816
+qui mentionne « qu’entre Sherbrooke et Mont-Royal, on y compte deux maisons, un hôtel et une
+tannerie » (Macro-inventaire montréalais (5), 1983 : 21).
+
+Finalement, il faut mentionner une différence importante dans le développement du Plateau-
+Mont-Royal par rapport au reste de la proche campagne de Montréal au début du XVIIIe siècle.
+Alors qu’à l’ouest du boulevard Saint-Laurent plusieurs terrains sont concédés pour la
+construction de villas destinées à la population bourgeoise de Montréal, le territoire à l’est de
+Saint-Laurent demeure constitué de grande parcelles sans résidences. L’absence de ce
+processus de premier morcellement du territoire est due, en partie, à des troubles qui
+concernent la succession de Pierre Foretier, propriétaire du fief Closse. Ces troubles toucheront
+aussi les propriétés voisines. Ainsi, « presque toutes les terres du boulevard Saint-Laurent à la
+rue Saint-Denis se trouvent soustraites au développement jusqu’en 1842, année du règlement
+final de tous ces conflits » (Consaur, 1991). À ce moment, l’époque des lotissements
+résidentiels sera commencée et le Plateau-Mont-Royal n’aura pas connu la période des villas de
+campagnes.
+
+
+
+
+                                                                                        Patri-Arch
+                                                                                       septembre 2003
+1.2     Identification des zones développées
+
+Seuls les grands parcours sont présents à la fin de cette période de développement. Parmi
+ceux-ci, il faut mentionner :
+
+        -    Le boulevard Saint-Laurent, ouverte en 1717 ;
+        -    La rue Sherbrooke jusqu’à la rue Saint-Denis. La rue Saint-Denis, elle, ne poursuit
+             pas sa route plus au nord ;
+        -    L’avenue du Mont-Royal, aussi nommée le chemin des Tanneries, qui permet de
+             rejoindre le chemin de la Côte-Saint-Catherine à l’ouest et qui s’interrompt à la rue
+             Henri-Julien, à l’est ;
+        -    Le chemin des Carrières débutant à proximité de l’intersection des avenues Henri-
+             Julien et du Mont-Royal.
+
+
+À cet effet, voir la carte « Map of the City of Montreal » dressée par André Jobin en 1834 (page
+suivante).
+
+1.3     Catégories architecturales typiques
+
+Aucun bâtiment nous provient de cette période de développement.
+
+
+
+
+Patri-Arch
+septembre 2003
+1845-1880 : La formation des villages
+
+2.1       Contexte de développement
+
+Cette période constitue la première période de développement résidentiel de l’arrondissement
+du Plateau-Mont-Royal. Elle débute en 1845 avec le premier lotissement, réalisé sur la terre
+de Jean-Marie Cadieux de Courville4. À la fin de cette période, les principaux villages sont
+formés et les grandes voies du développement sont tracées.
+
+Le premier développement résidentiel de l’arrondissement du Plateau-Mont-Royal est celui de
+la terre de Jean-Marie Cadieux de Courville qui inclut le fief de La Gauchetière. Lors de
+son lotissement, cette terre a été vendue par la famille Plessi-Bélair à trois promoteurs –
+Bourret, Beaubien et La Fontaine – qui en font le lotissement. Ainsi sont tracées les rues
+Coloniale, de Bullion et de l’Hôtel-de-Ville entre la rue Sherbrooke et l’avenue du Mont-Royal.
+
+Ce premier lotissement ne préfigure pas encore les lotissements typiques du Plateau-Mont-
+Royal. Bien que les îlots soient orientés nord-sud, il n’y a pas de ruelles et les bâtiments sont
+implantés directement sur la ligne de rue. De plus, la vente de terrain sera individuelle et de
+nombreux changements seront apportés au lotissement initialement prévu, ce qui amènera la
+création d’un cadastre irrégulier où la taille des parcelles varie. Ce noyau, dont le
+développement est relativement lent, sera consolidé par la création, en 1861, du village Saint-
+Jean-Baptiste. Entre-temps, le village de Saint-Louis, constitué en 1846, continue son
+développement. Une mission établie par Mgr Bourget en 1848, amène la construction de l’église
+Saint-Enfant-Jésus-du-Mile-End en 1851. Celle du village Saint-Jean-Baptiste sera construite en
+1874.
+
+Ces deux villages demeurent, durant toute la période, essentiellement des quartiers ouvriers et
+regroupent les travailleurs des tanneries, des carrières de même que des artisans. De plus, bien
+qu’un plan de lotissement existe, on ne peu parler de véritable spéculation foncière. Les lots
+sont développés individuellement et la plupart des propriétaires sont aussi résidants.
+
+Pour la mise en place des premières institutions – en plus des deux églises mentionnées
+précédemment - on peut ajouter l’Institution des Sourdes-Muettes des Sœurs de la Providence
+en 1864, les académies Saint-Denis et Saint-Louis-de-Gonzague, le marché au coin de Rachel
+et Saint-Laurent. La mise en place du tram hippomobile en 1864 permettra un développement
+accru des terres avoisinant les premiers noyaux de développement. Mentionnons également le
+réservoir d’eau construit en 1848, abandonné peu de temps après, qui donnera naissance au
+carré Saint-Louis.
+
+La ferme Comte situé entre l’avenue de l’Hôtel-de-Ville et la rue Berri sera aussi lotie à cette
+époque. Les promoteurs, Ferdinand David, Sévère Rivard, Michel Laurent et Gustave A. Drolet,
+céderont en 1872 quelques terrains de ce lotissement pour la construction de l’église Saint-
+Jean-Baptiste.
+
+
+
+4.    Alors que la plupart des sources donnent 1845 ou 1846 pour le lotissement de cette terre, l’Analyse du macro-inventaire
+      montréalais (Ville de Montréal, 1983) mentionne l’année 1834.
+
+Patri-Arch
+septembre 2003
+La partie est du Plateau-Mont-Royal subit, pour sa part, un développement moins accéléré, pour
+ne pas dire inexistant, durant cette période. La ferme Logan, aujourd’hui le parc La Fontaine, est
+acquise par le gouvernement fédéral en 1845, pour y aménager un champ d’opération pour
+manœuvres militaires. Le village de Lorimier sera constitué en village en 1870 mais il consiste
+alors en seulement quelques habitations autour des avenues Papineau et de Lorimier. Dans le
+but de favoriser le développement de ce village, les frères Lionnais donnent à Mgr Bourget un
+terrain, nommé le Mont-Thabor, dans le but d’y construire une église. Mais la crise économique
+de la fin des années 1870 provoquera l’interruption des travaux qui ne seront repris qu’en 1883,
+Les projets auront alors changé et l’église de l’Immaculée-Conception sera construite sur un
+autre site.
+
+2.2    Identification des zones développées
+
+À la fin de la période, quelques lotissements résidentiels sont déjà tracés. Le plus important est
+celui situé entre les rues Saint-Urbain et Laval entre la rue Sherbrooke et l’avenue du Mont-
+Royal. À cela s’ajoute le village Saint-Louis-du-Mile-End de part et d’autre du boulevard Saint-
+Laurent à proximité de l’avenue Laurier et le village des Carrières situé entre la rue Saint-Denis
+et le parc Sir-Wilfrid-Laurier au nord de l’avenue Laurier. Sur le reste du territoire, les
+développements principaux sont constitués par l’ouverture de quelques voies de circulation dont
+l’avenue Papineau jusqu’au chemin de la Côte-de-la-Visitation, situé au nord de l’actuel voie
+ferrée, l’avenue de Lorimier, environ jusqu’à la hauteur de l’actuel boulevard Saint-Joseph, ainsi
+que l’avenue des Érables et la rue Parthenais, jusqu’à la hauteur de l’avenue du Mont-Royal.
+
+Voir la carte de Fortifications Survey of Montreal datant de 1866 (page suivante).
+
+2.3    Catégories architecturales typiques
+
+Durant cette période, le principal type architectural que l’on retrouve dans l’arrondissement
+du Plateau-Mont-Royal est la maison unifamiliale attachée. Elle est souvent construite en bordure
+de la rue mais on retrouve aussi des modèles en fond de cour, modèles qui furent interdits par
+la suite pour des raisons hygiénistes. La plupart des habitations de ce type furent détruites ou
+transformées mais il est toujours possible d’en apercevoir sur les rues de Bullion, Saint-
+Dominique et l’avenue Coloniale pour les maisons en bordure de rue et juste au nord de la rue
+Sherbrooke pour les maisons de fond de cour. On retrouve aussi encore quelques maisons
+typiques de faubourg ouvrier, notamment dans l’ancien secteur du village des Carrières.
+
+
+
+
+                                                                              À gauche, maisons
+                                                                              sans marge de recul de
+                                                                              la rue Saint-Dominique.
+                                                                              À droite, petite maison
+                                                                              de faubourg de la rue
+                                                                              Lagarde. PMR562 et
+                                                                              PMR775.
+
+
+                                                                                        Patri-Arch
+                                                                                       septembre 2003
+1880-1914 : L’âge d’or du développement
+
+3.1     Contexte de développement
+
+Si cette période est appelée l’âge d’or du développement sur le Plateau-Mont-Royal, ce n’est
+pas seulement parce qu’on y observe un grand rythme de construction résidentielle mais aussi
+parce que c’est durant cette période que sera développée la forme architecturale typique de ce
+secteur de Montréal : le triplex. Ce type architectural apparaît sur le Plateau-Mont-Royal
+notamment en raison de la forte demande en logement et de la mise en place de la
+réglementation municipale sur la construction dans ce secteur. En 1880, la Ville de Montréal
+standardise la dimension des lots et la présence des ruelles et continuera par la suite à
+augmenter cette réglementation en exigeant une marge de recul avant et des matériaux de
+revêtement particulier (pierre et brique). La présence de grandes propriétés foncières et de la
+spéculation immobilière seront aussi deux facteurs qui favoriseront la formation de grands
+lotissements homogènes.
+
+La période est aussi marquée par l’incorporation à l’intérieur de la ville de Montréal de
+l’ensemble des villes et villages qui deviennent alors quartiers. Ce sera le cas de Saint-Jean-
+Baptiste en 1886, du Coteau Saint-Louis en 1896 et de Saint-Louis-du-Mile-End et de la Ville de
+Lorimier en 1909.
+
+La formation des grands parcs urbains de Montréal, tel le parc du Mont-Royal ou le parc La
+Fontaine, sera aussi un attrait pour attirer une nouvelle clientèle dans le quartier : la bourgeoisie
+canadienne-française. La transformation du réservoir de la Côte-à-Baron en carré Saint-Louis
+sera également un facteur influent de l’implantation d’un secteur bourgeois dans le secteur sud
+de l’arrondissement du Plateau-Mont-Royal.
+
+À la fin de cette période, tel que le montre les cartes de l’atlas Goad de 1890 et de 1914,
+pratiquement toute la superficie du territoire du Plateau-Mont-Royal sera construite. Les
+zones libres sont situées principalement au nord et à l’est de l’arrondissement, le long de la voie
+ferrée. Plusieurs de ces zones vacantes demeureront à vocation industrielle et conserveront les
+caractéristiques d’un tissu urbain à large maille.
+
+3.2     Identification des zones développées
+
+Cette phase de développement peut être divisée en deux sous-phases correspondant chacune
+aux deux booms de la construction qu’a subis Montréal durant ces années. La première, dont le
+boom de la construction s’étend de 1885 à 1991, voit principalement le développement de Saint-
+Louis-du-Mile-End dans sa partie au sud de la rue Saint-Viateur, et du quartier Saint-Jean-
+Baptiste à l’exception de quelques rues dont Saint-Hubert. La deuxième sous-phase est centrée
+sur le boom de construction qui se déroule entre 1904 et 1914. Les principales zones
+développées sont alors l’ensemble de Saint-Louis-Mile-End, de Saint-Jean-Baptiste, et du
+quartier de Lorimier dont le développement est très intense à cette époque. Le boulevard Saint-
+Joseph, muni d’un terre-plein de 28 pieds apparaît à cette époque.
+
+
+
+
+Patri-Arch
+septembre 2003
+3.3    Catégories architecturales typiques
+
+À chacun des deux booms de construction décrits précédemment correspondent également des
+catégories architecturales spécifiques. Entre 1885-1891, il s’agit de la maison unifamiliale
+bourgeoise pour la population aisée et du duplex pour la population ouvrière. Entre 1904-1914,
+le type architectural le plus construit est le triplex dont la forme typique (marge de recul avant,
+escalier extérieur, plan en « L ») se développe durant ces années. Il est à mentionner que le
+long du nouveau boulevard Saint-Joseph se développe une forme d’habitation intermédiaire
+entre le triplex et la maison de rapport. Ces maisons de trois étages offrent à leurs six logements
+une entrée intérieure unique.
+
+
+
+
+         Duplex contigus avec marge de recul avant de   Duplex contigus de la rue Fabre. PMR716.
+         la rue Jeanne-Mance. PMR667.
+
+
+
+
+                                                        Demeure bourgeoise de la rue Cherrier.
+
+
+
+
+         Triplex de la rue Garnier. PMR517.             Demeures bourgeoise de la rue Saint-Hubert.
+                                                        PMR851.
+
+
+                                                                                                    Patri-Arch
+                                                                                                   septembre 2003
+1914-1960 : La consolidation
+
+4.1     Contexte de développement
+
+Au début de cette période, le Plateau-Mont-Royal a presque atteint sa saturation et les zones à
+développer se font plus rares. Dans les années 1920, le déménagement de l’Université de
+Montréal à partir du quartier latin, sur la rue Saint-Denis au sud de la rue Sherbrooke, vers son
+emplacement actuel sur le Mont-Royal favorisera l’exode de la bourgeoisie canadienne-
+française. Il s’en suivra une mutation importante de la population du quartier. La population
+ouvrière y demeurera mais il s’y ajoutera au cours des années de nombreuses communautés
+ethniques. La crise économique des années 1930 touchera durement l’ensemble de la
+population du quartier. Pour stimuler la construction, le gouvernement fédéral lancera plusieurs
+projets dont la reconstruction du marché Saint-Jean-Baptiste, la clinique Laurier, la cour juvénile,
+le chalet du parc Sir-Wilfrid-Laurier et le tunnel Iberville. Toutefois, la présence d’une population
+stable et des communautés ethniques stimulera l’activité commerciale de proximité et ce sera
+alors les belles années de l’avenue du Mont-Royal et du boulevard Saint-Laurent.
+
+4.2     Identification des zones développées
+
+À partir de 1914, les projets de développement se font à l’emporte-pièce dans l’ensemble de
+l’arrondissement du Plateau-Mont-Royal. Ils visent principalement la reconstruction, la rénova-
+tion ou la transformation des bâtiments déjà en place.
+
+4.3     Catégories architecturales typiques
+
+Il n’y a pas de catégorie architecturale spécifique pour cette période. Cependant, le triplex,
+modèle typique qui a été développé au cours de la période précédente, demeurera en vogue
+jusque dans les années 1940.
+
+
+
+
+Patri-Arch
+septembre 2003
+Après 1960 : Les grandes transformations et le retour à la ville
+
+5.1    Contexte de développement
+
+Depuis les années 1960, deux mouvements de développement se chevauchent dans
+l’arrondissement du Plateau-Mont-Royal. Il faut d’abord dire que l’ensemble du quartier est
+développé et que ces mouvements de développement n’auront qu’un rôle de transformation du
+paysage urbain du Plateau-Mont-Royal. Le premier est celui de la « rénovation urbaine » qui
+touche particulièrement la zone du Plateau-Mont-Royal dite Milton-Parc à l’extrême ouest de
+l’arrondissement. C’est dans ce secteur que seront construits l’échangeur des Pins de même
+qu’un complexe d’habitations de très forte densité, nommé La Cité. La rue Sherbrooke, la rue
+Rachel et l’avenue Papineau seront aussi touchées par la construction de tours d’habitations.
+Autre transformation importante du paysage, le boulevard Saint-Joseph devient une artère à six
+voies par le rétrécissement de son terre-plein central en 1962.
+
+Le second mouvement sera celui du « retour à la ville ». De nombreux mouvements de
+protestations empêcheront le développement de certains projets de tours d’habitations. Par
+exemple, une partie importante du secteur de Milton-Parc sera soustrait au développement de
+grands complexes domiciliaires par la mise sur pied de nombreuses coopératives d’habitation.
+Ainsi, progressivement les grandes transformations seront remplacées par une suite de petits
+projets d’amélioration et de rénovation qui seront entrepris par l’arrivée d’une nouvelle
+population désireuse d’habiter à proximité du centre-ville.
+
+5.2    Identification des zones développées
+
+Comme l’ensemble du quartier est déjà construit, les projets de développement sont
+principalement des transformations réalisées de façon ponctuelle sur le territoire de
+l’arrondissement du Plateau-Mont-Royal.
+
+5.3    Catégories architecturales typiques
+
+Outre la construction de tours d’habitations dans certaines zones du quartier, la période sera
+principalement consacré à la rénovation des édifices plus anciens sinon à la reconstruction de
+parcelles vacantes dans une perspective d’intégration au paysage bâti.
+
+
+
+
+                                                                                   Patri-Arch
+                                                                                  septembre 2003
+Repères historiques
+
+1654 à 1665 :    Concessions des terres dont les fiefs Closse et La Gauchetière.
+
+1717 :           Ouverture du chemin Saint-Laurent.
+
+ca 1740 :        Construction du manoir de la famille Bélair, propriétaire de la tannerie du
+                 même nom.
+
+1834 :           Premier lotissement du Plateau sur la terre des Cadieux.
+
+1842 :           Règlement du conflit de succession des terres de Pierre Foretier dont le fief
+                 Closse.
+
+1845 :           Achat de la ferme Logan par le gouvernement fédéral pour en faire un champ
+                 de manœuvres militaires.
+
+1846 :           Création du village Coteau Saint-Louis.
+
+1848 :           Établissement de la mission du village Saint-Louis par Mgr Bourget. L’église
+                 Saint-Enfant-Jésus-du-Mile-End sera construite trois ans plus tard (1851).
+
+1852 :           Désaffection du réservoir de la Côte-à-Baron.
+
+1861 :           Incorporation du village Saint-Jean-Baptiste par suite de démembrement du
+                 territoire du village du Coteau Saint-Louis.
+
+1864 :           Mise en service du tramway hippomobile sur Saint-Laurent jusqu’à l’avenue
+                 du Mont-Royal.
+
+                 Les Sœurs de la Providence érigent, rue Saint-Denis, l’Institution des
+                 Sourdes-Muettes.
+
+1870 :           Création du village de Lorimier.
+
+1872 :           Lotissement de la ferme Comte.
+
+1876 :           Construction de la voie ferrée Montréal / Saint-Jérôme. Ce qui favorise la
+                 création du village Saint-Louis-du-Mile-End en 1878.
+
+                 Inauguration du parc du Mont-Royal.
+
+ca 1880 :        Premiers règlements sur la construction exigeant la marge de recul avant et
+                 la formalisation de la ruelle.
+
+1878-1890 :      Phase d’expansion du quartier Saint-Denis.
+
+
+
+
+Patri-Arch
+septembre 2003
+1885-1891 :   Boom de la construction dans Montréal : construction de maisons
+              unifamiliales pour la clientèle bourgeoise et de duplex pour la population
+              ouvrière.
+
+1886 :        Annexion du village Saint-Jean-Baptiste à la ville de Montréal.
+
+1888 :        Aménagement du parc La Fontaine.
+
+1893 :        Annexion du Coteau Saint-Louis à la ville de Montréal.
+
+1895 :        Incorporation du village de Lorimier.
+
+1904-1914 :   Second boom de la construction à Montréal, construction majoritaire de
+              triplex.
+
+ca 1905 :     Apparition du boulevard Saint-Joseph, large avenue munie d’un terre-plein de
+              28 pieds. Ce boulevard, prolongé en 1912 et en 1950, a pour but d’attirer sur
+              son parcours des résidences de qualité.
+
+1909 :        Annexion du village de Lorimier et de Saint-Louis-du-Mile-End par la Ville de
+              Montréal.
+
+1907-1914 :   Boom de la construction dans le quartier de Lorimier.
+
+ca 1920 :     Déménagement de l’Université de Montréal.
+
+              Aménagement du parc Sir-Wilfrid-Laurier.
+
+1931 :        Pour palier à la crise économique, le gouvernement fédéral lance un
+              programme de construction d’infrastructures publiques.
+
+1962 :        Le boulevard Saint-Joseph voit son terre-plein passer de 28 à 6 pieds afin
+              d’aménager trois voies de circulation dans chaque sens.
+
+1962-1966 :   Aménagement de la ligne 2 (orange) du réseau de métro dans l’axe de la rue
+              Berri. Les stations Sherbrooke, Mont-Royal et Laurier sont mises en service
+              en octobre 1966.
+
+1974-1975 :   La construction d’un ensemble de tours d’habitation, le complexe La Cité,
+              bouleverse le paysage urbain du secteur Milton-Parc.
+
+
+
+
+                                                                                 Patri-Arch
+                                                                                septembre 2003
+BIBLIOGRAPHIE
+
+ANCTIL, Pierre (2001). « Boulevard Saint-Laurent, lieu des possibles », dans Continuité, no 88
+(printemps 2001), p. 24-27.
+
+BAILEY, Patricia (1992). « Milton Park », dans Atlas topographique de Montréal. Sous la
+direction de Jeanne M. Wolfe et François Dufaux. Montréal : École d’urbanisme de l’Université
+McGill, p. 75.
+
+BEAUPRÉ et MICHAUD (1988). Étude sur le patrimoine de l’arrondissement Centre. Montréal :
+Ville de Montréal, Service de l’habitation et du développement urbain.
+
+BEAUPRÉ, Pierre et Josette MICHAUD (1995). « Les églises du Plateau : leçons d’architecture
+et d’histoire », dans Continuité, no 66 (automne 1995), p. 48-51.
+
+BENOîT, Michèle et Roger GRATTON (1991). Les villages du Plateau. Le patrimoine de
+Montréal. Quartiers du plateau Mont-Royal. Montréal : Ville de Montréal. Collection « Pignon sur
+rue ».
+
+BRONSON, Susan (2000). « Les maisons du Mile-End ; pareilles et différentes », dans
+Continuité, no 86 (automne 2000), p. 40-42.
+
+BUMBARU, Dinu (2001). « Le grand méridien de Montréal », dans Continuité, no 88 (printemps
+2001), p. 52-56.
+
+BUMBARU, Dinu (1995). « Secrets et curiosités », dans Continuité, no 66 (automne 1995),
+p. 38-39.
+
+COMMISSION DES BIENS CULTURELS DU QUÉBEC (1991). Les Chemins de la mémoire,
+tome 2. Québec : Les Publications du Québec.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1981). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture civile I : Les édifices publics.
+Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1980). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture civile II : Les édifices scolaires.
+Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1980). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture commerciale I : Les banques.
+Montréal : CUM
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1983). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture commerciale II : Les hôtels, les
+immeubles à bureaux. Montréal : CUM.
+
+
+
+Patri-Arch
+septembre 2003
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1985). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture commerciale III : Les
+magasins, les cinémas. Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1987). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture domestique 1 : Les résidences.
+Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1987). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture domestique II : Les immeubles
+d’habitation. Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1987). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture domestique III : Les maisons
+en rangée. Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1982). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture industrielle. Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1982). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture militaire. Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1981). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture religieuse I : Les églises.
+Montréal : CUM.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL (1984). Répertoire d’architecture traditionnelle sur
+le territoire de la Communauté urbaine de Montréal. Architecture religieuse II : Les couvents.
+Montréal : CUM.
+
+CONSAUR (1991). Étude sur le patrimoine du square Saint-Louis et de ses abords. Montréal :
+Ville de Montréal.
+
+DESCHAMBAULT, Gabriel (1995). « Signature d’un quartier », dans Continuité, no 66 (automne
+1995), p. 10-13.
+
+DESCHATELETS, Gilles (1995). « L’avenue du Mont-Royal ou comment sauver sa rue
+principale », dans Continuité, no 66 (automne 1995), p. 32-34.
+
+FARLEY, David (1992) « Lafontaine Park », dans Atlas topographique de Montréal. Sous la
+direction de Jeanne M. Wolfe et François Dufaux. Montréal : École d’urbanisme de l’Université
+McGill, p. 75.
+
+GAUTHIER, Raymonde et Pierre-Richard BISSON (1990). 1890-1990 Un siècle à bâtir 1990-
+2090. Montréal : Les Presses de l’Ordre des architectes du Québec.
+
+GODIN, Colette (2002). Montréal, la ville aux cent clochers. Montréal : Fides. Collection
+« Images de sociétés ».
+
+                                                                                   Patri-Arch
+                                                                                  septembre 2003
+GROUPE CARDINAL HARDY (2003). Étude de la forme urbaine : caractérisation du secteur
+Centre. Montréal : Ville de Montréal.
+
+GROUPE D'INTERVENTION URBAINE DE MONTRÉAL (GIUM) (1989). Dossier urbain,
+arrondissement Plateau Mont-Royal / Centre-Sud, Penser pour agir. Montréal : Ville de
+Montréal.
+
+KNIGHT, Alan (1995). « Le Plateau Mont-Royal, un projet, un exploit », dans Continuité, no 66
+(automne 1995), p. 17-20.
+
+LAFERRIÈRE, Suzanne (1995). « Les visages du Plateau Mont-Royal », dans Continuité, no 66
+(automne 1995), p. 14-16.
+
+LAROCHELLE, Pierre et Pierre GAUTHIER (2003). Les voies d’accès à la Capitale nationale du
+Québec et la qualité de la forme urbaine. Montréal : Chaire en paysage et environnement de
+l’Université de Montréal.
+
+LAROCHELLE, Pierre et N. NEUMANN (1985). Traits stylistiques, dimensions et proportions
+des façades dans l'architecture populaire urbaine : rapport de recherche. Québec : École
+d'architecture de l’Université Laval.
+
+LEGAULT, Réjean (1989). « Architecture et forme urbaine : l’exemple du triplex à Montréal de
+1870 à 1914 », dans Urban History Review / Revue d’histoire urbaine, 23 (1) : 1-10.
+
+LINTEAU, Paul-André (1992). Histoire de Montréal depuis la Confédération. Montréal : Boréal.
+
+MARSAN, Jean-Claude (1994). Montréal en évolution : historique du développement de
+l'architecture et de l'environnement urbain montréalais. Montréal : Les Éditions du Méridien.
+
+MARTEL, Alain et Jocelyn GROULX (1995). « La tradition commerciale au Plateau Mont-Royal :
+une affaire de tenacité », dans Continuité, no 66 (automne 1995), p. 35-37.
+
+PANERAI, Philippe, Jean-Charles DEPAULE et Marcelle DEMORGON (1999). Analyse urbaine.
+Marseille : Éditions Parenthèses.
+
+PATRI-ARCH (2003). Connaissance du mont Royal : le bâti. Montréal : Ville de Montréal.
+
+PINARD, Guy (1987). Montréal, son histoire, son architecture. Tome 1. Montréal : Les Éditions
+La Presse.
+
+PINARD, Guy (1988). Montréal, son histoire, son architecture. Tome 2. Montréal : Les Éditions
+La Presse.
+
+PINARD, Guy (1989). Montréal, son histoire, son architecture. Tome 3. Montréal : Les Éditions
+La Presse.
+
+PINARD, Guy (1991). Montréal, son histoire, son architecture. Tome 4. Montréal : Les Éditions
+du Méridien.
+
+Patri-Arch
+septembre 2003
+PINARD, Guy (1992). Montréal, son histoire, son architecture. Tome 5. Montréal : Les Éditions
+du Méridien.
+
+PINARD, Guy (1995). Montréal, son histoire, son architecture. Tome 6. Montréal : Les Éditions
+du Méridien.
+
+RÉMILLARD, François et Brian MERRETT (1990). L'architecture de Montréal : guide des styles
+et des bâtiments. Montréal : Les Éditions du Méridien.
+
+SIDAC de l’avenue du Mont-Royal (1992). L’avenue du Mont-Royal, un siècle et demi au cœur
+du Plateau. Montréal : s.n.
+
+VANLAETHEM, France (1992). « Le Musée des Hospitalières de l’Hôtel-Dieu de Montréal »,
+dans ARQ, no 68 (août 1992), p. 11.
+
+VILLE DE MONTRÉAL (1991). État des valeurs patrimoniales. Arrondissement Plateau Mont-
+Royal / Centre-Sud. Montréal : Service de l’habitation et du développement urbain.
+
+VILLE DE MONTRÉAL (1973). Les quartiers municipaux de Montréal depuis 1832. Montréal :
+Archives municipales.
+
+VILLE DE MONTRÉAL (1995). Les rues de Montréal : répertoire historique. Montréal : Les
+Éditions du Méridien.
+
+VILLE DE MONTRÉAL (1983). Macro-inventaire du patrimoine montréalais. Montréal : Ville de
+Montréal.
+
+
+
+
+                                                                                  Patri-Arch
+                                                                                 septembre 2003
+CARTES CONSULTÉES
+
+1801         Plan de la ville et de la cité de Montréal. Auteur : Louis Charland / BNQ : G3454 M65
+             1801 C4.
+
+1834         Map of the City of Montreal. Auteur : André Jobin / BNQ : G3454 M65 1834 J63 CAR
+
+1846         Topographical and Pictorial Map of the City of Montreal. Auteur : James Cane. Carte
+             consultée dans l’étude du patrimoine du square Saint-Louis et de ses abords
+             (Consaur, 1991).
+
+1866         Fortifications Survey of the City of Montreal. ANC.
+
+1870         Plan of Saint-Louis Ward, Shewing the several properties according to the cadastral
+             plans deposited in the registrars office. Auteur : C.H.C Lionnais. Carte consultée
+             dans l’étude du patrimoine du square Saint-Louis et de ses abords (Consaur, 1991).
+
+1879         Atlas of the City and Island of Montreal. Auteur : Henry Wilmer Hopkins. Carte
+             consultée dans l’étude du patrimoine du square Saint-Louis et de ses abords
+             (Consaur, 1991).
+
+1890         City of Montreal from Special Surveys. Auteur : Chas. E. Goad. BNQ : 1144 M65
+             G475 G6 1890 CAR.
+
+1907         Atlas of the Island and City of Montreal and Ile Bizard. Auteur : A. R. Pinsonneault /
+             BNQ : G1144 M65 G475 P5 1907 CAR*1.
+
+1914         Atlas of the City of Montreal and Vicinity in four Volumes. Auteur : Chas. E. Goad /
+             BNQ : 1144 M65 G475 C3 1914 CAR *1.
+
+2003         Cadastre de la ville de Montreal. Ville de Montréal.
+
+
+
+
+Patri-Arch
+septembre 2003
+
