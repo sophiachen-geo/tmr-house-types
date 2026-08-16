@@ -32,6 +32,7 @@
     <summary>What {{ t.doc_short|esc }} says about this type <span class="chev">›</span></summary>
     <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}{% for v in row.fr %}<li class="frv" lang="fr">{{ v|esc }}</li>{% endfor %}{% if not row.bullets and not row.fr %}<li class="null">–</li>{% endif %}</ul></div>{% endfor %}</div>
     {% if t.profile_note %}<p class="pnote">{{ t.profile_note|esc }}</p>{% endif %}
+    {% if t.conservation %}<div class="conserve"><span class="olabel">Conservation guidance (fiche)</span><ul class="tv">{% for c in t.conservation %}<li>{{ c|esc }}</li>{% endfor %}{% for c in t.conservation_fr or [] %}<li class="frv" lang="fr">{{ c|esc }}</li>{% endfor %}</ul></div>{% endif %}
   </details>
   <div class="metaline">{{ pl.name_en|esc }} · {{ ph.label|esc }} · {{ t.source_ref|esc }} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% else %}<span class="null">–</span>{% endfor %}</div>
 </article>

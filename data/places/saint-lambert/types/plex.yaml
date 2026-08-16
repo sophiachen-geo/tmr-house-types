@@ -1,0 +1,59 @@
+id: saint-lambert.plex
+place: saint-lambert
+phase: p3
+name_en: Multi-dwelling building of plex type
+name_fr: L'immeuble à logements multiples de type plex
+source_ref: "Répertoire des courants architecturaux, fiche 9"
+canonical: [duplex-flat-roof-brick, triplex-exterior-stair]
+styles: [faubourg-vernacular, boomtown]
+tenure_plan: duplex               # duplex/triplex; jumelé quadruplex/quintuplex; rows
+storeys: "2–3"
+roof: {form: flat, pitch_deg: 0}
+window_proportion: vertical
+principal_cladding: [clay-brick]
+profile:
+  siting_landscape:
+    - Early 20th-century densification model imported from Montréal by developers; usually party-wall, may be semi-detached (quadruplex, quintuplex) or repeated in rows.
+  massing:
+    - Rectangular body of two or three storeys, moderately raised, flat roof.
+    - Almost always superposed galleries and balconies on the main façade and, for plexes, exterior stairs; oriels or projecting bays may articulate the façade.
+    - Some multi-dwelling buildings have shared entrances or stairs serving several units; usually three storeys, with galleries and balconies so each family has private outdoor space.
+  articulation:
+    - "Ornament concentrated in the crown: cornices, parapets of various forms, brick patterns; woodwork (worked piers, railings, brackets) on galleries and balconies; ornament varies with the intended tenants."
+  openings:
+    - Wood doors with glazing.
+    - Guillotine windows.
+  materials:
+    - Brick (no imitation, unpainted).
+profile_fr:
+  volumes: ["Corps de bâtiment rectangulaire de deux ou de trois étages, moyennement exhaussé du sol, à toit plat."]
+  saillies: ["L'immeuble à logements multiples possède presque toujours des galeries et des balcons superposés sur la façade principale ainsi que des escaliers extérieurs dans le cas de plex. … Des oriels ou des baies en saillie (bow-windows) peuvent articuler la façade."]
+  ouvertures: ["Portes en bois avec vitrage.", "Fenêtres à guillotine."]
+  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable et les matériaux industrialisés … sont à proscrire. Éviter de peindre la maçonnerie."]
+  ornementation: ["Les ornements sont surtout concentrés dans le couronnement de la façade. Corniches, parapets et jeux de briques …, tout comme les boiseries décoratives (piliers ouvragés, garde-corps et aisseliers) ornant les galeries et les balcons."]
+conservation:
+  - No imitation brick; do not paint masonry; keep brick and mortar sound.
+  - Do not remove galleries, balconies or stairs or change their dimensions; railings in painted wood or wrought iron of traditional make, uniform on all projections.
+  - Steel/PVC doors unsuitable unless perfect imitations; avoid sliding and single-leaf crank windows and undivided windows.
+  - Do not raise foundations or add a pitched roof; side/rear reduced-volume additions only.
+blurb_en: >-
+  The Montréal plex on the South Shore: stacked flats behind stacked galleries, outside stairs, a
+  brick crown of cornice or parapet. Saint-Lambert's version is the fiche's own summary of what the
+  Plateau's typology splits into duplex, triplex and multiplex.
+origin_en: >-
+  "La densification des villes, au début du 20e siècle, entraîne la prolifération d'immeubles à
+  logements multiples … une forme d'habitation populaire se développe à grande échelle à Montréal :
+  le plex", whose success in certain Montréal districts led promoters to build it in Saint-Lambert.
+  For the type's genesis in the 1880s by-laws see the Plateau-Mont-Royal page.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/plex-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 9", kind: single}
+- {file: assets/places/saint-lambert/plex-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 9", kind: single}

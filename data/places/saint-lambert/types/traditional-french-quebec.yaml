@@ -1,0 +1,65 @@
+id: saint-lambert.traditional-french-quebec
+place: saint-lambert
+phase: p1
+name_en: Traditional French and Québécois house
+name_fr: La maison traditionnelle française et québécoise
+source_ref: "Répertoire des courants architecturaux, fiche 1"
+canonical: [quebec-traditional-1-5st-gable]
+styles: [french-regime, neoclassical-quebec]
+tenure_plan: single-family
+storeys: "1.5"
+roof: {form: gabled, pitch_deg: null}      # "pente assez forte"; bell-cast variant
+window_proportion: vertical
+principal_cladding: [stone, roughcast, wood]
+profile:
+  siting_landscape:
+    - The oldest current in Saint-Lambert; the French-tradition model covers the 18th and early 19th century (1700–1830), the Québécois synthesis about 1830–1880.
+    - Former farmhouses that once lined the St. Lawrence.
+  massing:
+    - Rectangular body of one and a half storeys, little raised above the ground.
+    - Two-slope roof, straight or with a curved base, fairly steep.
+    - Full-length wood gallery on the main façade, sheltered by the roof's eave (larmier); massive stone chimneys at the roof ends.
+  articulation:
+    - Ornament is spare; often the only decorative element is a wooden surround (chambranle) around the openings, painted in a colour contrasting with the walls.
+    - British influence shows in the curved roof extension, more openings, rigorous symmetry, the front gallery and classical decorative touches.
+  openings:
+    - Traditional wood doors with glazing.
+    - Two-leaf wood casements with 12 to 24 small panes or 6 large panes.
+    - Small gabled dormers.
+  materials:
+    - Stone walls (French tradition); roughcast or wood.
+    - "Roof: traditional sheet metal (à baguettes, à la canadienne, pincée) or cedar shingle."
+profile_fr:
+  volumes: ["Corps de bâtiment rectangulaire d'un étage et demi peu exhaussé du sol. Toit à deux versants droits ou à base recourbée présentant une pente assez forte."]
+  saillies: ["La galerie, s'étendant sur toute la longueur de la façade principale et protégée par le larmier du toit, est construite en bois. … Des cheminées massives en pierre sont présentes aux extrémités du toit."]
+  ouvertures: ["Portes en bois traditionnelles avec vitrage.", "Fenêtres à deux battants en bois munies de 12 à 24 petits carreaux ou de 6 grands carreaux.", "Lucarnes à pignon de petites dimensions."]
+  materiaux: ["Pour les murs extérieurs en pierre, aucun matériau d'imitation n'est acceptable. … Pour la toiture, la tôle traditionnelle (à baguettes, à la canadienne ou pincée) et le bardeau de cèdre sont à privilégier."]
+  ornementation: ["L'ornementation est plutôt dépouillée. Bien souvent, le seul élément décoratif présent est un chambranle en bois autour des ouvertures."]
+conservation:
+  - No imitation stone; do not paint masonry; replace roughcast or wood with identical material; industrial materials (aluminium, vinyl, wood composite, fibre cement) proscribed.
+  - Asphalt shingle, industrial-looking sheet metal and synthetics proscribed on the roof.
+  - Do not remove or narrow the gallery; railings in painted wood of traditional make, not metal or prefab-look treated wood.
+  - Steel or PVC doors unsuitable; avoid guillotine, sliding, single-leaf crank, undivided, aluminium or PVC windows (a wood crank window imitating the large-pane casement is acceptable); do not add dormers to a roof that has none.
+  - Do not raise foundations or change roof pitch; enlarge at the side or rear, reduced in volume, same roof form, set back from the front; never in front or flush with the main façade.
+  - Do not overload with decorative elements.
+blurb_en: >-
+  The oldest houses in town: low stone farmhouses under a steep gable, later "quebecised" with a
+  flared eave, more windows, a symmetrical front and a gallery. Almost nothing decorates them beyond
+  a painted wooden surround, and the fiche wants it kept that way.
+origin_en: >-
+  The French-regime rural house of the seigneurie of La Prairie de la Magdeleine (the riverside strip
+  known as Mouillepied), and its 19th-century synthesis with English neoclassicism, the maison
+  traditionnelle québécoise, which "domine le paysage bâti … de 1830 à 1880 environ". Houses built
+  under the French regime were often altered later to take on the Québécois traits.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/traditional-french-quebec-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 1", kind: single}
+- {file: assets/places/saint-lambert/traditional-french-quebec-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 1", kind: single}

@@ -82,3 +82,29 @@
   name_en: Postwar small apartment building, 2–4 dwellings off an interior stair, duplex-scale volume
   definition_en: Postwar apartment building at duplex scale holding two to four dwellings reached from one interior stair.
   members: []
+
+# ---- Part 3 additions (Saint-Lambert) ----
+- id: quebec-traditional-1-5st-gable
+  name_en: One-and-a-half-storey rectangular house, steep two-slope roof (straight or bell-cast), full-width gallery under the eaves, stone or wood
+  definition_en: Rectangular 1.5-storey house under a steep two-slope roof, straight or bell-cast, with a full-width gallery sheltered by the eave; stone, roughcast or wood.
+  members: []
+- id: mansard-house-2st
+  name_en: Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under its own awning
+  definition_en: Two-storey house under a two- or four-slope mansard (broken) roof, dormers piercing the brisis, wood gallery under an awning independent of the main roof.
+  members: []
+- id: queen-anne-irregular-2-5st
+  name_en: 2½-storey house of irregular plan, medium-pitched roofs, towers/turrets/oriels/gables, asymmetrical
+  definition_en: House of rectangular or irregular plan, 2½ storeys, medium-pitched roofs, asymmetrical façade articulated by towers, turrets, gables, oriels and galleries.
+  members: []
+- id: flat-roof-house-false-mansard-2st
+  name_en: Two-storey house, flat or rear-sloping roof, false-mansard crown with pendant dormers, front gallery
+  definition_en: Two-storey house with flat or rear-sloping roof crowned by a false mansard with pendant dormers; front gallery under its own awning.
+  members: []
+- id: foursquare-hipped-2st
+  name_en: Two-storey square or rectangular block under a pyramidal or hipped roof, brick, gallery or porch
+  definition_en: Square or rectangular two-storey block under a pyramidal or hipped roof, usually brick, with a gallery or porch under an awning.
+  members: []
+- id: modest-tudor-cottage-brick-2st
+  name_en: Two-storey detached brick cottage, several gables, gabled entrance porch, false half-timbering, diamond-leaded casements
+  definition_en: Two-storey detached brick cottage with several gables, a gabled entrance porch, false half-timbering and diamond-leaded casements.
+  members: []

@@ -1,0 +1,60 @@
+id: saint-lambert.arts-and-crafts
+place: saint-lambert
+phase: p3
+name_en: House of Arts and Crafts influence
+name_fr: La maison d'influence Arts and Crafts
+source_ref: "Répertoire des courants architecturaux, fiche 7"
+canonical: [detached-cottage-steep-gable]
+styles: [arts-and-crafts, craftsman]
+tenure_plan: single-family
+storeys: "1.5"
+roof: {form: gabled-multi, pitch_deg: null}
+window_proportion: null
+principal_cladding: [wood-shingle, roughcast, clay-brick, wood-clapboard]
+profile:
+  siting_landscape:
+    - Found here and there in Saint-Lambert, built in the first half of the 20th century; American models carry the picturesque movement locally.
+  massing:
+    - One-and-a-half-storey body with an articulated plan (projections and forebodies) and pitched roofs of varied shapes and unequal slope lengths.
+    - Several covered projections, galleries, balconies, porches, verandas, on all façades; gables, turrets, oriels and bays frequent; a generously sized gallery.
+  articulation:
+    - "Sober ornament: chambranles and corner boards on wood-clad houses; traditional structural members (half-timbering, rafters) used as ornament; galleries with worked posts and brackets."
+  openings:
+    - Wood doors with glazing, with or without transom.
+    - Wood casements or guillotine windows, with or without muntins, varied in shape and size.
+    - Dormers of varied models.
+  materials:
+    - Brick, roughcast, cedar shingle or wood clapboard.
+    - "Roof: traditional sheet metal preferred; cedar shingle, tile and asphalt shingle acceptable."
+profile_fr:
+  volumes: ["Corps de bâtiment d'un étage et demi au plan articulé (excroissances et avancées) avec toit en pente de formes variées et aux versants de longueurs inégales."]
+  saillies: ["La maison Arts and Crafts possède généralement plusieurs saillies couvertes – galeries, balcons, porches et vérandas – sur l'ensemble de ses façades. Des pignons, des tourelles, des oriels et des baies en saillie sont également fréquents."]
+  ouvertures: ["Portes en bois avec vitrage, avec ou sans imposte.", "Fenêtres à battants en bois ou fenêtres à guillotine avec ou sans carreaux, de formes et de dimensions variées.", "Lucarnes de modèles variés."]
+  materiaux: ["Les murs extérieurs des maisons d'influence Arts and Crafts peuvent être en brique, en crépi, en bardeau de cèdre ou en clin de bois. … Pour le toit, la tôle traditionnelle … est à privilégier, mais le bardeau de cèdre, la tuile et le bardeau d'asphalte sont acceptables."]
+  ornementation: ["La maison d'influence Arts and Crafts possède habituellement une ornementation sobre. … certains éléments de charpente traditionnels, comme des colombages ou des chevrons, servent d'ornements. Les galeries sont souvent parées de boiseries décoratives avec des poteaux ouvragés et des aisseliers."]
+conservation:
+  - Natural materials only; no imitation; industrial claddings and plastic proscribed.
+  - Wood projections maintained and repainted; ornament kept or reproduced; do not overload, "la sobriété reste de mise".
+  - Steel/PVC doors unsuitable unless perfect imitations; avoid sliding, crank, undivided, aluminium or PVC windows.
+  - Do not raise foundations or change pitches; side/rear reduced-volume additions only.
+blurb_en: >-
+  Low, broad and shingled or roughcast, with a roof that breaks into different slopes and a porch big
+  enough to live on. Ornament is the structure itself: exposed rafters, a bit of half-timbering,
+  brackets under the porch roof. Scattered rather than clustered in Saint-Lambert.
+origin_en: >-
+  Arts and Crafts (Morris, Ruskin) reached the United States and merged with Shingle Style and
+  Craftsman, spread by mail-order plan catalogues; in Montréal it produced a return of English house
+  types and of New France forms, but "à Saint-Lambert, ce sont les modèles américains qui perpétuent
+  le mouvement pittoresque". Cousin of Mount Royal's Garden City house, hence the shared canonical type.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/arts-and-crafts-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 7", kind: single}
+- {file: assets/places/saint-lambert/arts-and-crafts-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 7", kind: single}

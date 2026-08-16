@@ -1,0 +1,59 @@
+id: saint-lambert.cubique
+place: saint-lambert
+phase: p3
+name_en: Cubic (Four Square) house
+name_fr: La maison cubique
+source_ref: "Répertoire des courants architecturaux, fiche 6"
+canonical: [foursquare-hipped-2st]
+styles: [foursquare]
+tenure_plan: single-family        # also jumelée
+storeys: "2"
+roof: {form: hipped-or-pyramidal, pitch_deg: null}
+window_proportion: vertical
+principal_cladding: [clay-brick]
+profile:
+  siting_landscape:
+    - Appeared in the United States at the end of the 19th century and took hold in Québec in the first decades of the 20th; numerous in Saint-Lambert; variants from wealthy families' residences to semi-detached pairs for the middle class.
+  massing:
+    - Square or rectangular body of two storeys, slightly raised; pyramidal four-slope (pavilion) or hipped roof; detached or semi-detached.
+    - "Projections may be added: forebodies, oriels, entrance vestibules; wood gallery or porch under an awning; oriels, verandas and gables in their traditional material."
+  articulation:
+    - "Ornament rather sober: decorative woodwork on gallery or porch, brick patterns, exposed rafter ends (chevrons) at the base of the roof."
+  openings:
+    - Wood doors with glazing, with or without transom.
+    - Wood casements or guillotine windows, with or without muntins, per the original.
+    - Hipped or shed (rampantes) dormers.
+  materials:
+    - Almost always brick.
+    - "Roof: traditional sheet metal preferred; asphalt shingle acceptable if original."
+profile_fr:
+  volumes: ["Corps de logis de plan carré ou rectangulaire de deux étages, légèrement exhaussé du sol avec toit pyramidal à quatre versants (toiture en pavillon) ou à croupes. La maison peut être isolée ou jumelée."]
+  saillies: ["Une galerie ou un porche, protégés par un auvent, sont construits en bois. … Les oriels et les vérandas ainsi que les pignons doivent conserver leur matériau traditionnel."]
+  ouvertures: ["Portes en bois avec vitrage, avec ou sans imposte.", "Fenêtres à battants en bois ou fenêtres à guillotine avec ou sans carreaux selon le modèle utilisé à l'origine.", "Lucarnes à croupe ou rampantes."]
+  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable … Pour le toit, la tôle traditionnelle (à baguettes, pincée ou à la canadienne) est à privilégier. Le bardeau d'asphalte est acceptable s'il s'agit du matériau d'origine."]
+  ornementation: ["Les ornements sont plutôt sobres. Des boiseries décoratives ornent la galerie ou le porche, des jeux de briques forment des motifs et des chevrons sont apparents à la base du toit."]
+conservation:
+  - No imitation brick; do not paint masonry; keep brick and mortar sound; industrial claddings proscribed; on the roof, plastic and other synthetics proscribed.
+  - Railings in painted wood or wrought iron of traditional make.
+  - Steel/PVC doors unsuitable unless perfect imitations; avoid sliding, crank, undivided, aluminium or PVC windows.
+  - Do not raise foundations or change pitches; side/rear reduced-volume additions only.
+blurb_en: >-
+  The Four Square: a big brick cube under a pyramid roof, roomy enough for large families, cheap
+  enough because its parts came by catalogue. Sober by nature; the porch woodwork, a brick pattern
+  and the exposed rafter tails are its ornaments.
+origin_en: >-
+  Product of standardised materials and prefabricated components orderable by catalogue, hence
+  "abordable et facile à construire", popular in village, town and country alike in the first
+  decades of the 20th century.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/cubique-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 6", kind: single}
+- {file: assets/places/saint-lambert/cubique-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 6", kind: single}

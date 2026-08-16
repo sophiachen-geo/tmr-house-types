@@ -1,0 +1,62 @@
+id: saint-lambert.boomtown-false-mansard
+place: saint-lambert
+phase: p3
+name_en: Boomtown house with false mansard
+name_fr: La maison Boomtown à fausse mansarde
+source_ref: "Répertoire des courants architecturaux, fiche 4"
+canonical: [flat-roof-house-false-mansard-2st, brick-box-flat-or-hipped-2st]
+styles: [boomtown, second-empire]
+tenure_plan: single-family        # also jumelée
+storeys: "2"
+roof: {form: false-mansard, pitch_deg: 0}
+window_proportion: vertical
+principal_cladding: [clay-brick, roughcast, wood]
+profile:
+  siting_landscape:
+    - A Montréal model that enjoyed real popularity in Saint-Lambert on detached and semi-detached houses; fades from the 1910s in favour of plainer buildings.
+  massing:
+    - Rectangular body of two storeys, moderately raised; flat or gently rear-sloping roof with a false mansard as crown; detached or semi-detached.
+    - Wood gallery under an awning independent of the main roof; verandas and oriels also in wood.
+  articulation:
+    - "Second Empire décor confined to the crown, with elaborate woodwork: pendant dormers half in the wall and half in the false mansard, ornamented like the cornice and the gallery."
+    - Decorative woodwork on the gallery (worked piers, railings, brackets) and on the dormers; a cornice usually marks the base of the false mansard; chambranles and corner boards on wood-clad houses; uniformity between the two units of a semi-detached pair.
+  openings:
+    - Traditional wood doors with glazing.
+    - Two-leaf wood casements with six large panes, or guillotine windows.
+    - Pendant gabled dormers piercing the false mansard, often elaborately ornamented.
+  materials:
+    - Brick, roughcast or wood walls.
+    - False mansard in traditional sheet metal (à baguettes, pincée, en plaques) or slate.
+profile_fr:
+  volumes: ["Corps de bâtiment rectangulaire de deux étages, moyennement exhaussé du sol, à toit plat ou à faible pente vers l'arrière avec fausse mansarde. La maison peut être isolée ou jumelée."]
+  saillies: ["Une galerie en bois est protégée par une toiture indépendante (auvent) du toit principal. … Les vérandas et les oriels (bow-windows) doivent aussi être en bois."]
+  ouvertures: ["Portes en bois traditionnelles avec vitrage.", "Fenêtres à deux battants en bois munies de six grands carreaux ou fenêtres à guillotine selon le modèle utilisé à l'origine.", "Lucarnes pendantes à pignon qui percent la fausse mansarde. … L'ornementation des lucarnes est souvent élaborée."]
+  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable. … Pour la fausse mansarde, la tôle traditionnelle (à baguettes, pincée ou en plaques) et l'ardoise sont à privilégier."]
+  ornementation: ["Des boiseries décoratives ornent la galerie (piliers ouvragés, garde-corps et aisseliers) et les lucarnes. Une corniche décore habituellement le bas de la fausse mansarde. … Pour les maisons jumelées, s'assurer d'une uniformité entre les deux unités."]
+conservation:
+  - No imitation brick; do not paint masonry; identical replacement for roughcast/wood; industrial claddings proscribed; asphalt shingle, industrial metal and synthetics proscribed on the false mansard.
+  - Do not remove or resize the gallery; painted wood railings of traditional make; verandas and oriels in wood.
+  - Steel/PVC doors unsuitable; avoid sliding, crank, undivided, aluminium or PVC windows.
+  - Do not raise foundations or alter the false mansard's dimensions; side/rear reduced-volume additions only.
+blurb_en: >-
+  A flat-roofed brick house wearing a mansard as a hat. Montréal builders bolted the steep lower slope
+  of a Second Empire roof onto the front of a cheap Boomtown box, hung dormers half in the wall and
+  half in the slope, and dressed the lot in turned wood. It sits at the head of the Boomtown family
+  and links Saint-Lambert to Mount Royal's "maison faubourienne".
+origin_en: >-
+  "Un amalgame intéressant entre la construction à toit plat avec couronnement et l'habitation à
+  mansarde d'influence Second Empire": from the late 19th century Montréal contractors combined the
+  modernity and low cost of the flat-roofed Boomtown house with the elegance of the mansard, plating
+  the brisis onto the façade as a crown. Like the true mansard house it ran out of steam from the 1910s.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/boomtown-false-mansard-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 4", kind: single}
+- {file: assets/places/saint-lambert/boomtown-false-mansard-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 4", kind: single}

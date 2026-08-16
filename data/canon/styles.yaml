@@ -26,3 +26,5 @@
 # ---- Part 2a additions ----
 - {id: victorian-eclectic, name_en: Victorian eclecticism, span: [1870, 1910]}
 - {id: beaux-arts, name_en: Beaux-Arts, span: [1900, 1935]}
+# ---- Part 3 additions ----
+- {id: craftsman, name_en: Craftsman / Shingle Style, span: [1900, 1930]}

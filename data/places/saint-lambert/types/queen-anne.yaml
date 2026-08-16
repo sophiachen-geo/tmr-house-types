@@ -1,0 +1,60 @@
+id: saint-lambert.queen-anne
+place: saint-lambert
+phase: p3
+name_en: Queen Anne style house
+name_fr: La maison de style Queen Anne
+source_ref: "Répertoire des courants architecturaux, fiche 3"
+canonical: [queen-anne-irregular-2-5st]
+styles: [queen-anne]
+tenure_plan: single-family        # also jumelée
+storeys: "2.5"
+roof: {form: gabled-or-hipped, pitch_deg: null}   # "pente moyenne"
+window_proportion: vertical
+principal_cladding: [clay-brick, wood-clapboard, wood-shingle]
+profile:
+  siting_landscape:
+    - A strong presence in Saint-Lambert; the influence begins in the 1890s and persists to the early 1930s. Few perfect examples, many houses, detached or semi-detached, borrowing its elements.
+  massing:
+    - Rectangular or irregular plan of two and a half storeys, moderately raised; two- or four-slope roof of medium pitch; detached or semi-detached.
+    - "Asymmetrical façade articulated by numerous projections: towers, turrets, gables, oriels, bays, galleries, verandas, porches; wood gallery and porch under an awning."
+  articulation:
+    - "Elaborate ornament drawing on the classical and picturesque repertoires: classical columns or piers, pediments and worked railings on the gallery; gables and turrets on the roof; cornices underlining the eaves; wood shingle cladding sometimes in decorative patterns."
+  openings:
+    - Traditional wood doors with glazing.
+    - Wood casements, sometimes with transom, or guillotine windows.
+    - Dormers of various models.
+  materials:
+    - Brick, or wood (clapboard or shingle).
+    - "Roof: traditional sheet metal or slate; industrial metal acceptable only if screws are hidden and it recalls traditional metal."
+profile_fr:
+  volumes: ["Corps de bâtiment rectangulaire ou de plan irrégulier de deux étages et demi, moyennement exhaussé du sol, avec toit à deux ou à quatre versants à pente moyenne. La maison peut être isolée ou jumelée."]
+  saillies: ["La façade présente une composition asymétrique et est articulée par de nombreuses saillies (tours, tourelles, pignons, oriels, baies en saillie, galeries, vérandas, porches). La galerie et le porche, protégés par un auvent, sont construits en bois."]
+  ouvertures: ["Portes en bois traditionnelles avec vitrage.", "Fenêtres à battants en bois, parfois avec imposte, ou fenêtres à guillotine selon le modèle utilisé à l'origine.", "Lucarnes de différents modèles."]
+  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable. … Pour les murs en bois (planche à clins ou bardeau), favoriser le remplacement par un matériau identique. … Pour le toit, la tôle traditionnelle (à baguettes, pincée ou à la canadienne) et l'ardoise sont à privilégier."]
+  ornementation: ["Les ornements sont élaborés et puisent dans les répertoires classique et pittoresque. Des boiseries décoratives (colonnes ou piliers classiques, frontons et garde-corps ouvragés) agrémentent la galerie, alors que des pignons et des tourelles ornent la toiture. Des corniches soulignent les débords de toit. Les revêtements en bardeau de bois présentent parfois des motifs décoratifs."]
+conservation:
+  - No imitation brick; do not paint masonry; identical replacement for wood cladding; industrial claddings proscribed; asphalt shingle and synthetics proscribed on the roof.
+  - Railings in painted wood or wrought iron of traditional make; oriels, gables and bays maintained with care.
+  - Steel/PVC doors unsuitable; avoid sliding, crank, undivided, aluminium or PVC windows.
+  - Do not raise foundations or change pitches; side/rear reduced-volume additions only.
+blurb_en: >-
+  The town's signature Victorian: turrets, gables, oriels, a columned gallery, patterned shingles,
+  everything asymmetrical and everything ornamented. Rarely textbook-pure in Saint-Lambert, but its
+  vocabulary is everywhere on the streets laid out after 1889.
+origin_en: >-
+  One of the late-Victorian eclectic currents (with neo-Gothic, neo-Romanesque, neo-Tudor,
+  neo-Renaissance), named after Queen Anne Stuart's reign (1665–1714) and characterised by
+  "effets ornementaux d'inspiration pittoresque et classique". Its Saint-Lambert examples (Maison
+  Desaulniers 1909, Maison O'Neill 1913) belong to the Anglo-Protestant streetcar-suburb build-out.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/queen-anne-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 3", kind: single}
+- {file: assets/places/saint-lambert/queen-anne-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 3", kind: single}

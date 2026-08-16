@@ -1,0 +1,62 @@
+id: saint-lambert.king-cottage
+place: saint-lambert
+phase: p4
+name_en: The "King Cottage"
+name_fr: Le « King Cottage »
+source_ref: "Répertoire des courants architecturaux, fiche 8; Étude spécifique sur les maisons de Francis King (Sept. 2019)"
+canonical: [modest-tudor-cottage-brick-2st]
+styles: [tudor-revival, minimal-traditional]
+tenure_plan: single-family
+storeys: "2"
+roof: {form: gabled-or-hipped, pitch_deg: null}
+window_proportion: vertical
+principal_cladding: [clay-brick]
+roofing: asphalt-shingle-dark
+profile:
+  siting_landscape:
+    - Very frequent in the Saint-Lambert landscape; built by contractor Francis King between 1932 and 1951 (70 to 100 houses), concentrated in the sectors suited to the middle and upper-middle class (Brooklyn Park and around); the oldest sector south of Victoria has one, his own at 44 rue Argyle.
+  massing:
+    - Square or rectangular body of two storeys, slightly raised; two-slope or hipped roof; generally detached.
+    - Several gables; a portal, porch or portico topped by a gable marks the main entrance.
+  articulation:
+    - "Rather sober: decorative woodwork on the portal or porch, false half-timbering in the gables, brick patterns; pale colours for accent materials."
+  openings:
+    - Wood doors with or without glazing.
+    - Wood casements with diamond leading (résilles en losange).
+    - Gabled dormers often half engaged in roof and wall (pendant dormers).
+  materials:
+    - Brick.
+    - "Roof: dark asphalt shingle, the original material."
+profile_fr:
+  volumes: ["Corps de logis de plan carré ou rectangulaire de deux étages, légèrement exhaussé du sol avec toit à deux ou à quatre versants (toiture à croupes). La maison est généralement isolée."]
+  saillies: ["Un portail, un porche ou un portique surmonté d'un pignon marque habituellement l'entrée principale en façade. … Les couleurs pâles pour les matériaux d'accent sont à privilégier."]
+  ouvertures: ["Portes en bois avec ou sans vitrage.", "Fenêtres à battants en bois dotées de résilles en losange.", "Lucarnes à pignon souvent à demi engagées dans le toit et le mur, dites lucarnes pendantes."]
+  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable … Pour le toit, le bardeau d'asphalte de couleur foncée est à privilégier, car il s'agit du matériau d'origine."]
+  ornementation: ["Les ornements sont plutôt sobres. Des boiseries décoratives ornent le portail ou le porche, de faux colombages décorent les pignons et des jeux de briques forment des motifs."]
+conservation:
+  - No imitation brick; do not paint masonry; keep brick and mortar sound; industrial claddings proscribed.
+  - Projections and gables keep their traditional material.
+  - Steel/PVC doors unsuitable unless perfect imitations of the original; avoid sliding, crank, undivided, aluminium or PVC windows.
+  - Do not raise foundations or change pitches; enlarge or add a garage at the side or rear, reduced in volume, same roof form, set back; never in front.
+blurb_en: >-
+  Saint-Lambert's own house: a two-storey brick cottage with several gables, a gabled porch, a little
+  false half-timbering, diamond-leaded casements and dormers half sunk into the eave, built by the
+  hundred by one contractor between the Depression and 1951, and named for him only in the 1980s.
+origin_en: >-
+  Francis King (1884–1970), a carpenter of Polish origin who came to Montréal in 1906, settled in
+  Saint-Lambert about 1931 and became one of its main builders. Between 1932 and 1951 he put up 70 to
+  100 houses of various styles chosen from the catalogues then in circulation, from neo-Tudor to
+  postwar bungalows; the brick model "dérivant des cottages anglais" that stands out is what the town
+  now calls the King Cottage. The 2019 study identifies five families of King houses (two-slope roof
+  with Tudor porch; Tudor gable to the street; two-slope classical; hipped classical; bungalow).
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/king-cottage-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 8", kind: single}
+- {file: assets/places/saint-lambert/king-cottage-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 8", kind: single}

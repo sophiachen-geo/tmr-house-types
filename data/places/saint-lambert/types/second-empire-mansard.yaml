@@ -1,0 +1,59 @@
+id: saint-lambert.second-empire-mansard
+place: saint-lambert
+phase: p3
+name_en: Mansard-roofed house of Second Empire influence
+name_fr: La maison à mansarde d'influence Second Empire
+source_ref: "Répertoire des courants architecturaux, fiche 2"
+canonical: [mansard-house-2st]
+styles: [second-empire]
+tenure_plan: single-family        # also jumelée
+storeys: "2"
+roof: {form: mansard, pitch_deg: null}
+window_proportion: vertical
+principal_cladding: [clay-brick, roughcast, wood]
+profile:
+  siting_landscape:
+    - Well represented in Saint-Lambert over a long period, about 1875 to 1925; variants with two- or four-slope mansards, semi-detached pairs, and from the early 20th century a gable-to-street model; some dressed up as bourgeois houses with turrets and gables.
+  massing:
+    - Rectangular body of two storeys, moderately raised above the ground; mansard (broken) roof with two or four slopes; the gable wall may face the street.
+    - Wood gallery sheltered by an awning independent of the main roof; a brick chimney generally on the roof.
+  articulation:
+    - Decorative woodwork on the gallery, the dormers and the roof edges; on wood- or light-clad houses, chambranles around openings and corner boards.
+  openings:
+    - Traditional wood doors with glazing.
+    - Two-leaf wood casements with six large panes, or guillotine windows.
+    - Dormers of various shapes piercing the steep lower slope (brisis).
+  materials:
+    - Brick, roughcast or wood walls.
+    - "Roof: traditional sheet metal (à baguettes, pincée, à la canadienne) or slate; galvanised traditional metal can be repaired and repainted."
+profile_fr:
+  volumes: ["Corps de bâtiment rectangulaire de deux étages, moyennement exhaussé du sol. Toit mansardé (ou brisé) à deux ou à quatre versants. Le mur pignon peut être orienté vers la rue."]
+  saillies: ["Une galerie en bois est protégée par une toiture indépendante (auvent) du toit principal. … Une cheminée en brique est généralement présente sur le toit."]
+  ouvertures: ["Portes en bois traditionnelles avec vitrage.", "Fenêtres à deux battants en bois munies de six grands carreaux ou fenêtres à guillotine.", "Lucarnes de différentes formes qui percent la partie basse et abrupte de la toiture (brisis)."]
+  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable. … Pour la toiture, la tôle traditionnelle (à baguettes, pincée ou à la canadienne) et l'ardoise sont à privilégier."]
+  ornementation: ["Des boiseries décoratives ornent la galerie, les lucarnes et les rives de la toiture. Pour les résidences revêtues de bois ou d'un matériau léger, on retrouve couramment des planches de finition, appelées chambranles, autour des ouvertures ainsi que des planches cornières aux angles des murs."]
+conservation:
+  - No imitation brick; do not paint masonry; identical replacement for roughcast/wood; industrial claddings proscribed; asphalt shingle, industrial-look metal and synthetics proscribed on the roof.
+  - Do not remove or resize the gallery; painted wood railings of traditional make.
+  - Steel/PVC doors unsuitable; avoid sliding, single-leaf crank, undivided, aluminium or PVC windows.
+  - Do not raise foundations or change roof pitch; side/rear reduced-volume additions only.
+blurb_en: >-
+  Two storeys under a mansard: the steep lower slope carries the dormers, the gallery has its own
+  little roof, and the woodwork on dormers and eaves is where the money went. Sometimes the gable
+  turns to face the street; sometimes a turret makes it bourgeois.
+origin_en: >-
+  Second Empire (Napoléon III, 1852–70) reached North America through the United States around 1870,
+  first on public buildings, then on prosperous houses, then on modest ones for which "son influence
+  se limite au toit mansardé", a roof whose broken slopes give more room upstairs for large families.
+# common fields per Part 3 brief §2.3
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/second-empire-mansard-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 2", kind: single}
+- {file: assets/places/saint-lambert/second-empire-mansard-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 2", kind: single}

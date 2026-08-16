@@ -32,9 +32,11 @@ SECTIONS = {  # key -> (letter, display name, colour key)
 ENUM = {
     "tenure_plan": {"single-family", "semi-detached", "row", "duplex", "triplex", "walk-up", "slab", "mixed"},
     "roof.form": {"flat", "gabled", "gabled-multi", "hipped", "mansard", "false-mansard", "bellcast", "pyramidal", "shed",
-                  "flat-or-false-mansard"},  # Part 2a: Plateau duplex-setback; recorded in methods
+                  "flat-or-false-mansard",  # Part 2a: Plateau duplex-setback
+                  "gabled-or-hipped", "hipped-or-pyramidal", "flat-or-low-slope"},  # Part 3: Saint-Lambert fiches; recorded in methods
     "window_proportion": {"vertical-2to1", "vertical", "square", "horizontal", "horizontal-2to1", "horizontal-2.5to1", None},
-    "garage": {"none", "detached", "detached-or-set-back", "attached-set-back", "integrated-facade", "underground", None},
+    "garage": {"none", "detached", "detached-or-set-back", "attached-set-back", "integrated-facade", "underground",
+               "integrated-or-carport", None},  # integrated-or-carport: Part 3
     "photo.kind": {"strip", "single", "placeholder"},
 }
 TRAIT_LABELS = [
@@ -47,11 +49,11 @@ TRAIT_LABELS = [
 # profile_fr keys (verbatim source French) aligned to the English profile rows;
 # sous_variantes has no English counterpart and renders as its own row.
 FR_KEYS = {
-    "siting_landscape": "implantation",
-    "massing": "volumetrie",
-    "articulation": "traitement_des_facades",
-    "openings": "ouvertures",
-    "materials": "materiaux",
+    "siting_landscape": ["implantation"],
+    "massing": ["volumetrie", "volumes", "saillies"],
+    "articulation": ["traitement_des_facades", "ornementation"],
+    "openings": ["ouvertures"],
+    "materials": ["materiaux"],
 }
 NUM_WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
 
@@ -225,6 +227,11 @@ for pdir in sorted((DATA / "places").iterdir()):
         pfr = t.get("profile_fr")
         if pfr is not None and not isinstance(pfr, dict):
             fail(f"{tctx}: profile_fr must be a mapping of lists")
+        for ck in ("conservation", "conservation_fr"):
+            if t.get(ck) is not None and not isinstance(t[ck], list):
+                fail(f"{tctx}: {ck} must be a list")
+        t.setdefault("conservation", None)
+        t.setdefault("conservation_fr", None)
         # derived display fields
         t["slug"] = slug
         t["place_name"] = pl["name_en"]
@@ -237,28 +244,32 @@ for pdir in sorted((DATA / "places").iterdir()):
         # ordering within the source document: by-law article, fiche x.y, or family n
         if t["art_no"] is not None:
             t["src_order"] = float(t["art_no"])
-        elif (mf := re.search(r"fiche\s+(\d+)\.(\d+)", t["source_ref"])):
-            t["src_order"] = int(mf.group(1)) + int(mf.group(2)) / 100
+        elif (mf := re.search(r"fiche\s+(\d+)(?:\.(\d+))?", t["source_ref"])):
+            t["src_order"] = int(mf.group(1)) + int(mf.group(2) or 0) / 100
         elif (mg := re.search(r"family\s+(\d+)", t["source_ref"])):
             t["src_order"] = float(mg.group(1))
         else:
             t["src_order"] = None
         t["profile_rows"] = [{"label": label, "bullets": t["profile"][key],
-                              "fr": (pfr or {}).get(FR_KEYS[key], [])} for key, label in TRAIT_LABELS]
+                              "fr": [v for fk in FR_KEYS[key] for v in (pfr or {}).get(fk, [])]}
+                             for key, label in TRAIT_LABELS]
         if pfr and pfr.get("sous_variantes"):
             t["profile_rows"].append({"label": "Sous-variantes", "bullets": [], "fr": pfr["sous_variantes"]})
         t["canonical_objs"] = [CANON[c] for c in t["canonical"]]
         t["style_objs"] = [STYLE[s] for s in t["styles"]]
         t.setdefault("style_label", " / ".join(s["name_en"] for s in t["style_objs"]))
         t.setdefault("aliases", [])
-        ph0 = t["photos"][0]
-        if ph0["kind"] != "placeholder":
-            w, h = jpeg_size(ROOT / ph0["file"])
-        else:
-            w, h = None, None
-        n_photos = "Three photographs" if ph0["kind"] == "strip" else "Photograph"
-        t["photo"] = dict(ph0, w=w, h=h,
-                          alt=f"{n_photos} of {t['name_en']} houses in {pl['name_en']}, from {t['doc_short']}")
+        enriched = []
+        for p in t["photos"]:
+            if p["kind"] != "placeholder":
+                w, h = jpeg_size(ROOT / p["file"])
+            else:
+                w, h = None, None
+            n_photos = "Three photographs" if p["kind"] == "strip" else "Photograph"
+            enriched.append(dict(p, w=w, h=h,
+                alt=f"{n_photos} of {t['name_en']} houses in {pl['name_en']}, from {t['doc_short']}"))
+        t["photos"] = enriched
+        t["photo"] = enriched[0]
         types.append(t)
 
     # order types the way the source document orders them
@@ -448,6 +459,7 @@ for t in all_types:
         "lot_width_m": t["lot_width_m"], "setback_front_m": t["setback_front_m"],
         "setback_side_m": t["setback_side_m"], "front_yard_green_pct": t["front_yard_green_pct"],
         "profile": t["profile"], "profile_fr": t.get("profile_fr"), "profile_note": t["profile_note"],
+        "conservation": t["conservation"], "conservation_fr": t["conservation_fr"],
         "source_generation": t["source_generation"],
         "blurb_en": t["blurb_en"], "origin_en": t["origin_en"],
         "photo": t["photo"], "url": f"types/{t['id']}/",
@@ -462,7 +474,7 @@ cw.writerow(["id", "place", "place_name", "phase", "phase_years", "phase_title",
              "roof_pitch_deg", "window_proportion", "principal_cladding", "roofing", "garage",
              "lot_width_min_m", "lot_width_max_m", "setback_front_m", "setback_side_m",
              "front_yard_green_pct", "siting_landscape", "massing", "articulation", "openings",
-             "materials", "blurb_en", "origin_en", "photo_file", "photo_credit"])
+             "materials", "conservation", "blurb_en", "origin_en", "photo_file", "photo_credit"])
 for t in all_types:
     cw.writerow([
         t["id"], t["place"], t["place_name"], t["phase"], t["phase_obj"]["years"],
@@ -475,7 +487,8 @@ for t in all_types:
         t["setback_front_m"], t["setback_side_m"], t["front_yard_green_pct"],
         " | ".join(t["profile"]["siting_landscape"]), " | ".join(t["profile"]["massing"]),
         " | ".join(t["profile"]["articulation"]), " | ".join(t["profile"]["openings"]),
-        " | ".join(t["profile"]["materials"]), t["blurb_en"], t["origin_en"],
+        " | ".join(t["profile"]["materials"]), " | ".join(t["conservation"] or []),
+        t["blurb_en"], t["origin_en"],
         t["photo"]["file"], t["photo"]["credit"],
     ])
 (DOCS / "data.csv").write_text(csv_buf.getvalue(), encoding="utf-8")

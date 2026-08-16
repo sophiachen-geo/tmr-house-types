@@ -8,8 +8,8 @@
 </div></header>
 <main><div class="wrap"><div class="typebody">
   <h2>{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></h2>
-  {% if t.photo.file %}<img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}">
-  <p class="figcredit">{{ t.photo.credit|esc }}</p>{% else %}<div class="ph-pending" style="margin:16px 0">Photograph pending<span>{{ t.photo.credit|esc }}</span></div>{% endif %}
+  {% for p in t.photos %}{% if p.file %}<img src="{{ R }}{{ p.file }}" width="{{ p.w }}" height="{{ p.h }}" alt="{{ p.alt|esc }}"{% if not loop.first %} loading="lazy"{% endif %}>
+  <p class="figcredit">{{ p.credit|esc }}</p>{% else %}<div class="ph-pending" style="margin:16px 0">Photograph pending<span>{{ p.credit|esc }}</span></div>{% endif %}{% endfor %}
   <p class="blurb">{{ t.blurb_en|esc }}</p>
   <div class="origin" style="margin-top:16px"><span class="olabel">Where it comes from</span><p>{{ t.origin_en }}</p></div>
 
@@ -31,6 +31,7 @@
   <h2 style="margin-top:34px;font-size:24px">What {{ t.doc_short|esc }} says about this type</h2>
   <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}{% for v in row.fr %}<li class="frv" lang="fr">{{ v|esc }}</li>{% endfor %}{% if not row.bullets and not row.fr %}<li class="null">–</li>{% endif %}</ul></div>{% endfor %}</div>
   {% if t.profile_note %}<p class="pnote">{{ t.profile_note|esc }}</p>{% endif %}
+  {% if t.conservation %}<div class="conserve" style="margin-top:20px"><span class="olabel">Conservation guidance (fiche)</span><ul class="tv">{% for c in t.conservation %}<li>{{ c|esc }}</li>{% endfor %}{% for c in t.conservation_fr or [] %}<li class="frv" lang="fr">{{ c|esc }}</li>{% endfor %}</ul></div>{% endif %}
 
   <div class="xlinks">
     {% for group in t.xlinks %}

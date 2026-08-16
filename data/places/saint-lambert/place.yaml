@@ -1,0 +1,36 @@
+id: saint-lambert
+name_en: Saint-Lambert
+name_fr: Ville de Saint-Lambert
+sections: [planned]           # railway/streetcar garden suburb; tag also historic-core? no — its pre-1857 stock is a handful of farmhouses
+region: Montérégie (agglomération de Longueuil)
+founded: 1857                 # municipality 1857; village 1892; town 1898; city (cité) 1921
+settlement_mode: railway and streetcar commuter suburb (Victoria Bridge 1859; interurban 1909)
+governing_instruments:
+  - kind: PIIA
+    title: Règlement sur les plans d'implantation et d'intégration architecturale 2023-220 (with Guide de couleurs, matériaux et modèles d'ouvertures autorisés, Annexe 4, avril 2023)
+    year: 2023
+    url: https://www.saint-lambert.ca/files/upload/2023-04-11_annexe_4zonage_guide_preautorisation.pdf
+  - kind: demolition-bylaw
+    title: Règlement relatif à la démolition d'immeubles 2023-212
+    year: 2023
+    url: null
+  - kind: inventory
+    title: Inventaire du patrimoine bâti de la Ville de Saint-Lambert (Patri-Arch, 2018–2019; released 15 Dec 2020); 250 building portraits filed in the Répertoire du patrimoine culturel du Québec (inventaire id 1854)
+    year: 2020
+    url: https://www.patrimoine-culturel.gouv.qc.ca/detailInventaire.do?methode=consulter&id=1854&type=inv
+typology_document:
+  title: Répertoire des courants architecturaux de Saint-Lambert, fiches 1–10 (Patri-Arch, Guy Mongrain & Martin Dubois, 2019–2020)
+  year: 2020
+  format: per-type-table       # conservation-guide layout; see methods
+  note: >-
+    Ten fiches, each with a historical introduction, five conservation headings (MATÉRIAUX, SAILLIES,
+    OUVERTURES, VOLUMES ET AGRANDISSEMENTS, ORNEMENTATION) and paired good/bad enlargement diagrams.
+    A separate 2019 study documents the "King Cottage". Building count: City page says 250 documented
+    buildings; the 2023 Guide says 200 "immeubles remarquables" — treat as full portrait vs. subset.
+map_layer: null
+summary_en: >-
+  A South Shore railway suburb: the Victoria Bridge (1859) and the Grand Trunk turned a strip of
+  farmland facing Montréal into an Anglo-Protestant commuter town, laid out on the old farm lots and
+  built up between about 1875 and 1930, then rounded out by the contractor Francis King's interwar
+  cottages and the postwar bungalow boom. Its inventory (Patri-Arch, 2020) names ten currents, from
+  the French-regime farmhouse to the modern house, and gives each a conservation fiche.

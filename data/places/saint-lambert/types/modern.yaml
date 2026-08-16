@@ -1,0 +1,60 @@
+id: saint-lambert.modern
+place: saint-lambert
+phase: p5
+name_en: The modern house (including the bungalow)
+name_fr: La maison moderne
+source_ref: "Répertoire des courants architecturaux, fiche 10"
+canonical: [one-storey-ranch-low-roof, postwar-2st-box-low-hip]
+styles: [international-style, ranch]
+tenure_plan: single-family
+storeys: "1–2"
+roof: {form: flat-or-low-slope, pitch_deg: null}
+window_proportion: horizontal
+principal_cladding: [stone, artificial-stone, clay-brick, wood, roughcast, metal-siding]
+garage: integrated-or-carport
+profile:
+  siting_landscape:
+    - The single-storey bungalow with carport or garage "fait fureur" in the 1950s and 60s, when Saint-Lambert boomed; mostly standardised plans, some architect-designed one-offs.
+  massing:
+    - Rectangular or articulated plan, one level (de plain-pied) or two storeys, often with garage or carport; flat roof or low slopes, sometimes inverted, variously oriented.
+    - "Few projections: overhanging eaves, marquises and bay windows are frequent; some angular façades with advances and recesses; massive chimneys often the only vertical element."
+  articulation:
+    - Generally no applied ornament; asymmetrical composition stressing horizontal lines; façade "mosaics" made by the arrangement, textures and colours of brick, stone and wood; occasional worked-metal railings or grilles, ceramic insertions or colour panels.
+  openings:
+    - Doors of varied models, solid or glazed; patio doors for the rear; garage doors sober and matched to the front door.
+    - No standard window; size and type vary by room; glass-block openings frequent.
+  materials:
+    - Natural or artificial stone (concrete), brick, wood, roughcast, metal siding, often combined.
+    - Asphalt shingle entirely suitable on pitched roofs.
+profile_fr:
+  volumes: ["Corps de bâtiment rectangulaire ou de plan articulé d'un seul niveau (de plain-pied) ou de deux étages, souvent doté d'un garage ou d'un abri d'auto, avec un toit plat ou à versants de faible pente. La pente de la toiture, parfois inversée, peut être orientée de différentes façons."]
+  saillies: ["La maison moderne possède en général peu d'éléments en saillie. Les débords de toit saillants, les marquises et les fenêtres en saillie … sont toutefois fréquents … Les cheminées massives, constituant souvent le seul élément vertical de la composition, sont également à signaler."]
+  ouvertures: ["Portes de modèles variés, opaques ou ajourées. Les portes-fenêtres (portes-patio) devraient être réservées pour la façade arrière.", "Il n'y a pas de fenêtre type pour la maison moderne. … Les ouvertures dotées de blocs de verre sont fréquentes."]
+  materiaux: ["Les murs extérieurs peuvent présenter plusieurs matériaux, parfois combinés, dont la maçonnerie de pierres naturelles ou artificielles (béton), la brique, le bois, le crépi et le parement métallique. … Pour les toitures en pente, le bardeau d'asphalte convient tout à fait."]
+  ornementation: ["La maison moderne ne possède généralement aucune ornementation appliquée. La composition asymétrique met habituellement l'accent sur les lignes horizontales. Ce sont l'agencement, les textures et les couleurs des matériaux … qui créent des mosaïques en façade."]
+conservation:
+  - Imitation materials (engineered wood such as Canexel, vinyl, plastics) proscribed.
+  - Wood windows may be replaced in aluminium or PVC provided the opening mode (crank, guillotine, sliding) matches the original.
+  - Do not add ornament; preserve the stripped look.
+  - Do not raise foundations or change the roof form; side/rear reduced-volume additions only.
+blurb_en: >-
+  The postwar house: bungalow or two-storey box, garage or carport built in, low or flat roof, big
+  windows sized to the room behind them, glass block by the door, a massive chimney as the one
+  vertical. No ornament; the mosaic of stone, brick and wood is the décor.
+origin_en: >-
+  Modernism via the Bauhaus and the Chicago School, reacting against ornament-laden historicism; its
+  commonest domestic form, the bungalow, "devenu le modèle d'habitation dominant après la Seconde
+  Guerre mondiale" with the baby boom, suburbanisation and easier access to property and the car. In
+  Saint-Lambert some 700 houses went up in the five years after the war; Préville, created 1948 and
+  annexed 3 May 1969, is the western extension of that boom.
+# common fields per Part 3 brief §2.3
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: see materials
+profile_note: null
+source_generation: "Répertoire des courants architecturaux, 2020"
+photos:
+- {file: assets/places/saint-lambert/modern-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 10", kind: single}
+- {file: assets/places/saint-lambert/modern-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 10", kind: single}
