@@ -26,6 +26,15 @@ profile_note: >-
   model. Row houses exist on rue Anvik (eight destroyed by fire in 2019) but their date is disputed:
   the fire chief said "over 80 years old" (pre-1939), Radio-Canada "construites dans les années 1940".
   Nothing here is inferred from photographs.
+  Checked against the MRC de Témiscamingue inventory published 8 April 2026: it screened 1,730
+  pre-1940 buildings across the MRC but retains only three properties in the Ville de Témiscaming —
+  the railway station, the Opémican log-drive relay post and the Gatineau Power forebay — none of
+  them houses, and it carries no materials field. The regional house typologies it does document
+  (maison de colonisation, maison de colonisation à trois pignons, grande maison carrée, maison de
+  colonisation avec galerie ceinturante, cottage carré, maison à pignon sur rue avec galerie
+  ceinturante, along 5e-et-6e Rang Est, 7e-et-8e Rang Est/Ouest, 9e Rang Est/Ouest, rue du Carrefour
+  Nord and rue Principale Est/Ouest) are in Latulipe-et-Gaboury, not Témiscaming, and are rural
+  colonisation types unrelated to company housing. This record therefore stands unchanged.
 blurb_en: >-
   The houses Ross and Macdonald built in series for Riordon between 1918 and 1923, together with the
   mill and the commercial district: the whole lower town by one Montréal firm, to one aesthetic.
@@ -33,7 +42,7 @@ origin_en: >-
   Thomas Adams laid the town on the hill and the mill below it in 1917; Riordon commissioned Ross and
   Macdonald, then Canada's largest architectural practice, to build everything downhill. CIP bought
   mill and town in 1925.
-photos: [{file: null, credit: "pending: Wikimedia Commons, 'Residential section, Temiskaming, Que. (BAnQ 3971732).jpg' — licence verified as public domain (BAnQ postcard), but upload.wikimedia.org refused the fetch from this environment; download and commit it locally", kind: placeholder}]
+photos: [{file: assets/places/temiscaming/residential-section-temiskaming-banq-commons.jpg, credit: "\"Residential section, Temiskaming, Que.\", postcard, circa 1930s — Bibliothèque et Archives nationales du Québec (BAnQ 3971732), author unknown. Public domain, via Wikimedia Commons (File:Residential section, Temiskaming, Que. (BAnQ 3971732).jpg); licence verified through the Commons API. A general view of the residential section, not a documented Type 171C house.", kind: single}]
 garage: null
 lot_width_m: null
 setback_front_m: null

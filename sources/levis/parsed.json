@@ -1,0 +1,2851 @@
+{
+ "source": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/",
+ "courant_count": 20,
+ "fiche_ids": [
+  16,
+  11,
+  2,
+  18,
+  17,
+  9,
+  8,
+  13,
+  20,
+  5,
+  7,
+  1,
+  12,
+  15,
+  10,
+  4,
+  3,
+  14,
+  6,
+  19
+ ],
+ "index": [
+  {
+   "fiche_id": 16,
+   "name_fr": "Régime français",
+   "period_label": "1620-1800",
+   "slug": "regime-francais"
+  },
+  {
+   "fiche_id": 11,
+   "name_fr": "Franco-québécois",
+   "period_label": "1780-1820",
+   "slug": "franco-quebecois"
+  },
+  {
+   "fiche_id": 2,
+   "name_fr": "Québécois",
+   "period_label": "1820-1880",
+   "slug": "quebecois"
+  },
+  {
+   "fiche_id": 18,
+   "name_fr": "Regency",
+   "period_label": "1830-1880",
+   "slug": "regency"
+  },
+  {
+   "fiche_id": 17,
+   "name_fr": "Néogothique",
+   "period_label": "1830-1940",
+   "slug": "neogothique"
+  },
+  {
+   "fiche_id": 9,
+   "name_fr": "Néoclassique",
+   "period_label": "1840-1880",
+   "slug": "neoclassique"
+  },
+  {
+   "fiche_id": 8,
+   "name_fr": "Agricole vernaculaire",
+   "period_label": "1850-1950",
+   "slug": "agricole-vernaculaire"
+  },
+  {
+   "fiche_id": 13,
+   "name_fr": "Autre type : Bâtiment accessoire (autre qu’agricole)",
+   "period_label": "1850-1950",
+   "slug": "autre-type-batiment-accessoire-autre-qu-agricole"
+  },
+  {
+   "fiche_id": 20,
+   "name_fr": "Rationalisme industriel",
+   "period_label": "1850-1960",
+   "slug": "rationalisme-industriel"
+  },
+  {
+   "fiche_id": 5,
+   "name_fr": "Second Empire",
+   "period_label": "1870-1920",
+   "slug": "second-empire"
+  },
+  {
+   "fiche_id": 7,
+   "name_fr": "Victorien",
+   "period_label": "1880-1930",
+   "slug": "victorien"
+  },
+  {
+   "fiche_id": 1,
+   "name_fr": "Vernaculaire américain",
+   "period_label": "1880-1940",
+   "slug": "vernaculaire-americain"
+  },
+  {
+   "fiche_id": 12,
+   "name_fr": "Autre type : Bâtiment mixte ou à vocation commerciale",
+   "period_label": "1890-1960",
+   "slug": "autre-type-batiment-mixte-ou-a-vocation-commerciale"
+  },
+  {
+   "fiche_id": 15,
+   "name_fr": "Beaux-arts",
+   "period_label": "1900-1930",
+   "slug": "beaux-arts"
+  },
+  {
+   "fiche_id": 10,
+   "name_fr": "Boomtown",
+   "period_label": "1900-1930",
+   "slug": "boomtown"
+  },
+  {
+   "fiche_id": 4,
+   "name_fr": "Cubique",
+   "period_label": "1900-1945",
+   "slug": "cubique"
+  },
+  {
+   "fiche_id": 3,
+   "name_fr": "Toit plat",
+   "period_label": "1900-1945",
+   "slug": "toit-plat"
+  },
+  {
+   "fiche_id": 14,
+   "name_fr": "Arts & métiers",
+   "period_label": "1910-1945",
+   "slug": "arts-et-metiers"
+  },
+  {
+   "fiche_id": 6,
+   "name_fr": "Wartime housing",
+   "period_label": "1940-1970",
+   "slug": "wartime-housing"
+  },
+  {
+   "fiche_id": 19,
+   "name_fr": "Modernisme",
+   "period_label": "1950-1975",
+   "slug": "modernisme"
+  }
+ ],
+ "fiches": [
+  {
+   "fiche_id": 16,
+   "name_fr": "Régime français",
+   "slug": "regime-francais",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=16",
+   "count_in_place": 15,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1620-1800",
+   "fields": {
+    "Volumétrie": "1 ½ étage très peu dégagé du sol",
+    "Plan": "rectangulaire",
+    "Toiture": "à 2 versants ou à croupe, à pente forte, avant-toit peu débordant, revêtement de bardeau de bois",
+    "Revêtements": "murs massifs en pierre, parfois revêtus de crépi, de clin de bois ou de planches verticales",
+    "Ouvertures": "fenêtres à battants à petits carreaux, rares et asymétriques, petites lucarnes ajoutées au 19e siècle",
+    "Saillies": "large(s) cheminée(s) en pierre",
+    "Ornementation": "chambranles simples, décor dépouillé"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "pierre",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "crépi",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "planches verticales",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "lucarnes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminée(s) en pierre",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-140618cl.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-4075-67-0455-756-marie-victorin-banq.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-4577-87-0185-1145-sault-banq-fonds-morissette-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-5387-84-5202-chapelle- ste-anne-banq-1930.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-5577-81-8318-1155-terrebonne.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-turgeon-195-006.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-iles-986-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-sault-1145.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-st-joseph-344.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-terrebonne-1061-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5385-03-4633-12-plante-banq-fonds-gerard-morisset-1947.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-plante-12-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/16-140618cl.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "next": {
+     "fiche_id": 11,
+     "name_fr": "Franco-québécois"
+    }
+   },
+   "index_period_label": "1620-1800",
+   "index_name_fr": "Régime français",
+   "index_order": 1,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 11,
+   "name_fr": "Franco-québécois",
+   "slug": "franco-quebecois",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=11",
+   "count_in_place": 50,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1780-1820",
+   "fields": {
+    "Volumétrie": "1 ½ étage peu dégagé du sol",
+    "Plan": "rectangulaire",
+    "Toiture": "à 2 versants à larmier recourbé, à pente forte, revêtement de bardeau de bois ou de tôle à la canadienne",
+    "Revêtements": "pierre, crépi, clin ou bardeau de bois",
+    "Ouvertures": "fenêtres à battants à petits ou à grands carreaux, symétriques, lucarnes à pignon",
+    "Saillies": "cheminée, perron",
+    "Ornementation": "chambranles, planches cornières lorsque le revêtement est en bois"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     },
+     {
+      "term": "tôle à la canadienne",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "pierre",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "crépi",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "lucarnes à pignon",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminée",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-140513mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-3975-01-6640976-marie-victorin-banq-fonds-gerard-morisset-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-4780-90-1932-2039-feuve-fonds-jocelyn-huard.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-5887-05-8133-9515-rive-sud-banq-fonds-gerard-morisset-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-3468-47-8145-filteau-banq-fond-gerard-morisset-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-commerciale-1865-003.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-pintendre-532-005.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-fleuve-1948-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-fleuve-1984-04.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-4182.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4780-90-1932-2039-fonds-jocelyn-huard.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-fleuve-2039-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-140513mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/11-fleuve-2039-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 16,
+     "name_fr": "Régime français"
+    },
+    "next": {
+     "fiche_id": 2,
+     "name_fr": "Québécois"
+    }
+   },
+   "index_period_label": "1780-1820",
+   "index_name_fr": "Franco-québécois",
+   "index_order": 2,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 2,
+   "name_fr": "Québécois",
+   "slug": "quebecois",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=2",
+   "count_in_place": 700,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1820-1880",
+   "fields": {
+    "Volumétrie": "1 ½ à 2 ½ étages, légèrement dégagé du sol",
+    "Plan": "rectangulaire",
+    "Toiture": "à 2 versants à base recourbée, pente moyenne, en tôle à la canadienne ou à baguettes",
+    "Revêtements": "clin ou bardeau de bois",
+    "Ouvertures": "fenêtres à battants à 4 et 6 carreaux, abondantes et symétriques, lucarne(s) à pignon",
+    "Saillies": "galerie couverte (par larmier ou auvent indépendant) et cheminée",
+    "Ornementation": "chambranles et planches cornières, portail, garnitures de galeries (aisseliers, garde-corps)"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à la canadienne ou à baguettes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "lucarne(s) à pignon",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminée",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     },
+     {
+      "term": "aisseliers",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=28"
+     },
+     {
+      "term": "garde-corps",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=24"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-140526mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-2390-marie-victorin-banq.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-4879-19-2975-2098-fleuve-banq-fonds-jean-paul-morisset-1957.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-5175-35-8976-1014-eglise-banq-fonds-morisset-1948.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-5175-45-7174-2-1006-eglises-banq-fonds-morissette-1959.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-5286-74-9242-58-fraser-1911-banq.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-fleuve-2014-02-.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-saint-joseph-338-04.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-Joseph-1050.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-Joseph-1220.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-georges-4490.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5386-09-4430-30 st-joseph-1970.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-joseph-30-avant-.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-140526mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-st-joseph-30-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 11,
+     "name_fr": "Franco-québécois"
+    },
+    "next": {
+     "fiche_id": 18,
+     "name_fr": "Regency"
+    }
+   },
+   "index_period_label": "1820-1880",
+   "index_name_fr": "Québécois",
+   "index_order": 3,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 18,
+   "name_fr": "Regency",
+   "slug": "regency",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=18",
+   "count_in_place": 15,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1830-1880",
+   "fields": {
+    "Volumétrie": "1 ½ ou 2 ½ étages",
+    "Plan": "carré",
+    "Toiture": "à pavillon (4 versants) à base recourbée, bardeau de bois ou tôle à baguettes",
+    "Revêtements": "clin ou bardeau de bois, brique",
+    "Ouvertures": "fenêtres à battants à 6 grands carreaux, lucarnes à pignon ou à croupe, disposition symétrique",
+    "Saillies": "galerie protégée par débord de toit, cheminées",
+    "Ornementation": "chambranles, planches cornières, portail d'entrée"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     },
+     {
+      "term": "tôle à baguettes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "lucarnes à pignon ou à croupe",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminées",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-140701mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-5285-93-2693-6015-st-georges-banq-fonds-gerard-morisset-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-5285-77-1600-5 marie-rollet-banq-fonds-gerard-morisset-1950.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-5284-89-2146-5763-st-georges-mcccf-1968.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-5285-80-8759-5832-st-georges-banq-fonds-gerard-morisset-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-saint-georges-5832-003.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-218-1891.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-wolfe-54-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-5285-68-0262-54-wolfe-banq-fonds-gerard-morisset-1947.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4779-22-9305-1736-fleuve-banq-fonds-jean-paul-morisset-1957.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-fleuve-1736-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/18-140701mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 2,
+     "name_fr": "Québécois"
+    },
+    "next": {
+     "fiche_id": 17,
+     "name_fr": "Néogothique"
+    }
+   },
+   "index_period_label": "1830-1880",
+   "index_name_fr": "Regency",
+   "index_order": 4,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 17,
+   "name_fr": "Néogothique",
+   "slug": "neogothique",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=17",
+   "count_in_place": 10,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1830-1940",
+   "fields": {
+    "Volumétrie": "1 ½ à 2 ½ étages",
+    "Plan": "irrégulier",
+    "Toiture": "à 2 versants à pente forte, tôle à la canadienne ou bardeau de bois",
+    "Revêtements": "brique, pierre ou clin de bois",
+    "Ouvertures": "à arc ogival, ouvertures verticales de modèles variées",
+    "Saillies": "clocher, avancées, contreforts, pilastres, pinacles",
+    "Ornementation": "bandeaux, frises, jeux de brique ou de pierre, vitraux, portail, boiseries décoratives"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à la canadienne",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     },
+     {
+      "term": "bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "pierre",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "frises",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=31"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17_140526MJD.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-5285-66-0543-33-wolfe-banq-fonds-gerard-morisset-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-3473-47-9360-1629-marie-victorin-banq-fonds- morissette-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-5285-76-0938-12-marie-rollet-banq-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-marie-victorin-1629-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-wolfe-33-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-st-georges-6150.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-1avenue-1220.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4574-47-0126-3016-eglises.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-eglises-3016-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17_140526MJD.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/17-eglises-3016-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 18,
+     "name_fr": "Regency"
+    },
+    "next": {
+     "fiche_id": 9,
+     "name_fr": "Néoclassique"
+    }
+   },
+   "index_period_label": "1830-1940",
+   "index_name_fr": "Néogothique",
+   "index_order": 5,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 9,
+   "name_fr": "Néoclassique",
+   "slug": "neoclassique",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=9",
+   "count_in_place": 50,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1840-1880",
+   "fields": {
+    "Volumétrie": "2 à 3 étages",
+    "Plan": "rectangulaire",
+    "Toiture": "à 2 versants droits ou à croupe, tôle à baguettes",
+    "Revêtements": "brique ou pierre de taille en façade, clin de bois sur façades secondaires",
+    "Ouvertures": "fenêtres à guillotine ou à battants à grands carreaux disposées symétriquement, lucarnes à pignon ou à croupe",
+    "Saillies": "cheminées, pignons respectant la symétrie",
+    "Ornementation": "chambranles, frontons, portails, corniches, pilastres"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à baguettes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     },
+     {
+      "term": "à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "lucarnes à pignon ou à croupe",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminées",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "corniches",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09_150110mhc.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-5286-43-6121-6210-st-laurent-eileen- reid-marcil.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-5284-13-3451-5148-st-laurent-mcccf-1968.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-5285-48-3357-5986-st-laurent-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-5285-61-3299-15-arsenal-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-5284-03-2584-5204-st-laurent-1867.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-passage-27-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-ste-sophie-41-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-st-laurent-5066-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-passage-39-01.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5285-58-9441-52-wolfe-1911.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09-wolfe-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/09_150110mhc.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/Wolfe-52-04-2015-006.JPG",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 17,
+     "name_fr": "Néogothique"
+    },
+    "next": {
+     "fiche_id": 8,
+     "name_fr": "Agricole vernaculaire"
+    }
+   },
+   "index_period_label": "1840-1880",
+   "index_name_fr": "Néoclassique",
+   "index_order": 6,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 8,
+   "name_fr": "Agricole vernaculaire",
+   "slug": "agricole-vernaculaire",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=8",
+   "count_in_place": 100,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1850-1950",
+   "fields": {
+    "Volumétrie": "1 ½ à 2 ½ étages",
+    "Plan": "rectangulaire",
+    "Toiture": "à 2 versants droits, parfois mansardé, en bardeau de bois ou en tôle de grange",
+    "Revêtements": "planches de bois verticales ou bardeau de bois",
+    "Ouvertures": "grandes portes à battants ou coulissantes (sur rail), fenêtres à grands carreaux",
+    "Saillies": "évent, volumes en appentis, silo",
+    "Ornementation": "sobre, chambranles, girouette"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "planches de bois verticales ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "appentis",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=38"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-140511mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-6187-80-1406-11100-rive-sud-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-3974-31-2633-3-1032-marie-victorin-banq-fonds-morisset-1943b.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-6087-08-7803-10655-rive-sud-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-5886-57-7057- 9355-rive-sud-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-martiniere-009.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-principale-1008-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-pintendre-532-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-commerciale-962-01.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-principale-1203-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-st-joseph-1190-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-140511mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/08-st-joseph-1190-apres..jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 9,
+     "name_fr": "Néoclassique"
+    },
+    "next": {
+     "fiche_id": 13,
+     "name_fr": "Autre type : Bâtiment accessoire (autre qu’agricole)"
+    }
+   },
+   "index_period_label": "1850-1950",
+   "index_name_fr": "Agricole vernaculaire",
+   "index_order": 7,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 13,
+   "name_fr": "Autre type : Bâtiment accessoire (autre qu’agricole)",
+   "slug": "autre-type-batiment-accessoire-autre-qu-agricole",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=13",
+   "count_in_place": null,
+   "count_approx": false,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1850-1950",
+   "fields": {
+    "Volumétrie": "1 à 1 ½ étage",
+    "Plan": "rectangulaire",
+    "Toiture": "à 2 versants à faible pente",
+    "Revêtements": "planches de bois verticales, clin ou bardeau de bois",
+    "Ouvertures": "porte de garage, fenêtres fixes",
+    "Saillies": "aucune",
+    "Ornementation": "sobre, chambranles et planches cornières"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "planches de bois verticales",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-140504mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-5387-75-4138-18-sainte-catherine-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-5387-77-8627-40-jolliet-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-montcalm-4-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-lagueux-5-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-17rue-125.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-229-2993.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-7072.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-carrier-48-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-140504mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/13-carrier-48-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 8,
+     "name_fr": "Agricole vernaculaire"
+    },
+    "next": {
+     "fiche_id": 20,
+     "name_fr": "Rationalisme industriel"
+    }
+   },
+   "index_period_label": "1850-1950",
+   "index_name_fr": "Autre type : Bâtiment accessoire (autre qu’agricole)",
+   "index_order": 8,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 20,
+   "name_fr": "Rationalisme industriel",
+   "slug": "rationalisme-industriel",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=20",
+   "count_in_place": 10,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1850-1960",
+   "fields": {
+    "Volumétrie": "de 1 à 5 étages",
+    "Plan": "rectangulaire ou complexe",
+    "Toiture": "plate ou à 2 versants droits",
+    "Revêtements": "pierre, brique, crépi, béton, revêtement métallique",
+    "Ouvertures": "grandes fenêtres ou portes de garage",
+    "Saillies": "cheminées, volumes annexes",
+    "Ornementation": "sobre"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "pierre, brique, crépi",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminées",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20_150110mhc.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-5285-55-5093-17-wolfe-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-5487-76-4172- 416-st-joseph-1965.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-5285-45-4535-26-frechette-1978c.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-georges-davie-010.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-wolfe-17.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-wolfe-17-avant2.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20-wolfe-17-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/20_150110mhc.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 13,
+     "name_fr": "Autre type : Bâtiment accessoire (autre qu’agricole)"
+    },
+    "next": {
+     "fiche_id": 5,
+     "name_fr": "Second Empire"
+    }
+   },
+   "index_period_label": "1850-1960",
+   "index_name_fr": "Rationalisme industriel",
+   "index_order": 9,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 5,
+   "name_fr": "Second Empire",
+   "slug": "second-empire",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=5",
+   "count_in_place": 450,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1870-1920",
+   "fields": {
+    "Volumétrie": "2 à 3 étages",
+    "Plan": "rectangulaire",
+    "Toiture": "mansardée, à 2 ou à 4 versants, tôle à baguettes sur le terrasson et tôle à la canadienne sur le brisis",
+    "Revêtements": "brique, clin ou bardeau de bois",
+    "Ouvertures": "fenêtre à battants à 4 et 6 carreaux et, plus rarement, à guillotine, lucarnes à pignon ou ceintrées",
+    "Saillies": "cheminée, galerie couverte",
+    "Ornementation": "chambranles, planches cornières, boiseries décoratives et garnitures de galerie"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à baguettes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     },
+     {
+      "term": "tôle à la canadienne",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtre à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     },
+     {
+      "term": "lucarnes à pignon ou ceintrées",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminée",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-140619cl.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-65-college-jocelyn-huard.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-4473-84-1107-94-cap.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-5182-01-8257-3852-st-laurent-mcccf-1968.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-5286-67-3679-6466-st-laurent.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-5285-57-5780-38-deziel-mcccf-1968.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-saint-joseph-183-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-saint-joseph-245-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-deziel-32-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-fabrique-4001-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-wolfe-2-4-6-8-003.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-3avenue-306-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-140619cl.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/05-3e-306-01-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 20,
+     "name_fr": "Rationalisme industriel"
+    },
+    "next": {
+     "fiche_id": 7,
+     "name_fr": "Victorien"
+    }
+   },
+   "index_period_label": "1870-1920",
+   "index_name_fr": "Second Empire",
+   "index_order": 10,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 7,
+   "name_fr": "Victorien",
+   "slug": "victorien",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=7",
+   "count_in_place": 100,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1880-1930",
+   "fields": {
+    "Volumétrie": "2 à 3 étages, bien dégagé du sol",
+    "Plan": "complexe et articulé avec des avancées",
+    "Toiture": "à 2 et 4 versants, tôle à baguettes",
+    "Revêtements": "clin de bois, bardeau de bois découpé, brique",
+    "Ouvertures": "modèles de fenêtres et de lucarnes variés, parfois jumelés",
+    "Saillies": "tourelle, galerie, pignon, cheminée, balcon, oriel",
+    "Ornementation": "très chargée avec boiseries décoratives (chambranles, mât, aiselliers, lambrequins, corniches, frise, etc.)"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à baguettes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "clin de bois, bardeau de bois découpé",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "lucarnes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "tourelle",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=37"
+     },
+     {
+      "term": "cheminée",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     },
+     {
+      "term": "oriel",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=21"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "mât",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=32"
+     },
+     {
+      "term": "aiselliers",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=28"
+     },
+     {
+      "term": "lambrequins",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=36"
+     },
+     {
+      "term": "corniches",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     },
+     {
+      "term": "frise",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=31"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-140526mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-4980-57-3807-2635-gravel-banq-fonds-morissette-1947.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-5284-63-2076-5422-st-georges-mcccf-1968.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-5387-45-2809-71-saint-gilbert-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-5487-97-4386-473-st-joseph-sac-1910.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-4880-31-4041-2220-fleuve-fonds-jocelyn-huard.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-fleuve-2545-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-230-3098.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-st-groerges-4236.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-begin-17.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/4880-31-1683-2219-fleuve-fonds-jocelyn-huard.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-fleuve-2219-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-140526mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/07-fleuve-2219-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 5,
+     "name_fr": "Second Empire"
+    },
+    "next": {
+     "fiche_id": 1,
+     "name_fr": "Vernaculaire américain"
+    }
+   },
+   "index_period_label": "1880-1930",
+   "index_name_fr": "Victorien",
+   "index_order": 11,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 1,
+   "name_fr": "Vernaculaire américain",
+   "slug": "vernaculaire-americain",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=1",
+   "count_in_place": 1700,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1880-1940",
+   "fields": {
+    "Volumétrie": "1 ½ ou 2 étages, bien dégagé du sol",
+    "Plan": "rectangulaire, parfois en « L »",
+    "Toiture": "à 2 versants droits, en tôle à baguettes, pente moyenne à faible",
+    "Revêtements": "clin ou bardeau de bois, tuiles d'amiante-ciment en losange",
+    "Ouvertures": "fenêtres à battants à grands carreaux ou fenêtres à guillotine, lucarne à pignon ou en appentis",
+    "Saillies": "galerie couverte d'un auvent indépendant",
+    "Ornementation": "chambranles, planches cornières, garnitures de galerie, retour de corniche"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à baguettes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "amiante-ciment en losange",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=4"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "fenêtres à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     },
+     {
+      "term": "lucarne à pignon ou en appentis",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-140526mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-4473-64-9379-111-14rue.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-5286-71-3582-2-lacroix-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-5387-86-0811-24-couillard-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-5386-18-8552-34-barras-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-5386-18-7265-28-30-barras-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-14e-111-01.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-fleuve-2052-03.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-louise-carrier-3052-01.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-15rue-90-01.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-saint-maurice-1.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5285-87-5528-35 guenette-1970.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-guenette-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-140526mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/01-guenette_apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 7,
+     "name_fr": "Victorien"
+    },
+    "next": {
+     "fiche_id": 12,
+     "name_fr": "Autre type : Bâtiment mixte ou à vocation commerciale"
+    }
+   },
+   "index_period_label": "1880-1940",
+   "index_name_fr": "Vernaculaire américain",
+   "index_order": 12,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 12,
+   "name_fr": "Autre type : Bâtiment mixte ou à vocation commerciale",
+   "slug": "autre-type-batiment-mixte-ou-a-vocation-commerciale",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=12",
+   "count_in_place": null,
+   "count_approx": false,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1890-1960",
+   "fields": {
+    "Volumétrie": "2 ou 3 étages",
+    "Plan": "rectangulaire",
+    "Toiture": "toit plat ou toit à 2 versants droits",
+    "Revêtements": "brique",
+    "Ouvertures": "vitrines et portes commerciales avec imposte au rez-de-chaussée",
+    "Saillies": "corniche d'affichage, enseignes, auvents rétractables",
+    "Ornementation": "corniche à modillons, boiseries décoratives"
+   },
+   "field_links": {
+    "Ouvertures": [
+     {
+      "term": "vitrines",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=19"
+     },
+     {
+      "term": "portes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=20"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-140618cl.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-5285-63-2683-76-passage-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-5285-64-5131-59-passage-banq-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-5286-40-5746-6084-st-laurent-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-5387-73-4052-205-st-joseph-banq-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-5779-14-5052-300-3avenue-1945-p99-dr10.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-passage-70-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-passage-68-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-begin-16.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-passage-36.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-st-joseph-227-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/12-140618cl.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 1,
+     "name_fr": "Vernaculaire américain"
+    },
+    "next": {
+     "fiche_id": 15,
+     "name_fr": "Beaux-arts"
+    }
+   },
+   "index_period_label": "1890-1960",
+   "index_name_fr": "Autre type : Bâtiment mixte ou à vocation commerciale",
+   "index_order": 13,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 15,
+   "name_fr": "Beaux-arts",
+   "slug": "beaux-arts",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=15",
+   "count_in_place": 10,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1900-1930",
+   "fields": {
+    "Volumétrie": "2 ou 3 étages",
+    "Plan": "rectangulaire",
+    "Toiture": "plate",
+    "Revêtements": "brique ou pierre",
+    "Ouvertures": "fenêtres rectangulaires ou arquées avec impostes, parfois regroupées, disposition symétrique",
+    "Saillies": "galerie couverte",
+    "Ornementation": "corniche à modillons, garde-corps, chaînages d'angle, portail, fronton, chambranles, clé de voûte, colonnes et pilastres"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "brique ou pierre",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     },
+     {
+      "term": "garde-corps",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=24"
+     },
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "colonnes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=26"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-140617cl.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-4575-81-0041-3341-eglises-banq.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-5285-49-3721-6018-st-laurent-1911.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-5286-51-9349-21-fraser-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-4880-20-9774-2190-fleuve-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-5987-86-4122-10425-rive-sud-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-wolfe-150-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-passage-108-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-st-louis-69.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5285-76-7028-55-begin-1970.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-begin-55-002.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/15-140617cl.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 12,
+     "name_fr": "Autre type : Bâtiment mixte ou à vocation commerciale"
+    },
+    "next": {
+     "fiche_id": 10,
+     "name_fr": "Boomtown"
+    }
+   },
+   "index_period_label": "1900-1930",
+   "index_name_fr": "Beaux-arts",
+   "index_order": 14,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 10,
+   "name_fr": "Boomtown",
+   "slug": "boomtown",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=10",
+   "count_in_place": 100,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1900-1930",
+   "fields": {
+    "Volumétrie": "1 à 2 étages",
+    "Plan": "rectangulaire ou carré",
+    "Toiture": "plate ou à très faible pente vers l'arrière",
+    "Revêtements": "clin ou bardeau de bois, tuiles d'amiante-ciment en losange",
+    "Ouvertures": "fenêtres à guillotine à carreaux, disposées symétriquement",
+    "Saillies": "parapet ou corniche, galerie couverte",
+    "Ornementation": "planches cornières et chambranles, éléments de corniche"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "amiante-ciment en losange",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=4"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "parapet",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=33"
+     },
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     },
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-140513mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-5385-15-7366-27-st-eric-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-5387-64-4980-12-mercier-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-5387-66-7704-30-sainte-catherine-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-5387-55-9832-22-mercier-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-5386-29-8535-11-langlois-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-eglises-3176-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-samson-20-006.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-vien-2-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-6839.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-189-8904.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5587-95-3988-636-st-joseph-ca1970.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-st-joseph-636-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-140513mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/10-st-joseph-636-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 15,
+     "name_fr": "Beaux-arts"
+    },
+    "next": {
+     "fiche_id": 4,
+     "name_fr": "Cubique"
+    }
+   },
+   "index_period_label": "1900-1930",
+   "index_name_fr": "Boomtown",
+   "index_order": 15,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 4,
+   "name_fr": "Cubique",
+   "slug": "cubique",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=4",
+   "count_in_place": 450,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1900-1945",
+   "fields": {
+    "Volumétrie": "2 étages",
+    "Plan": "carré",
+    "Toiture": "à 4 versants ou en pavillon, à faible pente, en tôle à la canadienne ou pincée",
+    "Revêtements": "brique, clin ou bardeau de bois, tuiles d'amiante-ciment",
+    "Ouvertures": "fenêtres à guillotine ou à battants avec imposte, lucarne centrale à pignon ou en appentis",
+    "Saillies": "galerie couverte, parfois sur plus d'une façade",
+    "Ornementation": "sobre, planches cornières et chambranles"
+   },
+   "field_links": {
+    "Toiture": [
+     {
+      "term": "tôle à la canadienne ou pincée",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=12"
+     }
+    ],
+    "Revêtements": [
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "amiante-ciment",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=4"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     },
+     {
+      "term": "à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     },
+     {
+      "term": "lucarne centrale à pignon ou en appentis",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     },
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-140526mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-5385-09-3167-54-mont-marie-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-5387-74-8099-12-ste-catherine-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-4473-74-5063-1227-1avenue.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-4575-61-1128-3264-emmanuel-routhier.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-1ere-avenue-1273-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-emmanuel-routhier-3273-003.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-rive-sud-10300-003.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-eglise-67.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-Pintendre-811-01.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-st-georges-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/04-140526mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 10,
+     "name_fr": "Boomtown"
+    },
+    "next": {
+     "fiche_id": 3,
+     "name_fr": "Toit plat"
+    }
+   },
+   "index_period_label": "1900-1945",
+   "index_name_fr": "Cubique",
+   "index_order": 16,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 3,
+   "name_fr": "Toit plat",
+   "slug": "toit-plat",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=3",
+   "count_in_place": 600,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1900-1945",
+   "fields": {
+    "Volumétrie": "2 ou 3 étages",
+    "Plan": "carré ou rectangulaire",
+    "Toiture": "plate",
+    "Revêtements": "brique, clin ou bardeau de bois, tuiles d'amiante-ciment",
+    "Ouvertures": "fenêtres à guillotine ou à battants avec imposte",
+    "Saillies": "corniche ou parapet, galerie couverte",
+    "Ornementation": "corniche à modillons, chambranles, planches cornières, jeux de brique, garnitures de galerie"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     },
+     {
+      "term": "amiante-ciment",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=4"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     },
+     {
+      "term": "à battants",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=16"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     },
+     {
+      "term": "parapet",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=33"
+     }
+    ],
+    "Ornementation": [
+     {
+      "term": "corniche",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=29"
+     },
+     {
+      "term": "chambranles",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=1"
+     },
+     {
+      "term": "planches cornières",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=2"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-140329mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-4575-71-9184-3354-eglises-banq.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-5387-84-3639-229-saint-joseph-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-5285-99-8431-44-46-mont-marie-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-5385-19-0343-9-perreault-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-5286-93-1740-141-wolfe-1978c.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-barras-42-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-fleuve-2071-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-barras-5-001.jpg.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-carrier-16-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/5386-49-3125-162-entente-1970.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-entente-162-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/03-140329mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    },
+    {
+     "kind": "after",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/02-entente-162-apres.jpg",
+     "label_fr": "APRÈS les travaux"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 4,
+     "name_fr": "Cubique"
+    },
+    "next": {
+     "fiche_id": 14,
+     "name_fr": "Arts & métiers"
+    }
+   },
+   "index_period_label": "1900-1945",
+   "index_name_fr": "Toit plat",
+   "index_order": 17,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 14,
+   "name_fr": "Arts & métiers",
+   "slug": "arts-et-metiers",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=14",
+   "count_in_place": 60,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1910-1945",
+   "fields": {
+    "Volumétrie": "1 ½ à 2 étages",
+    "Plan": "complexe et articulé",
+    "Toiture": "formes et pentes de toitures variées (2 ou 4 versants, à croupe, à demi-croupe) et complexes",
+    "Revêtements": "matériaux naturels : pierre, brique, crépi, clin ou bardeau de bois, parfois plusieurs matériaux amalgamés",
+    "Ouvertures": "fenêtres et lucarnes de formes et de types variés",
+    "Saillies": "galeries couvertes, cheminées, oriels",
+    "Ornementation": "boiseries décoratives"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "pierre, brique, crépi",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     },
+     {
+      "term": "clin ou bardeau de bois",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=3"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "lucarnes",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminées",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     },
+     {
+      "term": "oriels",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=21"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-140512jd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-5386-29-4043-9-samson-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-5387-75-1665-72-sainte-catherine-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-4970-28-6273-5-goulet-1954.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-4971-02-3358-324-st-augustin-shb-1954.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-lagueux-5-004.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-st-augustin-324-005.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-eglise-265-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-4504.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-205-0546.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-st-hilaire-76-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/14-140512jd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 3,
+     "name_fr": "Toit plat"
+    },
+    "next": {
+     "fiche_id": 6,
+     "name_fr": "Wartime housing"
+    }
+   },
+   "index_period_label": "1910-1945",
+   "index_name_fr": "Arts & métiers",
+   "index_order": 18,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 6,
+   "name_fr": "Wartime housing",
+   "slug": "wartime-housing",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=6",
+   "count_in_place": 200,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1940-1970",
+   "fields": {
+    "Volumétrie": "1 ½ étage",
+    "Plan": "rectangulaire ou carré",
+    "Toiture": "à 2 versants droits, à demi-croupe ou à 4 versants (pavillon), bardeau d'asphalte",
+    "Revêtements": "parements légers : tuiles d'amiante-ciment, clin d'aluminium ou de masonite",
+    "Ouvertures": "fenêtres à guillotine, lucarne à pignon ou en appentis",
+    "Saillies": "galerie, perron, cheminée",
+    "Ornementation": "sobre, pignon, fer ornemental sur la galerie"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "amiante-ciment",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=4"
+     }
+    ],
+    "Ouvertures": [
+     {
+      "term": "fenêtres à guillotine",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=17"
+     },
+     {
+      "term": "lucarne à pignon ou en appentis",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=14"
+     }
+    ],
+    "Saillies": [
+     {
+      "term": "cheminée",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=11"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-140526mjd.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-5284-97-8669-101-st-antoine.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-5587-46-7651-2-menard-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-5387-32-6283-34-philippe-boucher-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-5587-65-3144-27menard-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-5284-86-8072-9-napoleon-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-marie-couture-3108-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-ste-helene-25-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-commerciale-1042-001.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-st-eugene-990-03.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-st-augustin-263-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/06-140526mjd.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 14,
+     "name_fr": "Arts & métiers"
+    },
+    "next": {
+     "fiche_id": 19,
+     "name_fr": "Modernisme"
+    }
+   },
+   "index_period_label": "1940-1970",
+   "index_name_fr": "Wartime housing",
+   "index_order": 19,
+   "missing_fields": []
+  },
+  {
+   "fiche_id": 19,
+   "name_fr": "Modernisme",
+   "slug": "modernisme",
+   "source_url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/styles-architecturaux/?idfiche=19",
+   "count_in_place": 30,
+   "count_approx": true,
+   "count_unit_fr": "bâtiments",
+   "period_label": "1950-1975",
+   "fields": {
+    "Volumétrie": "diversifiée selon l'usage",
+    "Plan": "rectangulaire ou complexe",
+    "Toiture": "plate",
+    "Revêtements": "brique, béton, revêtement métallique",
+    "Ouvertures": "variées et répétitives, en bandeau horizontal",
+    "Saillies": "volumes annexes",
+    "Ornementation": "sobre"
+   },
+   "field_links": {
+    "Revêtements": [
+     {
+      "term": "brique",
+      "url": "https://www.ville.levis.qc.ca/developpement-planification/architecture-patrimoniale/composantes-et-modeles/?idfiche=5"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "kind": "drawing",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19_150110mhc.jpg"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-5284-88-3565-5732-saint-georges.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-4575-71-9203-2504-viaduc.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-4575-52-6007-3256-omer-poirier-1963.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-5286-94-5858-192-wolfe-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-5386-24-9659-106Jeanxxviii-1970.jpg",
+     "heading_fr": "Quelques exemples significatifs d'hier..."
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-begin-59-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-sault-2111-002.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "example",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-saint-laurent-5955.jpg",
+     "heading_fr": "...et d'aujourd'hui"
+    },
+    {
+     "kind": "historic",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-begin-29.jpg",
+     "label_fr": "ANCIENNE photographie"
+    },
+    {
+     "kind": "before",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19-begin-59-avant.jpg",
+     "label_fr": "AVANT les travaux"
+    },
+    {
+     "kind": "potential",
+     "source_url": "https://www.ville.levis.qc.ca/fileadmin/uploads/tx_absrubriquearchitecturale/styles_architecturaux/19_150110mhc.jpg",
+     "label_fr": "POTENTIEL de mise en valeur"
+    }
+   ],
+   "nav": {
+    "prev": {
+     "fiche_id": 6,
+     "name_fr": "Wartime housing"
+    }
+   },
+   "index_period_label": "1950-1975",
+   "index_name_fr": "Modernisme",
+   "index_order": 20,
+   "missing_fields": []
+  }
+ ]
+}

@@ -4,7 +4,27 @@ name_fr: Ville de Hampstead
 sections: [planned]
 region: Agglomération de Montréal
 founded: 1914                              # incorporated 19 February 1914 (Bill 59), detached from Côte-Saint-Luc; first council 7 April 1914; founding mayor James Ballie
-settlement_mode: garden-suburb subdivision by a private land company (Côte St. Luc Realties)
+settlement_mode: garden-suburb subdivision by a private land company
+planner:
+  designer: Leonard E. Schlemm, landscape architect
+  date: 1920s
+  note: >-
+    Two UQAM scholarly histories identify Schlemm as the author of Hampstead's plan — one says the
+    plan was "confié à Leonard E. Schlemm", the other that the town was founded in 1914 but
+    "dessinée par Leonard E. Schlemm durant les années 1920". Schlemm is the same landscape
+    architect who laid out Westmount's Priest's Farm (1926–1930), which is why this site links the
+    two places. Frederick G. Todd is NOT the designer and must not be credited. The two UQAM
+    histories are reported at ingest without full bibliographic details (Part 5b task), so the
+    attribution is recorded as reported rather than footnoted; no source held in sources/hampstead/
+    confirms it.
+  founder: >-
+    Sir Herbert Holt, engineer, first president of the Hampstead Land and Construction Company,
+    played a "central role" in the town's initial planning and development per the Town's official
+    history, which does not name him as author of the physical plan.
+  company_name_note: >-
+    Two company names circulate: the Hampstead Land and Construction Company (Town's official
+    history) and Côte St. Luc Realties (the landholding syndicate cited in the 2005 Évaluation).
+    Record both; do not collapse them.
 governing_instruments:
   - kind: PIIA
     title: Ville de Hampstead, règlement 775 sur les PIIA
@@ -18,6 +38,16 @@ governing_instruments:
     title: Commission consultative d'architecture, created 1926; the Town adopted its own building standards in 1923 (before that it applied standards borrowed from Westmount)
     year: 1926
     url: null
+demolition_rebuild_statistics:
+  published: false
+  note: >-
+    The Town publishes no annual or cumulative demolition/rebuild figure. It publishes individual
+    demolition notices and council decisions (e.g. 5851 Ferncroft; 74 Stratford, approved August
+    2024; 29 Lyncroft, approved February 2025, with the replacement single-family house considered
+    separately; 54 Place Heath), and its fee by-law treats demolition permits individually. A count
+    assembled from council records would be our figure, not the Town's — do not publish one. The
+    four decisions are recorded as evidence of practice, not as a statistical series; they are
+    reported at ingest and no copy of them is held in sources/hampstead/.
 typology_document:
   title: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest (2005, ISBN 2-7647-0461-5, 43 pp.)
   year: 2005
@@ -25,9 +55,9 @@ typology_document:
   note: "No per-type catalogue exists. Three sectors carry the characterisation; the types below are those sectors' dominant forms."
 map_layer: null
 summary_en: >-
-  A Garden City suburb laid out in 1913–14 on the model of Hampstead in London: curving streets to
-  slow traffic, large single-family lots with room to garden, no commerce or industry. It grew
-  slowly — 53 residents in 1921, about a thousand and a hundred houses by 1944 — then filled after
-  the war. Its interwar core, Vieux-Hampstead, is a secteur de valeur patrimoniale exceptionnelle of
-  two-storey stone houses "fortement inspirés des styles anglais aussi présents en grand nombre à
-  Westmount".
+  A Garden City suburb founded in 1914 on the model of Hampstead in London and drawn during the
+  1920s by the landscape architect Leonard E. Schlemm: curving streets to slow traffic, large
+  single-family lots with room to garden, no commerce or industry. It grew slowly — 53 residents in
+  1921, about a thousand and a hundred houses by 1944 — then filled after the war. Its interwar core,
+  Vieux-Hampstead, is a secteur de valeur patrimoniale exceptionnelle of two-storey stone houses
+  "fortement inspirés des styles anglais aussi présents en grand nombre à Westmount".

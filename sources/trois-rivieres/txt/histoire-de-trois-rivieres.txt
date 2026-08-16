@@ -1,0 +1,320 @@
+ 
+Histoire de Trois-Rivières | Site officiel de la Ville de Trois-Rivières 
+Histoire de Trois-Rivières | Site officiel de la Ville de Trois-Rivières 
+Passer
+directement au contenu 
+Mon eau, j'y tiens! Consultez la réglementation. 
+Le mode contraste élevé a été activé. En savoir plus -->
+À la une 
+Carte interactive 
+Emplois 
+Infolettre 
+Nous joindre 
+Services en ligne 
+Menu 
+Services
+à la population 
+Activités
+et loisirs 
+Culture 
+Affaires 
+À
+propos de la Ville 
+À la une 
+Carte interactive 
+Emplois 
+Infolettre 
+Nous joindre 
+Services en ligne 
+Services à la population
+Activités et loisirs
+Culture
+Affaires
+À propos de la Ville
+Liens rapides
+Alertes citoyennes 
+Horaire de collecte des bacs 
+Police 
+Sécurité incendie 
+Stationnement 
+Tout sur ma propriété 
+Services à la population
+Bureau du service client 311 
++ 
+Collectes et matières résiduelles 
++ 
+Conseils saisonniers 
++ 
+Cour municipale 
++ 
+Eau 
++ 
+Environnement 
++ 
+Habitation 
++ 
+Permis et certificats 
++ 
+Règlements municipaux 
++ 
+Réseau routier et transport 
++ 
+Sécurité du public 
++ 
+Subventions à la population 
++ 
+Taxes et évaluation 
++ 
+Vie communautaire 
++ 
+Liens rapides
+Carte plein air 
+Catalogue des Bibliothèques 
+Patinage libre 
+Réseau cyclable 
+Tourisme Trois-Rivières 
+Activités et loisirs
+Bibliothèques 
++ 
+Calendrier des activités 
++ 
+Camp de jour 
++ 
+Centre-ville 
++ 
+Événements 
++ 
+Installations sportives et récréatives 
++ 
+Jeux du Québec 2025 
++ 
+Location de salles et de gymnases 
++ 
+Parcs canins 
++ 
+Parcs et espaces verts 
++ 
+Liens rapides
+Inscription à la liste d'envoi d'appels de projets culturels 
+Amphithéâtre Cogeco 
+Bibliothèques 
+Corporation des événements 
+Culture 3R 
+Tourisme Trois-Rivières 
+Vitrine sur la culture en Mauricie - DICI 
+Culture
+Activités culturelles 
++ 
+Art public et arts visuels 
++ 
+Grands Prix culturels de Trois-Rivières 
++ 
+Histoire et patrimoine 
++ 
+Soutien aux organismes et artistes 
++ 
+Vision culturelle 
++ 
+Liens rapides
+Commerces en alerte 
+Guide du promoteur immobilier 
+IDE Trois-Rivières 
+Trois-Rivières Centre 
+Affaires
+Acheter un terrain de la Ville 
++ 
+Aéroport de Trois-Rivières 
++ 
+Certification en développement durable 
++ 
+Faire affaire avec la Ville 
++ 
+Liste des contrats 
++ 
+Portrait socio-économique 
++ 
+Ressources d’affaires 
++ 
+Subventions aux entreprises 
++ 
+Liens rapides
+Conseil municipal 
+Participation publique 
+Quartiers trifluviens 
+Webdiffusion des séances 
+À propos de la Ville
+Administration municipale 
++ 
+Avis publics 
++ 
+Budget et rapports financiers 
++ 
+Communications 
++ 
+Emplois 
++ 
+Planification 
++ 
+Politiques et plans d’action 
++ 
+Portrait de la Ville 
++ 
+Prix et distinctions 
++ 
+Rapport annuel 
++ 
+Vérificateur général 
++ 
+Vie démocratique 
++ 
+Recherche
+X
+Catégories
+{{cat.Name}} ({{cat.Results}}) 
+Filtrer par catégorie 
+{{cat.Name}} ({{cat.Results}})
+{{ResultsToDisplay.length}} résultat{{(ResultsToDisplay.length > 1 ? 's' : '')}}
+{{result.Meta}} 
+{{result.SubInfo}} 
+= MinCars">
+Aucun résultat
+Recherche en cours ...
+Entrez au moins {{MinCars}} caractères
+10"
+ng-click="SetFacetResults(true);">
+Voir plus de résultats
+10 && ShowAll == false"
+ng-click="SetShowAll()">
+Afficher plus de résultats
+Culture 
+Histoire et patrimoine 
+accueil 
+› 
+Culture 
+› 
+Histoire et patrimoine 
+› 
+Histoire de Trois-Rivières 
+Survol historique
+Découverte et fondation 
+Avant l’arrivée des explorateurs européens, le site de Trois-Rivières est un lieu de rencontre et d’échange prisé des Montagnais et des Algonquins.
+En 1535 lors de son deuxième voyage, Jacques Cartier s’arrête à Trois-Rivières et y plante une croix sur l’Île Saint-Quentin située à l’embouchure de la rivière Saint-Maurice.
+En 1603, Samuel de Champlain remarque déjà les avantages du site. Avec la fondation de Québec en 1608, la traite des fourrures attire plusieurs commerçants au croisement du fleuve Saint-Laurent et de la rivière Saint-Maurice. Avec les années, il devient stratégique de se rapprocher des réseaux commerciaux amérindiens de la région des Grands Lacs. Champlain envoie donc un de ses lieutenants fonder un deuxième établissement permanent français en Amérique du Nord.
+Le 4 juillet 1634, accompagné de quelques artisans et des pères jésuites Jean de Brébeuf et Antoine Daniel, Laviolette fait ériger un fort à Trois-Rivières qu’il commande jusqu’en 1636.
+The three Rivers (River St. Laurence), Peinture de : W.H. Bartlett, 1840
+Lieu de pouvoir
+La ville obtient le siège de gouvernement régional de la Nouvelle-France à partir de 1665. Trois-Rivières assiste au Régime français, à la Conquête britannique et même à une brève occupation américaine, qui se termine par la défaite des « Bostonnais », aux portes de la ville, en 1776. Au fil des ans, Trois-Rivières consolide sa vocation de pôle régional et devient le siège d’un district judiciaire en 1792 et d’un évêché en 1852.
+Aquarelle de : John Lambert, 1808 
+Capitale internationale du papier
+Le commerce de la fourrure cède la place à la première industrie lourde au Canada quand entrent en opération les Forges du Saint-Maurice en 1738. Les fourneaux des Forges consomment jusqu’à 20 000 cordes de bois annuellement, ce qui pave la voie à l’exploitation forestière de la vallée du Saint-Maurice. La forte demande de bois se maintient notamment à cause du Blocus continental imposé à l’Angleterre par Napoléon en 1806 puis par l’explosion démographique américaine qui gonfle la demande en bois de construction.
+Les nombreuses scieries présentes à Trois-Rivières permettent l’implantation de l’industrie papetière au milieu du XIX e siècle. La demande en papier journal est d’ailleurs si forte qu’au tournant du XX e siècle, la population trifluvienne s’accroît rapidement, attirée par les nombreux emplois et les bons salaires.
+Dans les années 1930, Trois-Rivières est couronnée capitale mondiale du papier journal notamment grâce à l’imposant moulin de la Canadian International Paper, la plus grosse installation papetière du monde.
+Bibliothèque et Archives du Canada, 1881 
+Le grand incendie de 1908
+Le 22 juin 1908, Trois-Rivières connaît l’incendie le plus dévastateur de son histoire. Le brasier s’empare du centre-ville et fait reculer les 8 pompiers de la brigade de Trois-Rivières en une quinzaine de minutes. La situation est telle qu’on appelle du renfort de Shawinigan, Grand-Mère, Québec et Montréal. Près de 800 bâtiments sont rasés, ruinant et jetant des centaines de personnes à la rue.
+En 1912, quatre ans après le grand incendie, le centre-ville de Trois-Rivières est à nouveau animé. Rebâti par une poignée d’architectes et d’entrepreneurs, le quartier présente une grande homogénéité architecturale qui se constate encore aujourd’hui. Avec la reconstruction, les rues du centre-ville sont élargies, voire redessinées et on assiste à l’agrandissement de la ville à l’ouest et au nord.
+Rue Notre-Dame, photographe : P.F. Pinsonneault, 1910, Archives du Séminaire de Trois-Rivières, cote : 0064-10-23 
+Rue des Forges, photographe : P.F. Pinsonneault, 1910, Archives du Séminaire de Trois-Rivières, cote : 0064-10-23 
+L’entre-deux-guerres
+La crise économique que traverse le monde durant les années 30 pousse les trois paliers de gouvernement à mettre sur pied des programmes de travaux publics pour contrer le chômage.
+Dès 1932, la Ville de Trois-Rivières emploie plusieurs chômeurs pour abattre les arbres malades dans les parcs afin d’en faire du bois de chauffage pour les édifices de la Municipalité.
+Supportée par le programme de travaux publics du gouvernement du Québec, la ville fait construire, au printemps de 1938, des parcs dans chacun des quartiers. Près de 200 hommes bâtissent les aires de jeux, les bâtiments et creusent l’étang du parc Saint-Philippe, l’actuel parc Pie-XII.
+Parc Pie-XII, photographe : Armour Landry, ca1955, Archives Ville de Trois-Rivières, cote : PA-0064 
+Durant ces années, elle fait également rénover le parc de l’Exposition de fond en comble. On y voit s’ériger colisée, stade de baseball, hippodrome, piscine ainsi que la porte Pacifique-Duplessis. Achevées en 1939, ces installations sont aussitôt réquisitionnées par l’Armée pendant la Seconde Guerre mondiale qui en fait un camp d’entraînement.
+Porte Pacifique Duplessis, photographe : Armour Landry, ca1960. Archives Ville de Trois-Rivières, cote : MO-0018 
+Parc de l’exposition, photographe : Le Nouvelliste, 1955, Archives Ville de Trois-Rivières, cote : PE-0053 
+Ville contemporaine
+Autobus, photographe Le Nouvelliste, 1956, Archives Ville de Trois-Rivières, cote : CO-0031 
+À la fin des années 1960, Trois-Rivières élargit sa base économique. Bien qu’elle demeure un centre industriel et manufacturier important, la ville mise dès lors sur l’éducation collégiale et universitaire, la culture et le tourisme.
+En 1967, le magistral pont Laviolette est achevé et vient consolider son important réseau de transport. Vers la fin du XX e siècle, Trois-Rivières est desservie par d’importants axes autoroutiers, de nombreux chemins de fer, un aéroport et un port de mer donnant accès à la voie maritime du Saint-Laurent.
+En 1968, on procède à l’inauguration du nouvel hôtel de ville. Sa construction s’inscrit dans un grand projet de rénovation urbaine qui comprend également un centre culturel (l’actuelle Maison de la culture), un stationnement souterrain et l’aménagement d’un grand espace public voisin du parc Champlain. La place de l’Hôtel-de-Ville doit permettre « à tous les gens de se rencontrer, de discuter, enfin de se retrouver dans la véritable agora trifluvienne ». Preuve du succès de l’entreprise, la place de l’Hôtel-de-Ville est récipiendaire en 1971 du prestigieux prix Vincent Massey pour l’amélioration de l’environnement urbain. Cette distinction est largement publicisée d’un océan à l’autre et permet même à Trois-Rivières de briller dans les pages de l’édition canadienne du célèbre magazine Time.
+Le 4 juillet 2001, le gouvernement du Québec décrète la fusion des villes de Trois-Rivières, Trois-Rivières-Ouest, Pointe-du-Lac, Cap-de-la-Madeleine, Sainte-Marthe-du-Cap et Saint-Louis-de-France. Cette fusion s’opère le 1 er janvier 2002 et fait de la nouvelle municipalité l’une des dix grandes villes du Québec.
+Le portrait de Trois-Rivières est aujourd’hui embelli par les nombreux témoins du passé. Du nom des rues aux panneaux d’interprétation, le riche passé trifluvien s’illustre à travers toute la ville. Partez à sa découverte grâce au circuit patrimonial !
+Ligne du temps
+Préhistoire
+6000 av. J.-C. — Début de l’occupation amérindienne
+XVI e siècle
+1535 — Cartier érige une croix sur l’Île Saint-Quentin
+1585 — Début de la traite des fourrures
+XVII e siècle
+1618 — Construction de la première chapelle
+1634 — Fondation de Trois-Rivières
+1651 — Fondation de Cap-de-la-Madeleine
+1654 — Pierre Boucher devient gouverneur
+1697 — Arrivée des sœurs Ursulines
+XVIII e siècle
+1723 — La maison des gouverneurs est érigée sur le Platon
+1738 — Début de la production aux Forges du Saint-Maurice
+1738 — Fondation de Pointe-du-Lac
+1776 — Bataille de Trois-Rivières
+1792 — Création du district judiciaire de Trois-Rivières
+XIX e siècle
+1817 — Création de la Gazette des Trois-Rivières
+1852 — Érection du diocèse de Trois-Rivières
+1860 — Fondation du Collège des Trois-Rivières
+1882 — La Commission du havre aménage le port
+XX e siècle
+1904 — Fondation de Saint-Louis-de-France
+1908 — Grand incendie de Trois-Rivières
+1915 — Fondation de Sainte-Marthe-du-Cap
+1927 — Élection du député Maurice Duplessis
+1963 — Fondation de Trois-Rivières-Ouest
+1967 — Inauguration du pont Laviolette
+1969 — Fondation de l’Université du Québec à Trois-Rivières
+XXI e siècle
+2002 — Fusion des six villes du grand Trois-Rivières
+2009 — Capitale culturelle du Canada
+Sources
+Archives – Ville de Trois-Rivières
+Robert, D. et al. (1997). Naissance de Trois-Rivières. Patrimoine Trois-Rivières, (28) (6-8)
+Robert, D. et al. (2005). De Champlain. Recherche toponymie Trois-Rivières 
+Bourgeois, V. (2009). La capitale mondiale du papier journal. Cap-aux-Diamants : la revue d’histoire du Québec, n° 98, p. 19-21 
+Dernière mise à jour : 30 janvier 2025
+Partager 
+Histoire et patrimoine 
+Demande de projet en commémoration historique 
+Archives 
+Églises trifluviennes 
+Histoire de Trois-Rivières 
+La saga des Trois-Rivières, bande dessinée numérique 
+Musées et lieux d’interprétation 
+Patrimoine architectural 
+Toponymie 
+Hôtel de ville 
+-->
+1325, place de l’Hôtel-de-Ville, C.P. 368
+Trois-Rivières, G9A 5H3
+Téléphone : 311
+Numéro sans frais : 1 833-374-2002 
+311@v3r.net 
+Actualités 
+Publié le 15 juin 2026 
+L’art participatif s’invite dans les parcs trifluviens 
+Publié le 20 février 2026 
+La salle J.-Antonio-Thompson poursuit sa cure de jeunesse 
+Publié le 19 septembre 2025 
+L’œuvre Haute voltige déploie ses ailes devant la nouvelle aérogare 
+Abonnez-vous à l'infolettre 
+Facebook 
+Instagram 
+LinkedIn 
+YouTube 
+Ville de Trois-Rivières
+1325, place de l'Hôtel-de-Ville, C.P. 368
+Trois-Rivières, QC G9A 5H3 
+Téléphone : 311 ou 819 374-2002 
+Canada ou États-Unis : 1 833 374-2002 
+Courriel : 311@v3r.net 
+› Communications 
+› FAQ 
+Abonnez-vous à l'infolettre 
+Facebook 
+Instagram 
+LinkedIn 
+YouTube 
+Communications 
+FAQ 
+Intranet 
+Portail d’accès aux organismes 
+Politique de confidentialité 
+© Ville de Trois-Rivières. Tous droits réservés. 

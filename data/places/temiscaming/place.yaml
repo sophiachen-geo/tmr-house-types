@@ -10,18 +10,30 @@ governing_instruments:
     title: Gare de Témiscaming (15 rue Humphrey, built 1927 to CPR engineers' plans), classée immeuble patrimonial 19 October 2012 (prior reconnaissance 28 June 1979); protection covers exterior and interior, not the land
     year: 2012
     url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92694&type=bien
-  - kind: inventory-in-progress
-    title: MRC de Témiscamingue built-heritage inventory (launched 2023, $50,000 provincial grant, targeting pre-1940 buildings); due April 2026 under the Loi sur le patrimoine culturel
+  - kind: inventory
+    title: >-
+      MRC de Témiscamingue, inventaire du patrimoine bâti, published 8 April 2026 (statutory deadline
+      1 April 2026). 1,730 pre-1940 buildings screened; consultants Julien Rivard, Paul Trépanier and
+      Manon Sartou produced a separate 51-page heritage analysis (not publicly available). For the
+      Ville de Témiscaming the inventory retains only three properties, none residential: the Gare de
+      Témiscaming (15 rue Humphrey, 1927); the Poste de relais pour le flottage du bois d'Opémican
+      (5555 chemin Opémican, 1883); and the Ancien bassin de charge de la Gatineau Power (lot
+      3 658 710, between 78 and 126 avenue Thorne). The published inventory carries no materials
+      field — only addresses, dates, roles and "particularités/justifications". Reported at ingest:
+      no public copy of the inventory was located, the MRC's website returned HTTP 503 when this
+      record was made, and the RPCQ lists no inventory entry for the MRC, so these figures are
+      unconfirmed against the document itself.
     year: 2026
-    url: https://ici.radio-canada.ca/nouvelle/1929037/patrimoine-batit-inventaire-culture-histoire-temiscamingue
+    url: null
 typology_document:
   title: "Canadian Centre for Architecture, \"Power and Planning: Industrial Towns in Québec, 1890–1950\" (1996), with Gabor Szilasi's photographs"
   year: 1996
   format: study
   note: >-
-    No typology catalogue exists. Only one house-type designation is documented anywhere —
-    "Type 171C", Elm Street — and no materials, roof form or storey count attach to it. The two type
-    records below are defined by builder and period, which is what the sources support.
+    No typology catalogue exists for Témiscaming. Only one house-type designation is documented
+    anywhere — "Type 171C", Elm Street — and no materials, roof form or storey count attach to it.
+    The 2026 MRC inventory did not change this: it inventories no houses in Témiscaming. The two
+    records below are therefore defined by builder and period, which is what the sources support.
 map_layer: null
 summary_en: >-
   A 1917 Garden-City company town on a hillside above Lake Timiskaming, planned by the Scottish
@@ -31,4 +43,5 @@ summary_en: >-
   commercial district and all the houses of the lower town; from 1925 to 1950 William Lyon Somerville
   of Toronto designed the upper-district houses, hospital, schools and churches for Canadian
   International Paper. "A single design aesthetic, established when the town was created, prevailed
-  throughout its development." No residential district has heritage status.
+  throughout its development." No residential district has heritage status, and the 2026 regional
+  inventory retained no house in the town.

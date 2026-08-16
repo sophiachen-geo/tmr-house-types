@@ -1,0 +1,592 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+
+  <p class="titre">Répertoire du<span>patrimoine</span>culturel du Québec</p>
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+    
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="actif">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+<div class="wrapper">
+
+
+<img src = "images/accueil/transparent.gif" title="Vue générale du village historique de Val-Jalbert" style="margin-top:30px;z-index:1;position:absolute"/>
+
+<div class="bandeauAccueil" style="background:url(images/accueil/accueil-10.jpg);z-index:0;position:relative" >
+
+  <div class="ombreBandeauAccueil"></div>
+  <div class="zoneTagline"><p class="tagline">Découvrez et faites connaître le patrimoine culturel du Québec&nbsp;: notre héritage collectif !</p></div>
+        
+  <section class="onglets">
+    <div class="contenuOnglet" data-categorie="Accueil" data-action="Afficher onglet" data-libelle="En vedette">
+        <div class="showcase">
+            <h2 class="titreContenuOnglet">En vedette</h2>
+            
+            
+
+
+
+
+<article>
+<br>
+   
+         
+         
+            <a href="detail.do?methode=consulter&id=92664&type=bien" data-titre="Maison Lamontagne" class="img" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.getAttribute('data-titre'));">
+              
+                <img src="document/rpcq_bien_92664_373423.JPG?id=373423&streamid=vignette" alt="Maison Lamontagne"  />
+              
+              
+                <span class="inscritRegistre" rel="tooltip" title="Inscrit au Registre du patrimoine culturel">Registre</span>
+              
+            </a>
+         
+   
+    
+    <div class="desc">
+        <p>Patrimoine immobilier</p>
+        
+           
+           
+              <h3><a href="detail.do?methode=consulter&id=92664&type=bien" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.innerHTML);">Maison Lamontagne</a></h3>
+           
+        
+    </div>
+</article>
+            
+            
+
+
+
+
+<article>
+<br>
+   
+         
+         
+            <a href="detail.do?methode=consulter&id=33541&type=pge" data-titre="Guité, Suzanne" class="img" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.getAttribute('data-titre'));">
+              
+                <img src="document/rpcq_pge_33541_378132.JPG?id=378132&streamid=vignette" alt="Guité, Suzanne"  />
+              
+              
+                <span class="inscritRegistre" rel="tooltip" title="Inscrit au Registre du patrimoine culturel">Registre</span>
+              
+            </a>
+         
+   
+    
+    <div class="desc">
+        <p>Personne</p>
+        
+           
+           
+              <h3><a href="detail.do?methode=consulter&id=33541&type=pge" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.innerHTML);">Guité, Suzanne</a></h3>
+           
+        
+    </div>
+</article>
+            
+            
+
+
+
+
+<article>
+<br>
+   
+         
+         
+            <a href="detail.do?methode=consulter&id=231571&type=bien" data-titre="Site patrimonial du Vieux-Terrebonne" class="img" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.getAttribute('data-titre'));">
+              
+                <img src="document/rpcq_bien_231571_361898.JPG?id=361898&streamid=vignette" alt="Site patrimonial du Vieux-Terrebonne"  />
+              
+              
+                <span class="inscritRegistre" rel="tooltip" title="Inscrit au Registre du patrimoine culturel">Registre</span>
+              
+            </a>
+         
+   
+    
+    <div class="desc">
+        <p>Patrimoine immobilier</p>
+        
+           
+           
+              <h3><a href="detail.do?methode=consulter&id=231571&type=bien" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.innerHTML);">Site patrimonial du Vieux-Terrebonne</a></h3>
+           
+        
+    </div>
+</article>
+            
+            
+
+
+
+
+<article>
+<br>
+   
+         
+         
+            <a href="detail.do?methode=consulter&id=18070&type=pge" data-titre="Desjardins, Dorimène" class="img" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.getAttribute('data-titre'));">
+              
+                <img src="document/rpcq_pge_18070_372734.JPG?id=372734&streamid=vignette" alt="Desjardins, Dorimène"  />
+              
+              
+                <span class="inscritRegistre" rel="tooltip" title="Inscrit au Registre du patrimoine culturel">Registre</span>
+              
+            </a>
+         
+   
+    
+    <div class="desc">
+        <p>Personne</p>
+        
+           
+           
+              <h3><a href="detail.do?methode=consulter&id=18070&type=pge" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.innerHTML);">Desjardins, Dorimène</a></h3>
+           
+        
+    </div>
+</article>
+            
+            
+
+
+
+
+<article>
+<br>
+   
+         
+         
+            <a href="detail.do?methode=consulter&id=25920&type=pge" data-titre="Jeux olympiques de Montréal" class="img" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.getAttribute('data-titre'));">
+              
+                <img src="document/rpcq_pge_25920_377957.JPG?id=377957&streamid=vignette" alt="Jeux olympiques de Montréal"  />
+              
+              
+                <span class="inscritRegistre" rel="tooltip" title="Inscrit au Registre du patrimoine culturel">Registre</span>
+              
+            </a>
+         
+   
+    
+    <div class="desc">
+        <p>Événement</p>
+        
+           
+           
+              <h3><a href="detail.do?methode=consulter&id=25920&type=pge" onclick="envoyerSuiviClics('Accueil', 'Ouvrir vedette', this.innerHTML);">Jeux olympiques de Montréal</a></h3>
+           
+        
+    </div>
+</article>
+        </div>
+    </div>
+    <div class="contenuOnglet" data-categorie="Accueil" data-action="Afficher onglet" data-libelle="Types de patrimoine">
+      <div class="typesPatrimoine">
+          <h2 class="titreContenuOnglet">Types de patrimoine</h2>
+          <div class="colonne">
+            <h3><a href="rechercheProtege.do?methode=acceder">Patrimoine protégé et valorisé</a></h3>
+            <p>Éléments du patrimoine culturel auxquels un statut légal a été attribué en vertu de la Loi sur le patrimoine culturel.</p>
+            <div class="separateur"></div>
+             <h3><a href="recherchePge.do?methode=acceder">Événements, groupes et personnes</a></h3>
+              <p>Événements, groupes et personnes qui ont un statut légal (événements et personnages historiques) ou qui font partie d'un inventaire. </p>
+              
+            </div>
+          <div class="colonne">
+            <div class="typePatrimoine">
+            <h3><a href="rechercheImmobilier.do?methode=acceder">Patrimoine immobilier</a></h3>
+            <p>Éléments du patrimoine immobilier qui ont un statut légal (immeubles, sites, lieux, paysages) ou qui font partie d'un inventaire.</p>
+          
+             <div class="separateur"></div>
+             <h3><a href="rechercheImmateriel.do?methode=acceder">Patrimoine immatériel</a></h3>
+            <p>Savoir-faire, connaissances, expressions, pratiques et représentations transmis de génération en génération qui ont un statut légal ou qui font partie d'un inventaire. </p>
+            
+              </div>
+          </div>
+          <div class="colonne">	
+            <h3><a href="rechercheMobilier.do?methode=acceder">Patrimoine mobilier</a></h3>
+              <p>Biens archéologiques, &oelig;uvres d'art et biens ethno-historiques, patrimoine documentaire ou des sciences naturelles qui ont un statut légal (documents, objets et ensembles) ou qui font partie d'un inventaire.</p>
+            
+            <div class="separateur"></div>
+            <h3><a href="recherchePlaque.do?methode=acceder">Plaques commémoratives</a></h3>
+            <p>Plaques commémorant divers éléments patrimoniaux qui ont un statut légal ou qui font partie d'un inventaire.</p>
+          </div>
+      </div>
+    </div>
+  </section>
+</div>
+    
+<div class="conteneur">
+<div class="cols">
+<div class="colLeft">
+  <h2>Des expositions virtuelles sur <em>Pinterest</em> !</h2>
+  <p> 
+    <img src="images/zone_statique/pinterest.png" 
+         alt="Pinterest" 
+         width="32" 
+         height="32" 
+         hspace="5" 
+         vspace="0" 
+         align="left"
+         style="margin-right:10px">
+         D&eacute;couvrez et partagez le patrimoine culturel qu&eacute;b&eacute;cois &agrave; l'aide du  
+         <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Accueil')), decodeURIComponent(escape('Lien externe')), decodeURIComponent(escape('Pinterest')));" href="http://pinterest.com/rpcq">compte Pinterest du Minist&egrave;re.</a></p>
+  <h2>Le patrimoine en donn&eacute;es ouvertes!</h2>
+  <p>
+  <img src="images/zone_statique/gouv-ouvert.png" 
+  alt="Les donn&amp;eacute;es ouvertes du Gouvernement du Qu&amp;eacute;bec" 
+  width="29" 
+  height="32" 
+  hspace="5" 
+  align="left"
+  style="margin-right:10px">
+  Depuis juin 2012, le minist&egrave;re de la Culture et des Communications rend disponible une partie des donn&eacute;es que contient le R&eacute;pertoire sur le site du  
+  <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Accueil')), decodeURIComponent(escape('Lien externe')), decodeURIComponent(escape('DonnÃ©es QuÃ©bec')));" href="https://www.donneesquebec.ca/recherche/dataset/?groups=societe-culture&q=&sort=metadata_created+desc&extras_organisation_principale=&organization=mcc&tags=Patrimoine+culturel">
+  gouvernement ouvert du Qu&eacute;bec</a>. Consultez la page 
+  <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Accueil')), decodeURIComponent(escape('Lien externe')), decodeURIComponent(escape('Ã propos')));" href="/rpcq/redirection.do?go=about#donneesouvertes">
+  &Agrave; propos</a> pour en savoir plus.</p>
+</div>
+
+<div class="colRight">
+<h2>Des réponses à vos questions</h2>
+<div class="reponseQuestion">
+  <h3>Quelle est la différence entre le Registre du patrimoine culturel du Québec et le Répertoire du patrimoine culturel du Québec ?</h3>
+  <div class="reponse"><div class="pointe"></div><p><p>Le Registre est tenu à jour par le ministère de la Culture et des Communications, qui y
+                  consigne l'ensemble des données relatives aux éléments du patrimoine culturel
+                  auxquels des statuts légaux ont été attribués par le gouvernement du
+                  Québec, le ministre, les municipalités locales, les MRC et les communautés autochtones en
+                  vertu de la 
+                  <a href="https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-9.002">
+                    <strong>Loi sur le patrimoine culturel</strong></a>
+                   ou de lois antérieures.</p>                
+                <p>Quant au Répertoire du patrimoine culturel du Québec, il s'agit d'un outil de diffusion disponible en 
+                ligne et accessible à tous, qui présente les éléments patrimoniaux inscrits au Registre du patrimoine culturel 
+                et qui contient des renseignements sur des milliers d'éléments patrimoniaux inventoriés par le Ministère ou ses partenaires. </p>
+                <p>Il est à noter que les données du Registre du patrimoine culturel, à l'exception
+                   des données confidentielles, sont entièrement diffusées dans le Répertoire
+                   du patrimoine culturel du Québec.</p></p></div>
+  <p><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Accueil')), decodeURIComponent(escape('Lien externe')), decodeURIComponent(escape('Foire aux questions')));" href="redirection.do?go=faq">Voir toutes les questions »</a></p>
+</div>
+</div>
+</div>
+</div>    
+</div>
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=36559051" async></script></body>
+</html>

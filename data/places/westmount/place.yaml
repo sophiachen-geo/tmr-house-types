@@ -7,7 +7,16 @@ founded: 1874                              # Village de Côte-Saint-Antoine; tow
 settlement_mode: bourgeois slope suburb grown over the Côte-Saint-Antoine farms
 governing_instruments:
   - kind: PIIA
-    title: Règlement 1305 sur les plans d'implantation et d'intégration architecturale (in force 6 December 2001; consolidated Feb 2014; a 13 February 2024 consolidation is referenced by the City), incorporating the design guidelines "Rénover et construire à Westmount"
+    title: >-
+      Règlement 1305 sur les plans d'implantation et d'intégration architecturale, adopted at the
+      general sitting of Council on 12 November 2001 (notice of motion and draft by-law 12 September
+      2001; public consultation meeting 1 October 2001), as amended by RCA 23020, 1381, 1399, 1412,
+      1432, 1454, 1495, 1526, 1548, 1574, 1606, 1640, 1647 and 1662. Applies to the entire territory
+      of the City (art. 1.2) and to all legal and natural persons (art. 1.3); administered by the
+      Service de l'aménagement urbain as "autorité compétente" (art. 1.4.1, as amended by 1647).
+      Annexe I = the 39 character-area maps; Annexe II = the guidelines "Rénover et construire à
+      Westmount" (11 booklets); Annexe III = "Étude patrimoniale – Éléments caractéristiques :
+      Bâtiments de catégorie 1*".
     year: 2001
     url: https://westmount.org/fr/travaux-et-urbanisme/construction-et-renovation/informations-generales-construction-renovation
   - kind: NHS
@@ -15,33 +24,122 @@ governing_instruments:
     year: 2011
     url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13040
   - kind: classement
-    title: Maison Hurtubise (1739, 561–563 ch. de la Côte-Saint-Antoine), classified 2004; Braemar (1847, 3219 The Boulevard), recognised 1984
+    title: Maison Hurtubise (1739, 561–563 ch. de la Côte-Saint-Antoine), classified 2004; Braemar (3219 The Boulevard), recognised 1984
     year: 2004
     url: null
-  - kind: demolition-bylaw
-    title: Demolition of more than 50 % of a building triggers the demolition by-law and committee; all Category 1* buildings are automatically subject
-    year: null
+  - kind: demolition-control
+    title: >-
+      Under art. 3.1.2 (as amended by 1412) the demolition of any building, garage, shed or major
+      portion of a building is itself subject to PIIA approval, in addition to the demolition by-law.
+    year: 2001
     url: null
 grading:                                   # per-building, not per-type
-  system: Beaupré & Michaud, Évaluation du patrimoine urbain de la Ville de Westmount (1988), applied by By-law 1305
+  system: >-
+    Four categories established by degree of architectural significance to determine what work is
+    appropriate (art. 2.3.2, as amended by 1662): "Quatre catégories de bâtiments ont été établies
+    selon leur valeur architecturale afin de déterminer le type d'intervention approprié à chaque
+    bâtiment. Ces catégories apparaissent sur les plans des secteurs patrimoniaux." Derived from the
+    1988 Beaupré & Michaud study; significance is assessed on architectural value, historical value
+    and context, and "ne se limite pas aux bâtiments les plus anciens".
   categories:
-    - {code: "I*", label_fr: exceptionnel, count: 45, note: "45 residences per the Imagine Westmount 2040 fiche; the City's heritage pages say 49 exceptional properties — residences vs all property types. Annex III gives per-building conservation strategies 'correspond[ing] to that observed by agencies like Parks Canada in the country's most important historic sites'."}
-    - {code: "I", label_fr: important, count: 1366, note: null}
-    - {code: "II", label_fr: intéressant, count: 3342, note: null}
-    - {code: "III", label_fr: neutre, count: 356, note: "lower architectural value, or buildings under 40 years old"}
+    - code: "I*"
+      label_fr: Exceptionnel
+      count: 45
+      description_fr: >-
+        Les bâtiments les plus remarquables de Westmount font partie de cette catégorie, soit : les
+        bâtiments à valeur historique; les œuvres majeures d'architectes et de constructeurs renommés;
+        les exemples exceptionnels d'un style particulier; les exemples de belle construction,
+        présentant un raffinement de détails et matériaux; les bâtiments qui forment un ensemble
+        architectural important.
+      intervention_fr: >-
+        Les bâtiments de catégorie I* devraient être conservés à perpétuité. Les normes les plus
+        élevées de ces directives devraient s'appliquer à leur entretien et leur restauration. Les
+        modifications aux traits distinctifs et les ajouts qui affectent ces traits distinctifs ne
+        sont généralement pas acceptables. La démolition ou la modification de traits distinctifs
+        majeurs ne devraient pas être permises. Les modifications de traits distinctifs mineurs sont
+        généralement inacceptables.
+      note: >-
+        45 residences per the Imagine Westmount 2040 fiche; the City's heritage pages say 49
+        exceptional properties — residences vs all property types. Category 1* residential buildings
+        additionally require a conservation strategy under art. 5.4 and Annexe III. Annexe III's own
+        index lists 47 building entries across 14 sectors, several of them paired addresses in a
+        single structure, which is consistent with either count.
+    - code: "I"
+      label_fr: Important
+      count: 1366
+      description_fr: Same criteria list as I*, applied to the next tier of Westmount's most remarkable buildings.
+      intervention_fr: >-
+        Les bâtiments de catégorie I devraient être conservés à perpétuité… La démolition ou la
+        modification de traits distinctifs majeurs ne sont généralement pas acceptables. Les
+        modifications de traits distinctifs mineurs sont généralement inacceptables.
+      note: null
+    - code: "II"
+      label_fr: Intéressant
+      count: 3342
+      description_fr: >-
+        Les autres bâtiments importants de Westmount… des bâtiments importants en soi, quoique pas au
+        même degré que les bâtiments de catégorie I; des bâtiments plus modestes qui contribuent de
+        façon marquée au caractère spécifique de la ville soit par leur échelle, leurs matériaux ou
+        leur ancienneté.
+      intervention_fr: >-
+        Règle générale, les bâtiments de catégorie II devraient être conservés en prenant soin de
+        garder intacts leurs traits distinctifs. Les modifications et les ajouts peuvent être permis
+        en autant qu'ils n'affectent pas le caractère particulier du bâtiment.
+      note: null
+    - code: "III"
+      label_fr: Neutre
+      count: 356
+      description_fr: Ces bâtiments ont une moins grande valeur architecturale que ceux de la catégorie II.
+      intervention_fr: >-
+        Aucune norme spécifique ne s'applique à la conservation des traits existants de ces bâtiments.
+        La démolition n'est pas acceptable généralement mais peut être permise dans certains cas. Les
+        modifications aux bâtiments existants sont permises en autant qu'elles soient cohérentes
+        visuellement et s'harmonisent avec l'environnement.
+      note: null
+  objectives_fr:
+    - "préserver et rehausser le caractère distinctif de Westmount : en conservant les bâtiments importants et leurs traits distinctifs importants, tels que des groupes de bâtiments et des aménagements paysagers; en s'assurant que les modifications aux bâtiments existants et les nouvelles constructions s'intègrent aux bâtiments existants, à l'environnement et au secteur."
+    - "réduire l'impact négatif de nouvelles constructions ou de modifications à des bâtiments existants sur les endroits publics et les propriétés avoisinantes."
+    - "rechercher l'excellence en design dans tous les nouveaux travaux."
+  criteria_fr: >-
+    "La conformité aux objectifs est évaluée en déterminant d'abord la catégorie applicable du
+    bâtiment suivant le plan du secteur patrimonial inclus à l'Annexe I. Ensuite le niveau
+    d'intervention approprié selon le tableau d'intervention et les directives « Rénover et construire
+    à Westmount »." (art. 5.2)
+  guideline_booklets:
+    - Comment obtenir un permis de construction
+    - Introduction aux directives
+    - Murs extérieurs
+    - Toitures
+    - Portes et fenêtres
+    - Nouveaux bâtiments, modifications majeures et ajouts
+    - Aménagement paysager
+    - Devantures de magasins et enseignes
+    - La Cour Glen
+    - Les grandes propriétés à caractère institutionnel et lieux de culte d'intérêt
+    - Plan particulier d'urbanisme (PPU) du secteur Sud-Est de Westmount
 typology_document:
-  title: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Westmount (2005), which reproduces Westmount's \"Rénover et construire à Westmount : fiches d'information des secteurs patrimoniaux\" (September 2001); By-law 1305 Annexes I and III"
-  year: 2005
-  format: sector-and-grading            # new value; document in methods
+  title: >-
+    Règlement 1305, Annexes I–III (39 character-area maps, September 2001; guidelines "Rénover et
+    construire à Westmount"; Category 1* character-defining elements), with Ville de Montréal,
+    Évaluation du patrimoine urbain — arrondissement de Westmount (2005), which reproduces the City's
+    September 2001 sector fiches
+  year: 2001
+  format: sector-and-grading            # documented in methods
   note: >-
-    Westmount classifies buildings by conservation value and territory by sector; it publishes no
-    per-type profile table. Types below are reconstructed from the sector fiches and the NHS
-    character-defining elements, with profile fields left empty where the sources do not speak.
+    Westmount classifies buildings by conservation value and territory by sector, and regulates
+    through guidelines organised by WORK TYPE (walls, roofs, windows and doors, additions,
+    landscaping), not by house type. It publishes no per-type profile table. The types below are
+    reconstructed from the guidelines' element-by-element text, the sector fiches and the National
+    Historic Site character-defining elements.
 map_layer: null
+# sector_map: deliberately absent. The map page of the "Introduction aux directives" booklet was
+# supplied to this session as an image, but westmount.org publishes no terms of use, no legal notice
+# and no reuse licence — only "© Ville de Westmount, 2026" in the footer. With no permission to read,
+# the image is not republished. See sources/westmount/MANIFEST.md.
 summary_en: >-
   The bourgeois slope suburb of Montréal, grown over the Côte-Saint-Antoine farms between the 1870s
   and 1930 and controlled almost from the start: an Architectural Commission from 1916, a four-tier
-  grading of every building, and 39 heritage sectors that follow the topography from the greystone
-  rows of the flat lower town up through the plateau and the slope to the summit "châteaux". About
-  4,750 dwellings, some 61 % of the stock, predate 1945. A National Historic Site since 2011 for
-  "the diversity and the integrity of its components".
+  grading of every building, and thirty-nine heritage sectors that follow the topography from the
+  greystone rows of the flat lower town up through the plateau and the slope to the summit
+  "châteaux". About 4,750 dwellings, some 61 % of the stock, predate 1945. A National Historic Site
+  since 2011 for "the diversity and the integrity of its components".

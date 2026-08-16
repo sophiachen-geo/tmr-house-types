@@ -3129,7 +3129,7 @@
    "phase": "p2",
    "phase_label": "1923–1945",
    "phase_years": "1923 – 1945",
-   "phase_title": "The English-revival stone core",
+   "phase_title": "Schlemm's plan and the English-revival stone core",
    "name_en": "English-revival stone house",
    "name_fr": "Maison en pierre d'inspiration anglaise",
    "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest (2005), sector fiches",
@@ -3191,7 +3191,7 @@
    ],
    "source_generation": "sector fiches (2005)",
    "blurb_en": "The interwar stone house of Vieux-Hampstead: two storeys in an English-revival idiom, set back on a curving street, « fortement inspirés des styles anglais aussi présents en grand nombre à Westmount ».",
-   "origin_en": "The Garden City model imported by name from Hampstead in London. Early houses, to 1923, were built to standards borrowed from Westmount; from 1923 the Town applied its own, and from 1926 a Commission consultative d'architecture reviewed them.",
+   "origin_en": "The Garden City model imported by name from Hampstead in London. Early houses, to 1923, were built to standards borrowed from Westmount; from 1923 the Town applied its own, and from 1926 a Commission consultative d'architecture reviewed them — all on a plan drawn during the 1920s by the landscape architect Leonard E. Schlemm, the designer of Westmount's Priest's Farm (1926–1930), which is why the two enclaves read alike.",
    "photo": {
     "file": null,
     "credit": "pending: photograph on site — rue Thurlow, Vieux-Hampstead (sector 18.E.3)",
@@ -3270,7 +3270,7 @@
    "origin_en": "Postwar suburban expansion within the original garden-suburb plan. Bungalows and split-levels are more characteristic of adjacent Côte-Saint-Luc (sector 18.U.2) than of Hampstead itself.",
    "photo": {
     "file": null,
-    "credit": "pending: photograph on site — Hampstead (sectors 18.I.4, 18.U.1)",
+    "credit": "pending: photograph on site — rue Thurlow, Vieux-Hampstead (sector 18.E.3)",
     "kind": "placeholder",
     "w": null,
     "h": null,
@@ -3316,7 +3316,7 @@
     "materials": []
    },
    "profile_fr": null,
-   "profile_note": "Large contemporary rebuilds on the original lots are visible on the ground but are not characterised in any retrievable source, and no figures on demolition or rebuild rates were located. Record kept as a placeholder so the phenomenon is not silently omitted.",
+   "profile_note": "Large contemporary rebuilds on the original lots are visible on the ground and documented case by case in council decisions (5851 Ferncroft; 74 Stratford, August 2024; 29 Lyncroft, February 2025; 54 Place Heath), but the Town publishes no demolition or rebuild statistic and no characterisation of the replacement houses. Record kept so the phenomenon is not silently omitted. The four decisions are reported at ingest as evidence of practice, not as a series, and no copy of them is held in sources/hampstead/.",
    "conservation": null,
    "conservation_fr": null,
    "models_observed": null,
@@ -3329,7 +3329,7 @@
    "origin_en": "Not characterised in any retrievable source; the Town's protection is discretionary (PIIA 775 and demolition by-law 1009) rather than provincial.",
    "photo": {
     "file": null,
-    "credit": "pending: photograph on site — Hampstead",
+    "credit": "pending: photograph on site — rue Thurlow, Vieux-Hampstead (sector 18.E.3)",
     "kind": "placeholder",
     "w": null,
     "h": null,
@@ -7156,7 +7156,7 @@
     "materials": []
    },
    "profile_fr": null,
-   "profile_note": "No source attaches materials, roof form or storey count to Type 171C or to any other lower-town model. Row houses exist on rue Anvik (eight destroyed by fire in 2019) but their date is disputed: the fire chief said \"over 80 years old\" (pre-1939), Radio-Canada \"construites dans les années 1940\". Nothing here is inferred from photographs.",
+   "profile_note": "No source attaches materials, roof form or storey count to Type 171C or to any other lower-town model. Row houses exist on rue Anvik (eight destroyed by fire in 2019) but their date is disputed: the fire chief said \"over 80 years old\" (pre-1939), Radio-Canada \"construites dans les années 1940\". Nothing here is inferred from photographs. Checked against the MRC de Témiscamingue inventory published 8 April 2026: it screened 1,730 pre-1940 buildings across the MRC but retains only three properties in the Ville de Témiscaming — the railway station, the Opémican log-drive relay post and the Gatineau Power forebay — none of them houses, and it carries no materials field. The regional house typologies it does document (maison de colonisation, maison de colonisation à trois pignons, grande maison carrée, maison de colonisation avec galerie ceinturante, cottage carré, maison à pignon sur rue avec galerie ceinturante, along 5e-et-6e Rang Est, 7e-et-8e Rang Est/Ouest, 9e Rang Est/Ouest, rue du Carrefour Nord and rue Principale Est/Ouest) are in Latulipe-et-Gaboury, not Témiscaming, and are rural colonisation types unrelated to company housing. This record therefore stands unchanged.",
    "conservation": null,
    "conservation_fr": null,
    "models_observed": [
@@ -7168,11 +7168,11 @@
    "blurb_en": "The houses Ross and Macdonald built in series for Riordon between 1918 and 1923, together with the mill and the commercial district: the whole lower town by one Montréal firm, to one aesthetic.",
    "origin_en": "Thomas Adams laid the town on the hill and the mill below it in 1917; Riordon commissioned Ross and Macdonald, then Canada's largest architectural practice, to build everything downhill. CIP bought mill and town in 1925.",
    "photo": {
-    "file": null,
-    "credit": "pending: Wikimedia Commons, 'Residential section, Temiskaming, Que. (BAnQ 3971732).jpg' — licence verified as public domain (BAnQ postcard), but upload.wikimedia.org refused the fetch from this environment; download and commit it locally",
-    "kind": "placeholder",
-    "w": null,
-    "h": null,
+    "file": "assets/places/temiscaming/residential-section-temiskaming-banq-commons.jpg",
+    "credit": "\"Residential section, Temiskaming, Que.\", postcard, circa 1930s — Bibliothèque et Archives nationales du Québec (BAnQ 3971732), author unknown. Public domain, via Wikimedia Commons (File:Residential section, Temiskaming, Que. (BAnQ 3971732).jpg); licence verified through the Commons API. A general view of the residential section, not a documented Type 171C house.",
+    "kind": "single",
+    "w": 1024,
+    "h": 654,
     "alt": "Photograph of Lower-town company house (Ross and Macdonald, 1918–1923) houses in Témiscaming, from CCA"
    },
    "url": "types/temiscaming.lower-town-house/"
@@ -7227,7 +7227,7 @@
     "materials": []
    },
    "profile_fr": null,
-   "profile_note": "The specific upper-district streets are not named in any accessible source. The Arts-and-Crafts / English-cottage style attribution is an inference from CIP's contemporaneous Quartier-du-Moulin development in Gatineau — a site patrimonial cité of 55 buildings that the RPCQ explicitly links to the company's parallel work at Témiscaming — and is not a statement about Témiscaming's houses. Nothing here is taken from photographs; the CCA's Szilasi photographs are permission-only and are cited, not reproduced.",
+   "profile_note": "The specific upper-district streets are not named in any accessible source. The Arts-and-Crafts / English-cottage style attribution is an inference from CIP's contemporaneous Quartier-du-Moulin development in Gatineau — a site patrimonial cité of 55 buildings that the RPCQ explicitly links to the company's parallel work at Témiscaming — and is not a statement about Témiscaming's houses. Nothing here is taken from photographs; the CCA's Szilasi photographs are permission-only and are cited, not reproduced. Checked against the MRC de Témiscamingue inventory published 8 April 2026: it screened 1,730 pre-1940 buildings across the MRC but retains only three properties in the Ville de Témiscaming — the railway station, the Opémican log-drive relay post and the Gatineau Power forebay — none of them houses, and it carries no materials field. The regional house typologies it does document (maison de colonisation, maison de colonisation à trois pignons, grande maison carrée, maison de colonisation avec galerie ceinturante, cottage carré, maison à pignon sur rue avec galerie ceinturante, along 5e-et-6e Rang Est, 7e-et-8e Rang Est/Ouest, 9e Rang Est/Ouest, rue du Carrefour Nord and rue Principale Est/Ouest) are in Latulipe-et-Gaboury, not Témiscaming, and are rural colonisation types unrelated to company housing. This record therefore stands unchanged.",
    "conservation": null,
    "conservation_fr": null,
    "models_observed": [],

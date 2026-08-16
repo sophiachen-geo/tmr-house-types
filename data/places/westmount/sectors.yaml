@@ -1,317 +1,692 @@
-# 39 heritage sectors (35 exceptional + 4 interesting). Codes and French names are
-# transcribed from the fiche headings in the 2005 Évaluation du patrimoine urbain;
-# the English summaries and street lists come from the Part 5 brief's transcription.
-# Sectors whose summary_en is null still await a clean transcription of their fiche
-# text (the fiches are two-column and the extraction bleeds between columns) — Part 5b.
+# 39 secteurs patrimoniaux — By-law 1305, Annexe I.
+#
+# TWO NUMBERING SYSTEMS, one territory. `code` is the by-law's own 1–39, read off the
+# sector map on p. 3 of the Annexe II booklet « Introduction aux directives » and
+# independently corroborated for fourteen sectors by the address index of Annexe III
+# (sources/westmount/categorie1etoile_elements_caracteristiques_fr.pdf, pp. 3–4), which
+# lists every catégorie 1* building under its by-law sector number. `code_eval2005` is
+# the Ville de Montréal code used by the 2005 Évaluation du patrimoine urbain.
+#
+# The two sets are the SAME 39 sectors: 23.E.1–35 (exceptionnelle) + 23.I.1–4
+# (intéressante) match the by-law's 39 one-for-one by name, with no sector left over on
+# either side. No sector therefore carries `code_eval2005: none`.
+#
+# `value` comes from the 2005 study's own A/B split (« A. Les secteurs de valeur
+# patrimoniale exceptionnelle » / « B. …intéressante », pp. 26 and 36 of the PDF).
+# The by-law does NOT rank its sectors — see /methods/.
+#
+# `summary_en` is condensed from the 2005 fiche text, re-extracted for this pass with a
+# per-page gutter-detecting column split (the earlier -layout extraction in txt/ bleeds
+# between columns and is not reliable for body text). The 2005 study states on p. 26 that
+# its justifying text « reproduit largement la fiche correspondante » of Westmount's own
+# September 2001 sector fiches.
+- id: oratoire-saint-joseph
+  code: 1
+  code_eval2005: 23.I.1
+  name_fr: Abords de l'Oratoire Saint-Joseph
+  value: interesting
+  summary_en: >-
+    Most of this plateau near the summit was the Westmount Golf Links through the first part of the
+    twentieth century. Streets were traced and lots subdivided before the Second World War for
+    « résidences de grande classe », but building came mostly after it: a few pre-war houses among
+    many later ones of Renaissance inspiration.
+  streets: []
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.1
+  note: null
 - id: colline-westmount
-  code: 23.E.1
-  name_fr: La Colline Westmount
+  code: 2
+  code_eval2005: 23.E.1
+  name_fr: La colline Westmount
   value: exceptional
-  summary_en: Summit and eastern south slope, largely vacant until 1895; 'de véritables châteaux' with panoramic views, built
-    1900–1930; the Belvedere (c. 1930); a wooden house of c. 1890 at 22 Summit Circle.
+  summary_en: >-
+    Summit and eastern half of the south slope, practically untouched until 1895; once The Boulevard
+    was linked to Montréal it drew the richest families out of the Square Mile, and « de véritables
+    châteaux » with panoramic views went up between 1900 and 1930. The Belvedere (c. 1930) stands
+    beside the picturesque wooden house of c. 1890 at 22 Summit Circle; North America's first ski
+    club was just below The Boulevard.
   streets:
   - Summit Circle
   - The Boulevard
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.1
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.1
+  note: >-
+    By-law number confirmed independently: Annexe III lists Braemar (3219 The Boulevard), 3637 The
+    Boulevard and 15 chemin Belvedere under "Secteur patrimonial 2", and the 2005 fiche 23.E.1
+    illustrates itself with Braemar.
 - id: sunnyside-edgehill
-  code: 23.E.2
-  name_fr: Sunnyside et Chemin Edgehill
+  code: 3
+  code_eval2005: 23.E.2
+  name_fr: Sunnyside et ch. Edgehill
   value: exceptional
-  summary_en: Steep south-west slope; large prestige houses, traditional in style to the west, more modern toward Bellevue,
-    Upper Bellevue and Summit Circle.
+  summary_en: >-
+    The steep south-west slope of the hill, developed in the first decades of the twentieth century
+    as Westmount grew fast. Large prestige houses stand close together, facing south for the view;
+    the streets run east–west along the curve of the mountain. Traditional styles in the western
+    section, largely more modern houses in the eastern one (east Sunnyside, Summit Circle, Bellevue
+    and Upper Bellevue).
   streets:
   - Sunnyside
   - Edgehill
   - Bellevue
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.2
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.2
+  note: 'By-law number confirmed: Annexe III lists 80 avenue Sunnyside under "Secteur patrimonial 3".'
 - id: ouest-de-la-montagne
-  code: 23.E.3
-  name_fr: L’ouest de la Montagne
+  code: 4
+  code_eval2005: 23.E.3
+  name_fr: L'ouest de la montagne
   value: exceptional
-  summary_en: Brick semi-detached flat-roofed houses south of The Boulevard; stone-and-stucco pitched-roof houses to the north;
-    streets traced 1906–1930.
+  summary_en: >-
+    Small promoters built the sector once the streets were traced south of The Boulevard in 1906 and,
+    from 1911 to 1930, north of it. There was no development plan, but lots were sold with conditions
+    specifying materials, setbacks and even completion dates, which keeps the sector coherent. It is
+    marked above all by flat-roofed semi-detached brick houses, with many stone-and-stucco
+    pitched-roof houses north of The Boulevard. Institutional buildings count too: école Roslyn, the
+    Dominion Douglas United and Seventh Day Adventist churches, and the Congrégation Notre-Dame's
+    Institut pédagogique, whose grounds are among the city's largest semi-public green spaces.
   streets:
   - The Boulevard
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.3
+  - Victoria
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.3
+  note: null
 - id: douglas-grenville
-  code: 23.E.4
+  code: 5
+  code_eval2005: 23.E.4
   name_fr: Douglas et Grenville
   value: exceptional
-  summary_en: Curvilinear streets laid out by the architect W. S. Wright on garden-city principles; brick semi-detached Arts
-    and Crafts houses, mid-1920s.
+  summary_en: >-
+    Developed by a single builder. The architect W. S. Wright drew its curvilinear streets on
+    garden-city principles; the semi-detached brick houses of the mid-1920s are Arts and Crafts in
+    manner, and although alike in form, style and materials, « chacune d'elles possède sa propre
+    personnalité ».
   streets:
   - Douglas
   - Grenville
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.4
-- id: avenue-aberdeen-et-ses-abords
-  code: 23.E.5
-  name_fr: Avenue Aberdeen et Ses Abords
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.4
+  note: null
+- id: aberdeen
+  code: 6
+  code_eval2005: 23.E.5
+  name_fr: Ave. Aberdeen et ses abords
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.5
-- id: avenue-cedar-et-ses-abords
-  code: 23.E.6
-  name_fr: Avenue Cedar et Ses Abords
+  summary_en: >-
+    A comparatively large sector, marked by low density and big houses; in the lower part the houses
+    are simpler and closer together. North of avenue Westmount, on Carleton and Sydenham, building
+    came after 1900, while the southern portion saw houses from the late 1800s.
+  streets:
+  - Aberdeen
+  - Carleton
+  - Sydenham
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.5
+  note: >-
+    code_eval2005 assigned by exact name match (2005 fiche « AVENUE ABERDEEN ET SES ABORDS »).
+    Unresolved: Annexe III lists 523 chemin Argyle and 88 avenue Church Hill under "Secteur
+    patrimonial 6", streets the 2005 Aberdeen fiche does not name. Settle against Annexe I's own
+    maps — Part 5b.
+- id: cedar
+  code: 7
+  code_eval2005: 23.E.6
+  name_fr: Avenue Cedar et ses abords
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.6
-- id: avenue-clarke-et-ses-abords
-  code: 23.E.7
-  name_fr: Avenue Clarke et Ses Abords
+  summary_en: >-
+    Low density, abundant private greenery and deep setbacks on Cedar and de Montrose give the sector
+    the air of a country village. Several villas of the 1870s survive, but avenue Cedar owes its
+    present appearance to the prestige villas built progressively after the First World War — The
+    Boulevard was linked to Montréal in 1895, but its development waited for the war's end.
+  streets:
+  - Cedar
+  - De Montrose
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.6
+  note: >-
+    code_eval2005 assigned by exact name match. Unresolved: Annexe III lists 519 and 529 avenue
+    Clarke and 504 avenue Mountain under "Secteur patrimonial 7", which reads as Clarke rather than
+    Cedar territory; sectors 7 and 8 may divide Clarke between them. Settle against Annexe I — Part 5b.
+- id: clarke
+  code: 8
+  code_eval2005: 23.E.7
+  name_fr: Avenue Clarke et ses abords
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.7
+  summary_en: >-
+    One of the first sectors in Westmount whose original subdivisions survive to this day. In the
+    1850s the Clarke family laid out lots of varied shape and size along what would become avenue
+    Clarke; with the neighbouring houses on avenue Rosemount they formed the nucleus of the village
+    of Côte-Saint-Antoine. At the top of the hill the family kept an orchard and a farmhouse,
+    Edgemont, which still stands at 512 avenue Clarke, much altered by successive changes.
+  streets:
+  - Clarke
+  - Mountain
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.7
+  note: >-
+    By-law number corroborated: Annexe III lists 473 avenue Clarke and 490 avenue Mountain under
+    "Secteur patrimonial 8".
 - id: rosemount
-  code: 23.E.8
+  code: 9
+  code_eval2005: 23.E.8
   name_fr: Rosemount
   value: exceptional
-  summary_en: '''Berceau de Westmount'' (c. 1874); exceptional late-19th and early-20th-century houses, low density, deep
-    setbacks.'
+  summary_en: >-
+    The « berceau de Westmount », where the idea of an independent village is said to have taken hold
+    around 1874. Its many exceptional houses of the late nineteenth and early twentieth centuries, a
+    landscape left largely natural, low density and deep setbacks make it one of the most sought-after
+    sectors in the city.
   streets:
   - Rosemount
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.8
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.8
+  note: >-
+    By-law number confirmed: Annexe III lists 5 avenue Rosemount, 451 avenue Mountain, 474 avenue
+    Mount Pleasant and 16 and 18 avenue Severn under "Secteur patrimonial 9".
 - id: saint-sulpice-ramezay
-  code: 23.E.9
-  name_fr: Saint-sulpice et Ramezay
+  code: 10
+  code_eval2005: 23.E.9
+  name_fr: Saint-Sulpice et Ramezay
   value: exceptional
-  summary_en: Former Sulpician farm; stone residences of c. 1930 on gently curved garden-city streets.
+  summary_en: >-
+    An isolated enclave that once belonged to the Sulpician farm, holding very fine stone residences
+    built around 1930. The gently curved, gracious layout of roads such as Ramezay and Daulac is drawn
+    from the garden-city movement. The sector forms a single landscape with its Rosemount and Cedar
+    neighbours.
   streets:
   - Saint-Sulpice
   - Ramezay
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.9
+  - Daulac
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.9
+  note: >-
+    By-law number confirmed: Annexe III lists 3120 and 3122 avenue Daulac and 29 chemin Ramezay under
+    "Secteur patrimonial 10", the two roads the 2005 fiche names.
 - id: domaine-holton
-  code: 23.E.10
+  code: 11
+  code_eval2005: 23.E.10
   name_fr: Domaine Holton
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.10
+  summary_en: >-
+    Between 1890 and 1914 promoters and speculators made this a sought-after address. Its town houses
+    make it one of the most homogeneous sectors in Westmount, though every house shows traits of its
+    own. There was once a stone quarry on avenue Holton.
+  streets:
+  - Holton
+  - Elm
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.10
+  note: >-
+    By-law number confirmed: Annexe III lists 41, 43, 45 and 47 avenue Holton under "Secteur
+    patrimonial 11".
 - id: priests-farm
-  code: 23.E.11
-  name_fr: Priests’ Farm
+  code: 12
+  code_eval2005: 23.E.11
+  name_fr: Priest's Farm
   value: exceptional
-  summary_en: Garden-city plan, 'l'un des premiers projets canadiens à adopter les rues sinueuses'; semi-detached houses,
-    flat roofs to the south and steep pitches to the north; built 1926–1930 by L. E. Schlemm to plans by the architects Shorey
-    and Ritchie; straddles Montréal and Westmount.
+  summary_en: >-
+    Named for the popular name of the Sulpicians, who owned the land. Inspired by the garden-city
+    movement, it is « l'un des premiers projets canadiens à adopter les rues sinueuses » that would
+    characterise post-war suburbs. The semi-detached scheme straddles Montréal and Westmount; the
+    buildings are of good quality, varying subtly on two basic designs — flat-roofed houses in the
+    southern part, steeply pitched roofs in the northern. Built 1926–1930 by L. E. Schlemm, planner
+    and landscape architect, to the plans of the architects Shorey and Ritchie.
   streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.11
-- id: forden-et-parc-murray
-  code: 23.E.12
-  name_fr: Forden et Parc Murray
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.11
+  note: >-
+    The 2005 fiche spells the planner « L.E. Schlemn »; the Part 5 brief and the Hampstead record
+    spell him Schlemm. Treated as the same person, spelling unresolved.
+- id: forden-parc-murray
+  code: 13
+  code_eval2005: 23.E.12
+  name_fr: Forden et parc Murray
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.12
-- id: avenue-argyle
-  code: 23.E.13
+  summary_en: >-
+    Still holds the country air of the former Leduc and William Murray estates. Murray's residence
+    "The Westmount", where the tennis courts now are, was demolished about 1930 when the municipality
+    bought the 46 acres for a park; parc Murray (King George) keeps its oak walks, weeping willows and
+    maples, and the cascading slope and the large properties around it still command views to the
+    Adirondacks. Forden Crescent surrounded an estate called Forden (c. 1830), pulled down about 1950
+    for four new houses. Developed between 1908 and 1928 and among the most select parts of the city.
+  streets:
+  - Forden
+  - Parc Murray
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.12
+  note: >-
+    By-law number confirmed: Annexe III lists 49 avenue Forden and 50 croissant Forden under "Secteur
+    patrimonial 13".
+- id: argyle
+  code: 14
+  code_eval2005: 23.E.13
   name_fr: Avenue Argyle
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.13
+  summary_en: >-
+    An 1890s project carried out while a debate raged between those who wanted urban development and
+    those who meant to keep Westmount's bucolic charm. The photographer William Notman took charge of
+    subdividing the lots and building row houses on the flank of the hill. The rows stand out from the
+    detached and attached houses of neighbouring sectors and include remarkable architectural
+    ensembles, such as those on avenues Thornhill and de Montrose.
+  streets:
+  - Argyle
+  - Thornhill
+  - De Montrose
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.13
+  note: >-
+    code_eval2005 assigned by exact name match. Unresolved: Annexe III lists 39 chemin de la
+    Côte-Saint-Antoine under "Secteur patrimonial 14", which may simply be a boundary address where
+    Argyle meets the founding road. Settle against Annexe I — Part 5b.
 - id: cote-saint-antoine
-  code: 23.E.14
-  name_fr: Chemin de la Côte-saint-antoine
+  code: 15
+  code_eval2005: 23.E.14
+  name_fr: Chemin de la Côte Saint-Antoine
   value: exceptional
-  summary_en: The founding rural road, a 'tracé fondateur d'intérêt patrimonial' reputed to follow an Indigenous trail; Hurtubise
-    farm (1739), Metcalfe Terrace (1840), Riverview (1847).
+  summary_en: >-
+    The rural character of this road betrays a long history: it is one of the first inland côtes of
+    Montréal, the roads that radiated from Ville-Marie and along which the first settlers' concessions
+    were aligned. The sector holds several buildings of historical and architectural importance built
+    between the early eighteenth and the early twentieth century, chief among them the Hurtubise farm
+    (1739), Metcalfe Terrace (1840) and Riverview (1847).
   streets:
   - Chemin de la Côte-Saint-Antoine
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.14
-- id: la-ferme-hurtubise
-  code: 23.E.15
-  name_fr: La Ferme Hurtubise
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.14
+  note: >-
+    By-law number confirmed: Annexe III lists 561 and 563 chemin de la Côte-Saint-Antoine — the
+    classified Maison Hurtubise — with four other addresses on the same road under "Secteur
+    patrimonial 15".
+- id: ferme-hurtubise
+  code: 16
+  code_eval2005: 23.E.15
+  name_fr: La ferme Hurtubise
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.15
-- id: avenue-roslyn
-  code: 23.E.16
+  summary_en: >-
+    What was originally the Hurtubise farm is now one of the densest sectors above rue Sherbrooke.
+    Éphrem Hudon fils, son of Justine-Solomé Hurtubise, sold the first lots in 1874; development was
+    practically finished by the end of the century and included excellent projects such as the one on
+    avenue Chesterfield, built in the late 1890s. True to Victorian habit, « le tarabiscotage rehausse
+    l'apparence de bâtiments somme toute modestes ».
+  streets:
+  - Chesterfield
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.15
+  note: null
+- id: roslyn
+  code: 17
+  code_eval2005: 23.E.16
   name_fr: Avenue Roslyn
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.16
-- id: au-sud-du-parc-murray
-  code: 23.E.17
-  name_fr: Au sud du Parc Murray
+  summary_en: >-
+    This stretch of avenue Roslyn is set apart from the streets around it by the size of its houses —
+    some a hundred years old, and almost all architecturally significant — by deep setbacks and by the
+    size of its lots. The variety of the buildings, their forms and their dimensions add to the
+    contrast.
+  streets:
+  - Roslyn
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.16
+  note: null
+- id: sud-parc-murray
+  code: 18
+  code_eval2005: 23.E.17
+  name_fr: Au sud du parc Murray
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.17
-- id: les-abords-de-lhotel-de-ville
-  code: 23.E.18
-  name_fr: Les Abords de L’hôtel de Ville
+  summary_en: >-
+    Dates from the creation of parc Westmount at the end of the nineteenth century and the building of
+    the municipal library and the first Victoria Hall. Lying between parc Westmount and parc King
+    George (Murray), it is made up largely of semi-detached and row houses. Every street runs
+    north–south except avenue Springfield, a quiet enclave despite being close to rue Sherbrooke. Some
+    authors hold that avenue Arlington, like the chemin de la Côte-Saint-Antoine, began as an
+    Indigenous trail.
+  streets:
+  - Springfield
+  - Arlington
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.17
+  note: null
+- id: hotel-de-ville
+  code: 19
+  code_eval2005: 23.E.18
+  name_fr: Abords de l'Hôtel de Ville
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.18
-- id: victoria-et-sherbrooke
-  code: 23.E.19
+  summary_en: >-
+    The meeting of the chemin de la Côte-Saint-Antoine and rue Sherbrooke took on importance with the
+    building of the new City Hall (1922), turned to face east rather than sit on the axis of the
+    street so that passers-by would know they had reached Westmount. Many public buildings stand in
+    this green space: Westmount Academy (rebuilt in the 1930s, now Selwyn House School), the bowling
+    green and its club (1902), the churches of St. Andrew and St. Matthias, the war memorial, the
+    Shaar Hashomayim synagogue, the Church of the Ascension, and apartments on the south side of
+    Sherbrooke. Between 1910 and 1935 stone and the neo-Tudor style were used again and again for
+    schools, churches and public buildings.
+  streets:
+  - Sherbrooke
+  - Chemin de la Côte-Saint-Antoine
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.18
+  note: null
+- id: victoria-sherbrooke
+  code: 20
+  code_eval2005: 23.E.19
   name_fr: Victoria et Sherbrooke
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.19
-- id: sherbrooke-et-parc-westmount
-  code: 23.E.20
-  name_fr: Sherbrooke et Parc Westmount
+  summary_en: >-
+    Tramways on avenue Victoria and on Sherbrooke and Sainte-Catherine, together with the two Canadian
+    Pacific stations — the first at the foot of avenue Abbott, the second at the foot of avenue
+    Victoria — brought commercial development here in the 1890s. Careful about the kinds of housing
+    they allowed, Westmounters were stricter still about trade, admitting only service businesses,
+    food shops, cobblers, banks and the like. Most of the older buildings on Sherbrooke, including a
+    good many mainly-row houses, survive intact; on avenue Victoria many were demolished for office
+    buildings and modern-inspired apartments.
+  streets:
+  - Victoria
+  - Sherbrooke
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.19
+  note: null
+- id: sherbrooke-parc-westmount
+  code: 21
+  code_eval2005: 23.E.20
+  name_fr: Sherbrooke et parc Westmount
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.20
-- id: lower-westmount-residences
-  code: 23.E.21
-  name_fr: Résidences du Lower Westmount
+  summary_en: >-
+    Despite dense traffic and repeated attempts to commercialise it, rue Sherbrooke kept its
+    residential character in the eastern portion around City Hall, thanks to apartment buildings of
+    about 1913. The western portion became the city's cultural and recreational centre through the
+    Cote St. Antoine Improvement Committee, which brought about parc Westmount (formerly Victoria
+    Jubilee Park, named for the Queen's 1897 jubilee), the Westmount public library and Victoria Hall.
+  streets:
+  - Sherbrooke
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.20
+  note: null
+- id: residences-lower-westmount
+  code: 22
+  code_eval2005: 23.E.21
+  name_fr: Résidences de Lower Westmount
   value: exceptional
-  summary_en: Elaborate Queen Anne houses of the 1880s on Metcalfe and Melbourne; flat-roofed villa-type houses on Redfern.
+  summary_en: >-
+    Flat, central and easy to reach, with fine large detached houses screened from the traffic of rue
+    Sherbrooke by apartment blocks. The first, very elaborate Queen Anne houses were built in the
+    1880s on avenues Metcalfe and Melbourne; the other avenues followed one by one from west to east
+    as the Sœurs Grises sold their property. One of the last, avenue Redfern — named for a former
+    mayor who favoured the villa type of house — has flat-roofed residences on large lots.
   streets:
   - Metcalfe
   - Melbourne
   - Redfern
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.21
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.21
+  note: >-
+    By-law number confirmed: Annexe III lists 376–384 chemin Metcalfe and 327 avenue Redfern under
+    "Secteur patrimonial 22".
 - id: saint-leon
-  code: 23.E.22
-  name_fr: Les Alentours de L’église Saint-léon
+  code: 23
+  code_eval2005: 23.E.22
+  name_fr: Alentours de l'église Saint-Léon
   value: exceptional
-  summary_en: Stone row houses on avenue Olivier (1890s); one of Westmount's first apartment buildings, 1907, on De Maisonneuve.
+  summary_en: >-
+    Building began in the late 1870s and took off in the 1890s with several ensembles of stone row
+    houses on avenue Olivier. Over the twenty years that followed, elegant apartment buildings — one
+    of the first in Westmount, built in 1907 on boulevard De Maisonneuve — and further row houses
+    appeared, and the sector became the centre of a luxurious urban way of living. It holds two
+    important churches, one of which, with the école Saint-Léon, occupies two-thirds of a block.
   streets:
   - Olivier
   - De Maisonneuve
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.22
-- id: greene-et-sainte-catherine
-  code: 23.E.23
-  name_fr: Greene et Sainte-catherine
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.22
+  note: >-
+    By-law number confirmed: Annexe III lists 373, 375, 379, 381 and 383 avenue Olivier under "Secteur
+    patrimonial 23", the street the 2005 fiche names for its stone rows.
+- id: greene-sainte-catherine
+  code: 24
+  code_eval2005: 23.E.23
+  name_fr: Greene et Sainte-Catherine
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.23
+  summary_en: >-
+    Tramways on avenue Greene and rue Sainte-Catherine in the 1890s brought commercial development to
+    both. Selective about housing, Westmounters were stricter still about trade, permitting only
+    service businesses, food shops, cobblers, banks and the like. The sector has changed a great deal:
+    older buildings have been replaced by new ones integrated with varying success. Avenue Greene has
+    made itself a smart shopping street, while rue Sainte-Catherine is more like the big city, given
+    how close it is to downtown Montréal.
+  streets:
+  - Greene
+  - Sainte-Catherine
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.23
+  note: >-
+    By-law number confirmed: Annexe III lists 1365 and 1367 avenue Greene under "Secteur patrimonial
+    24".
 - id: wood-elm-sud-sherbrooke
-  code: 23.E.24
-  name_fr: Wood et Elm, au sud de Sherbrooke
+  code: 25
+  code_eval2005: 23.E.24
+  name_fr: Wood et Elm, sud de Sherbrooke
   value: exceptional
-  summary_en: Row houses in runs of up to eight units, 1885–1905; local greystone preferred over brick; false-mansard crowns.
+  summary_en: >-
+    Built between 1885 and 1905, when small investors and property developers were putting up
+    row-house projects of eight units or fewer, generally in the lower town. Local stone was preferred
+    to brick as a facing material for most of the houses, and a false mansard is more often found than
+    a plain parapet at the crown.
   streets:
   - Wood
   - Elm
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.24
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.24
+  note: null
 - id: college-dawson
-  code: 23.E.25
+  code: 26
+  code_eval2005: 23.E.25
   name_fr: Collège Dawson
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.25
+  summary_en: >-
+    The building that now houses Dawson College was for three-quarters of the twentieth century the
+    mother house of the Sisters of the Congrégation Notre-Dame. Built between 1905 and 1908 on land
+    once held by the Sulpicians, the convent complex sits at the centre of an immense lot of 48,903 m²,
+    about three city blocks. The architect Jean-Omer Marchand drew it in the Beaux-Arts manner as his
+    first major Montréal commission after returning from the École des Beaux-Arts in Paris; the
+    Sherbrooke façade is the most opulent, drawing on both Romanesque and Renaissance architecture.
+    The whole property was classified a historic site by the ministère des Affaires culturelles in 1977.
+  streets:
+  - Sherbrooke
+  - De Maisonneuve
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.25
+  note: null
 - id: somerville
-  code: 23.E.26
+  code: 27
+  code_eval2005: 23.E.26
   name_fr: Secteur Somerville
   value: exceptional
-  summary_en: Brick row houses, the largest such project in Westmount; corner turrets; spurred by the CP stations of 1889
-    and 1907.
+  summary_en: >-
+    Members of the Hurtubise family sold this part of the farm to investors in the early 1880s;
+    development began ten years later, prompted by the tramway on rue Sainte-Catherine and avenue
+    Victoria and by the first CP station near avenue Abbott in 1889 and a second, still standing, in
+    1907. Almost entirely brick row houses, it was the largest project of its kind in Westmount;
+    architectural details such as turrets on corner units and at the head of each run lift otherwise
+    modest building. The southern part holds newer high-rises, detached and semi-detached houses and a
+    few old country houses that turn their backs on rue Sainte-Catherine, which is more like an
+    expressway here.
   streets:
   - Somerville
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.26
-- id: site-de-lancienne-boulangerie
-  code: 23.E.27
-  name_fr: Site de L’ancienne Boulangerie
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.26
+  note: null
+- id: ancienne-boulangerie
+  code: 28
+  code_eval2005: 23.E.27
+  name_fr: Sur le site de l'ancienne boulangerie
   value: exceptional
-  summary_en: null
+  summary_en: >-
+    Two- and three-storey row houses built in the mid-1970s, adding a modern note to a sector developed
+    nearly ninety years earlier; their proportions, dimensions and use of brick tie them into the urban
+    fabric. They replaced older houses and the Wonder bakery, the first POM plant, built in 1907.
   streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.27
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.27
+  note: null
 - id: grosvenor
-  code: 23.E.28
+  code: 29
+  code_eval2005: 23.E.28
   name_fr: Avenue Grosvenor
   value: exceptional
-  summary_en: Two-storey brick row houses, many of them duplexes.
+  summary_en: >-
+    The part of avenue Grosvenor south of rue Sherbrooke is set apart from neighbouring streets by its
+    density, form, proportions and building type. It is made up almost entirely of modest runs of
+    two-storey brick row houses, well aligned and pressed tightly together; several are duplexes, which
+    adds to the density. The second Canadian Pacific station at the foot of avenue Victoria prompted
+    development of this kind at the end of the nineteenth century by making downtown Montréal quick to
+    reach.
   streets:
   - Grosvenor
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.28
-- id: lansdowne-et-roslyn-au-sud-de-sherbrooke
-  code: 23.E.29
-  name_fr: Lansdowne et Roslyn, au sud de Sherbrooke
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.28
+  note: null
+- id: lansdowne-roslyn-sud
+  code: 30
+  code_eval2005: 23.E.29
+  name_fr: Lansdowne et Roslyn, sud de Sherbrooke
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.29
+  summary_en: >-
+    Development was launched by the laying out of Westmount's first public park at the turn of the
+    century; the Cote St. Antoine Committee, formed in 1890, was behind the park created to mark Queen
+    Victoria's jubilee in 1897. Once a very busy artery, avenue Lansdowne carries an assortment of
+    building types and styles, while avenue Roslyn, with its semi-detached houses, was planned and
+    developed in an orderly way.
+  streets:
+  - Lansdowne
+  - Roslyn
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.29
+  note: null
 - id: tours-de-westmount
-  code: 23.E.30
-  name_fr: Les Tours de Westmount
+  code: 31
+  code_eval2005: 23.E.30
+  name_fr: Les tours de Westmount
   value: exceptional
-  summary_en: Westmount Square (Mies van der Rohe, 1967) and Place Alexis Nihon, International Style, built after 1960s rezoning
-    demolished blocks on Elm and Wood.
+  summary_en: >-
+    The urban and economic growth of the 1960s set off the development of this sector in southern
+    Westmount. After a revision of the zoning by-law permitting higher densities and commercial uses,
+    whole blocks of houses and buildings on avenues Elm and Wood were demolished, to public outcry.
+    Two mixed-use high-rise projects followed one another for Expo 67 — Westmount Square, by the
+    architect Mies van der Rohe and « l'un des exemples les plus frappants du style international »,
+    and Place Alexis Nihon on the former Montreal Royals baseball ground. Two further luxury
+    condominium towers went up in the late 1980s.
   streets:
   - Sainte-Catherine
   - De Maisonneuve
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.30
-- id: place-de-blenheim
-  code: 23.E.31
-  name_fr: Les Abords de Place de Blenheim
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.30
+  note: null
+- id: blenheim-place
+  code: 32
+  code_eval2005: 23.E.31
+  name_fr: Abords de Blenheim Place
   value: exceptional
-  summary_en: Sixteen identical Victorian façades with polychrome 'tarabiscotage', nearly intact.
+  summary_en: >-
+    The opening of Westmount's first station on avenue Abbott encouraged development of the small
+    streets between rue Sainte-Catherine and the CP right-of-way, with Victorian row houses. Place de
+    Blenheim is unique: sixteen identical façades, practically intact, each set off by its own
+    brightly coloured « tarabiscotage ». On rue Sainte-Catherine, where the tramway ran, there is a
+    variety of buildings including apartments and row houses converted to offices.
   streets:
-  - Place de Blenheim
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.31
-- id: de-maisonneuve-autour-du-parc-westmount
-  code: 23.E.32
-  name_fr: De Maisonneuve, Autour du Parc Westmount
+  - Blenheim Place
+  - Sainte-Catherine
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.31
+  note: >-
+    The by-law names the place in English word order (Blenheim Place); the 2005 fiche heads it « LES
+    ABORDS DE PLACE DE BLENHEIM ». Same sector.
+- id: de-maisonneuve-parc
+  code: 33
+  code_eval2005: 23.E.32
+  name_fr: De Maisonneuve, autour du parc Westmount
   value: exceptional
-  summary_en: null
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.32
+  summary_en: >-
+    Boulevard De Maisonneuve (formerly avenue Western) and avenue Metcalfe appear on maps of 1879, but
+    their development began only twenty years later, in the middle of Westmount's building boom; de
+    Kensington and Melville (formerly Elgin) followed shortly after. The sector is fairly dense, its
+    houses almost all attached and irregularly aligned. Its original character has been somewhat
+    disturbed by the demolition of many houses and the building of apartments, but fine brick and
+    stone buildings remain. In the mid-1980s boulevard De Maisonneuve was cut at avenue Melville to
+    add green space to parc Westmount and reduce traffic.
+  streets:
+  - De Maisonneuve
+  - Metcalfe
+  - Kensington
+  - Melville
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.32
+  note: null
+- id: westmount-high
+  code: 34
+  code_eval2005: 23.I.3
+  name_fr: Autour de Westmount High
+  value: interesting
+  summary_en: >-
+    This more southerly sector lost its intimate character for good in the wave of urban renewal that
+    struck North American cities in the 1960s. Apartment buildings out of all proportion to their
+    low-rise neighbours appeared on rue Sainte-Catherine and boulevard De Maisonneuve; Westmount High
+    School replaced the Montreal Amateur Athletic Club and many row houses; families displaced by the
+    building of the autoroute were rehoused in low-grade public housing on avenue Hillside. The
+    Hillside sector had traditionally held industry — stone quarries employing 300 people around 1910,
+    warehouses, the Montreal Water and Power garages, the Riding Academy and its stables.
+  streets:
+  - Hillside
+  - Sainte-Catherine
+  - De Maisonneuve
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.3
+  note: null
 - id: hallowell-weredale
-  code: 23.E.33
-  name_fr: Hallowell-weredale
+  code: 35
+  code_eval2005: 23.E.33
+  name_fr: Hallowell-Weredale
   value: exceptional
-  summary_en: About 240 buildings, mostly attached town houses of 1870–1914; the first Westmount project with paved rear lanes.
+  summary_en: >-
+    Built on the former fief Saint-Joseph, the sector forms a cul-de-sac at the edge of the escarpment.
+    It holds about 240 buildings, the great majority attached town houses: rather luxurious and
+    eclectic on boulevard Dorchester (built 1870–1890), modest but lively east of avenue Greene (also
+    about 1870–1890), and reasonable and unpretentious west of Greene (about 1890–1914). It was the
+    first project in Westmount to include paved rear lanes. On Weredale Park, the old circular
+    carriage drive of the Weredale estate, the buildings are a disparate group tucked into a quiet
+    corner.
   streets:
   - Hallowell
   - Weredale
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.33
+  - Dorchester
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.33
+  note: null
 - id: rue-saint-antoine
-  code: 23.E.34
-  name_fr: Rue Saint-antoine
+  code: 36
+  code_eval2005: 23.E.34
+  name_fr: Rue Saint-Antoine
   value: exceptional
-  summary_en: 'Attached greystone triplexes of the 1890s with straight, steep exterior stairs: ''ce genre de construction
-    typique de Montréal se retrouve rarement à Westmount''.'
+  summary_en: >-
+    Somewhat cut off from the rest of Westmount by the physical barrier of the escarpment and the
+    autoroute. It is made up largely of attached stone triplexes built in the 1890s and marked by
+    straight, steep exterior stairs: « ce genre de construction typique de Montréal se retrouve
+    rarement à Westmount », though a few scattered examples exist elsewhere in the south-west. The
+    sector also holds former industrial buildings such as Dawson College's Selby Campus.
   streets:
   - Saint-Antoine
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.34
-- id: place-park
-  code: 23.E.35
-  name_fr: Autour de Place Park
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.34
+  note: null
+- id: park-place
+  code: 37
+  code_eval2005: 23.E.35
+  name_fr: Autour de Park Place
   value: exceptional
-  summary_en: Interwar neo-Tudor apartment ensembles; the Glen bridge (1892).
+  summary_en: >-
+    South of parc Westmount, marked above all by its apartment buildings, both those put up after the
+    First World War and more recent ones. The buildings around chemin Academy and Place Park form one
+    of the most coherent and agreeable ensembles in the city for height, volume and style; the
+    neo-Tudor style, very popular between the wars, appears on almost all the older buildings. The
+    curving intersection of Sainte-Catherine and Lansdowne and the Glen bridge (1892) add a
+    picturesque note, somewhat spoiled by a recently built apartment tower.
   streets:
-  - Place Park
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.35
-- id: abords-oratoire
-  code: 23.I.1
-  name_fr: Les Abords de L’oratoire
+  - Park Place
+  - Academy
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.E.35
+  note: >-
+    The by-law names it in English word order (Park Place); the 2005 fiche heads it « AUTOUR DE PLACE
+    PARK ». Same sector.
+- id: alentours-cour-glen
+  code: 38
+  code_eval2005: 23.I.4
+  name_fr: Les alentours de la Cour Glen
   value: interesting
-  summary_en: Postwar Renaissance-inspired houses on a former golf links.
+  summary_en: >-
+    This part of the south-west now holds mostly industrial buildings, a good number of them owned by
+    Westmount: the maintenance and storage garages of the Public Works department, and the Westmount
+    Hydro building of 1906, which originally generated electricity from waste. The escarpment and the
+    elevated track that crosses it dominate the sector.
   streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.1
-- id: cour-glen-a
-  code: 23.I.2
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.4
+  note: >-
+    code_eval2005 corrected against the 2005 PDF (p. 36): the Part 5 v2 brief gives 23.I.2 here and
+    23.I.4 for sector 39, but the 2005 study heads 23.I.2 « LA COUR GLEN » (the vacant CP station) and
+    23.I.4 « LES ALENTOURS DE LA COUR GLEN » (the Public Works and Hydro buildings). Matched by name.
+- id: cour-glen
+  code: 39
+  code_eval2005: 23.I.2
   name_fr: La Cour Glen
   value: interesting
-  summary_en: Industrial/CP railway lands.
+  summary_en: >-
+    The far south-western tip of Westmount, occupied by the former Canadian Pacific station, now
+    vacant. The escarpment and the elevated track that crosses it dominate the sector; the old CP Glen
+    yard lies on the edge of the escarpment at the western end and is visible from as far away as parc
+    King George.
   streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.2
-- id: westmount-high
-  code: 23.I.3
-  name_fr: Autour du Westmount High School
-  value: interesting
-  summary_en: 1960s urban renewal.
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.3
-- id: cour-glen-b
-  code: 23.I.4
-  name_fr: Les Alentours de la Cour Glen
-  value: interesting
-  summary_en: Industrial/CP railway lands.
-  streets: []
-  source: Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.4
+  source: Règlement 1305, Annexe I; Évaluation du patrimoine urbain — Westmount (2005), fiche 23.I.2
+  note: >-
+    code_eval2005 corrected against the 2005 PDF (p. 36) — see sector 38. The by-law gives this
+    sector a guideline booklet of its own, « La Cour Glen » (Annexe II); that booklet was not supplied
+    to this session, so the claim rests on the brief's reading of the by-law.

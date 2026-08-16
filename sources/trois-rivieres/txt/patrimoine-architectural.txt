@@ -1,0 +1,556 @@
+ 
+Patrimoine architectural | Site officiel de la Ville de Trois-Rivières 
+Patrimoine architectural | Site officiel de la Ville de Trois-Rivières 
+Passer
+directement au contenu 
+Mon eau, j'y tiens! Consultez la réglementation. 
+Le mode contraste élevé a été activé. En savoir plus -->
+À la une 
+Carte interactive 
+Emplois 
+Infolettre 
+Nous joindre 
+Services en ligne 
+Menu 
+Services
+à la population 
+Activités
+et loisirs 
+Culture 
+Affaires 
+À
+propos de la Ville 
+À la une 
+Carte interactive 
+Emplois 
+Infolettre 
+Nous joindre 
+Services en ligne 
+Services à la population
+Activités et loisirs
+Culture
+Affaires
+À propos de la Ville
+Liens rapides
+Alertes citoyennes 
+Horaire de collecte des bacs 
+Police 
+Sécurité incendie 
+Stationnement 
+Tout sur ma propriété 
+Services à la population
+Bureau du service client 311 
++ 
+Collectes et matières résiduelles 
++ 
+Conseils saisonniers 
++ 
+Cour municipale 
++ 
+Eau 
++ 
+Environnement 
++ 
+Habitation 
++ 
+Permis et certificats 
++ 
+Règlements municipaux 
++ 
+Réseau routier et transport 
++ 
+Sécurité du public 
++ 
+Subventions à la population 
++ 
+Taxes et évaluation 
++ 
+Vie communautaire 
++ 
+Liens rapides
+Carte plein air 
+Catalogue des Bibliothèques 
+Patinage libre 
+Réseau cyclable 
+Tourisme Trois-Rivières 
+Activités et loisirs
+Bibliothèques 
++ 
+Calendrier des activités 
++ 
+Camp de jour 
++ 
+Centre-ville 
++ 
+Événements 
++ 
+Installations sportives et récréatives 
++ 
+Jeux du Québec 2025 
++ 
+Location de salles et de gymnases 
++ 
+Parcs canins 
++ 
+Parcs et espaces verts 
++ 
+Liens rapides
+Inscription à la liste d'envoi d'appels de projets culturels 
+Amphithéâtre Cogeco 
+Bibliothèques 
+Corporation des événements 
+Culture 3R 
+Tourisme Trois-Rivières 
+Vitrine sur la culture en Mauricie - DICI 
+Culture
+Activités culturelles 
++ 
+Art public et arts visuels 
++ 
+Grands Prix culturels de Trois-Rivières 
++ 
+Histoire et patrimoine 
++ 
+Soutien aux organismes et artistes 
++ 
+Vision culturelle 
++ 
+Liens rapides
+Commerces en alerte 
+Guide du promoteur immobilier 
+IDE Trois-Rivières 
+Trois-Rivières Centre 
+Affaires
+Acheter un terrain de la Ville 
++ 
+Aéroport de Trois-Rivières 
++ 
+Certification en développement durable 
++ 
+Faire affaire avec la Ville 
++ 
+Liste des contrats 
++ 
+Portrait socio-économique 
++ 
+Ressources d’affaires 
++ 
+Subventions aux entreprises 
++ 
+Liens rapides
+Conseil municipal 
+Participation publique 
+Quartiers trifluviens 
+Webdiffusion des séances 
+À propos de la Ville
+Administration municipale 
++ 
+Avis publics 
++ 
+Budget et rapports financiers 
++ 
+Communications 
++ 
+Emplois 
++ 
+Planification 
++ 
+Politiques et plans d’action 
++ 
+Portrait de la Ville 
++ 
+Prix et distinctions 
++ 
+Rapport annuel 
++ 
+Vérificateur général 
++ 
+Vie démocratique 
++ 
+Recherche
+X
+Catégories
+{{cat.Name}} ({{cat.Results}}) 
+Filtrer par catégorie 
+{{cat.Name}} ({{cat.Results}})
+{{ResultsToDisplay.length}} résultat{{(ResultsToDisplay.length > 1 ? 's' : '')}}
+{{result.Meta}} 
+{{result.SubInfo}} 
+= MinCars">
+Aucun résultat
+Recherche en cours ...
+Entrez au moins {{MinCars}} caractères
+10"
+ng-click="SetFacetResults(true);">
+Voir plus de résultats
+10 && ShowAll == false"
+ng-click="SetShowAll()">
+Afficher plus de résultats
+Culture 
+Histoire et patrimoine 
+accueil 
+› 
+Culture 
+› 
+Histoire et patrimoine 
+› 
+Patrimoine architectural 
+Patrimoine architectural
+Deuxième ville fondée en Nouvelle-France, Trois-Rivières possède un important héritage patrimonial. Bien connu de la population comme des touristes, le centre-ville trifluvien abrite en son cœur l’un des sites patrimoniaux déclarés du Québec .
+En plus de ce célèbre secteur, le territoire de la ville est doté d’une variété de courants architecturaux qui témoignent de son histoire. Du courant colonial français qui rappelle la fondation de la ville en passant par l’influence du régime britannique qui se traduit notamment dans l’architecture néoclassique anglaise, jusqu’à l’intégration graduelle de nouveaux styles à partir du XX e siècle, les trésors architecturaux foisonnent.
+Cette page présente un inventaire du patrimoine architectural trifluvien ainsi qu’une synthèse des principaux courants architecturaux présents sur le territoire de la ville.
+Inventaire du patrimoine architectural
+Grâce à un partenariat avec le ministère de la Culture, des Communications et de la Condition féminine, la Ville procède à l’inventaire exhaustif de son patrimoine bâti entre 2008 et 2010.
+Des 3856 bâtiments inventoriés, on retient 250 bâtiments pour leur valeur patrimoniale exceptionnelle.
+L’inventaire de ces 250 bâtiments à valeur patrimoniale exceptionnelle et supérieure peut être consulté :
+En format PDF à même cette page;
+Sur support papier dans les Bibliothèques de la Ville de Trois-Rivières, de l’UQTR, du Cégep de Trois-Rivières et du Collège Laflèche;
+Sur support DVD au coût de 5 $ au Manoir Boucher de Niverville .
+En complément à cet inventaire, une étude de caractérisation du patrimoine industriel trifluvien a été réalisée et complétée en 2024. Cette étude avait pour objectif de documenter l’importance de l’industrie dans l’histoire et le développement de la ville. Elle a permis d’identifier les grandes périodes et les principaux jalons qui ont marqué les industries trifluviennes en dressant un portrait de l’évolution du tissu urbain industriel depuis le 17e siècle jusqu’à aujourd’hui.
+Étude de caractérisation du patrimoine industriel trifluvien Inventaire et évaluation patrimoniale d’éléments de commémoration de la Ville de Trois-Rivière 
+Carte des secteurs de Trois-Rivières
+Inventaire du patrimoine bâti (Introduction et méthodologie) Inventaire du patrimoine bâti (secteur de Cap-de-la-Madeleine) Inventaire du patrimoine bâti (secteur de Pointe-du-Lac) Inventaire du patrimoine bâti (secteur de Sainte-Marthe) Inventaire du patrimoine bâti (secteur de Saint-Louis-de-France) Inventaire du patrimoine bâti (secteur de Trois-Rivières (Partie 1)) Inventaire du patrimoine bâti (secteur de Trois-Rivières (Partie 2)) Inventaire du patrimoine bâti (secteur de Trois-Rivières-Ouest) 
+Répertoire des immeubles ayant un statut légal
+Les bâtiments répertoriés ont l’un des statuts légaux suivant : désignation fédérale, bien patrimonial classé, bien patrimonial cité ou site patrimonial.
+Répertoire des immeubles de la Ville ayant un statut légal novembre 2017 
+Synthèse architecturale et patrimoniale
+En plus de cet inventaire, une synthèse de l’histoire architecturale et patrimoniale de la ville a également été réalisée lors de l’inventaire architectural.
+Synthèse architecturale et patrimoniale 
+Principaux courants architecturaux de Trois-Rivières
+Chacune des fiches des principaux courants architecturaux de Trois-Rivières présente un bref historique du courant, de ces variantes possibles ainsi que des conseils pour conserver son style architectural lors de rénovation.
+Architecture de villégiature
+Caractéristiques architecturales :
+Volume habituellement d’un seul étage avec toit à faible pente;
+Corps de logis pouvant présenter un plan en « L »;
+Véranda ou galerie importante sur plusieurs façades protégée par un avant-toit;
+Ouvertures variées, présence de portes-fenêtres, ouvertures sur des éléments du paysage;
+Matériaux de revêtements naturels : bois rond, planches de bois, pierre des champs;
+Cadre naturel et aménagements paysagers omniprésents.
+L’architecture de villégiature prend naissance avec le courant pittoresque, mouvement artistique anglais du 19 e siècle, tributaire du romantisme, qui favorise la vie à la campagne, les habitations chaleureuses, les paysages naturels, la nostalgie des formes du passé, le culte des ruines.
+Au 19 e siècle, l’architecture de villégiature n’est pas définissable uniquement par ses caractéristiques stylistiques principales puisqu’elle est assez versatile dans ses formes. Le cottage Regency, associé au courant néoclassique, est d’ailleurs tributaire de l’architecture de villégiature en raison du profil bas de la toiture dont les avant-toits se prolongent au-delà des murs et recouvrent une galerie ceinturant le carré de la maison dans le but de se rapprocher de la nature.
+L’architecture de villégiature du 20 e siècle est plus répandue et variée. Elle n’est pas associée à un style historique en particulier, mais plutôt à un mode de vie et à une philosophie. Les maisons ou chalets de villégiature ont d’ailleurs une parenté avec l’architecture Arts & Crafts. C’est souvent leur modestie, leur emplacement et leur fonction saisonnière qui les distinguent. Ces résidences sont souvent dissimulées dans la nature.
+La ville de Trois-Rivières compte de nombreux exemples d’architecture de villégiature très variés. Les rives du fleuve Saint-Laurent et du lac Saint-Pierre ont été très prisées au 20 e siècle par les familles recherchant un décor champêtre pour y aménager une résidence secondaire ouverte sur le panorama fluvial.
+Fiche complète – Architecture de villégiature 
+Maison de villégiature en bardeau de cèdre reconnaissable à sa galerie protégée par ses larges toitures débordantes percées de lucarnes triangulaires.
+5217, rue Notre-Dame Ouest 
+Cette résidence de villégiature, à la toiture à pavillon à faible pente, possède une large galerie où il fait bon se détendre.
+5216, rue Notre-Dame Ouest 
+Arts & Crafts
+Caractéristiques architecturales :
+Volume généralement imposant au plan articulé;
+Toitures de formes variées à versants de longueurs inégales, présence de cheminées;
+Ouvertures nombreuses et diversifiées, présence de fenêtres jumelées et de lucarnes;
+Espaces extérieurs protégés (perrons, galeries, terrasses);
+Utilisation de matériaux naturels et traditionnels (pierre, brique, stuc, bardeau de cèdre, planches de bois), parfois combinés entre eux;
+Ornements souvent limités aux éléments de la charpente (colombages, chevrons apparents);
+Chaque cas est unique et possède ses propres caractéristiques.
+Au tournant du 19 e siècle, en Angleterre, la société traditionnelle subit des transformations majeures en raison de l’industrialisation. C’est alors qu’apparaissent des mouvements de pensée en réaction contre cette perte de la structure sociale traditionnelle, des moeurs, de la religion et de la ville. Ce mouvement et celui de la cité-jardin, véritable révolution urbanistique de la fin du 19 e siècle, convergent. On veut remplacer les quartiers d’habitation ouvrière sordides par de nouveaux, planifiés selon des principes humanistes.
+Pour apprécier l’architecture du courant Arts & Crafts, il faut remonter aux théories du critique d’art John Ruskin (1819-1900) et de l’artiste et écrivain William Morris (1834-1896), tous deux Britanniques. Ils proposent de s’inspirer de l’artisanat et de l’habitation de la campagne anglaise afin de créer une architecture qui s’inscrive dans la tradition nationale. Le retour au travail manuel, l’usage de matériaux traditionnels ainsi que le recours aux savoir-faire locaux sont valorisés pour faire obstacle à la standardisation. Le mouvement anglais gagne ensuite les États-Unis où cette influence se divise en plusieurs courants parmi lesquels on retrouve le « Shingle Style », surtout populaire sur la côte est, le « Prairie Style », plutôt associé au centre du pays, et le style « Craftsman » de la côte ouest. Les différentes tendances sont rapidement popularisées par les catalogues et les revues de plans à travers l’Amérique du Nord durant toute la première moitié du 20 e siècle.
+Si les réalisations du mouvement sont largement diffusées, son idéologie demeure mal comprise. Ainsi, en Amérique, le mouvement Arts & Crafts devient essentiellement un mouvement stylistique, sans portée sociale.
+D’abord adopté par l’élite anglophone, il n’est pas surprenant de retrouver quelques exemples de ce style pour les résidences de dirigeants de grande compagnie, comme c’est le cas à la place Freeman (ancienne terrasse Saint-Maurice) qui était réservée aux patrons de la Saint-Maurice Paper Company. Ensuite, cette architecture a eu une influence dans toutes les couches de la société jusqu’à la Seconde Guerre mondiale.
+Fiche complète – Arts et Crafts 
+Résidence issue du courant Arts & Crafts.
+1711, boulevard Saint-Louis 
+Résidence Arts & Crafts reconnaissable par ses jeux de toitures et son revêtement de bardeau de cèdre.
+11, place Freeman 
+Boomtown
+Caractéristiques architecturales du courant :
+Volume cubique ou rectangulaire, généralement de deux étages, peu dégagé du sol;
+Toiture plate ou à faible pente vers l’arrière;
+Peu de saillies à l’exception d’une galerie protégée d’un auvent ou d’un balcon à l’étage;
+Parement en déclin de bois ou en brique;
+Distribution régulière des ouvertures;
+Fenêtres à battants à grands carreaux et présence possible de petites fenêtres de comble;
+Ornementation concentrée dans la partie supérieure de la façade au moyen d’une corniche, d’un parapet ou de jeux de briques;
+Autres éléments d’ornementation discrets : chambranles, planches cornières, platebandes en brique, etc.
+Le phénomène de la standardisation des matériaux et de la mécanisation du travail a permis de mettre au point, aux États-Unis puis au Canada, de nouveaux modes de charpente à claire-voie aussi appelée « Balloon Frame » qui, à l’aide de madriers sciés, accélèrent considérablement le processus de construction. L’introduction de ce mode de construction qualifié d’« American Boomtown », coïncide avec la croissance rapide de la ville et son essor démographique important. Cette architecture s’est développée surtout après la crise économique de 1870. Elle constitue alors une option de construction à la fois économique et rapide dans les villes-champignons à forte croissance industrielle. L’architecture Boomtown constitue un courant propre à l’architecture domestique et commerciale.
+La nouvelle venue coexiste d’abord avec les maisons villageoises de tradition québécoise et à mansarde avant de les supplanter au tournant du 20 e siècle. S’il s’en trouve partout au Québec, Trois-Rivières offre une concentration suffisante pour la faire apparaître comme caractéristique de la ville. Elles se retrouvent en bon nombre dans les noyaux villageois, mais également isolées en milieu rural. Parfois revêtue de bois, souvent bâtie en brique, la maison Boomtown possède à ses débuts des toitures à faible pente vers l’arrière, dit à égout extérieur, dont la pente peut atteindre 15 degrés.
+Plus tard, avec l’arrivée des membranes étanches, ces maisons adoptent le toit plat, dit à bassin ou à égout intérieur. Étant donné que le toit devient invisible, sa présence est remplacée par des ouvrages ornementaux sous forme de corniche ou de parapet.
+Fiche complète – Boomtown 
+Résidence unifamiliale typique de l’architecture Boomtown qui a conservé plusieurs éléments authentiques dont la volumétrie, le parement de planches de bois, les fenêtres à battants à grands carreaux et des ornements en bois. 1720, rue Bellefeuille 
+Cette résidence, typique courant Boomtown, comporte des fenêtres de comble en forme de losange ainsi qu’une corniche et d’une galerie ouvragée.
+634, rue des Ursulines 
+Bungalow
+Caractéristiques architecturales :
+Volume horizontal généralement d’un seul étage;
+Toiture variée, en croupe ou à deux versants asymétriques, à pente faible débordant des murs;
+Cheminée massive, parfois en façade;
+Fenestration abondante et variée : fenêtres en coin, en bandeau, jumelées, panoramiques, etc.;
+Porche d’entrée;
+Garage ou abri d’auto intégré au corps de bâtiment principal;
+Composition généralement horizontale, accentuée par le profil bas du toit et la disposition des matériaux.
+À l’origine, le terme bungalow désigne une maison basse à un étage entourée d’une véranda, répandue dans les colonies britanniques aux Indes, tirant son nom de la baie du Bengale (Bengali Wooden House). Au Québec, le bungalow fait son apparition surtout au lendemain de la Seconde Guerre mondiale après avoir été popularisé aux États-Unis par l’architecte Frank Lloyd Wright quelques décennies auparavant, sous la forme des « Prairies Houses ». Ce type de résidence constitue la production courante des promoteurs-constructeurs d’habitations individuelles dans les années 1940, 1950 et 1960 dans les banlieues. Elle prend la place qu’occupait jadis l’architecture vernaculaire et devient le type d’habitation unifamiliale destiné à la classe moyenne.
+Ces maisons se substituent aux minuscules maisons « War Time », plutôt rares dans notre région, construites sous l’égide de la Société centrale d’hypothèques et de logement (SCHL) pour les militaires démobilisés. Les premiers bungalows sont cependant construits dès le début des années 1940, toujours selon les plans de la SCHL, sorte d’uniformisation pancanadienne. Ils se multiplient alors que la ville s’étale de 1940 à 1970 et démontrent la prospérité qui suit la fin de la Seconde Guerre mondiale : une maison et une voiture pour chaque famille.
+Les premiers modèles présentent une certaine sobriété remarquable dans les façades symétriques, presque classiques. Les résidences évoluent ensuite vers une plus grande complexité, la volumétrie devenant de plus en plus dynamique et la façade de plus en plus animée.
+Ce courant se reconnaît à Trois-Rivières par les maisons détachées, moins souvent jumelées, à caractère suburbain, la plupart érigées après l’adoption du plan d’urbanisme (1957), dans les parties excentriques des quartiers anciens. Dans l’ensemble, on a affaire à la production rapide, peu originale et parfois peu résistante, de maisons vendues, poussées par une publicité orchestrée dans les médias : l’architecture est devenue un bien de consommation. Construites en série, ces résidences sont des reproductions inépuisables de quelques modèles de base.
+Fiche complète – Bungalow 
+Bungalow caractérisé par l’aspect horizontal du volume d’un seul étage rompu par la cheminée massive comme seul élément vertical.
+2585, rue de Normanville 
+Modèle de bungalow typique avec toit à faible pente créant pignon sur rue. L’amalgame en strates de trois matériaux distincts accentue l’horizontalité de la volumétrie.
+465, rue des Dominicains 
+Colonial français
+Caractéristiques architecturales du courant :
+Corps de logis rectangulaire situé près du sol, fondations peu profondes en pierre;
+Carré trapu en pierre à moellons ou en bois d’œuvre massif, peut être recouvert de crépi ou de planches verticales, léger fruit dans les murs;
+Toit à deux versants droits ou à croupes, traditionnellement recouvert de bardeau de cèdre. En milieu urbain, le bardeau de bois fait souvent place à de la tôle traditionnelle;
+Cheminées massives en pierre, parfois disposées en chicane (sur plusieurs versants de toit), présence de murs coupe-feu en milieu urbain;
+Composition de façade asymétrique;
+Ouvertures peu nombreuses, fenêtres à double battant à petits carreaux, volets fonctionnels, peu ou pas de lucarnes (à pignon);
+Peu d’ornements, mis à part les chambranles autour des ouvertures.
+Les premières constructions érigées au moment de la fondation de Trois-Rivières sont des constructions modestes élevées à la hâte en pleine nature sauvage. Originaires des milieux ruraux de France, les colons ainsi que les gens de métier (charpentiers, maçons, menuisiers) apportent au pays leur savoir-faire traditionnel en matière de construction.
+Cette première architecture est issue des traditions constructives de la France, tout particulièrement des régions du Nord-Ouest telles que la Bretagne, la Normandie et l’Île-de-France. Elle s’est développée principalement en bordure du fleuve et le long des principales rivières de la vallée laurentienne, premiers lieux de colonisation du Québec.
+Cette architecture « sans architecte » se modifie rapidement après les premières expériences décevantes du début du 17 e siècle visant à s’adapter à la disponibilité des matériaux et aux conditions climatiques du pays. Ainsi, l’architecture québécoise recourt généralement au bois comme matériau de construction en raison de son abondance sur le territoire. La pierre est quasi absente de la région et doit être apportée de la rive sud.
+Ainsi, les rares habitations de pierre sur le territoire trifluvien appartenaient à des familles bien nanties ou d’une certaine notoriété. La pierre est souvent réservée aux bâtiments plus imposants tels les moulins, les couvents et les églises.
+Le climat rigoureux entraîne pour sa part une multiplication des souches de cheminées sur la maison tandis que le nombre des ouvertures est réduit le plus possible afin de contrer les pertes de chaleur en hiver. Les ouvertures sont doublées par des contre-portes et des contre-fenêtres. À la fin du Régime français, l’apparition de lucarnes pour éclairer les combles témoigne par ailleurs d’une nouvelle façon d’habiter la maison.
+Comme en témoignent certains bâtiments construits entre 1780 et 1820, ce courant perdure au-delà de la Conquête anglaise en raison de l’isolement de la population de la Nouvelle-France. Continuant à évoluer et subissant l’influence de l’architecture anglaise, la maison coloniale française engendre, à partir des années 1820, la maison dite de tradition québécoise.
+Fiche complète – Colonial français 
+Le manoir Boucher de Niverville, classé monument historique, est représentatif de l’architecture coloniale française.
+168, rue Bonaventure 
+Érigé dans la deuxième moitié du 18 e siècle, le Moulin seigneurial de Tonnancour, classé monument historique, reprend les caractéristiques constructives de l’architecture.
+11930, rue Notre-Dame Ouest 
+Cottage vernaculaire américain
+Caractéristiques architecturales :
+Plan carré ou rectangulaire dénotant une simplification des formes;
+Élévation sur 1 ½ étage ou 2 ½ étages;
+Toiture à pentes variables, souvent à deux versants à pente moyenne ou à demi croupe;
+Mûr pignon parfois orienté vers la voie publique;
+Revêtements légers : planches de bois, bardeau d’amiante-ciment, crépi;
+Présence d’une galerie couverte d’un auvent indépendant;
+Portes à panneaux et fenêtres à battants ou à guillotine usinées en bois;
+Présence ou non de lucarnes de divers types;
+Éléments d’ornementation standardisés : chambranles, planches cornières, frontons.
+L’architecture vernaculaire industrielle naît à la fin du 19 e siècle, du phénomène de la standardisation des matériaux, de la mécanisation du travail et de la diffusion de modèles par le biais de catalogues et de revues. Conçue aux États-Unis, puis introduite au Canada, l’architecture vernaculaire industrielle a connu une grande popularité et a contribué à la croissance rapide des villes, conséquence de l’explosion démographique. Les matériaux tels que les poutres et les planches sont usinés, tandis que les éléments architecturaux, notamment les portes et les fenêtres, sont standardisés et distribués par catalogues. Les éléments décoratifs sont également produits en série ou manufacturés. De nouveaux matériaux industrialisés apparaissent : la tuile d’amiante-ciment, le bardeau d’asphalte. La simplicité de l’accès aux plans et aux matériaux de même que la construction à faible coût rendue possible par cette industrialisation ont contribué à la popularité de cette architecture.
+Ce courant se divise en plusieurs sous-courants, dont le cottage vernaculaire américain qui se décline en divers modèles. Du point de vue stylistique, il ne se distingue pas des courants précédents, puisqu’il puise aux styles architecturaux du 19 e siècle. C’est surtout sur le plan constructif qu’il se distingue. En effet, le cottage vernaculaire américain se divise en quelques déclinaisons, dont le cottage à deux versants droits qui s’apparente à la maison de tradition québécoise et qui se retrouve en grand nombre à Trois-Rivières.
+La maison de colonisation des années 30 fait partie du même courant. Dans le contexte de crise économique, le gouvernement québécois met en place un plan provincial de colonisation qui comprend des mesures incitatives offertes aux colons pour encourager un retour à la terre, notamment des primes de construction et des plans de maisons économiques standardisées. Ce modèle est pensé pour être construit facilement, rapidement, sans ouvrier spécialisé et à moindre coût. Ce modèle est ainsi diffusé partout au Québec, y compris dans certains secteurs ruraux de Trois-Rivières, notamment à Pointe-du-Lac.
+Fiche complète – Cottage vernaculaire américain 
+Cottage vernaculaire américain typique de la région de Trois-Rivières avec sa lucarne centrale.
+2491, rue Notre-Dame Est 
+Modèle typique du cottage vernaculaire américain avec galerie couverte d’un auvent et cheminée centrale.
+10950, chemin Sainte-Marguerite 
+Cubique
+Caractéristiques architecturales du courant :
+Volumétrie cubique, plan carré de deux étages légèrement surhaussé du sol;
+Toit en pavillon à faibles pentes, revêtu de tôle traditionnelle, ou toit plat;
+Revêtements extérieurs variés : briques, planches de bois, bardeaux de cèdre, crépi ou autres revêtements légers;
+Galerie couverte aménagée en façade avant, balcon fréquent à l’étage;
+Lucarnes à croupe, à pignon, triangulaire ou en appentis, parfois remplacées par des pignons
+Distribution régulière des ouvertures;
+Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine;
+Ornementation variable selon le statut social du propriétaire.
+L’architecture vernaculaire industrielle est née, à la fin du 19 e siècle, du phénomène de la standardisation des matériaux, de la mécanisation du travail et de la diffusion de modèles par le biais de catalogues et de revues. Conçue aux États-Unis, puis introduite au Canada, cette architecture a connu une grande popularité et a contribué à la croissance rapide des villes, conséquence de l’explosion démographique.
+La simplicité de l’accès aux plans et aux matériaux de même que la construction à faible coût rendue possible par cette industrialisation ont contribué à la popularité de ce courant. La standardisation des matériaux et des éléments architecturaux, ainsi que l’utilisation de la charpente claire, aussi appelée « Balloon Frame », accélèrent considérablement le processus de construction.
+La grande famille de l’architecture vernaculaire industrielle se divise en quelques modèles, dont la maison cubique qui provient des États-Unis.
+Conçu par l’architecte Frank Kidder en 1891, ce modèle strictement résidentiel est communément appelé le « Four-square House ». Les modèles de maisons cubiques ont été abondamment diffusés dans les catalogues étasuniens de plans en faisant valoir l’intérêt des dimensions de leur espace habitable. En effet, le plan carré, qui superpose deux étages entiers coiffés d’un toit pavillon à faibles pentes, confère à la maison cubique des dimensions dignes des maisons bourgeoises.
+À Trois-Rivières, plusieurs s’imposent aussi bien dans les plaines dénudées des milieux ruraux que dans les noyaux villageois plus denses.
+Fiche complète – Cubique 
+Maison cubique revêtue de bardeau de cèdre et dotée d’une grande galerie sur deux côtés.
+13, place Freeman 
+Maison cubique revêtue de brique et munie d’une grande galerie.
+720, rue Sainte-Geneviève 
+Éclectisme victorien et néo-Queen Anne
+Caractéristiques architecturales du courant :
+Plan asymétrique (pas de plan typique), volume très articulé, nombreuses saillies et avancées;
+Toitures irrégulières, composées de pignons ou de tourelles, souvent percées de lucarnes;
+Présence de galeries et de balcons couverts et ornementés qui se prolongent souvent sur plus d’une façade;
+Pas d’ouvertures typiques, variété de types d’ouvertures sur un même bâtiment, présence de fenêtres en baie (bow-window);
+Amalgame de plusieurs matériaux et couleurs sur un même immeuble (brique, pierre, bardeaux décoratifs ou polychromes, etc.);
+Ornements variés : fronton néoclassique, boiseries ornementales, mâts, épis, consoles, encorbellements, etc.
+L’architecture québécoise débouche, vers la fin du 19 e siècle, sur un éclectisme qui vise d’abord à produire des effets inédits et pittoresques sans souci de cohérence. Cette pratique artistique est fondée sur l’exploitation et la conciliation des styles du passé. L’éclectisme est cette tendance à puiser sans vergogne dans des styles passés les éléments les plus divers, non pas pour les reproduire, mais pour créer un style nouveau en les fusionnant. L’éclectisme permet ainsi la combinaison de plusieurs styles ou éléments appartenant à des époques et des pays différents afin de créer des compositions très élaborées et souvent marquées par une surcharge décorative.
+La mécanisation des techniques de construction autour de l’année 1880 a grandement contribué à accroître le nombre d’ornements sur les façades, en diminuant le coût et le temps d’exécution de chacun. Au Québec, le mouvement éclectique en architecture s’est étendu entre 1880 et 1920. L’architecture éclectique est souvent dite victorienne en raison de son apparition durant le règne de la reine Victoria en Grande-Bretagne (1837-1901).
+Le style néo-Queen Anne est une variante de ce courant qui apparaît vers 1875 lorsque des architectes britanniques développent un style qui marie le pittoresque médiéval au classicisme georgien qu’ils associent au nom de la reine Anne Stuart. Son règne en Angleterre de 1702 à 1714 a marqué la transition entre le 17 e et le 18 e siècle, passage d’un siècle encore attaché au Moyen Âge à un nouveau, marqué par le classicisme. Après avoir séduit l’Angleterre, le style néo-Queen Anne se répand rapidement en Amérique du Nord entre 1890 et 1910, surtout dans l’architecture résidentielle, illustration nette de l’appartenance à la bourgeoisie.
+Fiche complète – Éclectisme victorien et néo-Queen Anne 
+Maison de style néo-Queen Anne reconnaissable à sa variété de saillies, pignons, porches amalgamés pour former une composition unique.
+382, rue Notre-Dame Est 
+Plus sobre, cette demeure en brique de style néo-Queen Anne comporte un pignon à fronton droit couronnant une saillie polygonale.
+473, rue Radisson 
+Immeuble d’appartements
+Caractéristiques architecturales :
+Volume cubique simple à toit plat, souvent avec avant-corps central logeant l’escalier intérieur;
+Prolongements extérieurs souvent limités à de petits balcons;
+Distribution régulière et symétrique des ouvertures;
+Matériaux traditionnels pour modèles les plus anciens : brique, bois, fer ornemental, etc.;
+Matériaux modernes pour les modèles plus récents : parement de fausses pierres, béton, etc.;
+Porte d’entrée largement vitrée, marquise à consoles ajourées;
+Fenêtres de dimensions et de modèles variés, blocs de verre pour éclairer le puits d’escalier;
+Ornementation élaborée pour les modèles les plus anciens : corniches, parapets, boiseries;
+Ornementation sobre pour les modèles plus récents : insertion de pierre à motifs ou de datation, parapet droit.
+Les maisons à logements multiples et les blocs d’appartements constituent la production des promoteurs-constructeurs prompts à satisfaire un besoin de masse engendré par l’augmentation rapide de la démographie urbaine. Contrairement aux bâtiments de type « plex », les immeubles d’appartements possèdent une seule et même entrée commune à tous les logements.
+D’un point de vue stylistique, les premiers exemples d’immeubles d’appartements apparus au début du 20 e siècle se démarquent peu des autres constructions alors en vogue, telles les maisons Boomtown ou de type « plex ». On y retrouve les mêmes décors constitués de corniches, de parapets et de boiseries ornant les galeries et balcons. Plus tard, notamment après la Seconde Guerre mondiale, ce type d’habitat se multiplie et se simplifie au niveau de son ornementation au gré de l’architecture moderne. On recourt alors au terme « pararationalisme » pour désigner ces bâtiments où culmine la rationalisation de l’architecture des décennies précédentes.
+Les immeubles d’appartements de l’après-guerre généralisent le volume cubique à toit plat débordant en mince corniche plate. Pour achever la simplification entamée, les escaliers menant aux étages, très répandus dans les plex, sont désormais disposés à l’intérieur, marquant ainsi un progrès sur les plans fonctionnel et sécuritaire. Résultat : le paysage bâti change radicalement à cette époque; batteries de balcons, galeries et escaliers acrobatiques disparaissent, faisant place à de petits balcons suspendus.
+Les matériaux employés témoignent du passage à l’ère moderne. Le passage des garde-corps en bois à ceux en métal ornemental ajouré est chose faite à partir de 1945. Les parements des façades se diversifient, alliant souvent béton, parement de pierre et parement de brique. L’utilisation du bois se fait plus rare alors que les ouvertures se composent de plus en plus de grand verre fixe ou encore de blocs de verre. Les techniques et matériaux traditionnels sont ainsi totalement évacués.
+Fiche complète – Immeuble d’appartements 
+Maison à logements multiples accessibles par un escalier intérieur commun.
+680, rue Saint-Paul 
+Immeuble d’appartements datant du début du 20 e siècle qui possède un décor élaboré à son couronnement et autour de la porte d’entrée commune.
+386, rue Laviolette 
+Immeuble de type « plex »
+Caractéristiques architecturales :
+Volume d’aspect cubique, généralement de deux ou trois étages;
+Plusieurs logements possédant une entrée extérieure directe;
+Nombreux prolongements extérieurs : balcon, galerie, escalier;
+Ouvertures à arc surbaissé fréquentes, fenêtres à guillotine, souvent avec imposte ou meneaux décoratifs;
+Matériaux traditionnels : parement de brique, ouvertures en bois;
+Ornements variés : corniche, parapet, bandeau décoratif, linteau, clé de voûte, insertion de briques ou de pierre, etc.
+Les habitations de type « plex » sont ces maisons à logements multiples qui comportent deux (duplex), trois (triplex), quatre (quadruplex) ou plusieurs unités d’habitation superposées qui ont des entrées indépendantes. Ce type de logement côtoie, puis supplante l’architecture Boomtown vers 1910. C’est la maison qui correspond à la croissance accélérée des villes de 1910 à 1930. Ensuite, l’architecture de l’époque de la Grande Dépression et de la Seconde Guerre mondiale ne présente plus qu’une version appauvrie de ce type qui disparaît lentement au profit des immeubles à logements multiples à entrée commune.
+Le plex de la période de l’entre-deux-guerres est un proche parent de l’architecture protorationaliste, terme qui a d’abord été utilisé pour qualifier l’architecture de manufactures et d’entrepôts à charpente régulière et au décor simplifié en brique des années 1850-1890 et leurs descendants. Le côté rationnel, simple, facile à construire et économique rattache le plex à ce courant.
+Un nouveau matériau, le goudron, obtenu par la distillation du charbon, amène la construction du toit plat, à bassins ou à égout intérieur. L’habitation urbaine devient un immeuble à logements superposés et le volume cubique s’affirme sans détour. Les parapets à corniches appliquées cèdent la place aux parapets de brique à gradins et à frises, ou panneaux de brique décoratifs, apparus timidement vers 1910. Les plus anciens reprennent d’ailleurs la disposition des balcons et galeries propres aux maisons Boomtown, marquant ainsi leur filiation.
+Avec ces bâtiments, on assiste à une première manifestation d’envergure des promoteurs immobiliers qui réalisent sur des terrains exigus des maisons contiguës, construites en vitesse pour loger les ouvriers qui alimentent en main-d’oeuvre l’industrialisation rapide de la ville.
+Fiche complète – Immeuble de type plex 
+Exemple de triplex dont les logements sont accessibles par un escalier extérieur abrité.
+1051-1057, rue Laviolette 
+Triplex avec escaliers et galeries en bois. L’immeuble de gauche comporte une avancée en façade ornée d’un parapet décoratif.
+1030-1034, rue Saint-François-Xavier 
+Maison à mansarde
+Caractéristiques architecturales du courant :
+Corps de bâtiment rectangulaire avec parement de briques ou de planches de bois;
+Toiture mansardée, à deux ou à quatre eaux, recouverte de tôle traditionnelle;
+Présence fréquente d’une galerie protégée d’un auvent indépendant sur une ou plusieurs façades;
+Composition symétrique;
+Ouvertures rectangulaires ou à arc surbaissé, fenêtres à battants à six carreaux ou à guillotine, lucarnes dans le brisis;
+Ornementation sobre qui peut être composée de chambranles, de planches cornières, parfois d’une corniche sous le brisis et de boiseries sur les lucarnes.
+La maison à mansarde constitue une version populaire et modeste de l’architecture résidentielle de style Second Empire réservée à la bourgeoisie et aux édifices institutionnels. En effet, de cette architecture monumentale elle conserve la toiture typique composée d’un terrasson et d’un brisis, perpétuant un motif qui se perd dans le Moyen Âge européen. Cette forme est réintroduite dans l’architecture classique de France par l’architecte François Mansart (1598-1666) qui lui laisse son nom.
+Ce toit dit à la Mansart constitue la principale caractéristique de la maison à mansarde ainsi que son plus grand avantage. En effet, le toit brisé permet de dégager complètement l’espace des combles et de procurer ainsi à la maison un second étage entièrement habitable, avantage non négligeable à une époque marquée par une importante croissance démographique. De plus, ce style architectural revêt une élégance certaine, prisée par les villageois. Dès sa réapparition, le toit à la Mansart, ou mansardé, est adapté à l’architecture traditionnelle.
+La maison à mansarde évolue parallèlement à la maison de tradition québécoise, recourant aux mêmes matériaux et méthodes de construction et subissant les mêmes influences.
+À Trois-Rivières, les maisons à mansarde sont surtout construites entre les années 1870 et 1900, mais il y en a aussi de plus récentes construites après le feu de 1908. Elles se retrouvent aussi bien isolées en milieu rural qu’au centre de noyaux villageois, mais il y en a peu au centre-ville.
+Fiche complète – Maison à mansarde 
+Maison à mansarde à deux eaux avec charpente de pierre à moellons.
+1892, rue Notre-Dame Centre 
+Maison à mansarde typique que l’on retrouve dans les secteurs ruraux et villageois de Trois-Rivières.
+3151, rue Notre-Dame Est 
+Modernisme
+Caractéristiques architecturales :
+Corps de bâtiment principal simple, plans libres de formes variées, murs arrondis;
+Toits plats ou de formes sculpturales;
+Importance des fenêtres qui sont de formes et de dimensions diverses;
+Présence de grandes surfaces vitrées, de bandeaux de fenêtres, d’ouvertures en coin et de blocs de verre;
+Matériaux de revêtement lisses : brique, béton, crépi habituellement de couleur pâle;
+Présence fréquente d’un garage ou d’un abri d’auto;
+Mise en valeur des formes pures, des matériaux et des lignes horizontales;
+Ornementation dépouillée remplacée par l’expressivité des matériaux.
+Le développement de l’industrie moderne au tournant du 20 e siècle introduit de nouvelles méthodes de travail telles que la production en série. Il permet également de produire à grande échelle des matériaux, comme l’acier, qui étaient jusqu’alors rares et coûteux. Parmi les expérimentations formelles de l’entre-deux-guerres, l’architecture du Mouvement moderne se démarque nettement et connaît une vaste diffusion en Europe. Après la Seconde Guerre mondiale, elle se généralise dans la plupart des pays occidentaux. Au Québec, cela s’est surtout manifesté dans les édifices publics, commerciaux et institutionnels, marquant ainsi l’entrée de la société québécoise dans l’ère de la modernité.
+Né à la fois du Mouvement moderne européen (Art nouveau, École du Bauhaus) et de l’architecture rationaliste américaine (École de Chicago), le modernisme se situe en complète rupture avec l’héritage du passé, ce qu’aucun autre style n’avait pu accomplir jusque-là. Il s’agit d’une architecture qui est entièrement de son temps, qui ne nie pas l’industrialisation et la standardisation, cherchant plutôt à tirer profit de la technologie.
+L’architecture moderne se veut pratique et fonctionnaliste : la forme doit répondre à la fonction du bâtiment. Il s’agit d’une architecture qui mise sur la simplicité et la sobriété, qui rejette l’ornementation et qui recherche la pureté et le dépouillement. Issue de l’industrialisation et de la préfabrication, l’architecture moderne se démarque par l’utilisation de nouvelles techniques et de nouveaux matériaux tels que l’aluminium, le béton, l’acier et les grandes surfaces de verre, qui sont réellement mis à l’avant-scène.
+Le modernisme se divise en plusieurs courants plus ou moins fidèles au mouvement qui les a vus naître : l’Art déco, le style International, le style Streamline, le courant brutaliste, l’expressionnisme formel, le dombellotisme. À ses débuts chez nous, le modernisme flirte un peu avec l’Art déco (1925-1940), mais s’en dégage rapidement. À Trois-Rivières, le style International se retrouve sur certaines maisons des années 1940 et 1950. Des bâtiments publics, tels l’hôtel de ville et l’aéroport, en sont aussi de bons exemples.
+Fiche complète – Modernisme 
+Maison moderne de style International.
+1915, boulevard des Chenaux 
+L’hôtel de ville de Trois-Rivières est une icône de l’architecture moderne avec ses volumes expressifs sur pilotis et ses fenêtres en bandeau.
+1325, place de l’Hôtel-de-Ville 
+Néoclassicisme
+Caractéristiques architecturales du courant :
+Corps de bâtiment rectangulaire bien dégagé du sol, à un ou deux étages;
+Toiture à deux ou à quatre versants de pente moyenne ou faible;
+Revêtements lisses : pierre de taille, crépi, brique ou planches de bois;
+Peu ou pas d’éléments en saillie tels les balcons, galeries;
+Ordonnance, symétrie et sobriété dans les compositions et la distribution des ouvertures;
+Fenêtre à battants ou à guillotine, à carreaux;
+Entrée principale soulignée par un porche ou un portail;
+Ornements classiques variés : fronton, arc en plein centre au-dessus des ouvertures, colonnes, piliers, pilastres, chaînage d’angle, retour de corniche.
+Le désir d’une architecture plus respectueuse de l’Antiquité classique se manifeste avec force en Europe, d’abord en Italie et en France, puis en Angleterre, à partir du 18 e siècle. L’architecture néoclassique anglaise s’inspire à la fois des écrits et des réalisations d’Andrea Palladio, architecte italien du 16 e siècle, ainsi que de l’architecture de l’Antiquité grecque et romaine.
+En Angleterre, on qualifie cette tendance d’architecture palladienne, en référence à l’architecte Palladio, ou georgienne, en référence à la série de monarques prénommés George qui ont régné de 1714 à 1820. Au début du 19 e siècle, le courant romantique apporte d’autres modèles de résidences ou de villas, dont le cottage Regency (ou Régence).
+L’architecture néoclassique est très prisée par les Britanniques et les Écossais. C’est sans doute pourquoi elle s’est fort vite répandue dans les colonies britanniques, comme ici au début du 19 e siècle, alors que les Anglais veulent marquer leur présence sur le territoire.
+Le style néoclassique est fréquemment employé pour la construction de bâtiments institutionnels. La prison de Trois-Rivières (1816-1822) en témoigne éloquemment ainsi que la chapelle des récollets transformée en 1823 par les anglicans. Dans l’architecture domestique, ce courant s’affirme surtout dans la première moitié du 19 e siècle, avec l’arrivée massive d’immigrants originaires des îles Britanniques. Il côtoie l’architecture issue de la tradition française qu’il influence. De l’union de ces deux types naîtra par la suite la maison de tradition québécoise. Dans la deuxième moitié du 19 e siècle, la sobriété néoclassique est remise en question par les courants romantique et pittoresque ainsi que par l’exubérance du décor éclectique de l’époque victorienne.
+À Trois-Rivières, cependant, le néoclassicisme cédera plus lentement qu’ailleurs la place à l’éclectisme. Il reprendra même de la vigueur au début du 20 e siècle avec l’architecture Beaux-Arts, aussi appelée renouveau classique, dont témoignent cette fois le palais de justice, le bureau de poste, la gare ou le Séminaire Saint-Joseph de Trois-Rivières.
+Fiche complète – Néoclassicisme 
+Exemple d’une maison georgienne en brique rouge avec porche à fronton et à colonnes.
+571, rue des Ursulines
+Cette grande résidence, coiffée d’une toiture en cuivre, est un bon exemple d’architecture néoclassique construit vers 1850.
+858, terrasse Turcotte 
+Second empire
+Caractéristiques architecturales du courant :
+Volume imposant, avec avant-corps en façade soulignant l’entrée principale;
+Toit à la Mansart à deux ou à quatre eaux, ou à fausse mansarde;
+Murs revêtus de briques ou de pierres;
+Composition habituellement symétrique;
+Ouvertures à arc surbaissé, fenêtres à battants à grands carreaux ou à guillotine, lucarnes cintrées ou pendantes;
+Ornementation riche : grille faîtière, cartouche, chaînage d’angle, bandeaux, chambranles, corniche à consoles, épis, fleurons, boiseries, etc.
+L’architecture Second Empire prend sa source dans l’architecture développée à Paris sous le règne de Napoléon III, notamment à travers les grands projets du baron Haussmann et de grands monuments parisiens, dont l’agrandissement du Louvre (1852-1857) réalisé par Lefuel et Visconti. Ces bâtiments feront grande impression à travers le monde, non seulement en raison de leurs formes gracieuses inspirées de la Renaissance française, mais également grâce aux valeurs qu’ils véhiculent, notamment celles de la prospérité bourgeoise et du chic parisien.
+En Amérique du Nord et au Québec, l’architecture Second Empire fait son apparition dans la seconde moitié du 19 e siècle, vers 1870. D’abord réservée aux monuments publics et institutionnels, elle est rapidement adaptée à l’architecture résidentielle des maisons bourgeoises. L’architecture Second Empire demeure en vogue jusqu’au début du 20 e siècle. Dans les milieux plus modestes, le style Second Empire est adapté et simplifié à l’extrême; il en résulte la maison à mansarde.
+L’architecture Second Empire est fort présente à Trois-Rivières. C’est dans cet esprit que l’évêché a été édifié en 1879-1881. Le style Second Empire est également appréciable dans l’architecture domestique trifluvienne et y a même connu une certaine vogue. Cependant, la conflagration de 1908 a détruit plusieurs beaux exemples.
+Fiche complète – Second empire 
+Cette résidence possède le toit mansardé, la lucarne cintrée et l’ornementation riche propres à l’architecture Second Empire.
+642, rue des Ursulines 
+Cette imposante résidence a été construite après le grand feu de 1908. Sa tourelle, ses linteaux sculptés au-dessus des ouvertures et sa corniche ouvragée sont typiques du courant Second Empire.
+186-190, rue Bonaventure 
+Styles historiques
+Caractéristiques architecturales du courant :
+Néogothique : en architecture religieuse, aspect élancé et vertical, ouvertures à arc ogival, contreforts, pinacles, rosaces et vitraux. En architecture résidentielle, volumes et toitures articulés, parement de briques, galeries couvertes ouvragées, lucarnes et pignons, ouvertures coiffées d’arc ogival ou de chapeau de gendarme, pinacles, épis, dentelles de bois et corniches;
+Néo-Tudor : hauts toits en pente recouverts d’ardoise ou de tôle, briques d’argile rouge, colombages aux interstices en stuc blanc, cheminées nombreuses et proéminentes, pignons et oriels, ouvertures à arcs surbaissés, fenêtres à meneaux de pierre, chapeaux de gendarmes, bandeaux horizontaux;
+Néo-Renaissance : volume imposant, plan irrégulier, tour carrée, avancée, balcons, toitures variées, ouvertures au sommet arrondi et ornements abondants (corniches épaisses et débordantes, modillons, larges chambranles, volutes, présence des ordres classiques, colonnettes, fronton, arcades);
+Néo-Roman : ouvertures à arc en plein cintre, embrasure profonde, arcades et colonnes trapues.
+Au 19 e siècle, sous la domination britannique, la colonie connaît une expansion démographique et économique sans précédent. Cet essor est accompagné par un besoin accru d’immeubles et par l’apparition de nouveaux programmes architecturaux. L’arrivée d’ingénieurs militaires et d’architectes de Grande-Bretagne modifie les manières de construire. Les spécialistes britanniques ou écossais possèdent une formation académique poussée qui tranche avec celle des maîtres d’oeuvre des siècles précédents formés en atelier. En plus de leur formation, ils possèdent des connaissances théoriques et la capacité à élaborer un projet sur papier en suivant des conventions précises. Ils contribuent ainsi au dépassement de l’architecture traditionnelle par l’introduction et la diffusion de nouveaux styles issus d’Europe.
+Ainsi, le style néo-gothique constitue un renouveau de l’architecture gothique du Moyen Âge qu’il adapte à l’esprit de l’époque victorienne. Ce style apparaît tout d’abord en Angleterre vers 1750, puis se répand à travers l’Europe avant d’atteindre l’Amérique du Nord. Le style néo-roman, quant à lui, puise également ses formes dans le Moyen Âge, plus précisément dans l’art roman des abbayes françaises construites du 10 e au 12 e siècle. Ce style est devenu le principal concurrent du néo-gothique dans l’architecture religieuse au Québec entre 1870 et 1930. Le style Tudor est relatif à la famille anglaise, originaire du pays de Galles, qui, de 1485 à 1603, donna cinq souverains à l’Angleterre. À la fin du 19 e siècle, les Canadiens de souche britannique amorcent un retour aux sources, notamment par l’architecture Tudor qui rappelle les manoirs et les fermes traditionnelles anglaises du 16 e siècle.
+Le style néo-Tudor apparaît au Québec vers 1895 et se répand jusqu’en 1920. Enfin, le style néo-Renaissance s’inspire des oeuvres de la Renaissance italienne des 16 e et 17 e siècles, analysées par de nombreux architectes lors de voyages en Italie. Ce style apparaît vers 1850 et connaît beaucoup de succès auprès des marchands, des industriels et des financiers anglo-saxons qui y voient un symbole de prospérité et la représentation des idéaux humanistes de la Renaissance.
+Fiche complète – Styles historiques 
+Maison de style néo-Renaissance comportant des ouvertures regroupées en arcade et une imposante corniche à consoles.
+1241, boulevard Saint-Louis 
+La cathédrale de l’Assomption, construite entre 1854 et 1858, est une oeuvre de style néo-gothique reconnaissable par ses ouvertures en forme d’ogive et ses contreforts.
+362, rue Bonaventure 
+Tradition québécoise
+Caractéristiques architecturales du courant :
+Corps de logis rectangulaire dont les combles sont habités;
+Carré en pierre ou en bois pièce sur pièce, le plus souvent légèrement exhaussé du sol;
+Toit à deux versants à pente inférieure à 45 degrés, couvert de tôle traditionnelle ou de bardeau de cèdre;
+Larmier retroussé débordant de la façade et couvrant occasionnellement une galerie, ou présence d’un auvent indépendant;
+Souche de cheminée dans le prolongement du mûr pignon ou au centre du faîte;
+Composition symétrique de la façade;
+Ouvertures nombreuses, fenêtres à double battant à grands carreaux, lucarnes à pignon;
+Ornementation habituellement sobre qui peut être composée de chambranles, de planches cornières, parfois de boiseries sur les lucarnes et les éléments de la galerie.
+Au début du 19 e siècle, l’architecture traditionnelle héritée du Régime français est confrontée à l’architecture classique anglaise qui apparaît au pays avec l’arrivée des ingénieurs militaires et des architectes britanniques. L’architecture d’esprit français puise librement à ce nouvel apport stylistique et elle aboutit à une synthèse originale, connue sous le nom de maison traditionnelle québécoise, bien adaptée à notre climat. Ce modèle d’habitation apparaît entre 1820 et 1850, mais son apogée se situe entre 1850 et 1880.
+Ce type d’architecture domine le paysage bâti des campagnes et des villages québécois pendant la majeure partie du 19 e siècle. La maison traditionnelle québécoise résulte de l’évolution de la maison d’esprit français quant à la volumétrie et à ses composantes, de certaines adaptations climatiques, ainsi que de l’influence de l’architecture néo-classique anglaise dans l’organisation formelle et dans le programme décoratif. Les modifications les plus significatives se perçoivent dans la distribution symétrique des ouvertures et dans les éléments du décor, qui puisent dans l’architecture antique : frontons triangulaires, retours de corniches, pilastres, piliers, colonnes classiques, chambranles.
+Il s’agit d’un aménagement plus libre de l’habitation, répondant spécifiquement à des contraintes fonctionnelles, économiques et climatiques en fonction du lieu d’érection et du statut social de ses occupants. La diversité des formes est très grande. Il existe peu de modèles purement authentiques.
+Fiche complète – Tradition québécoise 
+Exemple d’une maison traditionnelle québécoise à deux logements contigus dont la symétrie est frappante.
+864-870, rue du Haut-Boc 
+Cette grande maison de ferme, dotée d’une cuisine d’été, est caractéristique de l’architecture traditionnelle québécoise. Soulignons sa grande lucarne centrale, particularité de la région de Trois-Rivières.
+7832, rue Notre-Dame Ouest 
+Dernière mise à jour : 28 juillet 2026
+Partager 
+Histoire et patrimoine 
+Demande de projet en commémoration historique 
+Archives 
+Églises trifluviennes 
+Histoire de Trois-Rivières 
+La saga des Trois-Rivières, bande dessinée numérique 
+Musées et lieux d’interprétation 
+Patrimoine architectural 
+Toponymie 
+Direction de l’aménagement et du développement durable 
+-->
+4655, rue Saint-Joseph, C.P. 368
+Trois-Rivières, G9A 5H3
+Téléphone : 311
+Numéro sans frais : 1 833-374-2002 
+Télécopieur : 819 374-8499
+servicedespermis@v3r.net 
+Actualités 
+Publié le 15 juin 2026 
+L’art participatif s’invite dans les parcs trifluviens 
+Publié le 20 février 2026 
+La salle J.-Antonio-Thompson poursuit sa cure de jeunesse 
+Publié le 19 septembre 2025 
+L’œuvre Haute voltige déploie ses ailes devant la nouvelle aérogare 
+Abonnez-vous à l'infolettre 
+Facebook 
+Instagram 
+LinkedIn 
+YouTube 
+Ville de Trois-Rivières
+1325, place de l'Hôtel-de-Ville, C.P. 368
+Trois-Rivières, QC G9A 5H3 
+Téléphone : 311 ou 819 374-2002 
+Canada ou États-Unis : 1 833 374-2002 
+Courriel : 311@v3r.net 
+› Communications 
+› FAQ 
+Abonnez-vous à l'infolettre 
+Facebook 
+Instagram 
+LinkedIn 
+YouTube 
+Communications 
+FAQ 
+Intranet 
+Portail d’accès aux organismes 
+Politique de confidentialité 
+© Ville de Trois-Rivières. Tous droits réservés. 

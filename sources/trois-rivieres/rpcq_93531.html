@@ -1,0 +1,3462 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial de Trois-Rivières -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93531&type=bien"
+              addthis:title="Site patrimonial de Trois-Rivières"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial de Trois-Rivières</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Arrondissement historique de Trois-Rivières</li>
+  
+    <li>Vieux-Trois-Rivières</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Mauricie</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Trois-Rivières</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine autochtone (Patrimoine des Premières Nations)</li>
+  
+    <li>Patrimoine commémoratif</li>
+  
+    <li>Patrimoine funéraire</li>
+  
+    <li>Patrimoine institutionnel et civil</li>
+  
+    <li>Patrimoine religieux (Culte)</li>
+  
+    <li>Patrimoine religieux (Mission éducative)</li>
+  
+    <li>Patrimoine religieux (Mission hospitalière)</li>
+  
+    <li>Patrimoine religieux (Vie quotidienne)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Tradition religieuse</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Christianisme (Catholicisme (rite latin))</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Non applicable</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=per&id=93531&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=per&id=93531&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=immo&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=immo&id=93531&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(51)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92504&type=bien">
+            Maison Georges-De Gannes
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92894&type=bien">
+            Maison Hertel-De La Fresnière
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92896&type=bien">
+            Manoir de Tonnancour
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92898&type=bien">
+            Place d'Armes
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=immo&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=immo&id=93531&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=mob&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine mobilier associé</span>');" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=mob&id=93531&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine mobilier associé</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=107792&type=bien">
+            Poésie dans les rues de la ville de Trois-Rivières
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=mob&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=mob&id=93531&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine mobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=pla&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=pla&id=93531&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Plaques commémoratives associées</span>&nbsp;(2)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=107803&type=bien">
+            Plaque de Pierre Boucher
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=107800&type=bien">
+            Plaque du fort des Trois-Rivières
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=pla&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=pla&id=93531&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=eve&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Événements associés</span>');" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=eve&id=93531&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Événements associés</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8260&type=pge">
+            Invasion américaine (1775 &ndash; 1776)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=eve&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=eve&id=93531&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Événements associés</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=grp&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Groupes associés</span>');" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=grp&id=93531&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Groupes associés</span>&nbsp;(4)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7324&type=pge">
+            Canadian International Paper Company (1920 &ndash; 1981)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8438&type=pge">
+            Norcross and Philipps
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8439&type=pge">
+            Wayagamack Pulp and Paper
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8440&type=pge">
+            St. Lawrence Pulp and Paper
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=grp&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=grp&id=93531&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Groupes associés</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=per&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=per&id=93531&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(5)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7335&type=pge">
+            Cartier, Jacques (vers 1491 &ndash; 1557)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8324&type=pge">
+            Boucher, Pierre (1622 &ndash; 1717)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8436&type=pge">
+            Laviolette (avant 1634 &ndash; après 1636)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8437&type=pge">
+            Gravé Du Pont, François (vers 1554 &ndash; après 1629)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=per&id=93531&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=D51BB20DB24868841640DC2D31BDDC68?type=per&id=93531&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Trois-Rivières. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93531_207833.JPG?id=207833" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93531_207833.JPG?id=207833" 
+           data-grandformat="document/rpcq_bien_93531_207833.JPG?id=207833" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Sylvain Lizotte, 2013-10-18" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Sylvain Lizotte" 
+           data-id="207833" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="207833"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Trois-Rivières. Vue d&#039;ensemble" src="document/rpcq_bien_93531_207833.JPG?id=207833&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Trois-Rivières. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93531_207836.JPG?id=207836" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93531_207836.JPG?id=207836" 
+           data-grandformat="document/rpcq_bien_93531_207836.JPG?id=207836" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Sylvain Lizotte, 2013-10-18" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Sylvain Lizotte" 
+           data-id="207836" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="207836"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Trois-Rivières. Vue d&#039;ensemble" src="document/rpcq_bien_93531_207836.JPG?id=207836&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Trois-Rivières. Rue des Casernes" class="galleryImage"
+           href="document/rpcq_bien_93531_207835.JPG?id=207835" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93531_207835.JPG?id=207835" 
+           data-grandformat="document/rpcq_bien_93531_207835.JPG?id=207835" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Sylvain Lizotte, 2013-10-18" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Sylvain Lizotte" 
+           data-id="207835" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="207835"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Trois-Rivières. Rue des Casernes" src="document/rpcq_bien_93531_207835.JPG?id=207835&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Trois-Rivières. Place Pierre-Boucher" class="galleryImage"
+           href="document/rpcq_bien_93531_207837.JPG?id=207837" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93531_207837.JPG?id=207837" 
+           data-grandformat="document/rpcq_bien_93531_207837.JPG?id=207837" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Sylvain Lizotte, 2013-10-18" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Sylvain Lizotte" 
+           data-id="207837" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="207837"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Trois-Rivières. Place Pierre-Boucher" src="document/rpcq_bien_93531_207837.JPG?id=207837&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Trois-Rivières. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93531_376483.JPG?id=376483" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93531_376483.JPG?id=376483" 
+           data-grandformat="document/rpcq_bien_93531_376483.JPG?id=376483" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2024-08-29" 
+           data-description="" 
+           data-annee="2024" 
+           data-auteur="" 
+           data-id="376483" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="376483"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Trois-Rivières. Vue aérienne" src="document/rpcq_bien_93531_376483.JPG?id=376483&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Trois-Rivières. Vue d&#039;angle" class="galleryImage"
+           href="document/rpcq_bien_93531_225373.JPG?id=225373" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93531_225373.JPG?id=225373" 
+           data-grandformat="document/rpcq_bien_93531_225373.JPG?id=225373" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Géraldine Sénécal, 2014" 
+           data-description="" 
+           data-annee="2014" 
+           data-auteur="Géraldine Sénécal" 
+           data-id="225373" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="225373"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Trois-Rivières. Vue d&#039;angle" src="document/rpcq_bien_93531_225373.JPG?id=225373&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN-see-MANIFEST'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 46.34305555, -72.53805555];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Trois-Rivières, déclaré en 1964, se situe en bordure du fleuve Saint-Laurent, près de l'embouchure de la rivière Saint-Maurice. Situé au cœur de la ville de Trois-Rivières fondée en 1634, il couvre un territoire urbain institutionnel et résidentiel d'environ 6,7 hectares. Il correspond à l'un des trois premiers noyaux de peuplement de la Nouvelle-France, avec Québec et Montréal. <br/><br/>Le site patrimonial est délimité notamment par les rues des Casernes, Saint-Pierre et Sainte-Cécile, et par la terrasse Turcotte. Ses limites correspondent en partie à l'ancienne palissade du bourg fortifié au XVIIe siècle et en partie au projet de palissade dessiné en 1704 par Jacques Levasseur de Neré (vers 1662-vers 1723). Ce noyau ancien est traversé longitudinalement par la rue des Ursulines et perpendiculairement par cinq rues tracées à partir de 1650, formant avec elle une trame orthogonale. Le site patrimonial compte quelques îlots dont la densité varie selon les fonctions, le mode d'implantation des bâtiments et la nature des aménagements. <br/><br/>Parmi la cinquantaine de bâtiments du site patrimonial figurent des institutions religieuses du XVIIIe siècle, dont le monastère des Ursulines qui constitue l'un des principaux points de repère, ainsi que le site patrimonial des Récollets-de-Trois-Rivières, protégé en 2003. Le site patrimonial comprend trois bâtiments classés immeubles patrimoniaux datant de la fin du Régime français et du début du XIXe siècle, soit la maison Georges-De Gannes, le manoir de Tonnancour et la maison Hertel-De La Fresnière. <br/><br/>Le cadre bâti du site patrimonial est également constitué d'une maison en bois du milieu du XVIIIe siècle - la maison Saint-François située au 126-144, rue Saint-François-Xavier - de maisons bourgeoises et ouvrières de la seconde moitié du XIXe siècle et du début du XXe siècle; de maisons de type boomtown et d'immeubles à logements du début du XXe siècle. Des espaces verts couvrent une bonne partie de la superficie du site patrimonial, notamment quatre parcs publics : le Platon, la place d'Armes, classée en 1960, le parc des Gouverneurs et le jardin des Ursulines. Le site patrimonial compte par ailleurs une quarantaine d'éléments commémoratifs et d'œuvres d'art public, dont six monuments. <br/><br/>Enfin, onze sites archéologiques inscrits à l'Inventaire des sites archéologiques du Québec sont associés au lieu et témoignent de la présence autochtone et euroquébécoise.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Déclaration</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Gouvernement du Québec
+          
+        
+      </td>
+      <td>
+        1964-05-06
+        
+      </td>
+    </tr>
+     
+        
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Trois-Rivières présente un intérêt pour sa valeur historique. L'endroit est fréquenté par les Autochtones depuis la préhistoire. En 1634, le poste de Trois-Rivières est fondé à la demande de Samuel de Champlain. D'abord point de rencontre entre Autochtones et commerçants de fourrures, il devient un bourg fortifié en 1650 et le siège du gouvernement de Trois-Rivières en 1663. Trente ans après la Conquête, Trois-Rivières retrouve une partie de son influence en étant à nouveau le siège d'un district judiciaire, en 1792, et celui d'un évêché, en 1852. Pendant la seconde moitié du XIXe siècle, l'industrialisation consolide l'importance économique de la ville, qui constitue désormais le centre de l'industrie forestière de la Mauricie. Les fêtes du tricentenaire, en 1934, suscitent un nouvel intérêt pour son histoire. Le Vieux-Trois-Rivières est alors perçu comme un lieu de mémoire à préserver. Le site patrimonial est le cœur de la deuxième plus ancienne ville de la Nouvelle-France, laquelle est devenue un centre portuaire, industriel et commercial important du Québec.<br/><br/>Le site patrimonial présente aussi un intérêt pour sa valeur urbanistique. Les limites du secteur, le tracé des rues et la forme des îlots évoquent les origines du bourg fortifié. Le monastère des Ursulines constitue un point de repère majeur. Le monument Le Flambeau ainsi que le clocher de l'église Saint-James sont des points de repère à l'intérieur du site patrimonial. L'environnement de ce dernier est caractérisé par la présence de deux types de bâtiments résidentiels : d'une part se trouvent des maisons cossues; d'autre part s'élèvent des immeubles d'habitation construits sur des lots étroits. Dans la partie sud-ouest, quelques rues plus larges témoignent du réaménagement qui a suivi le grand incendie de 1908. Les espaces verts, les aménagements paysagers, les éléments commémoratifs, les œuvres d'art public et les qualités visuelles du site enrichissent sa valeur urbanistique.<br/><br/>Le site patrimonial présente également un intérêt pour sa valeur architecturale. Les bâtiments qu'il comprend permettent de retracer l'évolution de son occupation. Le Régime français a légué les composantes du monastère des Ursulines (1752) et celles du site patrimonial des Récollets-de-Trois-Rivières (milieu du XVIIIe siècle). Le site patrimonial comprend aussi des exemples d'architecture domestique de cette époque. Une habitation en bois du milieu du XVIIIe siècle, la maison Saint-François, ainsi que des résidences de notables en pierre, comme le manoir de Tonnancour (1795-1797), subsistent. Le XIXe siècle est représenté par des demeures bourgeoises en pierre, comme la maison Hertel-De La Fresnière (1824-1829) et celles qui longent la terrasse Turcotte. Le secteur regroupe également des bâtiments associés à l'industrialisation, comme des maisons boomtown et des immeubles à logements, caractérisés par un volume cubique, un toit plat et une ornementation modeste. Toutes ces constructions, dont certaines très anciennes, révèlent la longue histoire de Trois-Rivières.<br/><br/>Le site patrimonial présente en outre un intérêt pour sa valeur archéologique. Le périmètre compte onze sites inscrits à l'Inventaire des sites archéologiques du Québec, lesquels renseignent sur l'occupation du lieu. L'époque de la Nouvelle-France est particulièrement bien représentée par des sites comme ceux du jardin des Ursulines et du monastère des Récollets. La place d'Armes a livré des vestiges d'avant 1650. Ceux-ci montrent des activités d'échanges et de commerce durant la préhistoire et le début de la période historique ainsi que des activités commerciales, militaires et domestiques qui ont marqué l'emplacement depuis le XVIIe siècle. Cette diversité des sites témoigne de la longue période d'occupation humaine. De plus, la qualité des connaissances archéologiques ainsi que l'ancienneté et l'intégrité des sites constituent une richesse pour la recherche et pour l'histoire de ce lieu.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les caractéristiques du site patrimonial de Trois-Rivières liées à ses valeurs historique, paysagère, architecturale et archéologique comprennent, notamment :<br/>- sa situation dans la ville de Trois-Rivières, le long du fleuve Saint-Laurent, près de l'embouchure de la rivière Saint-Maurice;<br/>- les sites archéologiques permettant de retracer l'occupation humaine du lieu et ses portions intactes offrant un potentiel de recherche;<br/>- les immeubles et les sites patrimoniaux classés;<br/>- les lieux et les éléments commémoratifs, dont le Platon et la place d'Armes;<br/>- les éléments issus de travaux réalisés à la suite de l'incendie de 1908, dont la largeur des rues des Casernes et des Ursulines ainsi que l'espace public aménagé à l'emplacement de l'ancienne église paroissiale;<br/>- les traces du bourg fortifié du XVIIe siècle, dont le tracé orthogonal des rues (Saint-Pierre, des Ursulines, Saint-Jean, Saint-Louis et Saint-François-Xavier) et les cinq îlots;<br/>- les traces du bourg de 1704, dont le secteur longeant la rue des Ursulines compris entre la rue Saint-François-Xavier et la rue Sainte-Cécile et les rues ouvertes au tournant du XVIIIe siècle (de l'Hôpital et de la Poudrière);<br/>- les établissements religieux concentrés le long de la rue des Ursulines, dont le monastère et les jardins des Ursulines, l'ancien couvent des Récollets et l'église anglicane Saint-James; <br/>- les éléments rattachés à la fonction résidentielle, dont la faible densité d'occupation en bordure de la rue des Ursulines et de la terrasse Turcotte, contrastant avec les lots plus petits et plus densément occupés des rues Saint-Pierre, Saint-François-Xavier, Saint-Louis et des Casernes;<br/>- les liens avec le fleuve Saint-Laurent et les environs, dont les percées visuelles créées par l'implantation irrégulière des bâtiments et les panoramas offerts de la terrasse Turcotte et des parcs;<br/>- les parcs publics, les aménagements paysagers tels que la terrasse Turcotte et les nombreuses oeuvres d'art public;<br/>- les bâtiments témoignant de la fonction institutionnelle, entre autres le monastère des Ursulines comprenant le couvent, l'hôpital, la chapelle et l'école, et les édifices du site patrimonial des Récollets-de-Trois-Rivières;<br/>- les bâtiments témoignant de la fonction résidentielle sous le Régime français, entre autres la maison Saint-François (habitation en bois de type rural) ainsi que la maison Georges-De Gannes et le manoir de Tonnancour (maisons de notables en pierre);<br/>- les bâtiments témoignant de la fonction résidentielle au XIXe siècle, entre autres les résidences bourgeoises de styles variés (néoclassique, Second Empire et georgien);<br/>- les bâtiments témoignant de la fonction résidentielle durant la période d'industrialisation, entre autres les habitations d'ouvriers et les maisons de style « boomtown » (caractérisées par un volume cubique, une maçonnerie de brique, une élévation de deux étages, un toit plat incliné vers l'arrière et une corniche ornementée), ainsi que les immeubles de logements (caractérisés par un volume cubique, un toit plat, une élévation de deux à trois étages, une corniche ornementée ainsi que des balcons en bois ou en fer forgé).</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Trois-Rivières est au coeur de la deuxième plus ancienne ville de la Nouvelle-France. Il est situé le long du fleuve Saint-Laurent, à l'ouest de l'embouchure de la rivière Saint-Maurice.<br/><br/>Ce lieu est fréquenté par les Autochtones depuis la préhistoire. Il est visité par l'explorateur Jacques Cartier (1491-1557) en 1535 et par François Gravé Du Pont (vers 1554-1629), capitaine de marine et marchand, vers 1599. En 1603, Samuel de Champlain (vers 1570-1635) reconnaît son importance stratégique pour la défense de la vallée du Saint-Laurent et le commerce des pelleteries. Il entrevoit d'y établir une habitation permanente. Entre-temps, l'endroit sert de lieu de rencontre pour les Autochtones et les commerçants de fourrures. <br/><br/>En 1634, le poste de Trois-Rivières est fondé à la demande de Champlain par Laviolette, un employé de la traite. Une habitation est construite et une mission jésuite est établie. Menacé par les Iroquois, l'établissement devient un bourg fortifié en 1650. Sous la direction du capitaine Pierre Boucher (1622-1717), les habitants bâtissent leurs résidences à l'intérieur de la palissade, ce qui leur permettra de résister aux incursions.<br/><br/>En 1663, lors de la réorganisation administrative de la Nouvelle-France, Trois-Rivières est désigné pour être le siège d'un gouvernement régional, à l'égal de Québec et de Montréal. Les Ursulines s'y installent en 1697. Le développement de l'agglomération est toutefois ralenti par l'émergence de Montréal comme plaque tournante du commerce des fourrures. Une partie du bourg sera par ailleurs incendiée en 1752. <br/><br/>Après la Conquête, le gouvernement de Trois-Rivières est aboli. La ville réussit néanmoins à maintenir son influence en étant le siège d'un district judiciaire (1793) et d'un évêché (1852). Trois-Rivières est brièvement occupé par les Américains en 1776.<br/><br/>Pendant la seconde moitié du XIXe siècle, l'industrialisation renforce l'importance régionale de Trois-Rivières, qui constitue désormais le centre de l'industrie forestière de la Mauricie. En 1854, la compagnie américaine Norcross and Philips construit une scierie à l'embouchure de la rivière Saint-Maurice, principale voie d'accès à l'arrière-pays. En 1857, la cité de Trois-Rivières est constituée et divisée en quatre quartiers. Le secteur ancien est inclus dans le quartier Sainte-Ursule. Au cours des années 1870, la ville est liée au réseau ferroviaire, et ses installations portuaires sont modernisées. La population trifluvienne augmente avec l'avènement d'une nouvelle bourgeoisie d'affaires et la croissance de la population ouvrière.<br/><br/>Au XXe siècle, l'expansion industrielle (pâtes et papiers, métallurgie, chimie, textile) de Trois-Rivières se poursuit. Des industries, dont la Wayagamack Pulp and Paper (1911), la Canadian International Paper (1922) et la St. Lawrence Pulp and Paper (1923), s'établissent à l'embouchure de la rivière Saint-Maurice. Ces usines valent à Trois-Rivières le titre de « capitale mondiale du papier ». Le Vieux-Trois-Rivières est peu affecté par l'incendie de 1908, mais il est modifié par le développement de la ville. Des maisons « boomtown » et des immeubles de logements sont alors construits pour les ouvriers.<br/> <br/>En 1934, les fêtes du tricentenaire suscitent un nouvel intérêt pour l'histoire de la ville. Des plaques et monuments commémoratifs sont installés. Le Vieux-Trois-Rivières est alors perçu comme un lieu de mémoire à préserver.<br/><br/>Le site patrimonial de Trois-Rivières est déclaré en 1964. Ses limites correspondent en partie à l'ancienne palissade du bourg fortifié au XVIIe et en partie au projet de palissade dessiné en 1704 par Jacques Levasseur de Neré (1662 ou 1664-1724). De nos jours, le site est le coeur historique de Trois-Rivières, qui est un centre portuaire, industriel et commercial important du Québec. Il contient de nombreux repères commémoratifs et plusieurs immeubles et sites patrimoniaux classés.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Mauricie
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Trois-Rivières
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Trois-Rivières
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Lieux-dits</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Vieux-Trois-Rivières
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  
+    <h3 class="label"><span >Localisation informelle</span>&nbsp;:</h3>
+    <p>Situé à l'intérieur du quadrilatère formé par la rue des Forges, la rue Saint-Pierre, la rue Sainte-Cécile et le fleuve Saint-Laurent</p>
+  
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        46° 20' 35.0"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -72° 32' 17.0"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableauDesaligne">
+  <h3><span class="libelle_definition" rel="tooltip" title="<span >Code alphanumérique propre à l'archéologie qui sert à désigner les sites archéologiques au Québec et au Canada en fonction de leur position géographique</span>"><span >Code Borden</span></span></h3>
+
+  <table>
+    <colgroup>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+    </colgroup>
+    
+      
+        
+        
+        
+          <tr>
+        
+        <td>CcFd-15</td>
+      
+        
+        
+        
+        <td>CcFd-18</td>
+      
+        
+        
+        
+        <td>CcFd-19</td>
+      
+        
+        
+        
+        <td>CcFd-20</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CcFd-21</td>
+      
+        
+        
+        
+        <td>CcFd-22</td>
+      
+        
+        
+        
+        <td>CcFd-28</td>
+      
+        
+        
+        
+        <td>CcFd-29</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CcFd-30</td>
+      
+        
+        
+        
+        <td>CcFd-31</td>
+      
+        
+        
+        
+        <td>CcFd-32</td>
+      
+        
+        
+        
+        <td>CcFd-35</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CcFd-39</td>
+      
+        
+        
+        
+        <td>CcFd-40 (en réservation)</td>
+      
+        
+        
+        
+        <td>CcFd-41 (en réservation)</td>
+      
+        
+        
+        
+        <td>CcFd-42</td>
+      
+      
+      </tr>
+    
+  </table>
+</div>
+
+
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+              <h2 class="titreBoite" id="documents"><span >Documents</span></h2>
+            
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+<ul>
+<li>
+<strong>
+
+  
+    <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir document')), this.innerHTML.trim());" href="document/rpcq_bien_93531_220567.PDF?id=220567" target="_blank">Site patrimonial de Trois-Rivières. Plan de conservation</a>
+  
+  
+
+</strong>
+<br/>
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+        &#169; 
+            
+            
+                Ministère de la Culture et des Communications
+            
+        
+        
+          
+            2014
+          
+        
+      
+    
+  
+  
+
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>Archéotec inc. <I>Trois-Rivières : Aménagement du Parc Portuaire phase I. Démolition et préparation du site. Rapport sur la surveillance archéologique</I>. Montréal, Travaux public Canada, région du Québec, 1984. s.p.</li>
+      
+    
+      <li>Archéotec inc. <I>Vieux Trois-Rivières, secteur des Ursulines. Enfouissement des réseaux aériens. Inventaire et supervision archéologiques 2003-2004 : rapport.</I>. Vol. 1. Trois-Rivières, Hydro-Québec distribution, 2004. 281 p.</li>
+      
+    
+      <li>BUCKNER, P. A. « <I>Durham, John George Lambton, 1er comte de</I> ». Historica Canada. <I>L'encyclopédie canadienne</I> [En ligne]. http://www.thecanadianencyclopedia.com/</li>
+      
+    
+      <li>CARDINAL, Pierre et Alison MCGAIN. <I>Inventaire archéologique de Trois-Rivières 1983. Place d'Armes, Parc de La Vérendrye, terrasse Turcotte</I>. Trois-Rivières, Ministère des Affaires culturelles, 1984. 263 p.</li>
+      
+    
+      <li>CARDINAL, Pierre. « Inventaire archéologique de Trois-Rivières - 1983 ». <I>Recherches archéologiques au Québec 1983/1984</I>  (1986), p. 153-156.</li>
+      
+    
+      <li>DOUVILLE, Raymond. « <I>Boucher, Pierre</I> ». Université Laval/University of Toronto. <I>Dictionnaire biographique du Canada</I> [En ligne]. http://www.biographi.ca/</li>
+      
+    
+      <li>FORTIN, Claire-Andrée, René HARDY et Normand SÉGUIN. « <I>Trois-Rivières</I> ». Historica Canada. <I>L'encyclopédie canadienne</I> [En ligne]. http://www.thecanadianencyclopedia.com/</li>
+      
+    
+      <li>GAMELIN, Alain et al. <I>Trois-Rivières illustrée</I>. Trois-Rivières, Comité des fêtes du 350ème anniversaire de fondation, 1984. 228 p.</li>
+      
+    
+      <li>GAMELIN, Alain. « Arrondissement historique de Trois-Rivières ». Commission des biens culturels du Québec. <I>Les chemins de la mémoire. Monuments et sites historiques du Québec. Tome I</I>. Québec, Les Publications du Québec, 1990, p. 19-24.</li>
+      
+    
+      <li>GAMELIN, Alain. « Trois-Rivières ». <I>Continuité</I>.  No 35 (1987), p. 13-16.</li>
+      
+    
+      <li>GRANDMONT, Josée. « Les Ursulines de Trois-Rivières ». <I>Continuité</I>.  No 77 (1998), p. 32-34.</li>
+      
+    
+      <li>HAMEL, Nathalie. <I>Étude de caractérisation de l'arrondissement historique de Trois-Rivières</I>. Québec, Commission des biens culturel, 2005. 73 p.</li>
+      
+    
+      <li>HARDY, René et Normand SÉGUIN. <I>Histoire de la Mauricie</I>. Les Régions du Québec, 17. Québec, Institut québécois de recherche sur la culture, 2004. 1137 p.</li>
+      
+    
+      <li>LIZOTTE, Sylvain, dir. <I>Plan de conservation du site patrimonial de Trois-Rivières</I>. Québec, Ministère de la Culture et des Communications, 2014. 85 p.</li>
+      
+        <ul>
+          
+            <li>Le document intitulé <i>Site patrimonial de Trois-Rivières. Plan de conservation</i> dans la section <a href="#documents">Documents</a> en fait partie.</li>
+          
+        </ul>
+      
+    
+      <li>Patri-Arch. <I>Inventaire du patrimoine architectural du Chemin du Roy à Trois-Rivières </I>. Trois-Rivières, Société de conservation et d'animation du patrimoine de Trois-Rivières, 2003. s.p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1478491704" async></script></body>
+</html>

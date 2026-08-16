@@ -1,0 +1,55 @@
+title_en: The 1992 Bisson inventory
+source: Ville de Montréal / arrondissement d'Outremont, « Patrimoine architectural de l'arrondissement
+  Outremont — Fiches d'immeubles de l'inventaire Bisson », donnees.montreal.ca, licence CC BY 4.0.
+note_en: Pierre-Richard Bisson's 1992 inventory graded Outremont's buildings; the open dataset publishes
+  the two retained grades with a link to each building's fiche. The data reflect the state of knowledge
+  in 1992 and have not been updated since. The 2025 column records which of them were retained in the
+  agglomeration's pre-1940 heritage inventory, adopted 28 August 2025.
+rows: 671
+streets: 62
+named_buildings: 165
+demolished: 1
+columns:
+- Grade
+- Label
+- Buildings
+- With a fiche
+- Retained, pre-1940 inventory (2025)
+categories:
+- code: Catégorie 1
+  label_fr: Bâtiment remarquable
+  count: 331
+  extra:
+  - 328
+  - 312
+- code: Catégorie 2
+  label_fr: Bâtiment intéressant
+  count: 340
+  extra:
+  - 340
+  - 309
+top_streets:
+- name: chemin Côte-Sainte-Catherine
+  count: 60
+- name: avenue Stuart
+  count: 57
+- name: avenue Bloomfield
+  count: 50
+- name: avenue Querbes
+  count: 30
+- name: avenue Maplewood
+  count: 29
+- name: avenue Durocher
+  count: 27
+- name: avenue Épée
+  count: 26
+- name: avenue Outremont
+  count: 25
+- name: avenue Bernard
+  count: 23
+- name: avenue Davaar
+  count: 20
+- name: avenue Pagnuelo
+  count: 19
+- name: avenue Wiseman
+  count: 19

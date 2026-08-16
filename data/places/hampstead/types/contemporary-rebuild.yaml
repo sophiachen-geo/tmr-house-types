@@ -28,15 +28,17 @@ profile:
   articulation: []
   openings: []
   materials: []
-profile_note: Large contemporary rebuilds on the original lots are visible on the ground but are not characterised
-  in any retrievable source, and no figures on demolition or rebuild rates were located. Record kept as a placeholder
-  so the phenomenon is not silently omitted.
+profile_note: 'Large contemporary rebuilds on the original lots are visible on the ground and documented case by
+  case in council decisions (5851 Ferncroft; 74 Stratford, August 2024; 29 Lyncroft, February 2025; 54 Place Heath),
+  but the Town publishes no demolition or rebuild statistic and no characterisation of the replacement houses. Record
+  kept so the phenomenon is not silently omitted. The four decisions are reported at ingest as evidence of practice,
+  not as a series, and no copy of them is held in sources/hampstead/.'
 blurb_en: The rebuilding of the garden-suburb lots, under way but undocumented.
 origin_en: Not characterised in any retrievable source; the Town's protection is discretionary (PIIA 775 and demolition
   by-law 1009) rather than provincial.
 source_generation: sector fiches (2005)
 photos:
 - file: null
-  credit: 'pending: photograph on site — Hampstead'
+  credit: 'pending: photograph on site — rue Thurlow, Vieux-Hampstead (sector 18.E.3)'
   kind: placeholder
 display_order: 3
