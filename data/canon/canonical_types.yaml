@@ -126,3 +126,45 @@
   name_en: Wartime Housing Ltd prefabricated panel house, 1½ storeys, originally on cedar posts
   definition_en: Wartime Housing Ltd prefabricated panel house of 1½ storeys, pre-cut frame and panels, originally set on cedar posts.
   members: []
+
+# ---- Part 5a additions (Westmount, Hampstead, Témiscaming) ----
+- id: greystone-row-2-3st
+  name_en: Party-wall greystone row house, 2–3 storeys, flat roof or false mansard, runs of up to eight units
+  definition_en: Party-wall row house of two or three storeys faced in Montréal greystone, flat roof or false mansard, built in runs of up to eight units.
+  members: []
+- id: greystone-triplex-exterior-stair
+  name_en: Party-wall greystone triplex with straight exterior stair (Montréal type, rare in Westmount)
+  definition_en: Party-wall greystone triplex reached by a straight, steep exterior stair — the Montréal plex form, rare in Westmount.
+  members: []
+- id: picturesque-villa-estate
+  name_en: Free-standing picturesque villa or country house in grounds, mid-19th century
+  definition_en: Free-standing picturesque villa or country house standing in its own grounds, mid-19th century.
+  members: []
+- id: romanesque-stone-house
+  name_en: Detached house in rusticated stone with round arches and squat columns
+  definition_en: Detached house in heavy rusticated stone with round arches and squat columns.
+  members: []
+- id: eclectic-prestige-house
+  name_en: Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château, Edwardian)
+  definition_en: Large detached prestige house in a classical or historicist idiom — Georgian, Beaux-Arts, Château or Edwardian.
+  members: []
+- id: english-revival-stone-2st
+  name_en: Two-storey stone house in an English revival idiom, detached, on a curving-street lot
+  definition_en: Two-storey detached stone house in an English revival idiom, set back on a curving-street lot.
+  members: []
+- id: interwar-walkup-apartment
+  name_en: Interwar apartment building / walk-up ("conciergerie", "appartement de rapport")
+  definition_en: Interwar apartment building or walk-up (« conciergerie », « appartement de rapport »).
+  members: []
+- id: modern-slab-tower
+  name_en: Postwar modernist residential tower or slab
+  definition_en: Postwar modernist residential tower or slab.
+  members: []
+- id: company-house-lower-town-1918
+  name_en: Company house of a 1918–1923 planned lower town, architect-designed in series
+  definition_en: Company house of a 1918–1923 planned lower town, designed in series by one architectural firm.
+  members: []
+- id: company-house-executive-1925
+  name_en: Executive/managerial company house of the 1925–1950 upper district, English-cottage idiom
+  definition_en: Executive or managerial company house of a 1925–1950 upper district, in an English-cottage idiom.
+  members: []

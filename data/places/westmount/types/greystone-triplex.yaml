@@ -1,0 +1,52 @@
+id: westmount.greystone-triplex
+place: westmount
+phase: p3
+name_en: Greystone triplex with exterior stair
+name_fr: Triplex en pierre grise à escalier extérieur
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.34
+canonical:
+- greystone-triplex-exterior-stair
+- triplex-exterior-stair   # the Montréal plex form the fiche says this is
+styles:
+- faubourg-vernacular
+tenure_plan: triplex
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- montreal-greystone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Rue Saint-Antoine (23.E.34), at the northern edge of the flat lower town.
+  massing:
+  - Attached greystone triplexes of the 1890s reached by straight, steep exterior stairs.
+  articulation: []
+  openings: []
+  materials:
+  - Montréal greystone.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: 'The Montréal plex as Westmount rarely built it: three flats behind a greystone front, the upper two reached
+  by a straight outside stair, on one street at the town''s northern edge.'
+origin_en: The 2005 fiche is explicit that this is a borrowed form — « ce genre de construction typique de Montréal
+  se retrouve rarement à Westmount » — which is why it is the cross-link between Westmount and the plex cities of
+  the Plateau and Saint-Lambert.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 3

@@ -1,0 +1,33 @@
+id: hampstead
+name_en: Hampstead
+name_fr: Ville de Hampstead
+sections: [planned]
+region: Agglomération de Montréal
+founded: 1914                              # incorporated 19 February 1914 (Bill 59), detached from Côte-Saint-Luc; first council 7 April 1914; founding mayor James Ballie
+settlement_mode: garden-suburb subdivision by a private land company (Côte St. Luc Realties)
+governing_instruments:
+  - kind: PIIA
+    title: Ville de Hampstead, règlement 775 sur les PIIA
+    year: null
+    url: https://www.hampstead.qc.ca/wp-content/uploads/2022/02/775_PIIA_UBPI-1.pdf
+  - kind: municipal-bylaws
+    title: Plan d'urbanisme 1000; zonage 1001; construction 1003; démolition 1009; dérogations mineures 1013
+    year: null
+    url: https://memento.heritagemontreal.org/boite-a-outils/references-urbanisme-et-reglementation/reglements-durbanisme-villes-de-lagglomeration-de-montreal/
+  - kind: local-architectural-board
+    title: Commission consultative d'architecture, created 1926; the Town adopted its own building standards in 1923 (before that it applied standards borrowed from Westmount)
+    year: 1926
+    url: null
+typology_document:
+  title: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest (2005, ISBN 2-7647-0461-5, 43 pp.)
+  year: 2005
+  format: sector-characterisation
+  note: "No per-type catalogue exists. Three sectors carry the characterisation; the types below are those sectors' dominant forms."
+map_layer: null
+summary_en: >-
+  A Garden City suburb laid out in 1913–14 on the model of Hampstead in London: curving streets to
+  slow traffic, large single-family lots with room to garden, no commerce or industry. It grew
+  slowly — 53 residents in 1921, about a thousand and a hundred houses by 1944 — then filled after
+  the war. Its interwar core, Vieux-Hampstead, is a secteur de valeur patrimoniale exceptionnelle of
+  two-storey stone houses "fortement inspirés des styles anglais aussi présents en grand nombre à
+  Westmount".

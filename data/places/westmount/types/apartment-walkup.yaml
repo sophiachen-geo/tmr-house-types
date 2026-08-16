@@ -1,0 +1,51 @@
+id: westmount.apartment-walkup
+place: westmount
+phase: p5
+name_en: Interwar apartment house
+name_fr: Immeuble d'appartements de l'entre-deux-guerres
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.22
+- 23.E.35
+canonical:
+- interwar-walkup-apartment
+styles:
+- art-deco
+- streamline-moderne
+- tudor-revival
+tenure_plan: walk-up
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Around the église Saint-Léon (23.E.22), where one of Westmount's first apartment buildings went up in 1907 on
+    De Maisonneuve; interwar ensembles around Place Park (23.E.35), and along Sherbrooke and De Maisonneuve.
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: 'The « conciergerie »: the interwar apartment house that lined Sherbrooke and De Maisonneuve and made
+  a luxurious urban way of living possible inside a suburb of houses.'
+origin_en: Westmount's first apartment building dates from 1907; the 2005 fiche describes the sector around Saint-Léon
+  becoming « le centre d'un style de vie urbaine luxueuse » in the two decades that followed.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 11

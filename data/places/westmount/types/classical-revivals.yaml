@@ -1,0 +1,58 @@
+id: westmount.classical-revivals
+place: westmount
+phase: p4
+name_en: Eclectic prestige house of the summit
+name_fr: Grande résidence éclectique du sommet
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.1
+- 23.E.2
+canonical:
+- eclectic-prestige-house
+styles:
+- georgian-revival
+- colonial-revival
+- beaux-arts
+- chateau-style
+- edwardian-classical
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- limestone
+- clay-brick-buff
+- terracotta
+- copper
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - The summit and the eastern south slope (23.E.1), largely vacant until 1895 and built up between 1900 and 1930;
+    the steep south-west slope of Sunnyside and chemin Edgehill (23.E.2).
+  massing: []
+  articulation: []
+  openings: []
+  materials:
+  - Limestone, buff brick, terracotta and copper.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: The summit houses — « de véritables châteaux » in the 2005 fiche's phrase — built between 1900 and 1930
+  for the view, in whichever historicist idiom the owner and architect preferred.
+origin_en: The summit opened after The Boulevard was linked to Montréal in 1895. Stonehurst and Stonehenge (4200
+  and 4250 Sherbrooke West, 1928, J. J. Perrault and J. R. Gadbois) are the type's best-known pair.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 8

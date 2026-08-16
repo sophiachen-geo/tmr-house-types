@@ -1,0 +1,46 @@
+id: westmount.greystone-row
+place: westmount
+phase: p3
+name_en: Greystone row house
+name_fr: Maison en rangée en pierre grise
+source_ref: "Évaluation du patrimoine urbain — Westmount (2005), sectors 23.E.24, 23.E.22, 23.E.33"
+sectors: [23.E.24, 23.E.22, 23.E.33, 23.E.26, 23.E.28]
+canonical: [greystone-row-2-3st]
+styles: [second-empire, edwardian-classical]
+tenure_plan: row
+storeys: "2–3"
+roof: {form: flat-or-false-mansard, pitch_deg: 0}
+window_proportion: vertical
+principal_cladding: [montreal-greystone]
+profile:
+  siting_landscape:
+    - The flat lower town; buildings aligned to the street with shallow or no front garden; runs of up to eight units (sector 23.E.24, 1885–1905).
+    - "Hallowell-Weredale (23.E.33): about 240 buildings, mostly attached town houses of 1870–1914, the first Westmount project with paved rear lanes."
+  massing:
+    - Two to three storeys, narrow party-wall units; flat roof or false-mansard crown.
+  articulation:
+    - Repetitive bays; cornices; decorative wood joinery ("tarabiscotage"), polychrome and nearly intact at Place de Blenheim (23.E.31, sixteen identical façades).
+  openings: []
+  materials:
+    - "Le calcaire local — 'la pierre grise de Montréal' — préféré à la brique dans ce secteur (23.E.24)."
+profile_note: >-
+  Assembled from sector fiches; Westmount publishes no per-type table. Window type and door detail are
+  not specified per type in the sources — the by-law's Directive 4 governs replacements case by case.
+blurb_en: >-
+  The lower town's default building: a narrow greystone unit repeated up to eight times in a run,
+  flat-roofed or crowned with a false mansard, its individuality carried entirely by the cornice and
+  the painted woodwork of the entrance.
+origin_en: >-
+  Built 1870–1905 as Westmount urbanised the flat land below the escarpment; the same Montréal
+  greystone that faces the Plateau's maisons urbaines, quarried from the cliff itself. Parks Canada's
+  statement lists row houses among the components whose "diversity and integrity" make the district
+  an exemplary Victorian and post-Victorian suburb.
+photos: [{file: null, credit: "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only", kind: placeholder}]
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+roofing: null
+source_generation: "sector fiches (2001/2005) + NHS CDE (2011)"
+display_order: 2

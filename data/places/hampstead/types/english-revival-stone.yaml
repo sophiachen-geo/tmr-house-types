@@ -1,0 +1,53 @@
+id: hampstead.english-revival-stone
+place: hampstead
+phase: p2
+name_en: English-revival stone house
+name_fr: Maison en pierre d'inspiration anglaise
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest
+  (2005), sector fiches
+sectors:
+- 18.E.3
+canonical:
+- english-revival-stone-2st
+styles:
+- tudor-revival
+- colonial-revival
+- arts-and-crafts
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- stone
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Large single-family lots on curving streets with generous setbacks; no commercial or industrial use anywhere
+    in the town.
+  massing:
+  - Two-storey volumes.
+  articulation: []
+  openings: []
+  materials:
+  - Stone dominant — « dans le Vieux-Hampstead la pierre domine » — with some brick.
+profile_note: The 2005 sector fiche is the only characterisation; it gives no roof, opening or ornament detail.
+  Do not infer from photographs.
+blurb_en: 'The interwar stone house of Vieux-Hampstead: two storeys in an English-revival idiom, set back on a curving
+  street, « fortement inspirés des styles anglais aussi présents en grand nombre à Westmount ».'
+origin_en: The Garden City model imported by name from Hampstead in London. Early houses, to 1923, were built to
+  standards borrowed from Westmount; from 1923 the Town applied its own, and from 1926 a Commission consultative
+  d'architecture reviewed them.
+source_generation: sector fiches (2005)
+photos:
+- file: null
+  credit: 'pending: photograph on site — rue Thurlow, Vieux-Hampstead (sector 18.E.3)'
+  kind: placeholder
+display_order: 1

@@ -1,0 +1,50 @@
+id: hampstead.postwar-detached
+place: hampstead
+phase: p3
+name_en: Postwar detached house
+name_fr: Maison unifamiliale d'après-guerre
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest
+  (2005), sector fiches
+sectors:
+- 18.I.4
+- 18.U.1
+canonical:
+- postwar-2st-box-low-hip
+- one-storey-ranch-low-roof
+styles:
+- minimal-traditional
+- ranch
+- split-level
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'The original street pattern continued: single-family houses on large lots along curving streets, many of the
+    1940s and later.'
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: The 2005 fiches characterise these sectors by plan and period only; no roof, material or opening detail
+  is given for Hampstead's postwar houses, and none is inferred here.
+blurb_en: The houses of Hampstead's second development phase, filling the 1913 street pattern after the war on the
+  same large lots.
+origin_en: Postwar suburban expansion within the original garden-suburb plan. Bungalows and split-levels are more
+  characteristic of adjacent Côte-Saint-Luc (sector 18.U.2) than of Hampstead itself.
+source_generation: sector fiches (2005)
+photos:
+- file: null
+  credit: 'pending: photograph on site — Hampstead (sectors 18.I.4, 18.U.1)'
+  kind: placeholder
+display_order: 2

@@ -186,6 +186,25 @@ for pdir in sorted((DATA / "places").iterdir()):
         key = f"phase:{ph['id']}"
         ph["essay"] = " ".join(paragraphs(prose_raw.get(key, ""))) if prose_raw.get(key) else ""
 
+    sec_file = pdir / "sectors.yaml"
+    sectors = load_yaml(sec_file) if sec_file.exists() else None
+    if sectors:
+        for s in sectors:
+            require(s, ["id", "code", "name_fr", "value", "summary_en", "streets"], f"{pdir.name}/sectors.yaml")
+            if s["value"] not in ("exceptional", "interesting", "urban-ensemble"):
+                fail(f"{pdir.name}/sectors.yaml: {s['code']}: value must be exceptional|interesting|urban-ensemble")
+        codes = [s["code"] for s in sectors]
+        if len(codes) != len(set(codes)):
+            fail(f"{pdir.name}/sectors.yaml: duplicate sector codes")
+    pl["sectors"] = sectors
+    SECTOR = {s["code"]: s for s in (sectors or [])}
+    grading = pl.get("grading")
+    if grading:
+        require(grading, ["system", "categories"], f"{ctx}: grading")
+        for c in grading["categories"]:
+            require(c, ["code", "label_fr", "count"], f"{ctx}: grading.categories")
+    pl.setdefault("grading", None)
+
     types = []
     for tf in sorted((pdir / "types").glob("*.yaml")):
         tctx = f"{pdir.name}/types/{tf.name}"
@@ -234,6 +253,16 @@ for pdir in sorted((DATA / "places").iterdir()):
         t.setdefault("conservation", None)
         t.setdefault("conservation_fr", None)
         t.setdefault("models_observed", None)
+        t.setdefault("sectors", None)
+        if t["sectors"] is not None:
+            if not isinstance(t["sectors"], list):
+                fail(f"{tctx}: sectors must be a list of sector codes")
+            for code in t["sectors"]:
+                if code not in SECTOR:
+                    fail(f"{tctx}: unknown sector code '{code}' (not in {pdir.name}/sectors.yaml)")
+            t["sector_objs"] = [SECTOR[c] for c in t["sectors"]]
+        else:
+            t["sector_objs"] = []
         t.setdefault("display_order", None)
         if t.get("models_observed") is not None and not isinstance(t["models_observed"], list):
             fail(f"{tctx}: models_observed must be a list of model codes")
@@ -493,6 +522,7 @@ for t in all_types:
         "profile": t["profile"], "profile_fr": t.get("profile_fr"), "profile_note": t["profile_note"],
         "conservation": t["conservation"], "conservation_fr": t["conservation_fr"],
         "models_observed": t["models_observed"], "phase_confidence": t["phase_confidence"],
+        "sectors": t["sectors"],
         "source_generation": t["source_generation"],
         "blurb_en": t["blurb_en"], "origin_en": t["origin_en"],
         "photo": t["photo"], "url": f"types/{t['id']}/",
@@ -507,7 +537,7 @@ cw.writerow(["id", "place", "place_name", "phase", "phase_years", "phase_title",
              "roof_pitch_deg", "window_proportion", "principal_cladding", "roofing", "garage",
              "lot_width_min_m", "lot_width_max_m", "setback_front_m", "setback_side_m",
              "front_yard_green_pct", "siting_landscape", "massing", "articulation", "openings",
-             "materials", "conservation", "models_observed", "phase_confidence",
+             "materials", "conservation", "models_observed", "phase_confidence", "sectors",
              "blurb_en", "origin_en", "photo_file", "photo_credit"])
 for t in all_types:
     cw.writerow([
@@ -522,7 +552,7 @@ for t in all_types:
         " | ".join(t["profile"]["siting_landscape"]), " | ".join(t["profile"]["massing"]),
         " | ".join(t["profile"]["articulation"]), " | ".join(t["profile"]["openings"]),
         " | ".join(t["profile"]["materials"]), " | ".join(t["conservation"] or []),
-        "; ".join(t["models_observed"] or []), t["phase_confidence"],
+        "; ".join(t["models_observed"] or []), t["phase_confidence"], "; ".join(t["sectors"] or []),
         t["blurb_en"], t["origin_en"],
         t["photo"]["file"], t["photo"]["credit"],
     ])

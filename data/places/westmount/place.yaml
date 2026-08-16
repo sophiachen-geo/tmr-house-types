@@ -1,0 +1,47 @@
+id: westmount
+name_en: Westmount
+name_fr: Ville de Westmount
+sections: [planned, historic-core]        # a slope suburb with a rural founding road; both tags apply
+region: Agglomération de Montréal
+founded: 1874                              # Village de Côte-Saint-Antoine; town 1890; renamed Westmount 1895
+settlement_mode: bourgeois slope suburb grown over the Côte-Saint-Antoine farms
+governing_instruments:
+  - kind: PIIA
+    title: Règlement 1305 sur les plans d'implantation et d'intégration architecturale (in force 6 December 2001; consolidated Feb 2014; a 13 February 2024 consolidation is referenced by the City), incorporating the design guidelines "Rénover et construire à Westmount"
+    year: 2001
+    url: https://westmount.org/fr/travaux-et-urbanisme/construction-et-renovation/informations-generales-construction-renovation
+  - kind: NHS
+    title: Westmount District National Historic Site of Canada (designated 19 July 2011; significant period 1890–1930; 2.5 km²)
+    year: 2011
+    url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13040
+  - kind: classement
+    title: Maison Hurtubise (1739, 561–563 ch. de la Côte-Saint-Antoine), classified 2004; Braemar (1847, 3219 The Boulevard), recognised 1984
+    year: 2004
+    url: null
+  - kind: demolition-bylaw
+    title: Demolition of more than 50 % of a building triggers the demolition by-law and committee; all Category 1* buildings are automatically subject
+    year: null
+    url: null
+grading:                                   # per-building, not per-type
+  system: Beaupré & Michaud, Évaluation du patrimoine urbain de la Ville de Westmount (1988), applied by By-law 1305
+  categories:
+    - {code: "I*", label_fr: exceptionnel, count: 45, note: "45 residences per the Imagine Westmount 2040 fiche; the City's heritage pages say 49 exceptional properties — residences vs all property types. Annex III gives per-building conservation strategies 'correspond[ing] to that observed by agencies like Parks Canada in the country's most important historic sites'."}
+    - {code: "I", label_fr: important, count: 1366, note: null}
+    - {code: "II", label_fr: intéressant, count: 3342, note: null}
+    - {code: "III", label_fr: neutre, count: 356, note: "lower architectural value, or buildings under 40 years old"}
+typology_document:
+  title: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Westmount (2005), which reproduces Westmount's \"Rénover et construire à Westmount : fiches d'information des secteurs patrimoniaux\" (September 2001); By-law 1305 Annexes I and III"
+  year: 2005
+  format: sector-and-grading            # new value; document in methods
+  note: >-
+    Westmount classifies buildings by conservation value and territory by sector; it publishes no
+    per-type profile table. Types below are reconstructed from the sector fiches and the NHS
+    character-defining elements, with profile fields left empty where the sources do not speak.
+map_layer: null
+summary_en: >-
+  The bourgeois slope suburb of Montréal, grown over the Côte-Saint-Antoine farms between the 1870s
+  and 1930 and controlled almost from the start: an Architectural Commission from 1916, a four-tier
+  grading of every building, and 39 heritage sectors that follow the topography from the greystone
+  rows of the flat lower town up through the plateau and the slope to the summit "châteaux". About
+  4,750 dwellings, some 61 % of the stock, predate 1945. A National Historic Site since 2011 for
+  "the diversity and the integrity of its components".

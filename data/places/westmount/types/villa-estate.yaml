@@ -1,0 +1,49 @@
+id: westmount.villa-estate
+place: westmount
+phase: p2
+name_en: Picturesque villa and country house
+name_fr: Villa et maison de campagne pittoresque
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.14
+- 23.E.8
+canonical:
+- picturesque-villa-estate
+styles: []
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Free-standing houses in their own grounds along the chemin de la Côte-Saint-Antoine (23.E.14) and at Rosemount
+    (23.E.8), the 'berceau de Westmount' of about 1874, at low density and with deep setbacks.
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: 'The picturesque villas and country cottages of the slope, standing in their own grounds before the street
+  grid reached them: Metcalfe Terrace (1840), Braemar and Riverview (1847).'
+origin_en: The first houses built for pleasure rather than farming on the Côte-Saint-Antoine lands, whose rural
+  antecedent — the Maison Hurtubise of 1739, classified in 2004 — still stands on the founding road. Braemar (1847,
+  3219 The Boulevard) was recognised in 1984.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 1

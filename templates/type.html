@@ -4,6 +4,7 @@
   <div class="kicker"><a href="{{ R }}places/{{ t.place }}/" style="text-decoration:none">{{ t.place_name|esc }}</a> · Local type</div>
   <h1>{{ t.name_en|esc }}</h1>
   <div class="metaline">{{ t.place_name|esc }} · {{ t.phase_obj.label|esc }} ({{ t.phase_obj.years }}) · {{ t.source_ref|esc }}{% if t.source_generation %} · Source generation: {{ t.source_generation|esc }}{% endif %} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% else %}<span class="null">–</span>{% endfor %}</div>
+  {% if t.sector_objs %}<div class="chips">{% for s in t.sector_objs %}<a class="chip" href="{{ R }}places/{{ t.place }}/#sector-{{ s.code }}">{{ s.code }} {{ s.name_fr|esc }}</a>{% endfor %}</div>{% endif %}
   {% if t.models_observed %}<div class="chips">{% for m in t.models_observed %}<span class="chip">{{ m }}</span>{% endfor %}</div>{% endif %}
   {% if t.phase_confidence %}<div class="conf {{ t.phase_confidence }}">Phase attribution: {{ t.phase_confidence }}</div>{% endif %}
   {% if t.style_objs %}<div class="stylename">Style: {{ t.style_label }} — {% for s in t.style_objs %}<a href="{{ R }}styles/{{ s.id }}/">{{ s.name_en|esc }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</div>{% endif %}

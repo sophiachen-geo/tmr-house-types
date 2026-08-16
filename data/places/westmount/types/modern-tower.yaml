@@ -1,0 +1,47 @@
+id: westmount.modern-tower
+place: westmount
+phase: p6
+name_en: Modernist residential tower
+name_fr: Tour d'habitation moderniste
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.30
+canonical:
+- modern-slab-tower
+styles:
+- international-style
+tenure_plan: slab
+storeys: null
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Sainte-Catherine and De Maisonneuve (23.E.30), on blocks of Elm and Wood cleared after the rezoning of the 1960s.
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: 'Westmount Square (Mies van der Rohe, 1967) and Place Alexis Nihon: the International Style arriving at
+  the foot of the slope, on ground cleared of the greystone rows that stood there.'
+origin_en: The 1960s rezoning that permitted them demolished blocks on Elm and Wood — the same row-house fabric
+  that sectors 23.E.24 and 23.E.33 protect a few streets away.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 12

@@ -16,6 +16,38 @@
     </div>
   </div>
 </div></header>
+{% if pl.grading %}
+<section class="notes" id="grading"><div class="wrap">
+  <div class="kicker">How buildings are graded</div>
+  <p>{{ pl.grading.system|esc }}</p>
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Category</th><th>Label</th><th>Buildings</th><th>Note</th></tr></thead>
+    <tbody>{% for c in pl.grading.categories %}
+      <tr><td><strong>{{ c.code|esc }}</strong></td><td><em>{{ c.label_fr|esc }}</em></td>
+          <td>{{ c.count if c.count is not none else "–" }}</td>
+          <td>{{ c.note|esc if c.note else "–" }}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</div></section>
+{% endif %}
+{% if pl.sectors %}
+<section class="notes" id="sectors"><div class="wrap">
+  <div class="kicker">Heritage sectors</div>
+  <p>{{ pl.sectors|length }} sectors — {{ pl.sectors|selectattr("value","equalto","exceptional")|list|length }} of exceptional value,
+     {{ pl.sectors|selectattr("value","equalto","interesting")|list|length }} interesting{% if pl.sectors|selectattr("value","equalto","urban-ensemble")|list|length %},
+     {{ pl.sectors|selectattr("value","equalto","urban-ensemble")|list|length }} urban ensemble{% endif %}. Type cards below name the sectors they belong to.</p>
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Code</th><th>Sector</th><th>Value</th><th>Description</th><th>Streets</th></tr></thead>
+    <tbody>{% for s in pl.sectors %}
+      <tr id="sector-{{ s.code }}"><td><span class="chip">{{ s.code }}</span></td>
+          <td><em>{{ s.name_fr|esc }}</em></td>
+          <td>{{ s.value }}</td>
+          <td>{% if s.summary_en %}{{ s.summary_en|esc }}{% else %}<span class="null">– fiche text not yet transcribed</span>{% endif %}</td>
+          <td>{{ s.streets|join(", ")|esc if s.streets else "–" }}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</div></section>
+{% endif %}
 {% if pl.model_families %}
 <section class="notes" id="models"><div class="wrap">
   <div class="kicker">Model families in the Sainte-Thérèse historic quarter</div>
@@ -43,6 +75,7 @@
     <div class="eyebrow"><span class="dot"></span>{{ ph.label|esc }} · {{ ph.years }} · {{ t.eyebrow_ref|esc }}</div>
     <h2><a href="{{ R }}types/{{ t.id }}/">{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></a></h2>
     {% if t.style_label %}<div class="stylename">Style: {{ t.style_label }}</div>{% endif %}
+    {% if t.sector_objs %}<div class="chips">{% for s in t.sector_objs %}<a class="chip" href="#sector-{{ s.code }}" title="{{ s.name_fr|esc }}">{{ s.code }}</a>{% endfor %}</div>{% endif %}
     {% if t.models_observed %}<div class="chips">{% for m in t.models_observed %}<span class="chip">{{ m }}</span>{% endfor %}</div>{% endif %}
     {% if t.phase_confidence %}<div class="conf {{ t.phase_confidence }}">Phase attribution: {{ t.phase_confidence }}</div>{% endif %}
   </div>

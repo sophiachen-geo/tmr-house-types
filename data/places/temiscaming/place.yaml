@@ -1,0 +1,34 @@
+id: temiscaming
+name_en: Témiscaming
+name_fr: Ville de Témiscaming
+sections: [planned]
+region: Abitibi-Témiscamingue
+founded: 1917                              # Adams plan 1917; mill and first construction 1918; municipality 1920 as Kipawa, renamed Témiscaming 1921
+settlement_mode: pulp-and-paper company town (Riordon Pulp and Paper, then Canadian International Paper)
+governing_instruments:
+  - kind: classement
+    title: Gare de Témiscaming (15 rue Humphrey, built 1927 to CPR engineers' plans), classée immeuble patrimonial 19 October 2012 (prior reconnaissance 28 June 1979); protection covers exterior and interior, not the land
+    year: 2012
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92694&type=bien
+  - kind: inventory-in-progress
+    title: MRC de Témiscamingue built-heritage inventory (launched 2023, $50,000 provincial grant, targeting pre-1940 buildings); due April 2026 under the Loi sur le patrimoine culturel
+    year: 2026
+    url: https://ici.radio-canada.ca/nouvelle/1929037/patrimoine-batit-inventaire-culture-histoire-temiscamingue
+typology_document:
+  title: "Canadian Centre for Architecture, \"Power and Planning: Industrial Towns in Québec, 1890–1950\" (1996), with Gabor Szilasi's photographs"
+  year: 1996
+  format: study
+  note: >-
+    No typology catalogue exists. Only one house-type designation is documented anywhere —
+    "Type 171C", Elm Street — and no materials, roof form or storey count attach to it. The two type
+    records below are defined by builder and period, which is what the sources support.
+map_layer: null
+summary_en: >-
+  A 1917 Garden-City company town on a hillside above Lake Timiskaming, planned by the Scottish
+  planner Thomas Adams for Riordon Pulp and Paper: "The Adams plan adapted its roads to the land,
+  setting the town on a hill by Lake Timiskaming and the pulp mill further down on more level
+  ground." From 1918 to 1923 the Montréal architects Ross and Macdonald built the mill, the
+  commercial district and all the houses of the lower town; from 1925 to 1950 William Lyon Somerville
+  of Toronto designed the upper-district houses, hospital, schools and churches for Canadian
+  International Paper. "A single design aesthetic, established when the town was created, prevailed
+  throughout its development." No residential district has heritage status.

@@ -30,3 +30,7 @@
 - {id: craftsman, name_en: Craftsman / Shingle Style, span: [1900, 1930]}
 # ---- Part 4a additions ----
 - {id: regionalist-neo-vernacular, name_en: Regionalist / neo-vernacular French-Canadian (Arvida), span: [1926, 1950]}
+# ---- Part 5a additions ----
+- {id: richardsonian-romanesque, name_en: Richardsonian Romanesque, span: [1885, 1905]}
+- {id: chateau-style, name_en: Château style, span: [1890, 1930]}
+- {id: edwardian-classical, name_en: Edwardian classical, span: [1900, 1920]}

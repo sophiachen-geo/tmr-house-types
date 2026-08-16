@@ -1,0 +1,51 @@
+id: westmount.second-empire
+place: westmount
+phase: p3
+name_en: Mansard-roofed house of Second Empire influence
+name_fr: Maison à mansarde d'influence Second Empire
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.24
+canonical:
+- mansard-house-2st
+styles:
+- second-empire
+tenure_plan: single-family
+storeys: null
+roof:
+  form: mansard
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- montreal-greystone
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Wood and Elm south of Sherbrooke (23.E.24), built 1885–1905.
+  massing:
+  - Mansard roof with dormers.
+  articulation: []
+  openings: []
+  materials:
+  - Greystone or brick; slate on the mansard.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: The mansard-roofed house of the lower town, its dormered brisis carrying the storey that the flat-roofed
+  row next door does without.
+origin_en: The Second Empire fashion as it reached Westmount's speculative streets in the 1880s and 90s; the 2005
+  fiche notes that in this sector the false mansard is more common than the plain parapet as a crown.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 4

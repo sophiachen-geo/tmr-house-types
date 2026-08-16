@@ -1,0 +1,53 @@
+id: westmount.queen-anne
+place: westmount
+phase: p3
+name_en: Queen Anne house
+name_fr: Maison de style Queen Anne
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.21
+canonical:
+- queen-anne-irregular-2-5st
+styles:
+- queen-anne
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+- stone
+- wood
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Metcalfe and Melbourne in the Lower Westmount residences sector (23.E.21), 1880s; flat-roofed villa-type houses
+    on Redfern.
+  massing: []
+  articulation:
+  - Asymmetry, turrets and wraparound porches.
+  openings: []
+  materials:
+  - Red brick and stone with wood trim.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: 'The elaborate Victorian of the lower town: asymmetrical, turreted, wrapped in a porch, and built for
+  the first generation of Westmount''s professional class.'
+origin_en: Built through the 1880s on Metcalfe and Melbourne as the village became a town; the same late-Victorian
+  eclecticism that produced Saint-Lambert's Queen Anne houses in the same decade.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 5

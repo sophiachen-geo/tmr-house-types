@@ -69,6 +69,7 @@
     "A08"
    ],
    "phase_confidence": "verified",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The first-phase house: one of the standard models of the summer of 1926, re-drawn by Wake to fit French-Canadian family life (a big kitchen instead of parlour and dining room), varied from house to house by dormers, porches and roof details so that, in the City's phrase, \"not a single house was built that resembles its neighbour\".",
    "origin_en": "Brainerd's New York-inspired type plans were \"rationalised\" on site by the engineer Harold R. Wake, who adapted them to Québec's climate and household size; the CPCQ dossier speaks of \"quatre modèles types\" enabling the 270 houses of 1926 in 135 days, with variety obtained through dormers, balconies and roofs. The address list is consistent with families A–D being that first set: on the 1926 streets almost every entry is an A, B, C or D code.",
@@ -143,6 +144,7 @@
     "B04"
    ],
    "phase_confidence": "verified",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The second of the 1926 model families: B01 and B02 are scattered through the first streets around parc Oersted, while B03 and B04 appear only later, on rue La Traverse.",
    "origin_en": "One of the standardised models of the first construction phase, from Brainerd's type plans as reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.",
@@ -219,6 +221,7 @@
     "C06"
    ],
    "phase_confidence": "verified",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The third 1926 family, six models spread across the first streets, with C05 turning up only later on rue La Traverse.",
    "origin_en": "One of the standardised models of the first construction phase, from Brainerd's type plans as reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.",
@@ -294,6 +297,7 @@
     "D05"
    ],
    "phase_confidence": "verified",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The fourth 1926 family: five models, two of them (D03, D04) confined to rue Faraday and one (D05) to the later rue Fickes.",
    "origin_en": "One of the standardised models of the first construction phase, from Brainerd's type plans as reworked on site by Harold R. Wake; see family A for the origin of the 1926 set.",
@@ -374,6 +378,7 @@
     "M97"
    ],
    "phase_confidence": "verified",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The wartime detached house in Arvida's regionalist manner: the French-Canadian farmhouse silhouette re-issued as a company model. M11 (1942) is the textbook example.",
    "origin_en": "The 1940s phase drew on the regionalist current that the Manoir du Saguenay (Fetherstonhaugh & Durnford, 1939) and later the church of Saint-Jacques (Desgagné & Boileau, 1949) also express; the RPCQ statement singles out houses \"davantage dans l'esprit de l'architecture traditionnelle québécoise\" alongside those \"inspirées de formes populaires aux États-Unis\".",
@@ -463,6 +468,7 @@
     "F18"
    ],
    "phase_confidence": "provisional",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The paired company house of the 1940s streets north of the core; eighteen numbered variants.",
    "origin_en": "The war effort (Arvida the world's largest smelter in 1942) demanded housing fast; the company's own semi-detached models filled Powell, Neilson and Hoopes while Wartime Housing Ltd. put up 500 more prefabricated houses nearby.",
@@ -544,6 +550,7 @@
     "T07"
    ],
    "phase_confidence": "provisional",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The later families of the boulevard du Saguenay and the streets east of Powell, part paired, part detached.",
    "origin_en": "Same wartime and immediate postwar phase as F; see family F.",
@@ -617,6 +624,7 @@
     "R04"
    ],
    "phase_confidence": "provisional",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "Arvida's only rows: six-unit company terraces at the eastern edge of the historic quarter.",
    "origin_en": "The last company housing before Alcan withdrew from municipal management in the early 1950s.",
@@ -698,6 +706,7 @@
     "Z"
    ],
    "phase_confidence": "provisional",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The families the catalogue index cannot yet describe: twenty codes clustered on rue La Traverse, rue Castner and rue Coulomb, between the first streets of 1926 and the war-era additions.",
    "origin_en": "Probably the second construction phase, which opened in early 1936 with houses by the Montréal architect Ernest Isbell Barott; no online source ties Barott's designs to particular model letters, so the attribution stays provisional until Morisset's album is read.",
@@ -771,6 +780,7 @@
    "conservation_fr": null,
    "models_observed": [],
    "phase_confidence": "verified",
+   "sectors": null,
    "source_generation": "Ville de Saguenay address→model list (2014); Morisset 2022 (print)",
    "blurb_en": "The federal Crown corporation's prefab, dropped by the hundred around the smelter in the war years and then bought, jacked up and given proper foundations by the company in 1949 so they would stay.",
    "origin_en": "Wartime Housing Limited (1941–47) built temporary workers' housing across Canada; in Arvida the aluminium company, \"interested in conserving, or even developing a dense image of the city of aluminum\", acquired most of them and made them permanent.",
@@ -783,6 +793,221 @@
     "alt": "Photograph of Wartime Housing Ltd. houses houses in Arvida (borough of Jonquière, Saguenay), from Ville de Saguenay"
    },
    "url": "types/arvida.wartime-housing/"
+  },
+  {
+   "id": "hampstead.english-revival-stone",
+   "place": "hampstead",
+   "place_name": "Hampstead",
+   "phase": "p2",
+   "phase_label": "1923–1945",
+   "phase_years": "1923 – 1945",
+   "phase_title": "The English-revival stone core",
+   "name_en": "English-revival stone house",
+   "name_fr": "Maison en pierre d'inspiration anglaise",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest (2005), sector fiches",
+   "canonical": [
+    "english-revival-stone-2st"
+   ],
+   "canonical_names": [
+    "Two-storey stone house in an English revival idiom, detached, on a curving-street lot"
+   ],
+   "styles": [
+    "tudor-revival",
+    "colonial-revival",
+    "arts-and-crafts"
+   ],
+   "style_names": [
+    "Tudor Revival",
+    "Colonial Revival (New England / Cape Cod)",
+    "Arts and Crafts"
+   ],
+   "style_label": "Tudor Revival / Colonial Revival (New England / Cape Cod) / Arts and Crafts",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "stone",
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Large single-family lots on curving streets with generous setbacks; no commercial or industrial use anywhere in the town."
+    ],
+    "massing": [
+     "Two-storey volumes."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Stone dominant — « dans le Vieux-Hampstead la pierre domine » — with some brick."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "The 2005 sector fiche is the only characterisation; it gives no roof, opening or ornament detail. Do not infer from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "18.E.3"
+   ],
+   "source_generation": "sector fiches (2005)",
+   "blurb_en": "The interwar stone house of Vieux-Hampstead: two storeys in an English-revival idiom, set back on a curving street, « fortement inspirés des styles anglais aussi présents en grand nombre à Westmount ».",
+   "origin_en": "The Garden City model imported by name from Hampstead in London. Early houses, to 1923, were built to standards borrowed from Westmount; from 1923 the Town applied its own, and from 1926 a Commission consultative d'architecture reviewed them.",
+   "photo": {
+    "file": null,
+    "credit": "pending: photograph on site — rue Thurlow, Vieux-Hampstead (sector 18.E.3)",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of English-revival stone house houses in Hampstead, from Ville de Montréal"
+   },
+   "url": "types/hampstead.english-revival-stone/"
+  },
+  {
+   "id": "hampstead.postwar-detached",
+   "place": "hampstead",
+   "place_name": "Hampstead",
+   "phase": "p3",
+   "phase_label": "1945–1980",
+   "phase_years": "1945 – 1980",
+   "phase_title": "Postwar expansion on the original street pattern",
+   "name_en": "Postwar detached house",
+   "name_fr": "Maison unifamiliale d'après-guerre",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest (2005), sector fiches",
+   "canonical": [
+    "postwar-2st-box-low-hip",
+    "one-storey-ranch-low-roof"
+   ],
+   "canonical_names": [
+    "Two-storey box, low hip roof, integrated garage, marquise",
+    "One-storey horizontal house, ≤30° roof, integrated garage"
+   ],
+   "styles": [
+    "minimal-traditional",
+    "ranch",
+    "split-level"
+   ],
+   "style_names": [
+    "Minimal Traditional",
+    "Ranch",
+    "Split-level"
+   ],
+   "style_label": "Minimal Traditional / Ranch / Split-level",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The original street pattern continued: single-family houses on large lots along curving streets, many of the 1940s and later."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "The 2005 fiches characterise these sectors by plan and period only; no roof, material or opening detail is given for Hampstead's postwar houses, and none is inferred here.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "18.I.4",
+    "18.U.1"
+   ],
+   "source_generation": "sector fiches (2005)",
+   "blurb_en": "The houses of Hampstead's second development phase, filling the 1913 street pattern after the war on the same large lots.",
+   "origin_en": "Postwar suburban expansion within the original garden-suburb plan. Bungalows and split-levels are more characteristic of adjacent Côte-Saint-Luc (sector 18.U.2) than of Hampstead itself.",
+   "photo": {
+    "file": null,
+    "credit": "pending: photograph on site — Hampstead (sectors 18.I.4, 18.U.1)",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Postwar detached house houses in Hampstead, from Ville de Montréal"
+   },
+   "url": "types/hampstead.postwar-detached/"
+  },
+  {
+   "id": "hampstead.contemporary-rebuild",
+   "place": "hampstead",
+   "place_name": "Hampstead",
+   "phase": "p4",
+   "phase_label": "1980–2020",
+   "phase_years": "1980 – 2020",
+   "phase_title": "Rebuilds on the garden-suburb lots",
+   "name_en": "Contemporary rebuild",
+   "name_fr": "Reconstruction contemporaine",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest (2005), sector fiches",
+   "canonical": [],
+   "canonical_names": [],
+   "styles": [],
+   "style_names": [],
+   "style_label": "",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Large contemporary rebuilds on the original lots are visible on the ground but are not characterised in any retrievable source, and no figures on demolition or rebuild rates were located. Record kept as a placeholder so the phenomenon is not silently omitted.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "18.I.4"
+   ],
+   "source_generation": "sector fiches (2005)",
+   "blurb_en": "The rebuilding of the garden-suburb lots, under way but undocumented.",
+   "origin_en": "Not characterised in any retrievable source; the Town's protection is discretionary (PIIA 775 and demolition by-law 1009) rather than provincial.",
+   "photo": {
+    "file": null,
+    "credit": "pending: photograph on site — Hampstead",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Contemporary rebuild houses in Hampstead, from Ville de Montréal"
+   },
+   "url": "types/hampstead.contemporary-rebuild/"
   },
   {
    "id": "mount-royal.garden-city",
@@ -871,6 +1096,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "The founding house type of TMR. When Frederick Todd laid out the town in 1912 he was borrowing directly from Ebenezer Howard's Garden City movement, and the first houses near the station borrowed the movement's architecture too: the English Arts-and-Crafts cottage of Letchworth and Hampstead Garden Suburb. Look for steep 45° gables, a brick ground floor with stucco or half-timbering above, small-paned windows, and a deliberately picturesque, asymmetrical silhouette that reads as a cottage in a garden rather than a house on a street.",
    "origin_en": "The Garden City movement's architecture as well as its planning. Ebenezer Howard's 1898 tract produced Letchworth (Parker & Unwin, 1903) and Hampstead Garden Suburb (1907), and their house vocabulary, itself drawn from Voysey, Baillie Scott and the English cottage, travelled with the idea: steep gables, roughcast or half-timbered upper storeys over brick, small-paned casements, picturesque asymmetry, the house read as a cottage in a garden. The by-law's Garden City House is this, with the 45° roof, stucco-and-timber upper floor and small brick module written out as criteria.",
@@ -962,6 +1188,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "“Faubourien” refers to the vernacular of Montreal's old inner suburbs (the faubourgs): a plain two-storey brick box, flat or hipped roof, sometimes a false mansard, and a front verandah on wooden columns. In TMR the type is what the Plateau or Rosemont row house becomes when it is given its own lot, a side driveway and a lawn. Its virtue is restraint: symmetry, aligned windows, one material.",
    "origin_en": "<em>Faubourien</em> points to the <em>maison de faubourg</em>, the plain brick house of Québec's nineteenth-century inner suburbs: two or three storeys, flat or false-mansard roof, aligned openings, minimal ornament, a front gallery on wooden posts. Montreal's Plateau PIIA uses the same term for its own housing stock. In TMR the type is what that urban house becomes on a detached or semi-detached lot with a side driveway; several examples take on the cubic mass and hipped roof of the American Foursquare, which was being built across Canada in the same years.",
@@ -1054,6 +1281,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "The interwar Montreal walk-up, three storeys of red brick under a flat roof, with a decorated parapet, a stone base, patterned brickwork and a prominent entrance portico. Balconies with iron or stone railings give the façade its rhythm. These sit on the town's few multi-family lots and are the collective sibling of the faubourg house.",
    "origin_en": "Three-storey brick apartment houses of the 1920s and 30s, Montreal's standard multi-family building of the period. This is where <strong>Art Deco</strong> actually lives in TMR: stepped and decorated parapets, geometric brick panels, artificial-stone entrance surrounds, iron balcony rails with angular motifs. Héritage Montréal describes the same repertoire on 1920s Montreal plexes (dark brick, artificial-stone insertions around doors and windows, appliqués with geometric forms). The by-law absorbs it as \"distinctive brick motifs and bonds\" and \"a body crowned by a brick motif and a parapet\" rather than naming the style.",
@@ -1148,6 +1376,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "A 1930s–50s revival of the 18th-century Quebec farmhouse: a steep roof whose eaves flare out into “larmiers” that shelter the front door, a row of dormers, fieldstone walls, and a calm symmetrical front. It was the domestic face of a broader interwar interest in Québécois heritage. The distinctive move is the roof, which is asked to express the base of the house through its overhang.",
    "origin_en": "A regionalist revival of the eighteenth-century Laurentian farmhouse: bell-cast roof whose eaves flare into <em>larmiers</em> sheltering the door, a row of dormers, fieldstone walls, a calm symmetrical front. The Canadian Encyclopedia locates its source in the anglophone rediscovery of pre-industrial Québec during the 1920s–30s, stimulated by Clarence Gagnon's paintings and encouraged by Percy Nobbs and Ramsay Traquair at McGill, whose surveys of old Québec buildings fed a fashion for fieldstone and pitched roofs among the province's leading domestic architects. TMR's Canadian houses are the suburban, builder-scale version of that fashion.",
@@ -1245,6 +1474,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "Colonial Revival as it arrived from the American Northeast: a long, simple gabled rectangle with its broad side to the street, symmetrical windows, dormers set halfway up the roof, and a discreet canopy over the front door. Brick or stone below, clapboard or stucco above. It is quieter than the Georgian house, and the by-law wants it kept quiet: bay windows are the only projections allowed.",
    "origin_en": "A long side-gabled rectangle with its broad face to the street, symmetrical openings, dormers half-way up the roof, a discreet door canopy; brick or stone below and clapboard or stucco above. It is the New England colonial house as codified in 1920s–40s pattern books and builders' plan services, the quieter cousin of Georgian Revival. The by-law keeps it quiet: bay windows are the only projections it allows.",
@@ -1334,6 +1564,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "Low-rise red-brick apartment courts arranged in U or L plans around a green forecourt, with steep gables, dormers and the occasional turret. A stone base and stone string courses tie them to the collegiate-Tudor mood of the interwar decades. Entrances are marked by a distinct architectural element rather than a big portico.",
    "origin_en": "Low-rise red-brick apartment blocks in U or L plans around a green forecourt, with stone bases, stone string courses, steep gables, dormers and the occasional turret. The idiom is the residential cousin of interwar school and college architecture, and of the \"garden apartment\" courts built across North America in the 1930s–40s. The by-law's \"New England (collective)\" label is looser than the architecture: these blocks are more Tudor than New England.",
@@ -1430,6 +1661,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "Georgian Revival: the most formal of TMR's houses. A red-brick box of two full storeys, three or five bays wide, with a central door flanked by pilasters and topped by an elaborate crown, sash windows with small panes, and a frieze under a moderately pitched hip or side-gabled roof. Symmetry is the whole point; the by-law lets you emphasise the central bay with a slight projection and a pediment, and nothing more.",
    "origin_en": "The formal wing of Colonial Revival. Two full storeys of red brick, three or five bays, a central door with pilasters and an entablature or pediment, sash windows with small panes, a frieze under a moderately pitched hip or side-gable roof. Symmetry is the whole point; the by-law permits one flourish, a slightly projected central bay under a pediment, and nothing else. In Canada the style carried an Imperial-loyalist inflection that made it a natural fit for a town founded and first settled by anglophones.",
@@ -1527,6 +1759,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "Tudor Revival, TMR's most romantic type: steep 45° roofs broken into several gables, a natural-stone ground floor with brick or half-timbered stucco above, patterned brickwork (herringbone, Dutch bond), small-paned casements, sometimes a round turret at the entrance. Where the Georgian house is symmetrical, the manor is deliberately picturesque, and its garage is meant to hide.",
    "origin_en": "The by-law's \"English manor\" is Tudor Revival by any other name: stone ground floor with brick or stucco-and-timber above, patterned brick (herringbone, Dutch bond), 45° multi-gabled roofs, small-paned casements, sometimes a round entrance turret. In North America the style peaked in the 1920s–30s and lingered into the 1940s; its Montreal fashion was strongest in the anglophone west end and suburbs. Tudor detailing also surfaces on some Phase 1 Garden City houses, which is why the two types share the half-timbered gable.",
@@ -1621,6 +1854,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "The postwar ranch bungalow: one storey, long and low, with a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, and big undivided windows wider than they are tall. Buff (“chamois”) brick or stone, black shingles, a wide driveway. The type that arrived with the car and the last empty lots of the 1950s and 60s.",
    "origin_en": "One storey, long and low, a shallow-pitched roof whose overhang shelters a recessed door, a garage pushed forward into the façade, big undivided windows wider than tall, buff (\"chamois\") brick or stone, a wide driveway. In Québec usage <em>bungalow</em> simply means the postwar single-family suburban house; the form is the Ranch house that spread from the American Southwest after 1945 and became the default Canadian suburban dwelling of the 1950s–60s.",
@@ -1717,6 +1951,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "In Quebec usage a “cottage” is simply a two-storey detached house, and this is its postwar version: a plain box under a low hip roof, stone or brick on the ground floor with stucco or siding above, garage built into the front, and a flat marquise over the door. A visible line at the ground-floor lintels or the upper sills divides base from body.",
    "origin_en": "In Québec real-estate usage a <em>cottage</em> is a two-storey detached house, as opposed to the one-storey bungalow; the OQLF notes the word's British origin and its earlier sense of an elegant, English-inspired country house. TMR's postwar cottage is a plain box: stone or brick base, stucco or siding above, low hip roof, integrated garage, flat <em>marquise</em> over the door, a horizontal line at the ground-floor lintels or upper sills dividing base from body. Some examples keep vestigial colonial detailing (Minimal Traditional); others, in cut stone with flat roofs and rounded or banded corners, are the town's clearest echo of <strong>Streamline Moderne</strong>.",
@@ -1812,6 +2047,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "Two volumes offset by half a storey: a one-storey wing beside a one-and-a-half-storey wing, with the garage tucked under the bedrooms and pushed forward, and a recessed entrance under the eaves. Salmon, buff or brown stone with wood or metal infill panels; both roofs share one low-pitched material. The interior stair does the work the façade shows.",
    "origin_en": "A plan type more than a style, dominant across North American suburbs from the mid-1950s: two volumes offset by half a storey, the garage under the bedrooms and pushed forward, a recessed entrance under the eaves. TMR's are dressed in Ranch and Contemporary materials, salmon, buff or brown stone with wood or metal infill panels, under one shared low-pitched roof.",
@@ -1908,6 +2144,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "Frank Lloyd Wright's Prairie idiom, filtered through 1960s Montreal: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked right under the eaves and running around the corners as ribbons, long “Roman” brick or long-cut stone, and one-storey wings (garage, porch, solarium) that stretch the composition sideways. Asymmetrical, and the most architect-driven of the phase-3 types.",
    "origin_en": "Frank Lloyd Wright's Prairie idiom of 1900–1915, revived and simplified in the 1950s–60s Contemporary house: relentless horizontality, low pyramidal or multi-hipped roofs with deep soffits, upper windows tucked under the eaves and wrapping the corners as ribbons, long \"Roman\" brick or long-cut stone, one-storey wings that stretch the composition sideways. Asymmetrical and the most architect-driven of the Phase 3 types; the by-law's insistence on the Roman brick module is the tell.",
@@ -1992,6 +2229,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": null,
    "blurb_en": "The 1950s–70s modernist apartment building: flat roof finished with a horizontal coping band, a set-back penthouse floor on top, balconies grouped into recessed loggias, wide undivided windows and a marquise over the door. Sand or red brick, often several brick colours on one façade. Parking goes underground; the front yard stays almost entirely green.",
    "origin_en": "Flat-roofed brick slabs of the 1950s–70s with a horizontal coping band, a set-back penthouse floor, loggia balconies and wide undivided windows, in sand or red brick and often several brick colours on one façade. The town's share of the postwar Modernism that lines Côte-des-Neiges and Sherbrooke; the earliest examples, with brick-and-stone banding, still carry a Streamline accent.",
@@ -2052,6 +2290,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The oldest surviving houses of the villages, small attached workers' houses at the street line.",
    "origin_en": "Villages period, 1845–1880; the earliest built layer of the borough.",
@@ -2131,6 +2370,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The bourgeois villa of the Plateau's first decades: a free-standing stone house set back from the street, individually designed, now rare and often converted.",
    "origin_en": "Built for the well-to-do west of Saint-Laurent and south of avenue des Pins, then along Sherbrooke, Square Saint-Louis and Saint-Hubert; the family also includes a two-unit superposed variant that differs from the duplex by storeys per dwelling, uniform stone facing and richer ornament.",
@@ -2238,6 +2478,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The plainest and oldest plex: two superposed flats in a brick box built right on the sidewalk line, paired front doors at one end, an interior stair to the upper flat, and a moulded cornice as the only crown. Its three sub-variants add a small entrance balcony, rusticated stone facing, or a porte cochère.",
    "origin_en": "The duplex was the first housing type built in the borough under the large speculative subdivisions of the 1880s and belongs to the first construction boom of 1885–1891. It is the developer's product of the pre-1880 regime, before Montréal imposed the front setback: a simple rectangle of two flats, one over the other, that the later duplexes and the triplex all descend from.",
@@ -2346,6 +2587,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The same two-flat box pulled back a metre or two from the sidewalk, which is enough to raise the ground floor a few steps, hang a balcony over the porch and, very often, top the façade with a false mansard and dormers. This is the duplex most people picture: the one with the mansard.",
    "origin_en": "Around 1880 Montréal began applying building by-laws to the new districts: standardised lots and lanes, then a mandatory front setback and stone or brick cladding. The setback produced this variant. Its false-mansard crown is the Second Empire fashion of the 1870s–80s applied to a speculative type; the mansard is decorative (a fausse mansarde), not a full storey.",
@@ -2447,6 +2689,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "Two flats, but the upper one now has its own door and its own stair climbing the front of the house. The façade turns symmetrical, doors in the middle, windows either side, and the cornice can give way to a brick parapet. It is the duplex learning the triplex's trick.",
    "origin_en": "Built from the same moment as the triplex (type 3.2) and the multiplex (3.3), i.e. the second boom of 1904–1914. The exterior stair is the direct consequence of the mandatory front setback: with the building pushed back, the stair to the upper dwelling could be moved outside and the interior floor area given back to the flats.",
@@ -2513,6 +2756,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The rare early triplex whose stair is still inside: three flats behind one door, built before the front-setback rule pushed the stair outdoors.",
    "origin_en": "Transitional form of c. 1880 between the duplex and the exterior-stair triplex, per the Étude typomorphologique.",
@@ -2586,6 +2830,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The Montréal triplex: three flats stacked in a three-storey brick front, the upper two reached by an outside stair, often the famous curving iron one, with balconies at each level and an L-shaped footprint that leaves a light-well at the back. It is the dominant building of the borough.",
    "origin_en": "The Étude typomorphologique calls the triplex \"la forme architecturale typique de ce secteur de Montréal\" and dates it to the second boom, 1904–1914, driven by housing demand and by municipal regulation: standard lots and lanes (1880), then the mandatory front setback and stone or brick cladding, which \"amènera la translation de l'escalier d'accès aux logements des étages supérieurs vers l'extérieur\". Réjean Legault (1989) is the standard scholarly account.",
@@ -2652,6 +2897,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "Three storeys, more than three flats; the plex scaled up.",
    "origin_en": "Same boom as the exterior-stair triplex, 1904–1914.",
@@ -2723,6 +2969,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "Terraced bourgeois houses in stone, homogeneous by row, around Square Saint-Louis and along Cherrier and Saint-Hubert.",
    "origin_en": "Golden-age product for the middle class, 1885–1914; the study's \"demeures bourgeoises\".",
@@ -2799,6 +3046,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The interwar prestige apartment building in its compact form.",
    "origin_en": "The opening of the great boulevards in the first half of the twentieth century allowed high-density prestige housing; the édifices de rapport appeared mostly between the two wars on Saint-Joseph and avenue du Parc, in two variants distinguished by the presence or absence of an interior court.",
@@ -2881,6 +3129,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "The U-plan apartment court of avenue du Parc, its forecourt open to the street.",
    "origin_en": "Same interwar moment as the compact block, on larger parcels.",
@@ -2952,6 +3201,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "2004-22 Annexe D",
    "blurb_en": "A duplex-sized box holding two to four flats off one inside stair; postwar, and rare in the borough.",
    "origin_en": "Appeared mainly after the Second World War; little used in the Plateau. Post-1945 apartment buildings in general were replacement buildings built one by one across the territory, \"une rupture importante avec le paysage urbain existant\", often on vacant land along the railway.",
@@ -3064,6 +3314,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The oldest houses in town: low stone farmhouses under a steep gable, later \"quebecised\" with a flared eave, more windows, a symmetrical front and a gallery. Almost nothing decorates them beyond a painted wooden surround, and the fiche wants it kept that way.",
    "origin_en": "The French-regime rural house of the seigneurie of La Prairie de la Magdeleine (the riverside strip known as Mouillepied), and its 19th-century synthesis with English neoclassicism, the maison traditionnelle québécoise, which \"domine le paysage bâti … de 1830 à 1880 environ\". Houses built under the French regime were often altered later to take on the Québécois traits.",
@@ -3169,6 +3420,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "Two storeys under a mansard: the steep lower slope carries the dormers, the gallery has its own little roof, and the woodwork on dormers and eaves is where the money went. Sometimes the gable turns to face the street; sometimes a turret makes it bourgeois.",
    "origin_en": "Second Empire (Napoléon III, 1852–70) reached North America through the United States around 1870, first on public buildings, then on prosperous houses, then on modest ones for which \"son influence se limite au toit mansardé\", a roof whose broken slopes give more room upstairs for large families.",
@@ -3274,6 +3526,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The town's signature Victorian: turrets, gables, oriels, a columned gallery, patterned shingles, everything asymmetrical and everything ornamented. Rarely textbook-pure in Saint-Lambert, but its vocabulary is everywhere on the streets laid out after 1889.",
    "origin_en": "One of the late-Victorian eclectic currents (with neo-Gothic, neo-Romanesque, neo-Tudor, neo-Renaissance), named after Queen Anne Stuart's reign (1665–1714) and characterised by \"effets ornementaux d'inspiration pittoresque et classique\". Its Saint-Lambert examples (Maison Desaulniers 1909, Maison O'Neill 1913) belong to the Anglo-Protestant streetcar-suburb build-out.",
@@ -3384,6 +3637,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "A flat-roofed brick house wearing a mansard as a hat. Montréal builders bolted the steep lower slope of a Second Empire roof onto the front of a cheap Boomtown box, hung dormers half in the wall and half in the slope, and dressed the lot in turned wood. It sits at the head of the Boomtown family and links Saint-Lambert to Mount Royal's \"maison faubourienne\".",
    "origin_en": "\"Un amalgame intéressant entre la construction à toit plat avec couronnement et l'habitation à mansarde d'influence Second Empire\": from the late 19th century Montréal contractors combined the modernity and low cost of the flat-roofed Boomtown house with the elegance of the mansard, plating the brisis onto the façade as a crown. Like the true mansard house it ran out of steam from the 1910s.",
@@ -3486,6 +3740,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The plain workers' box of the industrial city, two storeys of brick under a flat roof, whose only vanity is its top edge: a fat cornice or a brick parapet, stepped, gabled, cut or patterned. What Mount Royal's by-law calls the faubourg house is this building on a suburban lot.",
    "origin_en": "\"Typiquement américain\", devised in the late 19th century to house workers fast and cheaply in the boom towns of the industrial United States; originally a low rear-sloping roof hidden by parapet or cornice, generalised to a true flat roof once roofing technology allowed, in the early 20th century.",
@@ -3589,6 +3844,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The Four Square: a big brick cube under a pyramid roof, roomy enough for large families, cheap enough because its parts came by catalogue. Sober by nature; the porch woodwork, a brick pattern and the exposed rafter tails are its ornaments.",
    "origin_en": "Product of standardised materials and prefabricated components orderable by catalogue, hence \"abordable et facile à construire\", popular in village, town and country alike in the first decades of the 20th century.",
@@ -3697,6 +3953,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "Low, broad and shingled or roughcast, with a roof that breaks into different slopes and a porch big enough to live on. Ornament is the structure itself: exposed rafters, a bit of half-timbering, brackets under the porch roof. Scattered rather than clustered in Saint-Lambert.",
    "origin_en": "Arts and Crafts (Morris, Ruskin) reached the United States and merged with Shingle Style and Craftsman, spread by mail-order plan catalogues; in Montréal it produced a return of English house types and of New France forms, but \"à Saint-Lambert, ce sont les modèles américains qui perpétuent le mouvement pittoresque\". Cousin of Mount Royal's Garden City house, hence the shared canonical type.",
@@ -3802,6 +4059,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The Montréal plex on the South Shore: stacked flats behind stacked galleries, outside stairs, a brick crown of cornice or parapet. Saint-Lambert's version is the fiche's own summary of what the Plateau's typology splits into duplex, triplex and multiplex.",
    "origin_en": "\"La densification des villes, au début du 20e siècle, entraîne la prolifération d'immeubles à logements multiples … une forme d'habitation populaire se développe à grande échelle à Montréal : le plex\", whose success in certain Montréal districts led promoters to build it in Saint-Lambert. For the type's genesis in the 1880s by-laws see the Plateau-Mont-Royal page.",
@@ -3907,6 +4165,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "Saint-Lambert's own house: a two-storey brick cottage with several gables, a gabled porch, a little false half-timbering, diamond-leaded casements and dormers half sunk into the eave, built by the hundred by one contractor between the Depression and 1951, and named for him only in the 1980s.",
    "origin_en": "Francis King (1884–1970), a carpenter of Polish origin who came to Montréal in 1906, settled in Saint-Lambert about 1931 and became one of its main builders. Between 1932 and 1951 he put up 70 to 100 houses of various styles chosen from the catalogues then in circulation, from neo-Tudor to postwar bungalows; the brick model \"dérivant des cottages anglais\" that stands out is what the town now calls the King Cottage. The 2019 study identifies five families of King houses (two-slope roof with Tudor porch; Tudor gable to the street; two-slope classical; hipped classical; bungalow).",
@@ -4017,6 +4276,7 @@
    "conservation_fr": null,
    "models_observed": null,
    "phase_confidence": null,
+   "sectors": null,
    "source_generation": "Répertoire des courants architecturaux, 2020",
    "blurb_en": "The postwar house: bungalow or two-storey box, garage or carport built in, low or flat roof, big windows sized to the room behind them, glass block by the door, a massive chimney as the one vertical. No ornament; the mosaic of stone, brick and wood is the décor.",
    "origin_en": "Modernism via the Bauhaus and the Chicago School, reacting against ornament-laden historicism; its commonest domestic form, the bungalow, \"devenu le modèle d'habitation dominant après la Seconde Guerre mondiale\" with the baby boom, suburbanisation and easier access to property and the car. In Saint-Lambert some 700 houses went up in the five years after the war; Préville, created 1948 and annexed 3 May 1969, is the western extension of that boom.",
@@ -4029,6 +4289,1053 @@
     "alt": "Photograph of The modern house (including the bungalow) houses in Saint-Lambert, from Répertoire des courants architecturaux"
    },
    "url": "types/saint-lambert.modern/"
+  },
+  {
+   "id": "temiscaming.lower-town-house",
+   "place": "temiscaming",
+   "place_name": "Témiscaming",
+   "phase": "p1",
+   "phase_label": "1917–1923",
+   "phase_years": "1917 – 1923",
+   "phase_title": "Adams plan and the Ross and Macdonald lower town",
+   "name_en": "Lower-town company house (Ross and Macdonald, 1918–1923)",
+   "name_fr": "Maison de compagnie de la ville basse (Ross and Macdonald, 1918-1923)",
+   "source_ref": "CCA, 'Power and Planning' (1996); Gabor Szilasi, PH1995:0077, 'Houses Type 171C, Elm St.'",
+   "canonical": [
+    "company-house-lower-town-1918"
+   ],
+   "canonical_names": [
+    "Company house of a 1918–1923 planned lower town, architect-designed in series"
+   ],
+   "styles": [
+    "minimal-traditional"
+   ],
+   "style_names": [
+    "Minimal Traditional"
+   ],
+   "style_label": "Minimal Traditional",
+   "tenure_plan": "mixed",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The lower town, on the more level ground where Gordon Creek meets the Ottawa River, below the hill; rue Anvik is documented as part of \"le secteur plus ancien de la ville… à proximité de la première usine de pâtes et papiers\".",
+     "Elm Street carries the one documented model, Type 171C, photographed by Gabor Szilasi in 1995 \"looking toward the Tembec factory\"."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "No source attaches materials, roof form or storey count to Type 171C or to any other lower-town model. Row houses exist on rue Anvik (eight destroyed by fire in 2019) but their date is disputed: the fire chief said \"over 80 years old\" (pre-1939), Radio-Canada \"construites dans les années 1940\". Nothing here is inferred from photographs.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [
+    "171C"
+   ],
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "CCA study (1996); no typology catalogue exists",
+   "blurb_en": "The houses Ross and Macdonald built in series for Riordon between 1918 and 1923, together with the mill and the commercial district: the whole lower town by one Montréal firm, to one aesthetic.",
+   "origin_en": "Thomas Adams laid the town on the hill and the mill below it in 1917; Riordon commissioned Ross and Macdonald, then Canada's largest architectural practice, to build everything downhill. CIP bought mill and town in 1925.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, 'Residential section, Temiskaming, Que. (BAnQ 3971732).jpg' — licence verified as public domain (BAnQ postcard), but upload.wikimedia.org refused the fetch from this environment; download and commit it locally",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Lower-town company house (Ross and Macdonald, 1918–1923) houses in Témiscaming, from CCA"
+   },
+   "url": "types/temiscaming.lower-town-house/"
+  },
+  {
+   "id": "temiscaming.upper-district-house",
+   "place": "temiscaming",
+   "place_name": "Témiscaming",
+   "phase": "p2",
+   "phase_label": "1925–1950",
+   "phase_years": "1925 – 1950",
+   "phase_title": "CIP and the Somerville upper district",
+   "name_en": "Upper-district company house (Somerville, 1925–1950)",
+   "name_fr": "Maison de compagnie du quartier haut (Somerville, 1925-1950)",
+   "source_ref": "CCA, 'Power and Planning: Industrial Towns in Québec, 1890–1950' (1996)",
+   "canonical": [
+    "company-house-executive-1925"
+   ],
+   "canonical_names": [
+    "Executive/managerial company house of the 1925–1950 upper district, English-cottage idiom"
+   ],
+   "styles": [
+    "arts-and-crafts",
+    "tudor-revival"
+   ],
+   "style_names": [
+    "Arts and Crafts",
+    "Tudor Revival"
+   ],
+   "style_label": "Arts and Crafts / Tudor Revival",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The upper district, on the hillside above the mill; CIP reserved a distinct sector for its executives, the social hierarchy of neighbourhoods being « une caractéristique majeure des villes planifiées et construites par les industries »."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "The specific upper-district streets are not named in any accessible source. The Arts-and-Crafts / English-cottage style attribution is an inference from CIP's contemporaneous Quartier-du-Moulin development in Gatineau — a site patrimonial cité of 55 buildings that the RPCQ explicitly links to the company's parallel work at Témiscaming — and is not a statement about Témiscaming's houses. Nothing here is taken from photographs; the CCA's Szilasi photographs are permission-only and are cited, not reproduced.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": [],
+   "phase_confidence": "provisional",
+   "sectors": null,
+   "source_generation": "CCA study (1996); no typology catalogue exists",
+   "blurb_en": "The houses CIP built on the hill for its managers and executives between the wars, in a separate district from the lower town.",
+   "origin_en": "William Lyon Somerville of Toronto designed the upper-district houses, the hospital, and all the town's schools and churches for Canadian International Paper between 1925 and 1950.",
+   "photo": {
+    "file": null,
+    "credit": "pending: no photograph of a documented upper-district house is available under a reusable licence",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Upper-district company house (Somerville, 1925–1950) houses in Témiscaming, from CCA"
+   },
+   "url": "types/temiscaming.upper-district-house/"
+  },
+  {
+   "id": "westmount.villa-estate",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p2",
+   "phase_label": "1845–1885",
+   "phase_years": "1845 – 1885",
+   "phase_title": "Villas and country cottages on the slope",
+   "name_en": "Picturesque villa and country house",
+   "name_fr": "Villa et maison de campagne pittoresque",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "picturesque-villa-estate"
+   ],
+   "canonical_names": [
+    "Free-standing picturesque villa or country house in grounds, mid-19th century"
+   ],
+   "styles": [],
+   "style_names": [],
+   "style_label": "",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Free-standing houses in their own grounds along the chemin de la Côte-Saint-Antoine (23.E.14) and at Rosemount (23.E.8), the 'berceau de Westmount' of about 1874, at low density and with deep setbacks."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.14",
+    "23.E.8"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The picturesque villas and country cottages of the slope, standing in their own grounds before the street grid reached them: Metcalfe Terrace (1840), Braemar and Riverview (1847).",
+   "origin_en": "The first houses built for pleasure rather than farming on the Côte-Saint-Antoine lands, whose rural antecedent — the Maison Hurtubise of 1739, classified in 2004 — still stands on the founding road. Braemar (1847, 3219 The Boulevard) was recognised in 1984.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Picturesque villa and country house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.villa-estate/"
+  },
+  {
+   "id": "westmount.greystone-row",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p3",
+   "phase_label": "1885–1900",
+   "phase_years": "1885 – 1900",
+   "phase_title": "Greystone rows and the first Queen Anne houses",
+   "name_en": "Greystone row house",
+   "name_fr": "Maison en rangée en pierre grise",
+   "source_ref": "Évaluation du patrimoine urbain — Westmount (2005), sectors 23.E.24, 23.E.22, 23.E.33",
+   "canonical": [
+    "greystone-row-2-3st"
+   ],
+   "canonical_names": [
+    "Party-wall greystone row house, 2–3 storeys, flat roof or false mansard, runs of up to eight units"
+   ],
+   "styles": [
+    "second-empire",
+    "edwardian-classical"
+   ],
+   "style_names": [
+    "Second Empire / mansard",
+    "Edwardian classical"
+   ],
+   "style_label": "Second Empire / mansard / Edwardian classical",
+   "tenure_plan": "row",
+   "storeys": "2–3",
+   "roof": {
+    "form": "flat-or-false-mansard",
+    "pitch_deg": 0
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "montreal-greystone"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The flat lower town; buildings aligned to the street with shallow or no front garden; runs of up to eight units (sector 23.E.24, 1885–1905).",
+     "Hallowell-Weredale (23.E.33): about 240 buildings, mostly attached town houses of 1870–1914, the first Westmount project with paved rear lanes."
+    ],
+    "massing": [
+     "Two to three storeys, narrow party-wall units; flat roof or false-mansard crown."
+    ],
+    "articulation": [
+     "Repetitive bays; cornices; decorative wood joinery (\"tarabiscotage\"), polychrome and nearly intact at Place de Blenheim (23.E.31, sixteen identical façades)."
+    ],
+    "openings": [],
+    "materials": [
+     "Le calcaire local — 'la pierre grise de Montréal' — préféré à la brique dans ce secteur (23.E.24)."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from sector fiches; Westmount publishes no per-type table. Window type and door detail are not specified per type in the sources — the by-law's Directive 4 governs replacements case by case.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.24",
+    "23.E.22",
+    "23.E.33",
+    "23.E.26",
+    "23.E.28"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The lower town's default building: a narrow greystone unit repeated up to eight times in a run, flat-roofed or crowned with a false mansard, its individuality carried entirely by the cornice and the painted woodwork of the entrance.",
+   "origin_en": "Built 1870–1905 as Westmount urbanised the flat land below the escarpment; the same Montréal greystone that faces the Plateau's maisons urbaines, quarried from the cliff itself. Parks Canada's statement lists row houses among the components whose \"diversity and integrity\" make the district an exemplary Victorian and post-Victorian suburb.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Greystone row house houses in Westmount, from Évaluation du patrimoine urbain — Westmount (2005)"
+   },
+   "url": "types/westmount.greystone-row/"
+  },
+  {
+   "id": "westmount.greystone-triplex",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p3",
+   "phase_label": "1885–1900",
+   "phase_years": "1885 – 1900",
+   "phase_title": "Greystone rows and the first Queen Anne houses",
+   "name_en": "Greystone triplex with exterior stair",
+   "name_fr": "Triplex en pierre grise à escalier extérieur",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "greystone-triplex-exterior-stair",
+    "triplex-exterior-stair"
+   ],
+   "canonical_names": [
+    "Party-wall greystone triplex with straight exterior stair (Montréal type, rare in Westmount)",
+    "Three-storey, three-dwelling brick building with exterior stair to upper units, flat roof"
+   ],
+   "styles": [
+    "faubourg-vernacular"
+   ],
+   "style_names": [
+    "Montréal faubourg vernacular"
+   ],
+   "style_label": "Montréal faubourg vernacular",
+   "tenure_plan": "triplex",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "montreal-greystone"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Rue Saint-Antoine (23.E.34), at the northern edge of the flat lower town."
+    ],
+    "massing": [
+     "Attached greystone triplexes of the 1890s reached by straight, steep exterior stairs."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Montréal greystone."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.34"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The Montréal plex as Westmount rarely built it: three flats behind a greystone front, the upper two reached by a straight outside stair, on one street at the town's northern edge.",
+   "origin_en": "The 2005 fiche is explicit that this is a borrowed form — « ce genre de construction typique de Montréal se retrouve rarement à Westmount » — which is why it is the cross-link between Westmount and the plex cities of the Plateau and Saint-Lambert.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Greystone triplex with exterior stair houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.greystone-triplex/"
+  },
+  {
+   "id": "westmount.second-empire",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p3",
+   "phase_label": "1885–1900",
+   "phase_years": "1885 – 1900",
+   "phase_title": "Greystone rows and the first Queen Anne houses",
+   "name_en": "Mansard-roofed house of Second Empire influence",
+   "name_fr": "Maison à mansarde d'influence Second Empire",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "mansard-house-2st"
+   ],
+   "canonical_names": [
+    "Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under its own awning"
+   ],
+   "styles": [
+    "second-empire"
+   ],
+   "style_names": [
+    "Second Empire / mansard"
+   ],
+   "style_label": "Second Empire / mansard",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": "mansard",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "montreal-greystone",
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Wood and Elm south of Sherbrooke (23.E.24), built 1885–1905."
+    ],
+    "massing": [
+     "Mansard roof with dormers."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Greystone or brick; slate on the mansard."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.24"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The mansard-roofed house of the lower town, its dormered brisis carrying the storey that the flat-roofed row next door does without.",
+   "origin_en": "The Second Empire fashion as it reached Westmount's speculative streets in the 1880s and 90s; the 2005 fiche notes that in this sector the false mansard is more common than the plain parapet as a crown.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Mansard-roofed house of Second Empire influence houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.second-empire/"
+  },
+  {
+   "id": "westmount.queen-anne",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p3",
+   "phase_label": "1885–1900",
+   "phase_years": "1885 – 1900",
+   "phase_title": "Greystone rows and the first Queen Anne houses",
+   "name_en": "Queen Anne house",
+   "name_fr": "Maison de style Queen Anne",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "queen-anne-irregular-2-5st"
+   ],
+   "canonical_names": [
+    "2½-storey house of irregular plan, medium-pitched roofs, towers/turrets/oriels/gables, asymmetrical"
+   ],
+   "styles": [
+    "queen-anne"
+   ],
+   "style_names": [
+    "Queen Anne"
+   ],
+   "style_label": "Queen Anne",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "clay-brick-red",
+    "stone",
+    "wood"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Metcalfe and Melbourne in the Lower Westmount residences sector (23.E.21), 1880s; flat-roofed villa-type houses on Redfern."
+    ],
+    "massing": [],
+    "articulation": [
+     "Asymmetry, turrets and wraparound porches."
+    ],
+    "openings": [],
+    "materials": [
+     "Red brick and stone with wood trim."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.21"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The elaborate Victorian of the lower town: asymmetrical, turreted, wrapped in a porch, and built for the first generation of Westmount's professional class.",
+   "origin_en": "Built through the 1880s on Metcalfe and Melbourne as the village became a town; the same late-Victorian eclecticism that produced Saint-Lambert's Queen Anne houses in the same decade.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Queen Anne house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.queen-anne/"
+  },
+  {
+   "id": "westmount.romanesque",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p3",
+   "phase_label": "1885–1900",
+   "phase_years": "1885 – 1900",
+   "phase_title": "Greystone rows and the first Queen Anne houses",
+   "name_en": "Richardsonian Romanesque house",
+   "name_fr": "Maison d'influence romane richardsonienne",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "romanesque-stone-house"
+   ],
+   "canonical_names": [
+    "Detached house in rusticated stone with round arches and squat columns"
+   ],
+   "styles": [
+    "richardsonian-romanesque"
+   ],
+   "style_names": [
+    "Richardsonian Romanesque"
+   ],
+   "style_label": "Richardsonian Romanesque",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "stone-rusticated"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [],
+    "massing": [],
+    "articulation": [
+     "Round arches and squat columns."
+    ],
+    "openings": [],
+    "materials": [
+     "Heavy rusticated stone."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The heavy stone house of the 1890s: rusticated walls, round arches over the door, squat columns carrying the porch.",
+   "origin_en": "Richardsonian Romanesque as it arrived in Montréal's western suburbs at the end of the nineteenth century; the 2005 evaluation names it among the district's idioms without tying it to a single sector.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Richardsonian Romanesque house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.romanesque/"
+  },
+  {
+   "id": "westmount.semi-detached-brick",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p4",
+   "phase_label": "1900–1915",
+   "phase_years": "1900 – 1915",
+   "phase_title": "The summit opens — eclectic prestige and brick semi-detached",
+   "name_en": "Semi-detached brick house",
+   "name_fr": "Maison jumelée en brique",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "brick-box-flat-or-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey brick box, flat/hipped/false-mansard roof, front gallery"
+   ],
+   "styles": [
+    "edwardian-classical"
+   ],
+   "style_names": [
+    "Edwardian classical"
+   ],
+   "style_label": "Edwardian classical",
+   "tenure_plan": "semi-detached",
+   "storeys": "2",
+   "roof": {
+    "form": "flat",
+    "pitch_deg": 0
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "clay-brick-red",
+    "clay-brick-buff"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "South of The Boulevard on the west of the mountain (23.E.3), on streets traced between 1906 and 1930; avenue Grosvenor (23.E.28), where many of the two-storey brick rows are duplexes."
+    ],
+    "massing": [
+     "Two storeys, paired, under a flat roof."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Red or buff brick."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.3",
+    "23.E.28"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The paired brick house of the early twentieth century, flat-roofed and plain, filling the streets west of the mountain as the summit above filled with châteaux.",
+   "origin_en": "Built as Westmount's middle slope was subdivided between 1906 and 1930; the 2005 fiche contrasts these flat-roofed brick pairs south of The Boulevard with the stone-and-stucco pitched-roof houses to the north.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Semi-detached brick house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.semi-detached-brick/"
+  },
+  {
+   "id": "westmount.classical-revivals",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p4",
+   "phase_label": "1900–1915",
+   "phase_years": "1900 – 1915",
+   "phase_title": "The summit opens — eclectic prestige and brick semi-detached",
+   "name_en": "Eclectic prestige house of the summit",
+   "name_fr": "Grande résidence éclectique du sommet",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "eclectic-prestige-house"
+   ],
+   "canonical_names": [
+    "Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château, Edwardian)"
+   ],
+   "styles": [
+    "georgian-revival",
+    "colonial-revival",
+    "beaux-arts",
+    "chateau-style",
+    "edwardian-classical"
+   ],
+   "style_names": [
+    "Georgian Revival",
+    "Colonial Revival (New England / Cape Cod)",
+    "Beaux-Arts",
+    "Château style",
+    "Edwardian classical"
+   ],
+   "style_label": "Georgian Revival / Colonial Revival (New England / Cape Cod) / Beaux-Arts / Château style / Edwardian classical",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "limestone",
+    "clay-brick-buff",
+    "terracotta",
+    "copper"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The summit and the eastern south slope (23.E.1), largely vacant until 1895 and built up between 1900 and 1930; the steep south-west slope of Sunnyside and chemin Edgehill (23.E.2)."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Limestone, buff brick, terracotta and copper."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.1",
+    "23.E.2"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The summit houses — « de véritables châteaux » in the 2005 fiche's phrase — built between 1900 and 1930 for the view, in whichever historicist idiom the owner and architect preferred.",
+   "origin_en": "The summit opened after The Boulevard was linked to Montréal in 1895. Stonehurst and Stonehenge (4200 and 4250 Sherbrooke West, 1928, J. J. Perrault and J. R. Gadbois) are the type's best-known pair.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Eclectic prestige house of the summit houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.classical-revivals/"
+  },
+  {
+   "id": "westmount.tudor-revival",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p5",
+   "phase_label": "1915–1945",
+   "phase_years": "1915 – 1945",
+   "phase_title": "Interwar Tudor",
+   "name_en": "Tudor Revival house",
+   "name_fr": "Maison de style néo-Tudor",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "tudor-manor-stone-timber"
+   ],
+   "canonical_names": [
+    "Steep multi-gabled house, stone base, brick or half-timber above, patterned brick"
+   ],
+   "styles": [
+    "tudor-revival"
+   ],
+   "style_names": [
+    "Tudor Revival"
+   ],
+   "style_label": "Tudor Revival",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "stone",
+    "stucco",
+    "half-timbering"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Around Place Park (23.E.35), where interwar neo-Tudor apartment ensembles stand; Saint-Sulpice and Ramezay (23.E.9), stone residences of about 1930 on gently curved garden-city streets."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Stone, stucco and half-timbering; slate."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.35",
+    "23.E.9"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The interwar idiom Westmount chose for itself, domestic and civic alike — the City Hall of 1922 and Victoria Hall are Tudor Revival, and so are the houses around them.",
+   "origin_en": "Neo-Tudor was the dominant interwar manner across anglophone Montréal; Westmount applied it to public buildings as well as houses, which is why the type reads as the town's signature. The same idiom names Mount Royal's English Manor House and Saint-Lambert's King Cottage.",
+   "photo": {
+    "file": "assets/places/westmount/66-chemin-saint-sulpice-commons.jpg",
+    "credit": "66 chemin Saint-Sulpice, Westmount (sector 23.E.9), built 1927. Photograph © Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons (File:66, chemin Saint-Sulpice.JPG).",
+    "kind": "single",
+    "w": 1280,
+    "h": 960,
+    "alt": "Photograph of Tudor Revival house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.tudor-revival/"
+  },
+  {
+   "id": "westmount.arts-and-crafts",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p5",
+   "phase_label": "1915–1945",
+   "phase_years": "1915 – 1945",
+   "phase_title": "Interwar Tudor",
+   "name_en": "Arts and Crafts semi-detached house",
+   "name_fr": "Maison jumelée Arts and Crafts",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "detached-cottage-steep-gable"
+   ],
+   "canonical_names": [
+    "Detached cottage, steep multi-gabled roof, brick base / light upper"
+   ],
+   "styles": [
+    "arts-and-crafts"
+   ],
+   "style_names": [
+    "Arts and Crafts"
+   ],
+   "style_label": "Arts and Crafts",
+   "tenure_plan": "semi-detached",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Douglas and Grenville (23.E.4), curvilinear streets laid out by the architect W. S. Wright on garden-city principles, mid-1920s; Priests' Farm (23.E.11), built 1926–1930 by L. E. Schlemm to plans by Shorey and Ritchie, « l'un des premiers projets canadiens à adopter les rues sinueuses »."
+    ],
+    "massing": [
+     "Semi-detached houses; at Priests' Farm, flat roofs to the south and steep pitches to the north."
+    ],
+    "articulation": [],
+    "openings": [],
+    "materials": [
+     "Brick."
+    ]
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.4",
+    "23.E.11"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The garden-city enclaves: brick semi-detached houses on curving streets, built in the mid-1920s at Douglas and Grenville and at Priests' Farm, which straddles the Montréal boundary.",
+   "origin_en": "The Garden City idea reaching Westmount a decade after it built Mount Royal, and in the same Arts and Crafts vocabulary — which is why this record and Mount Royal's Garden City House share a canonical form.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Arts and Crafts semi-detached house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.arts-and-crafts/"
+  },
+  {
+   "id": "westmount.apartment-walkup",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p5",
+   "phase_label": "1915–1945",
+   "phase_years": "1915 – 1945",
+   "phase_title": "Interwar Tudor",
+   "name_en": "Interwar apartment house",
+   "name_fr": "Immeuble d'appartements de l'entre-deux-guerres",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "interwar-walkup-apartment"
+   ],
+   "canonical_names": [
+    "Interwar apartment building / walk-up (\"conciergerie\", \"appartement de rapport\")"
+   ],
+   "styles": [
+    "art-deco",
+    "streamline-moderne",
+    "tudor-revival"
+   ],
+   "style_names": [
+    "Art Deco",
+    "Streamline Moderne",
+    "Tudor Revival"
+   ],
+   "style_label": "Art Deco / Streamline Moderne / Tudor Revival",
+   "tenure_plan": "walk-up",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Around the église Saint-Léon (23.E.22), where one of Westmount's first apartment buildings went up in 1907 on De Maisonneuve; interwar ensembles around Place Park (23.E.35), and along Sherbrooke and De Maisonneuve."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.22",
+    "23.E.35"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "The « conciergerie »: the interwar apartment house that lined Sherbrooke and De Maisonneuve and made a luxurious urban way of living possible inside a suburb of houses.",
+   "origin_en": "Westmount's first apartment building dates from 1907; the 2005 fiche describes the sector around Saint-Léon becoming « le centre d'un style de vie urbaine luxueuse » in the two decades that followed.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Interwar apartment house houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.apartment-walkup/"
+  },
+  {
+   "id": "westmount.modern-tower",
+   "place": "westmount",
+   "place_name": "Westmount",
+   "phase": "p6",
+   "phase_label": "1945–1975",
+   "phase_years": "1945 – 1975",
+   "phase_title": "Apartment towers",
+   "name_en": "Modernist residential tower",
+   "name_fr": "Tour d'habitation moderniste",
+   "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada, Westmount District NHS Statement of Significance (2011)",
+   "canonical": [
+    "modern-slab-tower"
+   ],
+   "canonical_names": [
+    "Postwar modernist residential tower or slab"
+   ],
+   "styles": [
+    "international-style"
+   ],
+   "style_names": [
+    "International Style / Modernist"
+   ],
+   "style_label": "International Style / Modernist",
+   "tenure_plan": "slab",
+   "storeys": null,
+   "roof": {
+    "form": "flat",
+    "pitch_deg": 0
+   },
+   "window_proportion": null,
+   "principal_cladding": [],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Sainte-Catherine and De Maisonneuve (23.E.30), on blocks of Elm and Wood cleared after the rezoning of the 1960s."
+    ],
+    "massing": [],
+    "articulation": [],
+    "openings": [],
+    "materials": []
+   },
+   "profile_fr": null,
+   "profile_note": "Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated per type.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": null,
+   "sectors": [
+    "23.E.30"
+   ],
+   "source_generation": "sector fiches (2001/2005) + NHS CDE (2011)",
+   "blurb_en": "Westmount Square (Mies van der Rohe, 1967) and Place Alexis Nihon: the International Style arriving at the foot of the slope, on ground cleared of the greystone rows that stood there.",
+   "origin_en": "The 1960s rezoning that permitted them demolished blocks on Elm and Wood — the same row-house fabric that sectors 23.E.24 and 23.E.33 protect a few streets away.",
+   "photo": {
+    "file": null,
+    "credit": "pending: Wikimedia Commons, Category:Westmount, Quebec — CC only",
+    "kind": "placeholder",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Modernist residential tower houses in Westmount, from Ville de Montréal"
+   },
+   "url": "types/westmount.modern-tower/"
   }
  ]
 }

@@ -1,0 +1,6 @@
+- {id: p1, label: 1700–1845, start: 1700, end: 1845, title_en: The Côte-Saint-Antoine farms, colour_key: p1}
+- {id: p2, label: 1845–1885, start: 1845, end: 1885, title_en: Villas and country cottages on the slope, colour_key: p2}
+- {id: p3, label: 1885–1900, start: 1885, end: 1900, title_en: Greystone rows and the first Queen Anne houses, colour_key: p3}
+- {id: p4, label: 1900–1915, start: 1900, end: 1915, title_en: The summit opens — eclectic prestige and brick semi-detached, colour_key: p4}
+- {id: p5, label: 1915–1945, start: 1915, end: 1945, title_en: Interwar Tudor, Arts and Crafts and the garden-city enclaves, colour_key: p5}
+- {id: p6, label: 1945–1975, start: 1945, end: 1975, title_en: Apartment towers, urban renewal and the autoroute, colour_key: p6}

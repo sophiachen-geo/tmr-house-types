@@ -1,0 +1,53 @@
+id: westmount.semi-detached-brick
+place: westmount
+phase: p4
+name_en: Semi-detached brick house
+name_fr: Maison jumelée en brique
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.3
+- 23.E.28
+canonical:
+- brick-box-flat-or-hipped-2st
+styles:
+- edwardian-classical
+tenure_plan: semi-detached
+storeys: '2'
+roof:
+  form: flat
+  pitch_deg: 0
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+- clay-brick-buff
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - South of The Boulevard on the west of the mountain (23.E.3), on streets traced between 1906 and 1930; avenue
+    Grosvenor (23.E.28), where many of the two-storey brick rows are duplexes.
+  massing:
+  - Two storeys, paired, under a flat roof.
+  articulation: []
+  openings: []
+  materials:
+  - Red or buff brick.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: The paired brick house of the early twentieth century, flat-roofed and plain, filling the streets west
+  of the mountain as the summit above filled with châteaux.
+origin_en: Built as Westmount's middle slope was subdivided between 1906 and 1930; the 2005 fiche contrasts these
+  flat-roofed brick pairs south of The Boulevard with the stone-and-stucco pitched-roof houses to the north.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 7

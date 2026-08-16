@@ -1,0 +1,50 @@
+id: temiscaming.upper-district-house
+place: temiscaming
+phase: p2
+phase_confidence: provisional
+name_en: Upper-district company house (Somerville, 1925–1950)
+name_fr: Maison de compagnie du quartier haut (Somerville, 1925-1950)
+source_ref: 'CCA, ''Power and Planning: Industrial Towns in Québec, 1890–1950'' (1996)'
+canonical:
+- company-house-executive-1925
+styles:
+- arts-and-crafts
+- tudor-revival
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+models_observed: []
+profile:
+  siting_landscape:
+  - The upper district, on the hillside above the mill; CIP reserved a distinct sector for its executives, the social
+    hierarchy of neighbourhoods being « une caractéristique majeure des villes planifiées et construites par les
+    industries ».
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: The specific upper-district streets are not named in any accessible source. The Arts-and-Crafts /
+  English-cottage style attribution is an inference from CIP's contemporaneous Quartier-du-Moulin development in
+  Gatineau — a site patrimonial cité of 55 buildings that the RPCQ explicitly links to the company's parallel work
+  at Témiscaming — and is not a statement about Témiscaming's houses. Nothing here is taken from photographs; the
+  CCA's Szilasi photographs are permission-only and are cited, not reproduced.
+blurb_en: The houses CIP built on the hill for its managers and executives between the wars, in a separate district
+  from the lower town.
+origin_en: William Lyon Somerville of Toronto designed the upper-district houses, the hospital, and all the town's
+  schools and churches for Canadian International Paper between 1925 and 1950.
+source_generation: CCA study (1996); no typology catalogue exists
+photos:
+- file: null
+  credit: 'pending: no photograph of a documented upper-district house is available under a reusable licence'
+  kind: placeholder
+display_order: 2

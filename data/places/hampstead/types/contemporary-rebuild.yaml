@@ -1,0 +1,42 @@
+id: hampstead.contemporary-rebuild
+place: hampstead
+phase: p4
+name_en: Contemporary rebuild
+name_fr: Reconstruction contemporaine
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Côte-Saint-Luc–Hampstead–Montréal-Ouest
+  (2005), sector fiches
+sectors:
+- 18.I.4
+canonical: []
+styles: []
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: Large contemporary rebuilds on the original lots are visible on the ground but are not characterised
+  in any retrievable source, and no figures on demolition or rebuild rates were located. Record kept as a placeholder
+  so the phenomenon is not silently omitted.
+blurb_en: The rebuilding of the garden-suburb lots, under way but undocumented.
+origin_en: Not characterised in any retrievable source; the Town's protection is discretionary (PIIA 775 and demolition
+  by-law 1009) rather than provincial.
+source_generation: sector fiches (2005)
+photos:
+- file: null
+  credit: 'pending: photograph on site — Hampstead'
+  kind: placeholder
+display_order: 3

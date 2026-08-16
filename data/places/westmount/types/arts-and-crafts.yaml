@@ -1,0 +1,53 @@
+id: westmount.arts-and-crafts
+place: westmount
+phase: p5
+name_en: Arts and Crafts semi-detached house
+name_fr: Maison jumelée Arts and Crafts
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.4
+- 23.E.11
+canonical:
+- detached-cottage-steep-gable
+styles:
+- arts-and-crafts
+tenure_plan: semi-detached
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Douglas and Grenville (23.E.4), curvilinear streets laid out by the architect W. S. Wright on garden-city principles,
+    mid-1920s; Priests' Farm (23.E.11), built 1926–1930 by L. E. Schlemm to plans by Shorey and Ritchie, « l'un
+    des premiers projets canadiens à adopter les rues sinueuses ».
+  massing:
+  - Semi-detached houses; at Priests' Farm, flat roofs to the south and steep pitches to the north.
+  articulation: []
+  openings: []
+  materials:
+  - Brick.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: 'The garden-city enclaves: brick semi-detached houses on curving streets, built in the mid-1920s at Douglas
+  and Grenville and at Priests'' Farm, which straddles the Montréal boundary.'
+origin_en: The Garden City idea reaching Westmount a decade after it built Mount Royal, and in the same Arts and
+  Crafts vocabulary — which is why this record and Mount Royal's Garden City House share a canonical form.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: null
+  credit: 'pending: Wikimedia Commons, Category:Westmount, Quebec — CC only'
+  kind: placeholder
+display_order: 10

@@ -1,0 +1,55 @@
+id: westmount.tudor-revival
+place: westmount
+phase: p5
+name_en: Tudor Revival house
+name_fr: Maison de style néo-Tudor
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — Westmount (2005), sector fiches; Parks Canada,
+  Westmount District NHS Statement of Significance (2011)
+sectors:
+- 23.E.35
+- 23.E.9
+canonical:
+- tudor-manor-stone-timber
+styles:
+- tudor-revival
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- stone
+- stucco
+- half-timbering
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Around Place Park (23.E.35), where interwar neo-Tudor apartment ensembles stand; Saint-Sulpice and Ramezay (23.E.9),
+    stone residences of about 1930 on gently curved garden-city streets.
+  massing: []
+  articulation: []
+  openings: []
+  materials:
+  - Stone, stucco and half-timbering; slate.
+profile_note: Assembled from the sector fiches and the National Historic Site's character-defining elements; Westmount
+  publishes no per-type table. Fields the sources do not speak to are left empty and nothing is taken from photographs
+  — window and door detail in particular is governed case by case by the by-law's Directive 4 rather than stated
+  per type.
+blurb_en: The interwar idiom Westmount chose for itself, domestic and civic alike — the City Hall of 1922 and Victoria
+  Hall are Tudor Revival, and so are the houses around them.
+origin_en: Neo-Tudor was the dominant interwar manner across anglophone Montréal; Westmount applied it to public
+  buildings as well as houses, which is why the type reads as the town's signature. The same idiom names Mount Royal's
+  English Manor House and Saint-Lambert's King Cottage.
+source_generation: sector fiches (2001/2005) + NHS CDE (2011)
+photos:
+- file: assets/places/westmount/66-chemin-saint-sulpice-commons.jpg
+  credit: 66 chemin Saint-Sulpice, Westmount (sector 23.E.9), built 1927. Photograph © Jeangagnon, CC BY-SA 4.0,
+    via Wikimedia Commons (File:66, chemin Saint-Sulpice.JPG).
+  kind: single
+display_order: 9
