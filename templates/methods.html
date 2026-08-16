@@ -22,8 +22,12 @@
     <li><code>types[].style_label</code> — the verbatim display string for a card's “Style:” line, preserving the source wording (e.g. “Québec Revival (<em>maison canadienne</em>, néo-québécois)”) that a join of canonical style names would flatten (Part 1).</li>
     <li><code>prose.md ## footer</code> — an extra prose section for a place page's footer paragraphs (the by-law-intent note and vocabulary note on the TMR page), alongside the specified <code>## intro</code>, <code>## phase:*</code> and <code>## notes</code> (Part 1).</li>
     <li><code>types[].aliases</code> — optional list of extra head-nouns for the “same word elsewhere” cross-links, per the brief; no record uses it yet.</li>
+    <li><code>types[].profile_fr</code> — verbatim source French for a profile, keyed <code>implantation / volumetrie / traitement_des_facades / ouvertures / materiaux</code> (aligned to the English rows) plus <code>sous_variantes</code>, which renders as its own row; French shows in italics under each English list (Part 2a).</li>
+    <li><code>types[].source_generation</code> — which generation of a place's typology documents a record was encoded from (the Plateau's 2004 Annexe D fiches versus the consolidated 2025 Annexe C); shown on type pages (Part 2a).</li>
+    <li><code>roof.form: flat-or-false-mansard</code> — added enum value for the Plateau duplex with front setback, whose fiche treats the flat roof and the decorative false mansard as one type (Part 2a).</li>
+    <li>Phase colour keys <code>p4</code>/<code>p5</code> — tints of the section colour at 70 % and 45 % for places with more than three phases (Part 2a).</li>
   </ul>
   <h2>Status</h2>
-  <p>Part 1 of 11: scaffold, schema and the Town of Mount Royal migration (13 types, 3 phases). The canonical vocabulary and styles list are v0 seeds and will grow as further places arrive.</p>
+  <p>Part 1: scaffold, schema and the Town of Mount Royal migration (13 types, 3 phases). Part 2a: Le Plateau-Mont-Royal (12 types, 5 phases) encoded from the 2004 PIIA Annexe D fiches and the 2003 Patri-Arch typomorphological study; three duplex records are complete with verbatim French, the rest are partial or stubs pending the un-retrieved fiches, each carrying a <code>profile_note</code> saying exactly what is missing. Photographs for the Plateau are placeholders until the fiches are extracted. The canonical vocabulary and styles list will keep growing as further places arrive.</p>
 </div></div></main>
 {% endblock %}

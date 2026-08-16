@@ -1,0 +1,38 @@
+id: plateau-mont-royal
+name_en: Le Plateau-Mont-Royal (borough of Montréal)
+name_fr: Arrondissement du Plateau-Mont-Royal
+sections: [borough-vernacular]
+region: Ville de Montréal
+founded: 1845            # first residential subdivision (Courville); villages 1846–1878; annexed 1886–1909
+settlement_mode: speculative subdivision of farm land into villages, absorbed by Montréal
+governing_instruments:
+  - kind: PIIA
+    title: Règlement sur les plans d'implantation et d'intégration architecturale de l'arrondissement du Plateau-Mont-Royal (RCA PMR 2005-18, codified from 2004-22)
+    year: 2004
+    url: https://montreal.ca/articles/plans-dimplantation-et-dintegration-architecturale-piia-plateau-mont-royal-20516
+  - kind: zoning-annex
+    title: Règlement d'urbanisme 01-277, Annexe C « Typologies architecturales »; Annexe B « Caractéristiques architecturales par unité de paysage »; Annexe F « Portes et fenêtres par typologie » (2025-02)
+    year: 2025
+    url: https://montreal.ca/articles/reglement-durbanisme-du-plateau-mont-royal-20131
+  - kind: plan-durbanisme
+    title: Évaluation du patrimoine urbain — Arrondissement du Plateau-Mont-Royal (Plan d'urbanisme, adopted 23 Nov 2004)
+    year: 2005
+    url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/11_evaluation_patrimoine_plateau.pdf
+typology_document:
+  title: PIIA 2004-22 Annexe D « Fiches des typologies architecturales du Plateau-Mont-Royal » (Patri-Arch, 1 Nov 2004); consolidated as 01-277 Annexe C
+  year: 2004
+  format: per-type-table
+  note: >-
+    2004 generation: 15 base types in 5 families (maison de faubourg, duplex, triplex, maison urbaine,
+    immeuble d'appartements) plus 4 specialised non-residential types (mixte, commercial, industriel,
+    institutionnel). Current Annexe C states "dix types"; the PIIA fascicule says "neuf typologies
+    dominantes". Records below carry source_generation.
+map_layer: null
+summary_en: >-
+  Montréal's densest inner borough, built out between 1845 and 1914 as a cluster of villages
+  (Coteau-Saint-Louis, Saint-Jean-Baptiste, De Lorimier, Saint-Louis-du-Mile-End) that Montréal
+  annexed between 1886 and 1909. Its housing is the classic Montréal plex: the duplex of the 1885–91
+  boom, then the triplex with exterior stair of 1904–14, whose form the City's own 1880s rules on lot
+  size, lanes, front setbacks and brick or stone cladding produced. The 2004 PIIA framework classifies
+  ~1,500 surveyed buildings by massing, siting, dwelling count and mode of access into fifteen types
+  in five families.

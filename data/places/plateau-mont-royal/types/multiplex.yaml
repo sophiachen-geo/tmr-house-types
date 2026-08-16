@@ -1,0 +1,26 @@
+id: plateau-mont-royal.multiplex
+place: plateau-mont-royal
+phase: p3
+name_en: Multiplex
+name_fr: Le multiplex
+source_ref: "PIIA 2004-22 Annexe D, fiche 3.3 (not yet retrieved); Étude typomorphologique 2003"
+canonical: [multiplex-3st]
+styles: [faubourg-vernacular]
+tenure_plan: walk-up
+storeys: "3"
+window_proportion: null
+principal_cladding: [clay-brick]
+setback_front_m: 1.5
+profile: {siting_landscape: [], massing: [], articulation: [], openings: [], materials: []}
+profile_note: "Fiche 3.3 not yet retrieved. Cross-referenced in the duplex fiche as contemporary with the exterior-stair triplex (1904–14). Along boulevard Saint-Joseph an intermediate form between triplex and immeuble de rapport appeared: three-storey houses giving six flats a single interior entrance."
+blurb_en: Three storeys, more than three flats; the plex scaled up.
+origin_en: Same boom as the exterior-stair triplex, 1904–1914.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

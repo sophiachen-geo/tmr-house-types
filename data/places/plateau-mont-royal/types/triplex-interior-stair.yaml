@@ -1,0 +1,30 @@
+id: plateau-mont-royal.triplex-interior-stair
+place: plateau-mont-royal
+phase: p3
+name_en: Triplex with interior stair
+name_fr: Le triplex avec escalier intérieur
+source_ref: "PIIA 2004-22 Annexe D, fiche 3.1 (not yet retrieved); Étude typomorphologique 2003"
+canonical: [triplex-exterior-stair]     # provisional; revisit when fiche is read
+styles: [faubourg-vernacular]
+tenure_plan: triplex
+storeys: "3"
+window_proportion: null
+principal_cladding: [clay-brick]
+setback_front_m: 0
+profile: {siting_landscape: [], massing: [], articulation: [], openings: [], materials: []}
+profile_note: "Fiche 3.1 not yet retrieved. The typomorphological study describes it as rare in the borough, a transitional type between the duplex and the typical triplex, built around 1880 before the setback rule."
+blurb_en: >-
+  The rare early triplex whose stair is still inside: three flats behind one door, built before the
+  front-setback rule pushed the stair outdoors.
+origin_en: >-
+  Transitional form of c. 1880 between the duplex and the exterior-stair triplex, per the Étude
+  typomorphologique.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

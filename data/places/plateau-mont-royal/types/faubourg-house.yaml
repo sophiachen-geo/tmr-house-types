@@ -1,0 +1,31 @@
+id: plateau-mont-royal.faubourg-house
+place: plateau-mont-royal
+phase: p2
+name_en: Faubourg house
+name_fr: La maison de faubourg
+source_ref: "PIIA 2004-22 Annexe D, family 1 (fiche not retrieved); Étude typomorphologique 2003"
+canonical: []                    # assign after fiche is read
+styles: [faubourg-vernacular]
+tenure_plan: single-family
+storeys: null
+window_proportion: null
+principal_cladding: []
+setback_front_m: 0
+profile: {siting_landscape: [], massing: [], articulation: [], openings: [], materials: []}
+profile_note: >-
+  Family 1 fiche not retrieved. The typomorphological study describes the villages period (1845–1880)
+  as dominated by the attached single-family house, often built at the street line, with some rear-lot
+  houses (later banned on hygienist grounds) and "quelques maisons typiques de faubourg ouvrier,
+  notamment dans l'ancien secteur du village des Carrières"; survivors on rues de Bullion,
+  Saint-Dominique, avenue Coloniale and rue Lagarde. Do not populate from Québec City's thesaurus.
+blurb_en: The oldest surviving houses of the villages, small attached workers' houses at the street line.
+origin_en: Villages period, 1845–1880; the earliest built layer of the borough.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

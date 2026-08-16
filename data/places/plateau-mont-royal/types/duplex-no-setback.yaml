@@ -1,0 +1,57 @@
+id: plateau-mont-royal.duplex-no-setback
+place: plateau-mont-royal
+phase: p3
+name_en: Duplex without front setback
+name_fr: Le duplex sans marge de recul avant
+source_ref: "PIIA 2004-22 Annexe D, fiche 2.1"
+canonical: [duplex-flat-roof-brick]
+styles: [faubourg-vernacular, victorian-eclectic]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical            # fiche gives type, not ratio, for 2.1
+principal_cladding: [clay-brick, rusticated-stone]
+setback_front_m: 0
+profile:
+  siting_landscape:
+    - Party-wall building with no front or side setback.
+    - The base type from which the other duplex variants derive; oldest subdivisions (Ferme Bagg, Courville, Ferme Comte, rue Pontiac, rue Drolet, Village des Carrières).
+  massing:
+    - Rectangular body without projections, two storeys very slightly raised above grade, flat roof.
+    - Possibly a small balcony above the entrance doors (rarely more than one third of the façade width).
+    - Upper dwelling reached by an interior stair.
+  articulation:
+    - Base of the building marked by one or two courses of rusticated stone.
+    - Paired doors at one end of the façade; openings aligned vertically and horizontally; no significant variation in the choice or placement of cladding.
+    - Crown formed by a moulded cornice, more or less elaborate.
+  openings:
+    - Sash or casement windows without muntins, with or without transom.
+    - Doors with or without transom; transom height about one quarter to one fifth of the door.
+    - Lintels of dressed stone or of soldier-course clay brick; on rusticated-stone buildings the surrounds are dressed stone and the lintel is often absorbed into a band running the width of the façade.
+  materials:
+    - Clay brick dominant; occasional rusticated stone cladding.
+profile_fr:
+  implantation: ["Édifice mitoyen sans marge de recul avant ou latérale."]
+  volumetrie: ["Corps de bâti rectangulaire sans saillies, 2 étages avec une très faible surélévation par rapport au niveau du sol, toit plat, possibilité d'un petit balcon au-dessus des portes d'entrée."]
+  traitement_des_facades: ["Socle du bâtiment démarqué par un ou deux rangs de pierre à bossage. Portes jumelées à l'une des extrémités de la façade, ouvertures alignées verticalement et horizontalement, aucune variation importante dans le choix ou la disposition des matériaux de revêtement. Couronnement avec corniche moulurée plus ou moins ouvragée, selon le cas."]
+  ouvertures: ["Fenêtres à guillotine ou à battants sans carreaux avec ou sans imposte. Portes avec ou sans imposte, hauteur de l'imposte : approximativement 1/4 à 1/5 de celle de la porte. Les linteaux des ouvertures sont composés d'un élément de pierre de taille ou d'un appareillage de briques d'argile en soldat. Dans le cas des bâtiments revêtus de pierre à bossage, l'encadrement des ouvertures est formé de pierre de taille; le linteau est alors souvent intégré à un bandeau qui couvre la largeur de la façade."]
+  materiaux: ["Dominance de la brique d'argile, revêtement occasionnel de pierre à bossage."]
+  sous_variantes: ["Petit balcon au-dessus du porche d'entrée", "Revêtement de pierre à bossage", "Porte cochère"]
+blurb_en: >-
+  The plainest and oldest plex: two superposed flats in a brick box built right on the sidewalk line,
+  paired front doors at one end, an interior stair to the upper flat, and a moulded cornice as the only
+  crown. Its three sub-variants add a small entrance balcony, rusticated stone facing, or a porte cochère.
+origin_en: >-
+  The duplex was the first housing type built in the borough under the large speculative subdivisions
+  of the 1880s and belongs to the first construction boom of 1885–1891. It is the developer's product
+  of the pre-1880 regime, before Montréal imposed the front setback: a simple rectangle of two flats,
+  one over the other, that the later duplexes and the triplex all descend from.
+photos: [{file: null, credit: "pending: extract from Annexe C / fiche 2.1", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+profile_note: null
+source_generation: "2004-22 Annexe D"

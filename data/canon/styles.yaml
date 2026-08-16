@@ -23,3 +23,6 @@
 - {id: queen-anne, name_en: Queen Anne, span: [1880, 1910]}
 - {id: boomtown, name_en: Boomtown (false front), span: [1880, 1930]}
 - {id: shoebox, name_en: Shoebox, span: [1910, 1935]}
+# ---- Part 2a additions ----
+- {id: victorian-eclectic, name_en: Victorian eclecticism, span: [1870, 1910]}
+- {id: beaux-arts, name_en: Beaux-Arts, span: [1900, 1935]}

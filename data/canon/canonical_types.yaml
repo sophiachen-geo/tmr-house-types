@@ -52,3 +52,33 @@
   name_en: Flat-roof brick apartment slab, loggias, penthouse setback
   definition_en: Flat-roofed modernist apartment slab with coping band, set-back penthouse storey, loggia balconies and wide undivided windows.
   members: []
+
+# ---- Part 2a additions (Plateau-Mont-Royal) ----
+- id: duplex-flat-roof-brick
+  name_en: Two-storey, two-dwelling brick box, flat roof, superposed units, cornice or parapet
+  definition_en: Two-storey brick building of two superposed dwellings under a flat roof, party-wall or narrowly set back, crowned by a moulded cornice or parapet.
+  members: []
+- id: triplex-exterior-stair
+  name_en: Three-storey, three-dwelling brick building with exterior stair to upper units, flat roof
+  definition_en: Three-storey brick building of three superposed dwellings, the upper two reached by an exterior stair; flat roof, balconies at each level.
+  members: []
+- id: multiplex-3st
+  name_en: Three-storey building with more than three dwellings, flat roof
+  definition_en: Three-storey building holding more than three dwellings under a flat roof; the plex form scaled up.
+  members: []
+- id: urban-house-stone-2-3st
+  name_en: Detached or row bourgeois urban house, stone-faced, 2–3 storeys, ornamented
+  definition_en: Detached or row bourgeois urban house of two to three storeys, uniformly stone-faced and more richly ornamented than the plex types.
+  members: []
+- id: rapport-block-compact
+  name_en: Interwar apartment block ("édifice de rapport"), 3–4 storeys, compact plan, flat roof
+  definition_en: Interwar apartment block (édifice de rapport) of three to four storeys on a compact plan without interior court; flat roof.
+  members: []
+- id: rapport-block-u-court
+  name_en: Interwar apartment block with U-plan forecourt open to the street, 3–4 storeys
+  definition_en: Interwar apartment block of three to four storeys whose recessed façade or U-plan opens a forecourt to the street.
+  members: []
+- id: small-walkup-interior-stair
+  name_en: Postwar small apartment building, 2–4 dwellings off an interior stair, duplex-scale volume
+  definition_en: Postwar apartment building at duplex scale holding two to four dwellings reached from one interior stair.
+  members: []

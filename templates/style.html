@@ -29,7 +29,7 @@
     </tbody>
   </table></div>
   <div class="photorow">
-    {% for t in s.members %}<figure><img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}" loading="lazy"><figcaption>{{ t.place_name|esc }} · {{ t.name_en|esc }}</figcaption></figure>{% endfor %}
+    {% for t in s.members %}{% if t.photo.file %}<figure><img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}" loading="lazy"><figcaption>{{ t.place_name|esc }} · {{ t.name_en|esc }}</figcaption></figure>{% endif %}{% endfor %}
   </div>
 </div></main>
 {% endblock %}

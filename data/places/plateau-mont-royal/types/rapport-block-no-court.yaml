@@ -1,0 +1,34 @@
+id: plateau-mont-royal.rapport-block-no-court
+place: plateau-mont-royal
+phase: p4
+name_en: Apartment block without courtyard
+name_fr: L'édifice de rapport sans cour
+source_ref: "PIIA 2004-22 Annexe D, fiche 5.1 (partially retrieved)"
+canonical: [rapport-block-compact]
+styles: [beaux-arts, art-deco]
+tenure_plan: walk-up
+storeys: "3–4"
+window_proportion: null
+principal_cladding: [clay-brick, stone]
+setback_front_m: null
+profile:
+  siting_landscape: [Concentrated on boulevard Saint-Joseph and avenue du Parc.]
+  massing: [Compact volume, without interior court.]
+  articulation: []
+  openings: []
+  materials: [Foundation in stone or exposed concrete. No sub-variant.]
+profile_note: "Fiche 5.1 partially retrieved; columns pending."
+blurb_en: The interwar prestige apartment building in its compact form.
+origin_en: >-
+  The opening of the great boulevards in the first half of the twentieth century allowed high-density
+  prestige housing; the édifices de rapport appeared mostly between the two wars on Saint-Joseph and
+  avenue du Parc, in two variants distinguished by the presence or absence of an interior court.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

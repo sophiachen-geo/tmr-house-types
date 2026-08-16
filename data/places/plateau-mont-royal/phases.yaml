@@ -1,0 +1,5 @@
+- {id: p1, label: Before 1845, start: 1654, end: 1845, title_en: Formation of the territorial structure, colour_key: p1}
+- {id: p2, label: 1845–1880, start: 1845, end: 1880, title_en: The villages, colour_key: p2}
+- {id: p3, label: 1880–1914, start: 1880, end: 1914, title_en: The golden age of development, colour_key: p3}
+- {id: p4, label: 1914–1960, start: 1914, end: 1960, title_en: Consolidation, colour_key: p4}
+- {id: p5, label: After 1960, start: 1960, end: 1980, title_en: Great transformations and the return to the city, colour_key: p5}

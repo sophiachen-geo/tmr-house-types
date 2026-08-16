@@ -103,7 +103,7 @@
     var prow = el("tr", null, [el("th", { text: "Photo" })]);
     sel.forEach(function (id) {
       var t = byId[id], td = el("td");
-      if (t.photo) { var img = el("img", { src: R + t.photo.file, alt: t.photo.alt || t.name_en, loading: "lazy" }); td.appendChild(img); }
+      if (t.photo && t.photo.file) { var img = el("img", { src: R + t.photo.file, alt: t.photo.alt || t.name_en, loading: "lazy" }); td.appendChild(img); }
       else td.textContent = "–";
       prow.appendChild(td);
     });

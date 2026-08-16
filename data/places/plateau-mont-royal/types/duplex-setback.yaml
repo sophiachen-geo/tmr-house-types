@@ -1,0 +1,56 @@
+id: plateau-mont-royal.duplex-setback
+place: plateau-mont-royal
+phase: p3
+name_en: Duplex with front setback
+name_fr: Le duplex avec marge de recul avant
+source_ref: "PIIA 2004-22 Annexe D, fiche 2.2"
+canonical: [duplex-flat-roof-brick]
+styles: [faubourg-vernacular, second-empire, victorian-eclectic]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical-2to1
+principal_cladding: [clay-brick, rusticated-stone]
+setback_front_m: 1.5     # fiche: 1 to 2 m
+roof: {form: flat-or-false-mansard, pitch_deg: 0}
+profile:
+  siting_landscape:
+    - Front setback of 1 to 2 metres.
+  massing:
+    - Rectangular body without projections; two storeys with the ground floor raised fewer than 8 risers above grade; flat roof; balcony generally present above the entrance porch.
+    - Occasional front gallery on the ground floor and sometimes the upper floor; small straight entrance stair.
+    - Frequent use of a false-mansard roof.
+  articulation:
+    - Base marked by courses of rusticated stone.
+    - Paired doors at one end of the façade; openings aligned vertically and horizontally.
+    - On flat-roofed buildings, crown marked by a moulded cornice; on false-mansard buildings, pedimented or round-arched dormers generally aligned with the wall plane, the dormer over the balcony often raised to form a stronger crown above the entrance axis.
+  openings:
+    - Sash or casement windows without muntins, with or without transom; proportion 1 width = ½ height.
+    - Doors with or without transom; transom about one quarter of the door height.
+    - Lintels expressed by a dressed-stone band or a soldier course of clay brick.
+  materials:
+    - Clay brick dominant; occasional rusticated stone cladding.
+profile_fr:
+  implantation: ["Marge de recul avant de 1 à 2 mètres."]
+  volumetrie: ["Corps de bâti rectangulaire sans saillies, 2 étages avec une surélévation du rez-de-chaussée par rapport au niveau du sol inférieure à 8 contremarches, toit plat, balcon généralement présent au-dessus du porche d'entrée."]
+  traitement_des_facades: ["Socle du bâtiment démarqué par des rangs de pierre à bossage. Portes jumelées à l'une des extrémités de la façade, ouvertures alignées verticalement et horizontalement… Pour les bâtiments à toit plat, couronnement démarqué par une corniche moulurée plus ou moins ouvragée.", "Fausse mansarde : lucarnes à fronton ou en arc cintré généralement alignées avec le plan du mur. La lucarne située au-dessus du balcon est souvent surhaussée et forme un couronnement plus marqué pour l'alignement principal des portes d'entrée."]
+  ouvertures: ["Fenêtres à guillotine ou à battants sans carreaux avec ou sans imposte, proportion de 1 largeur = 1/2 hauteur. Portes avec ou sans imposte, hauteur de l'imposte : environ 1/4 de celle de la porte. Linteaux des ouvertures exprimés par un bandeau de pierre de taille ou par un appareillage de briques d'argile en soldat."]
+  materiaux: ["Dominance de la brique d'argile, revêtement occasionnel de pierre à bossage."]
+  sous_variantes: ["Galerie sur toute la largeur (rez-de-chaussée et étage)", "Toiture en fausse mansarde avec lucarnes"]
+blurb_en: >-
+  The same two-flat box pulled back a metre or two from the sidewalk, which is enough to raise the
+  ground floor a few steps, hang a balcony over the porch and, very often, top the façade with a
+  false mansard and dormers. This is the duplex most people picture: the one with the mansard.
+origin_en: >-
+  Around 1880 Montréal began applying building by-laws to the new districts: standardised lots and
+  lanes, then a mandatory front setback and stone or brick cladding. The setback produced this
+  variant. Its false-mansard crown is the Second Empire fashion of the 1870s–80s applied to a
+  speculative type; the mansard is decorative (a fausse mansarde), not a full storey.
+photos: [{file: null, credit: "pending: fiche 2.2", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+profile_note: null
+source_generation: "2004-22 Annexe D"

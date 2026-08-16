@@ -1,0 +1,55 @@
+id: plateau-mont-royal.duplex-exterior-stair
+place: plateau-mont-royal
+phase: p3
+name_en: Duplex with exterior stair
+name_fr: Le duplex avec escalier extérieur
+source_ref: "PIIA 2004-22 Annexe D, fiche 2.3"
+canonical: [duplex-flat-roof-brick]
+styles: [faubourg-vernacular]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical-2to1
+principal_cladding: [clay-brick, stone]
+setback_front_m: 1.5
+profile:
+  siting_landscape:
+    - With a front setback.
+    - Mainly in the landscape units of the east and north of the borough.
+  massing:
+    - Rectangular body without projections; two storeys with the ground floor raised 1 to 4 risers; flat roof; upper-floor balcony and exterior stair to reach the upper flat.
+  articulation:
+    - Foundation little marked; cladding may change between ground floor and upper floor.
+    - "Horizontal symmetry: an axis of doors at the centre with an axis of windows on each side; openings aligned horizontally."
+    - Crown marked by a moulded cornice or a parapet with or without pediment.
+  openings:
+    - Sash or casement windows without muntins and without transom; proportion 1 width = ½ height; a few square windows with fixed or sliding panels.
+    - Doors with or without transom; transom less than a quarter of the door height.
+    - Lintel of dressed stone or soldier-course clay brick.
+  materials:
+    - Clay brick dominant; occasional stone cladding.
+profile_fr:
+  implantation: ["Avec marge de recul avant."]
+  volumetrie: ["Corps de bâti rectangulaire sans saillies, 2 étages avec une surélévation du rez-de-chaussée de 1 à 4 contremarches, toit plat, balcon à l'étage et escalier extérieur pour rejoindre l'étage."]
+  traitement_des_facades: ["Fondation peu démarquée, changement possible de matériaux de revêtement entre le rez-de-chaussée et l'étage. Symétrie horizontale formée d'un alignement de portes au centre et d'un alignement de fenêtres de chaque côté de la façade, ouvertures alignées horizontalement. Couronnement marqué par une corniche moulurée ou un parapet avec ou sans fronton."]
+  ouvertures: ["Fenêtres à guillotine ou à battants sans carreaux et sans imposte, proportion : 1 largeur = 1/2 hauteur, quelques cas de fenêtres de proportion carrée avec panneaux fixes ou coulissants. Portes avec ou sans imposte, hauteur de l'imposte : moins du quart de celle de la porte. Linteau de pierre de taille ou composé d'un appareillage de briques d'argile en soldat."]
+  materiaux: ["Dominance de la brique d'argile, revêtement occasionnel en pierre."]
+  sous_variantes: ["Il n'y a pas de sous-variante."]
+blurb_en: >-
+  Two flats, but the upper one now has its own door and its own stair climbing the front of the house.
+  The façade turns symmetrical, doors in the middle, windows either side, and the cornice can give
+  way to a brick parapet. It is the duplex learning the triplex's trick.
+origin_en: >-
+  Built from the same moment as the triplex (type 3.2) and the multiplex (3.3), i.e. the second boom
+  of 1904–1914. The exterior stair is the direct consequence of the mandatory front setback: with the
+  building pushed back, the stair to the upper dwelling could be moved outside and the interior floor
+  area given back to the flats.
+photos: [{file: null, credit: "pending: fiche 2.3", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+profile_note: null
+source_generation: "2004-22 Annexe D"

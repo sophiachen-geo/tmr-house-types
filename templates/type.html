@@ -3,13 +3,13 @@
 <header><div class="wrap">
   <div class="kicker"><a href="{{ R }}places/{{ t.place }}/" style="text-decoration:none">{{ t.place_name|esc }}</a> · Local type</div>
   <h1>{{ t.name_en|esc }}</h1>
-  <div class="metaline">{{ t.place_name|esc }} · {{ t.phase_obj.label|esc }} ({{ t.phase_obj.years }}) · {{ t.source_ref|esc }} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% endfor %}</div>
+  <div class="metaline">{{ t.place_name|esc }} · {{ t.phase_obj.label|esc }} ({{ t.phase_obj.years }}) · {{ t.source_ref|esc }}{% if t.source_generation %} · Source generation: {{ t.source_generation|esc }}{% endif %} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% else %}<span class="null">–</span>{% endfor %}</div>
   <div class="stylename">Style: {{ t.style_label }} — {% for s in t.style_objs %}<a href="{{ R }}styles/{{ s.id }}/">{{ s.name_en|esc }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</div>
 </div></header>
 <main><div class="wrap"><div class="typebody">
   <h2>{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></h2>
-  <img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}">
-  <p class="figcredit">{{ t.photo.credit|esc }}</p>
+  {% if t.photo.file %}<img src="{{ R }}{{ t.photo.file }}" width="{{ t.photo.w }}" height="{{ t.photo.h }}" alt="{{ t.photo.alt|esc }}">
+  <p class="figcredit">{{ t.photo.credit|esc }}</p>{% else %}<div class="ph-pending" style="margin:16px 0">Photograph pending<span>{{ t.photo.credit|esc }}</span></div>{% endif %}
   <p class="blurb">{{ t.blurb_en|esc }}</p>
   <div class="origin" style="margin-top:16px"><span class="olabel">Where it comes from</span><p>{{ t.origin_en }}</p></div>
 
@@ -29,8 +29,8 @@
   </table></div>
 
   <h2 style="margin-top:34px;font-size:24px">What {{ t.doc_short|esc }} says about this type</h2>
-  <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}</ul></div>{% endfor %}</div>
-  {% if t.profile_note %}<p class="figcredit" style="margin-top:8px">{{ t.profile_note|esc }}</p>{% endif %}
+  <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}{% for v in row.fr %}<li class="frv" lang="fr">{{ v|esc }}</li>{% endfor %}{% if not row.bullets and not row.fr %}<li class="null">–</li>{% endif %}</ul></div>{% endfor %}</div>
+  {% if t.profile_note %}<p class="pnote">{{ t.profile_note|esc }}</p>{% endif %}
 
   <div class="xlinks">
     {% for group in t.xlinks %}

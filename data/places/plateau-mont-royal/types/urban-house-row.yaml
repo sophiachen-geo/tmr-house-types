@@ -1,0 +1,26 @@
+id: plateau-mont-royal.urban-house-row
+place: plateau-mont-royal
+phase: p3
+name_en: Row urban house
+name_fr: La maison urbaine contiguë
+source_ref: "PIIA 2004-22 Annexe D, fiche 4.2 (not retrieved)"
+canonical: [urban-house-stone-2-3st]
+styles: [victorian-eclectic, second-empire, queen-anne]
+tenure_plan: row
+storeys: "2–3"
+window_proportion: null
+principal_cladding: [stone, clay-brick]
+setback_front_m: null
+profile: {siting_landscape: [], massing: [], articulation: [], openings: [], materials: []}
+profile_note: "Fiche 4.2 not retrieved; the fiche states it was built during two development periods (text cut off). Square Saint-Louis, rue Cherrier and rue Saint-Hubert are the study's illustrated examples."
+blurb_en: Terraced bourgeois houses in stone, homogeneous by row, around Square Saint-Louis and along Cherrier and Saint-Hubert.
+origin_en: Golden-age product for the middle class, 1885–1914; the study's "demeures bourgeoises".
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

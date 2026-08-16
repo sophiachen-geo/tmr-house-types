@@ -1,0 +1,38 @@
+id: plateau-mont-royal.rapport-block-court
+place: plateau-mont-royal
+phase: p4
+name_en: Apartment block with courtyard
+name_fr: L'immeuble de rapport avec cour
+source_ref: "PIIA 2004-22 Annexe D, fiche 5.2 (partially retrieved)"
+canonical: [rapport-block-u-court]
+styles: [beaux-arts, art-deco]
+tenure_plan: walk-up
+storeys: "3–4"
+window_proportion: null
+principal_cladding: [clay-brick, stone]
+setback_front_m: 2.5   # 0 to 5 m
+profile:
+  siting_landscape:
+    - Front setback varying from 0 to 5 metres, but the recessing of part of the façade creates a court open to the street of variable depth.
+    - Large parcels; concentrated on avenue du Parc.
+  massing:
+    - Plan generally in a U; three or four storeys; ground floor generally raised.
+    - Much larger bulk and dwelling count than the courtless variant.
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  implantation: ["Marge de recul avant variant de 0 à 5 mètres, mais le recul de la façade sur une partie du bâtiment permet de créer une cour ouverte sur la rue dont la profondeur est variable."]
+  volumetrie: ["Plan généralement en « U », hauteur de 3 ou 4 étages, rez-de-chaussée généralement surélevé."]
+profile_note: "Fiche 5.2 partially retrieved; matériaux/ouvertures/traitement pending."
+blurb_en: The U-plan apartment court of avenue du Parc, its forecourt open to the street.
+origin_en: Same interwar moment as the compact block, on larger parcels.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

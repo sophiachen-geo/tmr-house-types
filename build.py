@@ -31,7 +31,8 @@ SECTIONS = {  # key -> (letter, display name, colour key)
 }
 ENUM = {
     "tenure_plan": {"single-family", "semi-detached", "row", "duplex", "triplex", "walk-up", "slab", "mixed"},
-    "roof.form": {"flat", "gabled", "gabled-multi", "hipped", "mansard", "false-mansard", "bellcast", "pyramidal", "shed"},
+    "roof.form": {"flat", "gabled", "gabled-multi", "hipped", "mansard", "false-mansard", "bellcast", "pyramidal", "shed",
+                  "flat-or-false-mansard"},  # Part 2a: Plateau duplex-setback; recorded in methods
     "window_proportion": {"vertical-2to1", "vertical", "square", "horizontal", "horizontal-2to1", "horizontal-2.5to1", None},
     "garage": {"none", "detached", "detached-or-set-back", "attached-set-back", "integrated-facade", "underground", None},
     "photo.kind": {"strip", "single", "placeholder"},
@@ -43,6 +44,15 @@ TRAIT_LABELS = [
     ("openings", "Openings"),
     ("materials", "Materials"),
 ]
+# profile_fr keys (verbatim source French) aligned to the English profile rows;
+# sous_variantes has no English counterpart and renders as its own row.
+FR_KEYS = {
+    "siting_landscape": "implantation",
+    "massing": "volumetrie",
+    "articulation": "traitement_des_facades",
+    "openings": "ouvertures",
+    "materials": "materiaux",
+}
 NUM_WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
 
 
@@ -212,15 +222,31 @@ for pdir in sorted((DATA / "places").iterdir()):
             if p["kind"] != "placeholder" and not (ROOT / p["file"]).exists():
                 fail(f"{tctx}: photo file not found: {p['file']}")
 
+        pfr = t.get("profile_fr")
+        if pfr is not None and not isinstance(pfr, dict):
+            fail(f"{tctx}: profile_fr must be a mapping of lists")
         # derived display fields
         t["slug"] = slug
         t["place_name"] = pl["name_en"]
         t["phase_obj"] = PH[t["phase"]]
         t["doc_short"] = t["source_ref"].split(",")[0].strip()
+        t.setdefault("source_generation", None)
         m = re.search(r"art\.\s*(\d+)", t["source_ref"])
         t["art_no"] = int(m.group(1)) if m else None
         t["eyebrow_ref"] = f"By-law art. {t['art_no']}" if (m and "y-law" in t["doc_short"]) else t["source_ref"]
-        t["profile_rows"] = [{"label": label, "bullets": t["profile"][key]} for key, label in TRAIT_LABELS]
+        # ordering within the source document: by-law article, fiche x.y, or family n
+        if t["art_no"] is not None:
+            t["src_order"] = float(t["art_no"])
+        elif (mf := re.search(r"fiche\s+(\d+)\.(\d+)", t["source_ref"])):
+            t["src_order"] = int(mf.group(1)) + int(mf.group(2)) / 100
+        elif (mg := re.search(r"family\s+(\d+)", t["source_ref"])):
+            t["src_order"] = float(mg.group(1))
+        else:
+            t["src_order"] = None
+        t["profile_rows"] = [{"label": label, "bullets": t["profile"][key],
+                              "fr": (pfr or {}).get(FR_KEYS[key], [])} for key, label in TRAIT_LABELS]
+        if pfr and pfr.get("sous_variantes"):
+            t["profile_rows"].append({"label": "Sous-variantes", "bullets": [], "fr": pfr["sous_variantes"]})
         t["canonical_objs"] = [CANON[c] for c in t["canonical"]]
         t["style_objs"] = [STYLE[s] for s in t["styles"]]
         t.setdefault("style_label", " / ".join(s["name_en"] for s in t["style_objs"]))
@@ -237,7 +263,7 @@ for pdir in sorted((DATA / "places").iterdir()):
 
     # order types the way the source document orders them
     phase_order = {p["id"]: i for i, p in enumerate(phases)}
-    types.sort(key=lambda t: (phase_order[t["phase"]], t["art_no"] if t["art_no"] is not None else 10**6, t["name_en"]))
+    types.sort(key=lambda t: (phase_order[t["phase"]], t["src_order"] if t["src_order"] is not None else 10**6, t["name_en"]))
     for t in types:
         PH[t["phase"]]["types"].append(t)
 
@@ -272,12 +298,23 @@ for t in all_types:
         STYLE[sid]["members_by_place"].setdefault(t["place"], []).append(t)
 
 
+EN_PREPS = {"with", "without", "of", "in", "to", "at", "for"}
+FR_ARTICLES = {"le", "la", "les", "l'", "un", "une", "des"}
+
+
 def head_en(t):
-    return re.sub(r"[^\w-]", "", t["name_en"].split()[-1]).lower()
+    words = t["name_en"].split()
+    for i, w in enumerate(words):
+        if w.lower() in EN_PREPS:
+            words = words[:i]
+            break
+    return re.sub(r"[^\w-]", "", words[-1]).lower()
 
 
 def head_fr(t):
-    return re.sub(r"[^\w-]", "", t["name_fr"].split()[0]).lower()
+    words = [w for w in t["name_fr"].split() if w.lower() not in FR_ARTICLES]
+    w0 = re.sub(r"^[LlDd]'", "", words[0]) if words else ""
+    return re.sub(r"[^\w-]", "", w0).lower()
 
 
 for t in all_types:
@@ -301,7 +338,8 @@ g_min = min(p["phases"][0]["start"] for p in places)
 g_max = max(p["phases"][-1]["end"] for p in places)
 ax_min = g_min - (g_min % 25)
 ax_max = g_max + ((25 - g_max % 25) % 25)
-tl_ticks = list(range(ax_min, ax_max + 1, 25))
+tl_ticks = [{"year": y, "major": y % 50 == 0} for y in range(ax_min, ax_max + 1, 25)]
+tl_intervals = len(tl_ticks) - 1
 for p in places:
     for ph in p["phases"]:
         ph["tl_left"] = pct(ph["start"], ax_min, ax_max)
@@ -357,7 +395,7 @@ def render(template, out_rel, depth, **ctx):
 
 render("home.html", "index.html", 0, title=SITE,
        description="Residential building types across Québec, place by place: local typologies from by-laws, inventories and studies, cross-referenced by form, style and period.",
-       places=places, sections=sections, tl_ticks=tl_ticks)
+       places=places, sections=sections, tl_ticks=tl_ticks, tl_intervals=tl_intervals)
 
 for sec in sections:
     render("section.html", f"sections/{sec['key']}/index.html", 2,
@@ -409,7 +447,8 @@ for t in all_types:
         "principal_cladding": t["principal_cladding"], "roofing": t["roofing"], "garage": t["garage"],
         "lot_width_m": t["lot_width_m"], "setback_front_m": t["setback_front_m"],
         "setback_side_m": t["setback_side_m"], "front_yard_green_pct": t["front_yard_green_pct"],
-        "profile": t["profile"], "profile_note": t["profile_note"],
+        "profile": t["profile"], "profile_fr": t.get("profile_fr"), "profile_note": t["profile_note"],
+        "source_generation": t["source_generation"],
         "blurb_en": t["blurb_en"], "origin_en": t["origin_en"],
         "photo": t["photo"], "url": f"types/{t['id']}/",
     })
@@ -419,7 +458,7 @@ for t in all_types:
 csv_buf = io.StringIO()
 cw = csv.writer(csv_buf)
 cw.writerow(["id", "place", "place_name", "phase", "phase_years", "phase_title", "name_en", "name_fr",
-             "source_ref", "canonical", "styles", "style_label", "tenure_plan", "storeys", "roof_form",
+             "source_ref", "source_generation", "canonical", "styles", "style_label", "tenure_plan", "storeys", "roof_form",
              "roof_pitch_deg", "window_proportion", "principal_cladding", "roofing", "garage",
              "lot_width_min_m", "lot_width_max_m", "setback_front_m", "setback_side_m",
              "front_yard_green_pct", "siting_landscape", "massing", "articulation", "openings",
@@ -427,7 +466,7 @@ cw.writerow(["id", "place", "place_name", "phase", "phase_years", "phase_title",
 for t in all_types:
     cw.writerow([
         t["id"], t["place"], t["place_name"], t["phase"], t["phase_obj"]["years"],
-        t["phase_obj"]["title_en"], t["name_en"], t["name_fr"], t["source_ref"],
+        t["phase_obj"]["title_en"], t["name_en"], t["name_fr"], t["source_ref"], t["source_generation"],
         "; ".join(t["canonical"]), "; ".join(t["styles"]), t["style_label"], t["tenure_plan"],
         t["storeys"], t["roof"]["form"], t["roof"]["pitch_deg"], t["window_proportion"],
         "; ".join(t["principal_cladding"]), t["roofing"], t["garage"],

@@ -1,0 +1,42 @@
+id: plateau-mont-royal.urban-house-detached
+place: plateau-mont-royal
+phase: p2
+name_en: Detached urban house
+name_fr: La maison urbaine isolée
+source_ref: "PIIA 2004-22 Annexe D, fiche 4.1 (partially retrieved)"
+canonical: [urban-house-stone-2-3st]
+styles: [victorian-eclectic, second-empire]
+tenure_plan: single-family
+storeys: "2–3"
+window_proportion: null
+principal_cladding: [stone]
+setback_front_m: 5
+setback_side_m: 1.5
+profile:
+  siting_landscape:
+    - Front setback that may exceed 5 metres; small side setbacks of 1 to 2 metres.
+    - Oldest examples (1850–1880) on rue Sherbrooke; from the 1900s, rarely, on rue Saint-Hubert, rue Rachel and avenue du Parc-La Fontaine. Many converted to offices or flats.
+  massing:
+    - Centred door; a projecting element may form an oriel or forebody. No sub-variant.
+  articulation: []
+  openings: []
+  materials:
+    - Uniform stone cladding and a higher degree of ornamentation than the duplex (family description).
+profile_fr:
+  implantation: ["Marge de recul avant pouvant atteindre plus de 5 mètres, marges de recul latérales faibles de 1 à 2 mètres."]
+profile_note: "Fiche 4.1 only partially retrieved (search fragments). Volumetrie/ouvertures/matériaux columns pending."
+blurb_en: >-
+  The bourgeois villa of the Plateau's first decades: a free-standing stone house set back from the
+  street, individually designed, now rare and often converted.
+origin_en: >-
+  Built for the well-to-do west of Saint-Laurent and south of avenue des Pins, then along Sherbrooke,
+  Square Saint-Louis and Saint-Hubert; the family also includes a two-unit superposed variant that
+  differs from the duplex by storeys per dwelling, uniform stone facing and richer ornament.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

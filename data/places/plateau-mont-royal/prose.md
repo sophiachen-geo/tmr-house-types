@@ -1,0 +1,20 @@
+## intro
+Le Plateau-Mont-Royal is where the Montréal plex was invented and where it remains the rule. The borough was farmland until 1845, then a cluster of villages (Coteau-Saint-Louis 1846, Saint-Jean-Baptiste 1861, De Lorimier 1870, Saint-Louis-du-Mile-End 1878) that Montréal annexed between 1886 and 1909. Its housing stock was built almost entirely between 1880 and 1914 by developers working to the City's new rules on lot size, lanes, front setbacks and masonry cladding, and those rules, more than any style, gave the district its form: the duplex of the first boom (1885–91), the triplex with exterior stair of the second (1904–14), the interwar apartment blocks of the boulevards. In 2004 the borough commissioned Patri-Arch to survey the territory (some 1,500 photographs) and classify its buildings by four criteria: general massing, siting, number of dwellings and mode of access to them. Fifteen base types in five families resulted, and they underpin the borough-wide PIIA. This page presents them in the same form as Mount Royal's thirteen.
+
+## phase:p1
+Fiefs granted in 1654 and 1665, chemin Saint-Laurent opened in 1717, a manor and tannery around 1740, and a first subdivision on the Cadieux land in 1834 that a succession dispute froze until 1842. No building survives from this period.
+
+## phase:p2
+The first residential subdivision (Courville, 1845) opened the villages: Coteau-Saint-Louis (1846), Saint-Jean-Baptiste (1861), De Lorimier (1870); the Comte farm was subdivided in 1872, the horse tram arrived in 1864, the railway to Saint-Jérôme in 1876, and Saint-Louis-du-Mile-End was born in 1878. The dominant house was the attached single-family dwelling, often at the street line, with rear-lot houses that later hygiene rules banned; a few workers' faubourg houses survive in the old Village des Carrières.
+
+## phase:p3
+The golden age. In 1880 Montréal standardised lots and lanes, then required a front setback and stone or brick cladding; the villages were annexed (Saint-Jean-Baptiste 1886, Coteau-Saint-Louis 1893/96, Mile End and De Lorimier 1909). Two booms: 1885–91 (bourgeois single-family houses and the duplex for workers) and 1904–14 (the triplex, with front setback, exterior stair and L-plan). Boulevard Saint-Joseph was laid out around 1905 with a 28-foot median.
+
+## phase:p4
+Near saturation. The Université de Montréal's departure for the mountain around 1920 began a bourgeois exodus and demographic change; the 1930s brought federal make-work projects. No new signature type appeared; the triplex stayed in fashion into the 1940s, joined on the boulevards by the interwar édifices de rapport and, after 1945, by replacement apartment buildings.
+
+## phase:p5
+Metro line 2 along Berri (1962–66); Saint-Joseph's median cut from 28 to 6 feet (1962); "rénovation urbaine" in Milton-Parc (the Pins interchange; La Cité, 1974–75, 255 properties demolished); then the citizen counter-movement and the Milton-Parc housing co-operatives, the largest in Canada.
+
+## notes
+The framework's four criteria are morphological, not stylistic; families are defined by dwelling count and mode of access (interior versus exterior stair), which is why the same brick façade vocabulary appears across duplex, triplex and multiplex. Four specialised, non-residential types (mixed commercial-residential, commercial, industrial, institutional) complete the 2004 list but are not encoded here. Codes are document-specific: the exterior-stair triplex is 3.2 in Plateau documents and 2.6 in the Sud-Ouest borough's. The consolidated Annexe C (2025) counts ten types; the PIIA fascicule speaks of nine dominant typologies; the 2004 Annexe D of fifteen plus four. "Maison de faubourg" here is a family heading for the earliest workers' houses; Québec City's thesaurus uses the term for two distinct types (a steep-roofed one-storey neoclassical house and a flat-roofed two- or three-storey vernacular one), and Mount Royal's "maison faubourienne" is a detached suburban house of 1915–35. Same word, three objects; the site keeps them separate.

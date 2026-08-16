@@ -1,0 +1,34 @@
+id: plateau-mont-royal.small-apartment-building
+place: plateau-mont-royal
+phase: p4
+name_en: Small apartment building
+name_fr: Le petit immeuble d'appartements
+source_ref: "PIIA 2004-22 Annexe D, fiche 5.3 (partially retrieved)"
+canonical: [small-walkup-interior-stair]
+styles: [international-style]
+tenure_plan: walk-up
+storeys: "2"
+window_proportion: null
+principal_cladding: [clay-brick]
+setback_front_m: null
+profile:
+  siting_landscape: [Mainly in the landscape units Rues Messier et Parthenais (5.4), Rue d'Iberville (5.5) and Rue Saint-Hubert Nord (5.9).]
+  massing: [Volume similar to the duplex; two to four dwellings reached from an interior stair.]
+  articulation: []
+  openings: []
+  materials: []
+profile_note: "Fiche 5.3 partially retrieved."
+blurb_en: A duplex-sized box holding two to four flats off one inside stair; postwar, and rare in the borough.
+origin_en: >-
+  Appeared mainly after the Second World War; little used in the Plateau. Post-1945 apartment
+  buildings in general were replacement buildings built one by one across the territory, "une rupture
+  importante avec le paysage urbain existant", often on vacant land along the railway.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"

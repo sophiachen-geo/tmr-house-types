@@ -1,0 +1,47 @@
+id: plateau-mont-royal.triplex-exterior-stair
+place: plateau-mont-royal
+phase: p3
+name_en: Triplex with exterior stair
+name_fr: Le triplex avec escalier extérieur
+source_ref: "PIIA 2004-22 Annexe D, fiche 3.2 (fiche not yet retrieved); Étude typomorphologique 2003; unité de paysage 4.7 fiche"
+canonical: [triplex-exterior-stair]
+styles: [faubourg-vernacular]
+tenure_plan: triplex
+storeys: "3"
+window_proportion: null
+principal_cladding: [clay-brick-beige-brown]
+setback_front_m: 1.5
+profile:
+  siting_landscape:
+    - Front setback; rectangular plan occupying almost the whole parcel, or an inverted L-plan mirrored from one building to the next; twin buildings on two parcels often read as one.
+  massing:
+    - Three storeys; ground floor raised 0 to 5 risers; flat roof; exterior stair to the upper dwellings.
+    - Occasional narrow balconies on the second and third levels; projecting bay windows are rare.
+  articulation: []
+  openings: []
+  materials:
+    - Clay brick in beige or brown tones; stair and balcony with wood floors and metal railings.
+profile_note: >-
+  Fiche 3.2 not yet retrieved; siting, massing and materials taken from the Étude typomorphologique
+  and from the unité de paysage 4.7 fiche, which describe the same type. Articulation and openings
+  left empty rather than inferred. Numbering caveat: the Sud-Ouest borough labels the same form
+  "type 2.6"; codes are document-specific.
+blurb_en: >-
+  The Montréal triplex: three flats stacked in a three-storey brick front, the upper two reached by an
+  outside stair, often the famous curving iron one, with balconies at each level and an L-shaped
+  footprint that leaves a light-well at the back. It is the dominant building of the borough.
+origin_en: >-
+  The Étude typomorphologique calls the triplex "la forme architecturale typique de ce secteur de
+  Montréal" and dates it to the second boom, 1904–1914, driven by housing demand and by municipal
+  regulation: standard lots and lanes (1880), then the mandatory front setback and stone or brick
+  cladding, which "amènera la translation de l'escalier d'accès aux logements des étages supérieurs
+  vers l'extérieur". Réjean Legault (1989) is the standard scholarly account.
+photos: [{file: null, credit: "pending", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+source_generation: "2004-22 Annexe D"
