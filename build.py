@@ -238,6 +238,9 @@ for pdir in sorted((DATA / "places").iterdir()):
         for k in ("objectives_fr", "criteria_fr", "guideline_booklets"):
             grading.setdefault(k, None)
     pl.setdefault("grading", None)
+    for gi in pl["governing_instruments"]:
+        require(gi, ["kind", "title", "year"], f"{ctx}: governing_instruments")
+        gi.setdefault("url", None)
     smap = pl.get("sector_map")           # Part 5a v2: a rasterised map of the sector set
     if smap:
         require(smap, ["file", "credit"], f"{ctx}: sector_map")

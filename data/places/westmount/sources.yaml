@@ -1,7 +1,67 @@
-- {id: wm-evaluation-2005, citation: "Ville de Montréal, Évaluation du patrimoine urbain : arrondissement de Westmount, 2005 (ISBN 2-7647-0466-6); reproduces Ville de Westmount, Rénover et construire à Westmount : fiches d'information des secteurs patrimoniaux, September 2001.", url: "http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/27_evaluation_patrimoine_wes.pdf", used_for: [sectors, types, phases]}
-- {id: wm-bylaw-1305, citation: "Ville de Westmount, Règlement 1305 sur les PIIA (in force 6 Dec 2001), with the guidelines Rénover et construire à Westmount (Directive 1, heritage value and category; Directive 4, portes et fenêtres) and Annex III, Éléments caractéristiques patrimoniaux : bâtiments de catégorie 1*.", url: "https://westmount.org/fr/travaux-et-urbanisme/construction-et-renovation/informations-generales-construction-renovation", used_for: [instruments, grading]}
-- {id: wm-fiche3-2020, citation: "Engage Westmount / Imagine Westmount 2040, Fiche 3 — Patrimoine (four categories with counts; 39 sectors; 4,750 dwellings ≈ 61 % pre-1945; Beaupré & Michaud 1988).", url: "https://engage.westmount.org/wp-content/uploads/2020/11/Fiche-3-Patrimoine-VF.pdf", used_for: [grading, statistics]}
-- {id: wm-nhs-2011, citation: "Parks Canada, Westmount District National Historic Site of Canada (designated 19 July 2011; period 1890–1930; 2.5 km²), Statement of Significance and character-defining elements.", url: "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13040", used_for: [types, protection]}
-- {id: gubbay-1998, citation: "Aline Gubbay, A View of Their Own: The Story of Westmount, Price-Patterson, 1998 (ISBN 1896881106).", url: "https://westmount.org/storage/app/media/a-view-of-their-own-the-story-of-westmount-aline-gubbay-1579.pdf", used_for: [prose]}
-- {id: gubbay-hooff-1979, citation: "Aline Gubbay & Sally Hooff, Montreal's Little Mountain / La petite montagne: A Portrait of Westmount, Trillium Books, 1979 (Optimum, 1985, ISBN 0888901755).", url: null, used_for: [prose]}
-- {id: wha, citation: "Westmount Historical Association, The Westmount Historian.", url: "https://wha.quebec/", used_for: [prose]}
+- id: wm-bylaw-1305
+  citation: >-
+    Ville de Westmount, Codification administrative du Règlement 1305 sur les plans d'implantation et
+    d'intégration architecturale, adopté le 12 novembre 2001, tel que modifié par les règlements RCA
+    23020, 1381, 1399, 1412, 1432, 1454, 1495, 1526, 1548, 1574, 1606, 1640, 1647 et 1662; Annexe I
+    (39 plans de secteurs patrimoniaux, septembre 2001), Annexe II (directives « Rénover et construire
+    à Westmount », 11 livrets), Annexe III (Étude patrimoniale – Éléments caractéristiques : Bâtiments
+    de catégorie 1*). Codification non officielle — la codification porte l'avertissement suivant :
+    « Cette codification administrative n'a pas été adoptée officiellement par la Ville de Westmount…
+    il faut se reporter au règlement original et à ses modifications. » Le PDF consolidé lui-même
+    n'a pas été fourni à cette session : les articles, l'objet, les objectifs, les critères, le tableau
+    des catégories et les livrets sont transcrits du mémoire Part 5 v2, qui en donne sa propre lecture.
+  url: https://westmount.org/fr/travaux-et-urbanisme/construction-et-renovation/informations-generales-construction-renovation
+  used_for: [instruments, grading, sectors, types, conservation]
+- id: wm-bylaw-1305-annexe2-portes-fenetres
+  citation: >-
+    Ville de Westmount, « Rénover et construire à Westmount », livret 4 : Portes et fenêtres (Annexe II
+    du Règlement 1305), révisé le 6 décembre 2004, R-RCA04 23020 — points de design (4.1), portes et
+    fenêtres des bâtiments existants (4.2) et tableau 4.2.2, Remplacement des portes et fenêtres, par
+    catégorie I*/I/II/III. Held locally as sources/westmount/directive4_portes_et_fenetres.pdf; the
+    only booklet of Annexe II in hand, and the source of every conservation_fr line on the type records.
+  url: https://westmount.org/storage/app/media/travaux-et-urbanisme/construction-et-renovation/informations-generales/4portesetfenetres.pdf
+  used_for: [conservation, types]
+- id: wm-bylaw-1305-annexe3
+  citation: >-
+    Ville de Westmount, Étude patrimoniale — Éléments caractéristiques : Bâtiments de catégorie 1
+    (Annexe III du Règlement 1305), 109 pp., FR and EN editions. Its index lists every catégorie 1*
+    building by « Secteur patrimonial » number, which is the by-law's own 1–39 numbering; that index is
+    the independent corroboration used for fourteen of the sector codes in sectors.yaml.
+  url: https://westmount.org/storage/app/media/travaux-et-urbanisme/construction-et-renovation/informations-generales/hcdefr120620.pdf
+  used_for: [grading, sectors, types]
+- id: wm-evaluation-2005
+  citation: >-
+    Ville de Montréal, Évaluation du patrimoine urbain : arrondissement de Westmount, 2005 (ISBN
+    2-7647-0466-6); reproduces Ville de Westmount, Rénover et construire à Westmount : fiches
+    d'information des secteurs patrimoniaux, September 2001 — « Le texte justificatif pour chacun des
+    secteurs reproduit largement la fiche correspondante » (pp. 26, 36). The 39 sector fiches, pp.
+    26–36 of the PDF, are the source of every summary_en in sectors.yaml and of the code_eval2005
+    cross-reference.
+  url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/27_evaluation_patrimoine_wes.pdf
+  used_for: [sectors, types, phases]
+- id: wm-fiche3-2020
+  citation: >-
+    Engage Westmount / Imagine Westmount 2040, Fiche 3 — Patrimoine (category counts; 39 sectors; 4,750
+    dwellings ≈ 61 % pre-1945; Beaupré & Michaud 1988).
+  url: https://engage.westmount.org/wp-content/uploads/2020/11/Fiche-3-Patrimoine-VF.pdf
+  used_for: [grading, statistics]
+- id: wm-nhs-2011
+  citation: >-
+    Parks Canada, Westmount District National Historic Site of Canada (designated 19 July 2011; period
+    1890–1930; 2.5 km²), Statement of Significance and character-defining elements.
+  url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13040
+  used_for: [types, protection]
+- id: gubbay-1998
+  citation: "Aline Gubbay, A View of Their Own: The Story of Westmount, Price-Patterson, 1998 (ISBN 1896881106)."
+  url: https://westmount.org/storage/app/media/a-view-of-their-own-the-story-of-westmount-aline-gubbay-1579.pdf
+  used_for: [prose]
+- id: gubbay-hooff-1979
+  citation: >-
+    Aline Gubbay & Sally Hooff, Montreal's Little Mountain / La petite montagne: A Portrait of
+    Westmount, Trillium Books, 1979 (Optimum, 1985, ISBN 0888901755).
+  url: null
+  used_for: [prose]
+- id: wha
+  citation: Westmount Historical Association, The Westmount Historian.
+  url: https://wha.quebec/
+  used_for: [prose]

@@ -16,6 +16,20 @@
     </div>
   </div>
 </div></header>
+{% if pl.governing_instruments %}
+<section class="notes" id="instruments"><div class="wrap">
+  <div class="kicker">What protects these buildings</div>
+  <p>The instruments that actually govern change here, in the order the place record lists them. A design-review programme (PIIA) judges appearance and integration; a <em>classement</em>, <em>citation</em> or <em>declaration</em> protects a named building or a defined territory under the <em>Loi sur le patrimoine culturel</em>; an inventory records without protecting. They are not interchangeable, and a place can have several or none.</p>
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Kind</th><th>Year</th><th>Instrument</th></tr></thead>
+    <tbody>{% for g in pl.governing_instruments %}
+      <tr><td><span class="chip">{{ g.kind|esc }}</span></td>
+          <td>{{ g.year if g.year is not none else "–" }}</td>
+          <td>{% if g.url %}<a href="{{ g.url }}">{{ g.title|esc }}</a>{% else %}{{ g.title|esc }}{% endif %}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</div></section>
+{% endif %}
 {% if pl.grading %}
 <section class="notes" id="grading"><div class="wrap">
   <div class="kicker">How buildings are graded</div>

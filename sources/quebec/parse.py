@@ -59,7 +59,11 @@ TITLE_RE = re.compile(r'lblTitre">(.*?)</span>', re.S)
 IMG_RE = re.compile(r'imgPhotoPrincipale"\s+src="([^"]+)"')
 SUMMARY_RE = re.compile(r'lblSommaire">(.*?)</span>\s*</p>', re.S)
 FICHE_RE = re.compile(r'href="/citoyens/patrimoine/bati/fiche\.aspx\?fiche=(\d+)">(.*?)</a>', re.S)
-MARKER_RE = re.compile(r"(?:<strong>\s*)?" + MARKER + r"\s*:?\s*(?:</strong>)?\s*:?", re.I)
+# The heading may carry a qualifier — "Éléments caractéristiques du Cottage Regency :" (tid 205),
+# "… de la Villa Regency :" (tid 206) — which belongs to the heading, not to the first bullet.
+# Only the heading that OPENS the block is stripped; a second one inside the list (tid 206 has
+# one) is a sub-head and is kept verbatim, exactly like tid 801's variant sub-heads.
+MARKER_RE = re.compile(r"(?:<strong>\s*)?" + MARKER + r"[^:<]{0,60}:?\s*(?:</strong>)?\s*", re.I)
 CREDIT_RE = re.compile(r"Illustration\s*:", re.I)
 LANDING_TID_RE = re.compile(r'href="thesaurus\.aspx\?tid=(\d+)"', re.S)
 LANDING_H1_RE = re.compile(r"<section>\s*<h1>(.*?)</h1>", re.S)
