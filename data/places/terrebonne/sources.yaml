@@ -1,0 +1,52 @@
+- id: tb-rpcq-231571
+  citation: "RPCQ, Site patrimonial du Vieux-Terrebonne (id 231571); déclaration 2026-05-20, prise d'effet 2025-07-02; description, valeur patrimoniale, éléments caractéristiques, informations historiques. Source : Ministère de la Culture et des Communications, 2026."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/detail.do?id=231571&methode=consulter&type=bien"
+  used_for: [sectors, types, phases, protection]
+- id: tb-rpcq-231571-assoc
+  citation: "RPCQ, Site patrimonial du Vieux-Terrebonne — « Patrimoine immobilier associé (225) ». All 225 records crawled 16 August 2026 and reduced to data/places/terrebonne/inventory.csv (rpcq_id, name, category, date, address, municipality, statut, statuts antérieurs, registre flag, url). Reconciles to 4 Classement — Immeuble patrimonial, 28 Citation, 149 Inventorié, 32 inscribed on the Registre."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/lightBox.do?type=immo&id=231571&typeElement=BIEN&methode=afficher"
+  used_for: [inventory, sectors, types]
+- id: tb-cpcq-2025
+  citation: "CPCQ, Projet de déclaration du site patrimonial du Vieux-Terrebonne — consultation publique (audience 10 September 2025, 18h30, amphithéâtre du collège Saint-Sacrement, 901 rue Saint-Louis; written submissions and questionnaire to 19 September 2025); « Le site patrimonial du Vieux-Terrebonne comprend environ 200 bâtiments construits à partir du XVIIIe siècle… Le site couvre 25 hectares »."
+  url: "https://cpcq.gouv.qc.ca/consultations-publiques/archivees/projet-de-declaration-du-site-patrimonial-du-vieux-terrebonne/"
+  used_for: [protection, prose]
+- id: tb-ville
+  citation: "Ville de Terrebonne, Site patrimonial du Vieux-Terrebonne; Règlement 810 (citation, 2021); Inventaire du patrimoine (Bergeron Gagnon, 2015). NOT FETCHED: terrebonne.ca answered every automated request with an HTTP 403 Cloudflare interstitial, and the Internet Archive was offline at the time of the crawl. The instrument facts drawn from this source are therefore carried from the Part 8 brief, not verified — except the citation date 2021-09-13, which is confirmed independently by the Citation statut on the associated RPCQ records."
+  url: "https://terrebonne.ca/vieux-terrebonne-patrimoine/"
+  used_for: [instruments]
+- id: tb-mrc-liste-2024
+  citation: "Ville de Terrebonne / MRC Les Moulins, « Liste des biens et immeubles figurant à l'inventaire patrimonial partiel de la MRC Les Moulins » (2024), issued for the statutory pre-1940 inventory. 10 pp.; fiches numbered 1–609, of which 104 are marked « Retirée / Résolution 13 963-04-22 »."
+  url: "https://terrebonne.ca/wp-content/uploads/2026/01/Liste-biens-immeubles-inventaire-patrimonial-2024.pdf"
+  used_for: [inventory, instruments]
+- id: tb-rpcq-92501
+  citation: "RPCQ, Maison Bélisle (id 92501), classée immeuble patrimonial 1973-10-30 with an aire de protection of the same date; 844, rue Saint-François-Xavier; « un rare témoin du noyau villageois du milieu du XVIIIe siècle »."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=92501&type=bien"
+  used_for: [types]
+- id: tb-rpcq-92502
+  citation: "RPCQ, Maison Roussil (id 92502), classée immeuble patrimonial 1972-06-28, aire de protection 1975-07-23; 870-872, rue Saint-Louis; built by and for the maître menuisier and capitaine de milice Noël-Théodore Roussil (vers 1798-1890)."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=92502&type=bien"
+  used_for: [types]
+- id: tb-rpcq-110132
+  citation: "RPCQ, Maison Alexandre et Joseph Roussil (id 110132), citée par la Ville de Terrebonne 2021-09-13; 886-888, rue Saint-Louis; « Les frères Joseph et Alexandre Roussil font construire cette maison en pierre vers 1830, tout près de celle de leur neveu, Noël-Thédore Roussil. »"
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=110132&type=bien"
+  used_for: [types]
+- id: tb-rpcq-92594
+  citation: "RPCQ, Ensemble d'immeubles patrimoniaux de l'Île-des-Moulins (id 92594), classé 1973-12-12. A provincial classement, not a national historic site."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=92594&type=bien"
+  used_for: [sectors]
+- id: tb-beaudet-2017
+  citation: "Gérard Beaudet, Comment le vieux Terrebonne est devenu le Vieux-Terrebonne : l'urbanisme face au défi patrimonial, Québec, Les Éditions GID, 2017, 225 p."
+  url: null
+  used_for: [prose]
+- id: tb-larue-2018
+  citation: "Michel Larue (dir.), Diagnostic du Vieux-Terrebonne, Ville de Terrebonne, 2018, 68 p."
+  url: null
+  used_for: [prose]
+- id: tb-continuite-60
+  citation: "Gérard Beaudet, « Terrebonne. Portrait d'un patrimoine » (p. 41-44) and « Le site historique de l'Île-des-Moulins, un second souffle » (p. 45-46); Léon Robichaud, « Terrebonne, d'hier à aujourd'hui » (p. 39-40), Continuité no 60 (1994)."
+  url: null
+  used_for: [prose]
+- id: tb-commons
+  citation: "Wikimedia Commons, Category:Site patrimonial du Vieux-Terrebonne and its subcategories. Photographs by Jeangagnon and Cantons-de-l'Est, CC BY-SA 4.0; licences verified per file through the Commons API on 16 August 2026 (sources/terrebonne/photos/commons_licences.json)."
+  url: "https://commons.wikimedia.org/wiki/Category:Site_patrimonial_du_Vieux-Terrebonne"
+  used_for: [photos]

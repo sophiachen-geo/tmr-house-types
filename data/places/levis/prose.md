@@ -128,15 +128,25 @@ RPCQ statut block, consulted directly, reads <em>Citation, Site patrimonial, Mun
 1987, not 5 November, and adds a third date that neither version of the conflict mentioned. The
 5 November figure is recorded here as unsupported rather than simply dropped.
 
-<strong>Two departures from the source material, both flagged.</strong> The Part 8 brief listed the
-<em>Autre type : Bâtiment mixte ou à vocation commerciale</em> fiche as a dwelling type to render.
-Its seven fields describe shopfronts and signage only — <em>vitrines</em>, <em>portes
-commerciales</em>, <em>corniche d'affichage</em>, <em>enseignes</em>, <em>auvents rétractables</em> —
-with no dwelling feature named, and it is one of only two of the twenty fiches that carry no
-<em>« Nombre à Lévis »</em> count, the other being the accessory-building fiche. It is recorded and
-exported here but not rendered as a card. Separately, the brief gave the maison Alphonse-Desjardins
-at 6 rue du Mont-Marie; the RPCQ record for the classed building gives 8 rue du Mont-Marie, and that
-is the address used.
+<strong>Two records the catalogue files under « Autre type » get no card here</strong>, and one that
+nearly joined them does. The accessory-building fiche and <em>Rationalisme industriel</em> describe
+sheds, barns and factories, and are recorded and exported but not rendered. The
+<em>Bâtiment mixte ou à vocation commerciale</em> fiche is rendered, on reflection: all seven of its
+fields describe the commercial ground floor — <em>vitrines</em>, <em>portes commerciales</em>,
+<em>corniche d'affichage</em>, <em>enseignes</em>, <em>auvents rétractables</em> — and none describes
+the dwellings on the two or three storeys above, but that is how a mixed-use fiche is normally
+written. The shopfront is what distinguishes the type; the flats over it are what it shares with the
+rest of the street. The same form carries a card at Gatineau and at Trois-Rivières on this site, and
+the City's own walking-tour brochure says of the édifice Laurentien that it <em>« jumelle aujourd'hui
+les vocations commerciale et résidentielle »</em>. Its profile therefore carries the street level and
+is silent above it — the fiche's silence, not the building's.
+
+<strong>Two corrections to the brief.</strong> It marked <em>Beaux-arts</em> as conditional, to be
+encoded only if the fiche shows houses; it does — a two-storey dwelling with a covered veranda,
+quoins and a modillion cornice, with examples at 150 Wolfe, 108 du Passage, 69 Saint-Louis and
+55 Bégin — so it is encoded as a house. And the brief gave the maison Alphonse-Desjardins at 6 rue du
+Mont-Marie; the RPCQ record for the classed building gives 8 rue du Mont-Marie, and that is the
+address used.
 
 <strong>No photographs are reproduced.</strong> The City's conditions d'utilisation, read before any
 image was handled, state that <em>« Il vous est interdit de copier ou de publier, pour rediffusion à

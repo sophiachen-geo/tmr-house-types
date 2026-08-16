@@ -304,7 +304,7 @@ courant(1, slug="vernaculaire-americain", name_en="American vernacular house",
         origin="The workers' house of the industrial south shore, and the plainest demonstration of what the catalogue is for — one form accounting for more than a third of the 4,000-odd heritage buildings the City counts. The diamond-pattern asbestos-cement tile the fiche names as a cladding is the same material it lists for Boomtown, and marks the interwar re-skinning of both.")
 
 courant(12, slug="batiment-mixte", name_en="Mixed-use or commercial building",
-        phase="p3", phase_confidence="provisional", is_residential=False,
+        phase="p3", phase_confidence="provisional",
         canonical=["mixed-use-flat-roof-block"], styles=["boomtown"],
         tenure_plan="mixed", storeys="2–3", roof_form="flat-or-low-slope",
         roof_pitch=None, window_proportion=None, cladding=["clay-brick"],
@@ -319,8 +319,8 @@ courant(12, slug="batiment-mixte", name_en="Mixed-use or commercial building",
             "Ornementation": "Modillion cornice, decorative woodwork.",
         },
         blurb="The main-street block of the côte du Passage and the avenue Bégin: two or three storeys of brick, flat-roofed or shallow-gabled, with shop windows and transomed commercial doors below and a signage cornice, signs and retractable awnings above.",
-        origin="The second of the catalogue's two « Autre type » entries and, like the first, one of only two of the twenty that carry no « Nombre à Lévis » figure. Every one of its seven fields describes commerce — vitrines, portes commerciales, corniche d'affichage, enseignes, auvents rétractables — with no dwelling feature named, so it is recorded and exported but gets no card. The City's walking-tour brochure notes that the édifice Laurentien on rue Guenette « jumelle aujourd'hui les vocations commerciale et résidentielle », which is the mixed use the name promises.",
-        profile_note_extra="Not encoded as a dwelling: the fiche's seven fields describe shopfronts and signage only, and the catalogue files this entry under « Autre type ». Recorded and exported, but not rendered as a type card. This departs from the Part 8 brief, which listed it « yes, mixed-use »; see the place notes.")
+        origin="The second of the catalogue's two « Autre type » entries, and one of only two of the twenty carrying no « Nombre à Lévis » figure. All seven of its fields describe the commercial ground floor — vitrines, portes commerciales, corniche d'affichage, enseignes, auvents rétractables — and none describes the dwellings above, which is how a mixed-use fiche is normally written: the shopfront is what distinguishes the type, the flats over it are what it has in common with everything else on the street. The City's walking-tour brochure says of the édifice Laurentien on rue Guenette that it « jumelle aujourd'hui les vocations commerciale et résidentielle », which is the mixed use the name promises.",
+        profile_note_extra="The fiche describes the commercial ground floor only — shopfronts, transoms, signage — and says nothing about the dwellings on the two or three storeys above it. The columns therefore carry the street level and are silent above it, which is the fiche's silence, not the building's.")
 
 courant(15, slug="beaux-arts", name_en="Beaux-Arts house",
         phase="p4", phase_confidence="verified",
@@ -515,10 +515,10 @@ def main():
 
         # siting: the catalogue's own "Nombre à Lévis" distribution figure
         if count is not None:
+            n = f"{count:,}".replace(",", " ")     # narrow no-break space, as Québec sets it
             prof["siting_landscape"].append(
-                f"The City counts {'about ' if approx else ''}{count:,} buildings of this "
-                f"current across the merged territory of Lévis (fiche, « Nombre à Lévis »)."
-                .replace(",", " "))
+                f"The City counts {'about ' if approx else ''}{n} buildings of this current "
+                f"across the merged territory of Lévis (fiche, « Nombre à Lévis »).")
         else:
             prof["siting_landscape"].append(
                 "The fiche gives no « Nombre à Lévis » figure for this entry — one of only "

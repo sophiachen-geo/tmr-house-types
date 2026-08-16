@@ -1,0 +1,76 @@
+id: terrebonne.maison-cossue-saint-louis
+place: terrebonne
+phase: p3
+phase_confidence: provisional
+name_en: Maison cossue of rue Saint-Louis
+name_fr: La maison cossue de la rue Saint-Louis
+source_ref: RPCQ, Site patrimonial du Vieux-Terrebonne (id 231571), MCC 2026
+source_generation: site-level éléments caractéristiques + named classed examples
+sectors: [UP-4]
+canonical:
+- maison-cossue-ornamented
+styles:
+- victorian-eclectic
+- second-empire
+style_label: null
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- stone
+- clay-brick
+- wood
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Strung along the winding course of rue Saint-Louis, which forms the sector's spine.
+  - Relatively deep front setbacks and generous side setbacks.
+  - Front yards bounded by fences of traditional make.
+  - Mature deciduous trees on lawn in the front yard, with rows of large deciduous trees along the street edge.
+  - Old residential outbuildings, often harmonised with the houses.
+  - The ruelle des Anges runs along the boundary between two properties.
+  - The steep wooded riverbank closes the sector to the south.
+  massing: []
+  articulation:
+  - "\"à l'ornementation élaborée\" — the declaration says only that the ornament is elaborate, and names
+    no motif, order or feature. Nothing further is claimed here."
+  openings: []
+  materials:
+  - Stone or brick masonry, or wood cladding.
+  - Tin roofing.
+profile_note: The declaration characterises sectors, not building types; the columns below carry only what
+  the sector text and the individual classed fiches state. Per-building attributes exist in the Bergeron
+  Gagnon 2015 inventory and the 225 associated RPCQ records — see Part 8b.
+blurb_en: The merchants' house of the crest — stone or brick, sometimes wood, under a tin roof, standing
+  well back from rue Saint-Louis in a fenced and planted front yard with its old outbuildings beside it,
+  and ornamented, the declaration says, elaborately. It is the only one of the four types here whose
+  record rests on the sector paragraph alone, with no classed building behind it, which is why its styles
+  are provisional and its massing and openings rows are empty.
+origin_en: A migration, and a datable one. The RPCQ's fiche for the maison Roussil explains that the
+  building of the second manor at the site of today's parc Masson at the end of the eighteenth century
+  "entraîne une migration de la bourgeoisie vers la rue Saint-Louis. Plusieurs résidences cossues en pierre
+  ou en bois sont alors érigées le long de cette artère." The fur merchants McTavish attracted after 1802
+  began it; the francophone business élite that followed Joseph Masson's purchase of the seigneury in 1832
+  continued it; and the street kept filling through the nineteenth century, which is why the surviving
+  houses on it run from the maison Joseph-Augé of 1798–1801 through the maison Roussil of about 1830 to
+  the maison Hercule-Masson of about 1880–1900, the maison Louis-de-Gonzague-Masson of about 1896 and the
+  maison Raymond-Masson of about 1910–1935. Rue Saint-Louis carries 44 of the site's 225 associated RPCQ
+  records, more than any other street.
+photos:
+- file: assets/places/terrebonne/930-rue-saint-louis-commons.jpg
+  credit: 'Maison Louis-de-Gonzague-Masson, 930, rue Saint-Louis, Terrebonne (2021) — RPCQ id 232867,
+    built about 1896, restored 2019; one of the maisons cossues of unité de paysage UP-4, set back behind
+    a planted and fenced front yard. Photograph © Jeangagnon, Wikimedia Commons, CC BY-SA 4.0.
+    https://commons.wikimedia.org/wiki/File:930,_rue_Saint-Louis,_Terrebonne.jpg
+    Address match: 930 rue Saint-Louis is one of the 225 RPCQ records associated with the declared site.
+    Illustrative of the sector, not of a type the source defines — the declaration names no maison cossue
+    type and this house is not among the four classed immeubles.'
+  kind: single

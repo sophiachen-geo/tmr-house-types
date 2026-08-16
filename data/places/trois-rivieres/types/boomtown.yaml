@@ -1,0 +1,214 @@
+id: trois-rivieres.boomtown
+place: trois-rivieres
+phase: p5
+phase_confidence: verified
+display_order: 4
+name_en: Boomtown house
+name_fr: La maison Boomtown
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: city-wide courant fiche (web summary + fiche complète), cross-read against the declared-site texts
+courant: Boomtown
+source_url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Boomtown.pdf
+sectors: [QO, SP-TR]
+aliases: [boomtown]
+canonical:
+- boomtown-false-front
+styles:
+- boomtown
+- vernaculaire-industriel
+tenure_plan: mixed
+storeys: "2"
+roof:
+  form: flat-or-low-slope
+  pitch_deg: 15
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+roofing: low-slope tin, then tar-and-membrane flat roof
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Little raised above the ground.
+  - Found in numbers in the village cores and also isolated in the countryside; in the city, spread through the
+    quartiers Saint-Philippe, Sainte-Cécile and Notre-Dame in the late nineteenth and early twentieth centuries, and
+    through the oldest quarters of Cap-de-la-Madeleine.
+  - Developers often chose party-wall, semi-detached or three-storey models to make more of urban land whose cost kept
+    rising.
+  - Inside the declared site, the Plan de conservation finds "des maisons ouvrières en brique à deux niveaux de type
+    boomtown ornées sobrement" among the buildings raised from the end of the nineteenth century in the îlots
+    résidentiels.
+  massing:
+  - Cubic or rectangular volume, generally of two storeys.
+  - Flat roof, or of low pitch falling to the rear.
+  - The plan is generally modest and may be larger or smaller; two contiguous dwellings are not uncommon.
+  - Few projections apart from a gallery under an awning, or a balcony at the upper floor.
+  - The projections are often a large gallery running the whole width of the main façade, with a balcony above on the
+    central third of the independent awning that shelters it; cast-iron railings — the "fers de galerie" popular in the
+    second half of the nineteenth century — are frequent.
+  articulation:
+  - Ornament concentrated in the upper part of the façade, by way of a cornice, a parapet or brick patterning.
+  - Other, discreet ornament — chambranles, corner boards, brick flat arches.
+  - Because the roof becomes invisible, its presence is replaced by ornamental work in the form of a cornice or a
+    parapet — the raised front that gives the form its name.
+  - Some parapets end in steps on the side elevations, following the roof's fall to the rear; some carry
+    amortissements; some carry fine curved cornices or cornices on paired consoles.
+  - Some examples are sober and stripped; others take the eclectic decoration of the Victorian period comfortably,
+    and a few carry the rare curb of a false Second Empire mansard.
+  openings:
+  - Regular, symmetrical distribution of openings.
+  - Casement windows with large panes, and possibly small attic-space windows.
+  - The windows are of vertical proportion throughout and may carry louvred shutters.
+  - A great variety of small windows for ventilating the attic space, pierced in the high clear front of these houses,
+    gives them a definite interest — and in Trois-Rivières they take diamond and other particular shapes that the
+    City's own inventory calls a local peculiarity, little found elsewhere in Québec.
+  materials:
+  - Cladding of wood clapboard or of brick — "parfois revêtue de bois, souvent bâtie en brique".
+  - Later industrialisation of processes brought tar paper, slate-surfaced bituminous felt (papier-brique) and
+    asbestos-cement shingle, available in several shapes.
+  - Inside the declared site the boomtown examples are brick.
+profile_fr:
+  contexte:
+  - "Le phénomène de la standardisation des matériaux et de la mécanisation du travail a permis de mettre au point,
+    aux États-Unis puis au Canada, de nouveaux modes de charpente à claire-voie aussi appelée « Balloon Frame » qui,
+    à l'aide de madriers sciés, accélèrent considérablement le processus de construction. L'introduction de ce mode de
+    construction qualifié d'« American Boomtown », coïncide avec la croissance rapide de la ville et son essor
+    démographique important. Cette architecture s'est développée surtout après la crise économique de 1870. Elle
+    constitue alors une option de construction à la fois économique et rapide dans les villes-champignons à forte
+    croissance industrielle. L'architecture Boomtown constitue un courant propre à l'architecture domestique et
+    commerciale."
+  - "La nouvelle venue coexiste d'abord avec les maisons villageoises de tradition québécoise et à mansarde avant de
+    les supplanter au tournant du 20e siècle. S'il s'en trouve partout au Québec, Trois-Rivières offre une
+    concentration suffisante pour la faire apparaître comme caractéristique de la ville. Elles se retrouvent en bon
+    nombre dans les noyaux villageois, mais également isolées en milieu rural. Parfois revêtue de bois, souvent bâtie
+    en brique, la maison Boomtown possède à ses débuts des toitures à faible pente vers l'arrière, dit à égout
+    extérieur, dont la pente peut atteindre 15 degrés."
+  - "Plus tard, avec l'arrivée des membranes étanches, ces maisons adoptent le toit plat, dit à bassin ou à égout
+    intérieur. Étant donné que le toit devient invisible, sa présence est remplacée par des ouvrages ornementaux sous
+    forme de corniche ou de parapet."
+  volumetrie:
+  - "Volume cubique ou rectangulaire, généralement de deux étages, peu dégagé du sol"
+  - "L'architecture Boomtown se caractérise par sa volumétrie : les résidences s'élèvent toujours sur deux étages et
+    sont coiffées d'un toit plat ou à faible pente. Le plan généralement modeste peut être plus ou moins grand. Il
+    n'est pas rare de voir deux logements contigus. Les ouvertures sont habituellement disposées avec régularité et
+    symétrie."
+  toiture:
+  - "Toiture plate ou à faible pente vers l'arrière"
+  saillies:
+  - "Peu de saillies à l'exception d'une galerie protégée d'un auvent ou d'un balcon à l'étage"
+  - "Les saillies sont souvent constituées d'une grande galerie, courant sur toute la façade principale, et d'un balcon
+    à l'étage, sur le tiers central de l'auvent indépendant, protégeant ainsi la galerie. Il est fréquent de voir un
+    garde-corps en fonte, ces « fers de galerie » populaires dans la deuxième moitié du 19e siècle."
+  revetements:
+  - "Parement en déclin de bois ou en brique"
+  ouvertures:
+  - "Distribution régulière des ouvertures"
+  - "Fenêtres à battants à grands carreaux et présence possible de petites fenêtres de comble"
+  - "La section de la façade correspondant à l'espace de l'entretoit est souvent percée de petites fenêtres de forme
+    particulière ou losangée. Ces ouvertures, servant à l'aération ou à l'éclairage du grenier, sont une particularité
+    de l'architecture trifluvienne que l'on retrouve peu ailleurs au Québec."
+  ornementation:
+  - "Ornementation concentrée dans la partie supérieure de la façade au moyen d'une corniche, d'un parapet ou de jeux
+    de briques"
+  - "Autres éléments d'ornementation discrets : chambranles, planches cornières, platebandes en brique, etc."
+  - "les maisons de style « boomtown » (caractérisées par un volume cubique, une maçonnerie de brique, une élévation
+    de deux étages, un toit plat incliné vers l'arrière et une corniche ornementée)"
+  sous_variantes:
+  - "Certaines résidences présentent de beaux parements de planches de bois, d'autres sont en brique. Par la suite,
+    l'industrialisation des procédés entraîne la création de matériaux tels que le papier goudronné, le matériau à base
+    de feutres bitumineux à surface ardoisée (papier-brique) et le bardeau-d'amiante ciment, lequel est disponible en
+    plusieurs formes."
+  - "Dans tous les cas, les fenêtres sont de proportions verticales et elles peuvent être dotées de persiennes. Une
+    grande variété de petites fenêtres pour la ventilation des entretoits, ou combles, percées dans le haut front
+    dégagé de ces maisons, leur confère un intérêt certain."
+  - "Si certaines sont sobres et dépouillées d'ornement, d'autres s'accommodent fort bien du décor éclectique de
+    l'époque victorienne. On y trouve aussi quelques rares brisis de fausses mansardes Second Empire. De belles
+    corniches cintrées ou à consoles jumelées agrémentent quelques parapets."
+profile_note: >-
+  Encoded from the City's Boomtown fiche in both its published forms — the summary on the Patrimoine architectural page
+  and the fuller "fiche complète" PDF — with the declared-site wording added from the RPCQ and the Plan de conservation,
+  and the attic-window passage from the Patri-Arch Synthèse. Two small differences between the City's own two versions
+  are left visible rather than harmonised. The web page's bullet reads "petites fenêtres de comble" where the PDF reads
+  "petites fenêtres d'entretoit", and the PDF's caption for 634 rue des Ursulines says "fenêtres d'entretoit en forme
+  de losange" where the page says "fenêtres de comble". Both are quoted above as they stand. The roof pitch of 15
+  degrees is the fiche's stated maximum for the early sloped version, not a typical value; the later version is flat.
+conservation_fr:
+- "Il convient d'éviter l'ajout d'annexes au corps du bâtiment, brimant alors le volume simple et cubique du bâtiment
+  Boomtown. Le surhaussement exagéré du volume modeste lors du creusage d'un sous-sol, ou le changement de profil du
+  toit effectué par l'ajout de fermes préfabriquées constituent d'autres transformations qui altèrent grandement
+  l'intégrité."
+- "Les fenêtres doivent être remplacées dans leur baie du modèle d'origine, et ce, sans modification de leurs
+  dimensions, sans élargissement excessif surtout, en conservant, le cas échéant, leur imposte dans le tiers supérieur.
+  Il est recommandé de conserver ces charmantes ouvertures pour la ventilation de l'entretoit au lieu de les doter de
+  dérisoires et minuscules évents à lames, après les avoir obturées ; plus encore, il faut éviter de les supprimer.
+  Quant aux volets factices, ils sont à proscrire."
+- "Quelques-unes de ces maisons souffrent de la prolifération de matériaux qui leur ont été appliqués lors
+  d'interventions répétées. Or, il suffit de profiter de la prochaine rénovation pour leur redonner une simplicité
+  exemplaire."
+- "Le papier goudronné et le bardeau d'amiante-ciment n'étant plus disponibles sur le marché, plusieurs propriétaires
+  se retrouvent en mauvaise posture. Des réparations peuvent être effectuées sur les parties plus visibles à même des
+  matériaux prélevés sur les parties moins visibles, mais pour le reste, les remplacements doivent se faire avec des
+  parements légers, tels le bois ou le fibro-ciment."
+- "Le revêtement de crépi (stuc ou acrylique) est à déconseiller, car il masque tous les éléments traditionnels d'un
+  bâtiment."
+conservation:
+- 'Avoid: adding annexes to the body of the building, which cramps the simple cubic volume of the Boomtown house.
+  Exaggerated raising of the modest volume when a basement is dug, and changing the roof profile by adding
+  prefabricated trusses, are two further transformations that greatly damage its integrity.'
+- 'Prefer: replace windows within their original bays, to the original model, without changing their dimensions and
+  above all without widening them, keeping any transom in the upper third.'
+- 'Prefer: keep the attic-ventilation openings. Do not block them up and fit derisory little louvred vents in their
+  place, and above all do not remove them. False shutters are to be banned.'
+- 'Prefer: where a house has suffered a proliferation of materials applied over repeated interventions, use the next
+  renovation to give it back an exemplary simplicity.'
+- 'Prefer: since tar paper and asbestos-cement shingle are no longer on the market, repairs may be made to the more
+  visible parts using material taken from the less visible ones; otherwise, replace with light claddings such as wood
+  or fibre-cement.'
+- 'Avoid: roughcast render (stucco or acrylic), which masks every traditional element of a building.'
+related_buildings:
+- name: "Maison Philippe-Verrette, 732-734 rue Saint-François-Xavier — classed; two contiguous dwellings, marrying the Boomtown model to wood ornament drawn from Victorian eclecticism."
+  url: https://commons.wikimedia.org/wiki/Category:Maison_Philippe-Verrette
+- name: "1720 rue Bellefeuille — a typical single-family Boomtown house that has kept its massing, its wood board cladding, its large-paned casement windows and its wood ornament."
+  url: null
+- name: "634 rue des Ursulines — diamond-shaped attic windows, a worked cornice and a worked gallery."
+  url: null
+- name: "391 rue de la Fabrique — built 1934, representative and well preserved, with a parapet that ends in steps on the side elevations to follow the roof's fall to the rear."
+  url: null
+- name: "546 rue Notre-Dame Est — a flat-roofed duplex of 1928 taking up the Boomtown characteristics, with a brick parapet ornamented with amortissements."
+  url: null
+- name: "863 rue des Ursulines — erected 1901, with ornament borrowed from the eclectic fashion, notably at its crown."
+  url: null
+- name: "153 rue Saint-François-Xavier — the three-storey variant."
+  url: null
+- name: "476-478 rue Niverville — two contiguous dwellings, fanciful attic vents, a cornice with dentils and consoles, and carved woodwork on the gallery."
+  url: null
+blurb_en: >-
+  Two storeys, a flat roof or one falling gently to the rear, and a front wall carried up past it into a cornice or a
+  parapet so the building looks taller from the street than it is from the lane. Balloon-framed, so it went up fast;
+  clapboard or brick; a big gallery across the front under an independent awning, with a balcony on its middle third
+  and cast-iron railings. Trois-Rivières has enough of them, the City says, for the form to count as characteristic of
+  the city — and the small diamond attic vents punched into the high clear front are a trifluvien signature the
+  inventory says is little found elsewhere in Québec.
+origin_en: >-
+  The form is one of the strongest comparisons this site can make, because six independent municipalities describe it
+  in their own words and the descriptions agree. Follow `boomtown-false-front` in the canonical layer to reach them —
+  Québec City's thésaurus node tid 502, the flat-roofed types of the Ville de Gatineau's 2023 fiches, Saint-Lambert's
+  two Boomtown fiches, the Ville de Lévis's styles-architecturaux fiche idfiche 10 ("1 à 2 étages… toiture plate ou à
+  très faible pente vers l'arrière… parapet ou corniche, galerie couverte"), and this record. Every one of them
+  arrives at the same building from a different municipal vocabulary. The mechanism is the same everywhere: balloon
+  framing and sawn planks made construction fast and cheap after the crisis of 1870, and the boom towns of rapid
+  industrial growth took it up for houses and shops alike. In Trois-Rivières it first coexisted with the maison
+  villageoise de tradition québécoise and the mansard house, supplanted both at the turn of the twentieth century, and
+  was in turn supplanted by the plex in the 1920s.
+photos:
+- file: assets/places/trois-rivieres/maison-philippe-verrette-732-saint-francois-xavier-commons.jpg
+  credit: >-
+    Maison Philippe-Verrette, 732 rue Saint-François-Xavier, Trois-Rivières (September 2012) — classed as an immeuble
+    patrimonial; the City's own Boomtown fiche describes it as two contiguous dwellings marrying the Boomtown model to
+    wood ornament from Victorian eclecticism. © Fralambert, Wikimedia Commons, CC BY-SA 3.0 —
+    https://commons.wikimedia.org/wiki/File:Maison_Philippe-Verrette_01.JPG
+  kind: single

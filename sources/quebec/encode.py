@@ -1411,10 +1411,14 @@ T[808] = dict(
         articulation=[
             "The horizontal treatment of the architecture is what is kept through every variant of the model.",
         ],
-        openings=[],
+        openings=[
+            "The fiche's bullet list names no openings — it runs to four bullets only, on composition, volumes, frame and projections; what follows is from its prose.",
+            "These residences, often designed by an architect, take advantage of the site they are set on by maximising the views over the landscape or getting the best possible sunlight.",
+            "They take unusual forms fitted to the interior spaces.",
+        ],
         materials=[
             "Wood frame.",
-            "The houses present various materials.",
+            "These houses may present various materials, usually natural ones, arranged together.",
         ]),
     blurb_en=(
         "Wright's long low horizontal house, worked down from wealthy clients to suburban builders across North "

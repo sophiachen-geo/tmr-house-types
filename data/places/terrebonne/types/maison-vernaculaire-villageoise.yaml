@@ -1,0 +1,67 @@
+id: terrebonne.maison-vernaculaire-villageoise
+place: terrebonne
+phase: p3
+name_en: Small-gabarit vernacular village house of the Bas-de-la-Côte
+name_fr: La maison vernaculaire villageoise du Bas-de-la-Côte
+source_ref: RPCQ, Site patrimonial du Vieux-Terrebonne (id 231571), MCC 2026
+source_generation: site-level éléments caractéristiques + named classed examples
+sectors: [UP-1]
+canonical:
+- bourg-vernacular-house-small
+styles:
+- faubourg-vernacular
+style_label: null
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- wood
+- clay-brick
+roofing: sheet-metal-traditional
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Set on relatively straight, narrow public streets forming an orthogonal grid.
+  - Minimal front setbacks, producing "un fort encadrement urbain" — a hard, continuous street wall.
+  - Plain and limited front-yard treatment; no ornamental planting is claimed by the source.
+  - The ground falls away from rue Saint-Louis down towards the river, so the street wall steps down the slope.
+  - The ruelle du Passant links rues Sainte-Marie and Saint-André through the block.
+  massing:
+  - Small in gabarit in both height and width — the declaration's only dimensional statement about them.
+  - Wood galleries and balconies of traditional make project over the street.
+  articulation:
+  - Buildings set at street intersections carry distinguishing architectural detail, notably angled corner doors.
+  openings: []
+  materials:
+  - Wood cladding or brick masonry.
+  - Tin roofing.
+profile_note: The declaration characterises sectors, not building types; the columns below carry only what
+  the sector text and the individual classed fiches state. Per-building attributes exist in the Bergeron
+  Gagnon 2015 inventory and the 225 associated RPCQ records — see Part 8b.
+blurb_en: The ordinary house of the Bas-de-la-Côte, and by count the commonest thing in the declared site
+  — small in height and width, wood or brick under a tin roof, set almost on the street line so that the
+  row of them makes a continuous urban wall, with wooden galleries and balconies over the footway and an
+  angled door where a house turns a corner. The declaration names no storey count, roof form or window
+  type for it, so neither does this record.
+origin_en: The bourg's fabric rather than any one architect's product. Louis Lepage de Sainte-Claire began
+  conceding urban lots from 1720, and by 1781 the village counted more than sixty dwellings; the grid of
+  narrow streets dropping from rue Saint-Louis to the rivière des Mille-Îles was laid out before 1850 and
+  filled with modest houses for the artisans, tradespeople and workers who served the mills and, later, the
+  grain and fur trades. The RPCQ's valeur architecturale calls the result "un ensemble de résidences
+  villageoises de petit gabarit et d'architecture vernaculaire". A fire ravaged part of Terrebonne in 1922,
+  destroying most of the houses between rues Sainte-Marie and Chapleau south of rue Saint-Pierre, so what
+  stands in that stretch is in part post-1922 rebuilding on the old lot pattern.
+photos:
+- file: assets/places/terrebonne/222-224-rue-sainte-marie-commons.jpg
+  credit: '222-224, rue Sainte-Marie, Terrebonne (2022) — a small-gabarit village house in the
+    Bas-de-la-Côte, RPCQ id 238773, built 1860. Photograph © Cantons-de-l''Est, Wikimedia Commons,
+    CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Terrebonne,_Quebec_-_222-224_rue_Sainte-Marie_-_1.jpg
+    Address match: the RPCQ record for this address is one of the 225 associated with the declared site.'
+  kind: single

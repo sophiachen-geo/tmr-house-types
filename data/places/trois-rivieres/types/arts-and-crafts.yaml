@@ -1,0 +1,188 @@
+id: trois-rivieres.arts-and-crafts
+place: trois-rivieres
+phase: p5
+phase_confidence: provisional
+display_order: 7
+name_en: Arts & Crafts house
+name_fr: La résidence Arts & Crafts
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: city-wide courant fiche (web summary + fiche complète)
+courant: Arts & Crafts
+source_url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Arts-et-Crafts.pdf
+sectors: null
+canonical:
+- complex-gable-roof-house
+styles:
+- arts-and-crafts
+- craftsman
+tenure_plan: single-family
+storeys: "1.5–2"
+roof:
+  form: gabled-multi
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- wood-shingle
+- stucco
+- clay-brick
+- stone
+roofing: cedar shingle, or sheet metal
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - First taken up by the anglophone elite, so unsurprisingly found among the residences of the directors of large
+    companies — as at the place Freeman, formerly terrasse Saint-Maurice, which was reserved for the bosses of the
+    Saint-Maurice Paper Company. Thereafter the architecture influenced every layer of society until the Second World
+    War.
+  - Where several stand together they can form ensembles whose forms marry to one another, avoiding the repetition of
+    a single base model.
+  massing:
+  - Generally imposing volume on an articulated plan; the volume, however modest, is dynamically articulated.
+  - Roofs of varied form with slopes of unequal length, and prominent chimneys.
+  - Sheltered exterior spaces — perrons, galleries, terraces.
+  - Coquettish little houses with roofs of unequal pitch, important chimneys and varied fenestration piercing walls of
+    brick, stucco or cedar shingle.
+  articulation:
+  - Ornament often limited to the elements of the frame — half-timbering, exposed rafters.
+  - Every case is unique and has its own characteristics.
+  - Cedar shingle used in the railings of gallery-porches, or as cladding, is a second distinguishing element to keep.
+  openings:
+  - Numerous and diverse openings, with paired windows and dormers.
+  materials:
+  - Natural and traditional materials — stone, brick, stucco, cedar shingle, wood boards — sometimes combined with
+    one another.
+profile_fr:
+  contexte:
+  - "Au tournant du 19e siècle, en Angleterre, la société traditionnelle subit des transformations majeures en raison
+    de l'industrialisation. C'est alors qu'apparaissent des mouvements de pensée en réaction contre cette perte de la
+    structure sociale traditionnelle, des mœurs, de la religion et de la ville. Ce mouvement et celui de la cité-jardin,
+    véritable révolution urbanistique de la fin du 19e siècle, convergent. On veut remplacer les quartiers d'habitation
+    ouvrière sordides par de nouveaux, planifiés selon des principes humanistes."
+  - "Pour apprécier l'architecture du courant Arts & Crafts, il faut remonter aux théories du critique d'art John Ruskin
+    (1819-1900) et de l'artiste et écrivain William Morris (1834-1896), tous deux Britanniques. Ils proposent de
+    s'inspirer de l'artisanat et de l'habitation de la campagne anglaise afin de créer une architecture qui s'inscrive
+    dans la tradition nationale. Le retour au travail manuel, l'usage de matériaux traditionnels ainsi que le recours
+    aux savoir-faire locaux sont valorisés pour faire obstacle à la standardisation."
+  - "Si les réalisations du mouvement sont largement diffusées, son idéologie demeure mal comprise. Ainsi, en Amérique,
+    le mouvement Arts & Crafts devient essentiellement un mouvement stylistique, sans portée sociale. D'abord adopté par
+    l'élite anglophone, il n'est pas surprenant de retrouver quelques exemples de ce style pour les résidences de
+    dirigeants de grande compagnie, comme c'est le cas à la place Freeman (ancienne terrasse Saint-Maurice) qui était
+    réservée aux patrons de la Saint-Maurice Paper Company. Ensuite, cette architecture a eu une influence dans toutes
+    les couches de la société jusqu'à la Seconde Guerre mondiale."
+  volumetrie:
+  - "Volume généralement imposant au plan articulé"
+  - "En général, l'architecture du mouvement Arts & Crafts est exclusivement réservée à la construction résidentielle.
+    Ces constructions prennent l'allure de coquettes maisonnettes aux toits à pentes inégales, aux cheminées
+    importantes, à la fenestration variée perçant les murs de brique, de stuc ou de bardeau de cèdre. Le volume de ces
+    maisons, malgré sa modestie, n'en est pas moins articulé de façon dynamique. Lorsqu'elles sont regroupées, ces
+    maisons peuvent constituer des ensembles aux formes se mariant les unes aux autres, évitant la répétition d'un
+    modèle de base."
+  toiture:
+  - "Toitures de formes variées à versants de longueurs inégales, présence de cheminées"
+  saillies:
+  - "Espaces extérieurs protégés (perrons, galeries, terrasses)"
+  ouvertures:
+  - "Ouvertures nombreuses et diversifiées, présence de fenêtres jumelées et de lucarnes"
+  revetements:
+  - "Utilisation de matériaux naturels et traditionnels (pierre, brique, stuc, bardeau de cèdre, planches de bois),
+    parfois combinés entre eux"
+  ornementation:
+  - "Ornements souvent limités aux éléments de la charpente (colombages, chevrons apparents)"
+  - "Chaque cas est unique et possède ses propres caractéristiques"
+  sous_variantes:
+  - "Les résidences ainsi érigées peuvent prendre des formes diverses selon qu'elles se rapprochent davantage d'une des
+    principales variantes. Celles s'inspirant du « Stick Style » se démarquent par la présence des structures à
+    colombages et des chevrons et consoles soutenant la toiture."
+  - "Le « Shingle Style », de son côté, se distingue par ses toits enveloppants, souvent à croupes ou à demi-croupe,
+    percés de lucarnes, ses murs généralement revêtus de bardeau de bois, ses nombreuses fenêtres et ses espaces
+    extérieurs protégés."
+  - "Le bungalow « Craftsman » propose un volume compact, d'un étage et demi avec toit à deux versants se prolongeant
+    au-dessus d'une importante galerie. Les maisons de style Arts & Crafts présentent des plans bien articulés, des
+    toitures imposantes aux versants inégaux laissant voir les chevrons et des fenêtres nombreuses et variées."
+profile_note: >-
+  Encoded as a seventh record because the City's own material warrants it. The brief that commissioned this place
+  quoted a single caption — "Résidence Arts & Crafts reconnaissable par ses jeux de toitures et son revêtement de
+  bardeau de cèdre. 11, place Freeman" — and made the record conditional on the page giving more. It gives a great deal
+  more: seven "Caractéristiques architecturales du courant" bullets, four paragraphs of historique, a Variantes section
+  distinguishing Stick Style, Shingle Style and the Craftsman bungalow, a Conservation section, and nine captioned
+  addresses. The phase is provisional: the City's page gives no date range for this courant, and p5 is inferred from
+  the fiche's own framing — the movement reaching every layer of society "jusqu'à la Seconde Guerre mondiale", the
+  place Freeman houses belonging to the Saint-Maurice Paper Company era, and the catalogues popularising the tendencies
+  "durant toute la première moitié du 20e siècle". Not characterised in the declared-site texts, so `sectors` is empty.
+  The canonical form is `complex-gable-roof-house`, chosen because the interpenetrating roofs of unequal slope are what
+  every one of the City's captions singles out; the Craftsman bungalow variant does not fit it as well, and no second
+  canonical form has been asserted on inference.
+conservation_fr:
+- "L'esprit Arts & Crafts réclamant un retour vers les matériaux et techniques traditionnels, il serait inadéquat de
+  moderniser ces résidences en optant pour des matériaux contemporains industrialisés ou synthétiques. Ainsi, portes et
+  fenêtres en bois demeurent préférables aux modèles modernes en aluminium ou en PVC. Le même conseil s'applique aux
+  revêtements muraux."
+- "Un des éléments distinctifs des résidences issues de ce mouvement est l'expression des membrures de charpente, des
+  chevrons surtout, sous les larges débords de toits. Il faut s'abstenir de les emboîter dans un enrobement d'aluminium
+  émaillé ou de vinyle sous le prétexte de mettre fin à l'entretien répété. Autre élément distinctif à conserver : le
+  bardeau de bois, employé dans les garde-corps de galeries-porches ou comme revêtement."
+- "Se pose pour certaines d'entre elles le problème de l'entretien et de la réparation des parements de stuc. Ce
+  matériau à composition cimentaire a tendance à produire des fissures dont la réparation laisse des traces. Il est
+  pratiquement impossible de ragréer une réparation de stuc. Les reprises doivent donc être dissimulées avec un produit
+  préparé pour application à l'extérieur, sur matériau cimentaire."
+- "Ces maisons étant relativement récentes, il convient, lorsqu'on les rénove, de résister à la tentation de
+  l'ancienneté factice : faux volets boulonnés au mur, faux petit bois amovible pour faciliter l'entretien du vitrage
+  et destiné à créer l'apparence des carreaux de verre. Les contre-fenêtres en aluminium ainsi que les auvents de tôle
+  polychrome ou de plastique translucide ondulé sont également à proscrire."
+conservation:
+- 'Prefer: since the Arts & Crafts spirit calls for a return to traditional materials and techniques, do not modernise
+  these houses with contemporary industrial or synthetic materials. Wood doors and windows remain preferable to modern
+  aluminium or PVC; the same advice applies to wall claddings.'
+- 'Prefer: keep the expressed frame members, above all the rafters, under the wide roof overhangs. Do not box them into
+  enamelled aluminium or vinyl on the pretext of ending repeated maintenance. Keep the wood shingle too, used in the
+  railings of gallery-porches or as cladding.'
+- 'Prefer: stucco cracks and repairs to it leave marks — patching stucco is next to impossible, so repairs must be
+  concealed with a product prepared for external application on a cementitious material.'
+- 'Avoid: since these houses are relatively recent, resist the temptation of a fake antiquity — false shutters bolted
+  to the wall, removable false glazing bars fitted to make the glass look divided. Aluminium storm windows and awnings
+  of polychrome sheet metal or corrugated translucent plastic are also to be banned.'
+related_buildings:
+- name: "11 place Freeman — an Arts & Crafts residence recognisable by its play of roofs and its cedar-shingle cladding. Place Freeman, formerly terrasse Saint-Maurice, was reserved for the bosses of the Saint-Maurice Paper Company."
+  url: null
+- name: "1711 boulevard Saint-Louis — a residence issuing from the Arts & Crafts current."
+  url: null
+- name: "95 boulevard des Estacades — a residence of Stick Style inspiration, with half-timbering."
+  url: null
+- name: "9350 rue Notre-Dame Ouest — a typical Shingle Style house with rustic cedar-shingle cladding, a hipped roof, a sheltered entrance and exposed rafters."
+  url: null
+- name: "12320 rue Notre-Dame Ouest — a Craftsman bungalow with a gallery covered by the extension of the roof."
+  url: null
+- name: "1004-1030 rue Sainte-Cécile — a set of three dwellings representative of the movement through the articulation of the roofs and the stucco cladding."
+  url: null
+- name: "132 rue Toupin — stone cladding under a half-hipped roof, with a large gallery typical of Arts & Crafts compositions."
+  url: null
+- name: "1029-1031 rue Saint-Paul — interpenetrating roofs, a sheltered entrance and stucco cladding."
+  url: null
+- name: "96 rue Lacroix — a residence combining several types of wood cladding."
+  url: null
+blurb_en: >-
+  Roofs of unequal slope running into one another, big chimneys, exposed rafters under wide overhangs, cedar shingle
+  and stucco and stone used together, and windows put wherever the plan wanted them. The City's fiche declines to give
+  a type description and says so: every case is unique and has its own characteristics. In Trois-Rivières it arrived
+  with the paper company — place Freeman, the old terrasse Saint-Maurice, was the address of the Saint-Maurice Paper
+  Company's bosses — and then filtered down through every layer of society until 1939.
+origin_en: >-
+  Ruskin and Morris, reacting against industrialisation and standardisation by way of English craft and the English
+  country house; the movement converged with the garden city. Crossing to the United States it split into the Shingle
+  Style of the east coast, the Prairie Style of the centre and the Craftsman of the west, and the catalogues and plan
+  magazines carried all three across North America through the first half of the twentieth century. The City's fiche is
+  candid that the idea did not survive the crossing — "en Amérique, le mouvement Arts & Crafts devient essentiellement
+  un mouvement stylistique, sans portée sociale."
+photos:
+- file: null
+  credit: >-
+    pending: no photograph of a documented Trois-Rivières Arts & Crafts address is available under a reusable licence.
+    The nine addresses the City names — 11 place Freeman, 1711 boulevard Saint-Louis, 95 boulevard des Estacades, 9350
+    and 12320 rue Notre-Dame Ouest, 1004-1030 rue Sainte-Cécile, 132 rue Toupin, 1029-1031 rue Saint-Paul, 96 rue
+    Lacroix — return no results on Wikimedia Commons, and the City's own fiche photographs are its property and are not
+    reproduced here. Link out to the fiche instead.
+  kind: placeholder

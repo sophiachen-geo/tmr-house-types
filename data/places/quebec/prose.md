@@ -134,9 +134,13 @@ attach by geography — by which declared site or CUCQ sector a building stands 
 néoclassique anglaise"; the phrase belongs to the third-party site *maisons-anciennes.qc.ca*, and the
 thesaurus's nearest equivalent is Néo-georgien (tid 410). There is no separate **split-level** page —
 it is a variant named inside Bungalow (tid 801). There is no **Italianate** page; it is subsumed
-under Éclectisme (tid 403) and Second Empire (tid 401). And tid 204, the Regency parent node that
-should sit above the cottage and the villa, returns a 404: the two children exist, the parent does
-not.
+under Éclectisme (tid 403) and Second Empire (tid 401). And four nodes exist as titles and nothing
+else: tid 204 **Regency**, the parent that should sit above the cottage and the villa; tid 605 **Cape
+Cod**, the parent of Wartime Housing; and the two catch-alls the synthesis table lists, tid 412
+**Néo-style (autre)** and tid 807 **Moderne (autre)**. All four return a page with a heading and no
+description, no characteristics list and no exemplars. Where a child's own heading therefore names no
+parent, the parent recorded here is the one the synthesis table gives — which is how Cottage Regency
+and Villa Regency come to sit under Regency, and Bungalow under Prairie.
 
 3. **Where the dates come from.** The thesaurus puts its dates in the prose rather than in a header,
 so `phase_confidence` is `verified` only where the fiche itself states a range — "principalement de
@@ -158,7 +162,16 @@ ones, and in whether the ground floor is raised. Québec's **cottage** is neithe
 two-storey detached house" nor Saint-Lambert's King Cottage: here it names two unrelated things, the
 Regency villégiature cottage (tid 205) and the industrial-vernacular cottage (tid 505).
 
-7. **Scope and what is recorded but not shown.** The thesaurus covers every building category,
+7. **The four declared sites, and the two quarters that have none.** *Vision du patrimoine 2027*
+gives the place-level total: "Quatre sites patrimoniaux déclarés par le gouvernement du Québec :
+Beauport, Charlesbourg, Sillery et Vieux-Québec, regroupant près de 2 700 bâtiments." The fifth row
+of the sector table is not a heritage designation at all but a permit-review jurisdiction, the
+secteurs assujettis to the CUCQ. Note what is absent: **there is no municipal declared site for
+Vieux-Limoilou or for Saint-Roch**, the two quarters this page's industrial-vernacular types
+actually built. They are protected instead through CUCQ jurisdiction, and Saint-Roch falls partly
+inside the Vieux-Québec perimeter.
+
+8. **Scope and what is recorded but not shown.** The thesaurus covers every building category,
 including the religious and institutional. Only residential and mixed residential-commercial types
 get cards. The nine currents and the parent nodes below them are recorded as *courants* and render as
 entries in the table above rather than as cards; the nineteen style nodes whose fiches describe
@@ -166,7 +179,7 @@ churches, banks and office blocks rather than dwellings are recorded as non-resi
 was crawled has been discarded — all 53 thesaurus nodes and all nine landing pages are in the data
 exports, each saying which of the three it is and why.
 
-8. **No images from the City are reproduced here.** The thesaurus drawings ("Illustration :
+9. **No images from the City are reproduced here.** The thesaurus drawings ("Illustration :
 Charles-Étienne Brochu, 2022") and the Répertoire photographs are © Ville de Québec, and the City's
 own copyright page states that "toute utilisation, reproduction, diffusion, traduction, publication
 ou retransmission du contenu, en tout ou en partie, est strictement interdite sans l'autorisation

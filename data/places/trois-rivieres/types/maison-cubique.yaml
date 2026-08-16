@@ -1,0 +1,165 @@
+id: trois-rivieres.maison-cubique
+place: trois-rivieres
+phase: p5
+phase_confidence: verified
+display_order: 6
+name_en: Cubic house (Four-square)
+name_fr: La maison cubique (courant cubique)
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: city-wide courant fiche (web summary + fiche complète)
+courant: Cubique
+source_url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Cubique.pdf
+sectors: null
+canonical:
+- foursquare-hipped-2st
+styles:
+- foursquare
+- vernaculaire-industriel
+tenure_plan: single-family
+storeys: "2"
+roof:
+  form: hipped-or-pyramidal
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-shingle
+- wood-clapboard
+- stucco
+roofing: traditional tin, sometimes tôle à la canadienne or embossed metal; flat on some
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - In Trois-Rivières it establishes itself as much on the bare plains of the countryside as in the denser village
+    cores.
+  - Popular in Québec particularly in the first half of the twentieth century.
+  massing:
+  - Cubic massing, square plan, two storeys, slightly raised above the ground.
+  - Hipped (pavilion) roof of shallow pitch, covered in traditional tin; or a flat roof, in which case a broad
+    cornice appears.
+  - The cubic volume so obtained is, all told, imposing — the square plan superposing two full storeys gives the house
+    dimensions worthy of a bourgeois house.
+  - A covered gallery across the front, frequently with a balcony above; the taste for the picturesque produced large
+    galleries often running the whole front and sometimes more than one elevation.
+  articulation:
+  - Ornament varies with the social standing of the owner — some houses keep to chambranles alone while the neighbour
+    adds corner boards, turned columns, worked railings and other joinery.
+  - Hipped, gabled, triangular or shed dormers, sometimes replaced by gables.
+  - The cubic house often has a gable or a dormer on the front slope.
+  openings:
+  - Regular distribution of openings, arranged with regularity and symmetry.
+  - Wood casement windows with large panes, casements with a transom, or sash windows.
+  materials:
+  - Varied external claddings — brick, wood boards, cedar shingle, roughcast or other light claddings.
+  - Later light materials appear — tar paper, slate-surfaced bituminous felt (papier-brique), asbestos-cement shingle
+    in diamond, octagonal and rectangular tiles, and embossed sheet metal that can recall the look of cut stone.
+profile_fr:
+  contexte:
+  - "L'architecture vernaculaire industrielle est née, à la fin du 19e siècle, du phénomène de la standardisation des
+    matériaux, de la mécanisation du travail et de la diffusion de modèles par le biais de catalogues et de revues.
+    Conçue aux États-Unis, puis introduite au Canada, cette architecture a connu une grande popularité et a contribué
+    à la croissance rapide des villes, conséquence de l'explosion démographique."
+  - "La grande famille de l'architecture vernaculaire industrielle se divise en quelques modèles, dont la maison
+    cubique qui provient des États-Unis. Conçu par l'architecte Frank Kidder en 1891, ce modèle strictement résidentiel
+    est communément appelé le « Four-square House ». Les modèles de maisons cubiques ont été abondamment diffusés dans
+    les catalogues étasuniens de plans en faisant valoir l'intérêt des dimensions de leur espace habitable. En effet,
+    le plan carré, qui superpose deux étages entiers coiffés d'un toit pavillon à faibles pentes, confère à la maison
+    cubique des dimensions dignes des maisons bourgeoises."
+  - "À Trois-Rivières, plusieurs s'imposent aussi bien dans les plaines dénudées des milieux ruraux que dans les noyaux
+    villageois plus denses."
+  volumetrie:
+  - "Volumétrie cubique, plan carré de deux étages légèrement surhaussé du sol"
+  toiture:
+  - "Toit en pavillon à faibles pentes, revêtu de tôle traditionnelle, ou toit plat"
+  - "La maison cubique est dans tous les cas constituée de deux étages élevés sur un plan carré et coiffée le plus
+    souvent d'un toit pavillon à faibles pentes. Lorsque cette maison est terminée par un toit plat, une large corniche
+    apparaît."
+  saillies:
+  - "Galerie couverte aménagée en façade avant, balcon fréquent à l'étage"
+  revetements:
+  - "Revêtements extérieurs variés : briques, planches de bois, bardeaux de cèdre, crépi ou autres revêtements légers"
+  ouvertures:
+  - "Lucarnes à croupe, à pignon, triangulaire ou en appentis, parfois remplacées par des pignons"
+  - "Distribution régulière des ouvertures"
+  - "Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine"
+  ornementation:
+  - "Ornementation variable selon le statut social du propriétaire"
+  sous_variantes:
+  - "La maison cubique possède souvent un pignon ou une lucarne sur le versant avant. Celle-ci peut être à croupe, à
+    pignon, triangulaire ou en appentis. Les ouvertures sont généralement disposées avec régularité et symétrie."
+  - "La maison cubique étant postérieure à l'architecture romantique, cette influence se manifeste souvent dans le
+    programme décoratif. Le goût pour le pittoresque engendre notamment la prolifération des grandes galeries qui
+    s'observent souvent sur toute la façade avant et parfois sur plus d'une façade. Mais, de manière générale,
+    l'ornementation de la maison cubique varie en fonction des goûts et des moyens financiers des premiers occupants."
+  - "Plusieurs presbytères bâtis au début du 20e siècle ont adopté le modèle cubique."
+profile_note: >-
+  Present in the city-wide inventory and given a full fiche of its own by the City, but not characterised separately in
+  the declared-site texts, which name only the boomtown houses and the immeubles à logements among the industrial-era
+  residential forms. Its `sectors` field is therefore left empty rather than being given SP-TR on the strength of the
+  hipped-roof houses the Plan de conservation counts there — the plan records five hipped-roof dwellings inside the
+  site, among them 890 terrasse Turcotte, but does not call any of them cubique, and the inference is not made here.
+conservation_fr:
+- "Il convient d'abord d'éviter d'ajouter des annexes au corps du bâtiment ce qui brimerait alors le volume simple et
+  cubique de ce modèle de résidence."
+- "L'aménagement d'un logement indépendant à l'étage supérieur constitue une transformation fréquente qui entraîne
+  souvent des interventions inadéquates : des fenêtres transformées en porte, un balcon installé sur l'auvent
+  protégeant la galerie et l'ajout d'escaliers déparent plusieurs maisons."
+- "Certaines résidences ont vu leurs parements de bois disparaître sous le stuc, un revêtement d'aluminium ou de vinyle.
+  Ces matériaux, souvent appliqués sans discernement, emboîtent les portes et les fenêtres. Il est souhaitable, le plus
+  souvent possible, de récupérer le parement d'origine pour le remettre en valeur."
+- "Les fenêtres doivent être remplacées dans leurs baies d'origine sans modification de leurs dimensions et, surtout,
+  sans élargissement excessif. Des portes et des fenêtres en bois sont préférables aux modèles contemporains en
+  aluminium ou en PVC."
+- "Pour les plus cossues, il importe de préserver sinon de rétablir les chambranles, les planches cornières, les
+  colonnes ouvragées et autres ornements dans leur matériau premier plutôt que de les remplacer par des éléments
+  modernes simplifiés. Il convient également de peindre les éléments de boiserie plutôt que de les vernir."
+conservation:
+- 'Avoid: adding annexes to the body of the building, which would cramp the simple cubic volume of this model.'
+- 'Avoid: the usual consequences of fitting an independent dwelling on the upper floor — windows turned into doors, a
+  balcony set on the awning that shelters the gallery, and added stairs, which spoil many of these houses.'
+- 'Prefer: recover and restore the original cladding wherever possible. Stucco, aluminium and vinyl, often applied
+  without discernment, box in the doors and windows.'
+- 'Prefer: replace windows within their original bays without changing their dimensions and above all without
+  excessive widening. Wood doors and windows are preferable to contemporary aluminium or PVC models.'
+- 'Prefer: on the better-off examples, preserve or restore the chambranles, corner boards, turned columns and other
+  ornament in their original material rather than replacing them with simplified modern elements. Paint the joinery
+  rather than varnishing it.'
+related_buildings:
+- name: "13 place Freeman — a cubic house clad in cedar shingle with a large gallery on two sides."
+  url: null
+- name: "720-726 rue Sainte-Geneviève — a cubic house clad in brick with a large gallery."
+  url: null
+- name: "559-561 rue Laviolette — a cubic model with its roof covered in tôle à la canadienne and pierced by a hipped dormer."
+  url: null
+- name: "623 rue Notre-Dame Est — a flat-roofed cubic model crowned by a moulded cornice."
+  url: null
+- name: "4447 rue Notre-Dame Ouest — a brick cubic house reduced to its simplest expression."
+  url: null
+- name: "2821 rue Notre-Dame Est — a rural example with gables, clad in embossed sheet metal, in the Sainte-Marthe-du-Cap sector."
+  url: null
+- name: "815 rue Louis-de-France — the presbytery of Saint-Louis-de-France, the cubic house declined monumentally."
+  url: null
+blurb_en: >-
+  Two full storeys on a square plan under a shallow hipped roof — Frank Kidder's Four-square of 1891, sold through
+  American plan catalogues on the strength of how much room it gave for the money, and taken up across Québec in the
+  first half of the twentieth century. In Trois-Rivières it settled equally on the bare rural plains and in the denser
+  village cores, and its ornament is a straightforward index of the first owner's means: chambranles only on one
+  house, corner boards, turned columns and worked railings on the next.
+origin_en: >-
+  One branch of the industrial vernacular that standardised materials, mechanised the work and distributed plans
+  through catalogues and magazines from the end of the nineteenth century, alongside the balloon frame that made
+  building fast. The same square hipped block is followed through the canonical layer under `foursquare-hipped-2st`,
+  where it can be set beside the versions catalogued by Saint-Lambert, Gatineau, Québec City and Lévis — a form that
+  arrived from the United States by catalogue and was then renamed locally in every place it landed.
+photos:
+- file: assets/places/trois-rivieres/890-terrasse-turcotte-commons.jpg
+  credit: >-
+    890 terrasse Turcotte, in the site patrimonial de Trois-Rivières (March 2020) — one of the five hipped-roof
+    dwellings the MCC's Plan de conservation counts inside the declared site. Shown here for the roof form and square
+    massing; the plan does not itself call this house cubique. © Fralambert, Wikimedia Commons, CC BY-SA 4.0 —
+    https://commons.wikimedia.org/wiki/File:890,_terrasse_Turcotte_01.jpg
+  kind: single

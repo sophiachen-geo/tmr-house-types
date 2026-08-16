@@ -1,0 +1,82 @@
+id: terrebonne.maison-neoclassique-quebecoise
+place: terrebonne
+phase: p3
+phase_confidence: provisional
+name_en: Neoclassical Québécois stone house
+name_fr: La maison québécoise d'inspiration néoclassique
+source_ref: RPCQ, Site patrimonial du Vieux-Terrebonne (id 231571), MCC 2026
+source_generation: site-level éléments caractéristiques + named classed examples
+sectors: [UP-4]
+canonical:
+- quebec-traditional-1-5st-gable
+styles:
+- neoclassical-quebec
+style_label: null
+tenure_plan: single-family
+storeys: '2.5'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- stone
+roofing: cedar-shingle
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Set on the edge of rue Saint-Louis, in the bourgeois sector of the Vieux-Terrebonne.
+  massing:
+  - Rectangular ground plan, two and a half storeys, detached.
+  - Two-slope roof of medium pitch with slightly flared larmiers.
+  - Chimney and gallery are the projections the fiche records.
+  articulation:
+  - Symmetry of the principal façade and regular ordering of the openings.
+  - Carved window casings (chambranles sculptés).
+  - Quoins (chaînages d'angle).
+  - Cornice underlined with modillons; corbels; a wooden balustrade.
+  - Wide two-headed cut-stone chimney stacks joined by a low wall at each end of the roof.
+  openings:
+  - Rectangular casement windows; small-paned windows alongside large-paned ones.
+  - Main door of wood, panelled and glazed.
+  materials:
+  - Rubble masonry dressed to give the appearance of cut stone on the front elevation, over a stone foundation.
+  - Cedar-shingle roof covering.
+profile_note: The declaration characterises sectors, not building types; the columns below carry only what
+  the sector text and the individual classed fiches state. Per-building attributes exist in the Bergeron
+  Gagnon 2015 inventory and the 225 associated RPCQ records — see Part 8b.
+blurb_en: >-
+  The maison Roussil of about 1830 on rue Saint-Louis, classed in 1972 and given an aire de
+  protection in 1975, is the anchor — a rectangular stone house of two and a half storeys under two
+  slightly flared slopes, its front elevation laid in rubble dressed to look like cut stone, symmetrical
+  and regularly fenestrated, with carved chambranles, quoins, a cornice on modillons, and wide
+  two-headed cut-stone chimney stacks joined by a low wall at each end of the roof.
+origin_en: Built by and for Noël-Théodore Roussil (c. 1798–1890), master joiner and militia captain, as
+  both dwelling and craftsman's workshop — a door cut in the west elevation once gave onto the shop.
+  The RPCQ reads the house as representative of the influence of neoclassicism on Québec residential
+  architecture in the nineteenth century, expressed in the symmetry of the main façade, the regular
+  ordering of the openings, the medium-pitched roof and the ornamental vocabulary of carved casings,
+  quoins and modillon cornice; Roussil gave every interior bay a different treatment, which the fiche
+  says is what gives the house its originality. As master joiner he is said to have taken contracts for
+  work on the parish church and on the seigneurial office; as militia captain he sided with the loyalists
+  in the rebellions of 1837–1838, and some authors hold that patriotes were held in the house awaiting
+  transfer to the prison du Pied-du-Courant in Montréal. A second example stands a few doors away — the
+  maison Alexandre et Joseph Roussil, built in stone about 1830 by Noël-Théodore's uncles "tout près de
+  celle de leur neveu", two and a half storeys under a tôle à baguettes roof, cited by the Ville on
+  13 September 2021.
+photos:
+- file: assets/places/terrebonne/maison-roussil-commons.jpg
+  credit: 'Maison Roussil, 870-872, rue Saint-Louis, Terrebonne (2021) — RPCQ id 92502, built about 1830,
+    classed 1972 with an aire de protection in 1975. Photograph © Jeangagnon, Wikimedia Commons,
+    CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Maison_Roussil_-_01.jpg
+    Address match: the uploader''s description gives 870-872 rue Saint-Louis, the address on the RPCQ
+    fiche for the classed maison Roussil.'
+  kind: single
+related_buildings:
+- name: Maison Roussil, 870-872 rue Saint-Louis, c. 1830 — classed 1972, aire de protection 1975
+  url: https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=92502&type=bien
+- name: Maison Alexandre et Joseph Roussil, 886-888 rue Saint-Louis, c. 1830 — cited 2021
+  url: https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=110132&type=bien

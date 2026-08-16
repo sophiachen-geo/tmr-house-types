@@ -1,0 +1,189 @@
+id: trois-rivieres.immeuble-a-logements
+place: trois-rivieres
+phase: p5
+phase_confidence: verified
+display_order: 5
+name_en: Immeuble à logements — the plex of superposed flats
+name_fr: L'immeuble à logements / l'immeuble de type « plex »
+source_ref: Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014
+source_generation: city-wide courant fiche (web summary + fiche complète), cross-read against the declared-site texts
+courant: Immeuble de type « plex »
+source_url: https://www.v3r.net/wp-content/uploads/2021/06/Fiche-complete-Immeuble-de-type-plex.pdf
+sectors: [QO, SP-TR]
+canonical:
+- plex-superposed-units
+styles:
+- vernaculaire-industriel
+- boomtown
+tenure_plan: triplex
+storeys: "2–3"
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- concrete-block
+roofing: tar-and-membrane flat roof
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built by property developers on cramped lots, as contiguous houses put up at speed to house the workers who
+    supplied the labour for the city's rapid industrialisation.
+  - Inside the declared site these are the îlots résidentiels — narrower parcels, more densely occupied, evidence of a
+    stronger urban pressure during industrialisation than in the other sectors, though a tree cover survives in the
+    back yards.
+  - The RPCQ's second residential register for the declared site — "des immeubles d'habitation construits sur des lots
+    étroits", against the maisons cossues.
+  massing:
+  - Cubic-looking volume, generally of two or three storeys.
+  - Several dwellings, each with its own direct entrance from outside.
+  - Numerous exterior extensions — balcony, gallery, stair. On the plainest examples these batteries of acrobatic
+    stairs, balconies and galleries are the only decoration left.
+  - Many have polygonal or rectangular projections; some have galleries and balconies carried on brick piers,
+    sometimes arcaded; others have a setback cutting re-entrant angles wholly occupied by galleries and balconies in
+    loggia, on masonry supports so strongly stated that they redraw the cubic volume.
+  - Concrete foundations appear with this current.
+  articulation:
+  - Varied ornament — cornice, parapet, decorative banding, lintel, keystone, brick or stone insets.
+  - Parapets with applied cornices give way to stepped brick parapets with friezes, or decorative brick panels,
+    appearing tentatively about 1910.
+  - Walls end in worked cornices of wood or metal, sometimes curved, sometimes with dentils and consoles, and often
+    paired with parapets under cornices (1890-1915) or with scalloped parapets cut in curves and counter-curves
+    (1910-1930).
+  - Many plexes carry construction dates or patriotic motifs moulded into cement insets set in the brickwork.
+  openings:
+  - Segmental-arched openings are frequent, especially on the earliest plexes; later, lintels increasingly replace the
+    segmental arches, in cement like the sills.
+  - Sash windows, often with a transom or decorative mullions; sometimes sash with casement storm windows, often tall
+    and of six panes; the upper part sometimes forms a transom decorated with stained glass.
+  materials:
+  - Traditional materials — brick cladding, wood openings.
+  - Red or brown clay brick on many; concrete block imitating rusticated stone on others; limestone on a few
+    exceptions.
+  - Rare sheet-metal claddings imitating rusticated stone need upkeep or rust will make them disappear.
+profile_fr:
+  description:
+  - "Le secteur regroupe également des bâtiments associés à l'industrialisation, comme des maisons boomtown et des
+    immeubles à logements, caractérisés par un volume cubique, un toit plat et une ornementation modeste."
+  - "les immeubles de logements (caractérisés par un volume cubique, un toit plat, une élévation de deux à trois
+    étages, une corniche ornementée ainsi que des balcons en bois ou en fer forgé)"
+  contexte:
+  - "Les habitations de type « plex » sont ces maisons à logements multiples qui comportent deux (duplex), trois
+    (triplex), quatre (quadruplex) ou plusieurs unités d'habitation superposées qui ont des entrées indépendantes. Ce
+    type de logement côtoie, puis supplante l'architecture Boomtown vers 1910. C'est la maison qui correspond à la
+    croissance accélérée des villes de 1910 à 1930."
+  - "Un nouveau matériau, le goudron, obtenu par la distillation du charbon, amène la construction du toit plat, à
+    bassins ou à égout intérieur. L'habitation urbaine devient un immeuble à logements superposés et le volume cubique
+    s'affirme sans détour. Les parapets à corniches appliquées cèdent la place aux parapets de brique à gradins et à
+    frises, ou panneaux de brique décoratifs, apparus timidement vers 1910. Les plus anciens reprennent d'ailleurs la
+    disposition des balcons et galeries propres aux maisons Boomtown, marquant ainsi leur filiation."
+  - "Avec ces bâtiments, on assiste à une première manifestation d'envergure des promoteurs immobiliers qui réalisent
+    sur des terrains exigus des maisons contiguës, construites en vitesse pour loger les ouvriers qui alimentent en
+    main d'œuvre l'industrialisation rapide de la ville."
+  volumetrie:
+  - "Volume d'aspect cubique, généralement de deux ou trois étages"
+  - "Plusieurs logements possédant une entrée extérieure directe"
+  saillies:
+  - "Nombreux prolongements extérieurs : balcon, galerie, escalier"
+  - "Les prolongements extérieurs deviennent le trait spécifique de cette architecture. Chaque logement possède ainsi
+    son entrée directe, accessible par un escalier (intérieur ou extérieur) et un balcon parfois imposants."
+  ouvertures:
+  - "Ouvertures à arc surbaissé fréquentes, fenêtres à guillotine, souvent avec imposte ou meneaux décoratifs"
+  revetements:
+  - "Matériaux traditionnels : parement de brique, ouvertures en bois"
+  ornementation:
+  - "Ornements variés : corniche, parapet, bandeau décoratif, linteau, clé de voûte, insertion de briques ou de
+    pierre, etc."
+  sous_variantes:
+  - "Ce courant est composé de diverses tendances. Les maisons sont le plus souvent de volume cubique, à deux ou trois
+    étages. Plusieurs disposent de saillies polygonales ou rectangulaires. Certaines résidences ont leurs balcons et
+    galeries soutenus par d'intéressants piliers en brique, parfois à arcades, alors que d'autres comportent un
+    décroché qui découpe des angles rentrants complètement occupés par des galeries et balcons en loggias, à supports
+    maçonnés si fortement affirmés qu'ils redessinent un volume cubique."
+  - "Plusieurs possèdent un parement en brique d'argile rouge ou brune, d'autres sont construites en bloc de béton,
+    imitant la pierre à bossage, alors que quelques exceptions le sont en pierre calcaire. Les fondations en béton font
+    leur apparition avec ce courant."
+profile_note: >-
+  A naming caution the sources force. The Ville de Trois-Rivières catalogues TWO distinct currents here, and this record
+  encodes the first — "Immeuble de type « plex »", where every dwelling has its own direct entrance from the street —
+  and not the second, "Immeuble d'appartements", which the same fiche distinguishes explicitly: "Contrairement aux
+  bâtiments de type « plex », les immeubles d'appartements possèdent une seule et même entrée commune à tous les
+  logements." The RPCQ and the Plan de conservation, writing about the declared site, use the phrase "immeubles à
+  logements" for buildings whose described characteristics — cubic volume, flat roof, two to three storeys, ornamented
+  cornice, wood or wrought-iron balconies — match the plex. The record slug follows the ministerial phrase and the
+  French name carries both, so that neither vocabulary is lost. The apartment block with one common entrance is a
+  separate form and is not encoded here.
+conservation_fr:
+- "Si une partie du parement de brique de ces maisons est refait, il importe de bien marier les couleurs de maçonnerie.
+  Il faut éviter en outre de peindre la brique ou d'y appliquer des parements d'aluminium ou de vinyle. Lors d'un
+  rejointoiement, il faut appareiller le mortier à l'existant afin d'éviter de créer des démarcations disgracieuses."
+- "Il faut éviter d'araser, ou niveler, les parapets à gradins. Il est préférable de les consolider en les appuyant
+  solidement du côté de la toiture."
+- "Il convient de ne pas transformer les ouvertures ou murer les impostes."
+- "L'application d'un parement d'aluminium sur les couronnements de murs et les abris de balcons est à éviter, car il
+  les dénature en gonflant démesurément le volume."
+- "Dans les cas de maisons contiguës ou jumelées, il faut éviter toute rénovation ponctuelle en apportant des
+  modifications pour des motifs personnels, au détriment d'une esthétique d'ensemble."
+- "Il faut éviter d'utiliser des garde-corps en planches découpées et préfabriquées ainsi que des mains courantes de
+  section trop faible. Les garde-corps de 42 pouces (1,07 m) de hauteur requis par la réglementation d'aujourd'hui
+  peuvent être obtenus par l'ajout d'une deuxième main courante au garde-corps de 36 pouces (0,914 m) en place, sans
+  déparer l'existant."
+conservation:
+- 'Prefer: where part of the brick cladding is redone, match the masonry colours carefully. Do not paint the brick or
+  apply aluminium or vinyl cladding to it. When repointing, match the mortar to what is there, to avoid ugly
+  demarcations.'
+- 'Avoid: levelling off the stepped parapets. Consolidate them instead, by bracing them solidly on the roof side.'
+- 'Avoid: altering the openings or blocking up the transoms.'
+- 'Avoid: aluminium cladding on the wall crowns and the balcony shelters — it distorts them by swelling the volume out
+  of all proportion.'
+- 'Avoid: on contiguous or semi-detached houses, piecemeal renovation making changes for personal reasons at the
+  expense of the aesthetic of the whole.'
+- 'Prefer: today''s required 42-inch (1.07 m) guard height can be reached by adding a second handrail to the existing
+  36-inch (0.914 m) railing, without spoiling what is there. Avoid guards of cut-out prefabricated boards and handrails
+  of too slight a section.'
+related_buildings:
+- name: "34-44 rue des Casernes — an immeuble à logements multiples of about 1910, the Plan de conservation's own example of the flat roof, inside the declared site."
+  url: https://commons.wikimedia.org/wiki/Category:34-44,_rue_des_Casernes
+- name: "1051-1057 rue Laviolette — a triplex whose dwellings are reached by a sheltered exterior stair."
+  url: null
+- name: "1030-1034 rue Saint-François-Xavier — a triplex with wood stairs and galleries; the left-hand building has a façade projection with a decorative parapet."
+  url: null
+- name: "328-338 rue Saint-François-Xavier — a double triplex (sixplex) built in 1910, ornamented with an imposing cornice on consoles, amortissements and a gable."
+  url: null
+- name: "470-472 rue Niverville — a triplex with individual entrances but interior stairs, an oriel over three storeys and a moulded cornice."
+  url: null
+- name: "1117-1121 rue Sainte-Julie — a triplex with exterior metal stairs and segmental-arched openings."
+  url: null
+- name: "56-60 rue Rochefort — a brick sixplex built in 1940 with metal stairs; the sobriety of its decoration is characteristic of the later constructions."
+  url: null
+- name: "940-944 rue Sainte-Cécile — a two-storey plex whose dwellings have individual entrances."
+  url: null
+- name: "135-143 rue Saint-François-Xavier — the Plan de conservation's example of a two-storey immeuble à logements multiples inside the declared site."
+  url: null
+blurb_en: >-
+  When coal tar made the waterproof flat roof possible, the urban dwelling became a stack. Two or three storeys of
+  superposed flats, each with its own door off the street reached by its own stair, put up at speed on cramped lots by
+  the first property developers the city had seen, to house the mill workers. The oldest of them still carry the
+  Boomtown's gallery-and-balcony arrangement — the fiche calls that their filiation — while the parapet turns from an
+  applied cornice into stepped brick with friezes, and then into curves and counter-curves.
+origin_en: >-
+  The plex coexisted with the Boomtown house and then supplanted it about 1910; it is the house that matches the
+  accelerated urban growth of 1910 to 1930, and by the 1920s the Patri-Arch Synthèse records it as the principal
+  workers' dwelling in Trois-Rivières. The Depression and the Second World War left only an impoverished version, and
+  it faded slowly in favour of the apartment block with a single common entrance. The interwar plex is a near relation
+  of proto-rationalist architecture — the regular-framed, plainly detailed brick manufactories and warehouses of
+  1850-1890 — and it is the rational, simple, easily built and economical side of it that ties the plex to that
+  current. The same superposed-dwelling form is followed through the canonical layer under `plex-superposed-units`.
+photos:
+- file: assets/places/trois-rivieres/34-44-rue-des-casernes-commons.jpg
+  credit: >-
+    34-44 rue des Casernes, in the site patrimonial de Trois-Rivières (March 2020) — an immeuble à logements multiples
+    of about 1910, named by the MCC's Plan de conservation as a fine example of the site's commonest roof form, the
+    flat roof. © Fralambert, Wikimedia Commons, CC BY-SA 4.0 —
+    https://commons.wikimedia.org/wiki/File:34-44,_rue_des_Casernes.jpg
+  kind: single

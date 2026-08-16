@@ -1,0 +1,81 @@
+id: terrebonne.maison-tradition-francaise-pierre
+place: terrebonne
+phase: p1
+phase_confidence: verified
+name_en: Stone house in the French tradition
+name_fr: La maison de tradition française en pierre
+source_ref: RPCQ, Site patrimonial du Vieux-Terrebonne (id 231571), MCC 2026
+source_generation: site-level éléments caractéristiques + named classed examples
+sectors: [UP-1]
+canonical:
+- french-urban-house-stone
+styles:
+- french-regime
+style_label: null
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- stone
+- roughcast
+roofing: cedar-shingle
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Sited on the edge of a narrow street in the heart of the Vieux-Terrebonne, detached.
+  massing:
+  - Rectangular ground plan; the carré low and barely raised above the ground.
+  - One and a half storeys.
+  - Steep two-slope roof with short larmiers and no dormers.
+  - Chimney stack and perron are the only projections the fiche records.
+  articulation:
+  - Cut-stone chimney stacks set staggered ("en chicane") in the gable walls.
+  - Wooden window casings, an S-shaped wall anchor (esse), a wooden balustrade.
+  openings:
+  - Rectangular casement windows with small panes.
+  - Main door of wood, panelled, with a transom.
+  materials:
+  - Roughcast stone masonry over a stone foundation.
+  - Cedar-shingle roof covering.
+profile_note: The declaration characterises sectors, not building types; the columns below carry only what
+  the sector text and the individual classed fiches state. Per-building attributes exist in the Bergeron
+  Gagnon 2015 inventory and the 225 associated RPCQ records — see Part 8b.
+blurb_en: One building carries this type, and it is a reconstruction around old walls. The maison Bélisle
+  of about 1759 at 844 rue Saint-François-Xavier is a low roughcast-stone carré of one and a half storeys,
+  barely raised off the ground, under a steep two-slope roof with short larmiers, no dormers and cedar
+  shingle, with casement windows of small panes and cut-stone chimney stacks staggered in the gable walls.
+  The RPCQ calls what remains of it "un rare témoin du noyau villageois du milieu du XVIIIe siècle".
+origin_en: Jacques Perras (1725–1786), écrivain du munitionnaire du Roy, took a land concession in 1759
+  and had the house built shortly afterwards, when Lepage's bourg was some four decades old; by 1781 the
+  village counted more than sixty dwellings. The RPCQ reads the house as an example of "la maison rurale
+  québécoise d'inspiration française" — the French model progressively adapted by local know-how to the
+  climate and the available materials. It was considerably altered between 1830 and 1850, when coyaux
+  were added at the ends of the rafters and the roof took on the flared larmiers it now shows, and an
+  angled corner door was cut at the turn of the twentieth century. The Bélisle family bought it in 1916
+  and held it for much of the century. It escaped the 1922 fire that destroyed most of the houses between
+  rues Sainte-Marie and Chapleau south of rue Saint-Pierre, but it burned in 1999 — only the masonry could
+  be kept, and the building was restored in 2002–2003 to return it to its eighteenth-century appearance.
+  What stands today is therefore old walls with new everything else, and the record should be read that
+  way. It is classed as an immeuble patrimonial (30 October 1973) with an aire de protection of the same
+  date, and the protection covers the exterior and the interior but not the land.
+photos:
+- file: assets/places/terrebonne/844-rue-saint-francois-xavier-maison-belisle-commons.jpg
+  credit: 'Maison Bélisle, 844, rue Saint-François-Xavier, Terrebonne (2022) — RPCQ id 92501, built about
+    1759, classed 1973, burnt 1999 and restored 2002–2003 with only the masonry retained. Photograph
+    © Cantons-de-l''Est, Wikimedia Commons, CC BY-SA 4.0.
+    https://commons.wikimedia.org/wiki/File:Terrebonne,_Quebec_-_844,_rue_Saint-Fran%C3%A7ois-Xavier.jpg
+    Address match: the uploader''s own description names the maison Bélisle at this address, which is the
+    address the RPCQ fiche gives.'
+  kind: single
+related_buildings:
+- name: Maison Bélisle (a.k.a. maison Perras), 844 rue Saint-François-Xavier — classed 1973
+  url: https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=92501&type=bien
+- name: Maison Joseph-Augé, 991-993 rue Saint-Louis, 1798–1801 — classed 1976, aire de protection 1978
+  url: https://www.patrimoine-culturel.gouv.qc.ca/detail.do?methode=consulter&id=92500&type=bien
