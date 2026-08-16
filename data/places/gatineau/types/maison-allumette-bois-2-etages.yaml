@@ -1,0 +1,193 @@
+id: gatineau.maison-allumette-bois-2-etages
+place: gatineau
+phase: p2
+phase_confidence: verified
+display_order: 8
+name_en: Wood matchstick house of two to two and a half storeys (maison allumette en bois de deux à deux étages et
+  demi)
+name_fr: La maison allumette en bois de deux à deux étages et demi
+source_ref: Ville de Gatineau, fiche « La maison allumette en bois de deux à deux étages et demi » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- allumette-house-gable-front
+styles:
+- vernaculaire-industriel
+style_label: null
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- wood-clapboard
+- wood-board-vertical
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Straight two-slope gable roof with the ridge line perpendicular to the street and the gable wall on the façade.
+  - Two to two and a half storeys.
+  - The half-storey, when present, is located in the roof space (sous les combles).
+  - Rectangular main body generally 20 feet wide and about 24 to 26 feet deep.
+  - Rectangular secondary body, offset or set back, with a sloped or lean-to roof.
+  - Covered gallery on the façade, or porch with a lean-to roof parallel to the street (frequent), enhanced with a
+    triangular pediment facing the street (occasional). The gallery is generally only slightly raised above the street
+    and does not always have a railing.
+  - Covered side stoop giving access to the rear secondary body (occasional).
+  - The gallery columns are generally square (frequent) or turned (frequent), of wood, and their dimensions generally
+    vary between 7 and 9 ½ inches wide.
+  articulation:
+  - Wood matchstick houses of two to two and a half storeys are plain and display relatively little ornament, apart
+    from a few rare exceptions.
+  - Originally, every wood matchstick house had wood casings (chambranles) around the openings.
+  - Return of the eaves (occasional).
+  openings:
+  - Simple glazed main door.
+  - Main entrance door off-centre relative to the façade.
+  - One window (frequent) or two windows (rare) on the ground floor of the façade, and two windows on the façade at
+    the upper storey (frequent).
+  - A window high in the gable (frequent), of varied form (originally).
+  - Typical windows are vertical, sash (guillotine) windows with 4 panes (frequent), 6 panes (rare), 9 panes (rare)
+    or 12 panes (occasional).
+  materials:
+  - The walls are generally clad in horizontal wood boards (clapboard or rabbeted/shiplap) or in vertical boards.
+    Wood shingle is sometimes used as a cladding material on the façade gable (rare).
+  - The corners of the house are emphasised by corner boards (frequent).
+profile_fr:
+  contexte:
+  - La « maison allumette » fait son apparition à partir des années 1870. Son origine découle notamment de l’ouverture
+    du marché américain au Canada. Les échanges commerciaux et culturels entre les deux pays donnent lieu à l’importation
+    de catalogues architecturaux américains. Ces publications, qui présentent des plans illustrés ainsi que des indications
+    relatives à la construction de maisons ouvrières en bois, sont alors populaires auprès des entrepreneurs et des
+    constructeurs amateurs canadiens.
+  - L’avènement de la maison allumette correspond également à une période d'explosion démographique entre 1871 et
+    1891 dans le secteur actuel de la Ville de Gatineau, en raison de l’industrialisation et de l’exode rural. De
+    plus, la standardisation du bois d’œuvre et la présence d’importantes scieries à Hull facilitent l’accès au bois
+    pour la construction résidentielle.
+  - Bien qu'il existe aussi des maisons allumettes dans les secteurs d'Aylmer et de Buckingham, la forme étroite de
+    ces maisons proviendrait du lotissement rectangulaire typique des terres appartenant à la famille Wright à Hull,
+    effectué par l'arpenteur W. A. Austin en 1864. L’étroitesse et la profondeur des terrains auraient donc entraîné
+    l’adaptation des maisons de colon américaines. Celles-ci, de forme rectangulaire avec une ligne faîtière parallèle
+    à la rue, auraient ainsi pivoté de 90 degrés pour s'adapter aux lots étroits, leur mur pignon passant alors en
+    façade.
+  - Le premier modèle de maisons allumettes est en bois et comprend un étage et demi. Une seconde génération comportant
+    deux étages et demi voit le jour à partir des années 1880. Enfin, une troisième génération avec une forme en L
+    et de hautes fondations fait son apparition entre 1900 et 1915.
+  repartition:
+  - Présence marquée dans le secteur de Hull et, dans une moindre mesure, dans les secteurs d’Aylmer, de Buckingham,
+    de Gatineau et de Masson-Angers.
+  volumetrie:
+  - Toit à deux versants droits avec ligne faîtière perpendiculaire à la rue et mur pignon en façade.
+  - De deux à deux étages et demi.
+  - Le demi-étage, lorsque présent, est situé sous les combles.
+  - Corps de logis principal rectangulaire généralement de 20 pieds de largeur et d’environ 24 à 26 pieds de profondeur.
+  - Corps secondaire rectangulaire, décalé ou en retrait, avec une toiture en pente ou en appentis.
+  - Galerie couverte en façade ou porche avec un toit en appentis parallèle à la rue (fréquent), agrémenté d'un fronton
+    triangulaire face à la rue (occasionnel). La galerie est généralement peu surélevée par rapport à la rue et n’a
+    pas toujours de garde-corps.
+  - Perron latéral couvert donnant accès au corps secondaire arrière (occasionnel).
+  - Les colonnes sur la galerie sont généralement de forme carrée (fréquent) ou tournée (fréquent) en bois et leurs
+    dimensions varient généralement entre 7 et 9 ½ pouces de largeur.
+  ouvertures:
+  - Porte principale simple et fenestrée.
+  - Porte d’entrée principale décentrée par rapport à la façade.
+  - Présence d’une (fréquent) ou deux fenêtres (rare) au rez-de-chaussée en façade et de deux fenêtres en façade à
+    l’étage (fréquent).
+  - Présence d’une fenêtre dans le haut du pignon (fréquent) de forme variée (à l’origine).
+  - Les fenêtres types sont verticales, à guillotine avec 4 carreaux (fréquent), 6 carreaux (rare), 9 carreaux (rare)
+    ou 12 carreaux (occasionnel).
+  revetement:
+  - Les murs sont généralement recouverts de planches de bois horizontales (à clin ou à feuillure) ou de planches
+    verticales. Le bardeau de bois est parfois utilisé comme matériau de recouvrement sur le pignon en façade (rare).
+  - Les angles de la maison sont soulignés par des planches cornières (fréquent).
+  ornementation:
+  - Les maisons allumettes en bois de deux à deux étages et demi sont sobres et présentent relativement peu d’ornements,
+    hormis quelques rares exceptions.
+  - À l’origine, chaque maison allumette en bois possédait des chambranles en bois autour des ouvertures.
+  - Retour de l’avant-toit (occasionnel).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Enlargements should be made at the rear of the building and remain barely visible from the street. In the
+  case of a contemporary rear enlargement, the new volume could draw on the scale and the forms of the original extensions
+  or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries, as well as the massing.'
+- 'Prefer: When replacement of the original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could however be permitted.'
+- 'Avoid: Avoid enlargements or additions in height that would alter the massing of the roof or the precedence of
+  the main volume.'
+- 'Avoid: Avoid dismantling the original galleries or other projections without replacing them.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of panes similar
+  to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings (an off-centre door on the façade flanked
+  by a window, and one to two windows on the façade at the upper storey).'
+- 'Prefer: If dormers are added, favour discreet models, such as shed dormers.'
+- 'Avoid: Where the house has a secondary entrance, avoid removing it.'
+- 'Avoid: Avoid replacing sash windows with casement windows or with any other type of window or mode of opening.'
+- 'Avoid: Avoid altering the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials, such as wood or an imitation
+  of wood (e.g. fibre-cement).'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not match the pre-identified original cladding
+  materials.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not match the pre-identified originals or that never existed on the building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d’origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d’origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l’aspect rappelle l’original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter de démanteler les galeries ou autres saillies originales sans les remplacer.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures (une porte décentrée en façade jouxtée d'une fenêtre
+  et une à deux fenêtres en façade à l'étage).
+- Si des lucarnes sont ajoutées, privilégier des modèles discrets, comme des lucarnes rampantes.
+- Lorsque la maison possède une entrée secondaire, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de fenêtres ou
+  mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés tels que le bois ou l'imitation
+  du bois (p. ex. fibro-ciment).
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n’est pas possible.
+- Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: 'Gable end to the street, twenty feet wide because the lot was, a covered gallery or lean-to porch on the
+  front and a door pushed off to one side: the house that E. B. Eddy''s match works and the sawmills built by the
+  hundred along Hull''s narrow Wright-survey lots.'
+origin_en: 'The "maison allumette" appears from the 1870s, its origin tied to the opening of the American market to
+  Canada: commercial and cultural exchange between the two countries brought in American architectural catalogues
+  whose illustrated plans and building instructions for wooden workers'' houses were popular with Canadian contractors
+  and amateur builders. Its rise also coincides with the demographic explosion of 1871 to 1891 in what is now the
+  Ville de Gatineau, driven by industrialisation and rural exodus, while standardised lumber and the large sawmills
+  at Hull made wood easy to obtain for house construction. Although matchstick houses exist in the Aylmer and Buckingham
+  sectors too, their narrow form is attributed to the rectangular subdivision of the Wright family lands at Hull,
+  surveyed by W. A. Austin in 1864; the narrowness and depth of the lots led American settler houses — rectangular,
+  with the ridge parallel to the street — to be rotated 90 degrees, bringing the gable wall to the front. The first
+  model was of wood with a storey and a half; a second generation of two and a half storeys emerged from the 1880s,
+  and a third, L-shaped with high foundations, between 1900 and 1915.'
+photos:
+- file: assets/places/gatineau/maison-allumette-commons.jpg
+  credit: A restored two-storey wooden maison allumette in Gatineau — © JeanPaulGRingault, Wikimedia Commons, CC BY-SA
+    4.0. Stands in for the fiche's own photograph of 30, rue Hanson (Enclume. 2023), which the City's conditions of
+    use do not allow to be republished.
+  kind: single

@@ -1,0 +1,175 @@
+id: gatineau.maison-bois-toit-plat
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 12
+name_en: Flat-roofed wood house (maison en bois à toit plat)
+name_fr: La maison en bois à toit plat
+source_ref: Ville de Gatineau, fiche « La maison en bois à toit plat » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- brick-box-flat-or-hipped-2st
+styles:
+- boomtown
+style_label: null
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: flat-or-low-slope
+  pitch_deg: 0
+window_proportion: null
+principal_cladding:
+- wood-clapboard
+- wood-shiplap
+- pressed-metal
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - 'Roof form: flat roof, or low-slope roof sloping down towards the rear.'
+  - 'Height: two storeys above ground.'
+  - 'Ground plan: rectangular plan perpendicular to the street (frequent).'
+  - Secondary volume at the rear, projecting laterally in relation to the main body (occasional).
+  - The flat-roofed wood house is sometimes semi-detached or in a row.
+  - 'Projections: porch (frequent) or covered gallery at the front (occasional) with a shed roof, with a triangular
+    pediment (occasional).'
+  - Square wooden columns (frequent) or round ones (occasional) supporting the roof of the porch or of the gallery.
+  - Gallery and balustrade with simple wooden posts.
+  articulation:
+  - Flat-roofed wood houses have generally sober ornamentation, concentrated on the roof overhang and the openings.
+  - Simple roof overhang, or one enhanced with a cornice ornamented with brackets, dentils or modillions (frequent),
+    on the front façade.
+  - Corner boards (frequent).
+  - Casings around the openings (frequent).
+  openings:
+  - 'Doors: simple main door with a window, off-centre in relation to the façade.'
+  - Presence of a transom above the door (occasional).
+  - 'Windows: presence of simple rectangular sash (guillotine) windows, with or without small panes (frequent).'
+  - Presence of one window on the ground floor on the façade and of one or two windows on the façade at the upper
+    storey (frequent).
+  - The ground-floor window is wider than those of the upper storey (rare).
+  materials:
+  - 'Walls: cladding of wood clapboard or of rabbeted (shiplap) boards (frequent).'
+  - Exterior cladding of embossed sheet metal (rare).
+profile_fr:
+  contexte:
+  - La maison en bois à toit plat, tout comme la plupart des maisons associées au style vernaculaire industriel, a
+    vu le jour suite à l’industrialisation et à la standardisation des matériaux de construction. En effet, la transformation
+    du bois d’œuvre en colombages de différentes dimensions (2" × 4", 2" × 6", etc.) a permis l’application de nouvelles
+    techniques, telle que la construction à ossature de bois dès les années 1860.
+  - Cette nouvelle façon de faire permet alors de construire plus rapidement et plus économiquement, créant des maisons
+    plus spacieuses, sur deux étages complets et accessibles à la classe ouvrière. La maison en bois à toit plat est
+    intimement liée à l’industrialisation, non seulement en raison des matériaux standardisés et des nouvelles techniques
+    qui l’ont engendrée, mais aussi par sa volonté de loger une population ouvrière travaillant dans les usines et
+    nouvellement installée dans les villes, dès la fin du 19e siècle jusqu’au début du 20e siècle. C’est pourquoi
+    la plupart de ces maisons se retrouvent dans les milieux urbains denses. Aux États-Unis, on associe souvent ce
+    type au style Boomtown, qui a connu un développement fulgurant au moment de l’industrialisation.
+  repartition:
+  - Présence marquée dans le secteur de Hull et, dans une moindre mesure, dans les secteurs d’Aylmer, de Gatineau
+    et de Masson-Angers.
+  volumetrie:
+  - Toit plat ou à faible pente descendant vers l’arrière.
+  - Deux étages hors-sol.
+  - Plan rectangulaire perpendiculaire à la rue (fréquent).
+  - Corps secondaire à l’arrière et en saillie latéralement par rapport au corps principal (occasionnel).
+  - La maison en bois à toit plat est parfois jumelée ou en rangée.
+  - Porche (fréquent) ou galerie couverte à l’avant (occasionnel) avec toit en appentis, avec fronton triangulaire
+    (occasionnel).
+  - Colonnes en bois carrées (fréquent) ou rondes (occasionnel) soutenant le toit du porche ou de la galerie.
+  - Galerie et balustrade avec poteaux simples en bois.
+  ouvertures:
+  - Porte principale simple avec fenêtre, décentrée par rapport à la façade.
+  - Présence d’une imposte au-dessus de la porte (occasionnel).
+  - Présence de fenêtres rectangulaires simples à guillotine avec ou sans carreaux (fréquent).
+  - Présence d’une fenêtre au rez-de-chaussée en façade et d’une ou deux fenêtres en façade à l’étage (fréquent).
+  - La fenêtre du rez-de-chaussée est plus large que celles de l’étage (rare).
+  revetement:
+  - Revêtement en clins de bois ou en planches à feuillure (fréquent).
+  - Revêtement extérieur en tôle embossée (rare).
+  ornementation:
+  - Les maisons en bois à toit plat ont une ornementation généralement sobre, se concentrant sur le débord de toit
+    et les ouvertures.
+  - Débord de toit simple ou agrémenté d’une corniche ornementée de consoles, de denticules ou de modillons (fréquent)
+    sur la façade avant.
+  - Planches cornières (fréquent).
+  - Chambranles autour des ouvertures (fréquent).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Extensions should be made at the rear of the building and remain barely visible from the street. In the
+  case of a contemporary extension at the rear, the new volume could draw on the scale and the forms of the original
+  extensions or secondary volumes.'
+- 'Prefer: Original projecting elements should be maintained and preserved as far as possible.'
+- 'Prefer: Favour a flat roof for extensions.'
+- 'Avoid: Avoid extensions or additions in height that would alter the massing of the roof or the precedence of the
+  main volume.'
+- 'Avoid: Avoid the removal of a projection, the significant alteration of the shape of its openings, or its covering
+  with materials that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of small panes
+  similar to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Avoid: When the house has a second entrance, avoid removing it.'
+- 'Avoid: Avoid replacing sash windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid altering the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials, such as wood clapboard or
+  rabbeted (shiplap) boards. Other complementary materials could however be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials of the main body.'
+- 'Prefer: Original ornamentation should be maintained and kept, or else replaced as faithfully as possible when its
+  preservation is not possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l’arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d’un agrandissement contemporain à l’arrière, le nouveau volume pourrait s’inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d’origine.
+- Les éléments en saillie d’origine devraient être entretenus et préservés autant que possible.
+- Privilégier un toit plat pour les agrandissements.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter le retrait d’une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l’original ou à d’autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Lorsque la maison possède une deuxième entrée, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d’ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d’origine identifiés comme le clin de bois
+  ou les planches à feuillure. D’autres matériaux complémentaires pourraient cependant être envisagés pour l’ajout
+  d’un nouveau volume.
+- Éviter de choisir un revêtement dont l’aspect ou le fini ne correspond pas aux matériaux de revêtement d’origine
+  préidentifiés pour le corps principal.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées le plus fidèlement possible
+  lorsque leur préservation n’est pas possible.
+- Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: Two storeys under a flat roof, or one pitched just enough to drain to the rear, on a rectangular plan. A
+  porch or covered gallery on square wood posts under a shed roof fronts an off-centre door, and the ornament is saved
+  for the eaves — a plain overhang, or a cornice on brackets, dentils or modillions — with corner boards and casings
+  around the openings.
+origin_en: 'Like most houses of the industrial vernacular style, the flat-roofed wood house appeared in the wake of
+  industrialisation and the standardisation of building materials: milling lumber into studs of set dimensions (2"
+  × 4", 2" × 6", etc.) made new techniques possible, notably wood-frame construction from the 1860s. Building this
+  way was faster and cheaper and produced roomier houses, of two full storeys, within reach of the working class.
+  The type is bound to industrialisation not only through its standardised materials and the new techniques that produced
+  it, but through its purpose — housing a factory workforce newly settled in the cities, from the end of the 19th
+  century into the beginning of the 20th — which is why most of these houses are found in dense urban settings. In
+  the United States the type is often associated with the Boomtown style, which developed spectacularly at the time
+  of industrialisation.'
+photos:
+- file: null
+  credit: 'Enclume. 2023. 855, rue Jacques-Cartier — Ville de Gatineau. Not reproduced: the City''s conditions of
+    use prohibit republication to third parties.'
+  kind: placeholder

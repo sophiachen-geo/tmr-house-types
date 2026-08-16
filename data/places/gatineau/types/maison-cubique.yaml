@@ -1,0 +1,194 @@
+id: gatineau.maison-cubique
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 10
+name_en: Cubic house (maison cubique)
+name_fr: La maison cubique
+source_ref: Ville de Gatineau, fiche « La maison cubique » (Passerelles Coopérative en patrimoine, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- foursquare-hipped-2st
+styles:
+- foursquare
+style_label: null
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: hipped-or-pyramidal
+  pitch_deg: 30
+window_proportion: null
+principal_cladding:
+- clay-brick-red
+- wood-clapboard
+- concrete-block
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built in every region of Québec, the cubic house is particularly present in the industrial towns of the period,
+    Hull among them, but also Aylmer and Buckingham; the type is likewise very popular in the countryside.
+  - Marked presence in the Hull, Aylmer and Buckingham sectors and, to a lesser extent, in the Gatineau and Masson-Angers
+    sectors.
+  massing:
+  - Four-slope pavilion (pyramidal) or hipped roof.
+  - Medium to low roof pitch (less than 30°).
+  - Two storeys to two and a half storeys.
+  - Square or slightly rectangular ground plan (particularly in the Hull sector, where the plans are narrower on account
+    of the lot format).
+  - Secondary body at the rear or to the side, of one or two storeys (frequent).
+  - Front gallery (frequent) and side gallery (rare).
+  - The edges of the gallery roof may be straight or truncated.
+  - Porch on the façade (occasional).
+  - Balcony on the façade at the upper storey (occasional).
+  - Square wood columns of about 8 to 10 inches on a side (frequent), resting on masonry plinths (occasional).
+  - Wood balustrade on the gallery (frequent).
+  articulation:
+  - Cubic houses have generally sober ornamentation, concentrated on the openings and the gallery.
+  - Soldier-course brick (frequent) or lintels of cut stone or moulded concrete above the openings (frequent), and
+    moulded concrete sills below the windows (frequent).
+  - Corner boards and casings where the cladding is wood (frequent).
+  openings:
+  - Single door generally surmounted by a transom, off-centre (frequent) or centred on the façade (occasional).
+  - The openings are aligned horizontally, but not necessarily vertically.
+  - One (frequent) or two windows (occasional) on the ground floor, often wider than those of the upper storey.
+  - Sash (guillotine) windows (frequent) or casements (occasional), single, paired (frequent) or in triplets (occasional),
+    with or without muntins.
+  - Dormer with a triangular pediment, shed dormer or hipped dormer on the façade (frequent).
+  materials:
+  - Red brick cladding of Modular format (8" × 2 ½" × 3 ½"), with a stretcher bond (frequent), striated or smooth.
+  - Wood clapboard or shiplap board cladding (occasional).
+  - Concrete block cladding (occasional), above all in the Buckingham, Gatineau and Masson-Angers sectors.
+profile_fr:
+  contexte:
+  - La maison cubique se popularise au début du 20e siècle grâce aux catalogues américains de plans architecturaux
+    qui connaissent également un grand succès au Canada. À partir des années 1890, ces magazines publient des plans
+    de maisons cubiques qui deviennent un incontournable dès les années 1900.
+  - À cette époque, la construction résidentielle se démocratise, facilitée par l'avènement de matériaux de construction
+    et d'éléments architecturaux standardisés et usinés. On associe d'ailleurs ce type à l'architecture vernaculaire
+    industrielle. Implantée dans toutes les régions du Québec, la maison cubique est particulièrement présente dans
+    les villes industrielles de l'époque, dont Hull, mais aussi Aylmer et Buckingham. Ce type de maison est également
+    très populaire dans les campagnes.
+  - Outre les pièces de bois qui composent la structure et la charpente, les éléments standardisés et préfabriqués
+    se retrouvent notamment dans l'ornementation extérieure et intérieure. Cette variété d'éléments ornementaux et
+    de revêtements permet aussi à la maison cubique d'adopter différents styles architecturaux.
+  - La popularité des maisons cubiques est également due aux grandes dimensions que permet un plan carré sur deux
+    étages, offrant ainsi une surface habitable accrue. Grâce à l'industrialisation et à la diminution des coûts de
+    construction que celle-ci provoque, les maisons cubiques deviennent un modèle abordable.
+  repartition:
+  - Présence marquée dans les secteurs de Hull, d'Aylmer et de Buckingham et, dans une moindre mesure, dans les secteurs
+    de Gatineau et de Masson-Angers.
+  volumetrie:
+  - Toit à quatre versants en pavillon ou à croupe.
+  - Pente de toit de moyenne à faible (moins de 30°).
+  - Deux étages à deux étages et demi.
+  - Plan de forme carré ou légèrement rectangulaire (particulièrement dans le secteur de Hull où les plans sont plus
+    étroits en raison du format des lots).
+  - Corps secondaire à l'arrière ou latéral d’un ou deux étages (fréquent).
+  - Galerie avant (fréquent) et latérale (rare).
+  - Les arêtes du toit de la galerie peuvent être droites ou tronquées.
+  - Porche en façade (occasionnel).
+  - Balcon en façade à l'étage (occasionnel).
+  - Colonnes carrées en bois d'environ 8 à 10 pouces de côté (fréquent) reposant sur des socles de maçonnerie (occasionnel).
+  - Balustrade en bois sur la galerie (fréquent).
+  ouvertures:
+  - Porte simple généralement surmontée d'une imposte, décentrée (fréquent) ou centrée sur la façade (occasionnel).
+  - Les ouvertures sont alignées horizontalement, mais pas nécessairement verticalement.
+  - Une (fréquent) ou deux fenêtres (occasionnel) au rez-de-chaussée, souvent plus larges que celles de l'étage.
+  - Fenêtres à guillotine (fréquent) ou à battants (occasionnel), simples, jumelées (fréquent) ou en triplet (occasionnel),
+    avec ou sans carreaux.
+  - Lucarne à fronton triangulaire, rampante ou à croupe en façade (fréquent).
+  revetement:
+  - Revêtement en brique rouge de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage en panneresse (fréquent),
+    striées ou lisses.
+  - Revêtement en clins de bois ou en planches à feuillure (occasionnel).
+  - Revêtement en blocs de béton (occasionnel), surtout dans les secteurs de Buckingham, de Gatineau et de Masson-Angers.
+  ornementation:
+  - Les maisons cubiques ont une ornementation généralement sobre, se concentrant sur les ouvertures et la galerie.
+  - Briques en soldat (fréquent) ou linteaux en pierre de taille ou en béton moulé au-dessus des ouvertures (fréquent)
+    et allèges en béton moulé en dessous des fenêtres (fréquent).
+  - Planches cornières et chambranles lorsque le revêtement est en bois (fréquent).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Significant enlargements, additions or alterations should be carried out at the rear of the building and
+  remain little visible from the street. In the case of a contemporary rear extension, the new volume could take its
+  cue from the size and forms of the original extensions already found on certain houses.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.'
+- 'Prefer: Where replacement of the original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could nevertheless be permitted.'
+- 'Avoid: Avoid enlargements or additions in height that would alter the massing of the roof or the precedence of
+  the main volume.'
+- 'Avoid: Avoid removing a projection or a gallery, significantly changing the shape of the openings, or covering
+  over with materials that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models, or casement windows according to the original
+  window type. Favour a model with a number of panes similar to the original or to other houses of the same model
+  built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings (an off-centre door on the façade flanked
+  by a window, and one to two windows on the façade at the upper storey).'
+- 'Avoid: Where the house has a secondary entrance, avoid removing it.'
+- 'Avoid: Avoid replacing sash (guillotine) windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid altering the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials, such as wood or the imitation
+  of wood or of brick. Complementary materials could be chosen for an enlargement or an addition.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced where its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements, ajouts ou modifications significatifs devraient être réalisés à l'arrière du bâtiment et demeurer
+  peu visibles de la rue. Dans le cas d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer
+  du gabarit et des formes des extensions originales qu'on retrouve déjà sur certaines maisons.
+- Entretenir et maintenir les composantes d'origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d'origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l'aspect rappelle l'original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter le retrait d'une saillie ou d'une galerie, le changement significatif de la forme des ouvertures ou encore
+  le recouvrement par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine, ou des fenêtres à battants selon le type
+  de fenêtres d'origine. Favoriser un modèle avec un nombre similaire de carreaux par rapport à l'original ou à d'autres
+  maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures (une porte décentrée en façade jouxtée d'une fenêtre
+  et une à deux fenêtres en façade à l'étage).
+- Lorsque la maison possède une entrée secondaire, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés tels que le bois ou l'imitation
+  du bois ou de la brique. Des matériaux complémentaires pourraient être choisis pour un agrandissement ou un ajout.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n'est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: Two to two and a half storeys on a square or barely rectangular plan — narrower in Hull, where the lots
+  are — under a four-slope pavilion or hipped roof pitched under 30 degrees. A front gallery on square wood columns
+  about 8 to 10 inches on a side, a door off-centre under its transom, and frequently a dormer on the front. Red Modular
+  brick in stretcher bond, clapboard, or concrete block in the eastern sectors.
+origin_en: The cubic house became popular at the start of the 20th century through the American architectural plan
+  catalogues, which also enjoyed great success in Canada; from the 1890s those magazines published cubic-house plans,
+  and by the 1900s the type had become a staple. Residential construction was democratising at the same time, eased
+  by the arrival of standardised, machine-made building materials and architectural components — which is why the
+  type is associated with industrial vernacular architecture. Beyond the timbers of the structure and frame, the standardised
+  and prefabricated elements turn up above all in the exterior and interior ornamentation, and that variety of ornaments
+  and claddings also let the cubic house take on different architectural styles. Its popularity owed as well to the
+  generous dimensions allowed by a square plan on two storeys, giving increased living space; industrialisation and
+  the fall in construction costs it brought made the cubic house an affordable model.
+photos:
+- file: null
+  credit: 'Passerelles Coopérative en patrimoine. 2023. 57, rue Principale — Ville de Gatineau. Not reproduced: the
+    City''s conditions of use prohibit republication to third parties.'
+  kind: placeholder

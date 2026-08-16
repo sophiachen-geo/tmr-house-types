@@ -1,0 +1,196 @@
+id: gatineau.maison-pignon-central
+place: gatineau
+phase: p2
+phase_confidence: verified
+display_order: 4
+name_en: Central-gable house (maison à pignon central)
+name_fr: La maison à pignon central
+source_ref: Ville de Gatineau, fiche « La maison à pignon central » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- central-gable-house
+styles:
+- neoclassical-quebec
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- wood-clapboard
+- wood-shiplap
+- wood-piece-sur-piece
+- clay-brick-red
+- stone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Marked presence in the Aylmer sector and, to a lesser extent, in the Hull and Buckingham sectors.
+  massing:
+  - 'Roof form: straight two-slope (gable) roof of medium pitch.'
+  - Central gable centred on the front façade, whose width varies.
+  - 'Height: one and a half storeys (frequent) to two and a half storeys (rare).'
+  - 'Ground plan: rectangular plan with the longest side facing the street.'
+  - 'Projections: gallery covered by a shed roof on the façade (occasional).'
+  - Porch sheltering the main entrance, placed at the centre of the façade (occasional).
+  - Worked wooden columns and posts supporting the roof of a gallery or a porch (frequent).
+  - Chimneys at the top of the side walls (frequent).
+  articulation:
+  - Central-gable houses are little ornamented, apart from the woodwork details of the projections.
+  - Soldier-course stones (frequent) or arched stone lintels (frequent) framing the openings on stone houses.
+  - Wooden casings framing the openings (frequent) on wood-clad houses.
+  - Corner boards on wood-clad houses (frequent).
+  openings:
+  - 'Doors: main entrance door at the centre of the façade with a transom and/or sidelights (frequent).'
+  - 'Windows: the typical windows are vertical, single (frequent) or paired (occasional), sash windows with 4 panes
+    (occasional), 6 panes (rare), 9 panes (rare) or 12 panes (frequent).'
+  - Presence of two windows on the ground floor of the façade, placed on either side of the main door.
+  - Presence of a single window (occasional), a paired window (occasional) or triplets with side lights differing
+    from the central light (occasional) in the central gable on the façade at the upper level. The window there is
+    often wider than those of the ground floor.
+  materials:
+  - 'Wall: exterior cladding in wood clapboard, in rabbeted (shiplap) boards (occasional) or in pièce sur pièce (occasional).'
+  - Exterior cladding in red brick of Modular format (8" × 2 ½" × 3 ½"), with a stretcher bond (occasional).
+  - Exterior cladding in stone (occasional).
+profile_fr:
+  contexte:
+  - La maison à pignon central figure parmi les premiers types bâtis résidentiels à s’implanter dans la région de
+    Hull dès les années 1830. Ce type est construit tout au long du 19e siècle en s'inspirant d'éléments architecturaux
+    caractéristiques de différents styles. On l’associe par exemple à l’architecture vernaculaire ontarienne en raison
+    de sa forte popularité dans les communautés rurales du Haut-Canada, principalement dans le corridor entre les
+    villes de Kingston et Ottawa, où plusieurs de ces maisons datant d’avant 1860 sont construites en pierre.
+  - Au Québec, on la retrouve souvent dans les communautés anglophones du sud de la province. La maison à pignon central
+    devient également une variante de la maison d’influence industrielle américaine, rendue possible grâce à la standardisation
+    des matériaux, et se répand dans les autres régions du Québec, notamment en Gaspésie et dans les Maritimes avec
+    une ornementation souvent plus simplifiée.
+  - Les différents éléments architecturaux retrouvés sur les maisons à pignon central l’associent parfois au style
+    néo-gothique, notamment par la présence d’ouvertures en ogive, d’un revêtement extérieur en bois, de bordures
+    de rive de toit ouvragées ou d’un épi de faîtage couronnant la lucarne pignon. Ces derniers éléments ne sont toutefois
+    pas présents à Gatineau. La maison à pignon central est ici davantage tributaire du style géorgien par le plan
+    rectangulaire, le revêtement en pierre, la composition symétrique, le pignon en façade et la porte centrale, surmontée
+    d’une imposte en éventail et encadrée par d’étroites fenêtres latérales.
+  repartition:
+  - Présence marquée dans le secteur d’Aylmer et, dans une moindre mesure, dans les secteurs de Hull et de Buckingham.
+  volumetrie:
+  - Forme du toit – Toit à deux versants droits de pente moyenne.
+  - Forme du toit – Pignon central centré en façade avant dont la largeur varie.
+  - Hauteur – Un étage et demi (fréquent) à deux étages et demi (rare).
+  - Plan au sol – Plan de forme rectangulaire avec le pan le plus long face à la rue.
+  - Saillies – Galerie couverte par un toit en appentis en façade (occasionnel).
+  - Saillies – Porche protégeant l’entrée principale disposé au centre de la façade (occasionnel).
+  - Saillies – Colonnes et poteaux ouvragés en bois soutenant le toit d’une galerie ou d’un porche (fréquent).
+  - Saillies – Cheminées au sommet des murs latéraux (fréquent).
+  ouvertures:
+  - Portes – Porte d’entrée principale au centre de la façade avec imposte et/ou fenêtres latérales (fréquent).
+  - Fenêtres – Les fenêtres types sont verticales, simples (fréquent) ou jumelées (occasionnel), à guillotine avec
+    4 carreaux (occasionnel), 6 carreaux (rare), 9 carreaux (rare) ou 12 carreaux (fréquent).
+  - Fenêtres – Présence de deux fenêtres au rez-de-chaussée en façade et situées de part et d’autre de la porte principale.
+  - Fenêtres – Présence d’une fenêtre simple (occasionnel), jumelée (occasionnel) ou triplets à baies latérales différentes
+    de la baie centrale (occasionnel) dans le pignon central en façade à l’étage. La fenêtre y est souvent plus large
+    que celles du rez-de-chaussée.
+  revetement:
+  - Mural – Revêtement extérieur en clins de bois, en planches à feuillure (occasionnel) ou en pièce sur pièce (occasionnel).
+  - Mural – Revêtement extérieur en briques rouges de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage en panneresse
+    (occasionnel).
+  - Mural – Revêtement extérieur en pierres (occasionnel).
+  ornementation:
+  - Les maisons à pignon central sont peu ornementées, hormis les détails des boiseries des saillies.
+  - Pierres en soldat (fréquent) ou linteaux arqués en pierre (fréquent) encadrant les ouvertures sur les maisons
+    en pierre.
+  - Chambranles en bois encadrant les ouvertures (fréquent) sur les maisons recouvertes de bois.
+  - Planches cornières sur les maisons recouvertes de bois (fréquent).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Additions should be made at the rear of the building and remain little visible from the street. In the
+  case of a contemporary addition at the rear, the new volume could take inspiration from the size and the forms of
+  the original extensions or secondary volumes.'
+- 'Prefer: Preserve the symmetry of the volume and of the façade composition.'
+- 'Prefer: Maintain the original exterior projections (gallery, storm porch, etc.) and replace them if their preservation
+  is not possible.'
+- 'Avoid: Avoid additions or upward extensions that would alter the massing of the roof or the precedence of the main
+  volume.'
+- 'Avoid: Avoid an addition on the façade that would harm the perception of the original volume.'
+- 'Avoid: Avoid the removal of a projection, a significant change to the form of its openings, or its covering with
+  materials not corresponding to the initial materials.'
+- 'Avoid: Avoid adding dormers on the front façade.'
+- 'Prefer: Preserve and maintain the original openings as far as possible. Favour a model with a similar number of
+  panes relative to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Prefer: Replace the original openings with models of similar appearance if necessary.'
+- 'Prefer: For the windows in the gable, keep the form of the window.'
+- 'Avoid: Avoid changing the format and the arrangement of the original openings on the façade.'
+- 'Avoid: Avoid replacing sash windows with casement windows or with any other type of window whose muntin orientation
+  and appearance would differ.'
+- 'Avoid: Avoid modifying the dimensions of the windows or blocking them up.'
+- 'Prefer: Preserve and maintain the original claddings.'
+- 'Prefer: Choose claddings whose appearance corresponds to those identified in this fiche for a replacement or an
+  addition.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the original cladding materials
+  pre-identified for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced as faithfully as possible when
+  its preservation is not possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l’arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d’un agrandissement contemporain à l’arrière, le nouveau volume pourrait s’inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Préserver la symétrie du volume et de la composition en façade.
+- Maintenir les saillies extérieures d’origine (galerie, tambour, etc.) et les remplacer si leur préservation n’est
+  pas possible.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter un ajout en façade qui nuirait à la perception du volume original.
+- Éviter le retrait d’une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Éviter d'ajouter des lucarnes en façade avant.
+- Préserver et entretenir les ouvertures d’origines autant que possible. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Remplacer les ouvertures originales par des modèles d’aspect similaire si nécessaire.
+- Pour les fenêtres dans le pignon, conserver la forme de la fenêtre.
+- Éviter de changer le format et la disposition des ouvertures originales en façade.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battant ou par tout autre type de fenêtre dont
+  l’orientation des meneaux et l'aspect différeraient.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Préserver et entretenir les revêtements d’origine.
+- Choisir des revêtements dont l’aspect correspond à ceux identifiés dans cette fiche pour un remplacement ou un agrandissement.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées le plus fidèlement possible
+  lorsque leur préservation n’est pas possible.
+- Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: 'A rectangular house set broadside to the street under a straight gable roof of medium pitch, with one gable
+  rising at the centre of the front — narrow on some houses, wide on others. The front is symmetrical: a central door,
+  frequently with a transom and/or sidelights, a window to either side, and a window in the central gable.'
+origin_en: 'The central-gable house is among the first residential building types to take hold in the Hull region,
+  from the 1830s, and was built throughout the 19th century, drawing on architectural elements characteristic of several
+  styles. It is associated with Ontario vernacular architecture because of its strong popularity in the rural communities
+  of Upper Canada, chiefly in the corridor between Kingston and Ottawa, where many pre-1860 examples are built of
+  stone. In Québec it is often found in the anglophone communities of the south of the province; it also became a
+  variant of the American industrial-influence house, made possible by the standardisation of materials, and spread
+  to the other regions of Québec, notably the Gaspésie and the Maritimes, with often simplified ornamentation. The
+  neo-Gothic features sometimes associated with the type — pointed-arch openings, wooden cladding, worked bargeboards,
+  a finial crowning the gable dormer — are not present in Gatineau, where the type owes more to the Georgian style:
+  rectangular plan, stone cladding, symmetrical composition, front gable, and a central door surmounted by a fanlight
+  transom and framed by narrow sidelights.'
+photos:
+- file: null
+  credit: 'Enclume. 2023. 465, rue Parker — Ville de Gatineau. Not reproduced: the City''s conditions of use prohibit
+    republication to third parties.'
+  kind: placeholder

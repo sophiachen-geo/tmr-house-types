@@ -1,0 +1,175 @@
+id: gatineau.duplex-mur-pignon-lateral
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 3
+name_en: Side-gable duplex (duplex à mur pignon latéral)
+name_fr: LE DUPLEX À MUR PIGNON LATÉRAL
+source_ref: Ville de Gatineau, fiche « Le duplex à mur pignon latéral » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- side-gable-duplex
+styles:
+- vernaculaire-industriel
+style_label: null
+tenure_plan: duplex
+storeys: 1.5–2.5
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick-red
+- wood-clapboard
+- wood-shiplap
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Roof with two straight slopes of medium pitch.
+  - One and a half to two and a half storeys.
+  - The upper storey is located in the attic.
+  - Rectangular ground plan parallel to the street.
+  - Veranda with a shed roof on the front facade (frequent), with or without a balustrade.
+  - Square wooden columns supporting the veranda roof (frequent), whose dimensions vary between 4 1/2 and 6 1/2 inches,
+    or turned wooden posts supporting the veranda roof (occasional).
+  - Annex with a shed or low-pitched roof at the rear of the building (occasional).
+  - Presence of a pedimented porch (rare).
+  - Two gabled dormers or pendant-window dormers on the front facade (frequent) on the one-and-a-half-storey model
+    and (occasional) on the two-and-a-half-storey model.
+  articulation:
+  - The side-gable duplex is relatively plain. Ornamentation concerns mainly the veranda, the shape of the windows
+    and their surrounds.
+  - Eaves returns (frequent).
+  - Wooden casings around the windows on wood-clad duplexes (frequent).
+  - Corner boards on wood-clad duplexes (frequent).
+  - Soldier-course brick masonry above the openings of brick-clad duplexes (rare).
+  openings:
+  - Two single glazed doors on the facade, placed side by side symmetrically at the centre of the facade (frequent),
+    with transoms (occasional).
+  - Two single glazed doors placed symmetrically at each end of the facade (occasional), with transoms (occasional).
+  - Simple sash (guillotine) windows with panes (frequent).
+  materials:
+  - Cladding of red clay brick of Modular format (8" x 2 1/2" x 3 1/2") with stretcher bond (frequent).
+  - Exterior cladding of wood clapboard or rabbeted (shiplap) boards (occasional).
+profile_fr:
+  contexte:
+  - Le duplex à mur pignon latéral est inspiré de l’architecture vernaculaire américaine de la fin du 19e siècle,
+    notamment des maisons de colons avec façade sur le mur de long pan et ligne faîtière de la toiture parallèle à
+    la rue. Il intègre toutefois les nouveaux éléments et matériaux standardisés que l’industrialisation en Amérique
+    du Nord permet de produire à grande échelle. Ainsi, la présence de scieries à Hull a facilité l’accès au bois
+    d'œuvre et a engendré la prolifération de ce type bâti. Ce dernier intègre également un nouveau type de structure,
+    la structure à claire-voie, rendue elle-aussi possible par la standardisation du bois d'œuvre.
+  - La configuration spatiale d'apparence jumelée répond à des exigences de rationalisation de l’espace en milieu
+    urbain, particulièrement dans le contexte très dense des quartiers ouvriers où se retrouve cette typologie. Elle
+    a d’ailleurs fait son apparition à Gatineau au début du 20e siècle, au moment où l'urbanisation est propulsée
+    par la forte demande en main-d'œuvre en lien avec l’industrialisation galopante.
+  repartition:
+  - Présence marquée dans le secteur de Hull et, dans une moindre mesure, dans le secteur de Buckingham.
+  volumetrie:
+  - Toit à deux versants droits de pente moyenne.
+  - Un étage et demi à deux étages et demi.
+  - L'étage supérieur est situé dans les combles.
+  - Plan de forme rectangulaire parallèle à la rue.
+  - Galerie avec toit en appentis sur la façade avant (fréquent), avec ou sans balustrade.
+  - Colonnes carrées en bois supportant le toit de la galerie (fréquent), dont les dimensions varient entre 4 ½ et
+    6 ½ pouces, ou poteaux en bois tourné supportant le toit de la galerie (occasionnel).
+  - Annexe avec toit en appentis ou à faible pente à l’arrière du bâtiment (occasionnel).
+  - Présence d'un porche à fronton (rare).
+  - Deux lucarnes à pignons ou à fenêtres pendantes en façade avant (fréquent) sur le modèle à un étage et demi et
+    (occasionnel) sur le modèle à deux étages et demi.
+  ouvertures:
+  - Deux portes simples vitrées en façade disposées côte à côte de façon symétrique au centre de la façade (fréquent)
+    avec impostes (occasionnel).
+  - Deux portes simples vitrées et disposées symétriquement à chaque extrémité de la façade (occasionnel) avec impostes
+    (occasionnel).
+  - Fenêtres simples à guillotine avec carreaux (fréquent).
+  revetement:
+  - Revêtement en brique d’argile rouge de format Modular (8" × 2 ½" × 3 ½") avec appareillage en panneresse (fréquent).
+  - Revêtement extérieur en clin de bois ou en planches à feuillure. (occasionnel).
+  ornementation:
+  - Le dublex à mur pignon latéral est relativement sobre. L’ornementation touche principalement la galerie, la forme
+    des fenêtres ainsi que leur habillage.
+  - Retours de l’avant-toit (fréquent).
+  - Chambranles en bois autour des fenêtres sur les duplex recouverts de bois (fréquent).
+  - Planches cornières sur les duplex recouverts de bois (fréquent).
+  - Briques en soldat en maçonnerie au-dessus des ouvertures des duplex recouverts de briques (rare).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Extensions should be made at the rear of the building and remain barely visible from the street. In the
+  case of a contemporary extension at the rear, the new volume could draw on the size and the forms of the original
+  extensions or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and verandas as well as the massing.'
+- 'Prefer: When the replacement of the original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could however be permitted.'
+- 'Prefer: Favour the rear slope if one or more dormers are added.'
+- 'Avoid: Avoid extensions or additions in height that would alter the massing of the roof or the precedence of the
+  main volume.'
+- 'Avoid: Avoid dismantling the original verandas or other projections without replacing them.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of panes similar
+  to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Prefer: Where the duplex is converted into a single-family house, maintain an opening at the location of the second
+  door.'
+- 'Avoid: Avoid replacing sash (guillotine) windows with casement windows or any other type of window.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials such as red brick, wood clapboard
+  or rabbeted (shiplap) board.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l’arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d’un agrandissement contemporain à l’arrière, le nouveau volume pourrait s’inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d’origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d’origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l’aspect rappelle l’original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Privilégier le versant arrière si une ou des lucarnes sont ajoutées.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter de démanteler les galeries ou autres saillies originales sans les remplacer.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Dans le cas où le duplex est transformé en maison unifamiliale, maintenir une ouverture à l'emplacement de la seconde
+  porte.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou tout autre type de fenêtre.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d’origine identifiés tels que la brique rouge,
+  le clin de bois ou la planche à feuillure.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n’est pas possible.
+- Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: A rectangular block set parallel to the street under a straight two-slope roof of medium pitch, its upper
+  storey in the roof space, and an arrangement that gives the pair the look of a semi-detached house. Two single glazed
+  doors sit side by side at the centre of the front, frequently behind a shed-roofed veranda on square wood posts.
+origin_en: The side-gable duplex draws on late-19th-century American vernacular architecture, notably settlers' houses
+  with the facade on the long wall and the roof ridge parallel to the street. It nonetheless incorporates the new
+  standardised elements and materials that industrialisation in North America made it possible to produce on a large
+  scale; the presence of sawmills in Hull eased access to lumber and drove the proliferation of the type, which also
+  adopted a new structural system, balloon framing, itself made possible by the standardisation of lumber. Its apparently
+  semi-detached spatial configuration answered a demand for rationalising space in urban settings, particularly in
+  the very dense context of the working-class districts where the type is found. It appeared in Gatineau at the beginning
+  of the 20th century, when urbanisation was being driven by strong labour demand tied to rapid industrialisation.
+photos:
+- file: null
+  credit: 'Enclume. 2023. 68-70, rue Vaudreuil — Ville de Gatineau. Not reproduced: the City''s conditions of use
+    prohibit republication to third parties.'
+  kind: placeholder

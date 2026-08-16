@@ -1,0 +1,197 @@
+id: gatineau.maison-cadre-cip
+place: gatineau
+phase: p4
+phase_confidence: verified
+display_order: 11
+name_en: CIP executive's house (maison de cadre de la CIP)
+name_fr: La maison de cadre de la CIP
+source_ref: Ville de Gatineau, fiche « La maison de cadre de la CIP » (Passerelles Coopérative en patrimoine, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors:
+- SP-MOULIN
+canonical:
+- company-house-executive-1925
+styles:
+- arts-and-crafts
+- tudor-revival
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled-multi
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- wood-shingle
+- wood-clapboard
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Roof form
+  - Medium-pitched to steep roof with perpendicular gables (frequent).
+  - Asymmetrical gable (occasional).
+  - Presence of flared eaves (coyaux) (frequent).
+  - Height
+  - One and a half to two and a half storeys.
+  - Ground plan
+  - Rectangular or L-shaped plan with numerous projections (frequent).
+  - Asymmetrical plan (frequent).
+  - Projections
+  - Outdoor space in the form of a loggia, or the main roof extending out over the stoop (frequent).
+  - Porch sheltering an entrance (rare).
+  - Columns and square posts supporting the porches (occasional).
+  - Oriel windows (rare).
+  articulation:
+  - Wooden casings framing the openings (frequent).
+  - Corner boards (frequent).
+  - Shutters or wooden blinds, ornamented with a carved motif (frequent).
+  - Presence of pilasters set into the façade at the entrance (occasional).
+  openings:
+  - Doors
+  - Main door plain or with side leaves (tierces) (frequent).
+  - Windows
+  - Sash (guillotine) windows, single (occasional), paired (frequent) or multiple (occasional), with 4 panes (rare),
+    8 panes (occasional) or 12 panes (frequent).
+  - Dormers of varied forms (shed dormer, with a pendant window, etc.) (occasional).
+  materials:
+  - Wall
+  - Exterior cladding of painted wood shingles (frequent).
+  - Exterior cladding of painted rabbeted boards or painted wood clapboard (frequent). The claddings are painted a
+    dark colour.
+  - Roof
+  - Asphalt shingle covering (originally).
+profile_fr:
+  contexte:
+  - Construites à la fin des années 1920, ces maisons étaient destinées à loger les cadres de la Canadian International
+    Paper (CIP) dont l’usine était adjacente et éponyme au Quartier-du-Moulin. Leur type bâti s’inscrit dans la mouvance
+    américaine Arts & Crafts, dont les caractéristiques stylistiques et architecturales ont été importées du Royaume-Uni
+    et adaptées au continent nord-américain. Ce style architectural privilégie des matériaux naturels tels que le
+    bois sous forme de bardeaux ou de planches, la brique ou encore la pierre.
+  - Les magazines architecturaux qui présentent différents modèles de maisons au début du 20e siècle connaissent une
+    grande popularité aux États-Unis et au Canada et contribuent à la diffusion du style Arts & Crafts dans le monde
+    anglo-saxon. Le torontois William Lyon Somerville, un des architectes attitrés de la CIP et concepteur présumé
+    de ces maisons, a probablement privilégié ce style architectural pour les résidences du Quartier-du-Moulin. Les
+    principes fondateurs de ce mouvement, tels que l’idéal du retour à la nature et l’attrait pour un mode de vie
+    pastoral, conviennent parfaitement aux principes de cité-jardin suivis par la compagnie dans la planification
+    de ses villes. Par exemple, les coyaux de toiture et les lucarnes rampantes qu’on retrouve sur certaines maisons
+    pourraient évoquer vaguement un toit de chaume.
+  repartition:
+  - Présence dans le secteur de Gatineau, et plus particulièrement dans le site patrimonial du Quartier-du-Moulin.
+  volumetrie:
+  - Forme du toit
+  - Toit à pente moyenne à abrupte et pignons perpendiculaires (fréquent).
+  - Pignon asymétrique (occasionnel).
+  - Présence de coyaux (fréquent).
+  - Hauteur
+  - Un étage et demi à deux étages et demi.
+  - Plan au sol
+  - Plan rectangulaire ou en L avec nombreuses saillies (fréquent).
+  - Plan asymétrique (fréquent).
+  - Saillies
+  - Espace extérieur en loggia ou toit principal se prolongeant au-dessus du perron (fréquent).
+  - Porche protégeant une entrée (rare).
+  - Colonnes et poteaux carrés soutenant les porches (occasionnel).
+  - Oriels (rare).
+  ouvertures:
+  - Portes
+  - Porte principale simple ou avec tierces (fréquent).
+  - Fenêtres
+  - Fenêtres à guillotine, simples (occasionnel), jumelées (fréquent) ou multiples (occasionnel), avec 4 carreaux
+    (rare), 8 carreaux (occasionnel) ou 12 carreaux (fréquent).
+  - Lucarnes de formes variées (rampante, à fenêtre pendante, etc.) (occasionnel).
+  revetement:
+  - Mural
+  - Revêtement extérieur en bardeaux de bois peinturés (fréquent).
+  - Revêtement extérieur en planches à feuillure peinturées ou en clins de bois peinturés (fréquent). Les parements
+    sont peints de couleur foncée.
+  - Toit
+  - Recouvrement en bardeaux d’asphalte (à l'origine).
+  ornementation:
+  - Chambranles de bois encadrant les ouvertures (fréquent).
+  - Planches cornières (fréquent).
+  - Contrevents ou volet en bois, ornementés d'un motif sculpté (fréquent).
+  - Présence de pilastres encastrés dans la façade au niveau de l'entrée (occasionnel).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Extensions should be built at the rear of the building and remain barely visible from the street. In the
+  case of a contemporary extension at the rear, the new volume, while leaving precedence to the original one, could
+  take inspiration from the scale and forms of the original projections or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.'
+- 'Prefer: Respect the principles of asymmetry when adding a new volume.'
+- 'Avoid: Avoid removing a projection, significantly changing the form of its openings, or covering it with materials
+  that do not correspond to the initial materials.'
+- 'Avoid: Avoid an addition on the front façade that would harm the perception of the original volume.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of panes similar
+  to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Avoid: Avoid replacing sash (guillotine) windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid modifying the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials. Other complementary materials
+  could however be considered for the addition of a new volume.'
+- 'Prefer: Favour architectural-type shingles when replacing the roof covering.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume, tout en laissant préséance à celui d’origine, pourrait
+  s'inspirer du gabarit et des formes des saillies ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d'origine des saillies et galeries ainsi que la volumétrie.
+- Respecter les principes d’asymétrie dans l’ajout d’un nouveau volume.
+- Éviter le retrait d'une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Éviter un ajout en façade qui nuirait à la perception du volume original.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés. D'autres matériaux complémentaires
+  pourraient cependant être envisagés pour l'ajout d'un nouveau volume.
+- Privilégier des bardeaux de type architecturaux lors du remplacement du revêtement de toiture.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n'est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: 'The paper company''s house for its managers: an Arts and Crafts cottage of one and a half to two and a
+  half storeys, its rectangular or L plan broken by projections, under a medium to steep roof with perpendicular gables
+  and flared coyaux, in dark-painted shingle or board, with carved shutters — set back behind a double row of trees
+  on three blocks of the Quartier-du-Moulin.'
+origin_en: Built at the end of the 1920s, these houses were intended to lodge the executives of the Canadian International
+  Paper (CIP), whose mill stood adjacent to — and gave its name to — the Quartier-du-Moulin. The building type belongs
+  to the American Arts & Crafts current, whose stylistic and architectural characteristics were imported from the
+  United Kingdom and adapted to the North American continent, and which favours natural materials such as wood in
+  the form of shingles or boards, brick, or stone. Architectural magazines presenting house models were hugely popular
+  in the United States and Canada in the early 20th century and spread the Arts & Crafts style through the anglophone
+  world; the Toronto architect William Lyon Somerville, one of CIP's retained architects and the presumed designer
+  of these houses, probably chose this style for the Quartier-du-Moulin residences. The movement's founding principles
+  — the ideal of a return to nature and the appeal of a pastoral way of life — suited the garden-city principles the
+  company followed in planning its towns, and details such as the roof coyaux and shed dormers found on some houses
+  may vaguely evoke a thatched roof.
+photos:
+- file: assets/places/gatineau/124-rue-poplar-commons.jpg
+  credit: 124, rue Poplar, in the site patrimonial du Quartier-du-Moulin (2018) — © Cantons-de-l'Est, Wikimedia Commons,
+    CC BY-SA 4.0. Stands in for the fiche's photograph of 105, rue Poplar (Passerelles Coopérative en patrimoine.
+    2023).
+  kind: single
+- file: assets/places/gatineau/quartier-du-moulin-rue-poplar-commons.jpg
+  credit: Houses on rue Poplar, site patrimonial du Quartier-du-Moulin (2018) — © Cantons-de-l'Est, Wikimedia Commons,
+    CC BY-SA 4.0. The setback and the double row of street trees are among the site's listed characteristic elements.
+  kind: single

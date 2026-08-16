@@ -1,0 +1,200 @@
+id: gatineau.maison-toit-complexe-pignon
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 5
+name_en: Complex gabled-roof house (maison à toit complexe à pignon)
+name_fr: La maison à toit complexe à pignon
+source_ref: Ville de Gatineau, fiche « La maison à toit complexe à pignon » (Passerelles Coopérative en patrimoine,
+  2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- complex-gable-roof-house
+styles:
+- queen-anne
+style_label: null
+tenure_plan: single-family
+storeys: '2.5'
+roof:
+  form: gabled-multi
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+- wood-clapboard
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - The roof form is often complex and presents several projecting elements (turret, gable, etc.).
+  - Four-slope hipped roof, with or without a ridge platform (terrasse faîtière) and projecting gables (frequent).
+  - Two-slope roof with perpendicular gables (occasional).
+  - Mansard roof with a projecting gable (occasional).
+  - Two and a half storeys.
+  - The half-storey is located in the roof space (sous les combles).
+  - Rectangular, L-shaped or complex ground plan, with numerous projections.
+  - Covered gallery on one or two façades (frequent), with a corner tower (occasional).
+  - Porch with a triangular pediment sheltering the main entrance (frequent).
+  - Balcony or loggia (logette) on the upper storeys with a pediment (occasional).
+  - The columns on the gallery or the porch are generally square (occasional), round (occasional) or turned (frequent)
+    in form, of wood, and their dimensions generally vary between 4 and 9 1/2 inches in width. The balusters are of
+    wood, straight or turned.
+  - Oriels on one or two storeys (frequent).
+  - Corner tower or turret with a conical, finial-shaped (en épi) or domed roof (occasional).
+  - Dormers with a pediment, with a pendant window (frequent) and with a folded-back pediment (fronton rabattu) (occasional).
+  articulation:
+  - Complex gabled-roof houses are generally very heavily ornamented.
+  - Presence of modillion or dentil cornices crowning the top of the exterior walls (occasional).
+  - Stone lintels or soldier-course brick above the openings (frequent).
+  - Wood casings (chambranles) around the openings (occasional).
+  - Ornamental roof verges (occasional).
+  - Ornamented gables (occasional).
+  - Ridge cresting (occasional).
+  - Stone band course on masonry walls (occasional) or decorative brickwork (occasional).
+  - Roof finial (épi de faîtage) on the gables and the pedimented dormers (occasional).
+  - Brackets (aisseliers) and lambrequins on the projections (occasional).
+  - Louvred shutters (persiennes) (occasional).
+  openings:
+  - Main entrance door, single or double, flanked by sidelights and with a transom (frequent).
+  - The typical windows are vertical, sash (guillotine) windows with 4 panes (rare), 6 panes (rare), 8 panes (occasional),
+    9 panes (rare), or 12 panes (occasional).
+  - Sash window with leaded came-work (résille de plomb) in the upper portion (occasional).
+  - Presence of a smaller single window, a multiple window or a Palladian window in the gable (frequent).
+  - Presence of an oculus (occasional).
+  materials:
+  - Exterior cladding of red brick in Modular format (8" × 2 1/2" × 3 1/2"), with a stretcher bond (frequent).
+  - Partial cladding of wood shingles (covering a gable, for example) (occasional).
+  - Exterior cladding of wood clapboard or rabbeted boards (planches à feuillure) (rare).
+profile_fr:
+  contexte:
+  - La maison à toit complexe à pignon correspond au style architectural néo-Queen Anne qui apparaît en Angleterre
+    au milieu du 19e siècle en intégrant un certain goût pour le pittoresque, hérité de l’ère médiévale et le vocabulaire
+    propre à l’architecture classique. Nommé et popularisé par un groupe d’architectes britanniques, dont le plus
+    éminent était Richard Norman Shaw, ce style fait des émules aux États-Unis une décennie plus tard, dans les années
+    1870. Il est adopté par la bourgeoisie, particulièrement en milieu rural, où les grandes vérandas, les tours d’angles
+    et les nombreuses saillies permettent de profiter des environnements bucoliques entourant les maisons. Contrairement
+    aux maisons anglaises, les structures et les façades des maisons américaines de style néo-Queen Anne présentent
+    davantage d’éléments en bois.
+  - Le style néo-Queen Anne gagne en popularité aux États-Unis et au Canada à partir des années 1880, notamment grâce
+    à la distribution des catalogues d'architecture. Les gens peuvent alors se procurer facilement différents plans
+    de maisons par correspondance. Au Québec, la maison à toit complexe à pignon s'inspirant du style néo-Queen Anne,
+    est en vogue vers la fin du 19e siècle et au début du 20e siècle. Les nombreux ornements préfabriqués qui composent
+    les façades de ces maisons peuvent également être achetés par correspondance.
+  repartition:
+  - Présence marquée dans les secteurs de Hull, d'Aylmer et de Buckingham.
+  volumetrie:
+  - La forme du toit est souvent complexe et présente plusieurs éléments en saillie (tourelle, pignon, etc.).
+  - Toit à quatre versants à croupe, avec ou sans terrasse faîtière et pignons en saillie (fréquent).
+  - Toit à deux versants avec pignons perpendiculaires (occasionnel).
+  - Toit mansardé avec pignon en saillie (occasionnel).
+  - Deux étages et demi.
+  - Le demi-étage est situé sous les combles.
+  - Plan rectangulaire, en L ou complexe, avec nombreuses saillies.
+  - Galerie couverte sur une ou deux façades (fréquent), avec tour d'angle (occasionnel).
+  - Porche à fronton triangulaire protégeant l’entrée principale (fréquent).
+  - Balcon ou logette aux étages supérieurs avec fronton (occasionnel).
+  - Les colonnes sur la galerie ou le porche sont généralement de forme carrée (occasionnel), ronde (occasionnel)
+    ou tournée (fréquent) en bois et leurs dimensions varient généralement entre 4 et 9 ½ pouces de largeur. Les balustres
+    sont en bois, droits ou tournés.
+  - Oriels sur un ou deux étages (fréquent).
+  - Tour ou tourelle d’angle à toit conique, en épi ou en dôme (occasionnel).
+  - Lucarnes à fronton, à fenêtre pendante (fréquent) et à fronton rabattu (occasionnel).
+  ouvertures:
+  - Porte d’entrée principale simple ou double, bordée de baies latérales et avec imposte (fréquent).
+  - Les fenêtres types sont verticales, à guillotine avec 4 carreaux (rare), 6 carreaux (rare), 8 carreaux (occasionnel),
+    9 carreaux (rare), ou 12 carreaux (occasionnel).
+  - Fenêtre à guillotine avec résille de plomb dans la partie supérieure (occasionnel).
+  - Présence d’une fenêtre simple de plus petit format, d'une fenêtre multiple ou d’une fenêtre palladienne dans le
+    pignon (fréquent).
+  - Présence d'oculus (occasionnel).
+  revetement:
+  - Revêtement extérieur en brique rouge de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage en panneresse
+    (fréquent).
+  - Revêtement partiel en bardeaux de bois (recouvrant un pignon par exemple) (occasionnel).
+  - Revêtement extérieur en clins de bois ou en planches à feuillure (rare).
+  ornementation:
+  - Les maisons à toit complexe à pignons sont en général très ornementées.
+  - Présence de corniches à modillons ou à denticules couronnant le haut des murs extérieurs (occasionnel).
+  - Linteaux en pierre ou briques en soldat au-dessus des ouvertures (fréquent).
+  - Chambranles en bois autour des ouvertures (occasionnel).
+  - Rives de toit ornementales (occasionnel).
+  - Pignons ornés (occasionnel).
+  - Crête faîtière (occasionnel).
+  - Bandeau de pierre sur les murs de maçonnerie (occasionnel) ou jeux de briques (occasionnel).
+  - Épi de faîtage sur les pignons et les lucarnes à frontons (occasionnel).
+  - Aisseliers et lambrequins sur les saillies (occasionnel).
+  - Persiennes (occasionnel).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Extensions should be made at the rear of the building and remain little visible from the street. In the
+  case of a contemporary extension at the rear, the new volume could take inspiration from the size and the forms
+  of the original extensions or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.'
+- 'Prefer: When the replacement of original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original.'
+- 'Avoid: Avoid the removal of a projection, the significant change of the form of its openings, or its covering with
+  materials that do not correspond to the initial materials.'
+- 'Avoid: Avoid an addition on the front façade that would harm the perception of the original volume.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Avoid: Avoid replacing sash windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid modifying the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials. Other complementary materials
+  could however be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d'origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d'origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l'aspect rappelle l'original.
+- Éviter le retrait d'une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Éviter un ajout en façade qui nuirait à la perception du volume original.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés. D'autres matériaux complémentaires
+  pourraient cependant être envisagés pour l'ajout d'un nouveau volume.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n'est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: 'Two and a half storeys under a roof the fiche itself calls complex: four slopes with hipped ends and projecting
+  gables (frequent), two slopes with perpendicular gables, or a mansard with a projecting gable. The plan is rectangular,
+  L-shaped or complex and throws off projections — a covered gallery on one or two façades, a pedimented porch, oriels,
+  dormers — with a corner tower or turret under a cone, finial or dome on some of them.'
+origin_en: The type corresponds to the neo-Queen Anne style, which appeared in England in the middle of the 19th century,
+  combining a taste for the picturesque inherited from the medieval era with the vocabulary of classical architecture.
+  Named and popularised by a group of British architects, the most eminent of whom was Richard Norman Shaw, the style
+  found imitators in the United States a decade later, in the 1870s, where it was adopted by the bourgeoisie, particularly
+  in rural settings, whose large verandas, corner towers and numerous projections let owners enjoy the bucolic surroundings;
+  unlike English houses, the structures and façades of American neo-Queen Anne houses used more wood. From the 1880s
+  the style gained popularity in the United States and Canada thanks to the distribution of architectural catalogues,
+  which let people easily order house plans — and the many prefabricated ornaments that make up these façades — by
+  mail. In Quebec, the maison à toit complexe à pignon, drawing on the neo-Queen Anne style, was in vogue towards
+  the end of the 19th century and the beginning of the 20th century.
+photos:
+- file: null
+  credit: 'Passerelles Coopérative en patrimoine. 2023. 53, rue Principale — Ville de Gatineau. Not reproduced: the
+    City''s conditions of use prohibit republication to third parties.'
+  kind: placeholder

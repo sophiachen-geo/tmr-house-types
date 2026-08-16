@@ -50,11 +50,11 @@ TRAIT_LABELS = [
 # profile_fr keys (verbatim source French) aligned to the English profile rows;
 # sous_variantes has no English counterpart and renders as its own row.
 FR_KEYS = {
-    "siting_landscape": ["implantation"],
+    "siting_landscape": ["implantation", "repartition"],       # Part 6a: Gatineau fiches head this "répartition géographique"
     "massing": ["volumetrie", "volumes", "saillies"],
     "articulation": ["traitement_des_facades", "ornementation"],
     "openings": ["ouvertures"],
-    "materials": ["materiaux"],
+    "materials": ["materiaux", "revetement"],                  # Part 6a: Gatineau fiches head this "revêtement"
 }
 NUM_WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
 
@@ -301,6 +301,8 @@ for pdir in sorted((DATA / "places").iterdir()):
         t["profile_rows"] = [{"label": label, "bullets": t["profile"][key],
                               "fr": [v for fk in FR_KEYS[key] for v in (pfr or {}).get(fk, [])]}
                              for key, label in TRAIT_LABELS]
+        if pfr and pfr.get("contexte"):    # Part 6a: the fiche's own CONTEXTE, the French behind "Where it comes from"
+            t["profile_rows"].insert(0, {"label": "Historical context (fiche)", "bullets": [], "fr": pfr["contexte"]})
         if pfr and pfr.get("sous_variantes"):
             t["profile_rows"].append({"label": "Sous-variantes", "bullets": [], "fr": pfr["sous_variantes"]})
         t["canonical_objs"] = [CANON[c] for c in t["canonical"]]

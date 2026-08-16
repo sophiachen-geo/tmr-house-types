@@ -1,0 +1,181 @@
+id: gatineau.maison-brique-toit-plat
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 13
+name_en: Flat-roofed brick house (maison en brique à toit plat)
+name_fr: La maison en brique à toit plat
+source_ref: Ville de Gatineau, fiche « La maison en brique à toit plat » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- brick-box-flat-or-hipped-2st
+styles:
+- boomtown
+style_label: null
+tenure_plan: single-family
+storeys: 2–3
+roof:
+  form: flat-or-low-slope
+  pitch_deg: 0
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Flat roof, or low-pitched sloping toward the rear.
+  - Two storeys (common) to three storeys (occasional) above ground.
+  - Rectangular or square ground plan.
+  - A secondary body at the rear, sometimes lower than the main body or projecting laterally from it, with a secondary
+    entrance (common).
+  - Houses sometimes arranged in a row (occasional).
+  - A porch or a gallery on the façade covered by a shed roof (common), with a triangular pediment facing the street
+    (occasional).
+  - Square or round wood columns or posts (about 7 to 10 inches wide), or turned ones (about 4 inches wide), resting
+    on masonry plinths.
+  - The gallery balustrade and the balconies are of wood and straight (occasional).
+  articulation:
+  - Ornamented cornice on the front façade (common) and on a side wall where that wall borders a street (occasional).
+    The cornice is ornamented with moulding with consoles, modillions or dentils (common). A parapet rises above the
+    cornice (rare).
+  - Corbels at the ends of the cornice (common).
+  - Soldier-course brick (common) or arched brick lintels (occasional), or moulded concrete lintels (occasional) above
+    the openings, and moulded concrete sills beneath the windows (common).
+  openings:
+  - Single door surmounted by a transom (common), set off-centre on the façade.
+  - In the case of a duplex or a row house, two doors side by side may be centred.
+  - The typical windows are vertical, sash (guillotine) windows with 4 panes (common), 6 panes (occasional), 9 panes
+    (rare) or 12 panes (occasional).
+  materials:
+  - Exterior cladding of fine-grained red clay brick in Modular format (8" × 2 ½" × 3 ½"), laid in stretcher bond.
+  - Side walls sometimes clad in another material (occasional).
+  - Relief patterning in the brick on the façade (occasional).
+profile_fr:
+  contexte:
+  - La maison en brique à toit plat est intimement liée à l'évolution technologique des méthodes de construction et,
+    surtout, à l'industrialisation des matériaux. Ainsi, l'avènement des structures de type Balloon Frame − ou charpente
+    à claire-voie − à la fin du 19e siècle permet une construction plus rapide avec des matériaux standardisés, tels
+    que les montants de bois qui composent ce genre de charpente. L'apparition des membranes étanches recouvrant les
+    toitures dans les années 1910 et 1920 a aussi un impact sur la construction de ce type bâti en permettant des
+    pentes de toit plus faibles pour l'écoulement des eaux. De plus, ce type est souvent associé au développement
+    fulgurant des zones industrielles dans les villes nord-américaines et à celui des quartiers ouvriers situés à
+    proximité.
+  - À Hull, la présence de scieries facilite l'accès aux matériaux de bois standardisés. Certains des éléments ornementaux
+    en bois ou en métal, comme les corbeaux, peuvent aussi être standardisés.
+  - Le recours à la maçonnerie de briques comme matériau de revêtement se généralise à la suite de l'adoption d'un
+    règlement obligeant un revêtement incombustible sur les bâtiments situés dans le périmètre ravagé par le grand
+    incendie de Hull de 1900. La majeure partie des maisons en brique à toit plat sur le territoire de Gatineau sont
+    donc construites après celles du même type en bois.
+  repartition:
+  - Présence marquée dans le secteur de Hull et, dans une moindre mesure, dans les secteurs d'Aylmer et de Buckingham.
+  volumetrie:
+  - Toit plat ou à faible pente descendant vers l'arrière.
+  - Deux étages (fréquent) à trois étages (occasionnel) hors sol.
+  - Plan de forme rectangulaire ou carrée.
+  - Présence d'un corps secondaire à l'arrière parfois plus bas ou en saillie latéralement par rapport au corps principal,
+    avec une entrée secondaire (fréquent).
+  - Maisons parfois disposées en rangée (occasionnel).
+  - Présence d'un porche ou d'une galerie en façade couverte par un toit en appentis (fréquent), avec fronton triangulaire
+    face à la rue (occasionnel).
+  - Colonnes ou poteaux de bois de forme carrée ou ronde (d'environ 7 à 10 pouces de largeur) ou tournée (d'environ
+    4 pouces de largeur), reposant sur des socles en maçonnerie.
+  - La balustrade sur la galerie et les balcons sont en bois et droits (occasionnel).
+  ouvertures:
+  - Porte simple surmontée d'une imposte (fréquent) décentrée sur la façade.
+  - Lorsqu'il s'agit d'un duplex ou de maison en rangée, deux portes côte à côte peuvent être centrées.
+  - Les fenêtres types sont verticales, à guillotine avec 4 carreaux (fréquent), 6 carreaux (occasionnel), 9 carreaux
+    (rare) ou 12 carreaux (occasionnel).
+  revetement:
+  - Revêtement extérieur en briques d'argile rouge à grain fin de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage
+    en panneresse.
+  - Revêtement des murs latéraux parfois d'un autre matériau (occasionnel).
+  - Jeux de relief avec la brique en façade (occasionnel).
+  ornementation:
+  - Corniche ornementée en façade avant (fréquent) et sur un mur latéral lorsque celui-ci borde une rue (occasionnel).
+    La corniche est ornée d'une mouluration avec consoles, modillons ou denticules (fréquent). Un parapet s'élève
+    au-dessus de la corniche (rare).
+  - Présence de corbeaux aux extrémités de la corniche (fréquent).
+  - Briques en soldat (fréquent) ou linteaux arqués en briques (occasionnel), ou linteaux en béton moulé (occasionnel)
+    au-dessus des ouvertures et allèges en béton moulé en dessous des fenêtres (fréquent).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Enlargements should be made at the rear of the building and remain little visible from the street. In the
+  case of a contemporary enlargement at the rear, the new volume could draw on the size and the forms of the original
+  extensions or secondary volumes.'
+- 'Prefer: Maintain and keep up the original components of the projections and galleries as well as the massing.'
+- 'Prefer: Where the replacement of original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could nonetheless be acceptable.'
+- 'Avoid: Avoid enlargements or additions in height that would alter the massing of the roof or the precedence of
+  the main volume.'
+- 'Avoid: Avoid removing a projection, significantly changing the shape of its openings, or covering it with materials
+  that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of panes similar
+  to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Avoid: Where the house has a secondary entrance, avoid removing it.'
+- 'Avoid: Avoid replacing sash windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid altering the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the original materials identified, such as brick in shades of
+  red. Other complementary materials could nonetheless be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept up, particularly the cornice and the parapet,
+  or else replaced when its preservation is not possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d'origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d'origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l'aspect rappelle l'original. Une interprétation contemporaine pourrait cependant être acceptable.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter le retrait d'une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Lorsque la maison possède une entrée secondaire, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés comme la brique dans des
+  coloris de rouge. D'autres matériaux complémentaires pourraient cependant être envisagés pour l'ajout d'un nouveau
+  volume.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues, particulièrement la corniche et le parapet,
+  ou encore remplacées lorsque leur préservation n'est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: 'The same box in brick: two to three storeys of fine-grained red Modular brick in stretcher bond under a
+  roof that is flat or falls gently to the rear, finished at the street by an ornamented cornice on consoles, modillions
+  or dentils, sometimes with a parapet above. Soldier courses, arched brick or moulded-concrete lintels over the openings,
+  moulded-concrete sills beneath the windows.'
+origin_en: 'The type follows the industrialisation of building materials and methods: Balloon Frame construction (charpente
+  à claire-voie) arrived at the end of the 19th century and allowed faster building with standardised parts such as
+  wood studs, while the waterproof roof membranes of the 1910s and 1920s permitted shallower roof slopes for drainage.
+  It is often associated with the headlong growth of industrial zones in North American cities and of the workers''
+  quarters near them. In Hull, sawmills made standardised wood easy to obtain, and ornamental elements in wood or
+  metal, such as corbels, could be standardised too. Recourse to brick masonry as a cladding material became general
+  after a by-law required incombustible cladding on buildings within the perimeter ravaged by the great Hull fire
+  of 1900, so most flat-roofed brick houses in Gatineau were built after those of the same type in wood.'
+photos:
+- file: null
+  credit: 'Enclume. 2023. 115-117, rue Wright — Ville de Gatineau. Not reproduced: the City''s conditions of use prohibit
+    republication to third parties.'
+  kind: placeholder

@@ -1,0 +1,193 @@
+id: gatineau.bungalow-nord-americain
+place: gatineau
+phase: p5
+phase_confidence: verified
+display_order: 2
+name_en: First-generation North American bungalow (bungalow nord-américain de première génération)
+name_fr: Le bungalow nord-américain de première génération
+source_ref: Ville de Gatineau, fiche « Le bungalow nord-américain » (Passerelles Coopérative en patrimoine, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- one-storey-ranch-low-roof
+styles:
+- ranch
+- minimal-traditional
+style_label: null
+tenure_plan: single-family
+storeys: 1–1.5
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- wood-clapboard
+- clay-brick-red
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Straight two-slope (gable) roof of low to medium pitch, with the ridge line parallel to the street (frequent)
+    or perpendicular to the street (occasional).
+  - Where the roof is low-pitched with the ridge line parallel to the street, the roof extends over a veranda at the
+    front (frequent).
+  - Four-slope or pavilion (hipped) roof (occasional), particularly when the ground plan is square.
+  - One storey to one and a half storeys.
+  - The half-storey is located under the attic space.
+  - The half-storey continues above the veranda (frequent).
+  - Square ground plan (frequent) or rectangular (occasional).
+  - Veranda covered by a continuation of the roof (frequent) or by a lean-to roof or one with a pediment (occasional).
+  - Porch with a pediment (occasional).
+  - Large masonry chimney on one of the side walls (frequent).
+  - The veranda or porch is with (frequent) or without (occasional) a balustrade, is supported by square wooden columns
+    (frequent), whose dimensions vary between 7 1/2 and 10 1/2 inches in width, turned wooden columns (rare) or multiple
+    columns (occasional), and rests on masonry pedestals (frequent) or masonry columns (occasional).
+  articulation:
+  - The first-generation North American bungalow is relatively plain. The ornamentation mainly concerns the veranda,
+    the shape of the windows and their surrounds.
+  - Exposed wooden rafters under the roof overhang (occasional).
+  - Stone lintels (occasional) or soldier-course brick above the openings (frequent) on masonry-clad houses.
+  - Wooden casings around the windows (occasional) on wood-clad houses.
+  - Straight wooden balusters making up the balustrade of the veranda (frequent).
+  openings:
+  - Simple main door, centred (frequent) or off-centre (occasional), with vertical panels and a small window located
+    in the upper quarter (occasional).
+  - Presence of a transom above the door (occasional).
+  - Shed dormers (occasional) with single windows, paired (frequent), in a triplet or compound (occasional).
+  - Rectangular sash (guillotine) windows with (occasional) or without (frequent) panes, single (occasional), paired
+    (frequent) or compound (occasional).
+  materials:
+  - Exterior cladding of wood clapboard or rabbeted (shiplap) boards (occasional).
+  - Exterior cladding of red clay brick in Modular format (8" x 2 1/2" x 3 1/2"), smooth (frequent) or ribbed (occasional),
+    with a stretcher bond.
+profile_fr:
+  contexte:
+  - Le bungalow nord-américain de première génération tire son nom, et est originalement influencé, par la configuration
+    spatiale des habitations de la région du Bengale en Inde, qui comporte un seul étage entouré d’une véranda. Ce
+    modèle est exporté par les colonisateurs britanniques au Royaume-Uni, où l’apparition du bungalow s’inscrit dans
+    l’Arts & Crafts, un mouvement social promouvant le retour de l’artisanat en architecture ainsi qu’un mode de vie
+    pastoral, en opposition au contexte de l’industrialisation fulgurante de la fin du 19e siècle. En Amérique du
+    Nord, ce mouvement est cependant davantage réduit à sa dimension esthétique. Le bungalow est adapté en Californie
+    vers 1905, notamment par les architectes Charles Sumner Greene et Henry Mather Greene, et emprunte certains éléments
+    au style Arts & Crafts.
+  - Dans les années suivantes, il fait son apparition dans de nombreux catalogues architecturaux qui y diffusent les
+    plans de différents modèles de maisons. Économique, la première génération de bungalows devient extrêmement populaire
+    aux États-Unis, où elle se répand largement dans les nouvelles banlieues jusque dans les années 1930. Au Québec,
+    sa popularité est un peu plus tardive et s’échelonne entre les années 1910 et 1940. Les bungalows de première
+    génération qu’on retrouve à travers le continent américain intègrent par ailleurs des éléments stylistiques empruntés
+    à d’autres styles architecturaux. Ils diffèrent également significativement de la seconde génération de bungalows
+    qui se popularise dans les banlieues d’après-guerre à partir des années 1950.
+  repartition:
+  - Présence marquée dans le secteur d’Aylmer et, dans une moindre mesure, dans les secteurs de Hull et de Buckingham.
+  volumetrie:
+  - Toiture à deux versants droits avec pente faible à moyenne avec ligne faîtière parallèle à la rue (fréquent) ou
+    perpendiculaire à la rue (occasionnel).
+  - Lorsque la toiture est à faible pente avec ligne faîtière parallèle à la rue, la toiture se prolonge au-dessus
+    d’une galerie à l’avant (fréquent).
+  - Toiture à quatre versants ou pavillonnaire (occasionnel), particulièrement quand le plan au sol est carré.
+  - Un étage à un étage et demi.
+  - Le demi-étage se situe sous les combles.
+  - Le demi-étage se poursuit au-dessus de la galerie (fréquent).
+  - Plan de forme carré (fréquent) ou rectangulaire (occasionnel).
+  - Galerie couverte par une continuation du toit (fréquent) ou un toit en appentis ou avec fronton (occasionnel).
+  - Porche à fronton (occasionnel).
+  - Large cheminée en maçonnerie sur un des murs latéraux (fréquent).
+  - La galerie ou le porche est avec (fréquent) ou sans (occasionnel) balustrade, est soutenu par des colonnes de
+    forme carrée en bois (fréquent), dont les dimensions varient entre 7 ½ et 10 ½ pouces de largeur, tournées en
+    bois (rare) ou multiples (occasionnel) et repose sur des socles en maçonnerie (fréquent) ou des colonnes en maçonnerie
+    (occasionnel).
+  ouvertures:
+  - Porte principale simple, centrée (fréquent) ou décentrée (occasionnel) avec panneaux verticaux et petite fenêtre
+    située dans le quart supérieur (occasionnel).
+  - Présence d’une imposte au-dessus de la porte (occasionnel).
+  - Lucarnes rampantes (occasionnel) avec fenêtres simples, jumelées (fréquent), en triplet ou composées (occasionnel).
+  - Fenêtres à guillotine rectangulaires avec (occasionnel) ou sans (fréquent) carreaux, simples (occasionnel), jumelées
+    (fréquent) ou composées (occasionnel).
+  revetement:
+  - Revêtement extérieur en clins de bois ou en planches à feuillure (occasionnel).
+  - Revêtement extérieur en briques d’argile rouge de format Modular (8" × 2 ½" × 3 ½") lisse (fréquent) ou nervuré
+    (occasionnel), avec un appareillage en panneresse.
+  ornementation:
+  - Le bungalow nord-américain de première génération est relativement sobre. L’ornementation concerne principalement
+    la galerie, la forme des fenêtres ainsi que leur habillage.
+  - Chevrons en bois apparents sous le débord de toit (occasionnel).
+  - Linteaux en pierre (occasionnel) ou de briques en soldat au-dessus des ouvertures (fréquent) sur les maisons revêtues
+    de maçonnerie.
+  - Chambranles de bois autour des fenêtres (occasionnel) sur les maisons revêtues de bois.
+  - Balustres de bois droits composant la balustrade de la galerie (fréquent).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Enlargements should be made at the rear of the building and remain barely visible from the street.'
+- 'Prefer: Maintain and keep the original components of the verandas and porches as well as the massing.'
+- 'Prefer: When the replacement of original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could however be authorised.'
+- 'Avoid: Avoid volumetric additions that no longer allow the square or rectangular plan of the building to be distinguished.'
+- 'Avoid: Avoid removing a projection, significantly changing the shape of its openings, or covering it with materials
+  that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of panes similar
+  to the original or to other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings, particularly where the windows are paired
+  or compound.'
+- 'Avoid: Avoid replacing sash (guillotine) windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid modifying the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials. Other complementary materials
+  could however be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals, or that are of another style
+  (example: knee braces / aisseliers).'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue.
+- Entretenir et maintenir les composantes d’origine des galeries et des porches ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d’origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l’aspect rappelle l’original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Éviter les ajouts volumétriques qui ne permettent plus de distinguer le plan carré ou rectangulaire du bâtiment.
+- Éviter le retrait d’une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures, particulièrement lorsque les fenêtres sont jumelées
+  ou composées.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés. D'autres matériaux complémentaires
+  pourraient cependant être envisagés pour l'ajout d'un nouveau volume.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n’est pas possible.
+- 'Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés, ou d’un autre style (exemple :
+  des aisseliers).'
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: One to one and a half storeys under a straight two-slope roof of low to medium pitch, its ridge generally
+  parallel to the street and its slope frequently carried forward over a front veranda on square wood posts. The half-storey
+  sits in the roof space. Walls are wood clapboard or red Modular brick in stretcher bond.
+origin_en: The first-generation North American bungalow takes its name, and was originally influenced by, the spatial
+  arrangement of dwellings in the Bengal region of India, which have a single storey surrounded by a veranda. British
+  colonisers exported the model to the United Kingdom, where the appearance of the bungalow formed part of the Arts
+  & Crafts movement, a social movement promoting a return to craftsmanship in architecture and a pastoral way of life
+  in opposition to the runaway industrialisation of the late 19th century; in North America the movement was reduced
+  largely to its aesthetic dimension. The bungalow was adapted in California around 1905, notably by the architects
+  Charles Sumner Greene and Henry Mather Greene, borrowing certain elements from the Arts & Crafts style, and in the
+  following years it appeared in numerous architectural catalogues that circulated plans for different house models.
+  Economical to build, the first generation of bungalows became extremely popular in the United States, spreading
+  widely through the new suburbs until the 1930s; in Quebec its popularity came somewhat later, running from the 1910s
+  to the 1940s, and it differs significantly from the second generation of bungalows that became popular in the post-war
+  suburbs from the 1950s onward.
+photos:
+- file: null
+  credit: 'Passerelles Coopérative en patrimoine. 2023. 430, rue Parker — Ville de Gatineau. Not reproduced: the City''s
+    conditions of use prohibit republication to third parties.'
+  kind: placeholder

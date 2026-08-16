@@ -1,0 +1,178 @@
+id: gatineau.maison-plan-l-toit-deux-versants
+place: gatineau
+phase: p1
+phase_confidence: verified
+display_order: 14
+name_en: L-plan house with a two-slope (gable) roof (maison avec plan en L à toit à deux versants)
+name_fr: La maison avec plan en L à toit à deux versants
+source_ref: Ville de Gatineau, fiche « La maison de plan en L à toit à deux versants » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- l-plan-gable-house
+styles:
+- french-regime
+- neoclassical-quebec
+style_label: null
+tenure_plan: single-family
+storeys: 1.5–2.5
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- wood-clapboard
+- clay-brick-red
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Roof of two straight slopes with a medium to steep pitch.
+  - Roof of two mansarded slopes (rare).
+  - One and a half storeys, two storeys or two and a half storeys.
+  - The half-storey is located under the attic.
+  - L-shaped plan made up of two building volumes set perpendicular to one another.
+  - Covered gallery on one or two façades (frequent).
+  - The gallery is, with or without a balustrade, carried by worked columns (frequent) of square, round or turned
+    form whose dimensions vary between 3 ½ and 10 ½ inches in width. A pediment punctuates the gallery roof at the
+    entrance (occasional).
+  articulation:
+  - Return of the eaves (occasional).
+  - Corner boards (frequent) on wood-clad houses.
+  - Wood casings around the windows (frequent) on wood-clad houses.
+  - Soldier-course bricks or arched brick lintels above the openings (frequent).
+  - Brackets (occasional) and lambrequins (rare) on the projections.
+  - Play of relief with the brick on the façade (rare).
+  openings:
+  - Simple main door, with a transom above the door (occasional).
+  - Presence of two entrance doors (occasional), in each of the main volumes.
+  - The typical windows are vertical, sash (guillotine) type (frequent) with 4 panes (occasional), 6 panes (rare),
+    9 panes (occasional), or 12 panes (rare).
+  - Shed dormers, dormers with hanging windows (occasional) or gabled dormers (rare).
+  - Window high in the gable (occasional).
+  materials:
+  - Exterior cladding of wood clapboard or rabbeted boards (frequent).
+  - Exterior cladding of red clay brick in Modular format (8" × 2 ½" × 3 ½"), with a stretcher bond (occasional).
+profile_fr:
+  contexte:
+  - La maison avec plan en L à toit à deux versants fait son apparition vers la fin du 19e siècle, au moment où l’industrialisation
+    permet la production en série de matériaux de construction standardisés, dont plusieurs en bois. Des éléments
+    architecturaux et ornementaux en bois, tels que les portes et fenêtres, sont également disponibles par catalogue,
+    ce qui donne l'occasion de personnaliser différents types de maisons. Les plans de ces maisons, dont la maison
+    avec plan en L, sont eux-mêmes disponibles par catalogues. Cette époque correspond ainsi à un important développement
+    des villes nord-américaines, où la demande en logements s’intensifie en raison de l’exode rural.
+  - Bien que présente en milieu urbain, la maison avec plan en L se répand également en milieu rural dans le contexte
+    de la colonisation du territoire. La disposition perpendiculaire des deux corps de bâtiment permet un volume spacieux
+    et moins compact qu’un plan rectangulaire ou cubique. Il permet également d’insérer une galerie dans le creux
+    du L, une caractéristique particulièrement observable en milieu rural. De plus, les nombreux murs extérieurs engendrés
+    par cette volumétrie permettent l’insertion de fenêtres offrant différentes vues.
+  repartition:
+  - Présence marquée dans les secteurs de Buckingham et d’Aylmer et, dans une moindre mesure, dans les secteurs de
+    Gatineau (secteur rural), de Masson-Angers et de Hull.
+  volumetrie:
+  - Toiture à deux versants droits avec pente moyenne à forte.
+  - Toiture à deux versants mansardés (rare).
+  - Un étage et demi, deux étages ou deux étages et demi.
+  - Le demi-étage se situe sous les combles.
+  - Plan en L composé de deux corps de bâtiment disposés perpendiculairement.
+  - Galerie couverte sur une ou deux façades (fréquent).
+  - La galerie est avec ou sans balustrade soutenue par des colonnes ouvragées (fréquent) de forme carrée, ronde ou
+    tournée dont les dimensions varient entre 3 ½ et 10 ½ pouces de largeur. Un fronton vient ponctuer le toit de
+    la galerie au niveau de l’entrée (occasionnel).
+  ouvertures:
+  - Porte principale simple, avec une imposte au-dessus de la porte (occasionnel).
+  - Présence de deux portes d’entrée (occasionnel), dans chacun des corps principaux.
+  - Les fenêtres types sont verticales, à guillotine (fréquent) avec 4 carreaux (occasionnel), 6 carreaux (rare),
+    9 carreaux (occasionnel), ou 12 carreaux (rare).
+  - Lucarnes rampantes, lucarnes à fenêtres pendantes (occasionnelle) ou lucarnes à pignons (rare).
+  - Fenêtre dans le haut du pignon (occasionnel).
+  revetement:
+  - Revêtement extérieur en clins de bois ou en planches à feuillure (fréquent).
+  - Revêtement extérieur en briques d’argile rouge de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage en panneresse
+    (occasionnel).
+  ornementation:
+  - Retour de l’avant-toit (occasionnel).
+  - Planches cornières (fréquent) sur les maisons revêtues de bois.
+  - Chambranles de bois autour des fenêtres (fréquent) sur les maisons revêtues de bois.
+  - Briques en soldat ou linteaux arqués en brique au-dessus des ouvertures (fréquent).
+  - Aisseliers (occasionnel) et lambrequins (rare) sur les saillies.
+  - Jeu de relief avec la brique en façade (rare).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Additions should be made at the rear of the building and remain little visible from the street. In the
+  case of a contemporary addition at the rear, the new volume could take inspiration from the size and forms of the
+  original extensions or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.'
+- 'Prefer: When replacement of the original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could nevertheless be permitted.'
+- 'Avoid: Avoid volumetric additions that make it no longer possible to distinguish the building''s original L arrangement.'
+- 'Avoid: Avoid removing a projection, significantly changing the form of its openings, or covering it with materials
+  that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. Favour a model with a number of panes similar
+  to the original or to other houses of the same model built in the same period.'
+- 'Prefer: For windows high in the gable, keep the form of the window.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Avoid: Where the house has a second entrance, avoid removing it.'
+- 'Avoid: Avoid replacing sash (guillotine) windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid changing the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials. Other complementary materials
+  could nevertheless be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d’origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d’origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l’aspect rappelle l’original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Éviter les ajouts volumétriques qui ne permettent plus de distinguer la disposition originale en L du bâtiment.
+- Éviter le retrait d’une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Pour les fenêtres dans le haut du pignon, conserver la forme de la fenêtre.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Lorsque la maison possède une deuxième entrée, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés. D'autres matériaux complémentaires
+  pourraient cependant être envisagés pour l'ajout d'un nouveau volume.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n’est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: Two wings meeting at a right angle under straight gable roofs of medium to steep pitch, with a covered gallery
+  set into the crook of the L and running along one or two façades on worked columns. Walls are wood clapboard or
+  rabbeted board, sometimes red Modular brick. Some of these houses carry two entrance doors, one to each volume.
+origin_en: 'The L-plan house with a two-slope roof appears toward the end of the 19th century, when industrialisation
+  made possible the mass production of standardised building materials, many of them in wood. Architectural and ornamental
+  wood elements such as doors and windows were also available by catalogue, which gave the chance to personalise different
+  types of houses, and the plans of these houses — the L-plan among them — were themselves available by catalogue.
+  The period corresponds to a major development of North American cities, where demand for housing intensified because
+  of the rural exodus. Though present in urban settings, the L-plan house also spread in rural areas in the context
+  of settlement of the territory: the perpendicular arrangement of the two building volumes gives a spacious volume,
+  less compact than a rectangular or cubic plan, allows a gallery to be inserted in the crook of the L (particularly
+  observable in rural settings), and creates numerous exterior walls that permit windows offering different views.'
+photos:
+- file: null
+  credit: 'Enclume. 2023. 9, chemin Donaldson — Ville de Gatineau. Not reproduced: the City''s conditions of use prohibit
+    republication to third parties.'
+  kind: placeholder

@@ -1,0 +1,169 @@
+id: gatineau.edifice-mixte-toit-plat
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 1
+name_en: Mixed-use building with a flat roof (édifice mixte à toit plat)
+name_fr: L’édifice mixte à toit plat
+source_ref: Ville de Gatineau, fiche « L'édifice mixte à toit plat » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- mixed-use-flat-roof-block
+styles:
+- boomtown
+style_label: null
+tenure_plan: mixed
+storeys: 2–3
+roof:
+  form: flat-or-low-slope
+  pitch_deg: 0
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+- clay-brick
+- wood-clapboard
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Flat roof, or of shallow pitch sloping down towards the rear.
+  - Two to three storeys above ground.
+  - Rectangular plan (frequent) or L-shaped plan (occasional).
+  - Trapezoidal plan (following the urban fabric) (occasional).
+  - Corbelled balcony at the upper floor (occasional).
+  articulation:
+  - Cornice crowning the front façade (frequent) and the side façade where the latter borders a street (occasional).
+  - Parapet on the front façade (rare).
+  - Lintels and sills of dressed stone or moulded concrete (frequent), arched brick lintels (occasional) or soldier-course
+    brick (occasional) above the openings.
+  - Entablature surmounting a display window on the façade (frequent).
+  - Pilasters on the façade (occasional).
+  - Datestone on the façade (rare).
+  openings:
+  - Single or double door with a window, surmounted by a transom, at the centre of the façade (frequent), sometimes
+    recessed, or in a corner of the building (occasional), for the entrance to the ground floor.
+  - Single door with or without transom, set off-centre, for access to the upper floors.
+  - Sash windows with or without muntins (frequent).
+  - Windows of vertical format.
+  - Display windows at the ground floor, with (occasional) or without a transom.
+  materials:
+  - Exterior cladding of red or brown brick of Modular format (8" × 2 ½" × 3 ½"), laid in stretcher bond (frequent).
+  - Cladding of wood clapboard or rabbeted (shiplap) boards, sometimes partial (occasional).
+profile_fr:
+  contexte:
+  - L’édifice mixte à toit plat partage plusieurs similitudes avec la maison en brique à toit plat. Il fait son apparition
+    vers la fin du 19e siècle et le début du 20e siècle, alors que se développent les artères commerciales des secteurs
+    de Hull, d'Aylmer, de Buckingham et de Gatineau. À cette époque, qui précède le principe moderne de ségrégation
+    des fonctions et l’avènement des magasins à rayons, les secteurs commerciaux et résidentiels s’amalgament et les
+    immeubles combinent des locaux commerciaux au rez-de-chaussée et des logements aux étages supérieurs.
+  - Ces deux usages se démarquent d’ailleurs souvent par le traitement de la façade, sur laquelle on retrouve une
+    corniche ou un entablement séparant le rez-de-chaussée de l’étage. Le premier comporte généralement une ou deux
+    larges vitrines de part et d’autre de l’entrée du commerce, alors que la façade à l’étage est percée de fenêtres
+    verticales rectangulaires.
+  - Tout comme la maison en brique à toit plat, ce type est lié à l’évolution technologique des méthodes de construction
+    et, surtout, à l’industrialisation des matériaux. Ainsi, l’avènement des structures de type Balloon Frame, ou
+    charpente à claire-voie, à la fin du 19e siècle permet une construction plus rapide avec des matériaux standardisés,
+    tels que les montants de bois qui composent ce genre de charpente. L’apparition des membranes étanches recouvrant
+    les toitures dans les années 1910 et 1920 aura aussi un impact sur la construction de ce type bâti en permettant
+    des pentes de toit plus faibles pour l’écoulement des eaux.
+  repartition:
+  - Présence marquée dans les secteurs d’Aylmer, de Hull et de Buckingham et, dans une moindre mesure, dans le secteur
+    de Gatineau.
+  volumetrie:
+  - Toit plat ou à faible pente descendant vers l'arrière.
+  - Deux à trois étages hors sol.
+  - Plan rectangulaire (fréquent) ou en L (occasionnel).
+  - Plan trapézoïdal (selon la trame urbaine) (occasionnel).
+  - Balcon en encorbellement à l’étage (occasionnel).
+  ouvertures:
+  - Porte simple ou double avec fenêtre, surmontée d’une imposte au centre de la façade (fréquent), parfois en retrait,
+    ou dans un angle du bâtiment (occasionnel) pour l’entrée vers le rez-de-chaussée.
+  - Porte simple avec ou sans imposte, décentrée pour l’accès aux étages.
+  - Fenêtres à guillotine avec ou sans carreaux (fréquent).
+  - Fenêtres de format vertical.
+  - Vitrines au rez-de-chaussée, avec (occasionnel) ou sans imposte.
+  revetement:
+  - Revêtement extérieur en briques rouges ou brunes de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage en
+    panneresse (fréquent).
+  - Revêtement en clins de bois ou planches à feuillure, parfois partiel (occasionnel).
+  ornementation:
+  - Corniche couronnant la façade avant (fréquent) et la façade latérale lorsque celle-ci borde une rue (occasionnel).
+  - Parapet sur la façade avant (rare).
+  - Linteaux et allèges en pierre de taille ou en béton moulé (fréquent), linteaux arqués en brique (occasionnel)
+    ou briques en soldat (occasionnel) au-dessus des ouvertures.
+  - Entablement surmontant une vitrine en façade (fréquent).
+  - Pilastres en façade (occasionnel).
+  - Pierre millésimée en façade (rare).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Extensions should be built at the rear of the building and remain little visible from the street. In the
+  case of a contemporary rear extension, the new volume could take its cue from the scale and forms of the original
+  extensions or secondary volumes.'
+- 'Prefer: Preserve the symmetry of the volume and of the façade composition.'
+- 'Avoid: Avoid removing a projection, significantly changing the shape of its openings, or covering it with materials
+  that do not correspond to the initial materials.'
+- 'Avoid: Avoid an addition on the front façade that would harm the perception of the original volume.'
+- 'Prefer: Maintain the original size, arrangement and type of opening as far as possible.'
+- 'Prefer: Favour a model with a number of muntins/panes similar to the original or to other buildings of the same
+  model built in the same period.'
+- 'Prefer: The placement of signs should not conceal components of interest.'
+- 'Avoid: Avoid replacing original openings with openings whose type does not correspond to those identified above.'
+- 'Prefer: Favour a cladding material in keeping with the original materials identified, such as brick in shades of
+  red or brown. Other complementary materials could however be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the main body.'
+- 'Prefer: Original ornamentation should be maintained and kept up, or else replaced as faithfully as possible where
+  its preservation is not possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l’arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d’un agrandissement contemporain à l’arrière, le nouveau volume pourrait s’inspirer du gabarit et des formes, des
+  extensions ou des volumes secondaires d'origine.
+- Préserver la symétrie du volume et de la composition en façade.
+- Éviter le retrait d’une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Éviter un ajout en façade qui nuirait à la perception du volume original.
+- Maintenir le format, la disposition et le type d’ouverture d’origine autant que possible.
+- Favoriser un modèle avec un nombre similaire de carreaux par rapport à l'original ou à d'autres édifices du même
+  modèle construits à la même époque.
+- L'emplacement des enseignes ne devrait pas masquer des composantes d'intérêt.
+- Éviter de remplacer des ouvertures d’origine par des ouvertures dont le type ne correspond pas à ceux identifiés
+  ci-haut.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d’origine identifiés comme la brique dans des
+  coloris de rouge ou de brun. D'autres matériaux complémentaires pourraient cependant être envisagés pour l’ajout
+  d’un nouveau volume.
+- Éviter de choisir un revêtement dont l’aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour le corps principal.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées le plus fidèlement possible
+  lorsque leur préservation n’est pas possible.
+- Éviter d’ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: A shop below and dwellings above, in two to three storeys under a roof that is flat or falls gently to the
+  rear. One or two display windows flank the store entrance, taller rectangular windows light the flats, and a cornice
+  or entablature marks where the commercial floor ends and the residential ones begin.
+origin_en: 'The flat-roofed mixed-use building shares many similarities with the brick house with a flat roof. It
+  appears towards the end of the 19th century and the beginning of the 20th, as the commercial arteries of the Hull,
+  Aylmer, Buckingham and Gatineau sectors were developing. In that period, which precedes the modern principle of
+  segregating uses and the arrival of department stores, commercial and residential sectors merged and buildings combined
+  commercial premises on the ground floor with dwellings on the upper floors. Like the brick house with a flat roof,
+  the type is tied to technological change in construction methods and above all to the industrialisation of materials:
+  balloon-frame structures at the end of the 19th century allowed faster construction with standardised materials,
+  and the waterproof roofing membranes that appeared in the 1910s and 1920s permitted shallower roof pitches for drainage.'
+photos:
+- file: null
+  credit: 'Enclume. 2023. 495, avenue de Buckingham — Ville de Gatineau. Not reproduced: the City''s conditions of
+    use prohibit republication to third parties.'
+  kind: placeholder

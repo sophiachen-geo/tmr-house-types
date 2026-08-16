@@ -1,0 +1,186 @@
+id: gatineau.maison-toit-mansarde-pignon-facade
+place: gatineau
+phase: p2
+phase_confidence: verified
+display_order: 6
+name_en: Mansard-roofed house with gable wall on the façade (maison à toit mansardé avec mur pignon en façade)
+name_fr: La maison à toit mansardé avec mur pignon en façade
+source_ref: Ville de Gatineau, fiche « La maison à toit mansardé avec mur pignon en façade » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- mansard-house-2st
+styles:
+- second-empire
+style_label: null
+tenure_plan: single-family
+storeys: 2–3
+roof:
+  form: mansard
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick-red
+- wood-clapboard
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Broken (mansard) roof with two slopes, the ridge line perpendicular to the street, and a gable wall on the façade.
+  - Brisis of shallow angle, straight (frequent) or with coyaux (occasional).
+  - Return of the eaves on the façade (frequent).
+  - Two storeys (frequent) to three storeys above ground (occasional).
+  - Rectangular plan with the main body perpendicular to the street (frequent), or square plan (occasional).
+  - Secondary body offset from the main body (frequent), or else perpendicular to it (rare).
+  - Covered gallery raised above the level of the street on the façade (frequent) with a shed roof, running the full
+    length of the façade (frequent), across half the façade (occasional) or L-shaped (rare).
+  - Triangular pediment on the roof of the front gallery (occasional).
+  - Wooden columns, square or round in form, about 8 to 10 inches wide (frequent), sometimes resting on masonry plinths
+    (occasional), or multiple columns (occasional).
+  - Dormers on the sides (occasional).
+  articulation:
+  - Wooden chambranles (casings) around the openings (frequent) on wood-clad houses.
+  - Corner boards on houses clad in wood (frequent) and verge boards (rare).
+  - Wooden balustrade on the galleries and balconies (frequent).
+  - Soldier-course brick (frequent) or stone lintels (occasional) above the openings on masonry-clad houses.
+  - Return of the eaves (occasional).
+  openings:
+  - Simple glazed main door, set off-centre on the front façade and surmounted by a transom (occasional).
+  - Secondary door on the side of the main body or on the secondary body, reached by a side gallery (frequent).
+  - Paired guillotine (sash) windows with or without panes on the ground floor of the façade (frequent).
+  - Presence of two (frequent) guillotine (sash) windows with or without panes in the gable wall at the upper storey.
+  - Generally rectangular window in the upper part of the gable wall on the façade (occasional).
+  materials:
+  - Exterior cladding of red clay brick in Modular format (8" × 2 ½" × 3 ½"), laid in stretcher bond (frequent).
+  - Exterior cladding of wood clapboard or rabbeted boards (frequent).
+  - The upper part of the gable wall, on the façade, is often covered with a material distinct from the rest of the
+    building, such as wood shingle (occasional).
+profile_fr:
+  contexte:
+  - À Gatineau, la maison à toit mansardé avec mur pignon en façade partage plusieurs caractéristiques avec la maison
+    allumette, ces deux types d'habitations étant apparus à des périodes rapprochées. En effet, la disposition de
+    la maison à toit mansardé avec mur pignon en façade pourrait avoir été influencée par l'étroitesse des lots sur
+    le territoire de Gatineau.
+  - La mansarde à deux versants a été popularisée au Québec après avoir connu un grand succès aux États-Unis dès les
+    années 1850. À l'époque, des maisons construites avec ce genre de toiture s'inspirent des maisons hollandaises.
+    Ce type bâti s'est aussi largement répandu dans les villes industrielles planifiées. Sa construction est également
+    redevable aux catalogues de plans qui connaissent une grande popularité au début du 20e siècle et dans lesquels
+    les modèles présentés sont réalisés à l'aide de matériaux standardisés et usinés.
+  - Les différents types de saillies et d'ornements qu'on retrouve sur cette typologie, tout comme le recours à des
+    matériaux naturels comme la brique et le bois (en clin, en planche à feuillure ou sous forme de bardeaux), seraient
+    influencés par le mouvement Arts & Crafts.
+  repartition:
+  - Présence marquée dans les secteurs de Hull et d'Aylmer et, dans une moindre mesure, dans les secteurs de Gatineau,
+    de Masson-Angers et de Buckingham.
+  volumetrie:
+  - Toit brisé à deux versants avec ligne faîtière perpendiculaire à la rue et mur pignon en façade.
+  - Brisis à angle peu prononcé, droit (fréquent) ou avec coyaux (occasionnel).
+  - Retour de l'avant-toit en façade (fréquent).
+  - Deux étages (fréquent) à trois étages hors-sol (occasionnel).
+  - Plan rectangulaire avec corps principal perpendiculaire à la rue (fréquent) ou plan carré (occasionnel).
+  - Corps secondaire en décalage avec le corps principal (fréquent) ou encore perpendiculaire à celui-ci (rare).
+  - Galerie couverte et surélevée par rapport à la rue en façade (fréquent) avec toit en appentis, sur toute la longueur
+    de la façade (fréquent), sur la moitié de la façade (occasionnel) ou en L (rare).
+  - Fronton triangulaire sur le toit de la galerie avant (occasionnel).
+  - Colonnes en bois de forme carrée ou ronde d'environ 8 à 10 pouces de largeur (fréquent) reposant parfois sur des
+    socles en maçonnerie (occasionnel), ou colonnes multiples (occasionnel).
+  - Lucarnes sur les côtés (occasionnel).
+  ouvertures:
+  - Porte principale simple fenestrée, décentrée sur la façade avant et surmontée d'une imposte (occasionnel).
+  - Porte secondaire sur le côté du corps principal ou sur le corps secondaire et accessible par une galerie latérale
+    (fréquent).
+  - Fenêtres jumelées à guillotine avec ou sans carreaux au rez-de-chaussée de la façade (fréquent).
+  - Présence de deux (fréquent) fenêtres à guillotine avec ou sans carreaux dans le mur pignon à l'étage.
+  - Fenêtre généralement rectangulaire dans le haut du mur pignon en façade (occasionnel).
+  revetement:
+  - Revêtement extérieur en briques d'argile rouge de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage en panneresse
+    (fréquent).
+  - Revêtement extérieur en clins de bois ou en planches à feuillure (fréquent).
+  - La partie supérieure du mur pignon, en façade, est souvent recouverte d'un matériau distinct du reste du bâtiment
+    comme le bardeau de bois (occasionnel).
+  ornementation:
+  - Chambranles en bois autour des ouvertures (fréquent) sur les maisons revêtues de bois.
+  - Planches cornières sur les maisons recouvertes de bois (fréquent) et planches de rive (rare).
+  - Balustrade en bois sur les galeries et les balcons (fréquent).
+  - Briques en soldat (fréquent) ou linteaux en pierre (occasionnel) au-dessus des ouvertures sur les maisons revêtues
+    de maçonnerie.
+  - Retour de l'avant-toit (occasionnel).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Enlargements should be made at the rear of the building and remain little visible from the street. In the
+  case of a contemporary rear addition, the new volume could take inspiration from the size and the forms of the original
+  extensions or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.'
+- 'Prefer: When replacement of the original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could however be authorised.'
+- 'Avoid: Avoid enlargements or additions in height that would alter the massing of the roof or the precedence of
+  the main volume.'
+- 'Avoid: Avoid the removal of a projection or a gallery, significant change to the form of the openings, or covering
+  with materials that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose guillotine (sash) models. Favour a model with a similar number of panes
+  compared with the original or with other houses of the same model built in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings.'
+- 'Avoid: When the house has a secondary entrance, avoid removing it.'
+- 'Avoid: Avoid replacing guillotine (sash) windows with casement windows or with any other type of opening mechanism.'
+- 'Avoid: Avoid modifying the dimensions of the windows or blocking them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials such as wood or wood imitation
+  or brick.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornaments should be maintained and kept, or else replaced when their preservation is not possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d'origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d'origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l'aspect rappelle l'original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter le retrait d'une saillie ou d'une galerie, le changement significatif de la forme des ouvertures ou encore
+  le recouvrement par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Favoriser un modèle avec un nombre similaire
+  de carreaux par rapport à l'original ou à d'autres maisons du même modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures.
+- Lorsque la maison possède une entrée secondaire, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés tels que le bois ou l'imitation
+  du bois ou la brique.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n'est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n'ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: The gable wall to the street under a two-slope mansard whose brisis sits at a shallow angle, straight (frequent)
+  or with flared coyaux (occasional). A covered gallery, raised a little above the street, runs the full width of
+  the front (frequent), half of it, or turns an L, under its own shed roof on square or round wood columns. The top
+  of the gable is often clad in something different from the rest.
+origin_en: In Gatineau this type shares several characteristics with the maison allumette, the two kinds of dwelling
+  having appeared at close periods; its layout may have been influenced by the narrowness of lots across the Gatineau
+  territory. The two-slope mansard was popularised in Quebec after achieving great success in the United States from
+  the 1850s onward, and houses built with this kind of roof took their inspiration at the time from Dutch houses.
+  The type also spread widely in planned industrial towns, and its construction owes much to the plan catalogues that
+  were very popular in the early 20th century, in which the models shown were built from standardised, machine-made
+  materials. The various kinds of projections and ornaments found on this typology, like the use of natural materials
+  such as brick and wood (clapboard, rabbeted board or shingle), are thought to be influenced by the Arts & Crafts
+  movement.
+photos:
+- file: null
+  credit: 'Enclume. 2023. 29, rue Symmes — Ville de Gatineau. Not reproduced: the City''s conditions of use prohibit
+    republication to third parties.'
+  kind: placeholder

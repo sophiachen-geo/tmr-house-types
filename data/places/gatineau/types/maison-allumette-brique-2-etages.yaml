@@ -1,0 +1,206 @@
+id: gatineau.maison-allumette-brique-2-etages
+place: gatineau
+phase: p3
+phase_confidence: verified
+display_order: 9
+name_en: Brick matchbox house, two to two and a half storeys (maison allumette en brique de deux à deux étages et
+  demi)
+name_fr: La maison allumette en brique de deux à deux étages et demi
+source_ref: Ville de Gatineau, fiche « La maison allumette en brique de deux à deux étages et demi » (Enclume, 2023)
+source_generation: 2023 type fiches (Ville de Gatineau)
+sectors: []
+canonical:
+- allumette-house-gable-front
+styles:
+- vernaculaire-industriel
+style_label: null
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: gabled
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick-red
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape: []
+  massing:
+  - Gable roof with two straight slopes, with the ridge line perpendicular to the street and the gable wall on the
+    façade.
+  - Two storeys to two and a half storeys.
+  - The half-storey, when present, is located under the attic.
+  - Main dwelling body rectangular, generally 20 feet wide and about 24 to 26 feet deep.
+  - Secondary body at the rear oriented perpendicularly, or offset from the main body, with a sloped or lean-to roof.
+  - Covered gallery on the façade along one side or in an L, with a lean-to roof parallel to the street (frequent),
+    with a triangular pediment facing the street (occasional).
+  - Fenestrated projection (oriel, bay window) on the façade (occasional), or balcony or logette (occasional).
+  - The columns on the gallery are generally square, round or turned, in wood, their dimensions varying between 8
+    and 10 inches in width. The columns rest on masonry plinths (frequent).
+  articulation:
+  - Brick matchbox houses of two to two and a half storeys are generally sober, apart from the projections, the gable
+    and the shape of the windows as well as their surrounds.
+  - Soldier-course bricks or arched brick lintels above the openings (frequent).
+  - Return of the eaves (occasional).
+  - Wood roof verge (occasional).
+  - Relief patterning with brick on the façade (frequent).
+  openings:
+  - Simple, glazed main door, with a transom above the main door (occasional).
+  - Main entrance door off-centre relative to the façade.
+  - Presence of one (frequent) or two windows (rare) on the ground floor, sometimes more if an oriel is present, and
+    of two windows on the upper floor (frequent).
+  - Presence of a rectangular window (frequent) or of another shape (occasional) in the gable.
+  - Presence of a variety of window shapes (segmental arch, oriel, etc.) (occasional).
+  - The typical windows are vertical, sash (guillotine) windows with 4 panes (frequent), 6 panes (rare), 9 panes (rare)
+    or 12 panes (occasional).
+  materials:
+  - Exterior cladding in smooth-finish red clay brick of Modular format (8" × 2 ½" × 3 ½"), with a stretcher bond.
+  - Wood shingle cladding in the upper part of the gable wall on the façade (occasional).
+profile_fr:
+  contexte:
+  - La « maison allumette » fait son apparition à partir des années 1870. Son origine découle notamment de l'ouverture
+    du marché américain au Canada. Les échanges commerciaux et culturels entre les deux pays donnent lieu à l'importation
+    de catalogues architecturaux américains, avec plans illustrés et indications relatives à la construction de maisons
+    ouvrières en bois, très populaires auprès des entrepreneurs et des constructeurs amateurs canadiens.
+  - Bien qu'il existe des maisons allumettes dans tous les secteurs de la ville, leur forme étroite proviendrait du
+    lotissement rectangulaire typique des terres appartenant à la famille Wright à Hull, effectué en 1864 par l'arpenteur
+    W. A. Austin. L'étroitesse et la profondeur des terrains auraient donc entraîné l'adaptation des maisons de colon
+    américaines. Celles-ci, de forme rectangulaire avec une ligne faîtière parallèle à la rue, auraient ainsi pivoté
+    de 90 degrés pour s'adapter aux lots étroits, leur mur pignon passant alors en façade.
+  - La multiplication des maisons allumettes en brique est directement liée à l'adoption d'un règlement municipal
+    à la suite du grand incendie de Hull en 1900, qui oblige dorénavant les nouvelles constructions du secteur ravagé
+    à être revêtues d'un parement incombustible. S'il y avait déjà quelques maisons allumettes en brique avant l'incendie,
+    les bâtiments reconstruits dans ce périmètre en sont maintenant très souvent recouverts. La maison allumette en
+    brique adopte dès le début du 20e siècle certaines caractéristiques de l'architecture de style néo-Queen Anne,
+    comme une véranda avec rotonde en coin, des saillies fenestrées en façade ou encore une ornementation accrue.
+    Ces éléments architecturaux, tout comme le revêtement extérieur en briques, témoignent du niveau plus élevé de
+    sophistication des propriétaires initiaux, souvent membres de la petite bourgeoisie, comparativement aux propriétaires
+    de maisons en bois, souvent issus de la classe ouvrière.
+  repartition:
+  - Présence marquée dans les secteurs de Hull et d'Aylmer et, dans une moindre mesure, dans le secteur de Buckingham.
+  volumetrie:
+  - Toit à deux versants droits avec ligne faîtière perpendiculaire à la rue et mur pignon en façade.
+  - Deux étages à deux étages et demi.
+  - Le demi-étage, lorsque présent, est situé sous les combles.
+  - Corps de logis principal rectangulaire généralement de 20 pieds de largeur et d'environ 24 à 26 pieds de profondeur.
+  - Corps secondaire à l'arrière orienté perpendiculairement, ou décalé par rapport au corps principal, avec une toiture
+    en pente ou en appentis.
+  - Galerie couverte en façade sur un côté ou en L avec toit en appentis parallèle à la rue (fréquent), avec fronton
+    triangulaire face à la rue (occasionnel).
+  - Saillie fenestrée (oriel, baie vitrée) en façade (occasionnel), ou balcon ou logette (occasionnel).
+  - Les colonnes sur la galerie sont généralement de forme carrée, ronde ou tournée en bois dont les dimensions varient
+    entre 8 et 10 pouces de largeur. Les colonnes reposent sur des socles en maçonnerie (fréquent).
+  ouvertures:
+  - Porte principale simple et fenestrée, avec une imposte au-dessus de la porte principale (occasionnel).
+  - Porte d'entrée principale décentrée par rapport à la façade.
+  - Présence d'une (fréquent) ou deux fenêtres (rare) au rez-de-chaussée, parfois plus si présence d'un oriel et de
+    deux fenêtres à l'étage (fréquent).
+  - Présence d'une fenêtre de forme rectangulaire (fréquente) ou d'une autre forme (occasionnel) dans le pignon.
+  - Présence d'une variété de formes de fenêtres (arc surbaissé, oriel, etc.) (occasionnel).
+  - Les fenêtres types sont verticales, à guillotine avec 4 carreaux (fréquent), 6 carreaux (rare), 9 carreaux (rare)
+    ou 12 carreaux (occasionnel).
+  revetement:
+  - Revêtement extérieur en briques d'argile rouge de fini lisse de format Modular (8" × 2 ½" × 3 ½"), avec un appareillage
+    en panneresse.
+  - Revêtement en bardeaux de bois dans le haut du mur pignon en façade (occasionnel).
+  ornementation:
+  - Les maisons allumettes en brique de deux à deux étages et demi sont généralement sobres, hormis les saillies,
+    le pignon et la forme des fenêtres ainsi que leur habillage.
+  - Briques en soldat ou linteaux arqués en briques au-dessus des ouvertures (fréquent).
+  - Retour de l'avant-toit (occasionnel).
+  - Rive du toit en bois (occasionnel).
+  - Jeu de relief avec la brique en façade (fréquent).
+profile_note: Encoded from the City's 2023 fiche for this type. The five columns follow the fiche's own sections —
+  répartition géographique → siting, volumétrie → massing, ornementation → articulation, ouvertures → openings, revêtement
+  → materials — and the French beneath each English list is the fiche's wording. The fiche's « Période de construction
+  principale » is a bar graphic with no recoverable dates, so no construction period is encoded; the phase is taken
+  from the historical context section instead.
+conservation:
+- 'Prefer: Enlargements should be made at the rear of the building and remain barely visible from the street. In the
+  case of a contemporary rear enlargement, the new volume could draw on the size and the forms of the original extensions
+  or secondary volumes.'
+- 'Prefer: Maintain and keep the original components of the projections and galleries as well as the massing.'
+- 'Prefer: When the replacement of original components is unavoidable, favour materials or a massing whose appearance
+  recalls the original. A contemporary interpretation could however be authorised.'
+- 'Avoid: Avoid enlargements or additions in height that would alter the massing of the roof or the precedence of
+  the main volume.'
+- 'Avoid: Avoid the removal of a projection, the significant change of the shape of its openings, or its covering
+  with materials that do not correspond to the initial materials.'
+- 'Prefer: When replacing the windows, choose sash (guillotine) models. For the windows in the gable, keep the shape
+  of the window.'
+- 'Prefer: Favour a model with a number of panes similar to the original or to other houses of the same model built
+  in the same period.'
+- 'Prefer: Respect and maintain the original arrangement of the openings (an off-centre door on the façade flanked
+  by a window, and one to two windows on the façade on the upper floor).'
+- 'Avoid: When the house has a secondary entrance, avoid removing it.'
+- 'Avoid: Avoid replacing sash (guillotine) windows with casement windows or with any other type of window or mode
+  of opening.'
+- 'Avoid: Avoid modifying the dimensions of the windows or walling them up.'
+- 'Prefer: Favour a cladding material in keeping with the identified original materials. Other complementary materials
+  could however be considered for the addition of a new volume.'
+- 'Avoid: Avoid choosing a cladding whose appearance or finish does not correspond to the pre-identified original
+  cladding materials for the original volumes.'
+- 'Prefer: The original ornamentation should be maintained and kept, or else replaced when its preservation is not
+  possible.'
+- 'Avoid: Avoid adding ornaments that do not correspond to the pre-identified originals or that never existed on the
+  building.'
+- 'Avoid: Avoid removing original ornaments without replacing them.'
+conservation_fr:
+- Les agrandissements devraient être faits à l'arrière du bâtiment et demeurer peu visibles de la rue. Dans le cas
+  d'un agrandissement contemporain à l'arrière, le nouveau volume pourrait s'inspirer du gabarit et des formes des
+  extensions ou des volumes secondaires d'origine.
+- Entretenir et maintenir les composantes d'origine des saillies et galeries ainsi que la volumétrie.
+- Lorsque le remplacement des composantes d'origine est inévitable, privilégier des matériaux ou une volumétrie dont
+  l'aspect rappelle l'original. Une interprétation contemporaine pourrait cependant être autorisée.
+- Éviter les agrandissements ou les ajouts en hauteur qui altéreraient la volumétrie du toit ou la préséance du volume
+  principal.
+- Éviter le retrait d'une saillie, le changement significatif de la forme de ses ouvertures ou encore son recouvrement
+  par des matériaux ne correspondant pas aux matériaux initiaux.
+- Au moment de remplacer les fenêtres, choisir des modèles à guillotine. Pour les fenêtres dans le pignon, conserver
+  la forme de la fenêtre.
+- Favoriser un modèle avec un nombre similaire de carreaux par rapport à l'original ou à d'autres maisons du même
+  modèle construites à la même époque.
+- Respecter et maintenir la disposition originale des ouvertures (une porte décentrée en façade jouxtée d'une fenêtre
+  et une à deux fenêtres en façade à l'étage).
+- Lorsque la maison possède une entrée secondaire, éviter de la retirer.
+- Éviter de remplacer des fenêtres à guillotine par des fenêtres à battants ou par tout autre type de fenêtres ou
+  mode d'ouverture.
+- Éviter de modifier les dimensions des fenêtres ou de les murer.
+- Privilégier un matériau de recouvrement en accord avec les matériaux d'origine identifiés. D'autres matériaux complémentaires
+  pourraient cependant être envisagés pour l'ajout d'un nouveau volume.
+- Éviter de choisir un revêtement dont l'aspect ou le fini ne correspond pas aux matériaux de revêtement d'origine
+  préidentifiés pour les volumes originaux.
+- Les ornementations originales devraient être entretenues et maintenues ou encore remplacées lorsque leur préservation
+  n'est pas possible.
+- Éviter d'ajouter des ornements ne correspondant pas aux originaux préidentifiés ou n’ayant jamais existé sur le
+  bâtiment.
+- Éviter de retirer des ornements originaux sans les remplacer.
+blurb_en: 'The same narrow gable-front house rebuilt in brick: two to two and a half storeys, a main body about 20
+  feet wide and 24 to 26 deep, an off-centre door beside a single window, and a gallery on the front or turning an
+  L on square, round or turned wood columns. The by-law passed after the great Hull fire of 1900 is why the brick
+  is there.'
+origin_en: 'The "maison allumette" appears from the 1870s, its origin owing notably to the opening of the American
+  market to Canada; commercial and cultural exchange between the two countries brought in American architectural catalogues
+  with illustrated plans and building instructions for wooden workers'' houses, very popular with Canadian contractors
+  and amateur builders. Although matchbox houses exist in every sector of the city, their narrow form is said to come
+  from the rectangular subdivision typical of the Wright family''s lands in Hull, surveyed in 1864 by W. A. Austin:
+  the narrowness and depth of the lots led to the adaptation of American settler houses, which, rectangular with a
+  ridge line parallel to the street, were pivoted 90 degrees to suit the narrow lots, their gable wall thus moving
+  to the façade. The multiplication of brick matchbox houses is directly linked to the adoption of a municipal by-law
+  following the great Hull fire of 1900, which henceforth obliged new construction in the devastated sector to be
+  clad in a non-combustible material; a few brick matchbox houses existed before the fire, but the buildings rebuilt
+  within that perimeter are now very often clad this way. From the beginning of the 20th century the brick matchbox
+  house adopts certain features of neo-Queen Anne architecture, such as a veranda with a corner rotunda, fenestrated
+  projections on the façade or increased ornamentation, which, like the exterior brick cladding, attest to the higher
+  level of sophistication of the original owners, often members of the petite bourgeoisie, compared with the owners
+  of wooden houses, often from the working class.'
+photos:
+- file: null
+  credit: 'Enclume. 2023. 103, rue Thomas — Ville de Gatineau. Not reproduced: the City''s conditions of use prohibit
+    republication to third parties.'
+  kind: placeholder
