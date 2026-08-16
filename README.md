@@ -15,9 +15,12 @@ types defined by Town of Mount Royal's design-review by-law (PIIA By-law No. 144
 
 ## Publishing
 
-The site deploys automatically via GitHub Actions: every push to `main` or to
-`claude/website-responsive-github-pages-qnvdpq` republishes it. It can also be
-redeployed manually from the **Actions** tab ("Deploy website to GitHub Pages" →
-"Run workflow"). There is no build step — edit `pages/index.html` and push.
+GitHub Pages serves the `gh-pages` branch, which holds a snapshot of `pages/`.
+The "Publish website to GitHub Pages" workflow refreshes that snapshot
+automatically whenever `pages/` changes on `main` or
+`claude/website-responsive-github-pages-qnvdpq`; it can also be run manually
+from the **Actions** tab. There is no build step — edit `pages/index.html`,
+push, and the site republishes itself. Don't edit the `gh-pages` branch by
+hand; it is overwritten on every publish.
 
 The layout is responsive and adapts to phones, tablets and desktops.

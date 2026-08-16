@@ -1,42 +1,42 @@
-name: Deploy website to GitHub Pages
+name: Publish website to GitHub Pages
+
+# GitHub Pages for this repository serves the gh-pages branch. This workflow
+# keeps that branch in sync with the pages/ folder: every time the site
+# changes on the main development branches, the new version is force-pushed
+# to gh-pages as a fresh snapshot and Pages redeploys it automatically.
 
 on:
   push:
     branches:
       - main
       - claude/website-responsive-github-pages-qnvdpq
+    paths:
+      - "pages/**"
+      - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
-# One deployment at a time; let in-flight production deploys finish.
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  publish:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
-      - name: Upload site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: pages
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Push pages/ to the gh-pages branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd pages
+          git init -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Publish site from ${GITHUB_SHA::7}"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
