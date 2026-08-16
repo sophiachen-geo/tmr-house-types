@@ -1,0 +1,2554 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site du patrimoine de Saint-Nicolas -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93507&type=bien"
+              addthis:title="Site du patrimoine de Saint-Nicolas"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site du patrimoine de Saint-Nicolas</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Site patrimonial de Saint-Nicolas</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Chaudière-Appalaches</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Lévis</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine de la Nouvelle-France</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Non applicable</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=per&id=93507&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=per&id=93507&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=immo&id=93507&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=immo&id=93507&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(8)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92514&type=bien">
+            Chapelle Notre-Dame-de-Grâce
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92510&type=bien">
+            Maison Pâquet
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=119066&type=bien">
+            Ermitage Notre-Dame-de-Grâces
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=112985&type=bien">
+            Maison Bergeron
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=immo&id=93507&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=immo&id=93507&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=per&id=93507&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=per&id=93507&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7892&type=pge">
+            Pâquet, Benjamin (1832 &ndash; 1900)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=per&id=93507&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=7F387D9035BD8BA87691C5500F5197B6?type=per&id=93507&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site du patrimoine de Saint-Nicolas. Maison Pâquet . Vue avant" class="galleryImage"
+           href="document/rpcq_bien_93507_12886.JPG?id=12886" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93507_12886.JPG?id=12886" 
+           data-grandformat="document/rpcq_bien_93507_12886.JPG?id=12886" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Jean-François Rodrigue, 2005" 
+           data-description="" 
+           data-annee="2005" 
+           data-auteur="Jean-François Rodrigue" 
+           data-id="12886" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12886"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site du patrimoine de Saint-Nicolas. Maison Pâquet . Vue avant" src="document/rpcq_bien_93507_12886.JPG?id=12886&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site du patrimoine de Saint-Nicolas. Chapelle Notre-Dame-de-Grâce. Vue latérale" class="galleryImage"
+           href="document/rpcq_bien_93507_12888.JPG?id=12888" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93507_12888.JPG?id=12888" 
+           data-grandformat="document/rpcq_bien_93507_12888.JPG?id=12888" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Jean-François Rodrigue, 2005" 
+           data-description="" 
+           data-annee="2005" 
+           data-auteur="Jean-François Rodrigue" 
+           data-id="12888" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12888"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site du patrimoine de Saint-Nicolas. Chapelle Notre-Dame-de-Grâce. Vue latérale" src="document/rpcq_bien_93507_12888.JPG?id=12888&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site du patrimoine de Saint-Nicolas. Vue latérale" class="galleryImage"
+           href="document/rpcq_bien_93507_12889.JPG?id=12889" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93507_12889.JPG?id=12889" 
+           data-grandformat="document/rpcq_bien_93507_12889.JPG?id=12889" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Jean-François Rodrigue, 2005" 
+           data-description="" 
+           data-annee="2005" 
+           data-auteur="Jean-François Rodrigue" 
+           data-id="12889" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12889"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site du patrimoine de Saint-Nicolas. Vue latérale" src="document/rpcq_bien_93507_12889.JPG?id=12889&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site du patrimoine de Saint-Nicolas. Vue avant" class="galleryImage"
+           href="document/rpcq_bien_93507_12890.JPG?id=12890" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93507_12890.JPG?id=12890" 
+           data-grandformat="document/rpcq_bien_93507_12890.JPG?id=12890" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Jean-François Rodrigue, 2005" 
+           data-description="" 
+           data-annee="2005" 
+           data-auteur="Jean-François Rodrigue" 
+           data-id="12890" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12890"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site du patrimoine de Saint-Nicolas. Vue avant" src="document/rpcq_bien_93507_12890.JPG?id=12890&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site du patrimoine de Saint-Nicolas. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93507_12891.JPG?id=12891" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93507_12891.JPG?id=12891" 
+           data-grandformat="document/rpcq_bien_93507_12891.JPG?id=12891" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Jean-François Rodrigue, 2007" 
+           data-description="" 
+           data-annee="2007" 
+           data-auteur="Jean-François Rodrigue" 
+           data-id="12891" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12891"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site du patrimoine de Saint-Nicolas. Vue d&#039;ensemble" src="document/rpcq_bien_93507_12891.JPG?id=12891&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 46.70186111, -71.40430555];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site du patrimoine de Saint-Nicolas comprend huit bâtiments principaux aux traditions architecturales variées, érigés entre 1760 et 1887. Le site du patrimoine est localisé à l'ouest du noyau villageois de Saint-Nicolas, en bordure de l'ancien chemin du Roy, au sein de l'arrondissement municipal des Chutes-de-la-Chaudière-Ouest de la ville de Lévis.<br/><br/>Ce bien est cité site patrimonial. La protection s'applique aux terrains et à l'enveloppe extérieure des constructions qui s'y élèvent. Le périmètre du site comprend la maison Pâquet et la chapelle Notre-Dame-de-Grâce, classées immeubles patrimoniaux.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Citation</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+            <span >Municipalité</span>&nbsp;(Lévis)
+          
+          
+          
+          
+        
+      </td>
+      <td>
+        1987-10-05
+        
+      </td>
+    </tr>
+     
+        
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Statuts antérieurs</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                  <li>Avis de motion de citation, 1987-07-06</li>
+                
+                  <li>Citation, 1987-07-06</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site du patrimoine de Saint-Nicolas présente un intérêt pour sa valeur historique. Certains bâtiments du site  figurent parmi les plus vieux de la ville de Lévis, puisqu'un premier édifice est construit dès 1760 et quatre autres entre 1800 et 1850. En outre, le noyau villageois de Saint-Nicolas n'est pas aussi ancien, puisqu'il s'est surtout développé à compter de la seconde moitié du XIXe siècle. Le site du patrimoine offre un ensemble continu de propriétés agricoles, dont les bâtiments principaux sont plus que centenaires, figurant ainsi parmi les regroupements les plus intéressants et les plus anciens de la ville de Lévis. Par ailleurs, la valeur historique du site repose également sur la rareté et l'originalité de l'une de ses composantes : l'ancien domaine Paquet. Une bonne partie de la superficie du site est occupée par ce domaine familial composé d'une chapelle néogothique, d'un ancien ermitage (lieu jadis voué à la prière et au repos) et de deux maisons intégrées à une exploitation agricole. De tels domaines, où le bâti et l'aménagement ont été spécifiquement conçus pour servir à des fins religieuses, résidentielles, agricoles et de villégiature, sont uniques à Lévis, et rares au Québec. De plus, le lotissement d'origine (lots relativement étroits mais très profonds) est facilement perceptible. À ce bon état d'authenticité du parcellaire correspond celui des bâtiments principaux dont le soin attentionné des propriétaires a permis, au fil du temps, la conservation des composantes architecturales et des matériaux d'origine. Le paysage rural champêtre de Saint-Nicolas apparaît ainsi dans un cadre révélateur d'un art de vivre qui, bien que révolu, conserve néanmoins tout son sens.<br/><br/>Le site présente aussi un intérêt pour sa valeur architecturale. Les bâtiments principaux ont subi l'influence d'une diversité de courants architecturaux, issus de l'évolution de l'architecture française en Nouvelle-France et de styles d'origine surtout britannique, dont le vocabulaire s'insinue progressivement dans les campagnes québécoises. La variété et la qualité de chacun des bâtiments principaux en font d'intéressants exemples de l'architecture domestique au Québec sous le Régime anglais. Il s'agit d'une période où les traditions héritées du Régime français prendront plus d'un demi-siècle avant d'intégrer des idées « nouvelles », d'origine anglo-saxonne. Les édifices du site du patrimoine de Saint-Nicolas, tout en offrant une très grande qualité architecturale, représentent bien cette évolution.<br/><br/>Le site présente également un intérêt patrimonial pour sa valeur paysagère. Pour qui parcourt le site, jouent alors différemment les dispositifs du paysage que sont les lignes de lotissement que marquent les clôtures, les champs labourés en direction du fleuve, perpendiculairement au chemin, les arbres et arbustes en rangées en bordure des lignes de lot ou devant les habitations, les bâtiments principaux près desquels sont implantés, à l'occasion, les bâtiments secondaires. Aussi, le paysage s'ouvre sur le fleuve Saint-Laurent et les montagnes de la rive nord qui ferment, à l'horizon, la perspective. En fait, l'esthétique du site du patrimoine de Saint-Nicolas est une bonne représentation du milieu rural lévisien. <br/><br/>Source : Ville de Lévis, 2005.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments caractéristiques du site du patrimoine de Saint-Nicolas liés ses valeurs historique, architecturale et paysagère comprennent, notamment :<br/>- la diversité des cultures architecturales représentées, dont l'architecture d'inspiration française, l'apport anglo-saxon et d'autres manifestations d'architecture pittoresque comme le style Regency, le néogothique et le Second Empire;<br/>- la singularité et la récurrence de certaines composantes architecturales, dont les parements de bardeau de bois ouvragé et les éléments décoratifs en bois;<br/>- le respect et la visibilité du parcellaire d'origine (lots plutôt étroits mais très profonds, orientés nord-ouest - sud-est);<br/>- la présence bien marquée des lignes de lot;<br/>- la grande représentativité des édifices par rapport à leur type architectural respectif;<br/>- l'aspect comparable de sept des huit édifices par rapport à l'état prévalant lors de leur construction;<br/>- les détails architecturaux telles les consoles découpées au sommet des colonnes et les planches cornières; <br/>- les ornements de portes constitués par les chambranles découpés, les pilastres, les corniches, les baies latérales et les impostes;<br/>- l'architecture de très grande qualité de la chapelle néogothique Notre-Dame-de-Grâce s'exprimant par le parement en brique, la couverture en bardeau de bois polychrome, les ouvertures en arc brisé, les contreforts, les pinacles et le portique très ouvragé;<br/>- les éléments de l'ermitage Notre-Dame, dont la toiture mansardée (à terrasson et à brisis), les fenêtres à battants à grands carreaux, les chambranles et le parement de planches de bois posées à clins;<br/>- les éléments architecturaux de la maison Pâquet, dont le toit à deux versants droits, la couverture en bardeau de bois, le revêtement mural de planches verticales, les fenêtres à battants à petits carreaux et une porte à double vantail en anse de panier;<br/>- l'importante végétation à proximité des édifices ou en bordure des lignes de lot;<br/>- le caractère champêtre du lieu.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>L'histoire de Saint-Nicolas commence à la fin du XVIIIe siècle, un peu plus à l'ouest de l'actuel site du patrimoine, dans l'anse du Vieux Moulin. Les pionniers choisissent d'abord la bordure immédiate du fleuve Saint-Laurent, puis s'installent ensuite sur le plateau, le long du chemin du Roy (route Marie-Victorin actuelle). Au cours de la première moitié du XVIIIe siècle, les constructions s'effectuent surtout dans ce secteur. <br/><br/>Graduellement, les terres situées plus à l'est sont défrichées, dont celles localisées aujourd'hui dans le site du patrimoine. Le bâti commence à y apparaître dès 1760, année où aurait été érigé le premier corps de logis de la maison Pâquet. L'immeuble est successivement agrandi du côté est. L'édifice qui, à l'origine, est d'inspiration française prend, au XIXe siècle, les allures de la maison traditionnelle québécoise avec l'ajout d'avant-toits courbés et de lucarnes à pignon. En 1989, la maison Pâquet subit une importante restauration qui lui rend son apparence d'origine. Elle est classée la même année.<br/><br/>Les autres maisons aujourd'hui intégrées au site du patrimoine ont été érigées entre 1800 et 1880, de part et d'autre de la maison Pâquet, essentiellement du côté nord de la route. Il s'agissait en fait de propriétés agricoles qui comptaient plusieurs bâtiments secondaires. Ces édifices sont aujourd'hui surtout à vocation résidentielle, même si la vocation agricole est encore bien présente dans le secteur.<br/><br/>En 1867, monseigneur Benjamin Pâquet (1832-1900) érige, du côté sud de la route, la chapelle Notre-Dame-de-Grâce, en guise d'ex-voto. L'immeuble s'inspire du style néogothique. Une sacristie est construite en 1896 le long du mur ouest, puis un porche, en façade, l'année suivante. Démoli en 1956, ce magnifique porche néogothique est reconstruit à la suite d'une restauration soignée survenue en 1999 et 2000. La chapelle sert au culte jusqu'au milieu du XXe siècle. Elle est classée en 1989.<br/><br/>En 1887, monseigneur Pâquet, alors recteur de l'Université Laval, fait construire un ermitage à l'arrière de la chapelle Notre-Dame-de-Grâce. Elle sert de résidence d'été et devient alors un lieu voué au repos, à l'éducation religieuse, à la méditation et à la prière. Le bâtiment s'inspire de l'architecture Second Empire alors en vogue, et il se caractérise notamment par sa toiture mansardée. Mais c'est par son aménagement paysager exceptionnel que l'ermitage se distingue davantage. À son âge d'or, depuis le chemin du Roy, une allée bordée d'épinettes y conduit, alors que la cour avant, triangulaire, est ornée de fleurs, de vignes et d'une statue de l'Immaculée Conception. Tout comme la chapelle, l'ermitage sert à des fins religieuses jusqu'au milieu du XXe siècle. L'édifice est maintenant affecté à des fins résidentielles.<br/><br/>Le site du patrimoine de Saint-Nicolas est constitué en 1987. Il est devenu un site patrimonial cité à l'entrée en vigueur de la Loi sur le patrimoine culturel en 2012.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Chaudière-Appalaches
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Lévis
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Lévis
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Arrondissement municipal</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Les Chutes-de-la-Chaudière-Ouest
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Adresse</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        route Marie-Victorin
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        46° 42' 6.7"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -71° 24' 15.5"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>BERGERON, Claude. <I>Inventaire et analyse du patrimoine. Évolution historique, étude du paysage architectural, du potentiel archéologique et historique. Élaboration du schéma d'aménagement</I>. s.l. MRC des Chutes-de-la-Chaudière, 1984. 314 p.</li>
+      
+    
+      <li>BERGERON, Claude. <I>Le site du patrimoine de la Ville de Saint-Nicolas, Conditions spécifiques à l'aménagement et à l'architecture</I>. Ville de Saint-Nicolas (Québec), Service de l'urbanisme de la Ville de Saint-Nicolas, 1988. 126 p.</li>
+      
+    
+      <li>BERGERON, Claude. <I>Promenade de découverte du patrimoine bâti, Ville de Saint-Nicolas</I>. Ville de Saint-Nicolas (Québec), Ville de Saint-Nicolas, 2001. 12 p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+</body>
+</html>

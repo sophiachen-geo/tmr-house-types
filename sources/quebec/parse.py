@@ -99,6 +99,8 @@ TABLEAU_PARENT = {
 
 def clean(s):
     """Unescape entities, drop tags, rejoin line-broken hyphens, collapse whitespace."""
+    # inline formatting closes up ("20<sup>e</sup> siècle" -> "20e siècle"); block tags become a space
+    s = re.sub(r"(?i)</?(sup|sub|strong|em|b|i|span|a)\b[^>]*>", "", s)
     s = re.sub(r"<[^>]+>", " ", s)
     s = html_mod.unescape(s).replace("\xa0", " ")
     s = re.sub(r"\s+", " ", s).strip()

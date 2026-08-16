@@ -1,0 +1,67 @@
+{
+  "appartements-laviolette-commons.jpg": {
+    "commons_file": "Appartements_Laviolette_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Appartements_Laviolette_01.jpg",
+    "sha256_original": "602b657f6897c8a0834320a2556c33bb961fad9f5b3f6f37d0687afaa4e68eba",
+    "bytes_original": 7504474,
+    "saved": "assets/places/trois-rivieres/appartements-laviolette-commons.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "bytes_saved": 398642,
+    "sha256_saved": "d171f4d69e68c1cebbdb74233fd6bb845c28eb26c46feb42b657713c0bc0ba2d"
+  },
+  "890-terrasse-turcotte-commons.jpg": {
+    "commons_file": "890,_terrasse_Turcotte_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/890%2C_terrasse_Turcotte_01.jpg",
+    "sha256_original": "ddc632e669a2982f9890e471276ad7941b56685313b09cc67de45590c70b7dd3",
+    "bytes_original": 7677354,
+    "saved": "assets/places/trois-rivieres/890-terrasse-turcotte-commons.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "bytes_saved": 456483,
+    "sha256_saved": "e45302e0c2236e9f849af1b005666fa3f7661382990d36faa805519912913b91"
+  },
+  "maison-saint-francois-commons.jpg": {
+    "commons_file": "Maison_Saint-François.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Maison_Saint-Fran%C3%A7ois.jpg",
+    "sha256_original": "99099423a5277b60af29520f9de6d0f887451cf4afcd98a9342fadf3a7dc4e83",
+    "bytes_original": 7993303,
+    "saved": "assets/places/trois-rivieres/maison-saint-francois-commons.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "bytes_saved": 331975,
+    "sha256_saved": "aa44ddd22989ed77e7861fe2d5036daf8f04f149eb5c770530761736fed24768"
+  },
+  "802-rue-des-ursulines-hertel-de-la-fresniere-commons.jpg": {
+    "commons_file": "Trois-Rivieres,_Quebec_-_802_rue_des_Ursulines_-_1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trois-Rivieres,%20Quebec%20-%20802%20rue%20des%20Ursulines%20-%201.jpg",
+    "sha256_original": "f55e58eb00d35de80f977326c8d8f06268f1c92df029455534bc87a61a896773",
+    "bytes_original": 7105244,
+    "saved": "assets/places/trois-rivieres/802-rue-des-ursulines-hertel-de-la-fresniere-commons.jpg",
+    "size": [
+      1600,
+      1171
+    ],
+    "bytes_saved": 408283,
+    "sha256_saved": "a036161c5ef1ba51cf5a79a8f6eb9e95f3844cec108bb6156b624c9d1f7d5944"
+  },
+  "834-rue-des-ursulines-georges-de-gannes-commons.jpg": {
+    "commons_file": "Trois-Rivieres,_Quebec_-_834_rue_des_Ursulines.jpg",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trois-Rivieres,%20Quebec%20-%20834%20rue%20des%20Ursulines.jpg",
+    "sha256_original": "66f84bafe7721f4ebcd4d539931b4e75d938fd44f4c2392bfdd1101ebf721298",
+    "bytes_original": 6368700,
+    "saved": "assets/places/trois-rivieres/834-rue-des-ursulines-georges-de-gannes-commons.jpg",
+    "size": [
+      1600,
+      1067
+    ],
+    "bytes_saved": 344519,
+    "sha256_saved": "a2abf2a344387de8bfe970a7af78523e2a6aa457ed4245575a03f5ea66a1d3db"
+  }
+}
