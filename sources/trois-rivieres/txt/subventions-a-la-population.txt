@@ -1,0 +1,602 @@
+
+Subventions à la population | Site officiel de la Ville de Trois-Rivières
+Subventions à la population | Site officiel de la Ville de Trois-Rivières
+Passer
+ directement au contenu
+ Mon eau, j'y tiens! Consultez la réglementation. 
+ Le mode contraste élevé a été activé. 
+En savoir plus
+-->
+À la une
+Carte interactive
+Emplois
+Infolettre
+Nous joindre
+Services en ligne
+Menu
+Services
+ à la population
+Activités
+ et loisirs
+Culture
+Affaires
+À
+ propos de la Ville
+À la une
+Carte interactive
+Emplois
+Infolettre
+Nous joindre
+Services en ligne
+ Services à la population
+ Activités et loisirs
+ Culture
+ Affaires
+ À propos de la Ville
+Liens rapides
+ Alertes citoyennes 
+ Horaire de collecte des bacs 
+ Police 
+ Sécurité incendie 
+ Stationnement 
+ Tout sur ma propriété 
+ Services à la population
+Bureau du service client 311
++
+Collectes et matières résiduelles
++
+Conseils saisonniers
++
+Cour municipale
++
+Eau
++
+Environnement
++
+Habitation
++
+Permis et certificats
++
+Règlements municipaux
++
+Réseau routier et transport
++
+Sécurité du public
++
+Subventions à la population
++
+Taxes et évaluation
++
+Vie communautaire
++
+Liens rapides
+ Carte plein air 
+ Catalogue des Bibliothèques 
+ Patinage libre 
+ Réseau cyclable 
+ Tourisme Trois-Rivières 
+ Activités et loisirs
+Bibliothèques
++
+Calendrier des activités
++
+Camp de jour
++
+Centre-ville
++
+Événements
++
+Installations sportives et récréatives
++
+Jeux du Québec 2025
++
+Location de salles et de gymnases
++
+Parcs canins
++
+Parcs et espaces verts
++
+Liens rapides
+ Inscription à la liste d'envoi d'appels de projets culturels 
+ Amphithéâtre Cogeco 
+ Bibliothèques 
+ Corporation des événements 
+ Culture 3R 
+ Tourisme Trois-Rivières 
+ Vitrine sur la culture en Mauricie - DICI 
+ Culture
+Activités culturelles
++
+Art public et arts visuels
++
+Grands Prix culturels de Trois-Rivières
++
+Histoire et patrimoine
++
+Soutien aux organismes et artistes
++
+Vision culturelle
++
+Liens rapides
+ Commerces en alerte 
+ Guide du promoteur immobilier 
+ IDE Trois-Rivières 
+ Trois-Rivières Centre 
+ Affaires
+Acheter un terrain de la Ville
++
+Aéroport de Trois-Rivières
++
+Certification en développement durable
++
+Faire affaire avec la Ville
++
+Liste des contrats
++
+Portrait socio-économique
++
+Ressources d’affaires
++
+Subventions aux entreprises
++
+Liens rapides
+ Conseil municipal 
+ Participation publique 
+ Quartiers trifluviens 
+ Webdiffusion des séances 
+ À propos de la Ville
+Administration municipale
++
+Avis publics
++
+Budget et rapports financiers
++
+Communications
++
+Emplois
++
+Planification
++
+Politiques et plans d’action
++
+Portrait de la Ville
++
+Prix et distinctions
++
+Rapport annuel
++
+Vérificateur général
++
+Vie démocratique
++
+Recherche
+X
+Catégories
+{{cat.Name}} ({{cat.Results}})
+Filtrer par catégorie
+ {{cat.Name}} ({{cat.Results}})
+ {{ResultsToDisplay.length}} résultat{{(ResultsToDisplay.length > 1 ? 's' : '')}}
+{{result.Meta}}
+{{result.SubInfo}}
+= MinCars">
+Aucun résultat
+Recherche en cours ...
+Entrez au moins {{MinCars}} caractères
+ 10"
+ ng-click="SetFacetResults(true);">
+ Voir plus de résultats
+ 10 && ShowAll == false"
+ ng-click="SetShowAll()">
+Afficher plus de résultats
+Services à la population
+Subventions à la population
+accueil
+›
+Services à la population
+›
+Subventions à la population
+Subventions à la population
+La Ville offre des programmes d’aide financière à la population afin de stimuler le développement de secteurs ciblés, d’encourager certains projets de rénovation ou de réduire l’enfouissement des matières résiduelles.
+Cette page présente des fiches synthèses des principaux programmes de subvention offerts par la Ville. 
+Ces subventions sont offertes jusqu’à épuisement des fonds alloués pour chaque programme et selon les règlements en vigueur.
+La Ville offre également différents programmes de 
+subventions aux entreprises
+.
+Accès à la propriété
+Programme d’accès à la propriété – Bas-du-Cap
+En raison de la forte popularité du programme, le budget annuel 2026 est entièrement épuisé. Prendre note que nous ne prenons plus de nouvelles inscriptions.
+Le programme veut encourager la présence de nouvelles personnes « propriétaires-occupantes » désirant s’établir dans le secteur du Bas-du-Cap par l’achat d’une résidence principale existante.
+Pour bénéficier de la subvention, vous ne devez pas être propriétaire de l’immeuble pour lequel vous faites la demande. Vous devez donc faire la demande
+ avant
+ de passer chez le notaire.
+Aide financière
+L’aide financière correspond à 5 % du prix d’achat de l’immeuble jusqu’à un 
+maximum de 10 000 $
+ et est payable en 2 versements. Le tout est financé par la Ville de Trois-Rivières et est conditionnel à la disponibilité budgétaire et au règlement en vigueur.
+Inscription au programme
+Avant de vous inscrire au programme, communiquez avec le 
+311
+ pour vérifier la disponibilité budgétaire. Remplissez ensuite le formulaire d’inscription et la déclaration solennelle :
+Formulaire d’inscription retiré, nous ne prenons plus de nouvelles inscriptions. 
+Déclaration solennelle – Programme d’accès à la propriété
+Afin de remplir la déclaration solennelle, vous devez communiquer avec un commissaire à l’assermentation. 
+Utilisez 
+l’outil de recherche
+ pour trouver un commissaire à l’assermentation près de chez vous.
+Procédure pour inscription
+Les inscriptions sont traitées avec le principe « premier arrivé, premier servi », jusqu’à épuisement des fonds alloués au programme.
+Remplir le formulaire d’inscription;
+Remplir la déclaration solennelle assermentée par un commissaire;
+Acquitter les frais d’inscription de 100 $;
+Fournir l’offre d’achat acceptée;
+Réception d’un courriel confirmant l’ouverture officielle du dossier;
+Réception d’un appel pour la prise du rendez-vous pour la signature d’engagement;
+Fournir l’acte de vente notarié (dans un délai maximal de 90 jours suivant la signature d’engagement) et une preuve d’adresse.
+Les formulaires peuvent être envoyés par courriel au 311, par la poste ou déposés en personne à l’adresse suivante :
+Service de développement, redéveloppement et programmes
+4655, rue Saint-Joseph
+C.P. 368
+Trois-Rivières (Québec) G9A 5H3
+*Prendre note que la validité de l’engagement est conditionnel au dépôt de l’acte de vente dans un délai maximal de 90 jours suivant la signature.
+Admissibilité
+Être situé sur le territoire d’application;
+Ne pas avoir été propriétaire au cours des 5 dernières années précédant l’acquisition. Cela s’applique également pour la conjointe ou le conjoint demeurant à la même adresse, le cas échéant;
+La propriété doit servir de résidence principale et l’occupation doit être d’un minimum de 3 ans;
+Le compte de taxes doit avoir été acquitté;
+L’immeuble résidentiel doit avoir un maximum de 3 logements.
+Non admissible
+Un immeuble situé en zone inondable ou de contraintes relatives aux glissements de terrain;
+Une copropriété divisée;
+Un immeuble obtenu par donation, succession ou cession.
+Consultez le règlement pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Règlement établissant le programme d’accès à la propriété dans le secteur du Bas-du-Cap
+Crédits de taxe foncière – Programme de revitalisation de certains secteurs
+Revitalisation des vieux quartiers
+La Ville octroie un crédit de taxe foncière ayant pour objectif de compenser la hausse de taxe foncière ajoutée aux bâtiments situés dans les secteurs d’application pouvant résulter de l’augmentation de la valeur imposable après la fin des travaux de construction, de reconstitution, de rénovation, d’agrandissement ou de transformation.
+Montant et durée de l’aide financière
+Le crédit de taxe foncière s’applique automatiquement sur la valeur ajoutée à compter de la date de prise d’effet du certificat comme suit :
+Bâtiments résidentiels
+100 % de la valeur ajoutée pour une période de 60 mois (5 ans)
+Bâtiments commerciaux et industriels
+70 % de la valeur ajoutée pour une période de 60 mois (5 ans)
+Consultez le dépliant pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Dépliant crédit de taxe foncière pour les vieux quartiers
+Règlement établissant un programme de revitalisation de certains secteurs
+Revitalisation de certains terrains desservis et recyclage de certains bâtiments
+La Ville octroie un crédit de taxe ayant pour objectif de compenser la hausse de taxe foncière pouvant résulter de l’augmentation de la valeur imposable après la fin des travaux suivants :
+Construction, rénovation, agrandissement ou transformation d’un bâtiment qui demeure ou qui devient en totalité ou en partie, un bâtiment résidentiel;
+Recyclage et conversion d’un bâtiment conventuel en un bâtiment résidentiel multifamilial, commercial ou de service.
+S’il s’agit d’un bâtiment incendié ou démoli, il faut remplir les conditions suivantes :
+Les travaux de construction, de recyclage ou de conversion doivent être terminés dans les 60 mois de l’incendie ou de la démolition;
+Le bâtiment résultant des travaux doit être un bâtiment résidentiel ayant un nombre d’unités de logement supérieur à celui du bâtiment qu’il remplace.
+Le crédit de la taxe foncière est alors octroyé sur la différence entre la valeur du bâtiment remplacé et la valeur du nouveau bâtiment.
+Montant et durée de l’aide financière
+Le crédit de taxe foncière s’applique automatiquement sur la valeur ajoutée à compter de la date de prise d’effet du certificat comme suit :
+100 % pour les 12 premiers mois;
+50 % pour la période du 13
+e
+ au 24
+e
+ mois;
+25 % pour la période du 25
+e
+ au 36
+e
+ mois.
+Consultez le dépliant pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Dépliant crédit de taxe foncière dans les zones de consolidation
+Règlement établissant un programme de revitalisation de certains secteurs
+Densification des secteurs de la première couronne
+La Ville octroie un crédit de taxe à la densification ayant pour objectif de promouvoir le développement de projets résidentiels neufs pour les secteurs de la première couronne.
+Ce crédit de taxe foncière de 3 ans à 100 % sera octroyé pour les projets résidentiels neufs comportant au moins 8 logements ET une densité d’occupation d’au moins 40 logements par hectare.
+Montant et durée de l’aide financière
+Le crédit de taxe foncière s’applique sur la valeur ajoutée à compter de la date de prise d’effet du certificat comme suit :
+100 % par année pour une période de 36 mois (3 ans).
+Consultez le feuillet informatif pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Feuillet informatif du crédit de taxes foncières à la densification
+Formulaire de demande de crédit de taxes foncières à la densification
+Règlement établissant un programme de revitalisation de certains secteurs
+Environnement
+Programme de subvention pour l’achat de couches lavables
+Ce programme vise à encourager les jeunes familles à acheter des couches lavables pour leur enfant. Cette alternative écologique permet d’éviter l’enfouissement de milliers de couches jetables en plus de faire réaliser d’importantes économies aux jeunes familles.
+Aucune subvention n’est octroyée présentement. 
+Programme de subvention pour l’achat de protections hygiéniques durables
+La Ville s’associe au 
+Centre de santé des femmes de la Mauricie
+ dans le cadre de son Programme de subvention pour l’achat de protections hygiéniques durables (PHD).
+Cette subvention vise à permettre aux femmes d’obtenir des PHD à moindre coût ainsi que de les conscientiser sur le développement durable des produits. Ce partenariat permet également au Centre d’offrir de l’information sur la réappropriation positive du cycle menstruel.
+Aide financière
+La subvention est gérée en totalité par le Centre de santé des femmes de la Mauricie. Le programme offre un montant de 65 $ taxes incluses maximum par personne. Un montant total de 17 000 $ est attribué à ce programme. La subvention est offerte jusqu’à épuisement des fonds.
+Admissibilité
+Résider à Trois-Rivières;
+Limite d’une subvention par personne sur une période de deux ans.
+Types de produits admissibles: 
+Serviettes hygiéniques;
+Culottes;
+Coupe menstruelle;
+Applicateurs tampons.
+Pour plus d’informations, communiquez avec le 
+Centre de santé des femmes de la Mauricie
+ au 
+819 378-1661.
+Programme de subvention pour le traitement et le remplacement de frênes
+La Ville encourage les propriétaires de frênes à les protéger et à préserver le plus longtemps possible la canopée urbaine. 
+De nouvelles mesures ont ainsi été mises en place
+ par les autorités en guise de soutien financier.
+Mobilité
+Programme d’amélioration de la mobilité (PAM)
+Le Programme d’aide à la mobilité (PAM) est une subvention destinée aux organismes à but non lucratif et publics pour soutenir des projets de mobilité durable :
+Transport actif et alternatif;
+Fluidité et sécurité de la mobilité;
+Aménagement d’aires à destination.
+Il favorise les partenariats locaux, l’implication de la Ville et l’engagement citoyen afin d’améliorer la qualité de vie. Les projets doivent cibler des zones problématiques et s’inscrire dans une vision de développement durable pour la communauté trifluvienne.
+Un appel de projets est fait chaque année. Il se termine le 31 mars.
+Refonte du programme en 2025
+Le programme a été revu pour permettre davantage de réalisations pour favoriser la mobilité durable sur le territoire de Trois-Rivières.
+Les valeurs maximales des projets ont été revues à la hausse;
+Le nombre de projets qu’un organisme peut déposer a été revu à la hausse;
+Les regroupements d’organismes pour une demande sont dorénavant permis, suivant certaines conditions.
+Montant de la subvention
+L’aide financière accordée pour un projet est de :
+75 % de la valeur totale du projet, lorsque celui-ci est de moins de 25 000 $;
+50 % de la valeur totale du projet, pour un projet d’un an compris entre 25 000 $ et 150 000 $ et pour un projet sur 2 ans d’une valeur totale de moins de 200 000$.
+Les dépassements de coûts doivent être assumés par l’organisation ayant rempli la demande ou ses partenaires.
+Types de projets admissibles
+Amélioration de l’aménagement urbain;
+Bonification de la sécurité des déplacements;
+Mise en place de moyens de déplacements alternatifs;
+Création de système de transport intelligent;
+Espace de stationnement incitatif;
+Programme de vélos libre-service;
+Infrastructure liée au transport collectif ou actif;
+Programme d’autopartage;
+Tout autre projet atteignant les cibles de la Politique de mobilité durable – 2030 du gouvernement du Québec.
+Types de projets inadmissibles
+Les projets portés uniquement sur l’information, la sensibilisation ou l’éducation (ISÉ);
+Les études préliminaires réalisées avant le début d’un projet;
+Les projets servant uniquement au maintien des actifs.
+Pour bénéficier du programme, vous devez :
+Être un organisme sans but lucratif, une personne morale de droit public ou une société de transport en commun légalement constituée en vertu de la Loi sur les sociétés de transport en commun (RLRQ, chapitre S-30.01);
+Avoir un établissement d’entreprise sur le territoire de la Ville de Trois-Rivières.
+Inscription
+Pour bénéficier du programme :
+Consultez la description du Programme d’amélioration de la mobilité (PAM);
+Consultez le guide de dépôt de projet;
+Remplissez le formulaire de dépôt de projet;
+Remplissez le formulaire du budget du projet;
+Faites parvenir tous les documents requis à la Ville de Trois-Rivières à l’adresse 
+coorcirc1@v3r.net
+ avant le 31 mars.
+Programme d’amélioration de la mobilité (PAM)
+Guide de dépôt de projet
+Formulaire de dépôt de projet
+Formulaire du budget du projet
+Pour plus d’information : 
+coorcirc1@v3r.net
+Travaux domiciliaires
+Adaptation de domicile (PAD)
+Ce programme vise à favoriser le maintien à domicile des personnes handicapées. Mise en place par la Société d’habitation du Québec, la 
+subvention permet d’adapter le domicile aux activités quotidiennes des personnes handicapées
+. La subvention est versée au propriétaire du domicile pour l’exécution des travaux d’adaptation admissibles. Le bâtiment doit être situé sur le territoire de la ville de Trois‑Rivières.
+Montant de l’aide financière
+Aide financière pouvant atteindre jusqu’à 50 000$ par personne admissible.
+Inscription au programme
+Il est possible de s’inscrire :
+Dans un CLSC;
+En communiquant avec votre ergothérapeute;
+En contactant la Société d’habitation du Québec au 1 800 463‑4315.
+Pour plus d’informations, veuillez consulter le site de la 
+Société d’habitation du Québec.
+Programme d’adaptation de domicile (Société d’habitation du Québec)
+Éconologis
+Administré par le gouvernement du Québec, le programme Éconologis offre gratuitement aux ménages à revenu modeste, qu’ils soient locataires ou propriétaires, des services pour améliorer le confort de leur domicile et réduire leur consommation d’eau et d’énergie. Les ménages participants peuvent recevoir gratuitement :
+Des pommeaux de douche à débit réduit;
+Des aérateurs pour robinets;
+Des sabliers de douche de 5 minutes;
+Des conseils personnalisés pour diminuer leur consommation d’énergie;
+Du calfeutrage, des coupe-froid aux portes et l’isolation des prises électriques;
+Une trousse écoénergétique complète.
+Admissibilité et inscription
+Pour vérifier les conditions d’admissibilité ou vous inscrire, consultez la page du programme sur le 
+site Web
+ du gouvernement du Québec.
+Programme de restauration du patrimoine immobilier
+Le budget alloué pour cette subvention a été entièrement utilisé.
+En vertu d’une précieuse collaboration avec le 
+ministère de la Culture et des Communications
+ du gouvernement du Québec, la Ville de Trois-Rivières déploie un nouveau programme de subvention : 
+le programme de restauration du patrimoine immobilier
+. Ce 
+programme
+ d’aide vise à protéger le patrimoine immobilier. La Ville et le ministère ont conclu une entente de 3.75M$ pour la restauration du patrimoine immobilier de propriété privée. Cette entente est financée à 60% par le MCC et à 40% par La Ville.
+Ce programme vise à 
+octroyer des subventions aux propriétaires d’immeubles patrimoniaux
+ qui font l’objet d’un statut juridique attribué en vertu de la 
+Loi sur le patrimoine culturel
+ (RLRQ.,c.P-9.002) ainsi que ceux de valeur supérieure visés par un règlement sur les PIIA, pour effectuer des travaux de restauration et des interventions d’acquisition de connaissance en lien avec ces travaux.
+Les travaux de restauration doivent avoir pour objet de conserver et de mettre en valeur les caractéristiques architecturales propres à l’immeuble et à sa typologie d’appartenance et doivent se baser sur une connaissance historique de sa construction et de ses particularités et utiliser des techniques et des matériaux conformes à leur époque de construction.
+Travaux admissibles et montant de l’aide financière
+60 % du coût réel des travaux admissibles pour la restauration et la préservation des éléments caractéristiques de l’immeuble;
+75 % du coût réel des travaux admissibles pour la restauration des portes, des fenêtres et du revêtement de la toiture réalisés avec des matériaux traditionnels;
+70 % des coûts réels admissibles relatifs à l’acquisition de connaissance (carnets de santé ou audits techniques, réalisation d’études spécifiques professionnelles complémentaires) pour un montant maximum de 25 000 $.
+Le montant maximum total de la subvention est de 250 000 $.
+La subvention est versée entièrement à la date de la fin des travaux.
+Inscription au programme
+Les propriétaires des immeubles admissibles 
+sont avisés par courrier afin d’y déposer une demande de subvention
+.
+Celles-ci sont traitées selon la date d’inscription puis, sur la base du « premier arrivé premier servi.
+Information :
+Par courriel au 
+311@v3r.net
+À Trois-Rivières au 
+311
+De l’extérieur de Trois-Rivières sans frais au 
+1 833 374-2002
+Consultez le règlement pour en savoir plus.
+Règlement établissant le Programme de « Restauration du patrimoine immobilier »
+Pyrrhotite
+La Société d’habitation du Québec a annoncé qu’elle suspendait tous ses programmes à compter du 1er avril 2025, et ce, jusqu’à nouvel ordre. Nous continuons de prendre les inscriptions 
+en vue d’une potentielle réouverture du programme par la SHQ.
+Élaboré par la Société d’habitation du Québec et administré par la Ville de Trois‑Rivières, le Programme d’aide pour les résidences endommagées par la pyrrhotite vise à aider financièrement les propriétaires de bâtiments résidentiels dont les fondations sont endommagées par la pyrrhotite.
+Travaux admissibles
+Les travaux admissibles sont ceux visant à :
+Remplacer les fondations du bâtiment, incluant les éléments donnant l’accès au bâtiment, s’ils sont intégrés aux fondations, et le cas échéant, les travaux visant à reconstruire le parement extérieur;
+Remettre en état les pièces du sous‑sol.
+Montant de l’aide financière
+L’aide financière accordée est de 75 % des coûts admissibles :
+Si le bâtiment est couvert par le 
+Plan de garantie des bâtiments résidentiels neufs
+ :
+Jusqu’à un maximum de 15 000 $ pour les travaux de remise en état des pièces situées au sous-sol qui ne sont pas couverts par le plan.
+Si le bâtiment n’est pas couvert par le Plan de garantie des bâtiments résidentiels neufs :
+Jusqu’à un maximum de 75 000 $ (pour l’ensemble des travaux admissibles).
+Pour obtenir plus d’information sur l’aide offerte aux victimes :
+Programme d’aide pour les résidences endommagées par la pyrrhotite
+Redéveloppement des premiers quartiers
+Ce programme de subvention vise le redéveloppement et la revitalisation de la partie des premiers quartiers assujettie à un 
+plan d’implantation et d’intégration architecturale (PIIA)
+.
+Formulaire d’inscription – Programme de redéveloppement des premiers quartiers
+Dépliant – Programme de redéveloppement des premiers quartiers
+Le programme est réparti en deux volets :
+I. Rénovation d’immeubles patrimoniaux
+Avant d’entreprendre vos travaux, vous devez être inscrit au programme, avoir obtenu l’approbation du conseil municipal et avoir signé l’engagement avec la coordonnatrice du programme.
+Ce volet vise à octroyer des subventions aux propriétaires d’immeubles situés dans les premiers quartiers et territoires d’application (PIIA) lors de travaux visant à mettre en valeur les caractéristiques architecturales de l’immeuble ou à lui redonner une valeur historique.
+Travaux admissibles
+Rénovation des fondations et des murs (travaux assurant le clos, le couvert et l’étanchéité);
+Rénovation nécessaire à la conservation de l’aspect extérieur du bâtiment (portes, fenêtres, corniches, galerie, etc.);
+Travaux de reconstitution des éléments patrimoniaux;
+Travaux de démolition d’un bâtiment complémentaire.
+Montant de l’aide financière
+Le montant de la subvention représente 25 % à 75 % du coût réel des travaux admissibles pour une subvention maximale de 50 000 $ jusqu’à l’épuisement des fonds qui sont alloués et selon le règlement en vigueur du programme.
+Inscription au programme
+Les demandes de subvention sont traitées selon la date d’inscription, puis avec la formule « premier arrivé, premier servi » lorsque le dossier est complet. Les travaux en urgence ne sont pas priorisés.
+Inscrivez-vous sur la liste d’attente;
+Acquittez en ligne les frais de 100 $ pour l’ouverture de votre dossier au moyen d’un chèque payable à l’ordre de la Ville de Trois-Rivières, en argent comptant ou par carte de débit. Ces frais comprennent notamment la préparation de la demande, une inspection sommaire du bâtiment visé et une vérification de l’admissibilité de celui-ci;
+Faites parvenir votre demande à la Ville de Trois‑Rivières par la poste ou en personne à :
+Architecture, programmes, patrimoine et redéveloppement
+Direction de l’aménagement et du développement durable
+4655, rue Saint‑Joseph
+C.P. 368
+Trois‑Rivières, Québec G9A 5H3
+Information : 
+Par courriel au 
+311@v3r.net
+À Trois-Rivières au 
+311
+De l’extérieur de Trois-Rivières sans frais au 
+1 833 374-2002
+Consultez le règlement pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Règlement établissant le programme Redéveloppement des premiers quartiers PIIA
+II. Gestion et disposition des sols contaminés et de matériaux secs
+Ce volet du programme vise à octroyer des subventions aux propriétaires de terrains ayant un historique d’activité industrielle et nécessitant des travaux de gestion et de disposition des sols contaminés et des matériaux secs, afin de rendre ces terrains développables, selon les normes applicables.
+Montant de l’aide financière
+Le montant de la subvention représente 100% du coût réel des travaux admissibles pour une subvention maximale de 500 000 $ jusqu’à l’épuisement des fonds qui sont alloués et selon le règlement en vigueur du programme.
+Inscription au programme
+Les demandes de subvention sont traitées selon la date d’inscription, puis avec la formule « premier arrivé, premier servi » lorsque le dossier est complet.
+Faites parvenir votre demande à la Ville de Trois‑Rivières par la poste accompagné d’un chèque au montant de 100 $, non remboursable, pour les frais d’ouverture du dossier à :
+Architecture, programmes, patrimoine et redéveloppement
+Direction de l’aménagement et du développement durable
+4655, rue Saint‑Joseph
+C.P. 368
+Trois‑Rivières, Québec G9A 5H3
+Information : 
+Par courriel au 
+311@v3r.net
+À Trois-Rivières au 
+311
+De l’extérieur de Trois-Rivières au 
+1 833 374-2002
+Consultez le règlement pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Règlement établissant le programme Redéveloppement des premiers quartiers PIIA
+RénoClimat
+Administré par le gouvernement du Québec, le programme RénoClimat vise à fournir des conseils et une aide financière aux propriétaires d’habitations qui souhaitent améliorer l’efficacité énergétique de leur habitation en y effectuant des rénovations telles que :
+des travaux d’isolation;
+des travaux d’étanchéité;
+le remplacement de portes et fenêtres;
+l’installation ou le remplacement de systèmes mécaniques.
+Admissibilité et aide financière
+Afin de vérifier les conditions d’admissibilité, l’aide financière disponible et les modalités de participation, consultez la page du programme sur le 
+site Web
+ du gouvernement du Québec.
+RénoRégion
+ Les inscriptions au programme sont à nouveau disponibles. Les nouvelles demandes peuvent être déposées dès maintenant. 
+Administré par la Société d’habitation du Québec et mis en application par la Ville de Trois‑Rivières, le programme RénoRégion a pour objectif d’aider financièrement les personnes agissant à titre de propriétaires-occupants à revenu faible ou modeste vivant en milieu rural à effectuer des travaux pour corriger les défectuosités majeures que présente leur résidence.
+Dans le cas des municipalités de 15 000 habitants et plus, comme la ville de Trois‑Rivières, le programme est applicable aux secteurs non desservis par un réseau d’aqueduc ou d’égout.
+Détails et inscription au programme RénoRégion
+Rénovation Québec
+La Société d’habitation du Québec a annoncé qu’elle suspendait tous ses programmes à compter du 1er avril 2025, et ce, jusqu’à nouvel ordre. Nous ne sommes donc plus en mesure de prendre de nouvelles inscriptions pour le moment.
+Financé à parts égales par la Ville de Trois-Rivières et la Société d’habitation du Québec, ce programme vise à :
+Améliorer la qualité de l’habitation;
+Restaurer et mettre en valeur les vieux quartiers et les bâtiments anciens présentant un potentiel architectural et patrimonial;
+Créer de nouveaux logements par la transformation de bâtiments existants non résidentiels à des fins résidentielles.
+Volet 2 – Remise en état, rénovation, agrandissement et recyclage résidentiel
+Montant de l’aide financière
+Le programme prévoit dans tous les cas un montant minimum de subvention pour la partie résidentielle à des fins résidentielles.
+Pour des travaux de remise en état de logement :
+Logement locatif : 30 % du coût réel des travaux admissibles;
+Logement du propriétaire : 40 % du coût réel des travaux admissibles.
+Pour des travaux de transformation (recyclage) :
+Pour tout logement créé, 40 % du coût réel des travaux admissibles.
+Consultez le règlement pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Règlement établissant le programme Rénovation Québec
+Dépliant PRQ
+Volet 6 – Maisons lézardées
+Ce volet vise les bâtiments ou parties de bâtiment résidentiels admissibles dont les fondations présentent des lézardes causées par les conditions de sol naturel ou rapporté qui entoure les fondations.
+Montant de l’aide financière
+Le montant de la subvention pour maison lézardée est de 66.6 % du coût total et réel des travaux admissibles et des frais connexes admissibles, jusqu’à un maximum de 50 000$.
+Consultez le règlement pour en savoir plus sur les critères d’éligibilité, les travaux admissibles et le territoire d’application.
+Règlement établissant le programme Rénovation Québec
+Dépliant PRQ
+Dernière mise à jour : 4 août 2026
+Partager
+Subventions à la population
+ Revitalisation des vieux quartiers 
+ Pyrrhotite 
+ RénoRégion 
+Direction de l’aménagement et du développement durable
+ -->
+4655, rue Saint-Joseph, C.P. 368
+Trois-Rivières, G9A 5H3
+Téléphone :
+ 311
+Numéro sans frais :
+ 1 833-374-2002 
+Télécopieur :
+ 819 374-8499
+servicedespermis@v3r.net
+Actualités
+Publié le 27 juillet 2026
+Travaux à l’intersection des rues Bellefeuille et Bonaventure
+Publié le 26 juin 2026
+Visites aux domiciles pour des prélèvements aux robinets
+Publié le 26 juin 2026
+Retour de la navette fluviale
+Abonnez-vous à l'infolettre
+Facebook
+Instagram
+LinkedIn
+YouTube
+Ville de Trois-Rivières
+1325, place de l'Hôtel-de-Ville, C.P. 368
+ Trois-Rivières, QC G9A 5H3
+Téléphone : 
+311
+ ou 
+819 374-2002
+Canada ou États-Unis : 1 833 374-2002
+Courriel : 311@v3r.net
+› Communications
+› FAQ
+Abonnez-vous à l'infolettre
+Facebook
+Instagram
+LinkedIn
+YouTube
+Communications
+FAQ
+Intranet
+Portail d’accès aux organismes
+Politique de confidentialité
+© Ville de Trois-Rivières. Tous droits réservés.
