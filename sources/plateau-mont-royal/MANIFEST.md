@@ -14,6 +14,20 @@ Annexe A plans, Annexe F (portes et fenêtres par typologie), and the Guide des
 travaux extérieurs. Fascicules 1–3 and 6 have no archived snapshots in the CDX
 index; only fascicules 4 and 5 were archived.
 
+**Constellio acquisition step (§1.1)** — run on a machine with ordinary network
+access (the remote sandbox resets browser TLS for every destination, verified
+with both the pre-installed and a freshly `playwright install`-ed Chromium,
+proxied and direct; curl-class clients work but cannot drive the Vaadin UI):
+
+```
+pip install playwright && playwright install chromium
+python sources/plateau-mont-royal/get_constellio.py
+```
+
+The script opens each `#!displayDocument/<id>` view, waits for the download
+button, clicks it and saves the PDF into this directory; then record each
+file's URL, date and SHA-256 below.
+
 | file | bytes | provenance | sha-256 |
 |---|---|---|---|
 | `11_evaluation_patrimoine_plateau.pdf` | 9,125,008 | direct download | `9e439f6de51bab27beed6b2e78a97f147a3d4a820527784e67aec1fda5ac49ab` |
