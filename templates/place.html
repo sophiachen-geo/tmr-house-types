@@ -21,27 +21,29 @@
   <div class="kicker">How buildings are graded</div>
   <p>{{ pl.grading.system|esc }}</p>
   <div class="tablewrap"><table class="members">
-    <thead><tr><th>Category</th><th>Label</th><th>Buildings</th><th>Note</th></tr></thead>
+    <thead><tr><th>Category</th><th>Label</th><th>Buildings</th><th>What the by-law says</th></tr></thead>
     <tbody>{% for c in pl.grading.categories %}
       <tr><td><strong>{{ c.code|esc }}</strong></td><td><em>{{ c.label_fr|esc }}</em></td>
           <td>{{ c.count if c.count is not none else "–" }}</td>
-          <td>{{ c.note|esc if c.note else "–" }}</td></tr>
+          <td>{% if c.description_fr %}<div class="frv" lang="fr">{{ c.description_fr|esc }}</div>{% endif %}{% if c.intervention_fr %}<div class="frv" lang="fr"><strong>Intervention.</strong> {{ c.intervention_fr|esc }}</div>{% endif %}{% if c.note %}<div class="pnote">{{ c.note|esc }}</div>{% endif %}{% if not c.description_fr and not c.intervention_fr and not c.note %}–{% endif %}</td></tr>
     {% endfor %}</tbody>
   </table></div>
+  {% if pl.grading.objectives_fr %}<p class="olabel" style="margin-top:14px">The by-law's objectives</p><ul class="tv" lang="fr">{% for o in pl.grading.objectives_fr %}<li class="frv">{{ o|esc }}</li>{% endfor %}</ul>{% endif %}
+  {% if pl.grading.criteria_fr %}<p class="frv" lang="fr">{{ pl.grading.criteria_fr|esc }}</p>{% endif %}
+  {% if pl.grading.guideline_booklets %}<p>Guideline booklets: {% for b in pl.grading.guideline_booklets %}<em>{{ b|esc }}</em>{% if not loop.last %}; {% endif %}{% endfor %}.</p>{% endif %}
 </div></section>
 {% endif %}
 {% if pl.sectors %}
 <section class="notes" id="sectors"><div class="wrap">
-  <div class="kicker">Heritage sectors</div>
-  <p>{{ pl.sectors|length }} sectors — {{ pl.sectors|selectattr("value","equalto","exceptional")|list|length }} of exceptional value,
-     {{ pl.sectors|selectattr("value","equalto","interesting")|list|length }} interesting{% if pl.sectors|selectattr("value","equalto","urban-ensemble")|list|length %},
-     {{ pl.sectors|selectattr("value","equalto","urban-ensemble")|list|length }} urban ensemble{% endif %}. Type cards below name the sectors they belong to.</p>
+  <div class="kicker">{{ pl.sectors_label|esc }}</div>
+  <p>{{ pl.sector_tally }} Type cards below name the sectors they belong to.</p>
+  {% if pl.sector_map %}<figure class="hero"><img src="{{ R }}{{ pl.sector_map.file }}" width="{{ pl.sector_map.w }}" height="{{ pl.sector_map.h }}" alt="{{ pl.sector_map.credit|esc }}"><figcaption>{{ pl.sector_map.credit|esc }}</figcaption></figure>{% endif %}
   <div class="tablewrap"><table class="members">
     <thead><tr><th>Code</th><th>Sector</th><th>Value</th><th>Description</th><th>Streets</th></tr></thead>
     <tbody>{% for s in pl.sectors %}
-      <tr id="sector-{{ s.code }}"><td><span class="chip">{{ s.code }}</span></td>
+      <tr id="sector-{{ s.code }}"><td><span class="chip">{{ s.code }}</span>{% if s.code_eval2005 %}<div class="null" style="font-size:11px">{{ s.code_eval2005 }}</div>{% endif %}</td>
           <td><em>{{ s.name_fr|esc }}</em></td>
-          <td>{{ s.value }}</td>
+          <td>{{ s.value }}{% if s.plan_de_conservation %}<div class="null" style="font-size:11px">{{ s.plan_de_conservation|esc }}</div>{% endif %}</td>
           <td>{% if s.summary_en %}{{ s.summary_en|esc }}{% endif %}{% if s.summary_fr %}<div class="frv" lang="fr">{{ s.summary_fr|esc }}</div>{% endif %}{% if s.characteristics_fr %}<ul class="tv" lang="fr">{% for c in s.characteristics_fr %}<li class="frv">{{ c|esc }}</li>{% endfor %}</ul>{% endif %}{% if s.note %}<div class="pnote">{{ s.note|esc }}</div>{% endif %}{% if not s.summary_en and not s.summary_fr %}<span class="null">– fiche text not yet transcribed</span>{% endif %}</td>
           <td>{{ s.streets|join(", ")|esc if s.streets else "–" }}</td></tr>
     {% endfor %}</tbody>
@@ -51,16 +53,30 @@
 {% if pl.inventory %}
 <section class="notes" id="inventory"><div class="wrap">
   <div class="kicker">{{ pl.inventory.title_en|esc }}</div>
-  <p>{{ pl.inventory.rows }} buildings across {{ pl.inventory.streets }} streets, {{ pl.inventory.named_buildings }} of them carrying a building name in the source. Source: {{ pl.inventory.source|esc }} Full list: <a href="{{ R }}{{ pl.inventory_csv }}">bisson_inventory.csv</a>.</p>
+  <p>{{ pl.inventory.rows }} records{% if pl.inventory.streets %} across {{ pl.inventory.streets }} streets{% endif %}{% if pl.inventory.named_buildings %}, {{ pl.inventory.named_buildings }} of them carrying a building name in the source{% endif %}. Source: {{ pl.inventory.source|esc }} Full list: <a href="{{ R }}{{ pl.inventory_csv }}">inventory.csv</a>.</p>
   <div class="tablewrap"><table class="members">
-    <thead><tr><th>Grade</th><th>Label</th><th>Buildings</th><th>With a fiche</th><th>Retained, pre-1940 inventory (2025)</th></tr></thead>
+    <thead><tr>{% for h in pl.inventory.columns %}<th>{{ h|esc }}</th>{% endfor %}</tr></thead>
     <tbody>{% for c in pl.inventory.categories %}
       <tr><td><strong>{{ c.code|esc }}</strong></td><td><em>{{ c.label_fr|esc }}</em></td>
-          <td>{{ c.count }}</td><td>{{ c.with_fiche }}</td><td>{{ c.retained_pre1940 }}</td></tr>
+          <td>{{ c.count }}</td>{% for v in c.extra %}<td>{{ v }}</td>{% endfor %}</tr>
     {% endfor %}</tbody>
   </table></div>
-  <p>Most-represented streets: {% for s in pl.inventory.top_streets %}{{ s.name|esc }} ({{ s.count }}){% if not loop.last %}, {% endif %}{% endfor %}.</p>
+  {% if pl.inventory.top_streets %}<p>Most-represented streets: {% for s in pl.inventory.top_streets %}{{ s.name|esc }} ({{ s.count }}){% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
   <p class="pnote">{{ pl.inventory.note_en|esc }}</p>
+</div></section>
+{% endif %}
+{% if pl.catalogue_extra %}
+<section class="notes" id="catalogue"><div class="wrap">
+  <div class="kicker">Entries in the source catalogue that get no card</div>
+  <p>The source's own list is wider than this page. Parent categories are headings in the catalogue rather than building types, and some entries are not residential; both are recorded here so the catalogue can be read whole, and both appear in the data exports.</p>
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Entry</th><th>Why no card</th><th>Source</th></tr></thead>
+    <tbody>{% for t in pl.catalogue_extra %}
+      <tr><td><em>{{ t.name_fr|esc }}</em>{% if t.name_en != t.name_fr %} — {{ t.name_en|esc }}{% endif %}</td>
+          <td>{% if t.is_courant %}A parent category (<em>courant</em>), not a building type{% else %}Not residential{% endif %}</td>
+          <td>{% if t.source_url %}<a href="{{ t.source_url }}">{{ t.source_ref|esc }}</a>{% else %}{{ t.source_ref|esc }}{% endif %}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
 </div></section>
 {% endif %}
 {% if pl.model_families %}
@@ -90,7 +106,10 @@
     <div class="eyebrow"><span class="dot"></span>{{ ph.label|esc }} · {{ ph.years }} · {{ t.eyebrow_ref|esc }}</div>
     <h2><a href="{{ R }}types/{{ t.id }}/">{{ t.name_en|esc }} <span class="fr">{{ t.name_fr|esc }}</span></a></h2>
     {% if t.style_label %}<div class="stylename">Style: {{ t.style_label }}</div>{% endif %}
+    {% if t.courant or t.period_label or t.count_in_place %}<div class="stylename">{% if t.courant %}Courant: {{ t.courant|esc }}{% endif %}{% if t.period_label %}{% if t.courant %} · {% endif %}{{ t.period_label|esc }}{% endif %}{% if t.count_in_place %} · {{ t.count_in_place }} recorded in {{ pl.name_en|esc }}{% endif %}</div>{% endif %}
     {% if t.sector_objs %}<div class="chips">{% for s in t.sector_objs %}<a class="chip" href="#sector-{{ s.code }}" title="{{ s.name_fr|esc }}">{{ s.code }}</a>{% endfor %}</div>{% endif %}
+    {% if t.quartiers %}<div class="chips">{% for q in t.quartiers %}<span class="chip">{{ q|esc }}</span>{% endfor %}</div>{% endif %}
+    {% if t.source_url %}<div class="chips"><a class="chip" href="{{ t.source_url }}">{% if t.tid %}tid {{ t.tid }}{% elif t.fiche_id %}fiche {{ t.fiche_id }}{% else %}source{% endif %} ›</a></div>{% endif %}
     {% if t.models_observed %}<div class="chips">{% for m in t.models_observed %}<span class="chip">{{ m }}</span>{% endfor %}</div>{% endif %}
     {% if t.phase_confidence %}<div class="conf {{ t.phase_confidence }}">Phase attribution: {{ t.phase_confidence }}</div>{% endif %}
   </div>
@@ -102,6 +121,7 @@
     <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}{% for v in row.fr %}<li class="frv" lang="fr">{{ v|esc }}</li>{% endfor %}{% if not row.bullets and not row.fr %}<li class="null">–</li>{% endif %}</ul></div>{% endfor %}</div>
     {% if t.profile_note %}<p class="pnote">{{ t.profile_note|esc }}</p>{% endif %}
     {% if t.conservation %}<div class="conserve"><span class="olabel">Conservation guidance (fiche)</span><ul class="tv">{% for c in t.conservation %}<li>{{ c|esc }}</li>{% endfor %}{% for c in t.conservation_fr or [] %}<li class="frv" lang="fr">{{ c|esc }}</li>{% endfor %}</ul></div>{% endif %}
+    {% if t.related_buildings %}<div class="conserve"><span class="olabel">Buildings the source names</span><ul class="tv">{% for b in t.related_buildings %}<li>{% if b.url %}<a href="{{ b.url }}">{{ b.name|esc }}</a>{% else %}{{ b.name|esc }}{% endif %}</li>{% endfor %}</ul></div>{% endif %}
   </details>
   <div class="metaline">{{ pl.name_en|esc }} · {{ ph.label|esc }} · {{ t.source_ref|esc }} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% else %}<span class="null">–</span>{% endfor %}</div>
 </article>

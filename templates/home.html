@@ -5,11 +5,11 @@
   <h1>Québec Residential <em>Typologies</em></h1>
   <p class="lede">Across Québec, towns and boroughs classify their own houses — in design-review by-laws, heritage inventories and typo-morphological studies. This site gathers those local catalogues into one structure: each place keeps its own vocabulary and its own build-out phases, and a canonical layer of forms and styles connects them, so a house type in one town can be read against its cousins everywhere else.</p>
   <div class="tl">
-    <div class="tl-axis">{% for tk in tl_ticks %}<span class="{{ 'major' if tk.major else 'minor' }}">{{ tk.year }}</span>{% endfor %}</div>
+    <div class="tl-axis">{% for tk in tl_ticks %}<span class="{{ 'major' if tk.major else 'minor' }}" style="left:{{ tk.left }}%">{{ tk.year }}</span>{% endfor %}</div>
     {% for pl in places %}
     <div class="swimlane">
       <div class="sw-label"><a href="{{ R }}places/{{ pl.id }}/">{{ pl.name_en|esc }}</a><span class="fr">{{ pl.name_fr|esc }}</span></div>
-      <div class="sw-track" style="background-size:{{ (100 / tl_intervals)|round(3) }}% 100%">
+      <div class="sw-track" style="background-image:{{ tl_gridlines }}">
         {% for ph in pl.phases %}
         <a class="band {{ ph.colour_key }}" style="left:{{ ph.tl_left }}%;width:{{ ph.tl_width }}%" href="{{ R }}places/{{ pl.id }}/#{{ ph.id }}" title="{{ ph.start }}–{{ ph.end }}">{{ ph.title_en|esc }}</a>
         {% endfor %}

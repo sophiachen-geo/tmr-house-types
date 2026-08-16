@@ -194,3 +194,60 @@
   name_en: Duplex with the gable wall to the side, two superposed dwellings
   definition_en: Two-dwelling house whose ridge runs parallel to the street, presenting the long slope rather than the gable to the front.
   members: []
+# ---- Parts 7-8 additions ----
+- id: french-rural-house-1st-hip
+  name_en: One-storey rural house of French inspiration, pièce-sur-pièce walls, hipped roof without eaves, no cellar
+  definition_en: The rural house of the French regime — one storey on the ground, walls of squared timber laid pièce-sur-pièce, a steep roof carried to the wall head without eaves, and no cellar beneath.
+  members: []
+- id: french-urban-house-stone
+  name_en: Urban stone house of French inspiration, one or two levels plus attic, two-slope roof, chimneys in fire-break party walls
+  definition_en: The town house of the French regime — stone walls, one or two occupied levels under an inhabited attic, a straight two-slope roof, and chimney stacks carried up inside party walls raised as fire-breaks.
+  members: []
+- id: london-terrace-house
+  name_en: London-type party-wall or row house, narrow deep plan, 2–4 bays with an end door, porte cochère
+  definition_en: The British-regime terrace house — narrow and deep on its lot, party walls, two to four bays with the door at one end of the façade, and a carriage passage through to the rear.
+  members: []
+- id: transition-franco-quebecoise
+  name_en: Franco-Québécois transition house, high foundation, steep roof, massive chimney stacks
+  definition_en: The house between the French regime and the Québécois synthesis — the old steep roof and heavy chimneys carried on a raised foundation that lifts the living floor above the ground.
+  members: []
+- id: faubourg-house-1-1-5st
+  name_en: Rudimentary faubourg house, 1–1½ storeys, steep two-slope roof, three front openings with an end door
+  definition_en: The plain suburb house of the 19th-century faubourgs — one to one and a half storeys, a steep two-slope roof, and three openings on the front with the door at one end.
+  members: []
+- id: faubourg-house-flat-roof
+  name_en: Flat-roofed faubourg house, party-wall multi-unit filling the full lot width, porte cochère, ornamented crown
+  definition_en: The densifying successor to the gabled faubourg house — a party-wall building of flats filling its lot from side to side, pierced by a carriage arch, with its ornament gathered at the crown.
+  members: []
+- id: boomtown-false-front
+  name_en: Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown
+  definition_en: The fast balloon-framed building of the boom years — a flat or barely sloping roof hidden behind a raised cornice or parapet that makes the front taller than the building behind it.
+  members: []
+- id: plex-superposed-units
+  name_en: Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof
+  definition_en: Two or more dwellings stacked one above another under a flat roof, each reached by its own entrance from the street, by an exterior or an interior stair.
+  members: []
+- id: apartment-block-central-stair
+  name_en: Apartment block with a tripartite façade and a central stairwell serving four to eight or more units
+  definition_en: The purpose-built apartment building of the early 20th century — a tripartite front and one central stair serving all the flats, rather than a separate door per dwelling.
+  members: []
+- id: industrial-vernacular-cottage
+  name_en: Industrial-vernacular cottage, 1½–2½ storeys, rectangular/L/T plan, straight two-slope roof
+  definition_en: The standard workers' cottage of the industrial era, built from milled and catalogued parts on a rectangular, L- or T-shaped plan under a straight two-slope roof.
+  members: []
+- id: bourg-vernacular-house-small
+  name_en: Small-gabarit village house of an 18th–19th-century bourg, wood or brick, tin roof, minimal setback
+  definition_en: The modest house of an old village core — small in height and width, clad in wood or brick under a tin roof, and set close enough to the street to build a continuous frontage.
+  members: []
+- id: maison-cossue-ornamented
+  name_en: Opulent village house (maison cossue) in stone or brick with elaborate ornamentation, deep setback and ornamental fence
+  definition_en: The merchant's or notable's house of a village high street — masonry, elaborately ornamented, set well back behind an ornamental fence and mature trees.
+  members: []
+- id: regency-cottage-hipped-veranda
+  name_en: Regency cottage — low hipped roof whose eaves extend to cover a wrap-around veranda
+  definition_en: The Regency villégiature cottage — a low hipped roof whose eaves are carried outward to roof a veranda running around the house.
+  members: []
+- id: wartime-housing-1940s
+  name_en: Wartime Housing dwelling, 1940s–60s, minimal detached
+  definition_en: The minimal detached house built to Wartime Housing Limited's standard plans and their post-war successors.
+  members: []

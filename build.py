@@ -38,8 +38,11 @@ ENUM = {
     "window_proportion": {"vertical-2to1", "vertical", "square", "horizontal", "horizontal-2to1", "horizontal-2.5to1", None},
     "garage": {"none", "detached", "detached-or-set-back", "attached-set-back", "integrated-facade", "underground",
                "integrated-or-carport", None},  # integrated-or-carport: Part 3
-    "photo.kind": {"strip", "single", "placeholder"},
+    "photo.kind": {"strip", "single", "placeholder", "drawing"},
 }
+# sector rankings, by the vocabulary each source uses for its own territory (Parts 5a, 6a, 7a, 8a)
+SECTOR_VALUES = {"exceptional", "interesting", "urban-ensemble", "cited-site",
+                 "declared-site", "review-jurisdiction", "unite-de-paysage"}
 TRAIT_LABELS = [
     ("siting_landscape", "Siting & landscape"),
     ("massing", "Massing"),
@@ -51,11 +54,18 @@ TRAIT_LABELS = [
 # sous_variantes has no English counterpart and renders as its own row.
 FR_KEYS = {
     "siting_landscape": ["implantation", "repartition"],       # Part 6a: Gatineau fiches head this "répartition géographique"
-    "massing": ["volumetrie", "volumes", "saillies"],
+    "massing": ["volumetrie", "volumes", "saillies", "plan", "toiture"],   # Part 8a: Lévis splits these
     "articulation": ["traitement_des_facades", "ornementation"],
     "openings": ["ouvertures"],
-    "materials": ["materiaux", "revetement"],                  # Part 6a: Gatineau fiches head this "revêtement"
+    "materials": ["materiaux", "revetement", "revetements"],   # Part 6a/8a: "revêtement(s)"
 }
+# profile_fr blocks that have no English column to sit under, rendered as their own rows in order
+FR_STANDALONE = [
+    ("description", "Description (source)"),                   # Part 7a: Ville de Québec thésaurus
+    ("contexte", "Historical context (fiche)"),                # Part 6a: Ville de Gatineau fiches
+    ("elements_caracteristiques", "Éléments caractéristiques (source)"),   # Part 7a
+    ("sous_variantes", "Sous-variantes"),                      # Part 2a: Plateau fiches
+]
 NUM_WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
 
 
@@ -190,25 +200,51 @@ for pdir in sorted((DATA / "places").iterdir()):
     sectors = load_yaml(sec_file) if sec_file.exists() else None
     if sectors:
         for s in sectors:
-            require(s, ["id", "code", "name_fr", "value", "streets"], f"{pdir.name}/sectors.yaml")
+            require(s, ["id", "code", "name_fr", "value"], f"{pdir.name}/sectors.yaml")
+            s["code"] = str(s["code"])            # Part 5a v2: Westmount's by-law codes are integers 1-39
+            s.setdefault("streets", [])
             s.setdefault("summary_en", None)
-            if s["value"] not in ("exceptional", "interesting", "urban-ensemble", "cited-site"):
-                fail(f"{pdir.name}/sectors.yaml: {s['code']}: value must be "
-                     "exceptional|interesting|urban-ensemble|cited-site")
+            if s["value"] not in SECTOR_VALUES:
+                fail(f"{pdir.name}/sectors.yaml: {s['code']}: value must be one of "
+                     + "|".join(sorted(SECTOR_VALUES)))
             s.setdefault("summary_fr", None)          # verbatim source French (Part 6a)
             s.setdefault("characteristics_fr", None)  # RPCQ éléments caractéristiques (Part 6a)
             s.setdefault("note", None)
+            s.setdefault("code_eval2005", None)       # Ville de Montréal cross-reference (Part 5a v2)
+            s.setdefault("plan_de_conservation", None)  # MCC plan, where one exists (Part 7a)
+            s.setdefault("source", None)
         codes = [s["code"] for s in sectors]
         if len(codes) != len(set(codes)):
             fail(f"{pdir.name}/sectors.yaml: duplicate sector codes")
     pl["sectors"] = sectors
     SECTOR = {s["code"]: s for s in (sectors or [])}
+    if sectors:                          # the tally line, in each source's own vocabulary
+        LABELS = {"exceptional": "of exceptional value", "interesting": "interesting",
+                  "urban-ensemble": "urban ensembles", "cited-site": "cited sites",
+                  "declared-site": "sites declared by the province", "unite-de-paysage": "landscape units",
+                  "review-jurisdiction": "a permit-review jurisdiction"}
+        counts = [(sum(1 for s in sectors if s["value"] == v), LABELS[v]) for v in SECTOR_VALUES]
+        parts = [f"{n} {lab}" for n, lab in sorted(counts, reverse=True) if n]
+        pl["sector_tally"] = f"{len(sectors)} sectors — " + ", ".join(parts) + "."
+        pl["sectors_label"] = ("Landscape units" if all(s["value"] == "unite-de-paysage" for s in sectors)
+                               else "Heritage sectors")
     grading = pl.get("grading")
     if grading:
         require(grading, ["system", "categories"], f"{ctx}: grading")
         for c in grading["categories"]:
             require(c, ["code", "label_fr", "count"], f"{ctx}: grading.categories")
+            for k in ("description_fr", "intervention_fr", "note"):   # Part 5a v2: the by-law's own wording
+                c.setdefault(k, None)
+        for k in ("objectives_fr", "criteria_fr", "guideline_booklets"):
+            grading.setdefault(k, None)
     pl.setdefault("grading", None)
+    smap = pl.get("sector_map")           # Part 5a v2: a rasterised map of the sector set
+    if smap:
+        require(smap, ["file", "credit"], f"{ctx}: sector_map")
+        if not (ROOT / smap["file"]).exists():
+            fail(f"{ctx}: sector_map file not found: {smap['file']}")
+        smap["w"], smap["h"] = jpeg_size(ROOT / smap["file"])
+    pl.setdefault("sector_map", None)
 
     types = []
     for tf in sorted((pdir / "types").glob("*.yaml")):
@@ -262,6 +298,8 @@ for pdir in sorted((DATA / "places").iterdir()):
         if t["sectors"] is not None:
             if not isinstance(t["sectors"], list):
                 fail(f"{tctx}: sectors must be a list of sector codes")
+            # Westmount's by-law codes are bare integers in the source; accept either form
+            t["sectors"] = [str(c) for c in t["sectors"]]
             for code in t["sectors"]:
                 if code not in SECTOR:
                     fail(f"{tctx}: unknown sector code '{code}' (not in {pdir.name}/sectors.yaml)")
@@ -277,6 +315,25 @@ for pdir in sorted((DATA / "places").iterdir()):
         csv_rel = t.setdefault("model_addresses_csv", None)
         if csv_rel and not (ROOT / csv_rel).exists():
             fail(f"{tctx}: model_addresses_csv not found: {csv_rel}")
+        # --- Parts 7a/8a: the two places whose source is its own online catalogue
+        t.setdefault("tid", None)            # Ville de Québec thésaurus node id
+        t.setdefault("fiche_id", None)       # Ville de Lévis ?idfiche=N
+        t.setdefault("source_url", None)     # the catalogue page this record was read from
+        t.setdefault("courant", None)        # the source's own parent-category name
+        t.setdefault("quartiers", None)      # Québec City: the quarters the fiche names
+        t.setdefault("period_label", None)   # Lévis: the index's own period, e.g. "1900-1930"
+        t.setdefault("count_in_place", None)  # Lévis: the fiche's "Nombre à Lévis" figure
+        t.setdefault("is_courant", False)    # a parent category: renders as a heading, not a card
+        t.setdefault("is_residential", True)  # non-residential catalogue entries are recorded, not rendered
+        for k in ("quartiers", "related_buildings"):
+            if t.get(k) is not None and not isinstance(t[k], list):
+                fail(f"{tctx}: {k} must be a list")
+        t.setdefault("related_buildings", None)
+        for rb in t["related_buildings"] or []:
+            require(rb, ["name"], f"{tctx}: related_buildings")
+            rb.setdefault("url", None)
+        if t["count_in_place"] is not None and not isinstance(t["count_in_place"], int):
+            fail(f"{tctx}: count_in_place must be an integer, got {t['count_in_place']!r}")
         # derived display fields
         t["slug"] = slug
         t["place_name"] = pl["name_en"]
@@ -301,10 +358,17 @@ for pdir in sorted((DATA / "places").iterdir()):
         t["profile_rows"] = [{"label": label, "bullets": t["profile"][key],
                               "fr": [v for fk in FR_KEYS[key] for v in (pfr or {}).get(fk, [])]}
                              for key, label in TRAIT_LABELS]
-        if pfr and pfr.get("contexte"):    # Part 6a: the fiche's own CONTEXTE, the French behind "Where it comes from"
-            t["profile_rows"].insert(0, {"label": "Historical context (fiche)", "bullets": [], "fr": pfr["contexte"]})
-        if pfr and pfr.get("sous_variantes"):
-            t["profile_rows"].append({"label": "Sous-variantes", "bullets": [], "fr": pfr["sous_variantes"]})
+        # blocks with no English column of their own: description and contexte lead, the rest follow
+        lead = [r for k, r in ((k, {"label": lb, "bullets": [], "fr": pfr[k]})
+                               for k, lb in FR_STANDALONE if pfr and pfr.get(k))
+                if k in ("description", "contexte")]
+        tail = [r for k, r in ((k, {"label": lb, "bullets": [], "fr": pfr[k]})
+                               for k, lb in FR_STANDALONE if pfr and pfr.get(k))
+                if k not in ("description", "contexte")]
+        t["profile_rows"] = lead + t["profile_rows"] + tail
+        unknown_fr = set(pfr or {}) - {k for v in FR_KEYS.values() for k in v} - {k for k, _ in FR_STANDALONE}
+        if unknown_fr:
+            fail(f"{tctx}: profile_fr has keys no column or standalone row maps: {sorted(unknown_fr)}")
         t["canonical_objs"] = [CANON[c] for c in t["canonical"]]
         t["style_objs"] = [STYLE[s] for s in t["styles"]]
         t.setdefault("style_label", " / ".join(s["name_en"] for s in t["style_objs"]))
@@ -332,6 +396,10 @@ for pdir in sorted((DATA / "places").iterdir()):
         t["src_order"] if t["src_order"] is not None else 10**6,
         t["name_en"],
     ))
+    # Parts 7a/8a: a catalogue's parent categories and its non-residential entries are recorded
+    # from the source but do not get a card or a page of their own.
+    pl["catalogue_extra"] = [t for t in types if t["is_courant"] or not t["is_residential"]]
+    types = [t for t in types if not t["is_courant"] and t["is_residential"]]
     for t in types:
         PH[t["phase"]]["types"].append(t)
 
@@ -350,15 +418,26 @@ for pdir in sorted((DATA / "places").iterdir()):
     pl["model_families"] = load_yaml(fam_file) if fam_file.exists() else None
     if pl["model_families"]:
         pl["model_families_csv"] = f"data/{pl['id']}-models-addresses.csv"
-    inv_file = pdir / "bisson_summary.yaml"          # derived building inventory (Part 6a)
+    # a derived per-building inventory table (Part 6a: Outremont's Bisson; Part 8a: Terrebonne's RPCQ set)
+    inv_file = pdir / "inventory_summary.yaml"
     pl["inventory"] = load_yaml(inv_file) if inv_file.exists() else None
     if pl["inventory"]:
         require(pl["inventory"], ["title_en", "source", "note_en", "rows", "categories"],
                 f"{ctx}: inventory summary")
-        pl["inventory_csv"] = f"data/{pl['id']}-bisson-inventory.csv"
-        pl["inventory_src"] = pdir / "bisson_inventory.csv"
+        pl["inventory"].setdefault("columns", ["Grade", "Label", "Buildings"])
+        for c in pl["inventory"]["categories"]:
+            require(c, ["code", "label_fr", "count"], f"{ctx}: inventory categories")
+            c.setdefault("extra", [])    # any columns beyond code/label/count, in header order
+            if len(c["extra"]) + 3 != len(pl["inventory"]["columns"]):
+                fail(f"{ctx}: inventory row {c['code']!r} has {len(c['extra']) + 3} cells "
+                     f"but {len(pl['inventory']['columns'])} columns are declared")
+        pl["inventory"].setdefault("top_streets", None)
+        pl["inventory"].setdefault("streets", None)
+        pl["inventory"].setdefault("named_buildings", None)
+        pl["inventory_csv"] = f"data/{pl['id']}-inventory.csv"
+        pl["inventory_src"] = pdir / "inventory.csv"
         if not pl["inventory_src"].exists():
-            fail(f"{ctx}: bisson_summary.yaml present but bisson_inventory.csv is missing")
+            fail(f"{ctx}: inventory_summary.yaml present but inventory.csv is missing")
     hero = pl.get("hero_photo")
     if hero:
         require(hero, ["file", "credit"], f"{ctx}: hero_photo")
@@ -375,6 +454,7 @@ for pdir in sorted((DATA / "places").iterdir()):
 
 PLACE = {p["id"]: p for p in places}
 all_types = [t for p in places for t in p["types"]]
+export_types = all_types + [t for p in places for t in p.get("catalogue_extra") or []]
 TYPE = {t["id"]: t for t in all_types}
 
 # ------------------------------------------------------- derive cross-links
@@ -424,10 +504,24 @@ for t in all_types:
 # global timeline bounds (all places)
 g_min = min(p["phases"][0]["start"] for p in places)
 g_max = max(p["phases"][-1]["end"] for p in places)
-ax_min = g_min - (g_min % 25)
+ax_min = g_min - (g_min % 50)
 ax_max = g_max + ((25 - g_max % 25) % 25)
-tl_ticks = [{"year": y, "major": y % 50 == 0} for y in range(ax_min, ax_max + 1, 25)]
+# Part 7a: Québec City takes the lower bound back to 1608, so the early centuries — where only one
+# or two places have anything to show — are ticked every 50 years, and 1900 onward every 25.
+SPARSE_BEFORE = 1900
+tl_ticks = ([{"year": y, "major": y % 100 == 0} for y in range(ax_min, min(SPARSE_BEFORE, ax_max), 50)]
+            + [{"year": y, "major": y % 50 == 0}
+               for y in range(max(ax_min, SPARSE_BEFORE), ax_max + 1, 25)])
 tl_intervals = len(tl_ticks) - 1
+# Ticks are no longer evenly spaced, so each one is placed at its true position on the same
+# linear scale the bands use, and the track's gridlines are drawn from those same positions.
+for tk in tl_ticks:
+    tk["left"] = pct(tk["year"], ax_min, ax_max)
+_stops = []
+for tk in tl_ticks[1:-1]:
+    _stops.append(f"transparent {tk['left']:g}%, var(--line) {tk['left']:g}%, "
+                  f"var(--line) calc({tk['left']:g}% + 1px), transparent calc({tk['left']:g}% + 1px)")
+tl_gridlines = "linear-gradient(90deg," + ",".join(_stops) + ")" if _stops else "none"
 for p in places:
     for ph in p["phases"]:
         ph["tl_left"] = pct(ph["start"], ax_min, ax_max)
@@ -483,7 +577,7 @@ def render(template, out_rel, depth, **ctx):
 
 render("home.html", "index.html", 0, title=SITE,
        description="Residential building types across Québec, place by place: local typologies from by-laws, inventories and studies, cross-referenced by form, style and period.",
-       places=places, sections=sections, tl_ticks=tl_ticks, tl_intervals=tl_intervals)
+       places=places, sections=sections, tl_ticks=tl_ticks, tl_gridlines=tl_gridlines)
 
 for sec in sections:
     render("section.html", f"sections/{sec['key']}/index.html", 2,
@@ -554,8 +648,9 @@ cw.writerow(["id", "place", "place_name", "phase", "phase_years", "phase_title",
              "lot_width_min_m", "lot_width_max_m", "setback_front_m", "setback_side_m",
              "front_yard_green_pct", "siting_landscape", "massing", "articulation", "openings",
              "materials", "conservation", "models_observed", "phase_confidence", "sectors",
-             "blurb_en", "origin_en", "photo_file", "photo_credit"])
-for t in all_types:
+             "tid", "fiche_id", "courant", "quartiers", "count_in_place", "is_courant", "is_residential",
+             "source_url", "blurb_en", "origin_en", "photo_file", "photo_credit"])
+for t in export_types:
     cw.writerow([
         t["id"], t["place"], t["place_name"], t["phase"], t["phase_obj"]["years"],
         t["phase_obj"]["title_en"], t["name_en"], t["name_fr"], t["source_ref"], t["source_generation"],
@@ -569,7 +664,8 @@ for t in all_types:
         " | ".join(t["profile"]["articulation"]), " | ".join(t["profile"]["openings"]),
         " | ".join(t["profile"]["materials"]), " | ".join(t["conservation"] or []),
         "; ".join(t["models_observed"] or []), t["phase_confidence"], "; ".join(t["sectors"] or []),
-        t["blurb_en"], t["origin_en"],
+        t["tid"], t["fiche_id"], t["courant"], "; ".join(t["quartiers"] or []), t["count_in_place"],
+        t["is_courant"], t["is_residential"], t["source_url"], t["blurb_en"], t["origin_en"],
         t["photo"]["file"], t["photo"]["credit"],
     ])
 (DOCS / "data.csv").write_text(csv_buf.getvalue(), encoding="utf-8")

@@ -36,3 +36,19 @@
 - {id: edwardian-classical, name_en: Edwardian classical, span: [1900, 1920]}
 # ---- Part 6a additions ----
 - {id: vernaculaire-industriel, name_en: "Vernaculaire industriel (Québec industrial vernacular)", span: [1870, 1930]}
+# ---- Parts 7-8 additions ----
+- {id: colonial-francais, name_en: Colonial français, span: [1608, 1800]}
+- {id: palladien, name_en: Palladien, span: [1790, 1850]}
+- {id: regency, name_en: Regency, span: [1820, 1880]}
+- {id: neo-renaissance, name_en: Néo-Renaissance, span: [1830, 1900]}
+- {id: neogothique, name_en: Néogothique, span: [1830, 1940]}
+- {id: neo-roman, name_en: Néo-roman, span: [1880, 1915]}
+- {id: dom-bellot, name_en: Dom-Bellot, span: [1930, 1960]}
+- {id: regionalisme-quebecois, name_en: Régionalisme québécois, span: [1910, 1960]}
+- {id: cape-cod, name_en: Cape Cod, span: [1935, 1960]}
+- {id: rationalisme, name_en: Rationalisme, span: [1900, 1950]}
+- {id: brutalisme, name_en: Brutalisme, span: [1960, 1980]}
+- {id: arts-et-metiers, name_en: "Arts & métiers (Québec usage for Arts and Crafts)", span: [1910, 1945]}
+- {id: wartime-housing, name_en: Wartime Housing, span: [1940, 1970]}
+- {id: rationalisme-industriel, name_en: Rationalisme industriel, span: [1850, 1960]}
+- {id: agricole-vernaculaire, name_en: Agricole vernaculaire, span: [1850, 1950]}
