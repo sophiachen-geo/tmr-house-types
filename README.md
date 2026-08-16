@@ -16,9 +16,15 @@ URL when it is ready to deploy (Part 11, or on request).
 - `build.py` — loads and validates `data/`, renders the site into `docs/`
 - `data/canon/` — canonical vocabulary: forms, styles, glossary, section essays
 - `data/places/<id>/` — place record, phases, sources, prose and one YAML per local type;
-  Arvida adds a parsed address list (`models_addresses.csv`) and derived
-  `model_families_summary.yaml`
-- `assets/places/mount-royal/` — photo strips from By-law 1449
+  places that zone territory rather than profile types add `sectors.yaml`
+  (Westmount, Hampstead, Gatineau, Outremont), Arvida adds a parsed address list
+  (`models_addresses.csv`) and derived `model_families_summary.yaml`, and
+  Outremont adds the open Bisson inventory (`bisson_inventory.csv` and derived
+  `bisson_summary.yaml`)
+- `assets/places/<id>/` — photographs the licence allows the site to reproduce:
+  photo strips from By-law 1449 for Mount Royal, images extracted from the
+  fiches for Saint-Lambert, and freely-licensed Wikimedia Commons photographs
+  where the source's own images cannot be republished
 - `templates/` — Jinja2 templates + `base.css` + `app.js`
 - `docs/` — generated site (home + timeline, sections, place page, type pages,
   canonical forms, styles, matrix, compare, glossary, methods, `data.json`, `data.csv`)
