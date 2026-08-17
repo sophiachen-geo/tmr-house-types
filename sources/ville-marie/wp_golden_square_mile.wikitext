@@ -1,0 +1,420 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                     = Square Mile / Golden Square Mile
+| native_name              = 
+| native_name_lang         = 
+| settlement_type          = [[List of neighbourhoods in Montreal|Neighbourhood]]
+| image_skyline            = Ravenscrag.jpg
+| image_alt                = 
+| image_caption            = [[Ravenscrag, Montreal|Ravenscrag]], built for [[Sir Hugh Allan]] in 1863
+| image_flag               = 
+| flag_alt                 = 
+| image_seal               = 
+| seal_alt                 = 
+| image_shield             = 
+| shield_alt               = 
+| nickname                 = 
+| motto                    = 
+| image_map                = 
+| map_alt                  = 
+| map_caption              = 
+| pushpin_map              = Canada Montreal
+| pushpin_label_position   = Bottom
+| pushpin_map_alt          = 
+| pushpin_map_caption      = Location of the Square Mile in [[Montreal]]
+| coordinates              = {{coord|45.501111|-73.582222|display=inline,title}}
+| coor_pinpoint            = 
+| coordinates_footnotes    = 
+| subdivision_type         = Country
+| subdivision_name         = [[Canada]]
+| subdivision_type1        = [[Provinces and territories of Canada|Province]]
+| subdivision_name1        = [[Quebec]]
+| subdivision_type2        = [[List of cities in Quebec|City]]
+| subdivision_name2        = [[Montreal]]
+| subdivision_type3        = [[Boroughs of Montreal|Borough]]
+| subdivision_name3        = [[Ville-Marie, Montreal|Ville-Marie]]
+| established_title        = 
+| established_date         = 
+| founder                  = 
+| seat_type                = 
+| seat                     = 
+| government_footnotes     = 
+| leader_party             = 
+| leader_title             = 
+| leader_name              = 
+| unit_pref                = Metric<!-- or US or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes           = 
+| area_urban_footnotes     = <!-- <ref name="auto"> </ref> -->
+| area_rural_footnotes     = <!-- <ref name="auto"/> -->
+| area_metro_footnotes     = <!-- <ref name="auto"/> -->
+| area_magnitude           = <!-- <ref name="auto"/> -->
+| area_note                = 
+| area_water_percent       = 
+| area_rank                = 
+| area_blank1_title        = 
+| area_blank2_title        = <!-- square kilometers -->
+| area_total_km2           = 
+| area_land_km2            = 
+| area_water_km2           = 
+| area_urban_km2           = 
+| area_rural_km2           = 
+| area_metro_km2           = 
+| area_blank1_km2          = 
+| area_blank2_km2          = <!-- hectares -->
+| area_total_ha            = 
+| area_land_ha             = 
+| area_water_ha            = 
+| area_urban_ha            = 
+| area_rural_ha            = 
+| area_metro_ha            = 
+| area_blank1_ha           = 
+| area_blank2_ha           = <!-- dunams used in Middle East articles only -->
+| dunam_link               = <!-- which dunam to link -->
+| area_total_dunam         = 
+| area_land_dunam          = 
+| area_water_dunam         = 
+| area_urban_dunam         = 
+| area_rural_dunam         = 
+| area_metro_dunam         = 
+| area_blank1_dunam        = 
+| area_blank2_dunam        = 
+| length_km                = 
+| width_km                 = 
+| dimensions_footnotes     = 
+| elevation_footnotes      = 
+| elevation_m              = 
+| population_footnotes     = 
+| population_total         = 
+| population_as_of         = 
+| population_density_km2   = 
+| population_demonym       = 
+| population_note          = 
+| timezone1                = 
+| utc_offset1              = 
+| timezone1_DST            = 
+| utc_offset1_DST          = 
+| postal_code_type       = Postal Code
+| postal_code            = [[List of postal codes of Canada: H|H3A, H3G]]
+| area_codes              = [[Area codes 514 and 438|514, 438]]
+| iso_code                 = 
+| website                  = <!-- {{URL|example.com}} -->
+| footnotes                = 
+}}
+The '''Golden Square Mile''' ({{langx|fr|Mille carré doré}}, {{IPA|fr|mil kaʁe dɔʁe|pron}}), also known as the '''Square Mile''', is the nostalgic name given to an urban [[neighbourhood]] developed principally between 1850 and 1930 at the foot of [[Mount Royal]], in the west-central section of [[downtown Montreal]] in [[Quebec]], Canada. The name 'Square Mile' has been used to refer to the area since the 1930s; prior to that, the neighbourhood was known as 'New Town' or 'Uptown'.<ref>Discover Montréal: an architectural and historical guide - Joshua Wolfe, Cécile Grenier, 1991</ref> The addition of 'Golden' was coined by Montreal journalist Charlie Lazarus, and the name has connections to contemporary real estate developments, as the historical delimitations of the Golden Square Mile overlap with Montreal's contemporary central business district.
+
+From the 1790s, the business leaders of Montreal looked beyond [[Old Montreal]] for spacious sites upon which to build their country homes. They developed the farmland on the slopes of Mount Royal north of [[Sherbrooke Street]], creating a neighbourhood famous for its grandeur and architectural audacity. At the Square Mile's peak (1850–1930), its residents included the owners and operators of the majority of Canadian rail, shipping, timber, mining, fur and banking industries. From about 1870 to 1900, 70% of all wealth in Canada was held by this small group of approximately fifty men.<ref name="fodor">{{cite book|title=Compass American Guides: Montreal|publisher=[[Fodor's]]|isbn=978-1-4000-1315-9|pages=132–135|chapter-url=https://books.google.com/books?id=bpxmNNnjBQoC&q=Golden+Square+Mile&pg=PA132|author=Patricia Harris |author2=David Lyon |access-date=5 December 2011|chapter=Golden Square Mile|date=2 November 2004}}</ref>
+
+By the 1930s, multiple factors led to the neighbourhood's decline, including the [[Great Depression]], the dawn of the [[automobile]], the demand for more heat-efficient houses, and the younger generations of the families that had built these homes having largely moved to [[Westmount]].<ref>{{cite web |url=http://www.canadianbusiness.com/lists-and-rankings/canadas-richest-neighbourhoods-2013/ |title=Canada's Richest Neighbourhoods, 2013|website=canadianbusiness.com |publisher=Canadian Business}}</ref><ref>{{cite web|url=http://globalnews.ca/news/370804/income-by-postal-code/|title=Income by postal code: Mapping Canada's richest and poorest neighbourhoods}}</ref> During the [[Quiet Revolution]], some of the businesses created in [[Montreal]], on whose fortunes the Square Mile had been built, moved to [[Toronto]].{{Citation needed|reason=Did such displacement of businesses take place?  The Quiet Revolution article doesn't mention it.  If true, this is significant and deserves a reference.|date=March 2015}} In this period, the Square Mile evolved to gradually become the central business district, and many of its grand houses were demolished. The face of the Square Mile was altered, leading to the formation of [[Heritage Montreal]] to preserve historic architecture in the city.
+
+By 1983, only 30% of the mansions in the northern half of the Square Mile had survived demolition; and only 5% survived south of Sherbrooke Street.<ref>Rémillard, François; & Brian Merrett (1987). ''Mansions of the Golden Square Mile.'' Meridian Press. {{ISBN|2-920417-25-8}}</ref> Many of the remaining mansions, such as the James Ross House, today known as Chancellor Day Hall,<ref>{{Cite web|url=http://cac.mcgill.ca/campus/buildings/Chancellor_Day_Hall.html|title=Chancellor Day Hall (formerly James Ross House)|last=Johnson|first=David|website=cac.mcgill.ca|access-date=2018-03-28}}</ref> are today owned by [[McGill University]]. Nevertheless, the mansions of the Golden Square Mile represent a prosperous period during which Montreal was the cultural and financial capital of Canada.
+
+==Borders==
+[[File:Résidence de Duncan McIntyre.gif|thumb|left|[[Duncan McIntyre (businessman)|Duncan McIntyre]]'s Craguie, built on 10 acres off McGregor Street c. 1880, demolished in 1930]]
+[[File:Maison Herbert Molson 3.JPG|thumb|left|[[Herbert Molson]] House, designed by architect [[Robert Findlay (architect)|Robert Findlay]] in 1912]]
+The neighbourhood had precise borders measuring roughly a [[square mile]], covering the area between [[René Lévesque Boulevard|Dorchester Boulevard]] at the southern end, [[Pine Avenue]] at the foot of [[Mount Royal]] at the northern end, [[University Street]] at the eastern end, and [[Guy Street]] (along with [[Côte-des-Neiges Road]]) at the western end. In effect, however, the 'Square Mile' was contained within a far smaller area, between [[Sherbrooke Street]] and Pine Avenue, and Côte-des-Neiges and University, covering scarcely nine streets on the north–south axis. From east to west: [[McTavish Street]], [[Peel Street, Montreal|Peel Street]], [[Stanley Street, Montreal|Stanley Street]], [[Drummond Street, Montreal|Drummond Street]], [[Mountain Street]], Ontario Avenue (now Avenue du Musée), Redpath Street, Simpson Street and [[Guy Street]]; and three streets on the east–west axis, from south to north: Sherbrooke Street West, McGregor Street (now [[Doctor Penfield Avenue]]) and Pine Avenue.
+
+==Architecture==
+The architects of the Square Mile included [[Robert Findlay (architect)|Robert Findlay]], [[Bruce Price]], [[Andrew Taylor (architect)|Sir Andrew Taylor]], [[William Tutin Thomas|William Thomas]], John Hopkins and the brothers Edward and [[William Sutherland Maxwell|William Maxwell]]. The architecture was an eclectic mix of the [[Neo-classical architecture|Neo-classical]], [[Neo-Gothic]], [[Romanesque architecture|Romanesque]], [[Second Empire (architecture)|Second Empire]], [[Queen Anne Style architecture|Queen Anne]] and [[Art Nouveau]], though other styles also figured prominently, sometimes within the same home. By [[World War I]], simpler houses were built, such as [[Herbert Molson]]'s. [[Maison Cormier]] was one of only a few examples of [[Art deco]].
+
+Scottish [[sandstone]] and local [[granite]] were commonly used materials, and most homes had substantial grounds, [[Atrium (architecture)|atria]] and large [[Conservatory (greenhouse)|conservatories]]. A great many of the Square Milers were keen [[Horticulture|horticulturalists]] and aside from their [[garden]]s, they enjoyed keeping [[Greenhouse|hothouse]] [[flowers]] through the long winters. The streets of the Square Mile were lined with [[elm]], [[spruce]] and [[maple]] trees, but an outbreak of [[Dutch elm disease]] in the 1970s destroyed those that had once lined Sherbrooke Street.
+
+==Montreal's mercantile community (1642-1930)==
+[[File:Capitulation Montreal.jpg|thumb|Surrender of [[Montreal]] to the British, 1760]]
+[[File:David Ross House, Champ de Mars, Montreal.jpg|thumb|The Montreal [[townhouse]] of David Ross on the [[Champ de Mars, Montreal|Champ de Mars]], circa 1812]]
+[[File:Donegana's Hotel, Montreal.jpg|thumb|[[Donegana's Hotel, Montreal|Donegana's Hotel]] on [[Notre-Dame Street]], built in 1821 as a home for William and Charlotte ([[Michel-Eustache-Gaspard-Alain Chartier de Lotbinière|de Lotbinière]]) Bingham; as a hotel, it was the largest in the [[British colonies]]<ref>{{cite web |url=https://trove.nla.gov.au/newspaper/article/8766387 |title=Import from Canada|date=11 January 1850 |website=trove.nla.gov.au}}</ref> until it burnt in the riots of 1849]]
+[[File:Place d'armes, Montreal.jpg|thumb|The [[Bank of Montreal]] on Place d'armes, founded in 1817 by one French and seven British merchants; it served as the national bank of Canada until 1934]]
+In 1642, a fort named [[Fort Ville-Marie|Ville Marie]] was founded on the Island of Montreal by [[Paul de Chomedey de Maisonneuve]]. Ville Marie became a centre for the [[fur trade]] and French expansion into [[New France]] until 1760, when it was surrendered to the British army, following the French defeat of the [[Battle of the Plains of Abraham]]. British immigration expanded the city.
+
+The British immigrants who came to [[Montreal]] after the Conquest tended to be from well-connected mercantile families and immigrated to Canada as a means to further their fortunes, unlike earlier British immigrants who came to [[North America]] to escape religious or political persecution.<ref>{{cite web|url=http://digital.library.mcgill.ca/nwc/history/09.htm|title=History - The canoe|website=digital.library.mcgill.ca}}</ref>
+
+The city's golden era of fur trading began with the advent of the locally owned [[North West Company]]. In the 1760s, the men of the [[Beaver Club]], a gentlemen's dining club, provided the financial backing and necessary management to take control of the [[North American fur trade|fur trade]]. The new merchants were associated with the [[North West Company]], the [[Hudson's Bay Company]] and the agents of the [[East India Company]], and eventually dominated the fur market in most of [[British North America]].
+
+As many of the wealthy French Canadians moved from Canada to [[France]] following the Conquest, British merchants were able to cheaply purchase vast tracts of land upon which to build factories, and take control of the banking and finance of the new [[Dominion]]. The growing fortune of the Montreal mercantile elite of this era was consolidated through marriage and company mergers. After the collapse of the fur trade in the 1850s, the mercantile elite turned its interest to railways and shipping.
+
+By the mid-19th century, the Montreal mercantile elite, residing in the Square Mile, firmly held the reins of Canada's economy. The merchants successfully connected Canada by building a network of railroads and exploiting maritime routes and the port of Montreal, which l remained the principal [[port]] through which immigrants arrived, and also through which Canada's produce was shipped to and from [[United Kingdom|Britain]] and the [[British Empire|Empire]].
+
+For decades, the wealth accumulated from the fur trade, finance, and other industries made of Montreal's mercantile elite a "kind of commercial aristocracy, living in lordly and hospitable style," as [[Washington Irving]] observed.<ref>''Astoria'' (London, 1836) by Washington Irving</ref> In 1820, [[John Jeremiah Bigsby|John Bigsby]] penned his impressions of the city:<blockquote>I found, but did not expect to find, at Montreal a pleasing transcript of the best form of [[London]] life&nbsp;— even in the circle beneath the very first class of official families. But I may be pardoned; for I had seen in the capital of another great [[colony]] ([[Cape Town]]) considerable primitiveness of manners.. (In Montreal) at an evening party at Mr [[John Richardson (businessman)|Richardson]]'s the appointments and service were admirable; the dress, manners, and conversation of the guests, in excellent taste. Most of the persons there, though country-born, had been educated in [[England]] ([[United Kingdom|Britain]]), and everything savoured of [[Kensington]]. There was much good music.. Some of the show-shops rival those of London in their [[plate glass|plate-glass]] windows, and its inns are as remarkable for their palatial exterior as they are for their excellent accommodation within.. Montreal is a stirring and opulent town.. Few places have so advanced in all the luxuries and comforts of high civilisation as Montreal.<ref>[https://archive.org/details/shoeandcanoeorp01bigsgoog <!-- quote=shoe and canoe. --> ''The Shoe and Canoe; or Pictures of Travel in the Canadas''] (1850) by John Bigsby</ref></blockquote>
+
+==Periods==
+
+===Early estates===
+[[File:Incendie de la maison Hayes square Dalhousie Montreal.jpg|thumb|View of a fire in [[Old Montreal]] – [[Hays House (Montreal)|Hayes House]] burning on Dalhousie Square (1852), up until then a favourite meeting place of the early Square Milers]]
+[[File:Montreal, 1832.jpg|thumb|[[Montreal]] in 1832, showing the farmland on which the Square Mile was built]]
+[[File:Beaver Hall, Montreal.jpg|thumb|Beaver Hall, built in 1792 for [[Joseph Frobisher]], destroyed by fire in 1847; the [[Beaver Club]] held many dinners here]]
+[[File:McTavish House, Montreal.jpg|thumb|[[Simon McTavish (fur trader)|Simon McTavish]]'s house, Mount Royal, built in 1800]]
+[[File:Piedmont House, Montreal.jpg|thumb|Piedmont (rear view), off Pine Avenue and Durocher Street, built c. 1820 and associated with the [[John Frothingham|Frothingham]] family]]
+[[File:Manoir Souvenir.jpg|thumb|''Manoir Souvenir'', built in 1830 for [[Frederic-Auguste Quesnel]], inherited by [[Charles-Joseph Coursol]]]]
+[[File:John Redpath's house, Terrace Bank, Sherbrooke Street, Montreal.jpg|thumb|Terrace Bank, Sherbrooke Street, built in 1837 for [[John Redpath]]]]
+[[File:Workman House, Sherbrooke & University, Montreal.jpg|thumb|[[William Workman (Canadian politician)|William Workman]]'s house on Sherbrooke Street, built in 1842, demolished in 1952]]
+[[File:Kildonan Hall, Montreal.jpg|thumb|Kildonan Hall was typical in style of the houses that once lined west Sherbrooke Street in the 1840s]]
+[[File:Rosemount, 1872, rear view, Golden Square Mile2.jpg|thumb|Rosemount House (rear view), McGregor Street, built in 1848 for [[Sir John Rose, 1st Baronet]]]]
+[[File:Stephens House, Dorchester Street, Montreal.jpg|thumb|Homestead, Dorchester Street, built in 1858 for Harrison Stephens]]
+[[File:Ravenscrag, 1906.jpg|thumb|[[Ravenscrag, Montreal|Ravenscrag]], built in 1863 for [[Sir Hugh Allan]], as seen from the west]]
+[[File:Vivoir, résidence de Lady Allan (II-185092).jpg|thumb|The [[drawing room]] at Ravenscrag]]
+[[File:Lady Galt House, Montreal.jpg|thumb|Lady Galt House, Simpson Street, built by [[Sir Alexander Tilloch Galt]]]]
+
+Before the 1840s, the landed, political and wealthier merchant classes of [[Montreal]] lived on their [[seigneuries]] during the summers and came to the city only for [[Parliament of Canada|Parliament]] or to conduct business during the winter. In 1816, Francis Hall, then a young [[Officer (armed forces)|officer]] with the [[14th King's Hussars]], observed that Montreal's [[gentry]] "live in a splendid style, and keep expensive tables".<ref>''Travels in North America, from Modern Writers, With Remarks and Observations; Exhibiting a Connected View of the Geography and Present State of That Quarter of the Globe'' - [[William Bingley]], 1821</ref> They kept townhouses on St. James Street, [[Notre-Dame Street]] and overlooking the [[Champ de Mars, Montreal|Champ de Mars]]; enjoying among other entertainments the [[Germany|German]] [[Orchestra]] and [[Viennese Waltz|Viennese dances]] held at the [[Hays House (Montreal)|Hayes House]] theatre on Dalhousie Square.<ref>[http://www.biographi.ca/EN/009004-119.01-e.php?id_nbr=4489 "Moses Hayes"], ''Dictionary of Canadian Biography''</ref> In 1795, [[Isaac Weld]] commented that "the people of Montreal, in general, are remarkably hospitable and attentive to strangers; they are sociable also amongst themselves, and fond in the extreme of convivial amusements".<ref>Travels through the states of North America, and the provinces of Upper and Lower Canada, during ... 1795, 1796, and 1797 - Isaac Weld (1800)</ref>{{page needed|date=January 2015}}
+
+But lively as it was, [[Old Montreal]] with its frequent fires and swelling population was becoming less desirable. The wealthy merchants in particular began to seek large plots of land on which to build homes worthy of their success while remaining close to their business interests; and, their eyes turned to the fertile [[farmland]] under [[Mount Royal]]. John Duncan observed in 1818 that, "a number of very splendid mansions have lately been erected on the slope of the mountain, which would be regarded as magnificent residences even by the wealthy merchants of the mother country".<ref>Duncan's Travels, 1818</ref> In 1820, [[John Jeremiah Bigsby|John Bigsby]] described the view from Château St. Antoine, then said to be 'the most magnificent building in the whole city and standing within 200 acres of parkland roughly at the end of Dorchester Street:
+
+<blockquote>I had the pleasure of dining with (William McGillivray) at his seat, on a high terrace under the mountain, looking southwards and laid out in pleasure-grounds in the English style. The view from the drawing room windows of this large and beautiful mansion is extremely fine, too rich and fair, I foolishly thought, to be out of my native England. Close beneath you are scattered elegant country retreats embowered in plantations, succeeded by a crowd of orchards of delicious apples, spreading far to the right and left, and hedging in the glittering churches, hotels, and house-roofs of Montreal...<ref>{{cite book|url=https://archive.org/details/shoeandcanoeorp01bigsgoog|quote=john bigsby shoe canoe.|title=The Shoe and Canoe; Or Pictures of Travel in the Canadas: With Facts and Opinions on Emigration, State Policy, and Other Points of Public Interest|year=1850|first=John Jeremiah|last=Bigsby|publisher=Chapman and Hall|via=Internet Archive}}</ref></blockquote>
+
+The early residents of the Square Mile enjoyed marked benefits from being the first to settle there: The houses were surrounded by acres of parkland, with long carriage drives, [[vineyard|vineries]], [[orchards]], [[fruit]] and [[vegetable gardens]].<ref>My Children's Children (Montreal, 1937), by Evelyn Carter Springett</ref> The surveyor [[Joseph Bouchette]] noted that the produce from these gardens in the summer months was "excellent in quality, affording a profuse supply... in as much, or even greater perfection than in many southern climes".<ref>British Dominions in North America (London, 1831), by Joseph Bouchette</ref> In 1822, [[Sir Richard Phillips]] commented that,
+
+<blockquote>A number of handsome villas now make their appearance around the town, and there are numerous sites still unoccupied, which will probably be hereafter crowned with elegant seats. Few places in the world possess more capabilities of this kind than [[Quebec City|Quebec]] and Montreal; if the latter is less bold than the former in its scenery, it possesses much richness and delicate beauty, which need nothing but wealth and taste to display them to advantage; the former already exists in Montreal to a great extent, and there are also very respectable proofs of the existence and growth of the latter.<ref>New voyages and travels: consisting of originals, translations, and abridgments; with index and historical preface - Sir Richard Phillips, 1822</ref></blockquote>
+
+;List of principal structures built
+* ''Beaver Hall''. Built in 1792, for [[Joseph Frobisher]], it stood between the McTavish and McGill properties on the site that is today commemorated as Beaver Square. It stood amidst 40 [[acre]]s made up of [[forest]] and [[apple tree]]s, roughly where the [[Sun Life Building]] is today. The house measured 80 [[Foot (unit)|feet]] across and his dining room comfortably sat forty guests. It burned down in a fire in 1847.
+* ''Burnside Place''. Built in 1797, for [[James McGill]]. Unlike the [[mansion]]s built by McGill's contemporaries, Burnside was a comfortable [[farmhouse]] of two stories over a basement for the kitchen and servants, standing on 46 acres of land, and used by the McGills during the summer. In his will, McGill bequeathed the property and £10,000 to establish a university, which would become [[McGill University]]. Immediately after his death, the house was occupied by his stepson, François-Amable Trottier DesRivières, who fought to keep the house for himself rather than give it to the [[Royal Institution for the Advancement of Learning]] as his stepfather had intended. The last person to occupy the house was [[John Bethune (principal)|John Bethune]]; it was replaced by the Arts Building in 1837. "Burnside Place" is visible in an early photograph by William Notman, a view from Mount Royal towards the harbour, taken in 1860.<ref>McCord Museum photo number N-0000.193.5</ref> It was located roughly where McTavish and De Maisonneuve intersect. The Arts Building is located further up the hill. The engraving by John H. McNaughton, 1842,<ref>McCord Museum photo number MP-0000.89</ref> shows "Burnside" in relation to the McTavish House, which was located near the site of the new Arts Building.
+* ''McTavish House.'' Built in 1800 for [[Simon McTavish (fur trader)|Simon McTavish]]. Constructed with [[ashlar|dressed]] [[limestone]] by French [[Stonemasonry|masons]]. The [[facade]] of the main house measured 145 [[Foot (unit)|feet]] across, with two semi-circular towers, capped by typically French conical roofs at each end.<ref>''Architecture and Town Planning in Colonial North America'' - James & Georgiana Kornwolf, 2002</ref> Soon after its completion, it was described as "a large, handsome stone building.. at the foot of the mountain in a very conspicuous situation. Gardens and orchards have been laid out, and considerable improvements made, which add much to the beauty of the spot".<ref>''Travels through Canada and the United States of North America''- John Lambert, 1806-08</ref> The house was left empty from 1805 and was supposedly haunted by McTavish. It was demolished in 1860/61, when the estate was broken up and sold off in plots. Some of the stone from the original house was used to construct ''Braehead'' in 1861.
+* ''Chateau St. Antoine''. Built in 1803, for [[William McGillivray]]. A 'fine [[Georgian architecture|Georgian]] structure of [[Ashlar|cut stone]]', the house was described in 1816 as the most magnificent building in the whole of the city. The house, which boasted 'an enchanting' [[ballroom]], stood on Cote St. Antoine near the end of Dorchester Street within 200 acres of parkland 'laid out in pleasure-grounds in the [[England|English]] style'. McGillivray was said to have lived like a lord, enjoying a magnificent view of the city and the river.<ref>''Montreal in Evolution: Historical Analysis of the Development of Montreal's Architecture and Urban Environment'' - Jean-Claude Marsan, 1990</ref> The house was afterwards occupied by several different owners: John McKenzie, [[Louis-Joseph Papineau]],  [[Charles Wilson (Quebec politician)|Charles Wilson]] and finally the [[George-Édouard Desbarats|Desbarats family]]. It has since been demolished.<ref>{{cite web|url=http://rawdonhistoricalsociety.com/dorwin/mtlin1816.htm|title=Montreal in 1816|first=Glenn F.|last=Cartwright|website=rawdonhistoricalsociety.com|date=9 February 2022 }}</ref>
+* McLeod House, Rue St. Antoine. A 'first class house' built circa 1810 for [[Archibald Norman McLeod]], since demolished.
+* ''St. Antoine Hall'', St. Antoine Street; a forty-two room home built for [[John Torrance]], 1818;<ref name="The Square Mile 1987">The Square Mile, Merchant Princes of Montreal (1987) by Donald MacKay</ref> A 'handsome residence' built in the [[palladian]] style, on a 'grand and sprawling estate,' renowned for its acres of gardens, greenhouses, vineyards and orchards, surrounded by a high brick wall. Since demolished.
+* ''Piedmont'', Pine Avenue; built before 1820, when [[Louis-Charles Foucher]] moved in with his family. It was purchased in the 1830s by [[John Frothingham]]; inherited in 1870 by [[John Henry Robinson Molson]]. The house stood among orchards and formal gardens and was approached by a long tree-lined drive on what are today the grounds of [[McGill University]]. Its 10 acres of grounds were purchased by Lords [[Donald Smith, 1st Baron Strathcona and Mount Royal|Strathcona]] and [[George Stephen, 1st Baron Mount Stephen|Mount Stephen]] in 1890, on which they built the [[Royal Victoria Hospital, Montreal|Royal Victoria Hospital]]. The house was demolished in 1939.<ref name="The Square Mile 1987"/>
+* ''Lunn House,'' Sherbrooke Street; built in 1825 for [[William Lunn (educator)|William Lunn]], demolished 1920
+* ''Manoir Souvenir'', between Dorchester Boulevard and the fashionable Rue Saint-Antoine; it stood within a park of 240 acres and was built in 1830 for [[Frédéric-Auguste Quesnel]]; afterwards inherited by his nephew, [[Charles-Joseph Coursol]]. It still stands today, though derelict and barely recognisable from its former grandeur.
+* ''Terrace Bank'', [[Sherbrooke Street]]; built in 1837 for [[John Redpath]] who purchased the 235-acre estate for £10,000 from the Desrivières family in 1836. He subsequently subdivided the property at a profit of £25,000, with little infringement on their space, before building his home on a plot amidst gardens and orchards with a private road that ran up to the house from the corner of Mountain and Dorchester streets.<ref name="erudit">[http://www.erudit.org/revue/jcha/2003/v14/n1/010324ar.pdf Roderick Macleod, "The Road to Terrace Bank: Land Capitalization, Public Space, and the Redpath Family Home, 1837-1861"], ''Erudit'', 2003, Vol. 14, No. 1</ref> The house was enlarged by the Redpaths in 1861 and since demolished. The land on which the house stood has been replaced by Redpath Crescent.<ref name="erudit"/>
+* ''Kildonan Hall'', 681 [[Sherbrooke Street]] West; built in the 1840s for [[Joseph Mackay]]. Named after [[Kildonan, Arran]] where he was born. In the photograph of the house its [[conservatory (greenhouse)|conservatory]] can just be made out on the left, and the [[coach house]] and [[stables]] are seen beyond the arch to the right of the house. Joseph's nephew, [[Robert Mackay (businessman)|Robert Mackay]], lived and died there in 1916. The house was demolished in 1930.
+* ''Mount Prospect House'', Sherbrooke Street; built in 1842 for [[William Workman (Canadian politician)|William Workman]], demolished 1952
+* ''Athelstane Hall'', 'a fine house' on St. Alexander Street; built in 1844 for John Smith, and afterwards occupied by Rev. Gavin Lang. Since demolished.
+* ''[[Notman House]],'' [[Sherbrooke Street]]; built 1843-45 for [[William Collis Meredith|Sir William Collis Meredith]], to the design of [[John Wells (architect)]]. Although it lies outside the Square Mile and is of more modest proportions than its counterparts, it is the only surviving residence of its era on Sherbrooke Street - that was once lined with many like it. It is also one of [[Quebec]]'s only few remaining [[Greek Revival architecture|Greek Revival]] residences.<ref>''[[Montreal Gazette]]'' - Shaking our Cultural Foundations - Notman House on Sherbrooke Street is a classified heritage building, but that doesn't seem to mean much - April 21, 2001</ref> It was purchased by Alexander [[Molson family|Molson]] circa 1865, who sold it in 1876 to [[William Notman]], for whom it is named today. In 1894, it was purchased by [[George Alexander Drummond|Sir George Drummond]] for use as the ''St. Margaret's Home for Incurables''. In 2012, it was purchased by the OSMO Foundation.
+* ''Rosemount'', McGregor Street; built in 1848 for [[Sir John Rose, 1st Baronet]] on land that he purchased from [[George Simpson (administrator)|Sir George Simpson]]; purchased in 1871 by [[William Watson Ogilvie]] and altered by him in 1890; purchased in 1926 by Sir Percy Walters who demolished the house in 1943 to create 'Percy Walters Park'.
+
+===1850 to 1869===
+Following the strikes and the [[Burning of the Parliament Buildings in Montreal]], the new [[decade]] was "like the arrival of a [[Montreal]] [[Spring (season)|spring]], prosperity and stability invigorated the city in the early 1850s".<ref name="The Square Mile 1987"/> [[Sir Hugh Allan]] was elected President of the Montreal [[Board of Trade]] in 1851 and work on railways and steamships was evident everywhere, bringing with it a surge of construction. There were now a dozen architects practising in the city and the newly rich competed with one another for the largest, most decorative homes.<ref>Diaries of John Frothingham (1788-1870)</ref>
+
+The city's lively reputation had not diminished, as [[Charles A. Goodrich|Charles Goodrich]] suggested with a hint of disapproval: "If you wish to enjoy good eating, dancing, music and gayety, you will find an abundance of all (at Montreal)".<ref>Travels and sketches in North and South America, by Charles Augustus Goodrich (1852)</ref> While staying at [[Donegana's Hotel, Montreal|Donegana's Hotel]] in 1853, Clara Kelly wrote to her father, [[Fitzroy Kelly|Sir Fitzroy Kelly]], describing her impressions of the city and the Square Mile in its infancy:
+
+<blockquote>The scenery I find remarkably pretty, and, moreover, the city has an air of comfort, and to a certain extent of antiquity, rarely to be seen in the [[United States of America|States]].. The view from ([[Mount Royal]]'s) summit is most picturesque, - green undulating land dotted with country houses and cottages, with beautiful gardens and trees.. The scene of the terrible fire which occurred here three years ago was pointed out to us. It has fearfully devastated a great part of the town. It seems difficult to understand how such a fire could have lasted so long a time and have done so much mischief, as the houses were not built of wood, which I had always imagined to be the case.. (We visited) a most beautiful and wonderful garden, belonging to a Montreal merchant (probably [[John Torrance]] of St. Antoine Hall), whose name I forget but who has collected here everything which is rich and rare, in [[shrub]] or [[flower]].<ref>A Woman's Wanderings in the Western World: A Series of Letters Addressed to Sir Fitzroy Kelly, M.P., by his daughter Mrs. Clara Bromley, published 1861</ref></blockquote>
+
+Completed in 1863, Sir Hugh Allan's new house, ''[[Ravenscrag, Montreal|Ravenscrag]]'', was to be the jewel of the Square Mile, as he intended. He purchased fourteen acres from the decaying [[Simon McTavish (fur trader)|McTavish]] estate and built a sumptuous home of 72 rooms that excelled "in size and cost any dwelling-house in [[Canada]]," surpassing [[Dundurn Castle]].<ref name="Canadian Biography 1890">Dictionary of Canadian Biography (1881-1890), Volume XI</ref> By the 1860s, Montreal had come of age, which was recognised by three [[Royal tours of Canada|Royal visits]] from the future [[Edward VII]], [[Alfred, Duke of Saxe-Coburg and Gotha|Prince Alfred]] and [[Prince Arthur, Duke of Connaught and Strathearn|Prince Arthur]], the most of any colony.
+
+;List of principal structures built
+* Masson House, Dorchester Street; built c.1855 for Wilfrid Masson
+* ''St. James's Club'', Dorchester Street; built 1857, since demolished
+* ''Homestead'', Dorchester Street; built in 1858 for Harrison Stephens. The house remained in the Stephens family until his grandson sold it in 1929, and it was demolished.
+* ''Strathearn House'', Beaver Hall Hill; built in 1860 for [[William Dow]], now a restaurant
+* ''Braehead'', McTavish Street; built 1861 for [[Orrin S. Wood|Orrin Squire Wood]]. Designed by James Brown and constructed of Montreal [[limestone]] taken from the demolished house of [[Simon McTavish (fur trader)|Simon McTavish]], one whose original estate it stands. Purchased 1869 by [[Matthew Hamilton Gault]]. The next generation of the Gaults gave it to the army to be used as a convalescence hospital for disabled soldiers during [[World War I]]. Purchased by George H. Duggan in 1929, who donated it to [[McGill University|McGill]], 1944. Still standing, known as Duggan House.
+* ''Mount View'', Sherbrooke Street; built in 1862 for James Linton; altered, but still standing
+* ''[[Ravenscrag, Montreal|Ravenscrag]]'', Pine Avenue; built 1863 for [[Sir Hugh Allan]], now the [[Allan Memorial Institute]]
+* David Law House, Cote des Neiges; built 1863, since demolished
+* ''Iononteh'', a greystone mansion that dominated upper Peel Street. Built 1865, for [[Andrew Allan (shipowner)|Andrew Allan]] by John W. Hopkins.<ref>Royal Canadian Geographical Society, 1978</ref> Since demolished.
+* Galt House, Simpson Street; built in the 1860s for [[Alexander Tilloch Galt|Sir Alexander Tilloch Galt]],<ref>The Life and Times of Sir Alexander Tilloch Galt (2009), by Oscar Skelton</ref> later lived in by George Caverhill; since demolished
+* ''Dilcoosha'', Sherbrooke Street; built in the 1860s for Jesse Joseph, demolished in 1955 due to structural problems. [[McLennan Library Building]] now occupies the site.<ref name="Dilcoosha">{{cite web|url=http://cac.mcgill.ca/campus/buildings/Jesse_Joseph_House.html|title=Joseph House "Dilcoosha"|work=Virtual McGill|publisher=McGill University|access-date=2009-10-29}}</ref>
+* David Morrice House, Redpath Street; built in the 1860s, since demolished
+* ''[[:fr:Prince of Wales Terrace|Prince of Wales Terrace]]'', Sherbrooke Street; built in 1860 by [[George Simpson (administrator)|Sir George Simpson]], demolished in 1971 by [[McGill University]] to make way for the Samuel Bronfman Building.<ref name="virtual terrace">{{cite web|title=Prince of Wales Terrace (demolished)|url=http://cac.mcgill.ca/campus/buildings/Prince_of_Wales_Terrace.html|work=Virtual McGill|publisher=Canadian Architecture Collection (CAC), McGill University|access-date=21 March 2012}}</ref>
+*''[[Victoria Skating Rink]]'', Stanley Street; built in 1862, demolished after 1925. It was built through the capitalization of a number of industrialists of the area of the Victoria Skating Club.
+
+===1870 to 1889===
+[[File:Sir George A. Drummond's House, Sherbrooke Street, Montreal.jpg|thumb|[[George Alexander Drummond|Sir George Drummond]]'s House, built in the 1880s on Sherbrooke Street, at the corner of Metcalfe Street. Torn down in 1930, the site was used as a car wash]]
+[[File:Shaughnessy House, Montreal.jpg|thumb|[[Thomas Shaughnessy, 1st Baron Shaughnessy|Lord Shaughnessy]]'s House, reduced in size but saved from demolition in 1973; now the [[Canadian Centre for Architecture]]]]
+[[File:Maison George-Stephen 04.jpg|thumb|[[Lord Mount Stephen]]'s home on Drummond Street. Built in 1880, and afterwards inherited by his niece, Elsie Meighen, it was saved from demolition when it was purchased by three anglophone businessmen who created the Mount Stephen Club in 1928.]]
+[[File:Résidence James Ross (VIEW-8715).jpg|thumb|[[James Ross (Canadian businessman)|James Ross]] with his family outside their Peel Street home; built 1892]]
+[[File:Ross gardens, behind Peel Street, Montreal; 1926-27.jpg|thumb|The grounds of James Ross house, Peel Street, 1926–27. In 1953, the city extended McGregor Street through these gardens]]
+[[File:Edifice du Mount Royal Club 01.JPG|thumb|[[Mount Royal Club]], Sherbrooke Street; founded in 1899 after the leaders of the Square Mile felt that the St. James Club had become "too overcrowded"]]
+[[File:Maison Lord-Atholstan 01.jpg|thumb|[[Lord Atholstan]]'s house on Sherbrooke Street]]
+[[File:Hosmer House, Montreal.gif|thumb|[[Charles Hosmer]]'s house on Drummond Street, 1901]]
+[[File:Meighen garden, Montreal.jpg|thumb|Garden party at the Meighen's house, 1908]]
+[[File:John Kenneth Leveson Ross House, Montreal 11.jpg|thumb|[[J.K.L. Ross]] House, Peel Street; built 1910]]
+[[File:Rodolphe Forget House 02.jpg|thumb|[[Rodolphe Forget|Sir Rodolphe Forget]]'s house on Du Musée Avenue, built 1912]]
+Following the [[Confederation of Canada]], the mercantile elite was led by the Allan brothers (Sir Hugh and [[Andrew Allan (shipowner)|Andrew]]), described by the ''Gazette'' as the "pioneers of our commercial greatness".<ref name="Canadian Biography 1890"/> In 1878, the [[Marquis of Lorne]] and [[Princess Louise, Duchess of Argyll|Princess Louise]] were posted to Canada as the new [[Vice-regal]] couple, while [[Montreal]] was attracting celebrities of the day such as [[Charles Dickens]], [[Rudyard Kipling]], [[Mark Twain]] and [[Abraham Lincoln]]. At the same time in London, the likes of [[Emma Albani]] and [[Sir Gilbert Parker, 1st Baronet|Sir Gilbert Parker]] were representative of Quebec's culture.<ref>Journeys: A History of Canada - R. Douglas Francis, Richard Jones, Donald B. Smith, R. D. Francis, Richard Jones, Donald B. Smith (2009)</ref>
+
+In the 1880s, the [[Canadian Pacific Railway]] was completed under the direction of [[George Stephen, 1st Baron Mount Stephen|Lord Mount Stephen]], [[Donald Smith, 1st Baron Strathcona and Mount Royal|Lord Strathcona]] and [[Richard B. Angus|R.B. Angus]], after which it was continued by [[Thomas Shaughnessy, 1st Baron Shaughnessy|Lord Shaughnessy]] and [[William Cornelius Van Horne|Sir William Cornelius Van Horne]]. Celebrating their success, they spared no expense on their homes, with interiors decked in detailed [[mahogany]] and private art galleries housing works of the likes of [[Raphael]], [[Rembrandt]], [[Cézanne]], [[John Constable|Constable]] and [[Thomas Gainsborough|Gainsborough]] etc. Van Horne's collection of [[Japanese pottery and porcelain|Japanese pottery]] brought [[connoisseur]]s from [[United Kingdom|Britain]], the [[United States]] and [[Japan]]; and the [[Old Masters]] collection belonging to [[James Ross (Canadian businessman)|James Ross]] was frequently loaned out for public exhibition around the world.
+
+[[Ashton Oxenden]] was [[Anglican Diocese of Montreal|Bishop of Montreal]] from 1869 to 1878. As an [[England|Englishman]], previously well travelled in [[France]], [[Italy]], [[Germany]], [[Switzerland]] and [[Spain]], he paid a high complement to "this flourishing and wealthy city" when he stated that, "upon the whole, I prefer Montreal, as a place of residence, to almost any town that I have ever seen." Oxenden particularly enjoyed the "picturesque city's cheerfulness (and the) kindness of its inhabitants":<ref name="ReferenceA">My First Year in Canada - Ashton Oxenden, Bishop of Montreal, 1871</ref>
+
+<blockquote>There is an abundance of [[charitable institution]]s at Montreal (and) all well managed.. among the [[Roman Catholic]]s especially there are many institutions on an enormous scale.. I have hardly seen a [[beggar]] in the streets or in the [[countryside|country]]. There is a great absence of [[poverty]], except perhaps among the lowest [[French Canadian|French]] population.. Happily there is at present (1871) a kindly feeling between the Roman Catholics and [[Protestant]]s, each pursuing their own course without molesting the other. The general cost of living (is) much the same as in an ordinary [[England|English]] town.. Dinner parties are frequent in Montreal. There is perhaps a little too much expense devoted to them; and this prevents all but the wealthy from indulging in such hospitalities.</blockquote>
+
+<blockquote>The Upper parts of the town are of more recent growth, and contain commodious and detached houses, belonging to the men of business and persons of fortune. The streets in this part of the town are as yet incomplete, showing at present certain gaps, which will ere long be filled up with handsome houses. They are all flanked by trees, chiefly [[maple]]s (which) greatly add to the beauty of the town. The Montreal builders are excellent. They not only run up their houses at an indescribable speed, but they build them well and substantially.<ref name="ReferenceA" /></blockquote>
+
+Aside from the men at the very top, the CPR had also brought about another housing boom to the Square Mile: In 1885, [[Sir John Abbott]], the company's chief lawyer, built his new home on Sherbrooke Street and Peel, and in doing so set a trend among his boardroom colleagues, as Oxenden had correctly predicted, filling the gaps within the Square Mile.
+
+;List of principal structures built
+* [[Van Horne Mansion]]; built in 1869 for [[John Hamilton (Quebec politician)|John Hamilton]], President of the Merchant's Bank. In 1890, it was purchased and enlarged to 52 rooms by [[William Cornelius Van Horne|Sir William Cornelius Van Horne]]. It remained in the Van Horne family until it was controversially demolished in 1973.
+* ''Bellevue Hall'', at the foot of Bishop Street on Dorchester Street; built before 1870 for William Edmund Phillips, since demolished.<ref>{{cite web|url=https://news.google.com/newspapers?nid=1946&dat=19280820&id=XHAtAAAAIBAJ&pg=6277,2779413|title=The Montreal Gazette - Google News Archive Search|website=news.google.com}}</ref>
+* ''Elmbank'', off Dorchester Street; built in the 1870s for [[Andrew Robertson (businessman)|Andrew Robertson]], since demolished
+* John James [[Redpath Sugar|Redpath]] House, Sherbrooke Street; built in 1870, demolished 1955.
+* Tiffin House, Sherbrooke Street. Built in 1874, demolished in 1896.
+* Burland House, University Street. Built in 1875 for George Bull Burland; designed by J.W. Hopkins. Purchased and restored by architect Claude Gagnon in 1973.
+* ''Rokeby'', Sherbrooke Street. Built 1875 for [[Andrew Frederick Gault]], designed by James Brown. Since demolished.
+* [[Thomas Shaughnessy, 1st Baron Shaughnessy|Lord Shaughnessy]] House, Dorchester Street; completed in 1876 by [[William Tutin Thomas]]; now the [[Canadian Centre for Architecture]]<ref name="klein">{{cite news|last=Klein|first=Julia M.|title=Joan of Architecture Speaks|url=https://www.wsj.com/articles/SB10001424052748704407804575425913319466780|access-date=21 August 2010|newspaper=[[Wall Street Journal]]|date=19 August 2010}}</ref>
+* [[Richard Bladworth Angus|R.B. Angus]] House, Drummond Street; built in 1878, before it was demolished in 1957, it served as [[McGill University|McGill]]'s [[Conservatory of Music]]
+* ''Strathcona House'', off Dorchester Street; built 1879, best associated with [[Donald Smith, 1st Baron Strathcona and Mount Royal]], demolished 1941
+* [[George Stephen House|Lord Mount Stephen House]], Drummond Street. Built over three years (1880-1883) at a cost of $600,000, it was designed by [[William Tutin Thomas]]. In 1888, Mount Stephen retired to [[England]] and he left the house to his niece, Elsie (Stephen) Meighen, the mother of [[Elsie Reford]]. Income tax was introduced after the [[First World War]] and in 1926 the Meighens were forced to sell the property. It was purchased by three [[Anglo-Quebecer|anglophone]] businessmen, [[Noah Timmins]], J.H. Maher and J.S. Dohan, who two years later converted it into a private club, the [[Mount Stephen Club]]<ref>{{CRHP|3429|George Stephen House / Mount Stephen Club|July 30, 2011}}</ref> In 1975, it was designated a [[National Historic Sites of Canada]] as the best example of [[Renaissance Revival architecture]] in [[Canada]]. 
+* ''Cragruie'', McGregor Street; built on a plot of ten [[acre]]s of land in the 1880s for [[Duncan McIntyre (businessman)|Duncan McIntyre]]. McIntyre's estate had extensive frontage on both Pine Avenue and Drummond Street, with a connecting right-of-way to Peel Street. The house was demolished by 1935, but the land remained under the ownership of the McIntyre family until 1947 when McIntyre's descendants (Mrs Archibald Hodgson, Mrs Lewis Reford, Mrs R.A. Snowball and Duncan McIntyre Hodgson) gave it to [[McGill University]]. The area became known as McIntyre Park, and in 1966 the [[McIntyre Medical Sciences Building]] was built upon the land.<ref>{{cite web|url=https://www.mcgill.ca/library/sites/mcgill.ca.library/files/No19June1975.pdf|title=Osler Library Newsletter, McGill University, 1975|access-date=2017-08-29|archive-url=https://web.archive.org/web/20131220133225/http://www.mcgill.ca/library/sites/mcgill.ca.library/files/No19June1975.pdf|archive-date=2013-12-20}}</ref>
+* [[Louis-Joseph Forget]] House, Sherbrooke Street; built in 1883, now offices
+* Francis Redpath House, Ontario Avenue. Built in 1885 and designed by [[Andrew Taylor (architect)|Sir Andrew Taylor]].<ref>{{cite book|last1=Wagg|first1=Susan|title=The Architecture of Andrew Thomas Taylor|date=2013|pages=33–40|publisher=McGill-Queens University Press|location=Montreal|isbn=978-0-7735-4118-4|url=http://www.mqup.ca/architecture-of-andrew-thomas-taylor--the-products-9780773541184.php|access-date=29 August 2015}}</ref> The Sochacevski family (the present owners) began demolition in 1986 to replace it with a [[Condominium (living space)|condominium]] block, despite opposition from [[Heritage Montreal]] and local citizens. The remains were razed in 2014.<ref name="heritagemontreal.org">{{cite web |url=http://www.heritagemontreal.org/en/demolition-redpath-house/ |title=Héritage Montréal » Demolition of the Redpath House: A shameful abuse of process and loss to the city |access-date=2014-05-01  |archive-url=https://web.archive.org/web/20140502002826/http://www.heritagemontreal.org/en/demolition-redpath-house/ |archive-date=2014-05-02 }}</ref>
+* Baumgarten House, McTavish Street; built in 1887 for [[Baron]] [[Alfred Baumgarten]]. The house resembled the ancestral home of his wife, Donners Park, in [[Altona, Hamburg]]. His widow sold it to [[McGill University|McGill]] in 1926 and it became the home of General [[Arthur Currie|Sir Arthur Currie]]. From 1935, it has been the McGill Faculty Club.
+* ''Rotherwood'', Redpath Street; built in 1887 for George Hague. After his death it was left empty for several years. His heirs had found taxes too heavy and could not afford to maintain the house. Unable to sell it at a decent price, it was demolished in 1929.
+* [[George Alexander Drummond|Sir George Drummond]]'s House, Sherbrooke Street, on the corner of Mansfield Street; built by [[Andrew Taylor (architect)|Sir Andrew Taylor]] in 1888. It was  demolished by the City of Montreal in 1930 and the site was used as a car wash.
+
+===1890 to 1914===
+From the 1890s into the [[Edwardian era]] the city enjoyed a gilded age. [[Stephen Leacock]] recalled, "the rich in Montreal enjoyed a prestige in that era that not even the rich deserve".<ref name="ReferenceB">The Reconquest Of Montreal: Language Policy and Social Change in a Bilingual City - Marc Levine, 1991</ref> The men of the CPR retired in the 1890s, having created "the world's greatest transportation system,"<ref>{{cite web|url=https://books.google.com/books?id=OVEEAAAAMBAJ&q=cpr+worlds+greatest+transportation+system&pg=PA40|title=LIFE|date=5 April 1937|publisher=Time Inc|via=Google Books}}</ref> selling a package of cheap land (their land holdings were equal in size to the [[Province of Alberta]]) with a cheap ticket from [[United Kingdom|Britain]] through to the [[Canadian West]]. Together they had built a nation, seeing over a million immigrants settle in the west, and by exploiting the mineral resources included in their land grants, they and their [[shareholders]] would see their net earnings grow year on year to $46 million in 1913.<ref>Remembrance of Grandeur: The Anglo-Protestant elite of Montreal, 1900-1950; Margaret W. Westley (1990), page 192</ref> Unprecedented amounts of capital now flowed in from [[United Kingdom|Britain]] to build [[Western Canada]], and [[Montreal]], where every major company had its headquarters, was once again at the centre of this latest web of prosperity - "those who thought that the government of Canada was in [[Ottawa]] were mistaken, it was ''here''".<ref>The Canadian Home: From Cave to Electronic Cocoon - Marc Denhez, 1994</ref>
+
+<blockquote>In perhaps no section of the [[British colonies|Colonies]] have [[England|Englishmen]] and [[Scotland|Scotsmen]] made more of their opportunities than in Montreal. There is an air of prosperity about all their surroundings which at once impresses the visitor. Taken all in all, there is perhaps no wealthier city area in the world than that comprised between Beaver Hall Hill and the foot of [[Mount Royal]], and between the parallel lines of Dorchester and Sherbrooke Streets in the West End.<ref name="ReferenceB" /></blockquote>
+
+[[File:Maison John-Wilson-McConnell 03.JPG|thumb|[[:fr:Maison John-Wilson-McConnell|J.W. McConnell House]], built in 1913, on [[Avenue des Pins]]]]
+The wealth inherited and managed by the next generation of Square Milers continued to grow, but while many were successful as businessmen they were less entrepreneurial. They financed and worked closely with newcomers such as [[Edward Wentworth Beatty|Sir Edward Beatty]], [[Herbert Samuel Holt|Sir Herbert Samuel Holt]] and the last of the great Square Mile tycoons, [[John Wilson McConnell|J.W. McConnell]].<ref name="The Square Mile 1987" /> These men had easily integrated themselves into Square Mile society, but there was a new and hungrier generation of anglophones coming to Montreal, epitomised by [[Henry Worth Thornton|Sir Henry Thornton]], who were not as readily accepted by the older generation, which jealously guarded over the dominance of their cornerstones, the [[Canadian Pacific Railway|CPR]] and the [[Bank of Montreal]].<ref>Remembrance of Grandeur: The Anglo-Protestant elite of Montreal, 1900-1950; Margaret W. Westley (1990), page 201</ref> Notably, this new group included [[Max Aitken, Lord Beaverbrook|Max Aitken]] and [[Izaak Walton Killam|Isaac Killam]], who were 'pilled' (barred) from entry into the [[Mount Royal Club]].<ref>Profits and Politics: Beaverbrook and the Gilded Age of Canadian Finance - Gregory Marchildon, 1996. Page 152</ref> In 1899, finding that the St. James' Club had become "too overcrowded," the Square Mile's leading businessmen, led by the likes of [[Donald Smith, 1st Baron Strathcona and Mount Royal|Strathcona]] and [[Richard B. Angus|Angus]], established the Mount Royal Club that overnight became Montreal's most prestigious.<ref>{{cite web|url=http://faculty.marianopolis.edu/c.belanger/quebechistory/documents/Chapterone.pdf|title=The Founding of the Mount Royal Club in 1899 and its Position within Montreal's Cultural and Social Milieu}}</ref> [[F. E. Smith, 1st Earl of Birkenhead|Lord Birkenhead]] found it to be "one of the best clubs I know in the [[New World]], with the indefinable atmosphere about it of a good [[London]] club".<ref>{{cite web|url=http://www.ebooksread.com/authors-eng/frederick-edwin-smith-earl-of-birkenhead/my-american-visit-ala/page-11-my-american-visit-ala.shtml|title=Read the eBook My American visit by Frederick Edwin Smith Birkenhead online for free (page 11 of 16)|first=Denis Larionov & Alexander|last=Zhulin|website=www.ebooksread.com|access-date=2013-05-08|archive-date=2013-05-30|archive-url=https://web.archive.org/web/20130530035206/http://www.ebooksread.com/authors-eng/frederick-edwin-smith-earl-of-birkenhead/my-american-visit-ala/page-11-my-american-visit-ala.shtml|url-status=dead}}</ref>
+
+As much as the next generation spent their money on parties, new houses, grand refurbishments and summer homes, they also continued to pour money back into [[education]], [[health]], and [[culture]]; albeit for the most part to the benefit of Montreal's anglophone community. Giving an estimated $100 million to charity in his lifetime, [[John Wilson McConnell|McConnell]] followed in the magnanimous steps of some of Montreal's best remembered philanthropists, such as Lord Strathcona, to whom [[King Edward VII]] referred as "Uncle Donald" in recognition of his generosity towards charitable causes across the British Empire.<ref>Lord Strathcona: A Biography of Donald Alexander Smith (2002), by Donna McDonald</ref>
+
+A strong British influence predominated in the Golden Square Mile during this era. This was recognised in London by increasingly frequent [[Royal tours of Canada|Royal visits]]. "The [[Union Jack]] flew from Ravenscrag (since inherited by Sir Montague Allan)"<ref>All Our Yesterdays (1983), by Edgar Allan Collard</ref> where the [[Montreal Hunt]] now met, and [[George Alexander Drummond|Lady Drummond]] was heard to reflect the sentiments of the Square Mile by stating, "the [[British Empire|Empire]] is my country. Canada is my home".<ref name="The Square Mile 1987" /> The best households were not always necessarily run by Canadians, but by governesses, butlers, cooks, nursemaids and maids sourced from Britain, who were used to working in large houses.
+
+;List of principal structures built
+[[File:Joseph-Alderic Raymond House, Montreal 03.jpg|thumb|[[:fr:Maison Joseph-Aldéric-Raymond|Maison of Joseph-Aldéric Raymond]], on [[Doctor Penfield Avenue|Doctor Penfield]], brother of Senator [[Donat Raymond|Raymond]], builder of [[Montreal Forum]] for the [[NHL]]]]
+[[File:Charlotte R. Harrisson House 03.jpg|thumb|Charlotte R. Harrisson's House, [[Peel Street (Montreal)|Peel Street]], husband was banker for [[Charles Meredith (banker)|Charles Meredith]]]]
+[[File:Davis House -1900- - Notman Archive - McCord Museum.gif|thumb|[[Mortimer Davis|Sir Mortimer Davis's]] house, Pine Avenue. Built in 1907, designed by [[Robert Findlay (architect)|Robert Findlay]]]]
+
+* Hector Mackenzie House, on the corner of Mountain and Sherbrooke Streets. Built 1891, designed by John Hopkins. Used as the Air Force Club during [[World War II]], it was afterwards acquired by [[Standard Life (Canada)|Standard Life]] and demolished in 1960 to make way for its new office tower.
+* [[James Ross (Canadian businessman)|James Ross]] House, Peel Street. Built 1892, today [[McGill University|McGill's]] Chancellor Day Hall
+* Elmenhorst House, Peel Street; built in 1893, since demolished
+* ''[[Lady Meredith House|Ardvana]]'', Pine Avenue. Built 1894, for [[Vincent Meredith|Sir Vincent Meredith, 1st Bt.]] The land on which the house was built was formerly part of  [[Andrew Allan (shipowner)|Andrew Allan]]'s estate, and given to his youngest daughter on her marriage to Meredith. The house was designed by the [[William Sutherland Maxwell|Maxwell brothers]] and the gardens were laid out by [[Olmsted Brothers|Olmsted & Eliot]]. The house was enlarged again in 1906. Lady Meredith gave it to the [[Royal Victoria Hospital, Montreal|Royal Victoria Hospital]] to be used a nurses residence in 1941. [[McGill University]] purchased the building in 1975, and renamed it ''Lady Meredith House''. It was designated a [[National Historic Site of Canada]] in 1990. 
+* Clouston House, Peel Street. Built 1894, by the Maxwell brothers for [[Edward Clouston|Sir Edward Clouston, 1st Bt.]] The imposing [[Château]] style mansion had a round corner tower capped by a conical roof and connected by way of a [[loggia]] to a polygonal oriel. The house was finished in rough masonry of [[Buff (colour)|buff]] and red [[sandstone]]. Sculptor Henry Beaumont designed the decorative stone carvings on the exterior. Construction of the building cost $44,715. The house was demolished in 1938.<ref>{{cite web|url=http://cac.mcgill.ca/maxwells/details.php?recordCount=304&Page=3&id=55&pn=&cn=&pr=&ct=&str=&mj=&mn=&sta=|title=Canadian Architecture Collection - McGill University, Montreal}}</ref>
+* ''The Gatehouse'', Peel Street; built for [[Duncan McIntyre (businessman)|McIntyre]] & [[Richard Bladworth Angus|Angus]], 1894; now part of [[McGill University|McGill]]
+* Crathern House, McGregor Street. Completed in 1894 for James Crathern. Demolished 1963.
+* [[Hugh Graham, 1st Baron Atholstan|Lord Atholstan]]'s house, today known as [[Maison Alcan]], Sherbrooke Street. Built in 1896, it is now designated a [[Répertoire du patrimoine culturel du Québec|Quebec Historic Monument]]. It is a leading example of the sympathetic restoration of an old property incorporated into modern use by [[Alcan]] as their headquarters.<ref>{{cite book|title=Maison Alcan|work=Lonely Planet|url=http://www.lonelyplanet.com/canada/montreal/sights/architecture/maison-alcan}}</ref>
+* Orr-Lewis House, Sherbrooke Street. Built circa 1900 for [[Frederick Orr-Lewis|Sir Frederick Orr-Lewis, 1st Bt.]], later of Whitewebbs Park, near [[Enfield parks and open spaces|Enfield]] in [[England]].
+* Frederick Molson House. Built in 1901, designed by [[Robert Findlay (architect)|Robert Findlay]]. Demolished by the City of Montreal in 1957.
+* [[Charles Hosmer]] House, Drummond Street. Built in 1901, now part of [[McGill University]]
+* [[Charles Francis Smithers]] House, Drummond Street. Built in 1902, designed by [[Robert Findlay (architect)|Robert Findlay]]. It was an excellent example of the [[Tudor architecture|Tudor style]] with [[Architecture of the Netherlands|Flemish]] influences. The facade was illegally demolished by real estate developers in 1974. After a paying a negligible fine, in 1977 the developers were allowed to demolish the rest of the house replacing it with a high-rise apartment building.<ref>Rémillard, François; & Brian Merrett (1987). Mansions of the Golden Square Mile. Meridian Press. {{ISBN|2-920417-25-8}}.</ref>
+* [[Robert Wilson Reford]] House, Drummond Street. Built in 1900, designed by [[Robert Findlay (architect)|Robert Findlay]]. Demolished in 1968.
+* [[Charles Meredith (banker)|Charles Meredith]] House, Pine Avenue. Built in 1904, now part of [[McGill University]].
+* ''Purvis Hall'', [[Mortimer Davis|Sir Mortimer Davis's]] house, Pine Avenue. Built in 1907, designed by [[Robert Findlay (architect)|Robert Findlay]]. Today it is owned by [[McGill University]] and known as Purvis Hall.
+* James Thomas Davis House, Drummond Street. Built by the Maxwells in 1908, it is now part of [[McGill University]].<ref>{{cite web|url=http://cac.mcgill.ca/maxwells/details.php?recordCount=64&Page=4&id=368&pn=&cn=Canada&pr=QC&ct=Montreal&str=&mj=All&mn=All&sta=Built|title=McGill Centre for Architecture}}</ref>
+* [[Linton Apartments]], Sherbrooke Street West. Built in 1908.
+* Percy Cowans House, Ontario Avenue. Built by the Maxwells in 1909. The main structure survives and the house has been subdivided into apartments.<ref>{{cite web|url=http://cac.mcgill.ca/maxwells/details.php?recordCount=64&Page=4&id=355&pn=&cn=Canada&pr=QC&ct=Montreal&str=&mj=All&mn=All&sta=Built|title=McGill Centre for Canadian Architecture}}</ref>
+* [[J.K.L. Ross]] House, Peel Street. Built in 1910, today part of [[McGill University]].
+* [[Joseph-Marcellin Wilson]] House, Ontario Avenue. Built 1910, still standing.
+* Charles G. Greenshields House, McGregor Street. Built 1911, still standing.
+* [[Herbert Molson]] House, Ontario Avenue. Built in 1912, designed by [[Robert Findlay (architect)|Robert Findlay]]. It is still standing.
+* [[Edward Wentworth Beatty|''Chancellor Beatty Hall'']], Pine Avenue. Built in 1912, by Morely Hogle for Albert Edmund Holt. Purchased by [[Edward Wentworth Beatty|Sir Edward Beatty]] in 1924. Today part of [[McGill University|McGill]].
+* ''University Club'', Mansfield Street. Built 1913 to the design of [[Percy Nobbs]].
+* [[Rodolphe Forget|Sir Rodolphe Forget]] House, Ontario Avenue. Built in 1912, now offices.
+* Charles Edward Deakin House, Redpath Crescent. Built 1913, still standing.
+* Kenneth Molson House, Pine Avenue, at the top of Mountain Street. Built in 1914, the house of 47 rooms stood six storeys high and was complete with an [[elevator]] and a built-in [[vacuum cleaning]] system. There were seven master bedrooms, four bathrooms, a [[Conservatory (greenhouse)|conservatory]], a [[Billiard room]] and a [[Rifle range]]. There was a [[verandah]] on every floor, including one for the servants, and a two-car garage with [[chauffeur]]'s quarters.<ref>Montreal Gazette, June 1, 1938 - For Sale or to Let</ref> It was demolished after 1938.
+* [[Edmund Graves Meredith Cape]] House, Redpath Crescent. Built 1914, still standing.
+* Frederick Beardmore House, Pine Avenue. Built in 1914, afterwards purchased by [[Henry Worth Thornton|Sir Henry Worth Thornton]]. Still standing.
+* [[John Wilson McConnell|J.W. McConnell]] House. Built in 1914, for Colonel Jeffrey Hale Burland, afterwards purchased by McConnell. One of the very few which remains a private house.
+
+===World War I===
+[[File:Maison H.-Vincent-Meredith 02.jpg|thumb|left|upright|200px|[[Vincent Meredith|Sir Vincent and Lady Meredith]] converted their home, ''[[Lady Meredith House|Ardvana]]'' (above), into a rehabilitation centre for Canadian soldiers returning from [[Western Front (World War I)|the Front]]]]
+The men associated with the Beaver Club, the predecessors of the Square Milers, had almost all served in the Canadian Militia and on the outbreak of the First World War the next generation did not hesitate to take up arms. At his own expense, [[Andrew Gault|Hamilton Gault]] raised [[Princess Patricia's Canadian Light Infantry]], the last privately raised regiment in the British Empire. He was injured three times leading his regiment into battle, and even after losing a leg he still returned to the Front.<ref>Princess Patricia's Canadian Light Infantry (1972), by Jeffrey Williams</ref> [[Lord Strathcona's Horse (Royal Canadians)|Lord Strathcona's Horse]], raised by that [[Canadian peers and baronets|Canadian peer]] for the [[Second Boer War|Boer War]], was once again returned to action. The British Prime Minister [[David Lloyd George]] claimed to his biographer that had the war continued into 1919, he would have sought to replace [[Douglas Haig, 1st Earl Haig|Field Marshal Douglas Haig]] with the Square Mile's [[Arthur Currie|General Sir Arthur Currie]].<ref name = flanders>{{cite book| last = Dancocks| first = Daniel G.| title = Welcome to Flanders Fields| publisher = McLelland and Stewart| year = 1988| location = Toronto| page = [https://archive.org/details/welcometoflander0000danc/page/245 245]| isbn = 0-7710-2545-9| url-access = registration| url = https://archive.org/details/welcometoflander0000danc/page/245}}</ref>
+
+The Ladies of the Square Mile raised money for the troops and some like [[Vincent Meredith|Lady Meredith]], the [[Andrew Gault|Gault]]s and the [[Alfred Baumgarten|Baumgarten]]s opened their houses to injured soldiers returning from [[Europe]]. The personal services in [[England]] of the [[Canadian Red Cross]] were under the charge of [[George Alexander Drummond|Lady Julia Drummond]] who saw that each Canadian soldier returned to an English hospital received a visit offering sympathy and supplying any basic needs. When [[Martha Allan]] trained as a [[nurse]] and bought an ambulance which she drove in [[France]], her mother was inspired to set up a hospital in [[England]] for Canadian soldiers.
+
+Economically, [[Montreal]] would emerge from the war nearly unscathed, due in a large part to the steady hand of the president of the Bank of Montreal, [[Vincent Meredith|Sir Vincent Meredith]]. In 1919, fifty families were said to have controlled a third of Canada's invested wealth,<ref name="The Square Mile 1987"/> and the great majority of them were based in [[Montreal]].
+
+===The end of an era===
+[[File:St. James Street, Montreal - 1872.jpg|thumb|The [[Molson Bank]] on St. James Street, [[Montreal]], in 1872]]
+[[File:St. James Street, Montreal, c.1895.jpg|thumb|upright|St. James Street, the financial centre of [[Montreal]] at its peak in 1895]]
+[[File:Sun-Life-Building-June-2007.jpg|thumb|upright|Built in 1931, the [[Sun Life Building]] on Dorchester Square was in its time the largest edifice in the [[British Empire]]]]
+The Square Mile had reached its peak in the [[Edwardian era]], both in spirit and substance. What followed was a steady decline as aggressive American-style corporations took control of the family businesses whose origins laid with the [[Scots-Quebecer]]s and the Beaver Club. "New money" swept into Montreal from the United States, [[Western Canada]] and, such as the [[Bronfman family]], from different ethnic backgrounds.<ref>Remembrance of Grandeur: The Anglo-Protestant elite of Montreal, 1900-1950; Margaret W. Westley (1990)</ref> Similarly to the [[Canadiens]] of the [[Ancien Régime]] a [[century]] before, the Square Milers with their old-fashioned British ideals and business principles did not adapt to the changes in society and held themselves aloof. Newcomers, who neither knew nor cared about the [[wikt:Old guard|old guard]] and their traditions, were more often than not barred from entry into Square Mile society (such as membership to Montreal's most prestigious men's club, the Mount Royal), but this only served to further alieniate the declining [[enclave]].
+
+Changing attitudes, [[First World War|the war]], the introduction of [[income tax]] and the invasion of commerce in the streets below [[Sherbrooke Street|Sherbrooke]] all played their part in the decline. The [[Wall Street Crash of 1929]] affected a great number of Square Milers, though not as badly as it did their American counterparts. Art collections were sold and some tried to sell their houses, but there were no takers. The [[J.K.L. Ross]] House was sold for $50,000 in 1930, only a few years after it had been valued at $1 million. Those who had relied on investments moved to smaller, more heat-efficient houses in Westmount or took apartments at the [[Ritz-Carlton Montreal]], whereas others like [[Herbert Samuel Holt|Sir Herbert Samuel Holt]], who never dealt on margin, emerged untouched.
+
+The [[Great Depression in Canada]] during the 1930s fueled the [[Quebec nationalist]] movement and set the course for the Quiet Revolution. The social divide between anglophone employers and French Canadian workers in Quebec had existed for a long time, but the economic turmoil of the Great Depression led to calls for change from the status quo. For the next four decades the [[Union Nationale (Quebec)|Union Nationale]] government, with the support of the [[Catholic Church]], dominated Quebec politics, undermining anglophone domination.
+
+In 1977, the newly elected Parti Québécois (PQ) government passed the [[Charter of the French Language]] (known as Bill 101), making the use of [[French language]] mandatory for medium and large-scale companies when communicating with French-speaking staff. This law, the election of the PQ, and the threat of Quebec independence caused instability in the province's business environment, and accelerated the move of some companies' headquarters from Montreal to other Canadian cities, including Calgary and Toronto.<ref>{{Cite news|url=https://www.nytimes.com/1979/07/23/archives/montreals-malaise-aggravated-by-separatism-vote-a-longstanding.html|title=Montreal's Malaise Aggravated by Separatism Vote|last=Giniger|first=Henry|date=1979-07-23|work=The New York Times|access-date=2018-03-28|language=en-US|issn=0362-4331}}</ref> Some companies remained in Montreal, including the [[Montreal Exchange]] and [[North America]]'s oldest [[brewery]] [[Molson]]s, but others moved their headquarters elsewhere, such as the [[Bank of Montreal]], [[Sun Life Building|Sun Life Financial]], the [[Royal Bank of Canada|Royal Trust]] and [[The Guarantee Company of North America]]. Toronto had surpassed Montreal as the financial capital of Canada in 1934, and the move of these companies out of Montreal marked the end of an era.
+
+==Demolition==
+[[File:Marjory Meredith Clouston at the corner of Drummond and Sherbrooke, Montreal, 1902.jpg|thumb|upright|right|Marjory [[Edward Clouston|Clouston]] on Sherbrooke Street with [[Drummond Street, Montreal|Drummond Street]] leading up to Mount Royal behind her, 1902]]
+[[File:Rue drummond.jpg|thumb|left|[[Drummond Street, Montreal|Drummond Street]] in 2009, looking down from Mount Royal towards Sherbrooke]][[File:Royal Victoria Hospital 04.jpg|thumb|left|The [[Royal Victoria Hospital, Montreal|Royal Victoria Hospital]] could soon be sold to real estate developers contravening the [[caveat venditor|caveat]] that the land be used for hospitals only]]
+[[File:Maison Frederick Redpath 2.JPG|thumb|left|The Sochaczevski family bought Francis Redpath House in 1986, with intention to [[demolition|demolish]] it, and despite signing an agreement to maintain it, allowed the house fall into disrepair over the course of 28 years. It was demolished in 2014.]]
+By the end of [[World War II]], the homes within the Square Mile were for the most part left empty or only partially occupied. Montreal's central business district had shifted northwest toward Sherbrooke Street, in the area of the Square Mile. From 1945 to 1965, many of the great mansions were acquired by commercial and civic institutions and demolished or repurposed beyond all recognition.
+
+The majority of the mansions were demolished and replaced with high-rise office or residential developments, but some two dozen other homes were also transformed into university or commercial offices. Ravenscrag was left by Sir Montague and Lady Allan to the [[Royal Victoria Hospital, Montreal|Royal Victoria Hospital]] in 1942. The sumptuous residence was converted into the [[Allan Memorial Institute]], and [[McGill University]] used its fourteen acres of grounds to erect subsidiary buildings.
+
+Some demolitions were controversial. The [[Van Horne Mansion]], the centre of Square Mile society since the 1930s was demolished by promoter [[David Azrieli]] in 1973, igniting a vigorous public debate regarding conservation of historical buildings, and the reasons for which a building should be preserved. The demolition of the Van Horne mansion led to the establishment of [[Heritage Montreal]] to protect historic buildings at the provincial level. The architectural character of the neighbourhood stabilized, but the original Square Mile as it had been had already changed beyond recognition.
+
+==Prospect of further demolition==
+Modern architecture has emphasised the integration of older buildings with new developments. An example is [[Maison Alcan]], formerly the home of [[Lord Atholstan]], which became the headquarters of [[Alcan]] in the early 1980s. Another example is [[Lady Meredith House]], home to [[McGill University|McGill]]'s Centre for Medicine, Ethics and Law, which was broken into and set on fire in the 1990s.<ref>{{cite web|url=http://cac.mcgill.ca/campus/buildings/Lady_Meredith_House.html|title=Lady Meredith House "Ardvarna"|first=David|last=Johnson|website=cac.mcgill.ca}}</ref> McGill subsequently renovated and retrofitted the old house to its original elegance, hiring Julia Gersovitz, a McGill graduate and professor.<ref>[http://www.waterfurnace.com/pdfs/casestudies/wf924.pdf Last Century's Structure Retrofitted for the Next - Waterfurnace International Inc.] {{webarchive|url=https://web.archive.org/web/20150823225414/http://www.waterfurnace.com/pdfs/casestudies/wf924.pdf |date=2015-08-23 }}</ref> However, threats to the built heritage of the Square Mile remain.
+
+===Royal Victoria Hospital===
+The buildings formerly occupied by the [[Royal Victoria Hospital, Montreal|Royal Victoria Hospital]] and the remaining property on which they stand have been empty since 2015, when the hospital itself moved into the new 'McGill Superhospital' in the Glen Yards.<ref>{{cite web|url=http://blogs.montrealgazette.com/2012/01/26/montreals-superhospital-construction-checkup/|title=Montreal's superhospital construction check up|date=26 January 2012|access-date=23 June 2012|archive-date=30 April 2012|archive-url=https://web.archive.org/web/20120430165254/http://blogs.montrealgazette.com/2012/01/26/montreals-superhospital-construction-checkup/|url-status=dead}}</ref> The Royal Vic, a veritable Montreal landmark, has been expanded several times since it was built in 1893, and the changes have never before been cause for concern. In 1891, the public-spirited Lords [[Lord Mount Stephen|Mount Stephen]] and [[Lord Strathcona|Strathcona]] purchased the land and gave the necessary funds to the [[City of Montreal]] for which to build the hospital. However, they attached a caveat to their donation, stating that the land and its buildings must only ever be used for education and healing.<ref name="youtube.com">{{cite web|url=https://www.youtube.com/watch?v=vv-fVyiHaxo|title=Elspeth Angus and the Royal Victoria hospital|last=Montreal Gazette|date=16 December 2010|via=YouTube}}</ref>
+
+From 2010, Elspeth Angus (born in 1929), a descendant of [[Richard B. Angus|R.B. Angus]] and an heir as the grand-niece of [[Lord Mount Stephen]], has been fighting to maintain not just the wishes but the conditions set down by the founders to the city, and find use for the land and its buildings as a [[Research institute|research facility]].<ref name="youtube.com"/> [[Heritage Montreal]] are also supporting her in her efforts. In 2014, McGill University released a proposal for the integration of the site into the McGill campus.<ref>{{cite news|title=McGill University outlines plan for Royal Victoria Hospital|url=http://www.cbc.ca/news/canada/montreal/mcgill-university-outlines-plan-for-royal-victoria-hospital-1.2621626|access-date=29 August 2015|publisher=CBC News|date=April 25, 2014}}</ref>
+
+===Francis Redpath Mansion===
+
+Built in 1886, it was designed by the noted architect [[Andrew Taylor (architect)|Sir Andrew Taylor]] and was one of the last of his residential projects still standing in the city. In 1986, the Sochaczevski family, the new owners of Francis Redpath's house, began demolition in order to replace it with yet another a vista-changing [[Condominium (living space)|condominium]] block. A portion of the house was destroyed before a [[injunction|court injunction]] was taken out and its destruction was temporarily halted.<ref name="heritagemontreal.org"/>
+
+In 2001, Mayor [[Pierre Bourque (politician)|Pierre Bourque]] granted immediate demolition of the house. In 2002, following intervention by [[Heritage Montreal]], [[Projet Montréal]] and local citizens, the ''Commission d'arbitrage de la Ville de Montréal'' refused the demolition permit granted by the Bourque administration, on the grounds of the solidity of the house and reminding the owner of his obligation to keep it in good condition—the Sochaczevski family had signed an agreement with the [[Montreal City Council]] to maintain the house when they bought it in 1986, but did nothing to maintain, protect or stabilize it.<ref name="heritagemontreal.org"/><ref name="thelinknewspaper.ca">[http://thelinknewspaper.ca/article/910/ (Four Stories) Above the Law Forthcoming Redpath Development Violates Montreal's Zoning Bylaw, published in ''The Link'', Concordia University's Independent Newspaper, 31 January 2011]</ref>
+
+As a mayoral candidate, [[Gérald Tremblay]] portrayed himself as a defender of the Redpath house and heritage buildings, but as soon as he gained office—strongly backed by [[The Suburban]] newspaper, owned by the Sochaczevski family—he considered a plan to allow demolition to continue.<ref>{{cite web|url=http://projetmontreal.org/communiques/projet-montral-s-oppose-la-dmolition-de-la-maison-redpath_fr/?lang=en|title=Projet Montreal Opposes Redpath Mansion Demolition - January 13, 2011|access-date=June 23, 2012|archive-url=https://web.archive.org/web/20140322014015/http://projetmontreal.org/communiques/projet-montral-s-oppose-la-dmolition-de-la-maison-redpath_fr/?lang=en|archive-date=March 22, 2014}}</ref> He withdrew his support after the [[Montreal Museum of Fine Arts]] stepped in to object.<ref>{{cite web|url=http://www.myvirtualpaper.com/doc/West-end-Times/16.21westendtimes/2011020401/7.html#6|title=West End Times, February 6, 2011|access-date=June 23, 2012|archive-url=https://web.archive.org/web/20140322013516/http://www.myvirtualpaper.com/doc/West-end-Times/16.21westendtimes/2011020401/7.html#6|archive-date=March 22, 2014}}</ref>
+
+In December 2013, Mayor [[Denis Coderre]] approved the final demolition permit, to be carried out in February 2014. It was demolished on March 19, 2014, just two weeks after Quebec Culture and Communications Minister [[Maka Kotto]] intervened to order a halt to the mansion's demolition, in accordance with the Cultural Heritage Act, the Court intervened—at the owner's request—to shorten the period granted in the minister's order. Heritage Montreal expressed regret that the discussions were limited to the owner and the minister, not the community nor municipal authorities. After these talks with the owner, Kotto concluded that Redpath House "does not present a national heritage interest," and gave the go ahead for it to be torn down to make for way for the promoter's development.
+
+==Institutions associated with the Golden Square Mile==
+
+The Square Milers built and funded various Montreal institutions including:
+* [[McGill University]]
+* [[Royal Victoria Hospital, Montreal|Royal Victoria Hospital]]
+* [[Montreal General Hospital]]
+* [[McCord Museum]]
+* [[Montreal Museum of Fine Arts]]
+* [[Mount Royal|Mount Royal Park]]
+* [[Mount Royal Cemetery]]
+* [[Charles Sandwith Campbell|Campbell Concerts and Parks]]
+* [[Ritz-Carlton Montreal|Ritz-Carlton Hotel]]
+* [[Redpath Library]]
+* [[Redpath Museum]]
+* [[Allan Memorial Institute]]
+* [[Molson Stadium]]
+* [[Royal Montreal Curling Club]]
+* [[Montreal Forum]]
+* [[Rackets (sport)|Montreal Rackets Club]]
+* [[Montreal Snow Shoe Club]]
+* [[Montreal Lacrosse Club]]
+* [[Mount Royal Club]]
+* [[Royal Montreal Golf Club]]
+* [[Montreal Victorias]]
+* [[Montreal AAA]]
+* [[Montreal Winter Carnival ice hockey tournaments|Montreal Winter Carnival]]
+* [[Mount Royal Tennis Club]]
+* [[Saint James's Club of Montreal]]
+* [[Victoria Skating Rink]].
+
+==See also==
+
+*[[Beaver Club]]
+*[[Bridle Path, Toronto|Bridle Path in Toronto]]
+*[[Canadian peers and baronets|Canadian Peers and Baronets]]
+*[[Royal Victoria Hospital, Montreal]]
+*[[Bishop's College School]]
+*[[1901 Redpath Mansion murders]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Doug Bellevue. Montreal's Golden Square Mile: A Neighborhood.
+* Donald MacKay, ''The Square Mile, Merchant Princes of Montreal'', Douglas & McIntyre, Vancouver, 1987, 224 pp.
+* Westley, Margaret W. (1990). ''Remembrance of Grandeur: The Anglo-Protestant Elite of Montreal, 1900-1950'', Libre expression, 331 p. ({{ISBN|2891114396}})
+* {{cite book |author=Rémillard, François & [[Brian Merrett]] |title=Mansions of the Golden Square Mile |publisher=Meridian Press |year=1987 |isbn=2-920417-25-8}}
+* Dimitry Anastakis, Elizabeth Kirkland, Don Nerbas. ''Montreal's Square Mile: The Making and Transformation of a Colonial Metropole''. University of Toronto Press, 2023.
+* Smith, MacKay L. ''Montreal's Golden Square Mile: A Historical Perspective''. Montreal: InfiniteBooks, 2016.
+
+==External links==
+{{Commons category|Golden Square Mile}}
+* [https://www.youtube.com/watch?v=vv-fVyiHaxo Youtube video of Elpseth Angus discussing the future of the Royal Victoria Hospital, Montreal]
+* [http://www.imtl.org/ Images de Montréal]
+* Virtual McGill – Canadian Architecture Collection, McGill University. [http://cac.mcgill.ca/campus/areas/square.html Golden Square Mile Mansions]
+* {{in lang|fr}} [http://ville.montreal.qc.ca/portal/page?_pageid=87,1425308&_dad=portal&_schema=PORTAL Quartier du Musée - Ville de Montréal]
+* [https://web.archive.org/web/20080528094749/http://quartierdumusee.com/index2.html Quartier du Musée - official website]
+* [https://web.archive.org/web/20101227091229/http://www.montrealbear.ca/English02.html Montrealbear.ca - The Golden Square Mile District]
+*[http://www.walkmontreal.com/walks/golden-square-mile Walk in Golden Square Mile]
+
+{{MontrealNeighbourhoods}}
+{{MtlHist}}
+{{Golden Square Mile Mansions}}
+{{Authority control}}
+
+[[Category:Neighbourhoods in Montreal]]
+[[Category:History of Montreal]]
+[[Category:Historic districts in Canada]]
+[[Category:Economic history of Canada]]
+[[Category:Art gallery districts]]
+[[Category:Historic mansion districts]]
+[[Category:Quebec Anglophone culture in Montreal]]
+[[Category:Ville-Marie, Montreal]]
+[[Category:Upper class]]

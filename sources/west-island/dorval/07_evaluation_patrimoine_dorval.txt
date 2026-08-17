@@ -1,0 +1,2125 @@
+      Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Dorval — L’ Île-Dorval
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+
+
+
+
+               Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Dorval — L’ Île-Dorval
+Étude réalisée par le Service de la mise en valeur du territoire et du patrimoine
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+
+
+
+Cette analyse du patrimoine urbain a été réalisée par la Division du patrimoine et de la toponymie sous la direction de Jean-François Gravel,
+chef de division. Le travail a été effectué de janvier 2003 à mai 2004 dans le cadre de la préparation du Plan d’urbanisme de la Ville de
+Montréal, qui a été adopté par le Conseil municipal le 23 novembre 2004. L’équipe du projet comprend, pour l’évaluation du patrimoine bâti
+et la recherche historique, Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre et Pierre-Paul Savignac,
+architectes, et Denise Caron, historienne. La recherche et l’écriture pour le patrimoine archéologique ont été réalisées par Claire Mousseau,
+archéologue, avec la collaboration de Françoise Duguay, François Bélanger, Anne-Marie Balac et Christian Roy, également archéologues.
+De plus, Gisèle Trépanier, conseillère en aménagement, et Nicole Halpert, chargée de communication, ont participé à la révision des textes
+tandis que Ginette Bouchard, secrétaire d’unité administrative, a procédé à la saisie de texte. Finalement, nous tenons à remercier nos
+collaborateurs des directions de l’aménagement urbain et des services aux entreprises des arrondissements.
+
+
+
+Remerciements
+
+Rendus cartographiques :
+Division des politiques et du Plan d’urbanisme
+Révision linguistique :
+Sylvie Poulin
+Conception graphique et mise en page :
+Marie Violaine Lamarche
+Photographies :
+Ville de Montréal, Bibliothèque nationale du Québec, P. Fauteux
+
+
+
+Ce document fait partie d’une série de cahiers qui ont été réalisés pour chacun des 27 arrondissements de la Ville de Montréal. Les différents
+cahiers d’évaluation du patrimoine urbain peuvent être consultés sur notre site internet à l’adresse suivante : ville.montreal.qc.ca/patrimoine
+
+
+
+ISBN 2-7647-0450-X
+
+Dépôt légal – Bibliothèque nationale du Québec, 2005
+Dépôt légal – Bibliothèque nationale du Canada, 2005
+
+
+
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+   TABLE DES MATIÈRES
+ARRONDISSEMENT
+         de Dorval–L’Île-Dorval
+ 7           A VA N T- P R O P O S
+
+ 9   1.      CADRE MÉTHODOLOGIQUE
+
+ 9   1.1     Introduction
+ 9   1.2     Le cadre bâti d’intérêt patrimonial
+ 9   1.2.1   Approche, étapes et résultats
+11   1.2.2   Critères de sélection
+14   1.3     Les tracés fondateurs d’intérêt patrimonial
+14   1.4     Le patrimoine archéologique
+14   1.4.1   Le caractère spécifique de ce patrimoine
+16   1.4.2   La démarche générale d’acquisition de connaissances et de conservation
+17   1.4.3   L’approche méthodologique et l’identification du patrimoine
+             archéologique au Plan d’urbanisme
+19   1.5     Nouvelles perspectives
+
+21   2.      HISTORIQUE
+
+23   3.      É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+23   3.1     Mise en situation
+23   3.2     Résultat de l’analyse
+23   3.2.1   Les tracés fondateurs d’intérêt patrimonial
+25   3.2.2   Le cadre bâti d’intérêt patrimonial
+25           A Les secteurs de valeur patrimoniale exceptionnelle
+28           B    Les secteurs de valeur patrimoniale intéressante
+30           C Les ensembles urbains d’intérêt
+33           D Les immeubles de valeur patrimoniale exceptionnelle
+34           E    Les immeubles de valeur patrimoniale intéressante
+34           F    Les éléments particuliers du paysage
+                  Carte synthèse : Évaluation du patrimoine urbain
+39   3.2.3   Le patrimoine archéologique
+40           A Les secteurs d’intérêt archéologique à fort potentiel
+42           B    Les secteurs d’intérêt archéologique
+                  Carte synthèse : Le patrimoine archéologique
+
+45   4.      R E C O M M A N D AT I O N S
+
+45   4.1     Générales à l’échelle de l’arrondissement
+46   4.2     Générales à l’échelle montréalaise
+47   4.3     Spécifiques à l’arrondissement
+
+49           BIBLIOGRAPHIE
+                              A VA N T- P R O P O S
+
+
+
+
+Le repérage du patrimoine urbain dont nous faisons             C’est la première fois que l’on entreprend un tel travail
+état ici a été réalisé dans le cadre de l’élaboration du       pour les 27 arrondissements de l’île, travail qui suppose
+Plan d’urbanisme de la Ville de Montréal, qui a été            non seulement l’examen de nouvelles thématiques et
+adopté par le Conseil municipal le 23 novembre 2004.           l’établissement de collaborations avec les arrondisse-
+                                                               ments de Montréal, mais aussi une harmonisation
+Le chapitre 2 de la première partie du Plan d’urbanisme        des visions et des représentations que les arrondisse-
+formule différentes orientations d’aménagement                 ments ont de leur patrimoine. Par exemple, dans
+pour Montréal et comprend une section sur le patri-            certains cas, seul le patrimoine du Régime français
+moine bâti, archéologique et naturel. Le repérage              était privilégié; ailleurs, on n’avait jamais considéré
+des secteurs et bâtiments d’intérêt patrimonial et des         que le parc immobilier plus récent puisse avoir une
+secteurs d’intérêt archéologique contribuera à atteindre       valeur patrimoniale. Ce repérage connexe au Plan
+l’objectif de conservation énoncé dans le Plan. Il a été       d’urbanisme constitue donc une chance unique de
+mené par la Division du patrimoine et de la topo-              faire converger des visions différentes et d’envisager
+nymie en collaboration avec la Division des politiques         le patrimoine de l’ensemble des arrondissements de
+et du Plan d’urbanisme du Service de la mise en                Montréal dans une perspective commune.
+valeur du territoire et du patrimoine, de janvier 2003
+à mai 2004. En ce qui a trait aux sites archéologiques
+recensés, la liste a été mise à jour en mars 2004.
+
+Préparés par la Division du patrimoine et de la topo-
+nymie, les « Cahiers d’arrondissement » présentent
+la méthodologie du travail de repérage, un bref his-
+torique de chacun des arrondissements, les résultats
+complets du repérage du patrimoine bâti et archéo-
+logique, la justification des choix des secteurs, des
+recommandations et une bibliographie. Ces cahiers,
+qui constituent un document d’appoint au Plan
+d’urbanisme, s’adressent d’abord aux citoyens et
+aux gestionnaires des arrondissements afin de les
+sensibiliser à l’importance de conserver le patrimoine
+de leur localité, ainsi que de les aider à mieux com-
+prendre le territoire et à développer des outils de
+gestion et de contrôle appropriés pour assurer la
+conservation de leur patrimoine urbain.
+
+
+
+
+                       ARRONDISSEMENT                                                                                 7
+                                      de Dorval–L’Île-Dorval
+1.
+1.1 Introduction
+                               CADRE MÉTHODOLOGIQUE
+
+
+
+                                                                1.2 Le cadre bâti d’intérêt patrimonial
+Le patrimoine urbain montréalais ne se limite pas à             1.2.1 Approche, étapes et résultats
+une addition de bâtiments individuels de grand intérêt.
+                                                                L’approche choisie pour la sélection des bâtiments et
+Il porte aussi l’empreinte des époques passées sous
+                                                                secteurs s’appuie sur le concept de paysage urbain
+forme de tracés de rues, de paysages, de constructions,
+                                                                développé par Kevin Lynch, selon lequel le territoire
+d’éléments naturels, de vestiges archéologiques ou
+                                                                se découvre à partir de l’intérieur et non à vol d’oiseau
+de vues exceptionnelles. Le patrimoine urbain forme
+                                                                (en plan), et se compose d’une succession de séquences
+l’environnement dans lequel nous vivons aujourd’hui
+                                                                visuelles expérimentées le long d’un parcours.
+et chacune de ses composantes entretient des relations
+complexes avec les autres. Ainsi, un bâtiment contribue         Cette approche, basée sur l’expérience spatiale, com-
+à la qualité et à l’identité d’un lieu, et inversement,         porte au moins deux implications. L’une marque notre
+certaines qualités qui lui sont extérieures rehaussent          préférence pour la considération des bâtiments
+son attrait. Par exemple, une église et une école               exceptionnels ou intéressants dans leur contexte
+donnant sur un parc ajoutent à son intérêt; un amé-             plutôt qu’en tant qu’objets isolés. L’autre est que les
+nagement paysager particulier, tel un écrin, peut con-          limites des secteurs sélectionnés sont déterminées
+tribuer à rehausser la valeur patrimoniale d’un bâtiment;       par le champ visuel. Ces limites ne sont donc pas
+une habitation plutôt modeste peut se trouver dans              arbitrairement placées au centre des rues mais bien
+un secteur qui présente de belles qualités d’ensemble           au fond des lots afin d’englober toutes les com-
+(homogénéité, couvert végétal, etc.) ; et des rues peu-         posantes du champ visuel.
+vent offrir des vues exceptionnelles sur un élément
+naturel ou construit. La nature multidimensionnelle             Même si elles sont réalisées pour tout le territoire de
+du patrimoine urbain fait qu’on ne peut considérer              la ville de Montréal, la sélection et la qualification des
+ses composantes isolément. Ainsi, l’ancienneté, le              bâtiments et secteurs patrimoniaux peuvent contribuer
+potentiel d’évocation historique, la qualité architec-          à faire ressortir la spécificité des arrondissements. En
+turale, l’harmonie et les qualités visuelles, la présence       effet, Montréal est composée de différents territoires
+d’éléments naturels, le tracé des rues, le potentiel ou         qui possèdent une identité et une histoire propres qui
+l’intérêt archéologique sont autant de facteurs que             méritent d’être reconnues. Nous avons pris le parti de
+nous avons pris en compte afin de jeter les bases d’une         choisir l’arrondissement comme échelle d’observation
+meilleure intégration du patrimoine aux probléma-               du territoire afin de dégager ces spécificités locales.
+tiques urbaines.                                                De la sorte, les arrondissements qui ont connu un
+                                                                développement plus récent sont également considérés
+La structure méthodologique comprend trois volets.              et les particularités de leur patrimoine sont reconnues.
+Le premier traite de l’approche et des critères employés
+pour le cadre bâti d’intérêt patrimonial, le second
+explique ce que nous entendons par la notion de tracés
+fondateurs d’intérêt patrimonial, et le troisième expose
+les critères utilisés pour le patrimoine archéologique.
+
+
+
+
+                       ARRONDISSEMENT                                                                                   9
+                                       de Dorval–L’Île-Dorval
+Si ce repérage fondé sur l’expérience spatiale prend           13) Préparation des cartes et listes finales.
+largement appui sur un travail d’observation sur le            14) Identification de quelques bâtiments et secteurs
+terrain, il n’aurait pu être achevé sans l’étude de                d’intérêt patrimonial exceptionnel qui se démar-
+sources documentaires. Bien qu’il ne s’agisse pas d’un             quent à l’échelle montréalaise (les incontournables).
+processus linéaire, voici les principales étapes suivies
+                                                               Tout au long des différentes étapes du projet, les résul-
+par la Division du patrimoine et de la toponymie :
+                                                               tats du travail ont été bonifiés par les connaissances
+1) Préparation de critères de sélection.                       des professionnels des arrondissements et de divers
+2) Rencontre avec chacun des 27 arrondissements pour           comités rattachés à la préparation du Plan d’urbanisme.
+    exposer la démarche et les critères de sélection.
+                                                               Les résultats du repérage du patrimoine urbain se
+3) Visite du territoire de chacun des arrondissements
+                                                               présentent sous forme de listes de bâtiments et de
+    avec les professionnels concernés.
+                                                               cartes définissant des secteurs d’intérêt. Il est important
+4) Recherche et étude de la documentation existante
+                                                               de comprendre que ces deux éléments ne peuvent
+    pour chacun des arrondissements :
+                                                               être dissociés l’un de l’autre – ils sont complémentaires.
+    – inventaires, études patrimoniales, études typo-
+                                                               Ainsi, on a inclus dans les listes tous les bâtiments
+      morphologiques, monographies, dépouillement
+                                                               exceptionnels de chacun des arrondissements, mais il
+      de périodiques, bases de données (Service des
+                                                               était impossible d’inscrire tous les bâtiments intéres-
+      immeubles, Communauté urbaine de Montréal,
+                                                               sants, étant donné leur trop grand nombre. Nous nous
+      Fondation du patrimoine religieux, etc.) ;
+                                                               sommes donc limités à nommer individuellement les
+    – cartographie ancienne et photos aériennes.
+                                                               bâtiments qualifiés d’intéressants qui se trouvaient
+5) Collecte d’informations thématiques :
+                                                               à l’extérieur de secteurs d’intérêt. Ces deux outils
+    – inventaires (les églises, les écoles, etc.),dépouille-
+                                                               doivent donc être interprétés en complémentarité.
+      ment de périodiques (le patrimoine moderne, etc.);
+    – consultation d’un expert en patrimoine industriel.       Le système d’identification des secteurs utilisé dans
+6) Élaboration d’un historique et d’une bibliographie          le document correspond à celui des cartes. Le premier
+    pour chacun des arrondissements.                           chiffre correspond au numéro d’arrondissement. Il est
+7) Analyse de la documentation et détermination                suivi de la lettre E pour les secteurs de valeur patri-
+    préliminaire des territoires et immeubles d’intérêt        moniale exceptionnelle, de la lettre I pour les secteurs
+    pour chacun des arrondissements.                           de valeur patrimoniale intéressante, de la lettre N
+8) Travail sur le terrain : repérage en voiture et à pied      pour les secteurs industriels d’intérêt ou par la lettre U
+    avec la collaboration de certains arrondissements.         pour les secteurs urbains d’intérêt. Le deuxième chiffre
+9) Photographies et report des données spatiales               correspond au numéro du secteur.
+    sur des cartes.
+10) Vérification de la cohérence du traitement des             L’échéancier de réalisation du Plan d’urbanisme,
+    secteurs d’intérêt qui chevauchent plusieurs               les ressources disponibles ainsi que l’état actuel des
+    arrondissements.                                           connaissances sur les différents bâtiments et lieux
+11) Catégorisation des secteurs et immeubles d’intérêt         d’intérêt ont été déterminants quant à la méthodologie
+    patrimonial (exceptionnels et intéressants).               adoptée. Ces contraintes inévitables ont constitué un
+12) Rédaction de courts textes résumant l’intérêt              défi de taille pour la production de ce document qui
+    patrimonial de chacun des secteurs sélectionnés.           est, malgré tout, une base solide à partir de laquelle
+                                                               on pourra amorcer une réflexion plus poussée sur la
+                                                               protection du patrimoine montréalais.
+
+
+
+
+10                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.2.2 Critères de sélection                                                 – Intéressants : ensembles comprenant plusieurs bâti-
+                                                                              ments et certaines caractéristiques environnementales
+LES SECTEURS D’INTÉRÊT PATRIMONIAL                                            qui présentent un intérêt patrimonial. Ce sont toutefois
+                                                                              des ensembles dont la trame urbaine peut avoir été
+Les secteurs d’intérêt patrimonial ont été sélectionnés
+                                                                              partiellement modifiée, qui ont pu connaître un
+sur la base des critères suivants1 :
+                                                                              certain nombre de perturbations et qui renferment
+– leur capacité de témoigner d’un thème ou d’un                               parfois des constructions peu intégrées à l’ensemble.
+  événement historique ;                                                      Certaines zones dont l’état est moins satisfaisant sur
+– leur qualité architecturale (forme, usage, technologie                      le plan architectural ou environnemental pourraient
+  constructive) ;                                                             présenter un intérêt si une action de mise en valeur
+– leur participation à la qualité de la vie urbaine                           était entreprise.
+  et du paysage.
+                                                                            Dans tous les cas, l’échelle de comparaison pour cette
+À titre d’exemple, on identifie le noyau originel                           qualification est l’arrondissement, c’est-à-dire que nous
+d’un village, un pôle d’activité lié à la concentration                     avons identifié les secteurs exceptionnels et intéres-
+d’équipements collectifs, un quartier ouvrier du début                      sants propres à l’arrondissement, ce qui fait ressortir
+du siècle, etc. Cette notion de patrimoine est englo-                       sa spécificité dans l’ensemble montréalais. Lorsqu’un
+bante et correspond aux nouvelles tendances                                 secteur se révèle avoir une importance à l’échelle
+véhiculées par les chartes internationales en matière                       montréalaise, on pourra recommander sa protection en
+de conservation.                                                            procédant à la constitution d’un site du patrimoine
+                                                                            en vertu de la Loi sur les biens culturels du Québec3.
+Tous les secteurs identifiés ont ensuite été qualifiés
+comme suit2 :
+
+– Exceptionnels: secteurs ayant conservé leurs qualités
+  au chapitre des aménagements urbains, des implan-
+  tations de bâtiments, de la géographie et des
+  paysages et qui regroupent des suites architecturales,
+  des alignements de bâtiments d’intérêt patrimonial,
+  des zones unifiées par une fonction ou une typologie
+  architecturale. Les ensembles de cette catégorie ont
+  subi relativement peu de perturbations et présentent
+  un caractère d’harmonie formelle et fonctionnelle.
+  De plus, ils sont souvent reconnus comme des
+  témoins historiques importants.
+
+
+
+
+1 Ces critères sont issus du document de travail Guide de gestion des       3 Conformément au document de travail Citation et constitution de sites
+  études patrimoniales préparé par la Division du patrimoine et de la         du patrimoine préparé par la Division du patrimoine et de la toponymie
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                de la Ville de Montréal en novembre 2003.
+2 Ces critères sont inspirés du Guide d’évaluation des biens culturels et
+  des districts historiques de la Ville d’Ottawa, 1987.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                     11
+                                                  de Dorval–L’Île-Dorval
+LES IMMEUBLES D’INTÉRÊT PATRIMONIAL                                            turale ainsi qu’à son lien particulier avec la trame
+                                                                               urbaine. Les critères utilisés sont les suivants6 :
+Les immeubles d’intérêt patrimonial ont été sélectionnés
+sur la base des critères suivants4 :                                           – la valeur historique et sociale d’une industrie dans
+                                                                                 le développement de l’arrondissement, de la ville
+– leur capacité de témoigner d’un thème ou d’un                                  ou même de la province et du pays ;
+  événement historique ;                                                       – l’intégrité du complexe (ancienneté, évolution
+– leur qualité architecturale (forme, usage, technologie                         architecturale, évolution technologique) ;
+  constructive) ;                                                              – le procédé de production particulier;
+– leur participation à la qualité de la vie urbaine et du                      – le lien avec les voies de transport ;
+  paysage.                                                                     – le lien avec le développement des quartiers ouvriers ;
+Cette notion de patrimoine est englobante et corres-                           – l’insertion dans le paysage urbain.
+pond aux nouvelles tendances véhiculées par les
+chartes internationales en matière de conservation.                            Finalement, tous les immeubles d’intérêt patrimonial
+Outre l’architecture monumentale, elle inclut donc                             ont été qualifiés comme suit7 :
+l’architecture vernaculaire, le patrimoine moderne, le                         – Exceptionnel : un bâtiment ancien par rapport aux
+patrimoine industriel, etc.                                                      autres bâtiments de l’arrondissement construits aux
+Dans les cas du patrimoine moderne et du patrimoine                              mêmes fins et(ou) qui affiche des caractéristiques
+industriel, nous avons jugé utile d’utiliser des critères                        inhabituelles ou remarquables quant à son architecture
+spécifiquement adaptés à ces réalités.                                           (par rapport à des bâtiments comparables) et qui n’a
+                                                                                 pas subi de modifications extérieures importantes.
+Patrimoine moderne : Des bâtiments peuvent être                                  De plus, il sert souvent de point de repère ou est
+considérés comme faisant partie du patrimoine                                    reconnu comme un témoin historique important.
+moderne s’ils ont été construits entre 1930 et 1975                            – Intéressant: un bâtiment qui n’est pas nécessairement
+et qu’ils illustrent les caractéristiques de cette époque                        plus ancien que ceux construits aux mêmes fins dans
+relativement5 :                                                                  l’arrondissement, qui affiche certaines caractéristiques
+                                                                                 inhabituelles ou remarquables par rapport à des
+– aux conditions sociales, économiques et politiques
+                                                                                 bâtiments comparables mais dans une moindre
+  changeantes ;
+                                                                                 mesure que dans la catégorie précédente, et qui
+– aux progrès technologiques rapides ;
+                                                                                 peut avoir subi quelques modifications.
+– aux nouvelles façons d’exprimer les formes et de
+  répondre aux besoins fonctionnels.
+
+Patrimoine industriel : Le patrimoine industriel
+commande aussi une adaptation des critères en usage
+pour reconnaître sa spécificité, notamment quant à
+la primauté de la fonction sur l’esthétique architec-
+
+
+
+
+4 Ces critères sont issus du document de travail Guide de gestion des          6. Ces critères proviennent de l’Évaluation du patrimoine industriel : critères
+  études patrimoniales préparé par la Division du patrimoine et de la             généraux, document préparé par Archémi pour le compte de la Ville de
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                    Montréal en 2003.
+5. Ces critères sont issus du Plan du réseau des lieux historiques nationaux   7. Ces critères sont inspirés du Guide d’évaluation des biens culturels et des
+   du Canada : La commémoration du patrimoine bâti canadien de l’ère              districts historiques de la Ville d’Ottawa, 1987.
+   moderne préparé par Parcs Canada en 2001.
+
+
+
+12                                                                             Évaluation du patrimoine urbain
+                                                                               Ville de Montréal
+Comme dans le cas des secteurs d’intérêt patrimonial,                      Les ensembles industriels d’intérêt : Le Plan
+l’échelle de comparaison pour ce travail de qualification                  d’urbanisme signale l’importance du patrimoine indus-
+est l’arrondissement, c’est-à-dire que nous avons                          triel montréalais en créant une catégorie particulière
+identifié les bâtiments exceptionnels et intéressants                      – Ensembles industriels d’intérêt. Cette catégorie
+propres à l’arrondissement, ce qui fait ressortir sa                       est d’autant plus justifiée que le regard posé sur ces
+spécificité dans l’ensemble montréalais. Lorsqu’un                         sites est différent en raison de leur taille et de leur
+bâtiment se révèle avoir une importance à l’échelle                        complexité, de la primauté de leur fonction sur
+montréalaise, on pourra recommander sa protection                          l’esthétique architecturale ainsi que de leur lien par-
+par la citation en vertu de la Loi sur les biens culturels                 ticulier avec la trame urbaine.
+du Québec8.
+                                                                           De plus, les ensembles industriels d’intérêt offrent des
+                                                                           possibilités de mise en valeur nombreuses et variées. Il
+                                                                           peut s’agir autant de restauration que d’interprétation
+NOTIONS NOUVELLES                                                          du lieu. Cette diversité d’interventions possibles com-
+Les ensembles urbains d’intérêt : Le Plan d’urban-                         mande une excellente connaissance des lieux et
+isme reconnaît l’intérêt de certains développements                        activités de production, laquelle est malheureusement
+résidentiels d’après-guerre, qui composent une part                        trop souvent embryonnaire actuellement. L’amélioration
+importante du patrimoine des anciennes banlieues,                          de cette connaissance est pourtant nécessaire pour
+en créant une catégorie appelée Ensembles urbains                          permettre des interventions éclairées et même inno-
+d’intérêt. On y retrouve, entre autres, des ensembles                      vatrices qui inscriront pleinement ce patrimoine dans
+homogènes de bungalows, des secteurs de maisons                            la vie urbaine contemporaine.
+qui adoptent le modèle développé par la Wartime                            Le critère qui préside à la sélection d’un ensemble
+Housing Limited ou des exemples des premières                              industriel d’intérêt est le regroupement particulièrement
+coopératives d’habitation. Leur repérage est exploratoire                  complexe de bâtiments industriels, structures de génie
+et vise à les intégrer au Plan en les reliant pour une                     civil, machines, instruments, outils et équipements divers
+première fois à des préoccupations de conservation du                      appartenant à une seule ou à plusieurs compagnies.
+patrimoine. Ces ensembles urbains d’intérêt ont été
+sélectionnés lorsqu’ils présentent les qualités suivantes:
+
+– ensemble représentatif des nouvelles façons
+  d’habiter qui sont apparues pendant la Seconde
+  Guerre mondiale;
+– ensemble représentatif du boom démographique
+  et du développement de la banlieue après la
+  Seconde Guerre mondiale;
+– projets d’ensemble présentant une certaine
+  homogénéité des caractéristiques architecturales.
+
+
+
+
+8 Conformément au document de travail Citation et constitution de sites
+  du patrimoine préparé par la Division du patrimoine et de la toponymie
+  de la Ville de Montréal en novembre 2003.
+
+
+
+
+                             ARRONDISSEMENT                                                                                       13
+                                                 de Dorval–L’Île-Dorval
+                                                                Plusieurs de ces chemins se sont transformés en
+1.3 Les tracés fondateurs d’intérêt                             autoroutes et boulevards, d’autres ont conservé un
+            patrimonial                                         potentiel évocateur du Montréal rural ancien, et
+                                                                quelques-uns se sont fortement urbanisés.
+Sur l’île de Montréal, l’organisation du territoire
+remonte dans certains cas au XVIIe siècle. De cette             Parmi ces tracés fondateurs, nous avons sélectionné
+organisation naissent les voies de circulation qui sont         les tronçons qui présentent un intérêt patrimonial
+souvent les marques les plus anciennes du Montréal              parce qu’ils relient toujours des bâtiments parmi les
+agricole qui prévalait avant l’urbanisation. En effet,          plus anciens de Montréal ou qu’ils sont bordés de
+dès 1663, les sulpiciens deviennent seigneurs de l’île          bâtiments d’intérêt patrimonial. Ces tracés servent
+de Montréal. Ils planifient alors le territoire pour l’ouvrir   en quelque sorte de fil conducteur pour la com-
+à la colonisation. Pour cela, l’île est divisée en côtes –      préhension du territoire. Ils permettent, entre autres,
+chacune, dénommée par les sulpiciens, désigne un                d’expliquer la présence d’un paysage rural ou de
+ensemble de terres pouvant compter quelques                     bâtiments anciens d’intérêt patrimonial qui apparais-
+dizaines de concessions et représentant une unité de            sent autrement un peu perdus dans la trame urbaine
+territoire. Les terres individuelles sont des bandes            actuelle. En reliant différents éléments isolés, ces
+parallèles étroites et longues. Pour chaque côte est            tronçons leur confèrent une importance accrue.
+prévu l’emplacement d’un chemin. Cela donne une
+idée du mode d’occupation du sol du système
+seigneurial mis en place sous le Régime français.
+Le système des côtes constitue la structure de base
+                                                                1.4 Le patrimoine archéologique
+du peuplement de l’île sur laquelle s’appuiera tout             1.4.1 Le caractère spécifique de ce patrimoine
+développement postérieur.
+                                                                Le patrimoine archéologique est «... la partie de notre
+En raison de l’insularité de la seigneurie de Montréal          patrimoine matériel pour laquelle les méthodes de
+et de la présence du mont Royal, ce système de côtes            l’archéologie fournissent les connaissances de base. Le
+présente toutefois une organisation originale. En               patrimoine archéologique englobe toutes les traces de
+effet, si dans la vallée du Saint-Laurent les côtes             l’existence humaine et concerne les lieux où se sont
+intérieures sont parallèles au fleuve, ce n’est pas             exercées les activités humaines, quelles qu’elles soient,
+nécessairement le cas à Montréal. C’est ainsi que, sur          les structures et les vestiges abandonnés de toutes
+l’ensemble de l’île, le réseau routier qui dessert ces          sortes, en surface, en sous-sol ou sous les eaux, ainsi
+côtes présente une configuration propre. Ce réseau              que le matériel qui leur est associé. Le patrimoine
+primitif, clairement illustré sur la carte de Jobin de          archéologique est une richesse culturelle fragile et non
+1834, montre l’ensemble des tracés fondateurs qui               renouvelable».9
+serviront par la suite d’épine dorsale au développe-
+ment des quartiers. Grâce à cette carte, on comprend
+bien la structure du réseau des chemins à son
+apogée, à l’époque où l’île de Montréal était encore
+très fortement rurale.
+
+                                                                9 Extrait de la Charte pour la protection et la gestion du patrimoine
+                                                                  archéologique, ICAHM, ICOMOS International, 1990.
+
+
+
+
+14                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La notion de patrimoine archéologique se rattache                 À L’ÉCHELLE DE L’ÎLE DE MONTRÉAL
+d’abord à un lieu physique, le site archéologique, qui
+                                                                  L’archipel de Montréal comprend trois nappes d’eau
+correspond à tout espace dont le sous-sol recèle des
+                                                                  importantes, trois canaux d’écoulement, une vingtaine
+vestiges d’occupation ancienne – ouvrages et cons-
+                                                                  de rapides, trois cents îles (dont deux majeures,
+tructions de tous types, objets témoins et tout autre
+                                                                  Montréal et Jésus) et plus de mille kilomètres de
+élément matériel issu de l’action humaine. Le caractère
+                                                                  rives. Montréal est également le point de rencontre
+enfoui des sites archéologiques fait que, contrairement
+                                                                  de trois grandes voies fluviales – le Saint-Laurent qui
+à d’autres catégories de biens patrimoniaux, ce
+                                                                  donne accès à l’Atlantique et aux Grands Lacs, le
+patrimoine constitue une ressource dont il est difficile
+                                                                  Richelieu d’où il est possible d’atteindre l’Hudson et
+de dresser rapidement un inventaire exhaustif. De
+                                                                  l’État de New York, ainsi que l’Outaouais qui ouvre la
+nombreux sites, de natures diverses et de toutes
+                                                                  porte vers l’ouest et le nord. L’importance de l’île de
+époques, restent ainsi à découvrir sur le territoire de
+                                                                  Montréal pour les Amérindiens s’explique tout parti-
+l’île de Montréal. Toute tentative de cerner la réalité du
+                                                                  culièrement par cette localisation à la confluence et à
+patrimoine archéologique ne pourra donc constituer
+                                                                  proximité de plusieurs cours d’eau. Ces axes hydro-
+qu’un exercice partiel de mise à jour des connaissances
+                                                                  graphiques sont les routes traditionnelles de commerce
+acquises. Cette part d’inconnu explique l’extrême vul-
+nérabilité de ce patrimoine et les difficultés particulières      au cours de la préhistoire et au début de la période
+d’en assurer la protection face aux exigences modernes            historique. De plus, l’île de Montréal, la plus grande
+du développement urbain.                                          de l’archipel, comporte des terrasses de quinze,
+                                                                  trente et cinquante mètres d’élévation ou même
+Un second aspect important a trait au patrimoine                  plus, en référence au mont Royal. Ces terres ont pu
+archéologique en tant qu’objet de connaissance.                   accueillir des populations humaines depuis 8 000 ans
+L’archéologie constitue une discipline dont une des               avant aujourd’hui, si l’on se fie aux premières décou-
+missions est l’étude des sociétés passées par l’inter-            vertes archéologiques effectuées dans la vallée du
+médiaire des vestiges matériels que ces sociétés ont              Saint-Laurent.
+laissés derrière elles. Il s’agit, de plus, de la seule
+discipline qui traite dans le temps et l’espace de                La plus ancienne manifestation humaine recensée sur
+l’évolution de l’ensemble des sociétés humaines. Sa               l’île de Montréal date de la fin de la période archaïque,
+                                                                  entre 5 000 et 4 000 ans avant aujourd’hui. Cette
+contribution est unique notamment en ce qui con-
+cerne la longue trajectoire suivie par l’humanité avant           occupation par les Amérindiens, au cours des périodes
+l’apparition de l’écriture. L’archéologie s’intéresse à           préhistorique et de contact, est un volet unique du
+                                                                  passé de l’île de Montréal.
+toutes les sociétés, sans égard à leur origine ou à
+leur forme d’organisation, qu’elles soient, comme en              Pour la période historique, la documentation et les
+Amérique, de souche autochtone, européenne ou autre.              cartes anciennes fournissent des éléments interpré-
+                                                                  tatifs valables, à partir des premières chroniques du
+                                                                  XVIe siècle jusqu’à nos jours. Elles sont cependant
+                                                                  souvent muettes sur les différents aspects des modes
+                                                                  de vie de certaines époques et de certains groupes et
+                                                                  individus, de même que sur l’emplacement exact et
+                                                                  l’organisation spatiale de plusieurs lieux d’exploita-
+                                                                  tion et d’habitation, comme les avant-postes de Ville-
+                                                                  Marie. Elles se taisent parfois volontairement et, en
+
+
+
+
+                        ARRONDISSEMENT                                                                                  15
+                                         de Dorval–L’Île-Dorval
+d’autres occasions, ne font état que des préoccupa-             En milieu urbain ou aménagé de longue date, la
+tions des classes dirigeantes, des autorités, de l’élite.       démarche suivie consiste, au moyen de l’analyse
+L’archéologie pare à ces lacunes car elle étudie les            des cartes anciennes, des documents d’archives, des
+traces concrètes laissées par les différents occupants.         données environnementales et des données archéo-
+En milieu urbain, l’archéologie étudie en outre l’évo-          logiques acquises, à caractériser la séquence d’occu-
+lution de la forme urbaine et des formes concrètes,             pation et le processus d’aménagement du territoire.
+dans l’espace et dans le temps, pour idéalement                 Il s’agit de confronter les caractéristiques géographiques
+accéder aux fondements de la culture.                           aux caractéristiques culturelles des sociétés ayant
+                                                                habité ou pu habiter un territoire, et de comprendre
+Les recherches archéologiques menées à ce jour sur l’île        dans quelle mesure les occupations successives ont
+de Montréal documentent une séquence d’occupation               structuré le milieu d’origine et affecté les vestiges
+s’étirant sur plusieurs millénaires et associée à la            d’occupations antérieures. Cette étape est celle de
+présence de groupes aux horizons culturels et temporels         l’étude de potentiel archéologique. La seconde étape
+fort diversifiés : campement amérindien, halte, carrière        consiste, en fonction des résultats de l’étude de
+préhistorique pour l’extraction de la pierre, lieu de           potentiel archéologique, à procéder à une évaluation
+sépultures amérindiennes, noyau initial de Ville-Marie,         sur le terrain afin de vérifier la localisation précise,
+lieux de fondation, forts et missions, bourgs anciens,          la nature et le degré d’intégrité des ressources archéo-
+moulin seigneurial, lieux de culte, cimetières (catho-          logiques en place. Il s’agit de l’inventaire archéolo-
+liques, protestants et juifs), complexes institutionnels,       gique réalisé par des forages, sondages et tranchées
+anciens faubourgs, villas, marchés publics, dépotoirs,          exploratoires.
+complexes agricoles, complexes industriels, ouvrages
+de génie civil, etc., et les formes du paysage ancien de        Selon la nature des découvertes découlant de l’inven-
+l’île de Montréal : terrasses, collines, ruisseaux, rivières,   taire archéologique, plusieurs avenues sont envisage-
+lacs, tourbières.                                               ables selon la valeur scientifique, didactique et
+                                                                symbolique du site et du contexte. Dans le cas d’un
+                                                                site archéologique de grand intérêt, il pourra être
+1.4.2 La démarche générale d’acquisition de                     nécessaire d’assurer en priorité sa conservation in
+         connaissances et de conservation                       situ. Une réserve archéologique est souvent garante
+                                                                de la mise en valeur de ce patrimoine. La plupart des
+Le site archéologique constitue le fondement concret            interventions archéologiques à Montréal surviennent
+de la démarche de conservation et de mise en valeur             dans le cadre de projets d’aménagement du territoire.
+du patrimoine archéologique. La valeur intrinsèque du           Les mesures de protection du patrimoine archéo-
+site archéologique, tout comme l’intérêt de procéder à          logique peuvent alors entraîner la conservation inté-
+son investigation, doivent être évalués en fonction             grale in situ de certains vestiges, la mise en valeur
+de critères relatifs à sa signification, et non pas             in situ de vestiges, la relocalisation du projet d’amé-
+essentiellement relever de considérations touchant              nagement, une modification du projet d’aménagement
+sa grande ancienneté ou le caractère plus ou moins              ou encore une fouille archéologique préventive sur
+monumental des vestiges qu’il recèle.                           les sites d’intérêt de façon à assurer une récupération
+                                                                maximale d’informations.
+
+
+
+
+16                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La majorité des sites archéologiques de l’île de                 LES SITES ARCHÉOLOGIQUES RECENSÉS
+Montréal se trouvent dans des espaces divers – sous-
+                                                                 Au Québec, en vertu de la Loi sur les biens culturels,
+sol de bâtiment, terrain vacant, boulevard, rue,
+                                                                 tout site archéologique découvert est codifié selon
+ruelle, square, place, parc, parc-nature – souvent
+                                                                 le code Borden et inscrit à l’Inventaire des sites
+menacés par des réaménagements, de nouvelles
+                                                                 archéologiques du Québec. Le code Borden est un
+constructions et une modernisation des services
+                                                                 système d’enregistrement des sites archéologiques
+publics souterrains. L’intégration de ce patrimoine
+                                                                 utilisé à l’échelle du Canada. Il permet de localiser un
+dans les programmes de régénération du tissu urbain
+                                                                 site archéologique d’après sa position géographique,
+de Montréal devient donc prioritaire. C’est pourquoi
+                                                                 longitude et latitude (ex. : BjFj), et selon l’ordre suc-
+la reconnaissance du patrimoine archéologique dans
+                                                                 cessif des découvertes archéologiques (ex. : BjFj-1).
+le Plan d’urbanisme de Montréal permettra de
+                                                                 Au Québec, c’est le ministère de la Culture et des
+prévenir l’interférence négative des usages actuels de
+                                                                 Communications qui a la responsabilité de tenir
+la ville et assurera la protection et la mise en valeur
+                                                                 l’Inventaire des sites archéologiques de la province et
+de vestiges et de sites archéologiques d’un grand
+                                                                 qui attribue les codes Borden.
+intérêt pour l’histoire de Montréal.
+                                                                 La Ville de Montréal a donc enrichi le Répertoire
+                                                                 informatisé des sites archéologiques des données à
+1.4.3 L’approche méthodologique et l’identifi-                   l’échelle de l’île de Montréal. Les 191 sites
+         cation du patrimoine archéologique au                   archéologiques recensés en date de 2004 ont été
+         Plan d’urbanisme                                        caractérisés individuellement. Les critères utilisés
+                                                                 pour cette évaluation sont :
+En lien avec la confection du Plan d’urbanisme, la
+Ville de Montréal a réalisé une étude des sites                  – l’état de conservation physique du site et de son
+archéologiques recensés en date de l’année 2003                    environnement immédiat, en considérant que
+et des secteurs d’intérêt archéologique. Cette étude               plusieurs sites archéologiques recensés ont été
+s’étend à la partie montréalaise de l’archipel de                  détruits lors de travaux d’excavation ou ont fait
+Montréal, qui comprend l’île de Montréal mais aussi                l’objet de fouilles archéologiques ;
+l’île des Sœurs, l’île aux Hérons, l’île aux Chèvres, l’île      – la qualité documentaire des couches et des vestiges
+Dorval et d’autres. Ce faisant, elle assure une vision             archéologiques, leur représentativité, leur unicité,
+d’ensemble du territoire et met en perspective les                 leur ancienneté et, dans certains cas, leur capacité
+espaces urbanisés où le patrimoine archéologique                   d’évocation.
+nécessite des mesures de protection. Pour comprendre
+                                                                 Deux catégories ont été distinguées : les sites archéo-
+la portée de la démarche, il est nécessaire de rappeler
+                                                                 logiques intègres qui doivent être protégés et les sites
+que seule une infime quantité des sites archéo-
+                                                                 archéologiques altérés qui ne nécessitent aucune mesure
+logiques sur l’île de Montréal sont connus.
+                                                                 de protection. Tous ont été cartographiés, y compris
+Dans un premier temps, l’étude s’est attachée à                  les sites archéologiques altérés car ils sont révélateurs
+localiser précisément et à évaluer les sites archéolo-           du potentiel archéologique d’un milieu donné.
+giques déjà recensés et inscrits à l’Inventaire des sites
+archéologiques du Québec, et dans un second temps,
+à qualifier, localiser et prioriser des secteurs d’intérêt
+archéologique.
+
+
+
+
+                        ARRONDISSEMENT                                                                                 17
+                                        de Dorval–L’Île-Dorval
+LES BIENS CULTURELS À STATUT                                archéologiques. La qualité de préservation du milieu
+                                                            physique, la densité des témoins archéologiques en
+La notion de bien culturel intègre, d’une part, les sites   sous-sol et(ou) hors sol et leur capacité de con-
+archéologiques et les biens archéologiques classés et,      tribuer à la connaissance constituent des facteurs
+d’autre part, les sites historiques classés et les monu-    qui rehaussent le niveau d’intérêt accordé à un
+ments historiques classés ou reconnus, l’arrondisse-        endroit particulier. Le secteur d’intérêt archéologique
+ment historique du Vieux-Montréal, l’arrondissement         « à fort potentiel » est un territoire où des mesures
+historique et naturel du mont Royal, l’arrondissement       de protection des sites éventuels sont nécessaires.
+naturel de Saraguay, les monuments cités et les sites
+du patrimoine. Tous ces biens ont fait l’objet d’un         Pour chacun des 27 arrondissements de l’île de
+examen à partir de la documentation disponible afin         Montréal, l’identification des secteurs qui présentent
+de déterminer leur intérêt archéologique et, en con-        un intérêt archéologique constitue une étape préalable
+séquence, la nécessité d’une protection du patrimoine       à la protection des éventuels témoins archéolo-
+archéologique sur ces propriétés. Seuls les grands          giques. Cet exercice, qui est d’ailleurs une première
+ensembles à statut sont cartographiés, les autres           sur le territoire montréalais, est basé sur l’examen et
+biens culturels étant présentés par arrondissement.         l’évaluation de multiples sources documentant les
+                                                            aspects environnementaux et culturels de ces terri-
+                                                            toires. Cette étape permet également d’identifier les
+LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                        milieux qui doivent dans l’avenir faire l’objet d’une
+ET LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                     étude de potentiel et d’un inventaire archéologique.
+À FORT POTENTIEL                                            Les secteurs ont été ciblés en fonction :
+Le secteur d’intérêt archéologique est un territoire        – du cadre biophysique et des qualités d’accueil de
+susceptible de renfermer des sites et des vestiges            populations d’un territoire, depuis plusieurs millé-
+des périodes préhistorique, de contact et historique          naires; ce cadre a été documenté à partir d’études
+eu égard à ses caractéristiques géomorphologiques,            géologiques et géomorphologiques ainsi que par
+biophysiques, archéologiques et historiques.                  l’examen de cartes topographiques et de photogra-
+Des études plus poussées doivent y être réalisées             phies aériennes anciennes afin de déterminer la
+afin d’évaluer précisément la qualité de préservation         proximité d’un axe de communication hydro-
+du milieu physique. La probabilité de découverte              graphique ou terrestre, l’élévation des terrasses, les
+de témoins archéologiques demeure à ce jour difficile         types de dépôts de surface, les concentrations de
+à estimer si l’on considère l’environnement et son            ressources alimentaires de même que l’approvi-
+degré de perturbation moderne. Il est donc nécessaire         sionnement en eau potable et autres éléments ;
+que les citoyens collaborent en communiquant toute          – du contexte historique et de l’urbanisme moderne
+découverte de vestiges dans les secteurs d’intérêt            pour déterminer leur capacité à fonder un lieu de
+archéologique.                                                nature archéologique et à le préserver; ces contextes
+                                                              ont été documentés à partir de monographies
+Le secteur d’intérêt archéologique à fort potentiel           historiques et par l’examen des cartes des XVIIe,
+est un territoire dont l’évaluation du contexte bio-          XVIIIe, XIXe et XXe siècles et des photographies
+physique ainsi que des caractéristiques géomor-               aériennes de 1947, 1948 et 1949, de même qu’à
+phologiques, archéologiques et historiques démontre           partir d’études sur les parcs-nature de l’île de
+une forte possibilité qu’il recèle des vestiges               Montréal, les propriétés institutionnelles, les biens
+
+
+
+
+18                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+  culturels à statut et les lieux historiques nationaux,         afin de bien saisir toute la portée de l’urbanisme
+  comme le canal de Lachine ;                                    moderne sur les ressources archéologiques de l’île de
+– du contexte archéologique documenté à partir de                Montréal.
+  l’Inventaire des sites archéologiques du Québec
+                                                                 Le résultat de cette réflexion qui comporte des limites,
+  ainsi que dans les publications, les rapports inédits
+                                                                 car il ne s’agit aucunement d’une étude de potentiel
+  et les relevés de découvertes. Des copies de ces
+                                                                 archéologique « fine » de l’île de Montréal, a été car-
+  études sont maintenant disponibles au Centre de
+                                                                 tographié et des textes ont été rédigés en lien avec
+  documentation de la Direction du développement
+                                                                 les catégories identifiées au Plan d’urbanisme : site
+  urbain de la Ville de Montréal ; le répertoire de ces
+                                                                 archéologique recensé intègre, site archéologique
+  ouvrages peut être consulté sur le site Web de la
+                                                                 recensé altéré, secteur d’intérêt archéologique à fort
+  Ville de Montréal – Patrimoine archéologique.
+                                                                 potentiel, secteur d’intérêt archéologique, grand
+L’analyse des caractéristiques des sites archéolo-               ensemble à statut.
+giques connus permet de dégager des constantes qui
+influencent le choix des emplacements en fonction des
+cultures et des périodes, et d’élaborer des modèles
+archéologiques prédictifs. C’est ainsi que l’on constate,
+                                                                 1.5 Nouvelles perspectives
+sites archéologiques à l’appui, que les groupes
+                                                                 En résumé, le travail de repérage du patrimoine urbain
+amérindiens de la période préhistorique et les premiers
+                                                                 réalisé dans le cadre du Plan d’urbanisme nous permet
+colons français choisissent approximativement les
+                                                                 d’atteindre plusieurs objectifs et d’ouvrir la réflexion sur
+mêmes lieux pour s’établir. Par la suite, la disposition
+                                                                 le patrimoine dans une perspective d’avenir. Il permet
+des occupations rurales européennes se démarque
+                                                                 entre autres :
+de celle des premiers noyaux villageois, au gré du
+développement des axes de transport terrestre. De                – d’élargir la notion de patrimoine par rapport à ce qu’on
+plus, des activités spécialisées, tel un moulin à farine           retrouvait dans le Plan d’urbanisme de Montréal de 1992
+ou à scie mu par l’eau, une tannerie artisanale ou,                et dans plusieurs des plans d’urbanisme des anciennes
+plus tardivement, un complexe industriel, supposent                villes qui se sont jointes à Montréal ;
+des caractéristiques d’implantation fort différentes.            – de contribuer à accroître l’intérêt de certains arron-
+Ces facteurs ont été pris en considération afin de                 dissements pour les problématiques de conservation
+tenter de localiser les territoires qui ont eu la faveur           du patrimoine et d’en sensibiliser d’autres à l’impor-
+des populations locales depuis le début de l’occupation            tance de cet enjeu ;
+de l’île de Montréal jusqu’à nos jours.                          – d’amorcer une exploration de nouvelles notions que
+                                                                   l’on rattache depuis peu à la question patrimoniale
+Les secteurs les plus susceptibles d’abriter des vestiges
+                                                                   dans les outils de gestion municipaux (patrimoine
+archéologiques ont ainsi été identifiés et ont fait l’objet
+                                                                   moderne, ensembles urbains, éléments de paysage,
+d’une inspection visuelle pour estimer leurs carac-
+                                                                   patrimoine archéologique, etc.) ;
+téristiques générales et observer, plus avant, le degré
+                                                                 – de contribuer à l’identification d’enjeux locaux et
+de conservation d’éventuels vestiges. Certaines modi-
+                                                                   métropolitains quant à la protection du patrimoine;
+fications modernes majeures, comme l’ajout de rem-
+                                                                 – de développer une vision globale et partagée en vue
+blais en rive, ont été réévaluées par suite de l’inspection
+                                                                   d’une planification et d’une action concertées en
+visuelle. Les résultats de l’ensemble de ces étapes
+                                                                   matière de patrimoine, en positionnant mieux le patri-
+d’évaluation ont été cartographiés sur une représen-
+                                                                   moine dans la dynamique du développement urbain.
+tation aérienne de l’île de Montréal, l’orthophoto 2002,
+
+
+
+                        ARRONDISSEMENT                                                                                    19
+                                        de Dorval–L’Île-Dorval
+2.
+Dorval
+                               HISTORIQUE
+
+
+
+Située sur la rive sud de l’île de Montréal, Dorval est
+                                                                1853 que la vocation de villégiature de l’île com-
+                                                                mence. Elle est alors achetée par Sir George Simpson,
+une banlieue qui prend son essor après la Seconde               gouverneur de la Compagnie de la Baie d’Hudson,
+Guerre mondiale. Toutefois, son histoire remonte au             qui y fait construire sa maison d’été au milieu de la
+début de la colonie française. Au XVIIe siècle, la mission      forêt. En 1860, le prince de Galles y fait escale pen-
+sulpicienne de Gentilly s’installe sur les rives de Dorval      dant quelques heures. On sait qu’à la fin de cette
+et de l’île Dorval. À cette époque, tout le secteur ouest       décennie un verger de pommiers y est déjà planté.
+de l’île de Montréal joue un rôle militaire et commercial       C’est toutefois au début du XXe siècle que l’île est
+stratégique. Gentilly et par la suite La Présentation           lotie; elle compte dans les années 1930 une quin-
+sont les premiers noms donnés au territoire de                  zaine de familles qui y passent l’été. Aujourd’hui, l’île
+Dorval, dont Jean-Baptiste Bouchard Dorval achète les           est utilisée au maximum et, comme autrefois, elle
+terres en 1691. Au XVIIIe siècle et jusqu’au XXe siècle,        n’est accessible que par bateau ou par le traversier
+l’agriculture constitue la principale activité économique       qui la relie régulièrement à la terre ferme.
+sur ce territoire.
+En 1878, le bureau de poste local utilise le nom de
+Dorval pour s’identifier. Et en 1892, la municipalité
+du village est incorporée sous ce même nom. La
+paroisse catholique de la Présentation est érigée
+canoniquement en 1895.
+À la fin du XIXe siècle, les rives du lac Saint-Louis dans
+l’ouest de l’île de Montréal deviennent des lieux de
+villégiature attrayants pour la société bourgeoise
+montréalaise. Le village de Dorval dessert les estivants
+et les agriculteurs qui s’y côtoient. Mais en 1941, la
+mise en service des installations d’un aéroport à
+Dorval change radicalement l’utilisation du sol et le           PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+                                                                1907, BNQ-M / Cote : G 1144 M65G475 P5 1907 CAR
+rôle de cette municipalité sur l’île de Montréal. Le            En 1907, le territoire de Dorval est encore fortement agricole, mais depuis
+transport aérien croît rapidement après la Seconde              quelques décennies, il attire des villégiateurs qui s’installent sur les rives du
+                                                                lac Saint-Louis.
+Guerre mondiale et Dorval devient un aéroport inter-
+national. Parallèlement, le reste du territoire s’ouvre
+au lotissement et la population augmente rapide-
+ment, passant à plus de 20 000 personnes en 1971
+alors qu’elle était de moins de 3 000 dans les années
+1940. Aujourd’hui, l’arrondissement compte près de
+18 000 résidants.
+
+L’Île Dorval
+Le nom de Courcelles est donné dès 1665 aux trois
+îles au large de Dorval, dont une seule est suffisam-
+ment grande pour être habitée. Elle est choisie pour
+être le site d’une mission amérindienne en 1673,
+mais cette idée sera abandonnée en 1674. Dans les               Vue aérienne de l’aéroport international, sans date,
+siècles qui suivent, l’île est utilisée pour la coupe du        http://www.bnquebec.ca, Collection Cartes postales, CP 2590
+bois et sert aussi de halte aux voyageurs qui se ren-           Pour répondre aux besoins croissants du trafic aérien à l’aéroport
+                                                                international de Dorval, une nouvelle aérogare est construite. Elle
+dent dans les Pays d’en Haut (Grands Lacs). C’est en            est inaugurée en 1960.
+
+
+                       ARRONDISSEMENT                                                                                                        21
+                                       de Dorval–L’Île-Dorval
+3.
+3.1 Mise en situation
+                               É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+
+
+                                                                3.2 Résultat de l’analyse
+L’évolution du tissu urbain de Dorval a connu plusieurs         3.2.1 Les tracés fondateurs d’intérêt
+époques de développement :                                              patrimonial
+
+En premier lieu, on retrouve des bâtiments de valeur            Le chemin du Bord-du-Lac traverse tout l’arrondisse-
+patrimoniale exceptionnelle qui témoignent de la                ment. Cette ancienne voie de communication est
+période où la zone est rurale avec un lotissement issu          jalonnée de plusieurs bâtiments de grande valeur
+du système seigneurial, orienté perpendiculairement             patrimoniale datant de l’époque rurale. Elle relie
+au lac Saint-Louis.                                             également les divers secteurs de valeur patrimoniale
+                                                                de l’arrondissement.
+La seconde phase de développement du territoire se
+concrétise avec la formation du village et le dévelop-
+pement en parallèle de la villégiature et des activités
+telles que la voile, les courses de chevaux et le golf,
+sous l’impulsion de l’arrivée du train qui permet une
+plus grande mobilité entre le centre-ville et la banlieue.
+
+Finalement, l’implantation de l’aéroport international
+de Dorval durant la Seconde Guerre mondiale et le
+boom immobilier des années 1950 seront détermi-
+nants dans le développement du territoire. Un certain
+nombre de projets résidentiels de qualité (voir Les
+ensembles urbains d’intérêt) sont conçus durant
+cette période.
+
+D’un autre côté, la spéculation sur les terrains en bor-
+dure du lac et la disparition des grandes propriétés
+patrimoniales ou de leurs lotissements pour permettre
+des constructions neuves d’architecture incompatible
+avec le cadre bâti constituent des problématiques
+dont il faut tenir compte dans cet arrondissement.
+
+De plus, la fragilité du tissu ancien dans le secteur du
+village et la spéculation sur les maisons anciennes et
+sur les terrains pour construire de grandes résidences
+sont peu favorables au maintien du caractère villa-
+geois qui prédomine dans le secteur.
+
+
+
+
+                        ARRONDISSEMENT                                                                           23
+                                       de Dorval–L’Île-Dorval
+Ville de Montréal
+Évaluation du patrimoine urbain
+                                  André Jobin, Carte de L’île de Montréal, 1834, BNQ
+3.2.2 Le cadre bâti d’intérêt patrimonial
+           A. Les secteurs de valeur
+               patrimoniale exceptionnelle
+
+
+
+7.E.1 LE VILLAGE
+
+Le village de Dorval s’est développé autour de l’inter-
+section de l’avenue Martin et du chemin du Bord-du-
+Lac. Mis à part les anciennes montées et le chemin du
+Bord-du-Lac, l’avenue Martin est la plus ancienne rue
+                                                                7.E.1 444, chemin du Bord-du-Lac (Premier hôtel de Dorval -1887)
+de Dorval, le long de laquelle on compte encore
+aujourd’hui une forte proportion de bâtiments cente-
+naires ainsi que l’hôtel de ville, dont la partie centrale
+a été au départ construite comme usine de filtration
+(1912). Certains de ces bâtiments sont plus luxueux
+que d’autres, en particulier les propriétés situées le
+long des berges, mais tous contribuent à la définition
+de la valeur patrimoniale exceptionnelle du secteur.
+Par ailleurs, le chemin du Bord-du-Lac a accueilli les
+premiers commerces de la petite localité, vocation qui
+perdure encore.
+
+
+
+                                                                7.E.1 223, chemin du Bord-du-Lac
+
+
+
+
+                                                                7.E.1 Maison Kilellan, 1 avenue Martin
+
+
+
+
+                        ARRONDISSEMENT                                                                                         25
+                                       de Dorval–L’Île-Dorval
+7.E.2 Église de la Présentation-de-la-Sainte-Vierge      7.E.3 La maison Eliza Bryson, 890, chemin du Bord-du-Lac
+
+
+
+
+7.E.2 Pensionnat Notre-Dame-du-Sacré-Coeur               7.E.3 La maison André-Legault-dit-Deslauriers, 940, chemin du Bord-du-Lac
+
+
+
+7.E.2 LE NOYAU INSTITUTIONNEL                            7.E.3 LE CHEMIN DU BORD-DU-LAC
+
+Ce petit secteur regroupe l’église de la Présentation,   Ce petit secteur est constitué de plusieurs immeubles
+construite en 1900, le presbytère, l’école Joubert (du   de valeur patrimoniale exceptionnelle : l’église St. Mark
+nom du premier curé de la paroisse) et le couvent        (865, chemin du Bord-du-Lac), dont l’histoire remonte
+Notre-Dame-du-Sacré-Cœur, dont la partie la plus         à plus d’un siècle (derrière la partie plus moderne
+ancienne date de 1912. Ce noyau institutionnel est       construite en 1958, on a préservé et intégré l’ancienne
+situé à quelque distance du noyau villageois. Il est à   chapelle en pierre des champs construite en 1898 pour
+noter que le terrain sur lequel est érigée l’église      les villégiateurs protestants), la maison Beaurivage
+domine le secteur, où l’on retrouve aussi quelques       (900, chemin du Bord-du-Lac), la maison Eliza Bryson
+résidences datant de la même époque que les bâti-        (890, chemin du Bord-du-Lac) et la maison André-
+ments institutionnels.                                   Legault-dit-Deslauriers aussi nommée le Manoir (940,
+                                                         chemin du Bord-du-Lac), construit vers 1833 par André
+                                                         Legault dit Deslauriers.
+
+
+
+
+26                                                       Évaluation du patrimoine urbain
+                                                         Ville de Montréal
+7.E.4 1250, chemin du Bord-du-Lac                               7.E.5 Bâtiment principal et pavillon d’entrée
+
+
+
+7.E.4 SECTEUR DE L’ANCIEN CAP SAINT-GILLES
+
+Depuis la rue, on ne peut soupçonner la présence d’un
+immense domaine privé qui se rend jusqu’à ce que l’on
+appelait anciennement le cap Saint-Gilles. En effet, il ne
+reste plus rien de l’opulente résidence d’été appelée
+Ashburton, construite dans les années 1879, ni de la
+maison bâtie par la suite par l’industriel John Wilson
+McConnell, un magnifique manoir de pierre qui a été
+détruit par un incendie en 1963. Par contre, il subsiste
+le pavillon d’entrée et une résidence d’été entourée de
+magnifiques jardins. Ce secteur inclut également les
+                                                                7.E.5 Musée de Dorval aménagé dans les anciennes écuries
+autres grandes propriétés riveraines situées du côté
+ouest (entre l’ancienne maison Ashburton et le Club de
+Yacht Royal Saint-Laurent).                                     7.E.5 FOREST AND STREAM CLUB
+
+                                                                Autrefois connue sous le nom de « Bel-Air », nom
+                                                                donné par l’architecte Alfred Brown à son manoir de
+                                                                pierre de style anglais, cette propriété a été vendue
+                                                                après son décès à un club privé prestigieux (le Forest
+                                                                and Stream Club), qui l’occupe toujours. Cette pro-
+                                                                priété comprend également un pavillon d’entrée et
+                                                                d’anciennes écuries, restaurées et agrandies pour
+                                                                accueillir le musée de Dorval. Ces bâtiments sont
+                                                                implantés sur une pointe de terre très bien aménagée
+                                                                qui s’avance dans le lac Saint-Louis.
+
+
+
+
+                          ARRONDISSEMENT                                                                                   27
+                                       de Dorval–L’Île-Dorval
+                                                                        B. Les secteurs de valeur
+                                                                             patrimoniale intéressante
+
+
+
+                                                           7.I.1 SECTEUR DE L’AVENUE SAINT-CHARLES
+
+                                                           Il s’agit d’un secteur composé d’anciens chalets plutôt
+                                                           modestes mais dont l’environnement, qui possède un
+                                                           couvert végétal très fourni, lui confère un charme
+                                                           discret. Les bâtiments de ce secteur précèdent ceux de
+                                                           la période des années 1940-1950, où la construction
+7.E.6                                                      de bungalows devient la norme à Dorval. On remarque
+                                                           une très belle percée visuelle en bout de rue sur le lac
+                                                           Saint-Louis et sur le pont Mercier. Ce secteur englobe
+7.E.6 L’ÎLE DORVAL
+                                                           également la marina des Forces canadiennes.
+C’est en 1911 que l’île Dorval est divisée en 57 lots
+pour la construction de résidences d’été.
+
+L’île n’est accessible que par traversier, ce qui a sans
+aucun doute contribué à préserver son caractère
+bucolique évocateur des années 1920-1940, période
+où la majorité des chalets se sont construits. Cela
+ajoute encore au charme de cet environnement
+naturel parsemé de petits cottages qui disparaissent
+dans la nature.
+
+
+
+                                                           7.I.1 Avenue Saint-Charles, vue générale
+
+
+
+                                                           7.I.2 LE PROLONGEMENT DU VILLAGE
+
+                                                           Il s’agit d’un secteur mixte où les petites maisons
+                                                           (anciens chalets transformés en résidences perma-
+                                                           nentes) côtoient des résidences plus récentes. Sur le
+                                                           chemin du Bord-du-Lac, des constructions de fonctions
+                                                           diverses illustrent les différentes époques de dévelop-
+                                                           pement de la ville.
+
+
+
+
+28                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+7.I.3 SECTEUR DES AVENUES ROY ET LEPAGE
+
+Le bâti de ce petit secteur résidentiel est représentatif
+de la période qui précède l’explosion démographique
+des années 1950. Il s’agit d’un heureux mélange de
+chalets d’un étage transformés en résidences perma-
+nentes et de petites maisons unifamiliales de deux
+étages, le tout de facture relativement modeste. Ce
+qui fait par ailleurs le charme de ce secteur est le cou-
+vert végétal qui ombrage les propriétés implantées à
+une certaine distance de la rue.
+
+                                                                7.I.4 525, boulevard Pine Beach
+
+
+
+
+7.I.3 150-156, avenue Lepage
+
+
+
+7.I.4 LE BOULEVARD PINE BEACH                                   7.I.5 385 et 405, boulevard des Sources
+
+
+Ce petit secteur est situé à proximité de la voie ferrée
+                                                                7.I.5 SECTEUR OUEST
+(du côté nord), entre les places Davidson et Anchorage,
+de part et d’autre du boulevard Pine Beach. Ses carac-          Les caractéristiques de ce secteur qui s’étend des
+téristiques sont similaires à celles du secteur 7.I.3. Le       berges du lac Saint-Louis jusqu’à la voie ferrée sont
+tracé de rues est assez inusité avec de petits segments         similaires à celles du secteur des avenues Roy et Lepage
+en cul-de-sac perpendiculaires à la trame régulière.            (7.I.3). Le bâti est composé d’anciens chalets, de
+Les lots sont profonds et l’environnement est agré-             maisons unifamiliales de type « four squares » et de
+menté d’arbres matures. Il existe possiblement un lien          petits cottages d’un seul étage. Il est représentatif de la
+entre le développement de cette zone de villégiature et         période qui a précédé l’explosion démographique des
+l’instauration, à proximité, d’un arrêt de train de ban-        années 1950. Le secteur est pourvu d’un couvert végé-
+lieue, sans oublier la plage située sur les berges du lac       tal mature, ce qui donne des rues particulièrement
+Saint-Louis.                                                    agréables et paisibles qui témoignent de la période
+                                                                villégiature de cette partie du territoire de Dorval.
+
+
+
+
+                          ARRONDISSEMENT                                                                                29
+                                       de Dorval–L’Île-Dorval
+           C. Les ensembles urbains d’intérêt
+
+
+7.U.1 RUE MCNICOLL, AVENUE SÉVIGNY
+  ET CROISSANT KERNAN
+
+Ce petit secteur adjacent au parc Dorval, près de
+l’extrémité est de l’arrondissement, se caractérise
+par l’uniformité du bâti : bungalows de type plain-
+pied, toit pavillon, brique comme matériau domi-
+nant, garage, rue en cul-de-sac, aménagement
+paysager relativement simple. L’époque approxima-          7.U.1 165, rue McNicoll
+tive de construction serait les années 1950.
+
+
+
+7.U.2 DORVAL MODEL HOMES –
+  AVENUE DALHIA
+
+Cette rue résidentielle est bordée de bungalows qui
+se ressemblent mais qui, en y regardant de près,
+affichent certaines différences dans le type de
+fenêtres, de toiture, l’emploi de pierre artificielle et
+de planche à clin, ou encore dans le traitement de la
+brique. Ce projet qui a débuté en 1951 comprenait
+28 unités de logement réparties entre 12 bungalows
+détachés et 16 semi-détachés; il incluait aussi les        7.U.2 1, avenue Dalhia
+
+deux édifices d’appartements situés au coin du
+chemin du Bord-du-Lac.
+
+
+
+
+                                                           7.U.2 510, Chemin du Bord-du-Lac
+
+
+
+
+30                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+                                                            7.U.3 AVENUE DES LILAS
+
+                                                            Ce lotissement a vraisemblablement été réalisé à
+                                                            l’époque de la construction de l’usine de filtration.
+                                                            En face de cette dernière, on remarquera la petite
+                                                            place. Les bungalows sont typiques des années
+                                                            1950. Le bâti harmonieux repose sur un même
+                                                            type de construction et d’échelle et sur l’utilisation
+                                                            de matériaux similaires.
+
+
+
+                                                            7.U.4 PLACE DÉCARY
+7.U.3 70, avenue des Lilas
+
+                                                            Ce développement résidentiel est semblable à celui
+                                                            du secteur 7.U.1 – rue en cul-de-sac, bungalows
+                                                            similaires de type plain-pied, toit pavillon, brique,
+                                                            carport, terrain bien aménagé et présence d’arbres
+                                                            matures. La construction remonte approximative-
+                                                            ment aux années 1950.
+
+
+
+                                                            7.U.5 LES AVENUES LEPAGE ET ROY,
+                                                              AU NORD DE L’AVENUE DAWSON
+
+                                                            Dans ce quadrilatère formé par les avenues Dawson,
+7.U.4 Vue d’ensemble
+                                                            Lepage et Roy et la 6e Avenue, le tracé particulier des
+                                                            rues transversales – à la diagonale – crée des points
+                                                            de vue variés sur un bâti composé de bungalows de
+                                                            type split level datant vraisemblablement des années
+                                                            1950. Ce secteur est représentatif d’un projet de
+                                                            développement bien planifié et harmonieux qui pré-
+                                                            conise l’utilisation d’un nombre relativement restreint
+                                                            de modèles mais où les matériaux peuvent varier
+                                                            d’une résidence à l’autre.
+
+
+
+
+                             ARRONDISSEMENT                                                                     31
+                                   de Dorval–L’Île-Dorval
+7.U.6 SECTEUR DES AVENUES CLAUDE
+  ET ALLARD
+
+L’ambiance de ce secteur est celle d’une banlieue de
+type californien des années 1950, avec ses bungalows
+bas intégrant un carport. Ce qui ajoute à la qualité de
+l’environnement, c’est la présence d’un terre-plein au
+centre des larges avenues Claude et Allard, et la profu-
+sion d’arbres matures sur les propriétés.
+
+
+
+7.U.7 SECTEUR DES AVENUES SAINT-LOUIS
+                                                           7.U.6 Avenue Claude
+  ET CLÉMENT
+
+Cette portion des avenues Saint-Louis et Clément est
+située au sud de l’autoroute Ville-Marie et au nord de
+l’avenue Carson. Le secteur comprend des cottages
+d’un étage et demi ou de deux étages représentatifs de
+l’époque villégiature, des bungalows de brique d’allure
+modeste et une section plus au nord constituée de rési-
+dences unifamiliales de type War Time Housing.
+
+
+
+7.U.8 LES AVENUES PRINCE-CHARLES
+  ET SAINT-LÉON
+                                                           7.U.7 402, avenue Saint-Louis
+Ce petit secteur résidentiel des années 1950 est
+représentatif d’un projet de développement bien
+planifié. L’harmonie qui se dégage de ces rues paisi-
+bles repose sur l’utilisation d’un nombre limité de
+modèles de maison. Le premier modèle est à toit de
+type mansard; le second possède un toit à deux ver-
+sants et le troisième, un toit aussi à deux versants
+mais avec le mur pignon faisant face à la rue. Toutes
+ces maisons sont en brique et comportent un étage
+et demi. L’alternance des modèles crée un rythme
+intéressant alors que les grands arbres viennent
+rehausser le caractère champêtre du secteur.
+
+                                                           7.U.8 Avenue Prince-Charles
+
+
+
+
+32                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+             D. Les immeubles de valeur                               LES HABITATIONS
+                 patrimoniale exceptionnelle
+                                                                      2, croissant Elliot
+Tous les immeubles de valeur patrimoniale excep-                      Maison Meloche
+tionnelle, qu’ils fassent ou non partie d’un secteur de
+                                                                      223, chemin du Bord-du-Lac
+valeur patrimoniale défini dans le présent document,
+                                                                      Maison Charles-Décary (1875)
+sont inclus dans la liste qui suit :
+                                                                      365, chemin du Bord-du-Lac
+                                                                      Magasin Joseph-Décary (1888)
+
+                                                                      375, chemin du Bord-du-Lac
+                                                                      Maison Jean-Baptiste-Décary (1846)
+
+                                                                      890, chemin du Bord-du-Lac
+                                                                      Maison Eliza-Bryson (1919)
+
+                                                                      900, chemin du Bord-du-Lac
+                                                                      Maison Beaurivage (1859)
+
+                                                                      940, chemin du Bord-du-Lac
+Royal Montreal Golf Club, 100, boulevard Bouchard                     Maison André-Legault-dit-Deslauriers aussi nommée
+                                                                      le Manoir (vers 1833)
+
+LES ÉDIFICES DE CULTE                                                 1200-1210, chemin du Bord-du-Lac
+                                                                      Maison Ashburton (1879)
+665, avenue de l’Église
+Église Présentation-de-la- Sainte-Vierge                              1250, chemin du Bord-du-Lac
+                                                                      Maison Minnie-Louise-Davis (Scott) (1922)
+865, chemin du Bord-du-Lac
+St. Mark’s Chapel (1898)                                              2095, chemin du Bord-du-Lac
+                                                                      Maison Michel ou Allard (vers 1800)
+LES COUVENTS
+                                                                      2120, chemin du Bord-du-Lac
+246, avenue de la Présentation
+                                                                      Aqua Vista (vers 1865)
+Pensionnat Notre-Dame-du-Sacré-Cœur
+                                                                      2205, chemin du Bord-du-Lac
+LES IMMEUBLES COMMERCIAUX
+                                                                      Maison Carrière (1864)
+100, boulevard Bouchard
+                                                                      690, avenue Monette
+Royal Montreal Golf Club
+                                                                      Maison Jean-Baptiste-Monette (vers 1850)
+
+                                                                      1, avenue Martin
+                                                                      Maison Kilellan (vers 1879)
+
+
+
+
+                           ARRONDISSEMENT                                                                             33
+                                             de Dorval–L’Île-Dorval
+2, avenue Martin                                                        F. Les éléments particuliers
+Maison Paul-Picard (1802)                                                   du paysage
+
+4, avenue Martin
+L’Ermitage (vers 1832)
+                                                           TERRAIN LAUTAN (PARC DORVAL
+2, Terrasse Ballantyne                                     OU DU MILLÉNAIRE) ET RIVIÈRE BOUCHARD
+Maison Jacques-Lepage dit Roy (vers 1790)
+                                                           Anciennement connu sous le nom de « Prairie de
+66, rue Allan-Point                                        Guillaume », ce parc est situé à l’extrémité est de
+Maison Jacques-Morin (vers 1675)                           l’arrondissement. Ce vaste terrain, qui était jadis un
+                                                           marécage abritant une faune remarquable, faisait
+12, avenue Dalhia
+                                                           partie de la ferme des Meloche (2, croissant Elliot).
+Quatre-Vents (1803)
+                                                           En face du parc, on peut voir l’île Dixie (autrefois
+1549, avenue Deslauriers                                   Meloche) et un phare en fonction depuis 1915.
+Maison Jean-Baptiste-Legault (vers 1830)
+
+
+
+           E. Les immeubles de valeur
+               patrimoniale intéressante
+
+Seuls les immeubles de valeur patrimoniale intéressante
+situés à l’extérieur des secteurs de valeur patrimoniale
+définis dans le présent document sont inclus dans la
+liste qui suit :
+
+
+                                                           La rivière Bouchard qui serpente sur les propriétés débouche sur le
+LES ÉDIFICES DE CULTE                                      parc Lautan.
+
+385, boulevard Bouchard
+CIBA Co. Ltd. (Novartis), patrimoine moderne
+Aérogare de Dorval
+
+
+
+
+34                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+CLUB DE YACHT ROYAL SAINT-LAURENT                            PROJETS DE LOTISSEMENT PARTICULIERS
+
+Le St. Lawrence Yacht Club est fondé en 1888 et              A. Les jardins Strathmore : entre les boulevards
+reçoit la désignation royale de la reine Victoria en         Strathmore et Neptune
+1894. Le hangar vert construit à cette époque est            Il s’agit d’un projet de la Marcil Trust Company qui
+le seul bâtiment pouvant témoigner des débuts de             se caractérise par un tracé de rues irrégulier (en arc
+cette institution dont la renommée dépasse les               de cercle). Seule la moitié du plan de lotissement
+frontières de l’arrondissement. Son école de voile           proposé en 1926 a été réalisée. Par ailleurs, le bâti
+est l’une des plus réputées au Canada.                       est très varié, ce qui laisse croire qu’il n’y avait pas
+                                                             de plans types rattachés à ce projet.
+
+                                                             B. Dorval Bay Gardens : Avenue Dalhia, croissant
+                                                             Violet et croissant Ferndale
+                                                             C’est un projet de Geo Marcil & Co. Owners qui se
+                                                             caractérise également par un tracé de rues irrégulier
+                                                             en arc de cercle et un élargissement de l’avenue Dalhia.
+
+
+
+
+Club de Yacht Royal Saint-Laurent
+
+
+
+
+                            ARRONDISSEMENT                                                                        35
+                                    de Dorval–L’Île-Dorval
+                                                             boulevard Des Sources
+                                                                                                                   autoroute 40
+
+
+
+                                                                                                                 boulevard Hymus
+
+
+
+
+                                         7.U.8
+                                         7.U.8
+                                         7.U.8
+                                         7.U.8
+                                         7.U.8
+                                         7.U.8
+
+
+
+                                        au
+                                          to r
+                                              ou
+                                                te
+                                7.I.5
+                                7.I.5
+                                7.I.5
+                                7.I.5
+                                7.I.5
+                                7.I.5                20
+                                                                                                7.I.4
+                                                                                                7.I.4
+                                                                                                7.I.4
+                                                                                                7.I.4
+                                                                                                7.I.4
+                                                                                                7.I.4
+
+
+                                            7.U.7
+                                            7.U.7
+                                            7.U.7
+                                            7.U.7
+                                            7.U.7
+                                            7.U.7
+                                                                                                                                                                                                       e
+                                              av
+                                                   en                                                                                                                                        e   -Liess
+                                                        ue                                                                                                                              ôte-d
+                                                               Ca                                                                                                            t e De La C
+                                                                                                                                                                           ou
+                                                                                     rso
+                                                                                           n                                                                          autor
+
+
+                              7.E.5
+                              7.E.5
+                              7.E.5
+                              7.E.5
+                              7.E.5
+                              7.E.5
+                                                                                                  7.U.6
+                                                                                                  7.U.6
+                                                                                                  7.U.6
+                                                                                                  7.U.6
+                                                                                                  7.U.6
+                                                                                                  7.U.6                                                                                                    Évaluation du patrimoine urbain
+                                                                                               av
+                                                                                                 en
+                                                                                                      ue    7.U.5
+                                                                                                            7.U.5
+                                                                                                            7.U.5
+                                                                                                            7.U.5
+                                                                                                            7.U.5
+                                                                                                            7.U.5
+                                                                                                                                                                                                           Arrondissement de Dorval—L'Île-Dorval
+                                                                                                           Da
+                                                                                                                           al
+
+
+
+
+                                                                                                 7.I.3
+                                                                                                 7.I.3
+                                                                                                 7.I.3
+                                                                                                 7.I.3
+                                                                                                 7.I.3
+                                                                                                 7.I.3          ws
+                                                                                                                          orv
+
+
+
+
+                                                                                                                  on
+                                                                                                                           D
+
+
+
+
+                                                                                                                                        7.E.2
+                                                                                                                                        7.E.2
+                                                                                                                                        7.E.2
+                                                                                                                                        7.E.2
+                                                                                                                                        7.E.2
+                                                                                                                                        7.E.2
+                                                                                                                       nue
+
+
+
+
+                                                                                                                                                                                                                     Arrondissement historique ou naturel
+                                                                                                                   ave
+
+
+
+
+                                                                                                                                                                                                                     Secteur de valeur patrimoniale exceptionnelle
+                                                        7.E.4
+                                                        7.E.4
+                                                        7.E.4
+                                                        7.E.4
+                                                        7.E.4
+                                                        7.E.4                                                                  ch e                   7.I.2
+                                                                                                                                                      7.I.2
+                                                                                                                                                      7.I.2
+                                                                                                                                                      7.I.2
+                                                                                                                                                      7.I.2
+                                                                                                                                                      7.I.2
+                                                                                                  7.E.3
+                                                                                                  7.E.3
+                                                                                                  7.E.3
+                                                                                                                                   min                                                                               Secteur de valeur patrimoniale intéressante
+                                                                                                  7.E.3
+                                                                                                  7.E.3
+                                                                                                  7.E.3                                B   ord
+                                                                                                       7.I.2
+                                                                                                        7.I.2
+                                                                                                        7.I.2                                  -d   u-L       7.U.1
+                                                                                                                                                              7.U.1
+                                                                                                                                                              7.U.1
+                                                                                                                                                              7.U.1
+                                                                                                                                                              7.U.1
+                                                                                                                                                              7.U.1                                                  Ensemble urbain d'intérêt
+                                                                                                                7.U.4
+                                                                                                                7.U.4
+                                                                                                                7.U.4
+                                                                                                                7.U.4
+                                                                                                                7.U.4
+                                                                                                                7.U.4                                  ac
+                                                                                                                                                                                                                     Ensemble industriel d'intérêt
+                                                                                                                       7.U.3
+                                                                                                                       7.U.3
+                                                                                                                       7.U.3
+                                                                                                                       7.U.3
+                                                                                                                       7.U.3
+                                                                                                                       7.U.3
+                                                                                                  7.E.6
+                                                                                                  7.E.6
+                                                                                                  7.E.6
+                                                                                                  7.E.6
+                                                                                                  7.E.6
+                                                                                                  7.E.6                                                                                                              Tracé fondateur d'intérêt patrimonial
+                                                                                                                          7.U.2
+                                                                                                                          7.U.2
+                                                                                                                          7.U.2
+                                                                                                                          7.U.2
+                                                                                                                          7.U.2
+                                                                                                                          7.U.2                                                                             7.E.1
+                                                                                                                                                                                                                     Code du secteur
+                                                                                                                                          7.I.1
+                                                                                                                                          7.I.1
+                                                                                                                                          7.I.1
+                                                                                                                                          7.I.1
+                                                                                                                                          7.I.1
+                                                                                                                                          7.I.1                                                                      (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                7.E.1
+                                                                                                                                7.E.1
+                                                                                                                                7.E.1
+                                                                                                                                7.E.1
+                                                                                                                                7.E.1
+                                                                                                                                7.E.1                                                                                Limite d'arrondissement
+
+
+
+ 0       500       1000   m
+                                                                                                                                                                                                           Division du patrimoine et
+                                                                                                                                                                                                           de la toponymie
+
+10 décembre 2004
+3.2.3 Le patrimoine archéologique
+L’arrondissement de Dorval–L’Île-Dorval présente une
+côte découpée, des formes relativement planes et
+une terrasse de 30 mètres d’élévation, située aujour-
+d’hui au nord de l’autoroute 20. Ces caractéristiques
+font en sorte que des portions du territoire ont pu être
+utilisées par des populations amérindiennes à partir
+d’environ 4 000 ans avant aujourd’hui et jusqu’à la
+période de contact avec les Européens. À la période
+historique, le lieu est situé sur une route de transport
+hydrographique, entre la vallée du Saint-Laurent et
+les Grands Lacs. Cette route traditionnelle par laquelle
+transitent les voyageurs et les marchandises est utilisée
+par les groupes amérindiens de la période préhis-
+torique et les Français des XVIIe et XVIIIe siècles. Les
+terres allouées en concession au XVIIe siècle, qui for-
+ment d’étroites et longues bandes de terres, s’ouvrent
+sur le fleuve Saint-Laurent. Les tensions qui existent
+entre les Français et les Iroquois à la fin du XVIIe siècle
+obligent à des mesures défensives; le fort de la
+Grande Anse représenté sur la carte de Bellin de
+1744 est érigé à La Présentation, aujourd’hui Dorval,
+au cours de la deuxième moitié du XVIIe siècle.
+
+Le premier chemin terrestre est ouvert au cours du               La recherche archéologique a recours à un ensemble de méthodes et
+XVIIIe siècle, près de la rive. Suivront de nouveaux             techniques permettant d’identifier la présence de vestiges enfouis, de
+                                                                 les décrire, de les prélever et de les analyser en fonction de leur apport
+chemins permettant de communiquer avec l’intérieur               à une meilleure compréhension de nos sociétés passées. En cas de
+des terres. Au XIXe siècle, les terres sont occupées et          découverte fortuite de vestiges ou d’objets, il est nécessaire d’en
+                                                                 informer les instances gouvernementales afin que le lieu de la découverte
+exploitées à des fins agricoles. L’entrée en service du          soit évalué.
+train, en 1855, incite les familles aisées, majoritaire-
+ment anglophones, à se construire des maisons de
+campagne dans ce milieu encore rural ou à acheter
+des fermes.
+
+Aucune recherche archéologique n’a été réalisée sur
+le territoire de Dorval–L’Île-Dorval, ce qui explique
+l’absence de site archéologique répertorié dans cet
+arrondissement, malgré le fait qu’il en existe
+plusieurs dans les arrondissements voisins. Plusieurs
+maisons datées du XVIIIe siècle et de la première
+moitié du XIXe siècle peuvent avoir conservé dans leur
+périmètre des traces d’occupation ancienne.
+
+
+
+
+                        ARRONDISSEMENT                                                                                                  39
+                                        de Dorval–L’Île-Dorval
+                                                                                         A. Les secteurs d’intérêt
+                                                                                             archéologique à fort potentiel
+
+
+
+                                                                              7.AP.1 ET 7.A.1 – ZONE CÔTIÈRE
+
+                                                                              La bordure de l’île de Montréal comprend les rives
+                                                                              mais également le chemin qui en suit le pourtour et
+                                                                              les terres qui le bordent. Ces emplacements peuvent
+                                                                              avoir été utilisés au cours des périodes préhistorique
+                                                                              et historique selon divers choix d’établissement, en
+                                                                              fonction de l’époque et des populations concernées.
+
+                                                                              Anses et pointes
+                                                                              Les avancées de terres et les petites baies forment des
+                                                                              environnements particuliers qui permettent d’exploiter
+                                                                              les ressources ichtyologiques. Quand ces formations se
+                                                                              trouvent de plus sur un axe de communication majeur,
+                                                                              comme c’est le cas ici, les probabilités d’y retrouver
+                                                                              des vestiges de campements amérindiens datant de
+                                                                              1 000 à 4 000 ans ou des occupations européennes
+                                                                              des XVIIe et XVIIIe siècles croissent de façon importante.
+                                                                              Au XVIIe siècle, la mission sulpicienne de Gentilly
+                                                                              devait s’installer sur les rives de Dorval et de l’île
+                                                                              Dorval; l’existence de cette mission est remise en
+Les collections archéologiques ont une valeur patrimoniale indéniable         question et sa localisation demeure indéterminée.
+et représentent une richesse collective qui mérite toute notre attention.
+Ces objets illustrent avec éloquence notre histoire matérielle et jouissent   C’est toute la berge qui est ciblée ici car les modifica-
+d’un pouvoir fortement évocateur qui rappelle les modes de vie de nos         tions effectuées au cours du XXe siècle, particulière-
+prédécesseurs. Jarre en terre cuite grossière d’Angleterre, 1760-1840;
+objet amérindien, pointe de projectile, 2 500 ans avant Jésus-Christ;         ment l’ajout de remblais, ont souvent favorisé la pro-
+cannelle de tonneau en laiton, XVIIIe siècle. Photographies : P. Fauteux.     tection des vestiges archéologiques présents en sous-
+                                                                              sol. Plusieurs espaces publics peuvent receler des
+                                                                              vestiges : les parcs Dorval, Saint-Charles, Windsor, Pine
+                                                                              Beach et Baie-de-Valois.
+
+                                                                              Chemin du Bord-du-Lac
+                                                                              Ce chemin suit le contour du lac Saint-Louis. Il s’agit
+                                                                              du premier axe de communication par voie terrestre
+                                                                              aménagé dans l’ouest de l’île; son tracé recoupe
+                                                                              l’ensemble des terres agricoles. Le tracé actuel sem-
+                                                                              ble respecter celui de l’ancien chemin quoiqu’il est
+                                                                              probable que son emprise ait été élargie. Des ves-
+                                                                              tiges des complexes agricoles peuvent avoir subsisté
+                                                                              aux abords et à l’intérieur du tracé ou dans l’emprise
+
+
+
+40                                                                            Évaluation du patrimoine urbain
+                                                                              Ville de Montréal
+                               7.AP.1 Carte de Jacques-Nicolas Bellin, ingénieur et hydrographe de la
+                               Marine, illustrant l’île de Montréal et ses environs, 1744. Bibliothèque
+                               nationale du Québec à Montréal.
+
+
+
+
+ARRONDISSEMENT                                                                                      41
+      de Dorval–L’Île-Dorval
+des rues perpendiculaires. Une particularité est à noter   7.AP.3 ET 7.A.2 – ÎLE DORVAL ET PETITES ÎLES
+entre les avenues Brunet et Dorval : une légère éléva-
+                                                           Les îles du lac Saint-Louis ont été fréquemment uti-
+tion de sol est présente, et cette formation peut
+receler des traces d’occupation ancienne. L’église         lisées par les groupes amérindiens de la période
+presbytérienne, qui occupe le sommet de ce talus, est      préhistorique, comme le démontrent les nombreux
+en retrait du chemin du Bord-du-Lac.                       sites archéologiques découverts dans ce type d’envi-
+                                                           ronnement. Ces sites sont des camps de passage (au
+                                                           cours de voyages) ou des camps saisonniers associés
+                                                           à l’exploitation d’une ressource particulière. L’île
+7.AP.2– POINTE DE VALOIS                                   Dorval constitue, entre 1673 et 1674, une seigneurie
+Comme elle est située à l’extrémité est de la baie de      distincte de celle de l’île de Montréal. Il est probable
+Valois, la pointe de Valois offre une excellente vue de    que l’île ait conservé des traces d’occupation des
+l’ensemble du lac Saint-Louis. Cette caractéristique       périodes préhistorique et historique. À ce jour,
+est un élément très favorable dans le contexte des         aucune recherche archéologique n’a été mise en
+guerres qui prennent place au XVIIe siècle. La pointe      œuvre sur ce territoire.
+comprend la terrasse Whitehead et un petit rond-
+point, les terrains occupés par des habitations et
+également des espaces non construits. La pointe de                    B. Les secteurs d’intérêt archéologique
+Valois constitue un emplacement à très fort potentiel
+archéologique pour les périodes préhistorique et his-
+torique, tout particulièrement pour l’installation d’un    7.A.1 – ZONE CÔTIÈRE
+fort ou d’une mission.
+                                                           Voir texte 7.AP.1
+
+
+
+                                                           7.A.2 – ÎLE DORVAL ET PETITES ÎLES
+
+                                                           Voir texte 7.AP.3
+
+
+
+
+42                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+                                                                          boulevard Des Sources
+                                                                                                                                autoroute 40
+
+
+
+                                                                                                                              boulevard Hymus
+
+
+
+
+                                                     au
+                                                       to r
+                                                           ou
+                                                             te
+                                                                  20
+
+                           7.AP.1
+                           7.AP.1
+                           7.AP.1
+                           7.AP.1
+                           7.AP.1
+
+                                                                                                                                                                                                         e
+                                                           av
+                                                                en                                                                                                                             e   -Liess
+                                             7.A.1
+                                             7.A.1
+                                             7.A.1                   ue                                                                                                                   ôte-d
+                                                                                                                                                                                    e La C
+                                             7.A.1
+                                             7.A.1
+                          7.AP.2
+                          7.AP.2                                            Ca                                                                                                 t e D
+                          7.AP.2
+                          7.AP.2
+                          7.AP.2                                                                                                                                             ou
+                                                                                                  rso
+                                                                                                        n                                                               autor
+
+                                                                               7.A.1
+                                                                               7.A.1
+                                                                                                                                                                                                             Le patrimoine archéologique
+                                                                               7.A.1
+                                                                               7.A.1
+                                                                               7.A.1
+
+                                    7.AP.1
+                                    7.AP.1
+                                    7.AP.1
+                                    7.AP.1
+                                    7.AP.1                                                                  av
+                                                                                                              en                                                                                             Arrondissement de Dorval—L'Île-Dorval
+                                                                                     7.A.1
+                                                                                     7.A.1
+                                                                                     7.A.1
+                                                                                     7.A.1
+                                                                                     7.A.1                         ue
+                                                                                                                        Da
+                                                                                                                                        al
+
+
+
+
+                                                                                                                             ws
+                                                                                                                                      orv
+
+
+
+
+                                                                                                                               on                                                                                       Grand ensemble à statut
+                                                                                                                                        D
+
+
+
+
+                                                                                                                                                                                                                        (arrondissement historique et naturel, site du patrimoine)
+                                                                                                                                    nue
+                                                                                                                                ave
+
+
+
+
+                                                                                                                                                                                                                        Site archéologique recensé (intègre)
+                                                                     7.A.1
+                                                                     7.A.1
+                                                                     7.A.1
+                                                                     7.A.1
+                                                                     7.A.1
+                                                                     7.A.1                                                              ch e
+                                                                                                                                            min                                                                         Site archéologique recensé (altéré)
+                                                                                                                                                B   ord
+                                                                                                                   7.A.1
+                                                                                                                   7.A.1
+                                                                                                                   7.A.1
+                                                                                                                   7.A.1
+                                                                                                                   7.A.1                                -d   u-L                                                        Secteur d'intérêt archéologique à fort potentiel
+                                                                                                                                                                ac
+                                                                                                                                             7.AP.1
+                                                                                                                                             7.AP.1
+                                                                                                                                             7.AP.1
+                                                                                                                                             7.AP.1
+                                                                                                                                             7.AP.1                                                                     Secteur d'intérêt archéologique
+                                                                                                            7.AP.3
+                                                                                                            7.AP.3
+                                                                                                            7.AP.3
+                                                                                                            7.AP.3
+                                                                                                            7.AP.3
+                                                                                                                                                                                                              7.AP.1
+                                                                                                                                                                                                                        Code du secteur
+                                                                                                                                                               7.AP.1
+                                                                                                                                                               7.AP.1
+                                                                                                                                                               7.AP.1
+                                                                                                                                                               7.AP.1
+                                                                                                                                                               7.AP.1
+                                                                                                                                                                                                                        (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                               BiFj-1   Code de site archéologique
+                                                                                                                                                                                                                        Limite d'arrondissement
+
+                                                                                                                                    7.A.2
+                                                                                                                                    7.A.2
+                                                                                                                                    7.A.2
+                                                                                                                                    7.A.2
+                                                                                                                                    7.A.2
+ 0       500   1000   m
+                                                                                                                                                                                                             Division du patrimoine et
+                                                                                                                                                                                                             de la toponymie
+
+11 mai 2004
+4.                              R E C O M M A N D AT I O N S
+
+
+
+4.1 Générales à l’échelle de l’arrondissement
+                                                                    et maintenir le bon état et l’intégrité des bâtiments
+                                                                    par l’entretien.
+
+                                                                       Les variables suivantes devraient être considérées
+Nous recommandons :                                                    dans l’élaboration des PIIA et des règles :
+– dans les secteurs d’intérêt patrimonial excep-                     • Parcellaire : mode de division, dimensions et pro-
+  tionnel, de protéger les caractéristiques architecturales            portions des parcelles, mode d’implantation du
+  et paysagères, de veiller à l’intégration des nouveaux               bâti, aménagement du terrain.
+  bâtiments à leur environnement et de s’assurer que
+                                                                     • Bâti : volumétrie (gabarit, nombre d’étages, forme
+  les modifications aux bâtiments existants se fassent
+                                                                       de la toiture), traitement des façades (saillies, com-
+  en tenant compte du contexte. La réglementation
+                                                                       position des façades, rythme, forme et dimen-
+  devra prévoir que les interventions dans ces secteurs
+                                                                       sions des ouvertures, modèles de portes et de
+  soient encadrées par des critères – plans d’implan-
+                                                                       fenêtres, revêtements, ornementation, couleurs,
+  tation et d’intégration architecturale (PIIA) – mais
+                                                                       matériaux et textures, etc.).
+  aussi par des règles si la situation le justifie.
+                                                                  – d’instaurer des mesures de zonage spécifiques
+– pour les bâtiments d’intérêt patrimonial excep-
+                                                                    pour des ensembles significatifs tels que les
+  tionnel et intéressant, de protéger leurs caractéris-
+                                                                    noyaux paroissiaux (parc, école, église, pres-
+  tiques architecturales en s’assurant que les modifi-
+                                                                    bytère, etc.) afin de préserver l’essence de leur
+  cations aux bâtiments énumérés dans les listes soient
+                                                                    valeur patrimoniale.
+  encadrées, dans la réglementation, par des critères (PIIA)
+  mais aussi par des règles si la situation le justifie.          – d’étudier les territoires identifiés comme ensembles
+                                                                    urbains d’intérêt, de recenser les typologies des
+– dans les secteurs d’intérêt patrimonial intéressant,
+                                                                    ensembles qui présentent une grande homogénéité
+  de protéger les caractéristiques architecturales et
+                                                                    et de développer des outils visant à sensibiliser la
+  paysagères, de veiller à l’intégration des nouveaux
+                                                                    population à l’égard de l’intérêt patrimonial de ces
+  bâtiments à leur environnement et de s’assurer que
+                                                                    ensembles.
+  les modifications aux bâtiments existants se fassent
+  en tenant compte du contexte. La réglementation                 – d’établir un contrôle sur les démolitions dans les
+  devra prévoir que les interventions dans ces secteurs             secteurs d’intérêt patrimonial et pour les bâtiments
+  soient encadrées par des règles.                                  patrimoniaux en évaluant l’intérêt patrimonial des
+                                                                    bâtiments concernés afin d’éviter des pertes
+– que l’élaboration des PIIA et l’élaboration de
+                                                                    irréversibles.
+  règles dans les règlements de zonage favorisent
+  une architecture de qualité et consolident le cadre             – d’éviter le fractionnement des grandes propriétés
+  bâti en harmonie avec le caractère de chaque lieu, en             et d’assurer la protection et la mise en valeur des
+  contrôlant notamment l’apparence des nouvelles                    propriétés institutionnelles.
+  constructions afin qu’elles s’intègrent à leur milieu
+  environnant, ainsi qu’en contrôlant l’apparence des             – d’appliquer les mesures nécessaires à un examen
+  modifications à un bâtiment pour qu’elles s’harmo-                du potentiel archéologique et, le cas échéant, à la
+  nisent avec son expression architecturale spécifique.             protection des vestiges découverts, préalablement
+                                                                    aux travaux d’excavation publics et privés dans les
+  Les principes qui devraient guider l’élaboration                  grands ensembles à statut et les biens culturels
+  des PIIA et des règles sont les suivants : conserver              à statut, les sites archéologiques recensés et les
+  l’identité des secteurs, connaître avant d’intervenir             secteurs d’intérêt archéologique à fort potentiel.
+
+
+                        ARRONDISSEMENT                                                                                    45
+                                         de Dorval–L’Île-Dorval
+– de favoriser la prise en compte des vestiges
+  présentant une grande valeur archéologique                4.2 Générales à l’échelle montréalaise
+  dans la conception et la réalisation des projets de
+  construction ou d’aménagement urbain, notamment           Nous recommandons :
+  par l’adaptation des travaux ou l’intégration des
+  vestiges.                                                 – de développer des outils de protection et de mise
+                                                              en valeur, incluant la citation en vertu de la Loi
+– d’assurer la protection et la mise en valeur des
+                                                              sur les biens culturels du Québec, pour les
+  aménagements urbains, des parcs et des espaces
+                                                              immeubles qui possèdent une valeur patrimoniale
+  publics.
+                                                              élevée à l’échelle montréalaise, comme certaines
+– de préserver et de protéger le couvert végétal,             maisons rurales et villas, institutions (ex. : écoles,
+  qui contribue beaucoup au caractère de plusieurs            églises), services municipaux (ex. : bains, casernes,
+  secteurs patrimoniaux répertoriés, de favoriser les         complexes civiques), etc.
+  plantations et de protéger de façon générale le
+                                                            – de développer des outils de protection et de mise
+  patrimoine naturel, ainsi que de préserver et mettre
+                                                              en valeur, incluant la création de sites du patri-
+  en valeur le caractère champêtre des secteurs où
+                                                              moine en vertu de la Loi sur les biens culturels
+  l’on retrouve encore des paysages agricoles.
+                                                              du Québec, pour les sites qui possèdent une
+– de protéger les perspectives d’intérêt patrimonial          valeur patrimoniale élevée à l’échelle montréalaise,
+  telles que les vues sur le centre-ville, le mont Royal,     notamment certains noyaux villageois, ensembles
+  les plans d’eau, les places publiques, les monuments        institutionnels, grands domaines, grands gestes
+  commémoratifs, certains bâtiments ou clochers, etc.         urbains et architecturaux, etc.
+
+– de préserver la spécificité de la trame urbaine           – à partir des critères de sélection établis pour l’évalua-
+  montréalaise, qui découle des tracés fondateurs et          tion des bâtiments et des secteurs susceptibles
+  des caractéristiques naturelles, et de préserver            d’avoir un intérêt pan-montréalais, de développer un
+  la grille orthogonale (incluant les ruelles des             plan d’attribution de statuts patrimoniaux en vertu
+  arrondissements du centre) ainsi que les plans              de la Loi sur les biens culturels du Québec, de
+  d’ensemble et grilles particulières de certains             fixer des critères d’évaluation pour les interventions
+  arrondissements; de contrôler les subdivisions              sur les bâtiments et territoires protégés par le volet
+  cadastrales afin de préserver le rythme des rues et         municipal de cette même loi, d’élaborer des outils
+  de sauvegarder l’échelle du bâti.                           de protection et de dresser un plan directeur pour
+                                                              la mise en valeur de chacun des sites du patrimoine.
+– de développer des outils de promotion et de mise
+  en valeur des tracés fondateurs à fort potentiel,         – d’élaborer pour le public, les employés municipaux
+  aux fins de la protection de leur caractère.                et les élus des activités et des outils de sensibili-
+– de développer un plan stratégique pour les artères          sation à l’égard du patrimoine.
+  commerciales principales (vitalité, affichage,
+  rénovation, éclairage, mobilier urbain, etc.) qui
+  tienne compte de la dimension patrimoniale des
+  lieux et de concilier les opérations de travaux
+  publics avec les préoccupations patrimoniales.
+
+
+
+
+46                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+– de réaliser des études plus poussées permettant
+  d’accroître la connaissance du patrimoine bâti, his-          4.3 Spécifiques à l’arrondissement
+  torique et archéologique afin d’évaluer la valeur
+  patrimoniale rattachée à différentes problématiques,          Nous recommandons :
+  notamment :
+                                                                – d’évaluer l’intérêt pan-montréalais des secteurs et
+  • étudier les territoires identifiés comme secteurs             des bâtiments d’intérêt patrimonial exceptionnel
+    d’intérêt archéologique à fort potentiel et                   en vue de procéder à la création de sites du patri-
+    secteurs d’intérêt archéologique pour évaluer                 moine et à la citation de bâtiments en vertu de la
+    le degré de préservation du milieu physique,                  Loi sur les biens culturels du Québec, en étudiant
+    localiser les sites archéologiques conservés et               notamment les édifices ou ensembles suivants :
+    définir préventivement les mesures de protection
+    du patrimoine archéologique.                                  – 940, chemin du Bord-du-Lac
+                                                                    Maison André-Legault-dit-Deslauriers
+  • faire des études détaillées sur le patrimoine                   (vers 1833)
+    industriel pour déterminer une stratégie de
+    conservation et de développement des sites ;                  – 1, avenue Martin
+    étudier plus spécifiquement les territoires identifiés          Maison Kilellan (vers 1879)
+    comme ensembles industriels d’intérêt.                        – 1800, chemin du Bord-du-Lac
+  • établir des balises et des critères permettant de               « Bel-Air » (1874), Forest and Stream Club (1888)
+    bien planifier et gérer la problématique du patri-            – 2, croissant Elliot
+    moine religieux; favoriser la conservation et la                Maison Meloche
+    mise en valeur des lieux de culte les plus impor-
+    tants relativement à leur valeur patrimoniale ;               – 2095, chemin du Bord-du-Lac
+    mettre en œuvre des outils de gestion des                       Maison Michel ou Allard (vers 1800)
+    demandes de permis et favoriser l’occupation de
+                                                                  – 2, avenue Martin
+    lieux de culte par des fonctions compatibles ;
+                                                                    Maison Paul-Picard (1802)
+    favoriser le maintien des caractéristiques des
+    ensembles conventuels les plus importants, de                 – 4, avenue Martin
+    leurs espaces paysagers et des cimetières.                      L’Ermitage (vers 1832)
+  • accroître la connaissance du patrimoine                       – 2, Terrasse Ballantyne
+    moderne en encourageant la recherche, les                       Maison Jacques-Lepage dit Roy (vers 1790)
+    inventaires et les publications à ce sujet.
+                                                                  – 66, rue Allan-Point
+  • planifier des études à l’échelle montréalaise,                  Maison Jacques-Morin (vers 1675)
+    développer des outils et élaborer des lignes direc-
+    trices de rénovation et d’agrandissement adap-                – 12, avenue Dalhia
+    tées aux diverses typologies que l’on retrouve                  « Quatre-Vents » (1803)
+    dans les zones identifiées comme ensembles
+                                                                  – 1549, avenue Deslauriers
+    urbains d’intérêt.
+                                                                    Maison Jean-Baptiste-Legault (vers 1830)
+
+
+
+
+                       ARRONDISSEMENT                                                                              47
+                                       de Dorval–L’Île-Dorval
+5.
+Photographies aériennes
+                               BIBLIOGRAPHIE
+
+
+                                                                JOBIN, André. Carte de l’île de Montréal, 1834,
+                                                                Bibliothèque nationale du Québec à Montréal.
+  Photographies aériennes, 1947-1948-1949, Ville                Cote : G 3452 M65 1834 J63 CAR
+de Montréal, Gestion des documents et archives
+                                                                JOURDAIN dit LABROSSE, Paul. Plan de la ville et des
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                  faubourgs de Montréal, 1767. Archives nationales du
+Orthophoto noir et blanc, 2000, Navigateur urbain.              Canada, NMC-16687 [2 sections] H2/340 Montréal
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                  1767.
+Orthophoto noir et blanc, 2002, Navigateur urbain.              LEVASSEUR DE NÉRÉ, Jacques. Plan de la ville de
+Cartes                                                          Montréal, 1704. Archives nationales (France), Centre
+                                                                des archives d’outre-mer, Dépôt des fortifications des
+ADAMS, John. Map of the City and Suburbs of                     colonies, Amérique Septentrionale, no 468A.
+Montreal, 1825. Bibliothèque de l’Université McGill,
+Département des livres rares et des collections spéciales.      MELISH, John. Plan of Montreal, with a Map of the
+                                                                Islands & adjoining Country, 1815, Bibliothèque
+BELLIN, Jacques-Nicolas. Carte de Lisle de Montreal             nationale du Québec à Montréal.
+et de ses environs, 1744, Bibliothèque nationale du             Cote: G 3454 M65 1815 M4
+Québec à Montréal.
+Cote : G 3452 M65 1744 B4                                       PINSONEAULT, A.-R. Atlas of the Island of Montreal
+                                                                and Ile Bizard, 1907, Bibliothèque nationale du Québec
+BOUCHETTE, Joseph. Topographical Map of the Province            à Montréal.
+of Lower Canada, 1815. Londres, W. Faden.                       Cote: G 1144 M65G475 P5 1907 CAR
+
+CHAUSSEGROS DE LÉRY, Gaspard. Plan de la ville                  SITWELL, H.S. Fortification Surveys Canada. Contoured
+de Montreal en Canada, 10 août 1717. Archives                   Plan of Montreal and its Environs, Quebec, 1868-1869,
+nationales (France), Centre des archives d’outre-mer,           Archives nationales du Canada, Ottawa.
+Dépôt des fortifications des colonies, Amérique                 Cote: V40/300/1867
+Septentrionale, no 473.
+                                                                UNDERWRITERS SURVEY BUREAU. Insurance Plan of
+GOAD, Charles E. Atlas of Montreal, 1890, volumes               the City of Montreal, 1952, 1953, 1954, 1955, 1957,
+1 et 2, Bibliothèque nationale du Québec à Montréal.            1959, 1961, 1962, 1963, 1964, 1966, 1967, 1972,
+Cote : G 1144 M65G475 G6 1890 CAR 1 et 2                        volumes 1 à 10, 12 à 17, 19 à 21.
+
+GOAD, Charles E. Plan of the City of Montreal, 1909,            Ouvrages généraux
+1911, 1912, 1913, 1914, 1915, volumes 1 à 12,
+Bibliothèque nationale du Québec à Montréal et                    Itinéraire toponymique du Saint-Laurent, ses rives
+Direction du développement urbain de la Ville de                et ses îles, Québec, 1984, 451 p., coll. Études et
+Montréal.                                                       recherches toponymiques, no 9.
+
+HOPKINS, H.W. Atlas of the City and Island of                   BEAUREGARD, Ludger. « Géographie historique des
+Montreal, 1879, Bibliothèque nationale du Québec                côtes de l’île de Montréal », Cahiers de géographie
+à Montréal.                                                     du Québec, vol. 28, nos 73-74, avril-septembre 1984,
+Cote : G1144 M65G475 H6 1879 CAR                                p. 47-62.
+
+
+
+
+                       ARRONDISSEMENT                                                                              49
+                                       de Dorval–L’Île-Dorval
+BEAUREGARD, Ludger. Toponymie de la région métro-         MAGNAN, Hormidas. Dictionnaire historique et géo-
+politaine de Montréal, Québec, Ministère des Terres       graphique des paroisses, missions et municipalités
+et Forêts du Québec, 1968, 225 p., coll. Étude            de la province de Québec, Arthabaska, Imprimerie
+toponymique 2 (nouvelle série).                           d’Arthabaska Inc., 1925, 738 p.
+
+BERGERON, Claude. Architectures du XXe siècle au          MARSAN, Jean-Claude (dir.). Inventaire préliminaire
+Québec, Québec, Musée de la civilisation / Éditions       des bâtiments patrimoniaux de la Commission sco-
+du Méridien, 1989, 271 p.                                 laire de Montréal, vol. 1-2a-2b, Montréal, Université
+                                                          de Montréal, 28 février 2001.
+BERGERON, Claude. L’architecture des églises du
+Québec 1940-1985, Québec, Les Presses de l’Université     MARSAN, Jean-Claude. Montréal en évolution :
+Laval, 1987, 386 p.                                       Historique de développement de l’architecture et de
+                                                          l’environnement urbain montréalais, 3e éd., Laval,
+COMMISSION DES BIENS CULTURELS. Les chemins
+                                                          Éditions du Méridien, 1994, 515 p.
+de la mémoire. Monuments et sites historiques du
+Québec, Tome II, Québec, Les Publications du Québec,      ROBERT, Jacques. Les ensembles patrimoniaux de la
+1991, 565 p.                                              Communauté urbaine de Montréal, Montréal, Ministère
+                                                          des Affaires culturelles, mars 1985, 40 p.
+COMMISSION DE TOPONYMIE. Noms et lieux du
+Québec. Dictionnaire illustré du Québec, Québec, Les      ROBERT, Jean-Claude. Atlas historique de Montréal,
+Publications du Québec, 1994, 925 p.                      Montréal, Art Global / Libre Expression, 1994, 167 p.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL. Répertoire                VILLE DE MONTRÉAL. Le patrimoine de Montréal,
+d’architecture traditionnelle sur le territoire de la     Montréal, Ville de Montréal et Ministère de la Culture
+Communauté urbaine de Montréal. 12 volumes.               et des Communications, 1998, 168 p.
+
+COURVILLE, Serge (dir.). Paroisses et municipalités de    WOLFE, Jeanne M. et François DUFAUX (dir.). A topo-
+la région de Montréal au XIXe siècle (1825-1861),         graphic Atlas of Montreal / Atlas topographique de
+Répertoire documentaire et cartographique, Québec,        Montréal, Montréal, McGill School of Urban Planning /
+Les Presses de l’Université Laval, 1988, 350 p.           École d’urbanisme, 1992, 78 p.
+
+DESJARDINS, Pauline. Évaluation du patrimoine indus-      Site Internet
+triel. Critères généraux, Montréal, Archemi / Ville de
+                                                          VILLE DE MONTRÉAL. Répertoire bibliographique sur
+Montréal, Service du développement économique et
+                                                          le patrimoine archéologique de Montréal, 2004.
+du développement urbain, 29 août 2003, 56 p.
+                                                          http://www2.ville.montreal.qc.ca/urb_demo/domaines/
+LAURIN, J.-E. Histoire économique de Montréal et          archeo/bib_recherche.htm
+des Cités et Villes du Québec, [Montréal], Les Éditions
+J.-E. Laurin, 1942, 287 p.
+
+LEUNG, Felicity, David McCONNELL et Jean-Claude
+PARENT. Les emplacements manufacturiers au Canada,
+Ottawa, Environnement Canada, Service canadien des
+Parcs, 1990.
+
+LINTEAU, Paul-André. Histoire de Montréal depuis la
+Confédération, Montréal, Boréal,1992, 608 p.
+
+
+50                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+Ouvrages spécifiques à l’arrondissement                          MAURAULT, Olivier. « SALIGNAC DE LA MOTHE-
+                                                                 FÉNELON, FRANÇOIS DE » dans Dictionnaire bio-
+  Un lieu nommé Pointe-Claire. Guide d’excursion                 graphique du Canada, tome I, Québec, Les Presses
+patrimoniale / A Place Called Pointe-Claire. A Heritage          de l’Université Laval, 1969, p. 613-615.
+Tour Guide, 2000, s.p.
+                                                                 PINARD, Guy. « L’aéroport international de Montréal à
+ Guide patrimonial de Dorval/Heritage Guide of                   Dorval », La Presse, 2 avril 1989.
+Dorval (dépliant), s.d.
+                                                                 PINARD, Guy. « La maison Jacques-Morin », La Presse,
+  Strathmore Gardens (dépliant), s.d.                            8 octobre 1989.
+  Dorval 1667-1975. The Story of Dorval in Pictures              PINARD, Guy. « Le club de golf Royal Montréal », La
+and Words, an Historical Album from 1667 to 1975                 Presse, 31 décembre 1989
+/ L’histoire de Dorval à l’aide de photos et de
+quelques mots. L’album historique de 1667 à 1975,
+1975, 52 p.
+
+  « Développement résidentiel à Dorval », Bâtiment,
+vol. 27, no 4, avril 1952, p. 17-19.
+
+  Baie d’Urfé 1686-1986, Town of Baie d’Urfé, 1986,
+214 p.
+
+DES ROCHERS, Jacques. L’île Dorval. Sur la route des
+voyageurs, d’un désir de mission à la villégiature,
+Direction régionale de Montréal du ministère de la
+Culture et des Communications, Municipalité de L’Île
+Dorval, 1996, 151 p.
+
+FILIATRAULT, Danielle. Le patrimoine archéologique
+de L’Île-Dorval, Ministère de la Culture et des
+Communications, Direction de Montréal, Municipalité
+de L’Île-Dorval, 1996, 60 p.
+
+GALBRAIGHT, John S. « SIMPSON, sir GEORGE » dans
+Dictionnaire biographique du Canada, tome VIII,
+Québec, Les Presses de l’Université Laval, 1985, p.
+902-909.
+
+GARRY, Robert. «L’aéroport international de Montréal»,
+Revue de géographie de Montréal, vol. 21, no 1, 1967.
+
+LA ROSE, André. Les registres paroissiaux au Québec
+avant 1800, Québec, Gouvernement du Québec,
+Ministère des Affaires culturelles, Archives nationales
+du Québec, 1980, 298 p., Coll. Études et recherches
+archivistiques, no 2.
+
+
+                      ARRONDISSEMENT                                                                               51
+                                        de Dorval–L’Île-Dorval
+

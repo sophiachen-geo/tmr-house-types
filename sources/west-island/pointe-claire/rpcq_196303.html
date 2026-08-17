@@ -1,0 +1,1913 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial de la pointe Claire -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=196303"
+              addthis:title="Site patrimonial de la pointe Claire"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial de la pointe Claire</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Site patrimonial du noyau institutionnel de Pointe-Claire</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Pointe-Claire</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=94E112AB6501B6EAE3C165A444D0825C?type=immo&id=196303&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=94E112AB6501B6EAE3C165A444D0825C?type=immo&id=196303&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=94E112AB6501B6EAE3C165A444D0825C?type=immo&id=196303&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=94E112AB6501B6EAE3C165A444D0825C?type=immo&id=196303&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(9)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=93473&type=bien">
+            Moulin à vent de Pointe-Claire
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=179289&type=bien">
+            Couvent des Soeurs de la Congrégation de Notre-Dame
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=196307&type=bien">
+            Croix des missions
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=196304&type=bien">
+            École primaire Marguerite-Bourgeoys
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=94E112AB6501B6EAE3C165A444D0825C?type=immo&id=196303&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=94E112AB6501B6EAE3C165A444D0825C?type=immo&id=196303&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de la pointe Claire. Vue générale depuis le parc Alexandre-Bourgeau" class="galleryImage"
+           href="document/rpcq_bien_196303_377462.JPG?id=377462" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_196303_377462.JPG?id=377462" 
+           data-grandformat="document/rpcq_bien_196303_377462.JPG?id=377462" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2026-05-21" 
+           data-description="" 
+           data-annee="2026" 
+           data-auteur="Émilie Deschênes" 
+           data-id="377462" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="377462"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de la pointe Claire. Vue générale depuis le parc Alexandre-Bourgeau" src="document/rpcq_bien_196303_377462.JPG?id=377462&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de la pointe Claire. Vue générale" class="galleryImage"
+           href="document/rpcq_bien_196303_377483.JPG?id=377483" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_196303_377483.JPG?id=377483" 
+           data-grandformat="document/rpcq_bien_196303_377483.JPG?id=377483" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2026-05-20" 
+           data-description="" 
+           data-annee="2026" 
+           data-auteur="Émilie Deschênes" 
+           data-id="377483" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="377483"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de la pointe Claire. Vue générale" src="document/rpcq_bien_196303_377483.JPG?id=377483&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de la pointe Claire" class="galleryImage"
+           href="document/rpcq_bien_196303_377484.JPG?id=377484" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_196303_377484.JPG?id=377484" 
+           data-grandformat="document/rpcq_bien_196303_377484.JPG?id=377484" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2026-05-20" 
+           data-description="" 
+           data-annee="2026" 
+           data-auteur="Émilie Deschênes" 
+           data-id="377484" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="377484"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de la pointe Claire" src="document/rpcq_bien_196303_377484.JPG?id=377484&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de la pointe Claire est localisé au bout d'une pointe de terre s'avançant dans le lac Saint-Louis dans l'ouest de l'île de Montréal. Le site forme un polygone irrégulier d'une superficie d'environ 2,7 hectares, comprenant une presqu'île  rattachée par un bras de terre. Il comprend des édifices catholiques tels que l'église Saint-Joachim, le presbytère et la maison du sacristain, ainsi que des établissements liés directement à la vie paroissiale, à savoir l'école Marguerite-Bourgeoys et l'ancien couvent des soeurs de la Congrégation de Notre-Dame. Sur la presqu'île, à côté de l'ancien couvent, se dresse un moulin à vent. Des oeuvres d'art religieuses et des dépendances complètent le cadre bâti. Les berges sur le flanc sud de l'église ont un caractère semi-public avec l'aménagement d'une allée et de petites aires de repos côté sud. Derrière l'église, un vaste espace gazonné (ancien cimetière) est aussi intégré au site. La trame villageoise comprend la voie circulaire qui entoure l'église et est formée par la jonction des avenues Sainte-Anne et Saint-Joachim. Le site patrimonial est borné au nord par la cour de l'école Marguerite-Bourgeoys, au sud et à l'est par le lac Saint-Louis, et à l'ouest par le tissu résidentiel du village de Pointe-Claire. Le site patrimonial de la pointe Claire se trouve dans la Ville de Pointe-Claire, sur l'île de Montréal. <br/><br/>Ce bien est cité site patrimonial. La protection s'applique aux terrains ainsi qu'à l'enveloppe extérieure des constructions qui s'y élèvent. Le site patrimonial comprend un immeuble patrimonial classé, le moulin à vent de Pointe-Claire. Un site inscrit à l'Inventaire des sites archéologiques du Québec est associé au lieu.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Citation</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+            <span >Municipalité</span>&nbsp;(Pointe-Claire)
+          
+          
+          
+          
+        
+      </td>
+      <td>
+        2013-04-02
+        
+      </td>
+    </tr>
+     
+        
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Statuts antérieurs</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                  <li>Avis de motion de citation, 2012-12-03</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de la pointe Claire présente un intérêt pour sa valeur paysagère. L'ensemble du noyau institutionnel est mis en valeur par un environnement semi-naturel d'une grande beauté, ce qui place le site parmi les plus exceptionnels de la région de Montréal. Localisé sur une pointe au relief plat et sur une presqu'île avançant dans le lac Saint-Louis, le site offre une vue spectaculaire sur la Rive-Sud et sur Montréal, en particulier sur quelques bâtiments phares de la métropole et sur le mont Royal. Les étendues gazonnées où se dressent quelques feuillus matures de diverses essences, les rives ayant conservé une grande partie de leur physionomie en dépit de travaux de remblayage ainsi que les petites aires de repos semi-publiques permettent d'avoir des vues exceptionnelles sur le lac et ses environs. La situation riveraine et la forme géomorphologique spécifique procurent au lieu une luminosité exceptionnelle évoquée par le toponyme. Par la qualité de son aménagement et par ses liaisons visuelles avec des composantes caractéristiques de l'archipel de Montréal, le site patrimonial de la pointe Claire constitue un important patrimoine paysager.<br/> <br/>Le site patrimonial de la pointe Claire présente aussi un intérêt pour sa valeur architecturale. Le moulin à vent (1709-1710) est un témoin clé de la vie sociale et économique sous le Régime français. Objet d'importants travaux de restauration dans les années 1960, il conserve de nombreux attributs d'origine du moulin-tour, notamment sa forme cylindrique en maçonnerie et son toit conique. L'église paroissiale (1882-1885), oeuvre de Victor Bourgeau et d'Alcibiade Leprohon, se démarque des nombreuses réalisations de Bourgeau dans l'ancien diocèse de Montréal par sa localisation exceptionnelle mettant en valeur son architecture monumentale néogothique. Elle est représentative du modèle à une tour et un transept que Bourgeau conçoit à la fin de sa carrière. Le couvent des soeurs de la Congrégation de Notre-Dame (1867-1868) est l'une des rares oeuvres conventuelles d'Henri-Maurice Perrault, surtout connu pour son travail d'arpenteur. La localisation du couvent sur la presqu'île, la proximité du moulin et la silhouette omniprésente de l'église rehaussent l'intérêt patrimonial du site. Le presbytère bénéficie lui aussi des qualités du site, si bien que l'ensemble du cadre bâti se détache singulièrement des autres noyaux institutionnels de la région de Montréal. Par la symbiose fonctionnelle de son architecture et son contexte d'insertion, le site patrimonial de la pointe Claire témoigne de la mise en place d'un patrimoine architectural majeur.<br/><br/>Le site présente également un intérêt pour sa valeur historique. Avec son église, son presbytère, son ancien couvent, son école villageoise et son moulin, il compte parmi les noyaux institutionnels et paroissiaux catholiques les mieux pourvus en témoins matériels dans la grande région de Montréal. En outre, son espace gazonné rappelle l'emplacement de l'ancien cimetière et celui des premières maisons villageoises, tandis que son héritage archéologique comprend, entre autres, des artéfacts autochtones. Avec sa combinaison unique d'éléments construits, le site patrimonial de la pointe Claire offre un portrait didactique qui témoigne de l'évolution tricentenaire des institutions de cette paroisse montréalaise.<br/><br/>Le site présente en outre un intérêt pour sa valeur urbanistique. À l'encontre du modèle habituel situant généralement le noyau institutionnel bien en vue, il se trouve ici à une distance appréciable du centre villageois (chemin Bord-du-Lac). La localisation du site patrimonial de la pointe Claire rappelle le lieu de naissance du village et explique la forme villageoise jusqu'à la route principale.<br/><br/>Source: Ville de Pointe-Claire, 2013.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments caractéristiques du site patrimonial de la pointe Claire liés à son intérêt paysager incluent, notamment :<br/>- la localisation sur une pointe avançant dans le lac Saint-Louis et sur une presqu'île où se trouvent le moulin et l'ancien couvent;<br/>- les contours naturels toujours perceptibles de la presqu'île et de la pointe Claire;<br/>- une bande riveraine dépourvue de constructions;<br/>- un relief plat;<br/>- des espaces gazonnés, des aires de repos et des feuillus matures de diverses essences;<br/>- l'ancien cimetière qui fournit un dégagement visuel sur le chevet de l'église Saint-Joachim et sur les maisons villageoises environnantes;<br/>- la localisation du presbytère tout près de l'église;<br/>- les perspectives visuelles sur la Rive-Sud, le mont Royal et la ville de Montréal.<br/><br/>Les éléments caractéristiques de l'église Saint-Joachim liés à son intérêt architectural<br/>incluent notamment :<br/>- le volume, dont le plan en croix latine avec chevet à pans coupés, la longue nef, l'étroit<br/>transept, le toit à deux versants assez pentu, la sacristie de plan rectangulaire dans le prolongement du chevet, la tour carrée à demi engagée avec sa haute flèche, les tourelles;<br/>- les matériaux, dont la pierre à bossage rustique, la pierre de taille lisse des chambranles, la tôle à baguettes du toit, le bois des ouvertures;<br/>- les ouvertures, dont les nombreuses baies ogivales avec ou sans réseaux, la porte d'entrée avec rose, les fenêtres rectangulaires de la sacristie, les oculus des transepts, la niche de la façade principale;<br/>- le décor d'architecture, le portail avec grande embrassure brisée, dont les corniches à<br/>denticules, les contreforts, les pinacles des tourelles, les gâbles de la flèche et du portail, les redents du pignon de la façade, la croix de la flèche.<br/><br/>Les éléments caractéristiques du moulin banal liés à son intérêt architectural incluent,<br/>notamment :<br/>- le volume, dont la forme cylindrique, le toit conique, les ailes, la queue;<br/>- les matériaux, dont les moellons de pierre;<br/>- les ouvertures, dont les portes opposées, les ouvertures asymétriques, la lucarne.<br/><br/>Les éléments caractéristiques de l'ancien couvent liés à son intérêt architectural incluent, notamment :<br/>- son volume, dont le plan rectangulaire initial à trois étages, le toit à double versants, le clocheton au centre de l'arête faîtière;<br/>- les matériaux, dont les moellons de pierre, la pierre de taille lisse pour les chambranles;<br/>- les ouvertures, dont les fenêtres rectangulaires à battants et à guillotine sur toutes les façades, les lucarnes, les oculus sur les façades latérales, les entrées sur la façade principale;<br/>- le décor d'architecture, dont la corniche à denticules, les chambranles en pierre de taille lisse.<br/><br/>Les éléments caractéristiques du presbytère liés à son intérêt architectural incluent,<br/>notamment :<br/>- le volume, dont le plan irrégulier, l'élévation de deux étages et demi, le toit en fausse mansarde, la galerie et le balcon, les nombreux toits en pavillon au-dessus des fausses lucarnes et du balcon;<br/>- les matériaux, dont la pierre de taille lisse, l'ardoise du second étage et du toit, la tôle à baguettes du toit de la galerie, le bois des fenêtres;<br/>- les ouvertures, dont les fausses lucarnes en pavillon, les baies rectangulaires, les oculus sur le toit brisé;<br/>- le décor d'architecture, dont les chapiteaux ioniques et doriques de la galerie, les corniches à denticules, les oves sur la corniche supérieure, les consoles au bas des toits en pavillons, les épis de faîtage.<br/><br/>Les éléments caractéristiques du site liés à son intérêt historique incluent, notamment :<br/>- la combinaison unique d'éléments construits dans la région de Montréal.<br/><br/>Les éléments caractéristiques du site liés à son intérêt urbanistique comprennent, notamment :<br/>- son intégration à la trame villageoise;<br/>- son retrait par rapport à la rue principale (chemin Bord-du-Lac).<br/><br/>Source: Ville de Pointe-Claire, 2013.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>À fin du XVIIe siècle, les premiers colons s'installent dans la future paroisse de Pointe-<br/>Claire. Un presbytère-chapelle est construit en 1705, et un moulin à vent, dont la construction est confiée aux charpentiers Léonard et Charles Paillé (le fils de Léonard) et au maçon Jean Mars, est érigé en 1709-1710. La première église est élevée peu après, en 1713. Tous ces bâtiments sont situés au bout de la pointe Claire, une avancée de terre dans le lac Saint-Louis. Les tensions dans les relations franco-iroquoiennes forcent ensuite la jeune paroisse à se doter d'infrastructures défensives. Vers 1729, une palissade de pieux est élevée autour de l'église et du presbytère, tandis que le moulin sert de redoute en cas d'attaque. Dans les trois décennies qui suivent, les quelques emplacements concédés derrière le premier cimetière adjacent à l'église forment l'embryon d'un bourg qui sera concrétisé quelques années après la Conquête. En 1765, les Sulpiciens concèdent en effet une bonne partie des parcelles du noyau villageois arpenté pour la première fois en 1756. Le noyau villageois étant formé, les soeurs de la Congrégation de Notre-Dame font construire un couvent derrière le cimetière en 1787. Non loin, sur la rue Sainte-Anne actuelle, une école pour garçons ouvre ses portes vers la fin des années 1810.<br/><br/>En 1867, de grands changements s'opèrent au sud de la pointe. La Fabrique désire en effet ériger une nouvelle église et agrandir le cimetière, mais elle manque d'espace. Elle compte donc utiliser le terrain situé à l'arrière de l'église et occupé par le couvent des soeurs de la Congrégation de Notre-Dame. En échange, la Fabrique cède à la communauté la « pointe du Moulin », tout juste au sud, pour y ériger un nouveau couvent. Les soeurs confient la conception du couvent, terminé en 1868, à l'architecte et arpenteur Henri-Maurice Perrault. Après de multiples difficultés, dont l'incendie en 1881 de l'église qui n'était pas encore terminée, une quatrième église, monumentale, est construite entre 1882 et 1885 selon les plans de l'important architecte Victor Bourgeau et de son associé Alcibiade Leprohon. Un nouveau cimetière nettement plus grand est aménagé derrière la nouvelle église, ce qui entraîne la disparition de la rue du Couvent. À ce moment, le village de Pointe-Claire compte environ une centaine de maisons, trois fois plus qu'un siècle auparavant, et environ 500 habitants. Le village, qui s'étendait de la presqu'île jusqu'au chemin Bord-du-Lac, forme maintenant un « L » avec une rue principale (chemin Bord-du-Lac) jalonnée d'établissements hôteliers et de commerces.<br/><br/>Sur la portion sud de la pointe Claire, la Fabrique acquiert la seule propriété qui ne lui appartenait pas en 1896. Cet emplacement, occupé depuis longtemps par des auberges, est un grand lot qui s'étend jusqu'au chemin Bord-du-Lac. Une auberge est aussitôt transformée en une école administrée par les Frères de Saint-Joseph, qui y dispensent leur enseignement jusqu'au milieu des années 1910. Ils sont remplacés par les Frères des Écoles chrétiennes, qui s'installent en 1928 dans un nouvel immeuble (la section sud-ouest de l'école Marguerite-Bourgeoys actuelle) attenant à l'ancienne auberge. En 1913, la paroisse se dote d'un nouveau presbytère (Théodose Daoust, architecte) qui est bâti à même le corps de maçonnerie du précédent, construit en 1848.<br/><br/>En 1954, une nouvelle section de l'école est construite sur la rue Sainte-Anne puis reliée à la partie érigée en 1928. Une autre annexe est bâtie à l'est en 1957, sur le site de l'ancienne auberge. Le cimetière devenu trop petit est relocalisé en 1946. La zone gazonnée actuelle en marque l'emplacement. Après une restauration dans les années 1960, deux ailes sont ajoutées à l'école, et le toit conique est rétabli. Le moulin est classé en 1983.<br/><br/>Le site patrimonial de la pointe Claire est cité en 2013.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Pointe-Claire
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Adresse</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        avenue Saint-Joachim
+      </li>
+    
+      <li>
+        
+        avenue Sainte-Anne
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Désignation cadastrale</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 526 380
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 526 733 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 527 910
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 529 968
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 529 970
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 529 976
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 530 601
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2022110255" async></script></body>
+</html>

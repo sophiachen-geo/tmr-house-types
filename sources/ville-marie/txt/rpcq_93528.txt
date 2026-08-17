@@ -1,0 +1,346 @@
+ 
+ Site patrimonial de Montréal -
+ Répertoire du patrimoine culturel du Québec
+ Ministère de la Culture et des Communications 
+ Répertoire du patrimoine culturel du Québec 
+var modif_motCle = 2;
+function changement_motCle() {
+ modif_motCle = 5;
+}
+function envoi_motCle() {
+ if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+ document.getElementById('motCle').value = ""; 
+ }
+}
+ Rechercher 
+ Section 
+ Tout le Répertoire 
+ Patrimoine protégé et valorisé 
+ Patrimoine immobilier 
+ Patrimoine mobilier 
+ Événements, groupes et personnes 
+ Patrimoine immateriel 
+ Plaques commémoratives 
+ Recherche avancée
+-->
+ Répertoire du patrimoine culturel du Québec 
+ Accueil
+ Recherche
+avancée
+ Foire
+aux questions
+ À propos
+ Accueil > 
+ Fiche de l'élément
+ Inscrit au Registre du patrimoine culturel 
+ Imprimer 
+ Partager 
+ Site patrimonial de Montréal
+ Type  :
+ Patrimoine immobilier
+ Autre(s) nom(s)  :
+ Arrondissement historique de Montréal
+ Arrondissement historique du Vieux-Montréal
+ Vieux-Montréal
+ Région administrative  :
+ Montréal
+ Municipalité  :
+ Montréal
+ Thématique  :
+ Patrimoine agricole
+ Patrimoine autochtone (Patrimoine des Premières Nations)
+ Patrimoine commémoratif
+ Patrimoine industriel
+ Patrimoine institutionnel et civil
+ Patrimoine maritime et fluvial
+ Patrimoine militaire
+ Patrimoine religieux (Culte)
+ Patrimoine religieux (Mission curiale)
+ Patrimoine religieux (Vie quotidienne)
+ Tradition religieuse  :
+ Christianisme (Catholicisme (rite latin))
+ Christianisme (Orthodoxie)
+ Usage  :
+ Non applicable
+ Imprimer
+ -->
+ Éléments associés
+ Patrimoine immobilier associé ');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=immo&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+ Patrimoine immobilier associé  (518)
+ Comprend  : 
+ Auberge Del Vecchio
+ Chapelle Notre-Dame-de-Bon-Secours
+ Château De Ramezay
+ Édifice de la Banque-Canadienne-Impériale-de-Commerce
+ Patrimoine immobilier associé ');" class="voirTout"> Voir la liste 
+ Patrimoine mobilier associé ');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=mob&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+ Patrimoine mobilier associé  (1)
+ Comprend  : 
+ Sculpture
+ (Les Chuchoteuses)
+ Patrimoine mobilier associé ');" class="voirTout"> Voir la liste 
+ Plaques commémoratives associées ');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=pla&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+ Plaques commémoratives associées  (2)
+ Comprend  : 
+ Plaque de l'érable planté par Langlais
+ Plaque de l'érable planté par McWhaw
+ Plaques commémoratives associées ');" class="voirTout"> Voir la liste 
+ Groupes associés ');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=grp&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+ Groupes associés  (1)
+ Compagnie des prêtres de Saint-Sulpice (1641 – )
+ Groupes associés ');" class="voirTout"> Voir la liste 
+ Personnes associées ');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+ Personnes associées  (3)
+ Basset Des Lauriers, Bénigne (vers 1639 – 1699)
+ Chomedey de Maisonneuve, Paul de (1612 – 1676)
+ Dollier de Casson, François (1636 – 1701)
+ Personnes associées ');" class="voirTout"> Voir la liste 
+ Images ">
+ Images 
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Carte ">
+ Carte 
+ Description 
+ Le site patrimonial de Montréal couvre un territoire urbain qui s'étend sur environ 1 400 mètres d'est en ouest et 800 mètres du nord au sud. Il englobe la ville autrefois fortifiée, des parcelles des anciens faubourgs, le secteur de la pointe à Callière et le Vieux-Port. Le quartier est délimité par la rue Saint-Antoine au nord, le fleuve Saint-Laurent au sud, le faubourg Québec avec les rues Saint-Hubert et Saint-André à l'est, et le faubourg des Récollets avec les rues McGill, De Longueuil et des Soeurs-Grises à l'ouest. 
+Ce territoire est situé dans la partie sud de l'île de Montréal, en aval des rapides de Lachine. Le relief est marqué par la présence d'une terrasse élevée le long du fleuve et du coteau Saint-Louis en retrait. La trame, plus ou moins orthogonale, forme un réseau de rues étroites et de voies plus larges qui encadrent des places publiques. 
+Le site est caractérisé par la densité de sa trame, les dimensions imposantes des bâtiments et la diversité des fonctions qui s'y retrouvent. Il compte 557 édifices et vestiges construits à différents moments entre le XVIIe siècle et le XXe siècle. Entrepôts, bâtiments religieux, édifices à bureaux, banques, sièges sociaux de compagnies, palais de justice et autres édifices institutionnels forment un paysage architectural diversifié, rendu harmonieux par l'omniprésence de la pierre calcaire grise.
+Ce bien est déclaré site patrimonial. Il comprend de nombreux biens patrimoniaux classés et compte plusieurs sites archéologiques, témoins de l'occupation autochtone et euroquébécoise.
+ Haut de la page 
+ Statuts 
+ Statut 
+ Catégorie 
+ Autorité 
+ Date 
+ Déclaration 
+ Site patrimonial
+ Gouvernement du Québec
+ 1995-04-26
+ Transfert de responsabilité 
+ Exercice de certains pouvoirs par la municipalité (Montréal), 2017-09-21
+ Prise d'effet  : 2018-09-21
+ Statuts antérieurs 
+ Déclaration, 1964-01-08
+ Haut de la page 
+ Valeur patrimoniale 
+ Le site patrimonial de Montréal présente un intérêt pour sa valeur historique. Berceau de la métropole économique et culturelle du Québec, ce lieu possède une densité historique remarquable en raison de ses renouvellements successifs, dont il conserve les traces. Fréquentée par les Autochtones depuis la préhistoire, Montréal est fondée en 1642 par Paul de Chomedey de Maisonneuve (1612-1676). D'abord établissement missionnaire, la cité devient la tête de pont de la traite des fourrures en raison de sa position géographique privilégiée. Les bouleversements politiques du XVIIIe siècle, l'aménagement de son port, la révolution industrielle et celle des transports au cours du XIXe siècle font du Vieux-Montréal le coeur de la métropole industrielle et financière du Canada et la vitrine du capitalisme canadien. Le déclin du Vieux-Montréal s'amorce toutefois au tournant du XXe siècle et s'accentue à la suite de la Seconde Guerre mondiale. Après une période de quasi-abandon de la fonction résidentielle, on pose un nouveau regard sur ce lieu d'histoire. Au fil des ans, les efforts conjugués de mise en valeur urbaine ont fait de ce territoire un important pôle culturel, social et touristique de la ville de Montréal.
+Le site patrimonial présente aussi un intérêt pour sa valeur urbanistique. =La trame et le lotissement de ce lieu conserve ses caractéristiques des XVIIe et XVIIIe siècles, notamment les traces de la ville coloniale fortifiée, malgré l'évolution du cadre bâti. La trame urbaine s'est développée principalement en trois étapes. Le sulpicien François Dollier de Casson (1636-1701) trace les premières rues en 1672 avec l'aide du notaire-arpenteur Bénigne Basset Des Lauriers (v. 1639-1699). Le territoire s'organise alors autour de trois rues parallèles au fleuve et de sept rues perpendiculaires qui forment un plan plus ou moins orthogonal. Les ordonnances des intendants définissent ensuite les rapports entre la rue et les bâtiments et déterminent notamment l'alignement des constructions. Enfin, le Plan des commissaires, élaboré en 1804, marque la trame par l'aménagement d'une terrasse le long du fleuve, l'agrandissement du Champ-de-Mars et la création de voies plus larges. Le site est donc un bon exemple de préservation d'une trame urbaine ancienne.
+Le site patrimonial présente également un intérêt pour sa valeur architecturale. Les bâtiments, dont certains ont été construits au XVIIe siècle, témoignent de ses différentes fonctions et de ses mutations. Les immeubles les plus anciens - habitations et édifices conventuels - qui datent de l'époque de la Nouvelle-France présentent une maçonnerie en pierre et des toits à pignon. Les nombreux édifices d'inspiration classique du Régime britannique sont caractérisés, entre autres, par la pierre calcaire grise. L'architecture éclectique du XIXe siècle s'observe dans les édifices à bureaux, banques, sièges sociaux de compagnies d'assurances et palais de justice. Le site compte enfin quelques bâtiments d'intérêt du XXe siècle, notamment des édifices art déco, rationalistes et fonctionnalistes.
+Le site patrimonial présente en outre un intérêt pour sa valeur archéologique. La situation et la topographie du site ont favorisé de multiples établissements à cet endroit depuis 3 000 ans, et l'archéologie permet de se représenter les anciens paysages et de comprendre l'évolution du lieu. Les vestiges autochtones témoignent des activités de chasse et de pêche et de l'utilisation du lieu pour des foires commerciales au cours de la préhistoire. Quant aux vestiges euroquébécois, ils permettent de retracer les diverses occupations commerciale, religieuse, militaire, institutionnelle, industrielle, domestique, artisanale et agricole depuis le XVIIe siècle.
+Source : Ministère de la Culture et des Communications du Québec, 2004.
+ Haut de la page 
+ Éléments caractéristiques 
+ Les éléments clés du site patrimonial de Montréal liés à ses valeurs historique, urbanistique, architecturale et archéologique comprennent, notamment :
+- la situation stratégique dans la ville de Montréal, dans un quadrilatère comprenant l'ancienne ville fortifiée, le secteur de la pointe à Callière et le Vieux-Port, le long du fleuve Saint-Laurent, en aval des rapides de Lachine;
+- la richesse archéologique permettant de retracer l'occupation humaine depuis 3 000 ans, de se représenter les anciens paysages et de comprendre l'évolution du lieu;
+- les portions intactes offrant un potentiel archéologique;
+- les grandes fonctions urbaines représentées (fonctions résidentielle, commerciale, religieuse, militaire, institutionnelle, industrielle, domestique, artisanale et agricole);
+- le réseau viaire plus ou moins orthogonal;
+- les étroites voies publiques parallèles ou perpendiculaires au fleuve telles que tracées par Dollier de Casson;
+- les trois artères plus importantes (rues de la Commune, Saint-Antoine et McGill) bordant le site au sud, au nord et à l'ouest et découlant du Plan des commissaires; 
+- l'alignement des bâtiments par rapport à la voie publique;
+- la haute densité d'occupation du sol;
+- la mitoyenneté des constructions;
+- l'aménagement de cours ou de courettes intérieures dans certains secteurs;
+- le retrait par rapport à la rue de certains édifices administratifs et publics;
+- la relation entre le lot et la rue se manifestant par la présence de marches, de portes cochères, de grilles, de servitudes de passage et de plusieurs entrées, à savoir une sur chaque façade donnant sur la rue;
+- les places du Régime français, transformées en squares au XIXe siècle, puis dans certains cas reconfigurées au XXe siècle;
+- le corpus architectural riche et diversifié associé à plusieurs époques de construction, du Régime français au XXe siècle;
+- les gabarits hétérogènes, très variables tout particulièrement quant à la hauteur;
+- l'utilisation de matériaux traditionnels marquée par une prédominance de la pierre calcaire grise jusqu'en 1850, puis par une grande variété de types de pierre;
+- la présence de bâtiments du Régime français présentant des structures généralement basses (un ou deux étages), des toitures à deux versants ou à croupes de pente moyenne, des murs de moellons grossièrement équarris, des cheminées dans la continuité des murs pignons, des murs coupe-feu et des fenêtres en bois à battants et à petits carreaux;
+- la forte proportion de bâtiments du Régime britannique d'inspiration classique se distinguant par l'emploi de la pierre de taille, la composition symétrique des façades, le rappel des ordres classiques (dorique, ionique, corinthien), les frontons et les chaînages d'angle;
+- l'empreinte de l'architecture éclectique du XIXe siècle, visible notamment dans les bâtiments commerciaux, industriels, institutionnels et les édifices à bureaux, reconnaissables à leur structure mixte de bois, de fonte et de pierres, leurs larges baies, leur toit plat, leur corniche épaisse, débordante et souvent très ornementée et l'emploi de la brique rouge;
+- plusieurs bâtiments du XXe siècle notamment des édifices art déco, rationalistes et fonctionnalistes;
+- la richesse de l'ornementation et de la sculpture associées aux édifices prestigieux de la fin du XIXe et du début du XXe siècle.
+ Haut de la page 
+ Informations historiques 
+ Le site patrimonial de Montréal est le berceau de l'actuelle métropole économique et culturelle du Québec. Ce territoire conserve les traces de son évolution, depuis la petite ville coloniale jusqu'à aujourd'hui. 
+Ce lieu est fréquenté par les Autochtones depuis la préhistoire. Plusieurs sites archéologiques en témoignent. C'est en 1642 que Ville-Marie, d'abord établissement missionnaire, est fondée par l'officier Paul de Chomedey de Maisonneuve (1612-1676). De grandes communautés religieuses s'y installent, notamment les Sulpiciens, qui deviennent les seigneurs de l'île en 1663. Leur supérieur, François Dollier de Casson (1636-1701), tracera les premières rues.
+Entre 1685 et 1800, Montréal est une ville fortifiée, et l'enceinte fixe la forme de la cité. Au XVIIe siècle, elle devient la tête de pont de la traite des fourrures en raison de sa position géographique privilégiée. La Grande Paix de 1701 conclue entre les Français, les Iroquois et une trentaine d'autres nations autochtones augmente le commerce des fourrures et assure le peuplement. La trame se densifie. L'organisation de la ville est déterminée par les ordonnances des intendants qui définissent les rapports entre les voies publiques et les bâtiments. La pierre est alors le matériau privilégié pour les nouvelles constructions. 
+À compter de 1800, Montréal devient la principale ville des deux Canadas. Les bouleversements politiques du XVIIIe siècle, dont la Conquête et l'Indépendance américaine, engendrent une importante croissance de la population, stimulée par l'immigration. Aussi, le commerce se diversifie-t-il. Des marchands dynamiques engagés dans l'import-export remplacent les magnats de la traite des fourrures. Le visage de Montréal change. Les maisons en bois des artisans font place aux résidences et édifices en pierre d'inspiration néoclassique. Comme suite à la démolition des fortifications, entre 1801 et 1817, le gouvernement demande à trois commissaires d'élaborer un plan pour mettre en valeur les espaces libérés. Ceux-ci aménagent une terrasse le long du fleuve, agrandissent le Champ-de-Mars et créent des voies plus larges.
+Au cours des décennies suivantes, Montréal se développe rapidement et déborde des limites de l'ancienne cité fortifiée. La ville profite alors de la formidable expansion du commerce, de l'aménagement de son port, de la révolution industrielle et du progrès dans les modes de transport (chemin de fer et navires à vapeur) pour accéder au rang de métropole industrielle et financière du Canada. Quant à la vieille ville, elle se transforme en une cité financière et administrative, véritable vitrine du capitalisme canadien. Cet âge d'or laisse plusieurs traces. Des édifices à bureaux, banques, sièges sociaux de compagnies d'assurances, entrepôts et palais de justice sont alors construits avec un grand éclectisme stylistique. 
+À la suite de la Seconde Guerre mondiale, Montréal perd progressivement son rôle de métropole du Canada au profit de Toronto. Le centre des activités économiques déménage au nord-ouest de la ville historique, où il continue de se développer. Durant la seconde moitié du XXe siècle, l'activité portuaire est déplacée plus à l'est, libérant le littoral qui sera aménagé en parc urbain. Ces mutations favorisent le retour de la fonction résidentielle dans des édifices que l'on recycle. Le Vieux-Montréal demeure néanmoins le siège des administrations civile et judiciaire et de certaines activités financières. Un nouveau regard est alors posé sur ce lieu d'histoire. Sa préservation et sa mise en valeur deviennent prioritaires. Progressivement, le Vieux-Montréal se transforme en un important pôle culturel, social et touristique, où cohabitent harmonieusement des témoins éloquents de l'évolution de la ville.
+Le site patrimonial de Montréal est déclaré en 1964. Ses limites sont agrandies en 1995 afin d'englober les anciennes fortifications.
+ Haut de la page 
+ Emplacement 
+ Region administrative  :
+ Montréal
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ MRC  :
+ Montréal
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Municipalité  :
+ Montréal
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Arrondissement municipal  :
+ Ville-Marie
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Latitude  :
+ 45° 30' 14.0"
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Longitude  :
+ -73° 33' 17.5"
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Code alphanumérique propre à l'archéologie qui sert à désigner les sites archéologiques au Québec et au Canada en fonction de leur position géographique "> Code Borden 
+ BiFj-25
+ BiFj-4
+ BiFj-61
+ BjFj-10
+ BjFj-100
+ BjFj-101
+ BjFj-102
+ BjFj-107
+ BjFj-112
+ BjFj-116
+ BjFj-118
+ BjFj-119
+ BjFj-12
+ BjFj-123
+ BjFj-124
+ BjFj-125
+ BjFj-126
+ BjFj-13
+ BjFj-131
+ BjFj-132
+ BjFj-137
+ BjFj-14
+ BjFj-141
+ BjFj-143
+ BjFj-15
+ BjFj-159
+ BjFj-16
+ BjFj-163
+ BjFj-166
+ BjFj-168
+ BjFj-169
+ BjFj-17
+ BjFj-171
+ BjFj-172
+ BjFj-174
+ BjFj-175
+ BjFj-176
+ BjFj-18
+ BjFj-181
+ BjFj-183
+ BjFj-192
+ BjFj-2
+ BjFj-20
+ BjFj-200
+ BjFj-205
+ BjFj-206
+ BjFj-207
+ BjFj-21
+ BjFj-211
+ BjFj-218
+ BjFj-22
+ BjFj-23
+ BjFj-235 (réservation)
+ BjFj-246 (en réservation)
+ BjFj-248 (en réservation)
+ BjFj-3
+ BjFj-31
+ BjFj-32
+ BjFj-34
+ BjFj-39
+ BjFj-4
+ BjFj-41
+ BjFj-42
+ BjFj-43
+ BjFj-44
+ BjFj-45
+ BjFj-48
+ BjFj-49
+ BjFj-50
+ BjFj-51
+ BjFj-52
+ BjFj-53
+ BjFj-54
+ BjFj-56
+ BjFj-59
+ BjFj-60
+ BjFj-61
+ BjFj-65
+ BjFj-66
+ BjFj-69
+ BjFj-70
+ BjFj-72
+ BjFj-73
+ BjFj-74
+ BjFj-80
+ BjFj-86
+ BjFj-87
+ BjFj-88
+ BjFj-94
+ BjFj-95
+ BjFj-96
+ BjFj-99
+ Haut de la page 
+ Références 
+ Liens Internet  :
+ vieux.montreal.qc.ca 
+ Notices bibliographiques  :
+ AUGERON, Mickaël, dir., Dominique GUILLEMET, dir., Alain ROY, dir. et Marc ST-HILAIRE, dir. Les traces de la Nouvelle-France au Québec et en Poitou-Charentes . Québec, Les Presses de l'Université Laval, 2008. 308 p.
+ Comité de travail sur l'identité historique du Vieux-Montréal. Vieux-Montréal : la cité. Une identité façonnée par l'histoire . Montréal, Ministère de la Culture et des Communications / Société de développement de Montréal, 1996. 52 p.
+ Continuité . No 50 (1991).
+ FORGET, Madeleine, dir. et Gilles LAUZON, dir. L'histoire du Vieux-Montréal à travers son patrimoine . Québec, Les Publications du Québec, 2004. 292 p.
+ LAUZON, Gilles. « Visages historiques du Vieux-Montréal. Une cité du Nouveau-Monde ». Continuité . No 50 (1991), p. 16-23.
+ LINTEAU, Paul-André. Brève histoire de Montréal . Montréal, Boréal, 1992. 165 p.
+ LINTEAU, Paul-André. Histoire de Montréal depuis la Confédération . Montréal, Les Éditions du Boréal, 2000. 627 p.
+ LINTEAU, Paul-André. « Montréal ». Historica Canada. L'encyclopédie canadienne [En ligne]. http://www.thecanadianencyclopedia.com/
+ MARSAN, Jean-Claude. « Arrondissement historique de Montréal ». Commission des biens culturels du Québec. Les chemins de la mémoire. Monuments et sites historiques du Québec. Tome II . Québec, Les Publications du Québec, 1991, p. 15-31.
+ MARSAN, Jean-Claude. Montréal en évolution: historique du développement de l'architecture et de l'environnement urbain montréalais . Laval, Méridien, 1994. 515 p.
+ MERRETT, Brian et François RÉMILLARD. Architecture de Montréal : guide des styles et des bâtiments . Montréal, Éditions du Méridien, 1990. 222 p.
+ ROCHERS, Jacques. Cadre d'intervention. Connaître, préserver et mettre en valeur l'Arrondissement historique de Montréal . Montréal, Ministère de la Culture et des Communications, 2001. 62 p.
+ Multimédias disponibles en ligne :
+ Haut de la page 
+ Plan du site 
+ Nous joindre 
+ Crédits 
+ Droits d'auteur 
+ Accessibilité 
+ © Gouvernement du Québec, 2024
+ 

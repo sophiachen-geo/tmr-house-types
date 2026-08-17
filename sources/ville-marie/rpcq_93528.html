@@ -1,0 +1,3913 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial de Montréal -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93528"
+              addthis:title="Site patrimonial de Montréal"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial de Montréal</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Arrondissement historique de Montréal</li>
+  
+    <li>Arrondissement historique du Vieux-Montréal</li>
+  
+    <li>Vieux-Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine agricole</li>
+  
+    <li>Patrimoine autochtone (Patrimoine des Premières Nations)</li>
+  
+    <li>Patrimoine commémoratif</li>
+  
+    <li>Patrimoine industriel</li>
+  
+    <li>Patrimoine institutionnel et civil</li>
+  
+    <li>Patrimoine maritime et fluvial</li>
+  
+    <li>Patrimoine militaire</li>
+  
+    <li>Patrimoine religieux (Culte)</li>
+  
+    <li>Patrimoine religieux (Mission curiale)</li>
+  
+    <li>Patrimoine religieux (Vie quotidienne)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Tradition religieuse</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Christianisme (Catholicisme (rite latin))</li>
+  
+    <li>Christianisme (Orthodoxie)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Non applicable</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=immo&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=immo&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(518)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92608&type=bien">
+            Auberge Del Vecchio
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=96643&type=bien">
+            Chapelle Notre-Dame-de-Bon-Secours
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92534&type=bien">
+            Château De Ramezay
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=100011&type=bien">
+            Édifice de la Banque-Canadienne-Impériale-de-Commerce
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=immo&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=immo&id=93528&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=mob&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine mobilier associé</span>');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=mob&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine mobilier associé</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=120512&type=bien">
+            Sculpture
+            
+              (Les Chuchoteuses)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=mob&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=mob&id=93528&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine mobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=pla&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=pla&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Plaques commémoratives associées</span>&nbsp;(2)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=117007&type=bien">
+            Plaque de l'érable planté par Langlais
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=117005&type=bien">
+            Plaque de l'érable planté par McWhaw
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=pla&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=pla&id=93528&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=grp&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Groupes associés</span>');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=grp&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Groupes associés</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7953&type=pge">
+            Compagnie des prêtres de Saint-Sulpice (1641 &ndash; )
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=grp&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=grp&id=93528&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Groupes associés</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(3)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7240&type=pge">
+            Basset Des Lauriers, Bénigne (vers 1639 &ndash; 1699)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7375&type=pge">
+            Chomedey de Maisonneuve, Paul de (1612 &ndash; 1676)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7449&type=pge">
+            Dollier de Casson, François (1636 &ndash; 1701)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=5F7F1E99CF4A30323F909FBA12EF7E22?type=per&id=93528&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93528_12974.JPG?id=12974" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12974.JPG?id=12974" 
+           data-grandformat="document/rpcq_bien_93528_12974.JPG?id=12974" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2004" 
+           data-description="" 
+           data-annee="2004" 
+           data-auteur="" 
+           data-id="12974" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12974"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue aérienne" src="document/rpcq_bien_93528_12974.JPG?id=12974&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93528_12973.JPG?id=12973" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12973.JPG?id=12973" 
+           data-grandformat="document/rpcq_bien_93528_12973.JPG?id=12973" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2004" 
+           data-description="" 
+           data-annee="2004" 
+           data-auteur="" 
+           data-id="12973" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12973"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue aérienne" src="document/rpcq_bien_93528_12973.JPG?id=12973&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93528_12972.JPG?id=12972" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12972.JPG?id=12972" 
+           data-grandformat="document/rpcq_bien_93528_12972.JPG?id=12972" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2004" 
+           data-description="" 
+           data-annee="2004" 
+           data-auteur="" 
+           data-id="12972" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12972"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue aérienne" src="document/rpcq_bien_93528_12972.JPG?id=12972&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93528_12975.JPG?id=12975" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12975.JPG?id=12975" 
+           data-grandformat="document/rpcq_bien_93528_12975.JPG?id=12975" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Christian Lemire, 2008" 
+           data-description="" 
+           data-annee="2008" 
+           data-auteur="Christian Lemire" 
+           data-id="12975" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12975"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue d&#039;ensemble" src="document/rpcq_bien_93528_12975.JPG?id=12975&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93528_12977.JPG?id=12977" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12977.JPG?id=12977" 
+           data-grandformat="document/rpcq_bien_93528_12977.JPG?id=12977" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Christian Lemire, 2008" 
+           data-description="" 
+           data-annee="2008" 
+           data-auteur="Christian Lemire" 
+           data-id="12977" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12977"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue d&#039;ensemble" src="document/rpcq_bien_93528_12977.JPG?id=12977&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93528_12978.JPG?id=12978" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12978.JPG?id=12978" 
+           data-grandformat="document/rpcq_bien_93528_12978.JPG?id=12978" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Christian Lemire, 2008" 
+           data-description="" 
+           data-annee="2008" 
+           data-auteur="Christian Lemire" 
+           data-id="12978" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12978"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue d&#039;ensemble" src="document/rpcq_bien_93528_12978.JPG?id=12978&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93528_12979.JPG?id=12979" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12979.JPG?id=12979" 
+           data-grandformat="document/rpcq_bien_93528_12979.JPG?id=12979" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Christian Lemire, 2008" 
+           data-description="" 
+           data-annee="2008" 
+           data-auteur="Christian Lemire" 
+           data-id="12979" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12979"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue d&#039;ensemble" src="document/rpcq_bien_93528_12979.JPG?id=12979&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93528_12980.JPG?id=12980" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12980.JPG?id=12980" 
+           data-grandformat="document/rpcq_bien_93528_12980.JPG?id=12980" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Christian Lemire, 2008" 
+           data-description="" 
+           data-annee="2008" 
+           data-auteur="Christian Lemire" 
+           data-id="12980" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12980"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue d&#039;ensemble" src="document/rpcq_bien_93528_12980.JPG?id=12980&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Montréal. Vue d&#039;ensemble" class="galleryImage"
+           href="document/rpcq_bien_93528_12983.JPG?id=12983" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93528_12983.JPG?id=12983" 
+           data-grandformat="document/rpcq_bien_93528_12983.JPG?id=12983" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Christian Lemire, 2008" 
+           data-description="" 
+           data-annee="2008" 
+           data-auteur="Christian Lemire" 
+           data-id="12983" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12983"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Montréal. Vue d&#039;ensemble" src="document/rpcq_bien_93528_12983.JPG?id=12983&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 45.50388888, -73.55486111];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Montréal couvre un territoire urbain qui s'étend sur environ 1 400 mètres d'est en ouest et 800 mètres du nord au sud. Il englobe la ville autrefois fortifiée, des parcelles des anciens faubourgs, le secteur de la pointe à Callière et le Vieux-Port. Le quartier est délimité par la rue Saint-Antoine au nord, le fleuve Saint-Laurent au sud, le faubourg Québec avec les rues Saint-Hubert et Saint-André à l'est, et le faubourg des Récollets avec les rues McGill, De Longueuil et des Soeurs-Grises à l'ouest. <br/><br/>Ce territoire est situé dans la partie sud de l'île de Montréal, en aval des rapides de Lachine. Le relief est marqué par la présence d'une terrasse élevée le long du fleuve et du coteau Saint-Louis en retrait. La trame, plus ou moins orthogonale, forme un réseau de rues étroites et de voies plus larges qui encadrent des places publiques.  <br/><br/>Le site est caractérisé par la densité de sa trame, les dimensions imposantes des bâtiments et la diversité des fonctions qui s'y retrouvent. Il compte 557 édifices et vestiges construits à différents moments entre le XVIIe siècle et le XXe siècle. Entrepôts, bâtiments religieux, édifices à bureaux, banques, sièges sociaux de compagnies, palais de justice et autres édifices institutionnels forment un paysage architectural diversifié, rendu harmonieux par l'omniprésence de la pierre calcaire grise.<br/> <br/>Ce bien est déclaré site patrimonial. Il comprend de nombreux biens patrimoniaux classés et compte plusieurs sites archéologiques, témoins de l'occupation autochtone et euroquébécoise.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Déclaration</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Gouvernement du Québec
+          
+        
+      </td>
+      <td>
+        1995-04-26
+        
+      </td>
+    </tr>
+     
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Transfert de responsabilité</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                    <li>Exercice de certains pouvoirs par la municipalité (Montréal), 2017-09-21<br><span >Prise d'effet</span>&nbsp;: 2018-09-21</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+        
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Statuts antérieurs</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                  <li>Déclaration, 1964-01-08</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Montréal présente un intérêt pour sa valeur historique. Berceau de la métropole économique et culturelle du Québec, ce lieu possède une densité historique remarquable en raison de ses renouvellements successifs, dont il conserve les traces. Fréquentée par les Autochtones depuis la préhistoire, Montréal est fondée en 1642 par Paul de Chomedey de Maisonneuve (1612-1676). D'abord établissement missionnaire, la cité devient la tête de pont de la traite des fourrures en raison de sa position géographique privilégiée. Les bouleversements politiques du XVIIIe siècle, l'aménagement de son port, la révolution industrielle et celle des transports au cours du XIXe siècle font du Vieux-Montréal le coeur de la métropole industrielle et financière du Canada et la vitrine du capitalisme canadien. Le déclin du Vieux-Montréal s'amorce toutefois au tournant du XXe siècle et s'accentue à la suite de la Seconde Guerre mondiale. Après une période de quasi-abandon de la fonction résidentielle, on pose un nouveau regard sur ce lieu d'histoire. Au fil des ans, les efforts conjugués de mise en valeur urbaine ont fait de ce territoire un important pôle culturel, social et touristique de la ville de Montréal.<br/><br/>Le site patrimonial présente aussi un intérêt pour sa valeur urbanistique. =La trame et le lotissement de ce lieu conserve ses caractéristiques des XVIIe et XVIIIe siècles, notamment les traces de la ville coloniale fortifiée, malgré l'évolution du cadre bâti. La trame urbaine s'est développée principalement en trois étapes. Le sulpicien François Dollier de Casson (1636-1701) trace les premières rues en 1672 avec l'aide du notaire-arpenteur Bénigne Basset Des Lauriers (v. 1639-1699). Le territoire s'organise alors autour de trois rues parallèles au fleuve et de sept rues perpendiculaires qui forment un plan plus ou moins orthogonal. Les ordonnances des intendants définissent ensuite les rapports entre la rue et les bâtiments et déterminent notamment l'alignement des constructions. Enfin, le Plan des commissaires, élaboré en 1804, marque la trame par l'aménagement d'une terrasse le long du fleuve, l'agrandissement du Champ-de-Mars et la création de voies plus larges. Le site est donc un bon exemple de préservation d'une trame urbaine ancienne.<br/><br/>Le site patrimonial présente également un intérêt pour sa valeur architecturale. Les bâtiments, dont certains ont été construits au XVIIe siècle, témoignent de ses différentes fonctions et de ses mutations. Les immeubles les plus anciens - habitations et édifices conventuels - qui datent de l'époque de la Nouvelle-France présentent une maçonnerie en pierre et des toits à pignon. Les nombreux édifices d'inspiration classique du Régime britannique sont caractérisés, entre autres, par la pierre calcaire grise. L'architecture éclectique du XIXe siècle s'observe dans les édifices à bureaux, banques, sièges sociaux de compagnies d'assurances et palais de justice. Le site compte enfin quelques bâtiments d'intérêt du XXe siècle, notamment des édifices art déco, rationalistes et fonctionnalistes.<br/><br/>Le site patrimonial présente en outre un intérêt pour sa valeur archéologique. La situation et la topographie du site ont favorisé de multiples établissements à cet endroit depuis 3 000 ans, et l'archéologie permet de se représenter les anciens paysages et de comprendre l'évolution du lieu. Les vestiges autochtones témoignent des activités de chasse et de pêche et de l'utilisation du lieu pour des foires commerciales au cours de la préhistoire. Quant aux vestiges euroquébécois, ils permettent de retracer les diverses occupations commerciale, religieuse, militaire, institutionnelle, industrielle, domestique, artisanale et agricole depuis le XVIIe siècle.<br/><br/>Source : Ministère de la Culture et des Communications du Québec, 2004.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments clés du site patrimonial de Montréal liés à ses valeurs historique, urbanistique, architecturale et archéologique comprennent, notamment :<br/>- la situation stratégique dans la ville de Montréal, dans un quadrilatère comprenant l'ancienne ville fortifiée, le secteur de la pointe à Callière et le Vieux-Port, le long du fleuve Saint-Laurent, en aval des rapides de Lachine;<br/>- la richesse archéologique permettant de retracer l'occupation humaine depuis 3 000 ans, de se représenter les anciens paysages et de comprendre l'évolution du lieu;<br/>- les portions intactes offrant un potentiel archéologique;<br/>- les grandes fonctions urbaines représentées (fonctions résidentielle, commerciale, religieuse, militaire, institutionnelle, industrielle, domestique, artisanale et agricole);<br/>- le réseau viaire plus ou moins orthogonal;<br/>- les étroites voies publiques parallèles ou perpendiculaires au fleuve telles que tracées par Dollier de Casson;<br/>- les trois artères plus importantes (rues de la Commune, Saint-Antoine et McGill) bordant le site au sud, au nord et à l'ouest et découlant du Plan des commissaires; <br/>- l'alignement des bâtiments par rapport à la voie publique;<br/>- la haute densité d'occupation du sol;<br/>- la mitoyenneté des constructions;<br/>- l'aménagement de cours ou de courettes intérieures dans certains secteurs;<br/>- le retrait par rapport à la rue de certains édifices administratifs et publics;<br/>- la relation entre le lot et la rue se manifestant par la présence de marches, de portes cochères, de grilles, de servitudes de passage et de plusieurs entrées, à savoir une sur chaque façade donnant sur la rue;<br/>- les places du Régime français, transformées en squares au XIXe siècle, puis dans certains cas reconfigurées au XXe siècle;<br/>- le corpus architectural riche et diversifié associé à plusieurs époques de construction, du Régime français au XXe siècle;<br/>- les gabarits hétérogènes, très variables tout particulièrement quant à la hauteur;<br/>- l'utilisation de matériaux traditionnels marquée par une prédominance de la pierre calcaire grise jusqu'en 1850, puis par une grande variété de types de pierre;<br/>- la présence de bâtiments du Régime français présentant des structures généralement basses (un ou deux étages), des toitures à deux versants ou à croupes de pente moyenne, des murs de moellons grossièrement équarris, des cheminées dans la continuité des murs pignons, des murs coupe-feu et des fenêtres en bois à battants et à petits carreaux;<br/>- la forte proportion de bâtiments du Régime britannique d'inspiration classique se distinguant par l'emploi de la pierre de taille, la composition symétrique des façades, le rappel des ordres classiques (dorique, ionique, corinthien), les frontons et les chaînages d'angle;<br/>- l'empreinte de l'architecture éclectique du XIXe siècle, visible notamment dans les bâtiments commerciaux, industriels, institutionnels et les édifices à bureaux, reconnaissables à leur structure mixte de bois, de fonte et de pierres, leurs larges baies, leur toit plat, leur corniche épaisse, débordante et souvent très ornementée et l'emploi de la brique rouge;<br/>- plusieurs bâtiments du XXe siècle notamment des édifices art déco, rationalistes et fonctionnalistes;<br/>- la richesse de l'ornementation et de la sculpture associées aux édifices prestigieux de la fin du XIXe et du début du XXe siècle.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Montréal est le berceau de l'actuelle métropole économique et culturelle du Québec. Ce territoire conserve les traces de son évolution, depuis la petite ville coloniale jusqu'à aujourd'hui. <br/><br/>Ce lieu est fréquenté par les Autochtones depuis la préhistoire. Plusieurs sites archéologiques en témoignent. C'est en 1642 que Ville-Marie, d'abord établissement missionnaire, est fondée par l'officier Paul de Chomedey de Maisonneuve (1612-1676). De grandes communautés religieuses s'y installent, notamment les Sulpiciens, qui deviennent les seigneurs de l'île en 1663. Leur supérieur, François Dollier de Casson (1636-1701), tracera les premières rues.<br/><br/>Entre 1685 et 1800, Montréal est une ville fortifiée, et l'enceinte fixe la forme de la cité. Au XVIIe siècle, elle devient la tête de pont de la traite des fourrures en raison de sa position géographique privilégiée. La Grande Paix de 1701 conclue entre les Français, les Iroquois et une trentaine d'autres nations autochtones augmente le commerce des fourrures et assure le peuplement. La trame se densifie. L'organisation de la ville est déterminée par les ordonnances des intendants qui définissent les rapports entre les voies publiques et les bâtiments. La pierre est alors le matériau privilégié pour les nouvelles constructions. <br/><br/>À compter de 1800, Montréal devient la principale ville des deux Canadas. Les bouleversements politiques du XVIIIe siècle, dont la Conquête et l'Indépendance américaine, engendrent une importante croissance de la population, stimulée par l'immigration. Aussi, le commerce se diversifie-t-il. Des marchands dynamiques engagés dans l'import-export remplacent les magnats de la traite des fourrures. Le visage de Montréal change. Les maisons en bois des artisans font place aux résidences et édifices en pierre d'inspiration néoclassique. Comme suite à la démolition des fortifications, entre 1801 et 1817, le gouvernement demande à trois commissaires d'élaborer un plan pour mettre en valeur les espaces libérés. Ceux-ci aménagent une terrasse le long du fleuve, agrandissent le Champ-de-Mars et créent des voies plus larges.<br/><br/>Au cours des décennies suivantes, Montréal se développe rapidement et déborde des limites de l'ancienne cité fortifiée. La ville profite alors de la formidable expansion du commerce, de l'aménagement de son port, de la révolution industrielle et du progrès dans les modes de transport (chemin de fer et navires à vapeur) pour accéder au rang de métropole industrielle et financière du Canada. Quant à la vieille ville, elle se transforme en une cité financière et administrative, véritable vitrine du capitalisme canadien. Cet âge d'or laisse plusieurs traces. Des édifices à bureaux, banques, sièges sociaux de compagnies d'assurances, entrepôts et palais de justice sont alors construits avec un grand éclectisme stylistique. <br/><br/>À la suite de la Seconde Guerre mondiale, Montréal perd progressivement son rôle de métropole du Canada au profit de Toronto. Le centre des activités économiques déménage au nord-ouest de la ville historique, où il continue de se développer. Durant la seconde moitié du XXe siècle, l'activité portuaire est déplacée plus à l'est, libérant le littoral qui sera aménagé en parc urbain. Ces mutations favorisent le retour de la fonction résidentielle dans des édifices que l'on recycle. Le Vieux-Montréal demeure néanmoins le siège des administrations civile et judiciaire et de certaines activités financières. Un nouveau regard est alors posé sur ce lieu d'histoire. Sa préservation et sa mise en valeur deviennent prioritaires. Progressivement, le Vieux-Montréal se transforme en un important pôle culturel, social et touristique, où cohabitent harmonieusement des témoins éloquents de l'évolution de la ville.<br/><br/>Le site patrimonial de Montréal est déclaré en 1964. Ses limites sont agrandies en 1995 afin d'englober les anciennes fortifications.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Arrondissement municipal</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Ville-Marie
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        45° 30' 14.0"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -73° 33' 17.5"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableauDesaligne">
+  <h3><span class="libelle_definition" rel="tooltip" title="<span >Code alphanumérique propre à l'archéologie qui sert à désigner les sites archéologiques au Québec et au Canada en fonction de leur position géographique</span>"><span >Code Borden</span></span></h3>
+
+  <table>
+    <colgroup>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+    </colgroup>
+    
+      
+        
+        
+        
+          <tr>
+        
+        <td>BiFj-25</td>
+      
+        
+        
+        
+        <td>BiFj-4</td>
+      
+        
+        
+        
+        <td>BiFj-61</td>
+      
+        
+        
+        
+        <td>BjFj-10</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-100</td>
+      
+        
+        
+        
+        <td>BjFj-101</td>
+      
+        
+        
+        
+        <td>BjFj-102</td>
+      
+        
+        
+        
+        <td>BjFj-107</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-112</td>
+      
+        
+        
+        
+        <td>BjFj-116</td>
+      
+        
+        
+        
+        <td>BjFj-118</td>
+      
+        
+        
+        
+        <td>BjFj-119</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-12</td>
+      
+        
+        
+        
+        <td>BjFj-123</td>
+      
+        
+        
+        
+        <td>BjFj-124</td>
+      
+        
+        
+        
+        <td>BjFj-125</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-126</td>
+      
+        
+        
+        
+        <td>BjFj-13</td>
+      
+        
+        
+        
+        <td>BjFj-131</td>
+      
+        
+        
+        
+        <td>BjFj-132</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-137</td>
+      
+        
+        
+        
+        <td>BjFj-14</td>
+      
+        
+        
+        
+        <td>BjFj-141</td>
+      
+        
+        
+        
+        <td>BjFj-143</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-15</td>
+      
+        
+        
+        
+        <td>BjFj-159</td>
+      
+        
+        
+        
+        <td>BjFj-16</td>
+      
+        
+        
+        
+        <td>BjFj-163</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-166</td>
+      
+        
+        
+        
+        <td>BjFj-168</td>
+      
+        
+        
+        
+        <td>BjFj-169</td>
+      
+        
+        
+        
+        <td>BjFj-17</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-171</td>
+      
+        
+        
+        
+        <td>BjFj-172</td>
+      
+        
+        
+        
+        <td>BjFj-174</td>
+      
+        
+        
+        
+        <td>BjFj-175</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-176</td>
+      
+        
+        
+        
+        <td>BjFj-18</td>
+      
+        
+        
+        
+        <td>BjFj-181</td>
+      
+        
+        
+        
+        <td>BjFj-183</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-192</td>
+      
+        
+        
+        
+        <td>BjFj-2</td>
+      
+        
+        
+        
+        <td>BjFj-20</td>
+      
+        
+        
+        
+        <td>BjFj-200</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-205</td>
+      
+        
+        
+        
+        <td>BjFj-206</td>
+      
+        
+        
+        
+        <td>BjFj-207</td>
+      
+        
+        
+        
+        <td>BjFj-21</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-211</td>
+      
+        
+        
+        
+        <td>BjFj-218</td>
+      
+        
+        
+        
+        <td>BjFj-22</td>
+      
+        
+        
+        
+        <td>BjFj-23</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-235 (réservation)</td>
+      
+        
+        
+        
+        <td>BjFj-246 (en réservation)</td>
+      
+        
+        
+        
+        <td>BjFj-248 (en réservation)</td>
+      
+        
+        
+        
+        <td>BjFj-3</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-31</td>
+      
+        
+        
+        
+        <td>BjFj-32</td>
+      
+        
+        
+        
+        <td>BjFj-34</td>
+      
+        
+        
+        
+        <td>BjFj-39</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-4</td>
+      
+        
+        
+        
+        <td>BjFj-41</td>
+      
+        
+        
+        
+        <td>BjFj-42</td>
+      
+        
+        
+        
+        <td>BjFj-43</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-44</td>
+      
+        
+        
+        
+        <td>BjFj-45</td>
+      
+        
+        
+        
+        <td>BjFj-48</td>
+      
+        
+        
+        
+        <td>BjFj-49</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-50</td>
+      
+        
+        
+        
+        <td>BjFj-51</td>
+      
+        
+        
+        
+        <td>BjFj-52</td>
+      
+        
+        
+        
+        <td>BjFj-53</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-54</td>
+      
+        
+        
+        
+        <td>BjFj-56</td>
+      
+        
+        
+        
+        <td>BjFj-59</td>
+      
+        
+        
+        
+        <td>BjFj-60</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-61</td>
+      
+        
+        
+        
+        <td>BjFj-65</td>
+      
+        
+        
+        
+        <td>BjFj-66</td>
+      
+        
+        
+        
+        <td>BjFj-69</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-70</td>
+      
+        
+        
+        
+        <td>BjFj-72</td>
+      
+        
+        
+        
+        <td>BjFj-73</td>
+      
+        
+        
+        
+        <td>BjFj-74</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-80</td>
+      
+        
+        
+        
+        <td>BjFj-86</td>
+      
+        
+        
+        
+        <td>BjFj-87</td>
+      
+        
+        
+        
+        <td>BjFj-88</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>BjFj-94</td>
+      
+        
+        
+        
+        <td>BjFj-95</td>
+      
+        
+        
+        
+        <td>BjFj-96</td>
+      
+        
+        
+        
+        <td>BjFj-99</td>
+      
+      
+      </tr>
+    
+  </table>
+</div>
+
+
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Liens Internet</span>&nbsp;:</h3>
+  <ul>
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir rÃ©fÃ©rence')), this.innerHTML.trim());" href="http://www.vieux.montreal.qc.ca/" target="_blank">vieux.montreal.qc.ca</a></li>
+    
+  </ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>AUGERON, Mickaël, dir., Dominique GUILLEMET, dir., Alain ROY, dir. et Marc ST-HILAIRE, dir. <I>Les traces de la Nouvelle-France au Québec et en Poitou-Charentes</I>. Québec, Les Presses de l'Université Laval, 2008. 308 p.</li>
+      
+    
+      <li>Comité de travail sur l'identité historique du Vieux-Montréal. <I>Vieux-Montréal : la cité. Une identité façonnée par l'histoire</I>. Montréal, Ministère de la Culture et des Communications / Société de développement de Montréal, 1996. 52 p.</li>
+      
+    
+      <li><I>Continuité</I>.  No 50 (1991).</li>
+      
+    
+      <li>FORGET, Madeleine, dir. et Gilles LAUZON, dir. <I>L'histoire du Vieux-Montréal à travers son patrimoine</I>. Québec, Les Publications du Québec, 2004. 292 p.</li>
+      
+    
+      <li>LAUZON, Gilles. « Visages historiques du Vieux-Montréal. Une cité du Nouveau-Monde ». <I>Continuité</I>.  No 50 (1991), p. 16-23.</li>
+      
+    
+      <li>LINTEAU, Paul-André. <I>Brève histoire de Montréal</I>. Montréal, Boréal, 1992. 165 p.</li>
+      
+    
+      <li>LINTEAU, Paul-André. <I>Histoire de Montréal depuis la Confédération</I>. Montréal, Les Éditions du Boréal, 2000. 627 p.</li>
+      
+    
+      <li>LINTEAU, Paul-André. « <I>Montréal</I> ». Historica Canada. <I>L'encyclopédie canadienne</I> [En ligne]. http://www.thecanadianencyclopedia.com/</li>
+      
+    
+      <li>MARSAN, Jean-Claude. « Arrondissement historique de Montréal ». Commission des biens culturels du Québec. <I>Les chemins de la mémoire. Monuments et sites historiques du Québec. Tome II</I>. Québec, Les Publications du Québec, 1991, p. 15-31.</li>
+      
+    
+      <li>MARSAN, Jean-Claude. <I>Montréal en évolution: historique du développement de l'architecture et de l'environnement urbain montréalais</I>. Laval, Méridien, 1994. 515 p.</li>
+      
+    
+      <li>MERRETT, Brian et François RÉMILLARD. <I>Architecture de Montréal : guide des styles et des bâtiments</I>. Montréal, Éditions du Méridien, 1990. 222 p.</li>
+      
+    
+      <li>ROCHERS, Jacques. <I>Cadre d'intervention. Connaître, préserver et mettre en valeur l'Arrondissement historique de Montréal</I>. Montréal, Ministère de la Culture et des Communications, 2001. 62 p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=295283236" async></script></body>
+</html>

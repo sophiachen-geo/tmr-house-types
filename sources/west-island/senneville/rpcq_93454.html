@@ -1,0 +1,2157 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial du Fort-Senneville -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93454&type=bien"
+              addthis:title="Site patrimonial du Fort-Senneville"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial du Fort-Senneville</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Fort de Senneville</li>
+  
+    <li>Site historique et archéologique du Fort-Senneville</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Date</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>1702 &ndash; 1703 (Construction)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Période</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Le Régime français (1534 à 1760)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine militaire</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Fonction commerciale (Postes de traite)</li>
+  
+    <li>Services et institutions (Installations de défense militaire)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=per&id=93454&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=per&id=93454&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=pla&id=93454&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" data-href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=pla&id=93454&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Plaques commémoratives associées</span>&nbsp;(3)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=105843&type=bien">
+            Plaque de Le Ber de Senneville
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=111468&type=bien">
+            Plaque du Fort Senneville
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=99263&type=bien">
+            Plaque du site historique et archéologique du Fort-Senneville
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=pla&id=93454&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=pla&id=93454&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=per&id=93454&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=per&id=93454&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(8)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8105&type=pge">
+            Arnold, Benedict (1741 &ndash; 1801)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=9847&type=pge">
+            Abbott, John Joseph Caldwell (1821 &ndash; 1893)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=10921&type=pge">
+            Le Ber, Jacques (vers 1633 &ndash; 1706)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=19802&type=pge">
+            Clouston, Edward Seaborne (1849 &ndash; 1912)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=per&id=93454&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=80F3EF3A22FC5EDCCCCEFEDBEE2095D7?type=per&id=93454&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial du Fort-Senneville. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93454_376577.JPG?id=376577" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93454_376577.JPG?id=376577" 
+           data-grandformat="document/rpcq_bien_93454_376577.JPG?id=376577" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2019-03-08" 
+           data-description="" 
+           data-annee="2019" 
+           data-auteur="" 
+           data-id="376577" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="376577"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial du Fort-Senneville. Vue aérienne" src="document/rpcq_bien_93454_376577.JPG?id=376577&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial du Fort-Senneville est le vestige d'un ancien poste de traite fortifié construit en 1702 et 1703. Le site comprend les ruines du fort toujours debout et un terrain en partie boisé d'environ 8000 mètres carrés.<br/><br/>Ce bien est classé site patrimonial. Il est inscrit à l'Inventaire des sites archéologiques du Québec.<br/><br/>Ce site est une propriété privée et ne peut pas être visité.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  
+    <h3 class="label"><span >Plan au sol</span>&nbsp;:</h3>
+    <p>Rectangulaire</p>
+  
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  
+    <h3 class="label"><span >Groupement</span>&nbsp;:</h3>
+    <p>Détaché</p>
+  
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Fondations</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Pierre
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Fenêtre(s)</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        carrée
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Classement</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Ministre de la Culture et des Communications
+          
+        
+      </td>
+      <td>
+        2003-11-20
+        
+      </td>
+    </tr>
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Catégories de conservation</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                    <li>7 - Terrain exceptionnel</li>
+                
+                    <li>10 - Bien classé pour son intérêt archéologique</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+     
+        
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial du Fort-Senneville présente un intérêt pour sa valeur historique. Exemple unique de fort privé en Nouvelle-France, ce lieu témoigne de la traite des fourrures qui se faisait dans la colonie. Situé sur une pointe de terre, face à l'embouchure de la rivière des Outaouais, ce poste de traite fortifié se trouve sur la voie navigable empruntée par les Autochtones se rendant à la foire annuelle de Ville-Marie pour y troquer leurs pelleteries. Aussi certains d'entre eux préfèrent-ils échanger leurs marchandises avec les commerçants du fort, qui les acquièrent à moindre coût, et éviter les dangereux rapides de Lachine. Jacques Le Ber de Senneville (1663-1735), qui obtient de son père la seigneurie de Senneville, fait ériger le fort en 1702 et 1703. Il doit assurer la sécurité du commerce des fourrures, notamment face aux menaces d'attaques iroquoises. Le fort se présente sous forme d'une enceinte quadrangulaire flanquée d'un bastion à chaque coin. Sa cour intérieure compte une habitation mansardée à deux étages. Les activités tenues dans ce fort semblent avoir été pratiquées surtout de manière illicite, des ordonnances royales limitant alors la traite avec les Autochtones hors des grands centres. En 1725, la réouverture de la traite vers les « pays d'En Haut » rend le fort obsolète. Utilisé ensuite à diverses fins, il est détruit en 1776 par les troupes de Benedict Arnold (1741-1801) lors de l'invasion américaine. Issu d'une initiative privée, ce fort témoigne du statut des Le Ber, famille marchande la mieux nantie de Montréal, du commerce lucratif des fourrures et des menaces d'attaques iroquoises qui planaient alors.<br/><br/>Le site présente également un intérêt pour sa valeur archéologique. Les recherches permettent de mieux comprendre l'organisation de l'espace intérieur du fort, les modes de construction des structures et les activités quotidiennes s'étant déroulées sur place. Outre l'habitation, l'enceinte et les bastions, les fouilles ont mis au jour diverses structures illustrant l'aménagement intérieur du site, notamment les fondations d'un bâtiment en bois, une citerne en maçonnerie et une latrine munie d'un canal vouté d'évacuation des eaux. Les nombreux artefacts récupérés sont liés principalement aux activités domestiques, aux activités de traite et, en moindre proportion, au domaine militaire. L'analyse des restes osseux d'animaux sauvages démontre l'apport de la chasse comme ressource alimentaire d'appoint pour les habitants du poste. Le moyen utilisé par les troupes américaines pour détruire le fort en 1776 peut s'expliquer par la découverte de fragments de grenades ayant explosé et endommagé la structure. Par ailleurs, comme l'exploitation du poste s'est pendant longtemps faite de manière illicite, peu nombreux sont les écrits faisant état des activités de contrebande et l'archéologie est alors un élément contributif pour les mettre en lumière. Enfin, la mise au jour d'objets de fabrication autochtone témoigne d'occupations préhistoriques, période encore fort peu documentée dans ce secteur.<br/><br/>Le site présente aussi un intérêt pour sa valeur paysagère comme témoin du mouvement pittoresque. Cette approche esthétique née au XVIIIe siècle en Grande-Bretagne préconise la communion avec la nature en faisant appel à la sensibilité et aux émotions. Son influence s'est fait sentir au Québec durant le XIXe siècle. Aussi, en 1865, la pointe est achetée par John Joseph Caldwell Abbott (1821-1893), avocat de Montréal, qui réaménage les lieux en domaine champêtre et préserve les ruines du fort. En 1898, la propriété, appelée Boisbriand, est acquise par le banquier Edward Seaborne Clouston (1849-1912) qui entreprend une série de rénovations des bâtiments sauf pour les ruines du fort, dont il apprécie le romantisme pittoresque.<br/><br/>Source : Ministère de la Culture, des Communications et de la Condition féminine du Québec, 2009.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments caractéristiques du site patrimonial du Fort-Senneville comprennent, entre autres : <br/>- sa situation géographique sur la pointe Abbot, en bordure du lac des Deux Montagnes et à l'embouchure de la rivière des Outaouais;<br/>- les vestiges du fort, hors du sol et enfouis, dont les bastions, la courtine, l'habitation, la citerne, les latrines et le canal d'évacuation des eaux;<br/>- la portion résiduelle du site renfermant encore des contextes archéologiques propices à la recherche et à l'interprétation du lieu.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>En 1672, les Sulpiciens, seigneurs de Montréal, cèdent un arrière-fief à l'extrémité ouest de l'île à Michel-Sidrach Dugué de Boisbriand (vers 1638-1688), ancien capitaine du régiment de Carignan-Sallière, dans l'espoir de favoriser la colonisation de ce secteur. Toutefois, l'intérêt de Boisbriand repose surtout sur le potentiel commercial du fief. Situé au bord du lac des Deux Montagnes et à proximité de la rivière des Outaouais, il est positionné sur l'axe qu'empruntent les Autochtones pour se rendre à la foire annuelle de Ville-Marie où ils troquent leurs pelleteries. Le fief est alors un endroit privilégié pour établir un poste de traite. Les commerçants comptent y attirer les Autochtones afin d'acheter leurs pelleteries à moindre coût. Moins lucratif pour ces derniers, ce procédé leur évite cependant de franchir les rapides de Lachine. <br/><br/>En 1679, Boisbriand cède sa terre à ses deux créanciers, les riches marchands Charles Le Moyne (1626-1685) et Jacques Le Ber (vers 1633 à 1706). Le Ber devient l'unique seigneur en 1683 et donne au fief le nom de Senneville. En 1686 et 1687, il fait ériger un moulin fortifié, davantage pour répondre à un besoin défensif face à la menace iroquoise que pour promouvoir le peuplement de la seigneurie. Incendié par des Iroquois en 1691, le moulin est remis en fonction en 1700. L'époque de Le Ber est aussi marquée par des ordonnances royales limitant le commerce des fourrures à l'extérieur des villes. En 1696, Louis XIV cesse l'attribution de permis de traite (aussi nommés congés) pour modérer la chute des prix des fourrures sur le marché français déjà saturé. Les activités à Senneville se poursuivent, tantôt légales, tantôt illicites. <br/><br/>Le Ber cède le fief à son fils Jacques Le Ber de Senneville (1663-1735). En 1702 et 1703, ce dernier fait construire un fort composé d'une enceinte quadrangulaire à quatre bastions qui renferme une maison et une cour. Issu de la famille marchande la mieux nantie de Montréal, Le Ber souhaite ainsi préserver son commerce lucratif des menaces d'attaques iroquoises. Aussi, le poste de traite tient ses activités en faisant fi des ordonnances royales interdisant le commerce des pelleteries, les autorités appliquant leurs règlements avec un certain laxisme.<br/><br/>Le poste de Senneville cesse ses activités vers 1725, tombé en désuétude depuis que le roi lève l'interdiction aux coureurs des bois de traiter directement avec les Autochtones des « pays d'En Haut ». Il est alors loué à des agriculteurs et à des meuniers de la seigneurie. Sa fonction militaire renaît brièvement en 1747 et 1748, lors de nouvelles menaces d'attaques autochtones. En 1774, Jean-Baptiste-Jérémie Testard de Montigny (1741-1784) réaménage le fort en magasin, qui est cependant détruit deux ans plus tard par les troupes américaines de Benedict Arnold (1741-1801). La veuve de Testard, Magdeleine Damours de Clignancour (1741-1813), fait construire un second moulin en 1790 et exploite le potentiel agricole de la seigneurie. <br/><br/>En 1865, la pointe est achetée par John Joseph Caldwell Abbott (1821-1893), avocat de Montréal, qui réaménage les lieux en domaine champêtre et préserve les ruines du fort. À sa mort en 1898, la pointe Abbott est acquise par Edward Seaborne Clouston (1849-1912) qui entreprend une série de rénovations des bâtiments sauf pour les ruines du fort dont il apprécie le romantisme pittoresque. Depuis cette époque, les propriétaires ont conservé ces vestiges séculaires et même participé à leur entretien. Des fouilles archéologiques menées en 1971 et 2004 ont démontré le riche potentiel du site et révélé des éléments importants de son histoire. Des travaux visant à conserver la maçonnerie y ont également été réalisés.<br/><br/>Le site patrimonial du Fort-Senneville est classé en 2003.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+              <h2 class="titreBoite" id="documents"><span >Documents</span></h2>
+            
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+<ul>
+<li>
+<strong>
+
+  
+    <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir document')), this.innerHTML.trim());" href="document/rpcq_bien_93454_202886.PDF?id=202886" target="_blank">Site patrimonial du Fort-Senneville. Les carnets du patrimoine</a>
+  
+  
+
+</strong>
+<br/>
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+        &#169; 
+            
+            
+                Ministère de la Culture et des Communications
+            
+        
+        
+          
+            2003
+          
+        
+      
+    
+  
+  
+
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Liens Internet</span>&nbsp;:</h3>
+  <ul>
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir rÃ©fÃ©rence')), this.innerHTML.trim());" href="http://inventairenf.cieq.ulaval.ca/inventaire/" target="_blank">inventairenf.cieq.ulaval.ca</a></li>
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir rÃ©fÃ©rence')), this.innerHTML.trim());" href="http://ville.montreal.qc.ca/" target="_blank">ville.montreal.qc.ca</a></li>
+    
+  </ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>DUGUAY, Françoise. <I>Étude historique et archéologique du fort Senneville et de ses abords (site BiFl-2)</I>. Montréal, Archéocène inc., 1995. 58 p.</li>
+      
+    
+      <li>Ethnoscop inc. <I>Le Fort Senneville et ses abords : étude de potentiel archéologique</I>. Montréal, Ministère de la Culture et des Communications, 2002. 115 p.</li>
+      
+    
+      <li>ROBICHAUD, Léon et Alan STEWART. <I>Le fort de Senneville. Étude historique et patrimoniale</I>. Québec, Ministère de la Culture et des Communications, 2000. 190 p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1908704932" async></script></body>
+</html>

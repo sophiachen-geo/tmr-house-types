@@ -1,0 +1,2394 @@
+      Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Pointe-Claire
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+
+
+
+
+               Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Pointe-Claire
+Étude réalisée par le Service de la mise en valeur du territoire et du patrimoine
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+
+
+
+Cette analyse du patrimoine urbain a été réalisée par la Division du patrimoine et de la toponymie sous la direction de Jean-François Gravel,
+chef de division. Le travail a été effectué de janvier 2003 à mai 2004 dans le cadre de la préparation du Plan d’urbanisme de la Ville de
+Montréal, qui a été adopté par le Conseil municipal le 23 novembre 2004. L’équipe du projet comprend, pour l’évaluation du patrimoine bâti
+et la recherche historique, Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre et Pierre-Paul Savignac,
+architectes, et Denise Caron, historienne. La recherche et l’écriture pour le patrimoine archéologique ont été réalisées par Claire Mousseau,
+archéologue, avec la collaboration de Françoise Duguay, François Bélanger, Anne-Marie Balac et Christian Roy, également archéologues.
+De plus, Gisèle Trépanier, conseillère en aménagement, et Nicole Halpert, chargée de communication, ont participé à la révision des textes
+tandis que Ginette Bouchard, secrétaire d’unité administrative, a procédé à la saisie de texte. Finalement, nous tenons à remercier nos
+collaborateurs des directions de l’aménagement urbain et des services aux entreprises des arrondissements.
+
+
+
+Remerciements
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+Rendus cartographiques :
+Division des politiques et du Plan d’urbanisme
+Révision linguistique :
+Sylvie Poulin
+Conception graphique et mise en page :
+Marie Violaine Lamarche
+Photographies :
+Ville de Montréal, Bibliothèque nationale du Québec, P. Fauteux,
+Société pour la sauvegarde du patrimoine de Pointe-Claire
+
+
+
+Ce document fait partie d’une série de cahiers qui ont été réalisés pour chacun des 27 arrondissements de la Ville de Montréal. Les différents
+cahiers d’évaluation du patrimoine urbain peuvent être consultés sur notre site internet à l’adresse suivante : ville.montreal.qc.ca/patrimoine
+
+
+
+ISBN 2-7647-0448-8
+
+Dépôt légal – Bibliothèque nationale du Québec, 2005
+Dépôt légal – Bibliothèque nationale du Canada, 2005
+
+
+
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+   TABLE DES MATIÈRES
+ARRONDISSEMENT
+            de Pointe-Claire
+ 7           A VA N T- P R O P O S
+
+ 9   1.      CADRE MÉTHODOLOGIQUE
+
+ 9   1.1     Introduction
+ 9   1.2     Le cadre bâti d’intérêt patrimonial
+ 9   1.2.1   Approche, étapes et résultats
+11   1.2.2   Critères de sélection
+14   1.3     Les tracés fondateurs d’intérêt patrimonial
+14   1.4     Le patrimoine archéologique
+14   1.4.1   Le caractère spécifique de ce patrimoine
+16   1.4.2   La démarche générale d’acquisition de connaissances et de conservation
+17   1.4.3   L’approche méthodologique et l’identification du patrimoine
+             archéologique au Plan d’urbanisme
+19   1.5     Nouvelles perspectives
+
+21   2.      HISTORIQUE
+
+25   3.      É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+25   3.1     Mise en situation
+27   3.2     Résultat de l’analyse
+27   3.2.1   Les tracés fondateurs d’intérêt patrimonial
+27   3.2.2   Le cadre bâti d’intérêt patrimonial
+27           A Les secteurs de valeur patrimoniale exceptionnelle
+30           B    Les secteurs de valeur patrimoniale intéressante
+34           C Les ensembles urbains d’intérêt
+35           D Les immeubles de valeur patrimoniale exceptionnelle
+36           E    Les immeubles de valeur patrimoniale intéressante
+                  Carte synthèse : Évaluation du patrimoine urbain
+39   3.2.3   Le patrimoine archéologique
+40           A Les secteurs d’intérêt archéologique à fort potentiel
+43           B    Les secteurs d’intérêt archéologique
+44           C Les sites archéologiques
+45           D Les biens culturels à statut
+                  Carte synthèse : Le patrimoine archéologique
+
+49   4.      R E C O M M A N D AT I O N S
+
+49   4.1     Générales à l’échelle de l’arrondissement
+50   4.2     Générales à l’échelle montréalaise
+51   4.3     Spécifiques à l’arrondissement
+
+53           BIBLIOGRAPHIE
+                              A VA N T- P R O P O S
+
+
+
+
+Le repérage du patrimoine urbain dont nous faisons            C’est la première fois que l’on entreprend un tel travail
+état ici a été réalisé dans le cadre de l’élaboration du      pour les 27 arrondissements de l’île, travail qui suppose
+Plan d’urbanisme de la Ville de Montréal, qui a été           non seulement l’examen de nouvelles thématiques et
+adopté par le Conseil municipal le 23 novembre 2004.          l’établissement de collaborations avec les arrondisse-
+                                                              ments de Montréal, mais aussi une harmonisation
+Le chapitre 2 de la première partie du Plan d’urbanisme       des visions et des représentations que les arrondisse-
+formule différentes orientations d’aménagement                ments ont de leur patrimoine. Par exemple, dans
+pour Montréal et comprend une section sur le patri-           certains cas, seul le patrimoine du Régime français
+moine bâti, archéologique et naturel. Le repérage             était privilégié; ailleurs, on n’avait jamais considéré
+des secteurs et bâtiments d’intérêt patrimonial et des        que le parc immobilier plus récent puisse avoir une
+secteurs d’intérêt archéologique contribuera à atteindre      valeur patrimoniale. Ce repérage connexe au Plan
+l’objectif de conservation énoncé dans le Plan. Il a été      d’urbanisme constitue donc une chance unique de
+mené par la Division du patrimoine et de la topo-             faire converger des visions différentes et d’envisager
+nymie en collaboration avec la Division des politiques        le patrimoine de l’ensemble des arrondissements de
+et du Plan d’urbanisme du Service de la mise en               Montréal dans une perspective commune.
+valeur du territoire et du patrimoine, de janvier 2003
+à mai 2004. En ce qui a trait aux sites archéologiques
+recensés, la liste a été mise à jour en mars 2004.
+
+Préparés par la Division du patrimoine et de la topo-
+nymie, les « Cahiers d’arrondissement » présentent
+la méthodologie du travail de repérage, un bref his-
+torique de chacun des arrondissements, les résultats
+complets du repérage du patrimoine bâti et archéo-
+logique, la justification des choix des secteurs, des
+recommandations et une bibliographie. Ces cahiers,
+qui constituent un document d’appoint au Plan
+d’urbanisme, s’adressent d’abord aux citoyens et
+aux gestionnaires des arrondissements afin de les
+sensibiliser à l’importance de conserver le patrimoine
+de leur localité, ainsi que de les aider à mieux com-
+prendre le territoire et à développer des outils de
+gestion et de contrôle appropriés pour assurer la
+conservation de leur patrimoine urbain.
+
+
+
+
+                       ARRONDISSEMENT                                                                                7
+                                           de Pointe-Claire
+1.
+1.1 Introduction
+                               CADRE MÉTHODOLOGIQUE
+
+
+
+                                                               1.2 Le cadre bâti d’intérêt patrimonial
+Le patrimoine urbain montréalais ne se limite pas à            1.2.1 Approche, étapes et résultats
+une addition de bâtiments individuels de grand intérêt.
+                                                               L’approche choisie pour la sélection des bâtiments et
+Il porte aussi l’empreinte des époques passées sous
+                                                               secteurs s’appuie sur le concept de paysage urbain
+forme de tracés de rues, de paysages, de constructions,
+                                                               développé par Kevin Lynch, selon lequel le territoire
+d’éléments naturels, de vestiges archéologiques ou
+                                                               se découvre à partir de l’intérieur et non à vol d’oiseau
+de vues exceptionnelles. Le patrimoine urbain forme
+                                                               (en plan), et se compose d’une succession de séquences
+l’environnement dans lequel nous vivons aujourd’hui
+                                                               visuelles expérimentées le long d’un parcours.
+et chacune de ses composantes entretient des relations
+complexes avec les autres. Ainsi, un bâtiment contribue        Cette approche, basée sur l’expérience spatiale, com-
+à la qualité et à l’identité d’un lieu, et inversement,        porte au moins deux implications. L’une marque notre
+certaines qualités qui lui sont extérieures rehaussent         préférence pour la considération des bâtiments
+son attrait. Par exemple, une église et une école              exceptionnels ou intéressants dans leur contexte
+donnant sur un parc ajoutent à son intérêt; un amé-            plutôt qu’en tant qu’objets isolés. L’autre est que les
+nagement paysager particulier, tel un écrin, peut con-         limites des secteurs sélectionnés sont déterminées
+tribuer à rehausser la valeur patrimoniale d’un bâtiment;      par le champ visuel. Ces limites ne sont donc pas
+une habitation plutôt modeste peut se trouver dans             arbitrairement placées au centre des rues mais bien
+un secteur qui présente de belles qualités d’ensemble          au fond des lots afin d’englober toutes les com-
+(homogénéité, couvert végétal, etc.) ; et des rues peu-        posantes du champ visuel.
+vent offrir des vues exceptionnelles sur un élément
+naturel ou construit. La nature multidimensionnelle            Même si elles sont réalisées pour tout le territoire de
+du patrimoine urbain fait qu’on ne peut considérer             la ville de Montréal, la sélection et la qualification des
+ses composantes isolément. Ainsi, l’ancienneté, le             bâtiments et secteurs patrimoniaux peuvent contribuer
+potentiel d’évocation historique, la qualité architec-         à faire ressortir la spécificité des arrondissements. En
+turale, l’harmonie et les qualités visuelles, la présence      effet, Montréal est composée de différents territoires
+d’éléments naturels, le tracé des rues, le potentiel ou        qui possèdent une identité et une histoire propres qui
+l’intérêt archéologique sont autant de facteurs que            méritent d’être reconnues. Nous avons pris le parti de
+nous avons pris en compte afin de jeter les bases d’une        choisir l’arrondissement comme échelle d’observation
+meilleure intégration du patrimoine aux probléma-              du territoire afin de dégager ces spécificités locales.
+tiques urbaines.                                               De la sorte, les arrondissements qui ont connu un
+                                                               développement plus récent sont également considérés
+La structure méthodologique comprend trois volets.             et les particularités de leur patrimoine sont reconnues.
+Le premier traite de l’approche et des critères employés
+pour le cadre bâti d’intérêt patrimonial, le second
+explique ce que nous entendons par la notion de tracés
+fondateurs d’intérêt patrimonial, et le troisième expose
+les critères utilisés pour le patrimoine archéologique.
+
+
+
+
+                       ARRONDISSEMENT                                                                                  9
+                                            de Pointe-Claire
+Si ce repérage fondé sur l’expérience spatiale prend           13) Préparation des cartes et listes finales.
+largement appui sur un travail d’observation sur le            14) Identification de quelques bâtiments et secteurs
+terrain, il n’aurait pu être achevé sans l’étude de                d’intérêt patrimonial exceptionnel qui se démar-
+sources documentaires. Bien qu’il ne s’agisse pas d’un             quent à l’échelle montréalaise (les incontournables).
+processus linéaire, voici les principales étapes suivies
+                                                               Tout au long des différentes étapes du projet, les résul-
+par la Division du patrimoine et de la toponymie :
+                                                               tats du travail ont été bonifiés par les connaissances
+1) Préparation de critères de sélection.                       des professionnels des arrondissements et de divers
+2) Rencontre avec chacun des 27 arrondissements pour           comités rattachés à la préparation du Plan d’urbanisme.
+    exposer la démarche et les critères de sélection.
+                                                               Les résultats du repérage du patrimoine urbain se
+3) Visite du territoire de chacun des arrondissements
+                                                               présentent sous forme de listes de bâtiments et de
+    avec les professionnels concernés.
+                                                               cartes définissant des secteurs d’intérêt. Il est important
+4) Recherche et étude de la documentation existante
+                                                               de comprendre que ces deux éléments ne peuvent
+    pour chacun des arrondissements :
+                                                               être dissociés l’un de l’autre – ils sont complémentaires.
+    – inventaires, études patrimoniales, études typo-
+                                                               Ainsi, on a inclus dans les listes tous les bâtiments
+      morphologiques, monographies, dépouillement
+                                                               exceptionnels de chacun des arrondissements, mais il
+      de périodiques, bases de données (Service des
+                                                               était impossible d’inscrire tous les bâtiments intéres-
+      immeubles, Communauté urbaine de Montréal,
+                                                               sants, étant donné leur trop grand nombre. Nous nous
+      Fondation du patrimoine religieux, etc.) ;
+                                                               sommes donc limités à nommer individuellement les
+    – cartographie ancienne et photos aériennes.
+                                                               bâtiments qualifiés d’intéressants qui se trouvaient
+5) Collecte d’informations thématiques :
+                                                               à l’extérieur de secteurs d’intérêt. Ces deux outils
+    – inventaires (les églises, les écoles, etc.),dépouille-
+                                                               doivent donc être interprétés en complémentarité.
+      ment de périodiques (le patrimoine moderne, etc.);
+    – consultation d’un expert en patrimoine industriel.       Le système d’identification des secteurs utilisé dans
+6) Élaboration d’un historique et d’une bibliographie          le document correspond à celui des cartes. Le premier
+    pour chacun des arrondissements.                           chiffre correspond au numéro d’arrondissement. Il est
+7) Analyse de la documentation et détermination                suivi de la lettre E pour les secteurs de valeur patri-
+    préliminaire des territoires et immeubles d’intérêt        moniale exceptionnelle, de la lettre I pour les secteurs
+    pour chacun des arrondissements.                           de valeur patrimoniale intéressante, de la lettre N
+8) Travail sur le terrain : repérage en voiture et à pied      pour les secteurs industriels d’intérêt ou par la lettre U
+    avec la collaboration de certains arrondissements.         pour les secteurs urbains d’intérêt. Le deuxième chiffre
+9) Photographies et report des données spatiales               correspond au numéro du secteur.
+    sur des cartes.
+10) Vérification de la cohérence du traitement des             L’échéancier de réalisation du Plan d’urbanisme,
+    secteurs d’intérêt qui chevauchent plusieurs               les ressources disponibles ainsi que l’état actuel des
+    arrondissements.                                           connaissances sur les différents bâtiments et lieux
+11) Catégorisation des secteurs et immeubles d’intérêt         d’intérêt ont été déterminants quant à la méthodologie
+    patrimonial (exceptionnels et intéressants).               adoptée. Ces contraintes inévitables ont constitué un
+12) Rédaction de courts textes résumant l’intérêt              défi de taille pour la production de ce document qui
+    patrimonial de chacun des secteurs sélectionnés.           est, malgré tout, une base solide à partir de laquelle
+                                                               on pourra amorcer une réflexion plus poussée sur la
+                                                               protection du patrimoine montréalais.
+
+
+
+
+10                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.2.2 Critères de sélection                                                 – Intéressants : ensembles comprenant plusieurs bâti-
+                                                                              ments et certaines caractéristiques environnementales
+LES SECTEURS D’INTÉRÊT PATRIMONIAL                                            qui présentent un intérêt patrimonial. Ce sont toutefois
+                                                                              des ensembles dont la trame urbaine peut avoir été
+Les secteurs d’intérêt patrimonial ont été sélectionnés
+                                                                              partiellement modifiée, qui ont pu connaître un
+sur la base des critères suivants1 :
+                                                                              certain nombre de perturbations et qui renferment
+– leur capacité de témoigner d’un thème ou d’un                               parfois des constructions peu intégrées à l’ensemble.
+  événement historique ;                                                      Certaines zones dont l’état est moins satisfaisant sur
+– leur qualité architecturale (forme, usage, technologie                      le plan architectural ou environnemental pourraient
+  constructive) ;                                                             présenter un intérêt si une action de mise en valeur
+– leur participation à la qualité de la vie urbaine                           était entreprise.
+  et du paysage.
+                                                                            Dans tous les cas, l’échelle de comparaison pour cette
+À titre d’exemple, on identifie le noyau originel                           qualification est l’arrondissement, c’est-à-dire que nous
+d’un village, un pôle d’activité lié à la concentration                     avons identifié les secteurs exceptionnels et intéres-
+d’équipements collectifs, un quartier ouvrier du début                      sants propres à l’arrondissement, ce qui fait ressortir
+du siècle, etc. Cette notion de patrimoine est englo-                       sa spécificité dans l’ensemble montréalais. Lorsqu’un
+bante et correspond aux nouvelles tendances                                 secteur se révèle avoir une importance à l’échelle
+véhiculées par les chartes internationales en matière                       montréalaise, on pourra recommander sa protection en
+de conservation.                                                            procédant à la constitution d’un site du patrimoine
+                                                                            en vertu de la Loi sur les biens culturels du Québec3.
+Tous les secteurs identifiés ont ensuite été qualifiés
+comme suit2 :
+
+– Exceptionnels: secteurs ayant conservé leurs qualités
+  au chapitre des aménagements urbains, des implan-
+  tations de bâtiments, de la géographie et des
+  paysages et qui regroupent des suites architecturales,
+  des alignements de bâtiments d’intérêt patrimonial,
+  des zones unifiées par une fonction ou une typologie
+  architecturale. Les ensembles de cette catégorie ont
+  subi relativement peu de perturbations et présentent
+  un caractère d’harmonie formelle et fonctionnelle.
+  De plus, ils sont souvent reconnus comme des
+  témoins historiques importants.
+
+
+
+
+1 Ces critères sont issus du document de travail Guide de gestion des       3 Conformément au document de travail Citation et constitution de sites
+  études patrimoniales préparé par la Division du patrimoine et de la         du patrimoine préparé par la Division du patrimoine et de la toponymie
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                de la Ville de Montréal en novembre 2003.
+2 Ces critères sont inspirés du Guide d’évaluation des biens culturels et
+  des districts historiques de la Ville d’Ottawa, 1987.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                     11
+                                                        de Pointe-Claire
+LES IMMEUBLES D’INTÉRÊT PATRIMONIAL                                            turale ainsi qu’à son lien particulier avec la trame
+                                                                               urbaine. Les critères utilisés sont les suivants6 :
+Les immeubles d’intérêt patrimonial ont été sélectionnés
+sur la base des critères suivants4 :                                           – la valeur historique et sociale d’une industrie dans
+                                                                                 le développement de l’arrondissement, de la ville
+– leur capacité de témoigner d’un thème ou d’un                                  ou même de la province et du pays ;
+  événement historique ;                                                       – l’intégrité du complexe (ancienneté, évolution
+– leur qualité architecturale (forme, usage, technologie                         architecturale, évolution technologique) ;
+  constructive) ;                                                              – le procédé de production particulier;
+– leur participation à la qualité de la vie urbaine et du                      – le lien avec les voies de transport ;
+  paysage.                                                                     – le lien avec le développement des quartiers ouvriers ;
+Cette notion de patrimoine est englobante et corres-                           – l’insertion dans le paysage urbain.
+pond aux nouvelles tendances véhiculées par les
+chartes internationales en matière de conservation.                            Finalement, tous les immeubles d’intérêt patrimonial
+Outre l’architecture monumentale, elle inclut donc                             ont été qualifiés comme suit7 :
+l’architecture vernaculaire, le patrimoine moderne, le
+                                                                               – Exceptionnel : un bâtiment ancien par rapport aux
+patrimoine industriel, etc.
+                                                                                 autres bâtiments de l’arrondissement construits aux
+Dans les cas du patrimoine moderne et du patrimoine                              mêmes fins et(ou) qui affiche des caractéristiques
+industriel, nous avons jugé utile d’utiliser des critères                        inhabituelles ou remarquables quant à son architecture
+spécifiquement adaptés à ces réalités.                                           (par rapport à des bâtiments comparables) et qui n’a
+                                                                                 pas subi de modifications extérieures importantes.
+Patrimoine moderne : Des bâtiments peuvent être                                  De plus, il sert souvent de point de repère ou est
+considérés comme faisant partie du patrimoine                                    reconnu comme un témoin historique important.
+moderne s’ils ont été construits entre 1930 et 1975                            – Intéressant: un bâtiment qui n’est pas nécessairement
+et qu’ils illustrent les caractéristiques de cette époque                        plus ancien que ceux construits aux mêmes fins dans
+relativement5 :                                                                  l’arrondissement, qui affiche certaines caractéristiques
+                                                                                 inhabituelles ou remarquables par rapport à des
+– aux conditions sociales, économiques et politiques
+                                                                                 bâtiments comparables mais dans une moindre
+  changeantes ;
+                                                                                 mesure que dans la catégorie précédente, et qui
+– aux progrès technologiques rapides ;
+                                                                                 peut avoir subi quelques modifications.
+– aux nouvelles façons d’exprimer les formes et de
+  répondre aux besoins fonctionnels.
+
+Patrimoine industriel : Le patrimoine industriel
+commande aussi une adaptation des critères en usage
+pour reconnaître sa spécificité, notamment quant à
+la primauté de la fonction sur l’esthétique architec-
+
+
+
+
+4 Ces critères sont issus du document de travail Guide de gestion des          6. Ces critères proviennent de l’Évaluation du patrimoine industriel : critères
+  études patrimoniales préparé par la Division du patrimoine et de la             généraux, document préparé par Archémi pour le compte de la Ville de
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                    Montréal en 2003.
+5. Ces critères sont issus du Plan du réseau des lieux historiques nationaux   7. Ces critères sont inspirés du Guide d’évaluation des biens culturels et des
+   du Canada : La commémoration du patrimoine bâti canadien de l’ère              districts historiques de la Ville d’Ottawa, 1987.
+   moderne préparé par Parcs Canada en 2001.
+
+
+
+12                                                                             Évaluation du patrimoine urbain
+                                                                               Ville de Montréal
+Comme dans le cas des secteurs d’intérêt patrimonial,                      Les ensembles industriels d’intérêt : Le Plan
+l’échelle de comparaison pour ce travail de qualification                  d’urbanisme signale l’importance du patrimoine indus-
+est l’arrondissement, c’est-à-dire que nous avons                          triel montréalais en créant une catégorie particulière
+identifié les bâtiments exceptionnels et intéressants                      – Ensembles industriels d’intérêt. Cette catégorie
+propres à l’arrondissement, ce qui fait ressortir sa                       est d’autant plus justifiée que le regard posé sur ces
+spécificité dans l’ensemble montréalais. Lorsqu’un                         sites est différent en raison de leur taille et de leur
+bâtiment se révèle avoir une importance à l’échelle                        complexité, de la primauté de leur fonction sur
+montréalaise, on pourra recommander sa protection                          l’esthétique architecturale ainsi que de leur lien par-
+par la citation en vertu de la Loi sur les biens culturels                 ticulier avec la trame urbaine.
+du Québec8.
+                                                                           De plus, les ensembles industriels d’intérêt offrent des
+                                                                           possibilités de mise en valeur nombreuses et variées. Il
+                                                                           peut s’agir autant de restauration que d’interprétation
+NOTIONS NOUVELLES                                                          du lieu. Cette diversité d’interventions possibles com-
+Les ensembles urbains d’intérêt : Le Plan d’urba-                          mande une excellente connaissance des lieux et
+nisme reconnaît l’intérêt de certains développements                       activités de production, laquelle est malheureusement
+résidentiels d’après-guerre, qui composent une part                        trop souvent embryonnaire actuellement. L’amélioration
+importante du patrimoine des anciennes banlieues,                          de cette connaissance est pourtant nécessaire pour
+en créant une catégorie appelée Ensembles urbains                          permettre des interventions éclairées et même inno-
+d’intérêt. On y retrouve, entre autres, des ensembles                      vatrices qui inscriront pleinement ce patrimoine dans
+homogènes de bungalows, des secteurs de maisons                            la vie urbaine contemporaine.
+qui adoptent le modèle développé par la Wartime                            Le critère qui préside à la sélection d’un ensemble
+Housing Limited ou des exemples des premières                              industriel d’intérêt est le regroupement particulièrement
+coopératives d’habitation. Leur repérage est exploratoire                  complexe de bâtiments industriels, structures de génie
+et vise à les intégrer au Plan en les reliant pour une                     civil, machines, instruments, outils et équipements divers
+première fois à des préoccupations de conservation du                      appartenant à une seule ou à plusieurs compagnies.
+patrimoine. Ces ensembles urbains d’intérêt ont été
+sélectionnés lorsqu’ils présentent les qualités suivantes:
+
+– ensemble représentatif des nouvelles façons
+  d’habiter qui sont apparues pendant la Seconde
+  Guerre mondiale;
+– ensemble représentatif du boom démographique
+  et du développement de la banlieue après la
+  Seconde Guerre mondiale;
+– projets d’ensemble présentant une certaine
+  homogénéité des caractéristiques architecturales.
+
+
+
+
+8 Conformément au document de travail Citation et constitution de sites
+  du patrimoine préparé par la Division du patrimoine et de la toponymie
+  de la Ville de Montréal en novembre 2003.
+
+
+
+
+                             ARRONDISSEMENT                                                                                       13
+                                                       de Pointe-Claire
+                                                                Plusieurs de ces chemins se sont transformés en
+1.3 Les tracés fondateurs d’intérêt                             autoroutes et boulevards, d’autres ont conservé un
+            patrimonial                                         potentiel évocateur du Montréal rural ancien, et
+                                                                quelques-uns se sont fortement urbanisés.
+Sur l’île de Montréal, l’organisation du territoire
+remonte dans certains cas au XVIIe siècle. De cette             Parmi ces tracés fondateurs, nous avons sélectionné
+organisation naissent les voies de circulation qui sont         les tronçons qui présentent un intérêt patrimonial
+souvent les marques les plus anciennes du Montréal              parce qu’ils relient toujours des bâtiments parmi les
+agricole qui prévalait avant l’urbanisation. En effet,          plus anciens de Montréal ou qu’ils sont bordés de
+dès 1663, les sulpiciens deviennent seigneurs de l’île          bâtiments d’intérêt patrimonial. Ces tracés servent
+de Montréal. Ils planifient alors le territoire pour l’ouvrir   en quelque sorte de fil conducteur pour la com-
+à la colonisation. Pour cela, l’île est divisée en côtes –      préhension du territoire. Ils permettent, entre autres,
+chacune, dénommée par les sulpiciens, désigne un                d’expliquer la présence d’un paysage rural ou de
+ensemble de terres pouvant compter quelques                     bâtiments anciens d’intérêt patrimonial qui apparais-
+dizaines de concessions et représentant une unité de            sent autrement un peu perdus dans la trame urbaine
+territoire. Les terres individuelles sont des bandes            actuelle. En reliant différents éléments isolés, ces
+parallèles étroites et longues. Pour chaque côte est            tronçons leur confèrent une importance accrue.
+prévu l’emplacement d’un chemin. Cela donne une
+idée du mode d’occupation du sol du système
+seigneurial mis en place sous le Régime français.
+Le système des côtes constitue la structure de base
+                                                                1.4 Le patrimoine archéologique
+du peuplement de l’île sur laquelle s’appuiera tout             1.4.1 Le caractère spécifique de ce patrimoine
+développement postérieur.
+                                                                Le patrimoine archéologique est «... la partie de notre
+En raison de l’insularité de la seigneurie de Montréal          patrimoine matériel pour laquelle les méthodes de
+et de la présence du mont Royal, ce système de côtes            l’archéologie fournissent les connaissances de base. Le
+présente toutefois une organisation originale. En               patrimoine archéologique englobe toutes les traces de
+effet, si dans la vallée du Saint-Laurent les côtes             l’existence humaine et concerne les lieux où se sont
+intérieures sont parallèles au fleuve, ce n’est pas             exercées les activités humaines, quelles qu’elles soient,
+nécessairement le cas à Montréal. C’est ainsi que, sur          les structures et les vestiges abandonnés de toutes
+l’ensemble de l’île, le réseau routier qui dessert ces          sortes, en surface, en sous-sol ou sous les eaux, ainsi
+côtes présente une configuration propre. Ce réseau              que le matériel qui leur est associé. Le patrimoine
+primitif, clairement illustré sur la carte de Jobin de          archéologique est une richesse culturelle fragile et non
+1834, montre l’ensemble des tracés fondateurs qui               renouvelable».9
+serviront par la suite d’épine dorsale au développe-
+ment des quartiers. Grâce à cette carte, on comprend
+bien la structure du réseau des chemins à son
+apogée, à l’époque où l’île de Montréal était encore
+très fortement rurale.
+
+                                                                9 Extrait de la Charte pour la protection et la gestion du patrimoine
+                                                                  archéologique, ICAHM, ICOMOS International, 1990.
+
+
+
+
+14                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La notion de patrimoine archéologique se rattache                À L’ÉCHELLE DE L’ÎLE DE MONTRÉAL
+d’abord à un lieu physique, le site archéologique, qui
+                                                                 L’archipel de Montréal comprend trois nappes d’eau
+correspond à tout espace dont le sous-sol recèle des
+                                                                 importantes, trois canaux d’écoulement, une vingtaine
+vestiges d’occupation ancienne – ouvrages et cons-
+                                                                 de rapides, trois cents îles (dont deux majeures,
+tructions de tous types, objets témoins et tout autre
+                                                                 Montréal et Jésus) et plus de mille kilomètres de
+élément matériel issu de l’action humaine. Le caractère
+                                                                 rives. Montréal est également le point de rencontre
+enfoui des sites archéologiques fait que, contrairement
+                                                                 de trois grandes voies fluviales – le Saint-Laurent qui
+à d’autres catégories de biens patrimoniaux, ce
+                                                                 donne accès à l’Atlantique et aux Grands Lacs, le
+patrimoine constitue une ressource dont il est difficile
+                                                                 Richelieu d’où il est possible d’atteindre l’Hudson et
+de dresser rapidement un inventaire exhaustif. De
+                                                                 l’État de New York, ainsi que l’Outaouais qui ouvre la
+nombreux sites, de natures diverses et de toutes
+                                                                 porte vers l’ouest et le nord. L’importance de l’île de
+époques, restent ainsi à découvrir sur le territoire de
+                                                                 Montréal pour les Amérindiens s’explique tout parti-
+l’île de Montréal. Toute tentative de cerner la réalité du
+                                                                 culièrement par cette localisation à la confluence et à
+patrimoine archéologique ne pourra donc constituer
+                                                                 proximité de plusieurs cours d’eau. Ces axes hydro-
+qu’un exercice partiel de mise à jour des connaissances
+                                                                 graphiques sont les routes traditionnelles de commerce
+acquises. Cette part d’inconnu explique l’extrême vul-
+nérabilité de ce patrimoine et les difficultés particulières     au cours de la préhistoire et au début de la période
+d’en assurer la protection face aux exigences modernes           historique. De plus, l’île de Montréal, la plus grande
+du développement urbain.                                         de l’archipel, comporte des terrasses de quinze,
+                                                                 trente et cinquante mètres d’élévation ou même
+Un second aspect important a trait au patrimoine                 plus, en référence au mont Royal. Ces terres ont pu
+archéologique en tant qu’objet de connaissance.                  accueillir des populations humaines depuis 8 000 ans
+L’archéologie constitue une discipline dont une des              avant aujourd’hui, si l’on se fie aux premières décou-
+missions est l’étude des sociétés passées par l’inter-           vertes archéologiques effectuées dans la vallée du
+médiaire des vestiges matériels que ces sociétés ont             Saint-Laurent.
+laissés derrière elles. Il s’agit, de plus, de la seule
+discipline qui traite dans le temps et l’espace de               La plus ancienne manifestation humaine recensée sur
+l’évolution de l’ensemble des sociétés humaines. Sa              l’île de Montréal date de la fin de la période archaïque,
+contribution est unique notamment en ce qui con-                 entre 5 000 et 4 000 ans avant aujourd’hui. Cette
+                                                                 occupation par les Amérindiens, au cours des périodes
+cerne la longue trajectoire suivie par l’humanité avant
+                                                                 préhistorique et de contact, est un volet unique du
+l’apparition de l’écriture. L’archéologie s’intéresse à
+                                                                 passé de l’île de Montréal.
+toutes les sociétés, sans égard à leur origine ou à
+leur forme d’organisation, qu’elles soient, comme en             Pour la période historique, la documentation et les
+Amérique, de souche autochtone, européenne ou autre.             cartes anciennes fournissent des éléments interpré-
+                                                                 tatifs valables, à partir des premières chroniques du
+                                                                 XVIe siècle jusqu’à nos jours. Elles sont cependant
+                                                                 souvent muettes sur les différents aspects des modes
+                                                                 de vie de certaines époques et de certains groupes et
+                                                                 individus, de même que sur l’emplacement exact et
+                                                                 l’organisation spatiale de plusieurs lieux d’exploita-
+                                                                 tion et d’habitation, comme les avant-postes de Ville-
+                                                                 Marie. Elles se taisent parfois volontairement et, en
+
+
+
+
+                        ARRONDISSEMENT                                                                                 15
+                                              de Pointe-Claire
+d’autres occasions, ne font état que des préoccupa-             En milieu urbain ou aménagé de longue date, la
+tions des classes dirigeantes, des autorités, de l’élite.       démarche suivie consiste, au moyen de l’analyse
+L’archéologie pare à ces lacunes car elle étudie les            des cartes anciennes, des documents d’archives, des
+traces concrètes laissées par les différents occupants.         données environnementales et des données archéo-
+En milieu urbain, l’archéologie étudie en outre l’évo-          logiques acquises, à caractériser la séquence d’occu-
+lution de la forme urbaine et des formes concrètes,             pation et le processus d’aménagement du territoire.
+dans l’espace et dans le temps, pour idéalement                 Il s’agit de confronter les caractéristiques géographiques
+accéder aux fondements de la culture.                           aux caractéristiques culturelles des sociétés ayant
+                                                                habité ou pu habiter un territoire, et de comprendre
+Les recherches archéologiques menées à ce jour sur l’île        dans quelle mesure les occupations successives ont
+de Montréal documentent une séquence d’occupation               structuré le milieu d’origine et affecté les vestiges
+s’étirant sur plusieurs millénaires et associée à la            d’occupations antérieures. Cette étape est celle de
+présence de groupes aux horizons culturels et temporels         l’étude de potentiel archéologique. La seconde étape
+fort diversifiés : campement amérindien, halte, carrière        consiste, en fonction des résultats de l’étude de
+préhistorique pour l’extraction de la pierre, lieu de           potentiel archéologique, à procéder à une évaluation
+sépultures amérindiennes, noyau initial de Ville-Marie,         sur le terrain afin de vérifier la localisation précise,
+lieux de fondation, forts et missions, bourgs anciens,          la nature et le degré d’intégrité des ressources archéo-
+moulin seigneurial, lieux de culte, cimetières (catho-          logiques en place. Il s’agit de l’inventaire archéolo-
+liques, protestants et juifs), complexes institutionnels,       gique réalisé par des forages, sondages et tranchées
+anciens faubourgs, villas, marchés publics, dépotoirs,          exploratoires.
+complexes agricoles, complexes industriels, ouvrages
+de génie civil, etc., et les formes du paysage ancien de        Selon la nature des découvertes découlant de l’inven-
+l’île de Montréal : terrasses, collines, ruisseaux, rivières,   taire archéologique, plusieurs avenues sont envisa-
+lacs, tourbières.                                               geables selon la valeur scientifique, didactique et
+                                                                symbolique du site et du contexte. Dans le cas d’un
+                                                                site archéologique de grand intérêt, il pourra être
+1.4.2 La démarche générale d’acquisition de                     nécessaire d’assurer en priorité sa conservation in
+         connaissances et de conservation                       situ. Une réserve archéologique est souvent garante
+                                                                de la mise en valeur de ce patrimoine. La plupart des
+Le site archéologique constitue le fondement concret            interventions archéologiques à Montréal surviennent
+de la démarche de conservation et de mise en valeur             dans le cadre de projets d’aménagement du territoire.
+du patrimoine archéologique. La valeur intrinsèque du           Les mesures de protection du patrimoine archéo-
+site archéologique, tout comme l’intérêt de procéder à          logique peuvent alors entraîner la conservation inté-
+son investigation, doivent être évalués en fonction             grale in situ de certains vestiges, la mise en valeur
+de critères relatifs à sa signification, et non pas             in situ de vestiges, la relocalisation du projet d’amé-
+essentiellement relever de considérations touchant              nagement, une modification du projet d’aménagement
+sa grande ancienneté ou le caractère plus ou moins              ou encore une fouille archéologique préventive sur
+monumental des vestiges qu’il recèle.                           les sites d’intérêt de façon à assurer une récupération
+                                                                maximale d’informations.
+
+
+
+
+16                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La majorité des sites archéologiques de l’île de                LES SITES ARCHÉOLOGIQUES RECENSÉS
+Montréal se trouvent dans des espaces divers – sous-
+                                                                Au Québec, en vertu de la Loi sur les biens culturels,
+sol de bâtiment, terrain vacant, boulevard, rue,
+                                                                tout site archéologique découvert est codifié selon
+ruelle, square, place, parc, parc-nature – souvent
+                                                                le code Borden et inscrit à l’Inventaire des sites
+menacés par des réaménagements, de nouvelles
+                                                                archéologiques du Québec. Le code Borden est un
+constructions et une modernisation des services
+                                                                système d’enregistrement des sites archéologiques
+publics souterrains. L’intégration de ce patrimoine
+                                                                utilisé à l’échelle du Canada. Il permet de localiser un
+dans les programmes de régénération du tissu urbain
+                                                                site archéologique d’après sa position géographique,
+de Montréal devient donc prioritaire. C’est pourquoi
+                                                                longitude et latitude (ex. : BjFj), et selon l’ordre suc-
+la reconnaissance du patrimoine archéologique dans
+                                                                cessif des découvertes archéologiques (ex. : BjFj-1).
+le Plan d’urbanisme de Montréal permettra de
+                                                                Au Québec, c’est le ministère de la Culture et des
+prévenir l’interférence négative des usages actuels de
+                                                                Communications qui a la responsabilité de tenir
+la ville et assurera la protection et la mise en valeur
+                                                                l’Inventaire des sites archéologiques de la province et
+de vestiges et de sites archéologiques d’un grand
+                                                                qui attribue les codes Borden.
+intérêt pour l’histoire de Montréal.
+                                                                La Ville de Montréal a donc enrichi le Répertoire
+                                                                informatisé des sites archéologiques des données à
+1.4.3 L’approche méthodologique et l’identifi-                  l’échelle de l’île de Montréal. Les 191 sites
+         cation du patrimoine archéologique au                  archéologiques recensés en date de 2004 ont été
+         Plan d’urbanisme                                       caractérisés individuellement. Les critères utilisés
+                                                                pour cette évaluation sont :
+En lien avec la confection du Plan d’urbanisme, la
+Ville de Montréal a réalisé une étude des sites                 – l’état de conservation physique du site et de son
+archéologiques recensés en date de l’année 2003                   environnement immédiat, en considérant que
+et des secteurs d’intérêt archéologique. Cette étude              plusieurs sites archéologiques recensés ont été
+s’étend à la partie montréalaise de l’archipel de                 détruits lors de travaux d’excavation ou ont fait
+Montréal, qui comprend l’île de Montréal mais aussi               l’objet de fouilles archéologiques ;
+l’île des Sœurs, l’île aux Hérons, l’île aux Chèvres, l’île     – la qualité documentaire des couches et des vestiges
+Dorval et d’autres. Ce faisant, elle assure une vision            archéologiques, leur représentativité, leur unicité,
+d’ensemble du territoire et met en perspective les                leur ancienneté et, dans certains cas, leur capacité
+espaces urbanisés où le patrimoine archéologique                  d’évocation.
+nécessite des mesures de protection. Pour comprendre
+                                                                Deux catégories ont été distinguées : les sites archéo-
+la portée de la démarche, il est nécessaire de rappeler
+                                                                logiques intègres qui doivent être protégés et les sites
+que seule une infime quantité des sites archéo-
+                                                                archéologiques altérés qui ne nécessitent aucune mesure
+logiques sur l’île de Montréal sont connus.
+                                                                de protection. Tous ont été cartographiés, y compris
+Dans un premier temps, l’étude s’est attachée à                 les sites archéologiques altérés car ils sont révélateurs
+localiser précisément et à évaluer les sites archéolo-          du potentiel archéologique d’un milieu donné.
+giques déjà recensés et inscrits à l’Inventaire des sites
+archéologiques du Québec, et dans un second temps,
+à qualifier, localiser et prioriser des secteurs d’intérêt
+archéologique.
+
+
+
+
+                        ARRONDISSEMENT                                                                                17
+                                             de Pointe-Claire
+LES BIENS CULTURELS À STATUT                                archéologiques. La qualité de préservation du milieu
+                                                            physique, la densité des témoins archéologiques en
+La notion de bien culturel intègre, d’une part, les sites   sous-sol et(ou) hors sol et leur capacité de con-
+archéologiques et les biens archéologiques classés et,      tribuer à la connaissance constituent des facteurs
+d’autre part, les sites historiques classés et les monu-    qui rehaussent le niveau d’intérêt accordé à un
+ments historiques classés ou reconnus, l’arrondisse-        endroit particulier. Le secteur d’intérêt archéologique
+ment historique du Vieux-Montréal, l’arrondissement         « à fort potentiel » est un territoire où des mesures
+historique et naturel du mont Royal, l’arrondissement       de protection des sites éventuels sont nécessaires.
+naturel de Saraguay, les monuments cités et les sites
+du patrimoine. Tous ces biens ont fait l’objet d’un         Pour chacun des 27 arrondissements de l’île de
+examen à partir de la documentation disponible afin         Montréal, l’identification des secteurs qui présentent
+de déterminer leur intérêt archéologique et, en con-        un intérêt archéologique constitue une étape préalable
+séquence, la nécessité d’une protection du patrimoine       à la protection des éventuels témoins archéolo-
+archéologique sur ces propriétés. Seuls les grands          giques. Cet exercice, qui est d’ailleurs une première
+ensembles à statut sont cartographiés, les autres           sur le territoire montréalais, est basé sur l’examen et
+biens culturels étant présentés par arrondissement.         l’évaluation de multiples sources documentant les
+                                                            aspects environnementaux et culturels de ces terri-
+                                                            toires. Cette étape permet également d’identifier les
+LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                        milieux qui doivent dans l’avenir faire l’objet d’une
+ET LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                     étude de potentiel et d’un inventaire archéologique.
+À FORT POTENTIEL                                            Les secteurs ont été ciblés en fonction :
+Le secteur d’intérêt archéologique est un territoire        – du cadre biophysique et des qualités d’accueil de
+susceptible de renfermer des sites et des vestiges            populations d’un territoire, depuis plusieurs millé-
+des périodes préhistorique, de contact et historique          naires; ce cadre a été documenté à partir d’études
+eu égard à ses caractéristiques géomorphologiques,            géologiques et géomorphologiques ainsi que par
+biophysiques, archéologiques et historiques.                  l’examen de cartes topographiques et de photogra-
+Des études plus poussées doivent y être réalisées             phies aériennes anciennes afin de déterminer la
+afin d’évaluer précisément la qualité de préservation         proximité d’un axe de communication hydro-
+du milieu physique. La probabilité de découverte              graphique ou terrestre, l’élévation des terrasses, les
+de témoins archéologiques demeure à ce jour difficile         types de dépôts de surface, les concentrations de
+à estimer si l’on considère l’environnement et son            ressources alimentaires de même que l’approvi-
+degré de perturbation moderne. Il est donc nécessaire         sionnement en eau potable et autres éléments ;
+que les citoyens collaborent en communiquant toute          – du contexte historique et de l’urbanisme moderne
+découverte de vestiges dans les secteurs d’intérêt            pour déterminer leur capacité à fonder un lieu de
+archéologique.                                                nature archéologique et à le préserver; ces contextes
+                                                              ont été documentés à partir de monographies
+Le secteur d’intérêt archéologique à fort potentiel           historiques et par l’examen des cartes des XVIIe,
+est un territoire dont l’évaluation du contexte bio-          XVIIIe, XIXe et XXe siècles et des photographies
+physique ainsi que des caractéristiques géomor-               aériennes de 1947, 1948 et 1949, de même qu’à
+phologiques, archéologiques et historiques démontre           partir d’études sur les parcs-nature de l’île de
+une forte possibilité qu’il recèle des vestiges               Montréal, les propriétés institutionnelles, les biens
+
+
+
+
+18                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+  culturels à statut et les lieux historiques nationaux,        afin de bien saisir toute la portée de l’urbanisme
+  comme le canal de Lachine ;                                   moderne sur les ressources archéologiques de l’île de
+– du contexte archéologique documenté à partir de               Montréal.
+  l’Inventaire des sites archéologiques du Québec
+                                                                Le résultat de cette réflexion qui comporte des limites,
+  ainsi que dans les publications, les rapports inédits
+                                                                car il ne s’agit aucunement d’une étude de potentiel
+  et les relevés de découvertes. Des copies de ces
+                                                                archéologique « fine » de l’île de Montréal, a été car-
+  études sont maintenant disponibles au Centre de
+                                                                tographié et des textes ont été rédigés en lien avec
+  documentation de la Direction du développement
+                                                                les catégories identifiées au Plan d’urbanisme : site
+  urbain de la Ville de Montréal ; le répertoire de ces
+                                                                archéologique recensé intègre, site archéologique
+  ouvrages peut être consulté sur le site Web de la
+                                                                recensé altéré, secteur d’intérêt archéologique à fort
+  Ville de Montréal – Patrimoine archéologique.
+                                                                potentiel, secteur d’intérêt archéologique, grand
+L’analyse des caractéristiques des sites archéolo-              ensemble à statut.
+giques connus permet de dégager des constantes qui
+influencent le choix des emplacements en fonction des
+cultures et des périodes, et d’élaborer des modèles
+archéologiques prédictifs. C’est ainsi que l’on constate,
+                                                                1.5 Nouvelles perspectives
+sites archéologiques à l’appui, que les groupes
+                                                                En résumé, le travail de repérage du patrimoine urbain
+amérindiens de la période préhistorique et les premiers
+                                                                réalisé dans le cadre du Plan d’urbanisme nous permet
+colons français choisissent approximativement les
+                                                                d’atteindre plusieurs objectifs et d’ouvrir la réflexion sur
+mêmes lieux pour s’établir. Par la suite, la disposition
+                                                                le patrimoine dans une perspective d’avenir. Il permet
+des occupations rurales européennes se démarque
+                                                                entre autres :
+de celle des premiers noyaux villageois, au gré du
+développement des axes de transport terrestre. De               – d’élargir la notion de patrimoine par rapport à ce qu’on
+plus, des activités spécialisées, tel un moulin à farine          retrouvait dans le Plan d’urbanisme de Montréal de 1992
+ou à scie mu par l’eau, une tannerie artisanale ou,               et dans plusieurs des plans d’urbanisme des anciennes
+plus tardivement, un complexe industriel, supposent               villes qui se sont jointes à Montréal ;
+des caractéristiques d’implantation fort différentes.           – de contribuer à accroître l’intérêt de certains arron-
+Ces facteurs ont été pris en considération afin de                dissements pour les problématiques de conservation
+tenter de localiser les territoires qui ont eu la faveur          du patrimoine et d’en sensibiliser d’autres à l’impor-
+des populations locales depuis le début de l’occupation           tance de cet enjeu ;
+de l’île de Montréal jusqu’à nos jours.                         – d’amorcer une exploration de nouvelles notions que
+                                                                  l’on rattache depuis peu à la question patrimoniale
+Les secteurs les plus susceptibles d’abriter des vestiges
+                                                                  dans les outils de gestion municipaux (patrimoine
+archéologiques ont ainsi été identifiés et ont fait l’objet
+                                                                  moderne, ensembles urbains, éléments de paysage,
+d’une inspection visuelle pour estimer leurs carac-
+                                                                  patrimoine archéologique, etc.) ;
+téristiques générales et observer, plus avant, le degré
+                                                                – de contribuer à l’identification d’enjeux locaux et
+de conservation d’éventuels vestiges. Certaines modi-
+                                                                  métropolitains quant à la protection du patrimoine;
+fications modernes majeures, comme l’ajout de rem-
+                                                                – de développer une vision globale et partagée en vue
+blais en rive, ont été réévaluées par suite de l’inspection
+                                                                  d’une planification et d’une action concertées en
+visuelle. Les résultats de l’ensemble de ces étapes
+                                                                  matière de patrimoine, en positionnant mieux le patri-
+d’évaluation ont été cartographiés sur une représen-
+                                                                  moine dans la dynamique du développement urbain.
+tation aérienne de l’île de Montréal, l’orthophoto 2002,
+
+
+
+                        ARRONDISSEMENT                                                                                   19
+                                             de Pointe-Claire
+2.                              HISTORIQUE
+
+
+Déjà, à la fin du XVIIe siècle, la côte de la Pointe-Claire
+désigne l’ensemble des terres longeant le lac Saint-
+                                                                Après 1850, les terres longeant le lac Saint-Louis sont
+                                                                convoitées par de riches vacanciers. La proximité de
+Louis. Dès 1698, les sulpiciens se réservent le site de         Montréal, l’environnement maritime et l’ouverture
+l’extrémité de la péninsule de la Pointe-Claire afin d’y        d’une voie ferrée desservant Pointe-Claire augmentent
+construire un moulin. Ce n’est toutefois qu’en 1708             son pouvoir d’attraction, autant pour les villégiateurs
+que la construction commence, soit deux ans après               que pour les résidants permanents, dont certains
+qu’une route sinueuse longeant le lac ne soit                   voyagent quotidiennement. En effet, grâce au train, ce
+ouverte, reliant La Présentation (Dorval) à l’extrémité         long trajet sera réduit de plusieurs heures à 45 minutes.
+ouest de l’île. En 1713, après la construction du               À la fin du XIXe siècle, certains riches villégiateurs
+moulin, une première église de pierre est érigée sur            achètent des grandes terres et deviennent gentlemen
+le site et la paroisse, formée en 1722, réunit les côtes        farmers. Les uns investissent dans des élevages de
+de la Pointe-Claire, Saint-Rémy (ou des Sources),               vaches laitières pure race en provenance de Grande-
+Saint-Jean et Saint-Charles. En 1845, le moulin à vent          Bretagne, les autres développent des pépinières de
+devient la propriété des sœurs de la Congrégation de            plantes importées de France pour desservir la riche
+Notre-Dame, qui sont installées à proximité depuis le           clientèle de Lakeshore, de Westmount ou de
+XVIIIe siècle. Les religieuses érigent sur la pointe un         Senneville, et d’autres encore tentent leur chance
+nouveau couvent en 1867.                                        en plantant un vignoble. Par ailleurs, des clubs privés
+                                                                liés aux sports et aux loisirs voient le jour : Pointe
+Le village de Pointe-Claire s’élève sur un site excep-          Claire Yacht Club et Beaconsfield Golf Club en sont
+tionnel avec vue panoramique sur le lac Saint-Louis.            deux exemples. Les villégiateurs multiplient par trois
+S’organisant au nord de l’ensemble institutionnel               la population de Pointe-Claire pendant la saison esti-
+paroissial, il ne compte pendant longtemps que                  vale, influençant ainsi la vitalité économique locale
+quelques rues où des artisans tiennent boutique.                durant cette période.
+Forgeron, cordonnier, voiturier, boucher et ferblantier
+offrent leurs services à la population agricole envi-           À la fin du XIXe siècle, plusieurs aubergistes s’installent
+ronnante. À partir de 1850, l’activité économique se            dans le village pour héberger une population de
+diversifie. Une carrière s’ouvre et la pierre extraite est      passage. En mai 1900, un feu prenant son origine
+acheminée par train au quai de Pointe-Claire, à proxi-          dans une boutique de ferblanterie détruit une partie
+mité du village. Cette pierre servira à la construction         du noyau villageois. Malgré tout, Pointe-Claire se
+du pont Victoria, dont les travaux débutent en 1854.            reconstruit en conservant la même trame de rues. En
+La même année, la municipalité du village de Saint-             1911, Pointe-Claire est incorporée en ville. Son terri-
+Joachim-de-la-Pointe-Claire est créée.                          toire ne couvre cependant que la partie sud de l’an-
+                                                                cienne paroisse.
+Une autre entreprise, la Montreal Terra Cotta
+Company, fondée par Alphonse Desjardins, s’installe             Des secteurs résidentiels successifs marquent l’évolu-
+et exploite un dépôt d’argile au nord de Lakeside.              tion du territoire. Cette banlieue se développe très
+Grâce à ses fours, elle fabrique des tuiles creuses             tôt, soit dès 1893. C’est cette année-là que sont mis
+dont la principale qualité est d’être à l’épreuve du            en vente les terrains de Cedar Park. L’avenue Cedar,
+feu. En 1962, après 70 ans d’exploitation, la matière           alors bordée de pommiers plantés par le promoteur,
+première est épuisée et l’entreprise doit fermer ses            donne accès à la gare qui porte ce nom. Suivent
+portes, ayant été pendant longtemps la plus grosse              d’autres développements domiciliaires, tous parallèles
+industrie manufacturière de Pointe-Claire. Ce site est          au chemin du Bord-du-Lac (chemin Lakeshore) et
+devenu aujourd’hui un parc municipal.                           s’inspirant du mouvement des banlieues-jardins alors
+
+
+
+                        ARRONDISSEMENT                                                                                  21
+                                             de Pointe-Claire
+en vogue. Le plus connu est sans doute le Bowling
+Green, conçu en 1905 par Frederick G. Todd à ses
+débuts comme architecte paysagiste. Les maisons
+sont construites de part et d’autre d’un parc privé
+devant servir à des activités récréatives.
+
+Une fois le territoire riverain complètement occupé, il
+reste à développer les terrains au nord de la voie ferrée.
+Le secteur des vétérans s’ouvre donc après la Seconde
+Guerre mondiale. Le boom de l’après-guerre a ainsi
+des incidences sur le développement domiciliaire de
+l’ensemble de l’île de Montréal. L’automobile devient
+rapidement un moyen de transport de plus en plus
+répandu et les autoroutes favorisent le développement
+de la banlieue. Celle-ci offre l’avantage de pouvoir
+construire des maisons unifamiliales entourées de
+verdure et situées à peu de temps de déplacement
+vers les lieux de travail. C’est à cette époque que
+Pointe-Claire se développe rapidement, suivant en
+                                                             Cette photo montre le site du noviciat des Frères de Sainte-Croix
+cela le mouvement de croissance démographique                dans les années 1940. C’est actuellement le Stewart Hall.
+d’après-guerre. Si la ville compte 1 240 habitants en        Extrait de Sainte-Croix au Canada, 1947
+1925, sa population se chiffre à 8 753 personnes en
+1951, à 21 926 dix ans plus tard et à 29 049 à l’aube
+du XXIe siècle.
+
+Il est remarquable que les différentes étapes de
+développement du territoire de Pointe-Claire soient
+toujours restées visibles, des premiers établissements
+européens jusqu’à la banlieue la plus récente.
+
+
+
+
+22                                                           Évaluation du patrimoine urbain
+                                                             Ville de Montréal
+Plan du village de la Pointe-Claire vers 1855, AMSS, Arm no 916, tiré
+de Le développement urbain de Pointe-Claire
+D’une grande précision pour l’époque, ce plan du village de Pointe-Claire
+situe tous les bâtiments, incluant les dépendances. Il est vraisemblable-
+ment commandé par les sulpiciens.
+
+
+
+
+                              ARRONDISSEMENT                                23
+                                                        de Pointe-Claire
+3.
+3.1 Mise en situation
+                               É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+
+                                                               Ailleurs sur le territoire, des exemples de plus en plus
+                                                               rares de modestes chalets recouverts de bardeaux de
+                                                               bois montrent que ce territoire était destiné à la villé-
+Le patrimoine urbain de Pointe-Claire témoigne de              giature à la fin du XIXe siècle.
+façon éloquente des différentes périodes qui ont
+                                                               Outre la pointe et le village, ce sont surtout les pro-
+marqué son histoire.
+                                                               jets immobiliers des années 1900-1930 qui forment
+La pointe de terre qui s’avance dans le lac Saint-             l’identité de Pointe-Claire. Destinés à la classe
+Louis et les tracés fondateurs que constituent le              moyenne supérieure ou à la bourgeoisie, les avenues
+chemin du Bord-du-Lac, le boulevard Saint-Jean et              Cedar, du Golf et Bowling Green ont été soigneuse-
+l’avenue Maywood relient aujourd’hui les témoins               ment planifiées et leur architecture est fortement
+bâtis les plus anciens de l’arrondissement et parmi            influencée par le mouvement Arts and Crafts qui
+les plus anciens à Montréal, entre autres le moulin            provient d’Angleterre. Ces premiers lotissements
+banal (1709-1710), classé bien archéologique en                sont des exemples éloquents des intérêts et valeurs
+1983, la maison Hyacinthe-Jamme dit Carrière                   qui animent les développeurs du début du XXe siècle.
+(vers 1780), classée monument historique en 1964               Autour de la baie de Valois, on retrouve plutôt des
+par le ministère des Affaires culturelles, ainsi que           lotissements destinés à l’origine à la classe moyenne
+d’autres maisons des XVIIIe et XIXe siècles.                   et qui sont aujourd’hui des lieux de vie de qualité,
+                                                               vivants et bien conservés.
+Cependant, le patrimoine de Pointe-Claire ne se
+résume pas à ces monuments anciens pris isolément.             Finalement, certains développements d’après-guerre
+C’est plutôt un tout : l’atmosphère des rues créée             ont un intérêt qui mérite d’être reconnu. Ainsi, le tracé
+notamment par le lotissement, le mode d’implantation           des rues et le lotissement de l’ancien quartier des
+des bâtiments et leur gabarit, une architecture de             vétérans de même que les formes architecturales du
+qualité qui témoigne de l’évolution des mouvements             projet Magil nous plongent dans les principes d’urba-
+artistiques et des savoir-faire anciens, un couvert végé-      nisme popularisés après la Seconde Guerre mondiale.
+tal exceptionnel et des vues sur le lac Saint-Louis.
+
+Ainsi, le site institutionnel de la pointe a aujourd’hui
+une valeur patrimoniale exceptionnelle compte
+tenu de son ancienneté, de sa valeur historique, de
+son intégrité, de l’intérêt architectural des bâtiments
+qui s’y trouvent et de sa valeur paysagère. À proxi-
+mité, l’ancien village de Pointe-Claire conserve son
+échelle humaine avec des maisons modestes alignées
+le long de rues étroites – un paysage urbain évoca-
+teur des modes de vie du début du siècle.
+
+
+
+
+                       ARRONDISSEMENT                                                                                25
+                                            de Pointe-Claire
+Ville de Montréal
+Évaluation du patrimoine urbain
+                                  André Jobin, Carte de L’île de Montréal, 1834, BNQ
+                                                               L’église actuelle, construite en 1881-1885, est une
+3.2 Résultat de l’analyse                                      réplique d’une première construction de l’architecte
+                                                               Victor Bourgeau amorcée en 1868 et détruite par le
+3.2.1 Les tracés fondateurs d’intérêt                          feu en 1881. Le presbytère de 1848 a été transformé
+         patrimonial                                           en 1913 selon les plans de Théo Daoust, architecte.
+                                                               La croix de bois érigée en 1900 sur la pointe et nom-
+                                                               mée « croix des missions » est l’une des rares qui sub-
+                                                               sistent sur l’île de Montréal. Elle remplace une croix
+Deux voies de circulation importantes sont encore
+                                                               plus ancienne qui avait été érigée dès le XIXe siècle
+reconnaissables en tant que parcours fondateurs,
+                                                               par les sœurs de la Congrégation de Notre-Dame.
+étant donné le bâti ancien qui les borde et leur tracé :
+                                                               Par sa localisation exceptionnelle sur une pointe de
+– le chemin du Bord-du-Lac offre un parcours sinueux           terre, les vues offertes sur le lac et la ville de même
+  et des vues panoramiques sur le Lac. Véritable épine         que l’importance historique du lieu et la valeur patri-
+  dorsale du développement urbain, il relie entre eux          moniale élevée des bâtiments qui s’y trouvent
+  la plupart des secteurs anciens de Pointe-Claire.            encore, la pointe constitue assurément un fleuron du
+                                                               patrimoine de Pointe-Claire et même de toute l’ag-
+– le boulevard Saint-Jean, l’avenue Douglas-Shand et           glomération urbaine de Montréal.
+  l’avenue Maywood suivent l’ancien tracé de la côte
+  Saint-Jean, le long de laquelle les sulpiciens ont
+  concédé des terres à partir de 1720, et relient
+  aujourd’hui quelques maisons anciennes qui éton-
+  nent dans le tissu suburbain qui s’est développé
+  tout autour.
+
+
+
+3.2.2 Le cadre bâti d’intérêt patrimonial
+           A. Les secteurs de valeur
+               patrimoniale exceptionnelle
+                                                               5.E.1 L’église Saint-Joachim et son presbytère
+5.E.1 LA POINTE
+
+La pointe regroupe des bâtiments exceptionnels,
+dont le moulin datant de 1710, ce qui en fait l’un des
+plus anciens vestiges de la colonisation de l’île. Utilisé
+comme moulin banal par les seigneurs de l’île
+jusqu’en 1857, il fut acquis par la Congrégation de
+Notre-Dame en 1866, puis restauré dans les années
+1950-1960. Tout près, on aperçoit le second couvent
+qu’Henri-Maurice Perreault, architecte, a conçu pour
+les sœurs de la Congrégation de Notre-Dame en
+1867-1868 pour remplacer le premier couvent
+datant de 1787.
+                                                               5.E.1 Le moulin de Pointe-Claire
+
+
+
+
+                       ARRONDISSEMENT                                                                              27
+                                            de Pointe-Claire
+5.E.2 LE VILLAGE                                                5.E.3 BOWLING GREEN
+
+Il s’agit du véritable cœur historique de Pointe-Claire.        Le Bowling Green est conçu par Frederick G. Todd
+Un plan de 1767 montre déjà une petite aggloméra-               pour la Canadian Nursery Company en 1905. Formé
+tion autour des avenues Sainte-Anne, Saint-Joachim              par la firme Olmstead Brothers, Todd est une figure
+et Saint-Jean-Baptiste. Au XIXe siècle, on y retrouvait         dominante dans l’architecture de paysage au Canada
+hôtels, ateliers d’artisans et boutiques, tous les services     pour avoir contribué à y introduire le concept de cité-
+pour la campagne environnante et les villégiateurs              jardin. Au Bowling Green, il souhaite marier le cadre
+qui commencent à fréquenter les rives du lac Saint-             naturel et les contraintes du développement résiden-
+Louis. L’incendie de 1900, qui a détruit une bonne              tiel moderne. Les maisons, disposées autour d’un
+partie du village, explique les constructions plus              espace vert, se rapprochent du mouvement Arts and
+récentes qu’on y voit aujourd’hui. Malgré tout,                 Crafts. Outre les maisons, dont la plupart sont bien
+l’échelle et l’atmosphère particulières des rues s’offrent      conservées, la configuration et l’aménagement du
+comme un véritable voyage dans le temps.                        parc et des voies de circulation de même que les vues
+                                                                sur le lac doivent être préservées.
+
+
+
+
+5.E.2 Vue du village de Pointe-Claire                           5.E.3 Vue du Bowling Green
+
+
+
+
+5.E.2 L’avenue Saint-Joachim dans le village de Pointe-Claire
+
+
+
+
+28                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+5.E.4 BEACONSFIELD GOLF CLUB                                   5.E.6 PARC STEWART
+
+Ce secteur comprend le golf lui-même, fondé en 1904            En 1915, Charles Wesley Maclean fait démolir la villa
+par un groupe de Wesmountais, le Club House,                   existante sur ce site, The Knoll, et construit Mull Hall
+reconstruit en 1930 après un incendie, ainsi que les           selon les plans de l’architecte Robert Findlay. Les Pères
+maisons qui bordent l’avenue du Golf. La plupart de            de Sainte-Croix l’acquièrent en 1940 pour y faire un
+ces maisons, influencées par le mouvement Arts and             noviciat. Finalement, c’est May Beatrice Stewart qui
+Crafts, ont été édifiées par les membres fondateurs            l’achète, en 1950, pour le céder, avec son terrain, à la
+du Beaconsfield Golf Club. Leur design devait être             Ville de Pointe-Claire. Le bâtiment, désormais appelé
+approuvé par un comité formé par le Club et leur coût          Stewart Hall, sera restauré en 1962. Il témoigne du
+devait être supérieur à un minimum prédéterminé. Ces           mode de vie de la bourgeoisie montréalaise au début
+restrictions ont contribué à créer un ensemble har-            du siècle.
+monieux de paysage naturel et bâti.
+
+
+
+
+5.E.4 Le 34, avenue du Golf                                    5.E.6 Le Stewart Hall
+
+
+
+5.E.5 CEDAR PARK                                               5.E.7 LES CIMETIÈRES
+
+Ce secteur a été acquis en 1893 par Otto Frederick             Ce grand ensemble partagé avec l’arrondissement de
+Lilly pour y faire un lotissement. Il s’agit du premier        Beaconsfield–Baie-D’Urfé contient trois cimetières dis-
+véritable développement résidentiel permanent dans la          tincts : le Lakeview Memorial (créé en 1914), l’Eternal
+paroisse de Pointe-Claire. Les lots, étroits et profonds,      Gardens Cemetery et le Champ d’honneur national du
+s’alignent le long d’une rue rectiligne agrémentée d’un        Fonds du Souvenir (inauguré en 1930). Les deux pre-
+rond-point, le cœur de la future vie communautaire.            miers accueillent les sépultures de diverses confessions
+La présence de ce premier développement et les pres-           religieuses (juives et chrétiennes). Le troisième est dédié
+sions de M. Lilly ont amené l’implantation d’une gare          aux militaires canadiens et à ceux des forces alliées
+ferroviaire à proximité. On y retrouve aujourd’hui un          ayant participé à toutes les guerres qui ont engagé le
+bâti datant surtout du début du XXe siècle.                    pays. En plus de présenter un intérêt socio-historique
+                                                               certain, l’ensemble est remarquable en raison de sa
+                                                               planification soignée, qui met en valeur les qualités
+                                                               paysagères exceptionnelles du site en respectant ses
+                                                               attributs naturels et géographiques particuliers (topogra-
+                                                               phie, ruisseaux et coulées, végétation sauvage, etc.).
+
+
+                              ARRONDISSEMENT                                                                           29
+                                            de Pointe-Claire
+           B. Les secteurs de valeur
+               patrimoniale intéressante
+
+
+
+5.I.1 CARTIER ET VICTORIA
+
+L’avenue Cartier (autrefois du Grand Tronc) a été un
+certain temps le lien principal entre la gare de Pointe-
+Claire et le village. Ce secteur s’est donc développé
+rapidement comme une extension naturelle du village
+avec un lotissement similaire et un bâti modeste évo-
+cateur du début du XXe siècle. Avec l’avenue Victoria,     5.I.1 L’avenue Cartier
+
+Cartier fait partie des plus anciennes avenues de
+Pointe-Claire.
+
+
+
+5.I.2 POINTE-CLAIRE HEIGHTS
+
+Le premier plan de lotissement de ce secteur a été
+réalisé en 1911. Comme la construction s’est trouvée
+ralentie par l’avènement de la Première Guerre mon-
+diale, il a fallu attendre les années 1920-1930 pour
+assister à un véritable développement sur ce site. Il
+s’agit d’une extension naturelle du village présentant
+des résidences permanentes modestes, tout comme            5.I.2 L’avenue De Breslay
+le secteur Cartier et Victoria.
+
+
+
+5.I.3 LE QUAI
+
+Ce secteur regroupe des équipements collectifs plus
+récents, des parcs offrant des vues remarquables et la
+marina. Il bénéficie d’une position stratégique sur la
+pointe, juste à côté des secteurs et bâtiments les plus
+exceptionnels de Pointe-Claire. On y retrouve aussi
+des éléments anciens : le quai construit pour le trans-
+port du calcaire destiné à la construction du pont
+Victoria et le Yacht Club, fondé en 1889.
+
+
+
+
+30                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+5.I.4 UPPER BOWLING GREEN
+
+Ce secteur est intimement lié au projet du Bowling
+Green. En 1905, il est lui aussi la propriété de la
+Canadian Nursery Company, qui y pratique la culture
+d’arbres et de fleurs. L’entreprise étant peu rentable,
+on décide en 1912 de lotir ce terrain. On y construit
+donc un projet dans la continuité du Bowling Green
+existant, avec des rues courbes, de grands terrains et
+des maisons qui s’inspirent du mouvement Arts and
+Crafts. La plupart de ces maisons bien reconnais-
+sables datent donc des années 1912-1930.                      5.I.5 L’avenue Brunet
+
+
+
+                                                              5.I.6 KILLARNEY GARDENS
+
+                                                              Ce secteur est aussi développé par la Canadian Nursery
+                                                              Company et fait donc partie du Bowling Green. La plu-
+                                                              part des maisons datent des années 1912-1930.
+
+
+
+                                                              5.I.7 CLAREMONT
+
+                                                              Cette avenue fut ouverte par Ben Goldstein en 1895.
+                                                              On trouvait à ce moment-là sur la pointe une maison
+5.I.4 Le 25, avenue Condover
+                                                              de ferme et un phare. Aujourd’hui, l’avenue Claremont
+                                                              possède des qualités certaines du fait de son couvert
+5.I.5 BRUNET ET DAYTON                                        végétal et de son bâti, qui date principalement des
+                                                              années 1920 à 1930.
+Ce secteur a été loti par une compagnie canadienne-
+française, la Western Investment, en 1911. Comme le
+projet ne suscitait pas l’engouement prévu, le terrain
+fut racheté par la Canadian Nursery Company, qui
+conserva le plan de lotissement initial. Malgré ses rues
+rectilignes, il se rattache donc au projet global du
+Bowling Green développé par la même compagnie.
+Aujourd’hui, l’intersection de l’avenue Julien et de
+l’avenue Brunet présente une harmonie quant aux
+volumes cubiques des constructions, à l’importance
+des galeries et aux vérandas. On y retrouve encore des
+maisons à bardeaux verts.
+                                                              5.I.7 L’avenue Claremont
+
+
+
+
+                          ARRONDISSEMENT                                                                         31
+                                           de Pointe-Claire
+5.I.8 VALOIS                                               5.I.9 VALOIS BAY HEIGHTS
+
+Au XIXe siècle, la baie de Valois, à proximité de la       Ce secteur a été loti par la Valois Bay Heights en
+gare, apparaissait aux voyageurs comme un havre de         1912-1913. On y a d’abord construit des résidences
+paix parfait pour la villégiature. On y a donc construit   secondaires en bois, mais vers 1920, certaines infra-
+l’hôtel Château Saint-Louis et le Valois Country Club,     structures pour une population permanente appa-
+tous deux démolis depuis. Heureusement, un certain         raissent : l’Anglican Church of Resurrection est com-
+nombre de maisons de villégiature et de résidences         plétée en 1926, la Valois Park School ouvre ses portes,
+permanentes témoignent encore de la vie des                puis la Valois United Church est construite. Signe que
+Canadiens français qui vivaient à la baie de Valois        les résidences ont désormais une nature plus perma-
+ou la fréquentaient dans les années 1900-1920.             nente, la brique devient de plus en plus populaire.
+Aujourd’hui, le chemin du Bord-du-Lac, avec les vues
+dégagées qu’il offre sur la baie, est en quelque sorte
+le fil conducteur entre les enclaves résidentielles
+anciennes qui subsistent entre les tours d’habitation
+modernes.
+
+
+
+
+                                                           5.I.9 Les 93 et 95 de l’avenue Prince-Edward
+
+
+
+
+5.I.8 L’avenue de l’Église
+
+
+
+
+                                                           5.I.9 Le 97 de l’avenue Prince-Edward
+
+
+
+
+32                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+5.I.10 LAKESIDE
+
+Cette partie de la baie de Valois attire des villégiateurs
+anglo-britanniques. On y retrouve d’ailleurs une gare,
+tout comme à Valois, et des infrastructures telles que
+l’hôtel Maples Inn, le Lakeside Boat Club et le Valois
+Boating Club. Les premiers lotissements ont d’abord
+lieu le long de l’avenue Lakeside en 1916; puis, les
+avenues Hillside et Hillcrest sont développées. Un
+second secteur appelé Lakeside Gardens est loti par le
+promoteur George Marcil un peu plus tard – il s’agit
+des avenues Coolbreeze, Sunnyside et Water’s Edge.             5.I.12 L’ensemble institutionnel Sainte-Jeanne-de-Chantal
+
+
+
+
+5.I.11 LAKESIDE HEIGHTS
+
+Les avenues Broadview, Parkdale et Coolbreeze com-
+posent le Lakeside Heights, en continuité avec les voies
+du même nom près de la baie. On y retrouve un bâti
+datant des années 1920-1930.
+
+
+
+5.I.12 SAINTE-JEANNE-DE-CHANTAL
+
+Cet ensemble institutionnel comprend une église
+                                                               5.I.12 L’ensemble institutionnel Sainte-Jeanne-de-Chantal
+moderne, en remplacement d’une première église
+datant de 1920, et des établissements d’enseigne-
+ment qui remontent aux années 1920 à 1940. La
+localisation d’un tel ensemble à l’extrémité d’un ter-
+ritoire municipal est plutôt inhabituelle et tend à con-
+firmer qu’il était destiné autant aux habitants de
+Valois qu’à ceux de Dorval résidant tout près.
+
+
+
+
+                        ARRONDISSEMENT                                                                                     33
+                                            de Pointe-Claire
+            C. Les ensembles urbains d’intérêt          5.U.3 SECTEUR DES VÉTÉRANS
+
+                                                        Ce secteur est composé de maisons construites
+                                                        autour de 1947 sur le modèle des maisons de la
+5.U.1 PARC VALOIS                                       Wartime Housing Limited. Ce modèle est développé
+                                                        durant la Seconde Guerre mondiale pour répondre à
+Ce secteur comprend des institutions d’enseignement,
+                                                        la crise du logement qui sévit, mais il est adopté par
+des lieux de culte et un parc construits au cours des
+                                                        la suite par plusieurs promoteurs qui cherchent à
+années 1950 et 1960. Il témoigne du formidable
+                                                        rejoindre un segment de marché désirant habiter une
+boom démographique qu’a connu Pointe-Claire au
+                                                        maison individuelle à prix abordable. Aujourd’hui,
+cours de ces années.
+                                                        même s’il y reste bien peu de ces maisons de
+                                                        vétérans, le secteur continue de se démarquer par le
+                                                        tracé particulier des rues et le lotissement.
+5.U.2 PROJET MAGIL
+
+Ce secteur de Lakeside Heights se compose de
+maisonnettes d’un étage et demi et de bungalows
+en brique rouge construits entre 1953 et 1955. Il
+présente des qualités d’ensemble remarquables avec
+un couvert végétal à maturité et des maisons typiques
+des constructions d’après-guerre, peu transformées.
+
+
+
+
+5.U.2 Le 105 de l’avenue de Windward Crescent
+
+
+
+
+34                                                      Évaluation du patrimoine urbain
+                                                        Ville de Montréal
+           D. Les immeubles de valeur                         222, chemin du Bord-du-Lac
+              patrimoniale exceptionnelle
+                                                              254, chemin du Bord-du-Lac
+Tous les immeubles de valeur patrimoniale excep-
+                                                              258, chemin du Bord-du-Lac
+tionnelle, qu’ils fassent ou non partie d’un secteur de
+                                                              Maison Antoine-Pilon
+valeur patrimoniale défini dans le présent document,
+sont inclus dans la liste qui suit :                          352, chemin du Bord-du-Lac
+
+                                                              353, chemin du Bord-du-Lac
+
+LES ÉDIFICES DE CULTE                                         355, chemin du Bord-du-Lac
+
+1, avenue Saint-Joachim                                       15, avenue Sainte-Anne
+Église Saint-Joachim de la Pointe-Claire
+                                                              42, avenue Sainte-Anne
+27, chemin du Bord-du-Lac                                     Maison Pierre-Demers
+Chapelle Morin
+                                                              1, avenue Saint-Joachim
+LES COUVENTS                                                  Presbytère Saint-Joachim
+
+1, avenue Saint-Joachim                                       LES IMMEUBLES COMMERCIAUX
+Couvent de la Pointe-Claire
+                                                              322-324, chemin du Bord-du-Lac
+LES ÉDIFICES PUBLICS                                          Ancien hôtel Canada
+
+114, avenue Donegani                                          LES OUVRAGES INDUSTRIELS
+Gare Valois
+                                                              49, avenue du Golf
+111, avenue Donegani                                          Logement des ouvriers de la carrière (1853)
+Ancien bureau de poste
+                                                              1, avenue Saint-Joachim
+68, avenue Prince-Edward                                      Moulin à vent de Pointe-Claire,
+Bibliothèque                                                  bien archéologique classé
+
+LES HABITATIONS
+
+152, avenue de Concord Crescent
+Maison Hyacinthe-Jamme dit Carrière,
+monument et lieu historique classé
+
+105, chemin du Bord-du-Lac
+Maison Legault
+
+176, chemin du Bord-du-Lac
+Maison Charles-Wesley-MacLean (Stewart Hall)
+
+211, chemin du Bord-du-Lac
+Maison Napoléon-Charbonneau
+
+
+
+
+                      ARRONDISSEMENT                                                                        35
+                                           de Pointe-Claire
+           E. Les immeubles de valeur
+               patrimoniale intéressante
+
+Seuls les immeubles de valeur patrimoniale intéres-
+sante situés à l’extérieur des secteurs de valeur patri-
+moniale définis dans le présent document sont
+inclus dans la liste qui suit :
+
+
+
+LES ÉDIFICES DE CULTE
+
+98, avenue Aurora
+St. John United Church, St. Edward The Confessor
+
+LES ÉDIFICES SCOLAIRES
+
+120, avenue Ambassador
+École secondaire Saint-Thomas
+
+120-130, avenue Ambassador
+Écoles Félix-Leclerc et Saint-Thomas
+
+311, avenue Inglewood
+École secondaire Félix-Leclerc
+
+LES ÉDIFICES PUBLICS
+
+160, avenue Stillview
+Hôpital Général du Lakeshore
+
+LES HABITATIONS
+
+70, avenue Maywood
+
+83, avenue Maywood
+
+234, avenue Braebrook
+
+4, avenue Stewart
+
+16, boulevard Saint-Jean
+
+LES OUVRAGES INDUSTRIELS
+
+5500, autoroute Métropolitaine
+Avon Canada
+
+
+
+
+36                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+                                                                                                                                                         boulevard Brunswick
+
+
+
+
+                                                                                                                                                                                 autoroute 40
+
+
+
+
+                                                                                                                                                                                                                     boulevard Hymus
+
+
+
+
+                                               5.E.7
+                                               5.E.7
+                                               5.E.7
+                                               5.E.7
+                                               5.E.7
+
+
+
+
+                                                                                                                                                                                                     avenue Delmar
+                                                                                                                  an
+                                                                                                              t-Je
+
+
+
+
+                                                                                                                                                                                                                                boulevard Des Sources
+                                                                                                          Sain
+                                                                                                                                                               5.U.3
+                                                                                                                                                               5.U.3
+                                                                                                                                                               5.U.3
+                                                                                                                                                               5.U.3
+                                                                                                                                                               5.U.3
+                                                                                                            rd
+                                                                                                                                       avenue Saint-Louis
+                                                                                                        leva
+                                                              5.E.4
+                                                              5.E.4
+                                                              5.E.4
+                                                              5.E.4
+                                                              5.E.4
+                                                                                                     bou
+
+
+
+
+                                                                                                                           d
+                                                                                                                       w oo
+                                                                                                                                                5.I.11
+                                                                                                                                                5.I.11
+                                                                                                                     May
+
+                                                                                                                                                5.I.11
+                                                                                                                                                5.I.11
+                                                                                                                                                5.I.11                                       5.U.1
+                                                                                                                                                                                             5.U.1
+                                                                                                                                                                                             5.U.1
+                                                                                                                                                                                             5.U.1
+                                                                                                                                                                                             5.U.1
+                                                                                                                                                                             5.I.9
+                                                                                                                                                                             5.I.9
+                                                                                                                                                                             5.I.9
+                                                                                                                                                                             5.I.9
+                                                                                                                                                                             5.I.9
+                                                                                                                     nue
+
+
+
+
+                                                                                                                                                                   5.U.2
+                                                                                                                                                                   5.U.2
+                                                                                                                                                                   5.U.2
+                                                                                                                                                                   5.U.2
+                                                                                                                                                                   5.U.2
+                                                                                                                 a ve
+
+
+
+
+                                                                                                                                         5.I.11
+                                                                                                                                         5.I.11
+                                                                                                                                         5.I.11
+                                                                                                                                         5.I.11
+                                                                                                                                         5.I.11
+                                                                                                                                         5.I.11
+
+
+                                         5.E.4
+                                         5.E.4                         5.I.4
+                                                                       5.I.4
+                                                                       5.I.4
+                                                                       5.I.4
+                                                                       5.I.4                                                                         av en
+                                         5.E.4
+                                         5.E.4
+                                         5.E.4
+                                                                                                                       autoroute 20                          ue D                                5.I.9
+                                                                                                                                                                                                 5.I.9
+                                                                                                                                                                                                 5.I.9
+                                                                                                                                                                                                 5.I.9
+                                                                                                                                                                                                 5.I.9
+                                                         r
+
+
+
+
+                                                                                                                                                                    oneg
+                                                   artie
+
+
+
+
+                              5.I.2
+                              5.I.2
+                              5.I.2
+                                                                                                                                                                           ani
+                              5.I.2
+                              5.I.2
+                              5.I.2
+                                                             5.I.1
+                                                             5.I.1
+                                                             5.I.1
+                                                             5.I.1
+                                                             5.I.1                                                                                                                                                                                      Évaluation du patrimoine urbain
+                                               ue C
+
+
+
+
+                                                                                                                  5.I.10
+                                                                                                                  5.I.10
+                                                                                                                  5.I.10
+                                                                                                                  5.I.10
+                                                                                                                  5.I.10
+                                              aven
+
+
+
+
+                                                                                            avenue Lakeview
+                                                                                                                                                                     5.I.8
+                                                                                                                                                                     5.I.8
+                                                                                                                                                                     5.I.8
+                                                                                            5.E.5
+                                                                                            5.E.5
+                                                                                            5.E.5
+                                                                                            5.E.5
+                                                                                            5.E.5                                                                    5.I.8
+                                                                                                                                                                     5.I.8                                                                              Arrondissement de Pointe-Claire
+                                                                                                                                                          5.I.10
+                                                                                                                                                          5.I.10
+                                                                                                                                                          5.I.10
+                                                                                                                                                          5.I.10
+                                                                                                                                                          5.I.10
+                                                                                                                                       5.I.10
+                                                                                                                                       5.I.10
+                                                                                                                                       5.I.10
+                                                                                                                                       5.I.10
+                                                                                                                                       5.I.10
+
+                  5.E.2
+                  5.E.2
+                  5.E.2                                                                                                                                                              5.I.8
+                                                                                                                                                                                     5.I.8
+                                                                                                                                                                                     5.I.8
+                                                                                                                                                                                     5.I.8
+                                                                                                                                                                                     5.I.8
+                                                                                                           c
+                                                                                                   rd-du-La
+                  5.E.2
+                  5.E.2
+                  5.E.2
+                                                                                              Bo                                                                                                                                                                  Arrondissement historique ou naturel
+                                                                                       chemin
+                                      5.I.3
+                                      5.I.3
+                                      5.I.3
+                                      5.I.3
+                                      5.I.3                                                                                                                                                                                                                       Secteur de valeur patrimoniale exceptionnelle
+                                                                                                                                                                                               5.I.8
+                                                                                                                                                                                               5.I.8
+                                                                                                                                                                                               5.I.8
+                                                                                                                                                                                               5.I.8
+                                                                                                                                                                                               5.I.8
+                                                               5.E.3
+                                                               5.E.3
+                                                               5.E.3
+                                                               5.E.3
+                                                               5.E.3
+                                                               5.E.3           5.I.6
+                                                                               5.I.6
+                                                                               5.I.6
+                                                                               5.I.6
+                                                                               5.I.6
+                                                                               5.I.6                                           5.I.7
+                                                                                                                               5.I.7
+                                                                                                                               5.I.7
+                                                                                                                               5.I.7
+                                                                                                                               5.I.7
+                                                                                                                               5.I.7                                                                                                                              Secteur de valeur patrimoniale intéressante
+                                               5.I.5
+                                               5.I.5
+                                               5.I.5
+                                               5.I.5
+                                               5.I.5                                    5.E.6
+                                                                                        5.E.6
+                                                                                        5.E.6
+                                                                                        5.E.6
+                                                                                        5.E.6                                                                                                   5.I.12
+                                                                                                                                                                                                5.I.12
+                                                                                                                                                                                                5.I.12
+                                                                                                                                                                                                5.I.12
+                                                                                                                                                                                                5.I.12                                                            Ensemble urbain d'intérêt
+                      5.E.1
+                      5.E.1
+                      5.E.1
+                      5.E.1
+                      5.E.1
+                                                                                                                                                                                                                                                                  Ensemble industriel d'intérêt
+                                                                                                                                                                                                                                                                  Tracé fondateur d'intérêt patrimonial
+                                                                                                                                                                                                                                                         5.E.1
+                                                                                                                                                                                                                                                                  Code du secteur
+                                                                                                                                                                                                                                                                  (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                                                                                  Limite d'arrondissement
+
+
+                                                                                                                                                                                                                                                        Division du patrimoine et
+ 0    250   500   m                                                                                                                                                                                                                                     de la toponymie
+
+10 décembre 2004
+3.2.3 Le patrimoine archéologique
+L’arrondissement de Pointe-Claire, localisé en bordure
+du lac Saint-Louis entre Beaconsfield et Dorval, présente
+une côte découpée et des formes relativement planes,
+mis à part la terrasse (au nord de l’autoroute 20) et
+le promontoire du terrain de golf. Ces caractéristiques
+font en sorte que des portions du territoire ont pu
+être utilisées par des groupes amérindiens à partir
+d’environ 4 000 ans avant aujourd’hui et jusqu’à la
+période de contact avec les Européens.
+
+Cette partie de l’île de Montréal est située sur une              La recherche archéologique a recours à un ensemble de méthodes et
+                                                                  techniques permettant d’identifier la présence de vestiges enfouis, de
+route de transport hydrographique entre la vallée du              les décrire, de les prélever et de les analyser en fonction de leur apport
+                                                                  à une meilleure compréhension de nos sociétés passées. En cas de
+Saint-Laurent et les Grands Lacs. Il s’agit là d’une
+                                                                  découverte fortuite de vestiges ou d’objets, il est nécessaire d’en
+route traditionnelle utilisée par les groupes amérindiens         informer les instances gouvernementales afin que le lieu de la découverte
+                                                                  soit évalué.
+et par les Français des XVIIe et XVIIIe siècles, par laquelle
+transitent les voyageurs et les marchandises. Les terres
+de la section sud de ce territoire forment d’étroites et
+longues bandes dont la façade s’ouvre sur le lac Saint-
+Louis tandis qu’au nord de l’actuelle avenue Saint-
+Louis, les lots sont orientés selon un axe est-ouest.
+
+Le premier chemin terrestre, aujourd’hui chemin du
+Bord-du-Lac, est probablement ouvert au tout début
+du XVIIIe siècle afin de faciliter les communications
+entre La Présentation, aujourd’hui Dorval, et Sainte-
+Anne-du-Bout-de-l’Île, aujourd’hui Sainte-Anne-de-
+Bellevue. Puis, les montées Saint-Jean et Saint-Rémy
+sont ouvertes au cours du premier quart du XVIIIe siècle
+pour coloniser le centre du territoire. Au milieu du
+XIXe siècle, les terres sont occupées et exploitées à des
+fins agricoles. Des portions de la berge sont utilisées à
+des fins de villégiature, et des auberges sont amé-
+nagées pour les voyageurs. L’arrivée du train, vers le
+milieu du XIXe siècle, incite les familles aisées, majori-        Les collections archéologiques ont une valeur patrimoniale indéniable
+                                                                  et représentent une richesse collective qui mérite toute notre attention.
+tairement anglophones, à acheter des fermes ou à se               Ces objets illustrent avec éloquence notre histoire matérielle et jouissent
+construire des maisons de campagne dans ce milieu                 d’un pouvoir fortement évocateur qui rappelle les modes de vie de nos
+                                                                  prédécesseurs. Jarre en terre cuite grossière d’Angleterre, 1760-1840;
+encore rural.                                                     objet amérindien, pointe de projectile, 2 500 ans avant Jésus-Christ;
+                                                                  cannelle de tonneau en laiton, XVIIIe siècle. Photographies : P. Fauteux.
+
+
+
+
+                         ARRONDISSEMENT                                                                                                  39
+                                               de Pointe-Claire
+     A. Les secteurs d’intérêt archéologique              Chemin du Bord-du-Lac
+          à fort potentiel                                Ce chemin longe la rive du lac Saint-Louis. Il s’agit
+                                                          du premier axe de communication par voie de terre
+                                                          aménagé dans l’ouest de l’île; son tracé recoupe
+                                                          l’ensemble des terres agricoles qui ont front sur le
+5.AP.1 ET 5.A.1 ZONE CÔTIÈRE
+                                                          fleuve. Au XIXe siècle, tous les lots sont occupés et
+La bordure de l’île de Montréal comprend les rives        certains d’entre eux présentent plusieurs maisons
+mais également l’emprise du chemin du Bord-du-Lac         érigées au bord de l’eau ou en bordure du chemin.
+et les terres qui le jouxtent. Ces emplacements peu-      L’emprise actuelle semble respecter le tracé de l’ancien
+vent avoir été utilisés au cours des périodes préhis-     chemin, quoiqu’il soit probable qu’elle a été élargie,
+torique et historique selon divers choix d’établisse-     impliquant que des vestiges peuvent y être découverts
+ment, en fonction de l’époque et des populations          de même que dans l’emprise des rues perpendiculaires.
+concernées.
+                                                          La maison Legault, construite vers 1760 et sise au
+Anses et pointes                                          105, chemin du Bord-du-Lac, constitue l’un des rares
+Les avancées de terre et les baies, telles la pointe      exemples de maison rurale traditionnelle du XVIIIe siècle
+Higgins et la baie de Valois, forment des environ-        à l’extérieur des limites du village. Quelques espaces
+nements particuliers qui permettent d’exploiter les       sont encore libres à proximité de la maison Legault et
+ressources halieutiques. Lorsque ces environnements se    de deux hôtels du XIXe siècle, l’hôtel Canada et l’hôtel
+trouvent de plus situés sur un axe de communication       Pointe-Claire. Ces terrains et les caves de ces bâtiments
+majeur, le fleuve Saint-Laurent, les probabilités d’y     peuvent encore receler des indices caractéristiques
+découvrir des vestiges de campements amérindiens ou       de leur utilisation, tout comme des dépendances et
+des occupations européennes des XVIIe et XVIIIe siècles   des aménagements secondaires : puits, latrines, fosses
+croissent de façon importante. En outre, des vestiges     à déchets, etc.
+du fort de la Grande Anse (datant du XVIIe siècle)
+                                                          Stewart Hall et parc Stewart
+peuvent être conservés à l’extrémité est de la baie
+                                                          Les lots cadastraux 161 et 162 sont morcelés, puis
+de Valois, près de la limite avec l’arrondissement de
+                                                          remembrés vers 1885-1890, pour en faire une seule
+Dorval–L’Île-Dorval. L’emplacement exact de ce fort
+                                                          grande propriété, The Knoll (le monticule). Le pro-
+demeure toutefois indéterminé. C’est donc l’ensemble
+                                                          priétaire remplace le bâti antérieur par une grande
+de la berge qui est ici ciblée car les modifications
+                                                          maison de campagne en bois et met en place une
+effectuées au cours du XXe siècle, particulièrement
+                                                          exploitation agricole du côté nord du chemin. Après
+l’ajout de remblais, ont souvent favorisé la protection
+                                                          un nouveau démembrement de la propriété, cette
+des vestiges archéologiques présents en sous-sol.
+                                                          dernière est reconstituée en 1911. Le nouveau pro-
+                                                          priétaire, Charles Wesley MacClean, y exploite une
+                                                          ferme, puis fait ériger une nouvelle maison vers
+                                                          1915, le Mull Hall. Dans les années 1950, le bâtiment
+                                                          principal et le terrain adjacent, d’une superficie d’en-
+                                                          viron quatre acres, sont acquis par May Beatrice
+                                                          Stewart qui en fait don à la municipalité, d’où le nom
+
+
+
+
+40                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+                           5.AP.1 Carte de Jacques-Nicolas Bellin, ingénieur et hydrographe de la
+                           Marine, illustrant l’île de Montréal et ses environs, 1744. Bibliothèque
+                           nationale du Québec à Montréal.
+
+
+
+
+ARRONDISSEMENT                                                                                  41
+        de Pointe-Claire
+actuel de Stewart Hall et parc Stewart. Le bâtiment         5.AP.2 ANCIEN VILLAGE DE POINTE-CLAIRE
+est aujourd’hui utilisé comme centre communautaire
+                                                            La pointe Claire constitue le lieu de fondation du vil-
+et bibliothèque municipale, tandis que le parc est
+                                                            lage de Pointe-Claire. Selon les cartes de la seconde
+demeuré en condition relativement naturelle. La
+                                                            moitié du XIXe siècle, le village englobe toute la
+présence d’un petit ruisseau et d’une légère élévation
+                                                            pointe et une partie de la rive, sur une largeur de six
+en font un espace à potentiel archéologique élevé
+                                                            lots, jusqu’à la voie ferrée.
+pour les périodes préhistorique et historique.
+                                                            La pointe abrite l’église Saint-Joachim, le presbytère
+Parcs municipaux
+                                                            et le moulin ainsi que d’autres bâtiments con-
+Plusieurs espaces publics, avec ou sans terrain de
+                                                            ventuels. En 1705, on construit un petit presbytère
+stationnement, bordent la rive du lac Saint-Louis :
+                                                            qui fait office de chapelle. Le moulin est construit
+les parcs Bord-de-l’Eau, Maples, P.C. Venture et Baie-
+                                                            vers 1709-1710, à l’extrémité sud de la pointe, et
+des-Valois. La plupart ont subi un remblaiement en
+                                                            peut servir de redoute en cas d’attaque. Vers 1729,
+rive, et cette consolidation des berges a pu faciliter la
+                                                            une enceinte de pieux est aménagée, si bien que le
+conservation de possibles vestiges archéologiques.
+                                                            lieu prend le nom de fort de la Pointe-Claire; l’en-
+La baie de Valois est à prime abord un bon lieu de
+                                                            ceinte, dont le tracé est incertain, fait partie d’une
+pêche, particulièrement en saison hivernale, ce qui
+                                                            série de forts érigés sur les rives du lac Saint-Louis. La
+peut représenter une qualité pour les groupes amérin-
+                                                            première église est construite vers 1713, et la se-
+diens de la préhistoire. Son pourtour, qui comprend
+                                                            conde en 1750. L’emplacement sert ensuite pour la
+un parc linéaire, présente plusieurs emplacements
+                                                            construction de la troisième église, en 1868, qui est
+favorables à l’occupation humaine, entre autres dans
+                                                            victime d’un incendie en 1881 et reconstruite en
+le segment compris entre les avenues Coolbreeze et
+                                                            1881-1885. Le parc Antoine-Bourgeau, aménagé à
+Sunnyside. Le parc P.C. Venture semble comporter une
+                                                            l’aide de remblais récents, n’a pas été retenu dans le
+large part de remblais mais sa terrasse riveraine peut
+                                                            périmètre de ce secteur.
+avoir conservé certaines caractéristiques naturelles.
+                                                            Les limites du secteur comprennent une portion du
+                                                            tracé du chemin de la côte de la Pointe-Claire,
+                                                            aujourd’hui chemin du Bord-du-Lac, qui longe le lac
+                                                            Saint-Louis. Son tracé et ses abords peuvent abriter
+                                                            des vestiges d’occupation amérindienne préhistorique
+                                                            ou même de certaines dépendances des anciennes
+                                                            habitations rurales. Son emprise et celle des rues
+                                                            transversales, entre l’avenue Victoria et la limite ouest
+                                                            de l’arrondissement, ainsi que l’extrémité ouest de
+                                                            l’avenue Lanthier, ont été considérées. Quelques
+                                                            maisons rurales, dont les maisons Antoine-Pilon et
+                                                            Pierre-Demers, et les terrains qui les bordent, comme
+                                                            le stationnement situé à l’arrière de la maison
+                                                            Antoine-Pilon, sont intégrés dans le périmètre du
+                                                            secteur. On y retrouve également des espaces libres,
+
+
+
+
+42                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+soit des parcs et des stationnements municipaux.                                  B. Les secteurs d’intérêt archéologique
+Le premier parc est adjacent au côté sud de la mai-
+son Pierre-Demers, tandis que le parc Antoine-Pilon
+se situe en berge, près de l’extrémité ouest de
+                                                                            5.A.1 ZONE CÔTIÈRE
+l’arrondissement. Les deux stationnements sont
+localisés de part et d’autre du chemin du Bord-du-                          Voir texte 5.AP.1
+Lac, à proximité de l’avenue Sainte-Anne. Ces terrains
+peuvent encore receler des indices d’occupation aux
+XVIIIe et XIXe siècles, tels que des habitations, des                       5.A.2 USINE TERRA-COTTA BRICK WORKS
+dépendances et des aménagements secondaires :
+puits, latrines, fosses à déchets, etc.                                     La Montreal Terra Cotta Company est fondée par
+                                                                            Alphonse Desjardins en 1888. La première usine se
+                                                                            trouve dans Maisonneuve, une municipalité à l’est de
+                                                                            Montréal. L’identification d’un important dépôt
+                                                                            d’argile à Pointe-Claire, au nord de la voie ferrée et à
+                                                                            l’est du boulevard Saint-Jean, permet d’implanter
+                                                                            une nouvelle usine en 1912, directement sur le site
+                                                                            d’extraction. L’usine est localisée au nord de la pro-
+                                                                            priété, tandis que les fours en brique sont situés dans
+                                                                            la section sud, en bordure de la voie ferrée. La pro-
+                                                                            duction est arrêtée en 1929, à la suite d’un incendie,
+                                                                            mais elle reprend après la reconstruction de l’usine.
+                                                                            En 1962, le dépôt d’argile est abandonné après avoir
+5.AP.2 et BiFk-008 La pointe abrite le lieu de fondation de Pointe-Claire
+                                                                            fourni environ 700 000 mètres cubes de matière pre-
+                                                                            mière. La moitié de la propriété est vendue à la
+                                                                            municipalité dans le but d’aménager un parc, le parc
+                                                                            Terra-Cotta, et l’autre moitié est dévolue au secteur
+                                                                            privé à des fins de développement. Le complexe
+                                                                            industriel occupe historiquement la portion basse du
+                                                                            terrain, entre le talus et la voie ferrée, tandis que l’ex-
+                                                                            traction se fait à même le talus et la terrasse élevée.
+                                                                            La localisation exacte de chacun des bâtiments de
+                                                                            l’usine demeure imprécise, mais des vestiges peuvent
+                                                                            être conservés en sous-sol. Il faut également considérer
+                                                                            que l’argile est un matériau nécessaire à la fabrication
+                                                                            des poteries amérindiennes de l’époque sylvicole et
+5.AP.2 Le site de l’église et du presbytère.                                que le site peut receler des traces de cette période
+                                                                            ancienne.
+
+
+
+
+                               ARRONDISSEMENT                                                                                       43
+                                                        de Pointe-Claire
+       C. Les sites archéologiques                                         BIFK-008, LIEU DE FONDATION DE SAINT-
+                                                                           JOACHIM-DE-LA-POINTE-CLAIRE
+                                                                           Mesure de protection : site archéologique
+                                                                           à protéger
+BIFK-003, MOULIN BANAL À VENT
+                                                                           Thème : noyau villageois
+DE POINTE-CLAIRE
+Mesure de protection : site archéologique                                  La pointe de Pointe-Claire constitue le lieu de fondation
+à protéger                                                                 du village de Pointe-Claire. La première église a été
+Statut légal : bien archéologique classé                                   construite vers 1713, puis la seconde en 1750. Le
+Thème : activité artisanale                                                même emplacement a servi pour la construction de la
+                                                                           troisième église, en 1868, victime d’un incendie en
+Une étude de potentiel archéologique a été réalisée
+                                                                           1881. Une quatrième et dernière église est construite
+pour le territoire de Pointe-Claire (Archéotec 2002) et
+                                                                           en 1881-1885. Selon les cartes de la seconde moitié
+un inventaire archéologique a été mis de l’avant sur la
+                                                                           du XIXe siècle, le village occupe toute la pointe et une
+pointe de Pointe-Claire (Archéotec 2003). Le moulin
+                                                                           partie de la rive, sur une largeur de six lots jusqu’à la
+banal construit vers 1709-1710 est le premier bâti-
+                                                                           voie ferrée, aujourd’hui l’autoroute 20. Une étude de
+ment d’importance à être érigé à l’extrémité sud de la
+                                                                           potentiel archéologique a été réalisée pour le territoire
+pointe. Ce moulin, doté de meurtrières et entouré
+                                                                           de Pointe-Claire (Archéotec 2002) et un inventaire
+d’une palissade de pieux de bois, a pu servir de redoute
+                                                                           archéologique a été mis de l’avant sur la pointe de
+en cas d’attaque.
+                                                                           Pointe-Claire (Archéotec 2003). La pointe, site archéo-
+                                                                           logique BiFk-008, abrite l’église Saint-Joachim, le
+                                                                           presbytère et le moulin ainsi que d’autres bâtiments
+                                                                           conventuels.
+
+
+
+
+                                                                           BiFk-003 Le moulin banal de Pointe-Claire. Photographies : Société pour
+                                                                           la sauvegarde du patrimoine de Pointe-Claire.
+
+
+
+
+BiFk-003 Recherche archéologique en cours sur la pointe et activités
+d’animation auprès des jeunes. Photographie : Société pour la sauvegarde
+du patrimoine de Pointe-Claire.
+
+44                                                                         Évaluation du patrimoine urbain
+                                                                           Ville de Montréal
+     D. Les biens culturels à statut
+
+
+La notion de bien culturel intègre les sites et les biens
+archéologiques classés, les sites historiques classés et
+les monuments historiques classés ou reconnus, les
+arrondissements historiques et naturels, les monu-
+ments cités et les sites du patrimoine. Ces biens ont
+fait l’objet d’un examen à partir de la documentation
+disponible afin d’en déterminer l’intérêt archéologi-
+que. La liste suivante indique les biens à statut où
+il est nécessaire d’évaluer plus avant le potentiel
+archéologique et d’assurer la protection du patrimoine
+archéologique.
+
+– Moulin à vent de Pointe-Claire,
+  1, avenue Saint-Joachim, BiFk-003
+  bien archéologique classé
+– Maison Hyacinthe-Jamme dit Carrière,
+  152, avenue de Concord Crescent,
+  monument et lieu historique classé
+
+
+
+
+                       ARRONDISSEMENT                          45
+                                            de Pointe-Claire
+                                                                                                                    boulevard Brunswick
+
+
+
+
+                                                                                                                                               autoroute 40
+
+
+
+
+                                                                                                                                                                        boulevard Hymus
+
+
+
+
+                                                                                                                                                        avenue Delmar
+                                                                                          an
+                                                                                      t-Je
+
+
+
+
+                                                                                                                                                                                   boulevard Des Sources
+                                                                                  Sain
+                                                                                    rd
+                                                                                                          avenue Saint-Louis
+                                                                                leva
+                                                                             bou
+
+
+
+
+                                                                                                   d
+                                                                                               w oo
+                                                                                                           5.A.2
+                                                                                                           5.A.2
+                                                                                             May
+
+                                                                                                           5.A.2
+                                                                                                           5.A.2
+                                                                                                           5.A.2
+                                                                                             nue
+                                                                                         a ve
+
+
+
+
+                                                                                                                   av en
+                                                                                               autoroute 20                ue D
+                                                      r
+
+
+
+
+                                                                                                                                  oneg
+                                                                                                                                                                                                           Le patrimoine archéologique
+                                                artie
+
+
+
+
+                                                                                                                                         ani
+                                            ue C
+                                           aven
+
+
+
+
+                                                                       avenue Lakeview
+                                                                                                                                                                                                           Arrondissement de Pointe-Claire
+                                  5.AP.2
+                                  5.AP.2
+                                  5.AP.2
+                                  5.AP.2
+                                  5.AP.2                                                                                    5.AP.1
+                                                                                                                            5.AP.1
+                                                                                                                            5.AP.1
+                                                                                                                            5.AP.1
+                                                                                                                            5.AP.1
+                                                                                                                            5.AP.1
+                        5.A.1
+                        5.A.1
+                        5.A.1
+                        5.A.1
+                        5.A.1                              5.A.1
+                                                           5.A.1
+                                                           5.A.1
+                                                           5.A.1
+                                                           5.A.1
+                                                                                                       5.AP.1
+                                                                                                       5.AP.1
+                                                                                                       5.AP.1
+                                                                                                       5.AP.1
+                                                                                                       5.AP.1                                                                                                         Grand ensemble à statut
+                                                                              -Lac
+                                                  5.AP.1
+                                                  5.AP.1
+                                                  5.AP.1
+                                                  5.AP.1
+                                                  5.AP.1              Bord-du                                                                                                                                         (arrondissement historique et naturel, site du patrimoine)
+                                 BiFk-8
+                                 BiFk-8
+                                 BiFk-8
+                                 BiFk-8
+                                 BiFk-8
+                                 BiFk-8                        chemin
+                                                                              5.A.1
+                                                                              5.A.1
+                                                                              5.A.1
+                                                                              5.A.1
+                                                                              5.A.1
+                                                                                                                                                                                                                      Site archéologique recensé (intègre)
+                                                                   5.AP.1
+                                                                   5.AP.1
+                                                                   5.AP.1
+                                                                   5.AP.1
+                                                                   5.AP.1
+                                                                   5.AP.1                                                                                                                                             Site archéologique recensé (altéré)
+                        BiFk-3
+                        BiFk-3
+                        BiFk-3
+                        BiFk-3
+                        BiFk-3
+                        BiFk-3
+                                                                                                                                                                                                                      Secteur d'intérêt archéologique à fort potentiel
+                                                                                                                                                                                                                      Secteur d'intérêt archéologique
+                                                                                                                                                                                                            5.AP.1
+                                                                                                                                                                                                                      Code du secteur
+                                                                                                                                                                                                                      (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                             BiFj-1   Code de site archéologique
+                                                                                                                                                                                                                      Limite d'arrondissement
+
+
+                                                                                                                                                                                                           Division du patrimoine et
+ 0    250     500   m                                                                                                                                                                                      de la toponymie
+
+10 mai 2004
+4.                              R E C O M M A N D AT I O N S
+
+
+
+4.1 Générales à l’échelle de l’arrondissement
+                                                                   et maintenir le bon état et l’intégrité des bâtiments
+                                                                   par l’entretien.
+
+                                                                      Les variables suivantes devraient être considérées
+Nous recommandons :                                                   dans l’élaboration des PIIA et des règles :
+– dans les secteurs d’intérêt patrimonial excep-                    • Parcellaire : mode de division, dimensions et pro-
+  tionnel, de protéger les caractéristiques architecturales           portions des parcelles, mode d’implantation du
+  et paysagères, de veiller à l’intégration des nouveaux              bâti, aménagement du terrain.
+  bâtiments à leur environnement et de s’assurer que
+                                                                    • Bâti : volumétrie (gabarit, nombre d’étages, forme
+  les modifications aux bâtiments existants se fassent
+                                                                      de la toiture), traitement des façades (saillies, com-
+  en tenant compte du contexte. La réglementation
+                                                                      position des façades, rythme, forme et dimen-
+  devra prévoir que les interventions dans ces secteurs
+                                                                      sions des ouvertures, modèles de portes et de
+  soient encadrées par des critères – plans d’implan-
+                                                                      fenêtres, revêtements, ornementation, couleurs,
+  tation et d’intégration architecturale (PIIA) – mais
+                                                                      matériaux et textures, etc.).
+  aussi par des règles si la situation le justifie.
+                                                                 – d’instaurer des mesures de zonage spécifiques
+– pour les bâtiments d’intérêt patrimonial excep-
+                                                                   pour des ensembles significatifs tels que les
+  tionnel et intéressant, de protéger leurs caractéris-
+                                                                   noyaux paroissiaux (parc, école, église, pres-
+  tiques architecturales en s’assurant que les modifi-
+                                                                   bytère, etc.) afin de préserver l’essence de leur
+  cations aux bâtiments énumérés dans les listes soient
+                                                                   valeur patrimoniale.
+  encadrées, dans la réglementation, par des critères (PIIA)
+  mais aussi par des règles si la situation le justifie.         – d’étudier les territoires identifiés comme ensembles
+                                                                   urbains d’intérêt, de recenser les typologies des
+– dans les secteurs d’intérêt patrimonial intéressant,
+                                                                   ensembles qui présentent une grande homogénéité
+  de protéger les caractéristiques architecturales et
+                                                                   et de développer des outils visant à sensibiliser la
+  paysagères, de veiller à l’intégration des nouveaux
+                                                                   population à l’égard de l’intérêt patrimonial de ces
+  bâtiments à leur environnement et de s’assurer que
+                                                                   ensembles.
+  les modifications aux bâtiments existants se fassent
+  en tenant compte du contexte. La réglementation                – d’établir un contrôle sur les démolitions dans les
+  devra prévoir que les interventions dans ces secteurs            secteurs d’intérêt patrimonial et pour les bâtiments
+  soient encadrées par des règles.                                 patrimoniaux en évaluant l’intérêt patrimonial des
+                                                                   bâtiments concernés afin d’éviter des pertes
+– que l’élaboration des PIIA et l’élaboration de
+                                                                   irréversibles.
+  règles dans les règlements de zonage favorisent
+  une architecture de qualité et consolident le cadre            – d’éviter le fractionnement des grandes propriétés
+  bâti en harmonie avec le caractère de chaque lieu, en            et d’assurer la protection et la mise en valeur des
+  contrôlant notamment l’apparence des nouvelles                   propriétés institutionnelles.
+  constructions afin qu’elles s’intègrent à leur milieu
+  environnant, ainsi qu’en contrôlant l’apparence des            – d’appliquer les mesures nécessaires à un examen
+  modifications à un bâtiment pour qu’elles s’harmo-               du potentiel archéologique et, le cas échéant, à la
+  nisent avec son expression architecturale spécifique.            protection des vestiges découverts, préalablement
+                                                                   aux travaux d’excavation publics et privés dans les
+  Les principes qui devraient guider l’élaboration                 grands ensembles à statut et les biens culturels
+  des PIIA et des règles sont les suivants : conserver             à statut, les sites archéologiques recensés et les
+  l’identité des secteurs, connaître avant d’intervenir            secteurs d’intérêt archéologique à fort potentiel.
+
+
+                        ARRONDISSEMENT                                                                                   49
+                                              de Pointe-Claire
+– de favoriser la prise en compte des vestiges
+  présentant une grande valeur archéologique                4.2 Générales à l’échelle montréalaise
+  dans la conception et la réalisation des projets de
+  construction ou d’aménagement urbain, notamment           Nous recommandons :
+  par l’adaptation des travaux ou l’intégration des
+  vestiges.                                                 – de développer des outils de protection et de mise
+                                                              en valeur, incluant la citation en vertu de la Loi
+– d’assurer la protection et la mise en valeur des
+                                                              sur les biens culturels du Québec, pour les
+  aménagements urbains, des parcs et des espaces
+                                                              immeubles qui possèdent une valeur patrimoniale
+  publics.
+                                                              élevée à l’échelle montréalaise, comme certaines
+– de préserver et de protéger le couvert végétal,             maisons rurales et villas, institutions (ex. : écoles,
+  qui contribue beaucoup au caractère de plusieurs            églises), services municipaux (ex. : bains, casernes,
+  secteurs patrimoniaux répertoriés, de favoriser les         complexes civiques), etc.
+  plantations et de protéger de façon générale le
+                                                            – de développer des outils de protection et de mise
+  patrimoine naturel, ainsi que de préserver et mettre
+                                                              en valeur, incluant la création de sites du patri-
+  en valeur le caractère champêtre des secteurs où
+                                                              moine en vertu de la Loi sur les biens culturels
+  l’on retrouve encore des paysages agricoles.
+                                                              du Québec, pour les sites qui possèdent une
+– de protéger les perspectives d’intérêt patrimonial          valeur patrimoniale élevée à l’échelle montréalaise,
+  telles que les vues sur le centre-ville, le mont Royal,     notamment certains noyaux villageois, ensembles
+  les plans d’eau, les places publiques, les monuments        institutionnels, grands domaines, grands gestes
+  commémoratifs, certains bâtiments ou clochers, etc.         urbains et architecturaux, etc.
+
+– de préserver la spécificité de la trame urbaine           – à partir des critères de sélection établis pour l’évalua-
+  montréalaise, qui découle des tracés fondateurs et          tion des bâtiments et des secteurs susceptibles
+  des caractéristiques naturelles, et de préserver            d’avoir un intérêt pan-montréalais, de développer un
+  la grille orthogonale (incluant les ruelles des             plan d’attribution de statuts patrimoniaux en vertu
+  arrondissements du centre) ainsi que les plans              de la Loi sur les biens culturels du Québec, de
+  d’ensemble et grilles particulières de certains             fixer des critères d’évaluation pour les interventions
+  arrondissements; de contrôler les subdivisions              sur les bâtiments et territoires protégés par le volet
+  cadastrales afin de préserver le rythme des rues et         municipal de cette même loi, d’élaborer des outils
+  de sauvegarder l’échelle du bâti.                           de protection et de dresser un plan directeur pour
+                                                              la mise en valeur de chacun des sites du patrimoine.
+– de développer des outils de promotion et de mise
+  en valeur des tracés fondateurs à fort potentiel,         – d’élaborer pour le public, les employés municipaux
+  aux fins de la protection de leur caractère.                et les élus des activités et des outils de sensibili-
+– de développer un plan stratégique pour les artères          sation à l’égard du patrimoine.
+  commerciales principales (vitalité, affichage,
+  rénovation, éclairage, mobilier urbain, etc.) qui
+  tienne compte de la dimension patrimoniale des
+  lieux et de concilier les opérations de travaux
+  publics avec les préoccupations patrimoniales.
+
+
+
+
+50                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+– de réaliser des études plus poussées permettant
+  d’accroître la connaissance du patrimoine bâti, his-         4.3 Spécifiques à l’arrondissement
+  torique et archéologique afin d’évaluer la valeur
+  patrimoniale rattachée à différentes problématiques,         Nous recommandons :
+  notamment :
+                                                               – d’évaluer l’intérêt pan-montréalais des secteurs et des
+  • étudier les territoires identifiés comme secteurs            bâtiments d’intérêt patrimonial exceptionnel en vue
+    d’intérêt archéologique à fort potentiel et                  de procéder à la création de sites du patrimoine et
+    secteurs d’intérêt archéologique pour évaluer                à la citation de bâtiments en vertu de la Loi sur
+    le degré de préservation du milieu physique,                 les biens culturels du Québec, notamment :
+    localiser les sites archéologiques conservés et
+                                                                 • d’évaluer la pertinence de procéder à la citation
+    définir préventivement les mesures de protection
+                                                                   du Stewart Hall, de la chapelle Morin et de la gare
+    du patrimoine archéologique.
+                                                                   Valois afin de reconnaître que leur valeur patri-
+  • faire des études détaillées sur le patrimoine                  moniale dépasse les limites de l’arrondissement.
+    industriel pour déterminer une stratégie de
+                                                                 • d’évaluer la pertinence de procéder à la constitu-
+    conservation et de développement des sites ;
+                                                                   tion d’un site du patrimoine pour les secteurs du
+    étudier plus spécifiquement les territoires identifiés
+                                                                   village, de la pointe et de Bowling Green, étant
+    comme ensembles industriels d’intérêt.
+                                                                   donné le caractère exceptionnel de ces lieux
+  • établir des balises et des critères permettant de              pour tout Montréal.
+    bien planifier et gérer la problématique du patri-
+                                                               – d’envisager, avec le ministère de la Culture et des
+    moine religieux; favoriser la conservation et la
+                                                                 Communications, la création d’un arrondissement
+    mise en valeur des lieux de culte les plus impor-
+                                                                 historique pour le secteur institutionnel de la pointe,
+    tants relativement à leur valeur patrimoniale ;
+                                                                 étant donné que ce lieu peut avoir une valeur patri-
+    mettre en œuvre des outils de gestion des
+                                                                 moniale élevée à l’échelle de tout le Québec.
+    demandes de permis et favoriser l’occupation de
+    lieux de culte par des fonctions compatibles ;             – de préserver et d’accroître les espaces publics en rive.
+    favoriser le maintien des caractéristiques des               Les vues et dégagements vers le lac Saint-Louis sont
+    ensembles conventuels les plus importants, de                nombreux à Pointe-Claire et constituent une valeur
+    leurs espaces paysagers et des cimetières.                   ajoutée au lieu. Le caractère public de ces vues, dont
+                                                                 on peut bénéficier à partir du chemin du Bord-du-Lac,
+  • accroître la connaissance du patrimoine
+                                                                 de parcs publics ou de rues perpendiculaires, doit être
+    moderne en encourageant la recherche, les
+                                                                 préservé.
+    inventaires et les publications à ce sujet.
+                                                               – de publier des ouvrages de référence destinés au
+  • planifier des études à l’échelle montréalaise,
+                                                                 grand public à partir des études et inventaires menés
+    développer des outils et élaborer des lignes direc-
+                                                                 conjointement par la Ville et le ministère de la Culture
+    trices de rénovation et d’agrandissement adap-
+                                                                 et des Communications en 2003-2004.
+    tées aux diverses typologies que l’on retrouve
+    dans les zones identifiées comme ensembles
+    urbains d’intérêt.
+
+
+
+
+                       ARRONDISSEMENT                                                                                 51
+                                            de Pointe-Claire
+5.
+Photographies aériennes
+                               BIBLIOGRAPHIE
+
+
+                                                               JOBIN, André. Carte de l’île de Montréal, 1834,
+                                                               Bibliothèque nationale du Québec à Montréal.
+  Photographies aériennes, 1947-1948-1949, Ville               Cote : G 3452 M65 1834 J63 CAR
+de Montréal, Gestion des documents et archives
+                                                               JOURDAIN dit LABROSSE, Paul. Plan de la ville et des
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                 faubourgs de Montréal, 1767. Archives nationales du
+Orthophoto noir et blanc, 2000, Navigateur urbain.             Canada, NMC-16687 [2 sections] H2/340 Montréal
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                 1767.
+Orthophoto noir et blanc, 2002, Navigateur urbain.             LEVASSEUR DE NÉRÉ, Jacques. Plan de la ville de
+Cartes                                                         Montréal, 1704. Archives nationales (France), Centre
+                                                               des archives d’outre-mer, Dépôt des fortifications des
+ADAMS, John. Map of the City and Suburbs of                    colonies, Amérique Septentrionale, no 468A.
+Montreal, 1825. Bibliothèque de l’Université McGill,
+Département des livres rares et des collections spéciales.     MELISH, John. Plan of Montreal, with a Map of the
+                                                               Islands & adjoining Country, 1815, Bibliothèque
+BELLIN, Jacques-Nicolas. Carte de Lisle de Montreal            nationale du Québec à Montréal.
+et de ses environs, 1744, Bibliothèque nationale du            Cote: G 3454 M65 1815 M4
+Québec à Montréal.
+Cote : G 3452 M65 1744 B4                                      PINSONEAULT, A.-R. Atlas of the Island of Montreal
+                                                               and Ile Bizard, 1907, Bibliothèque nationale du Québec
+BOUCHETTE, Joseph. Topographical Map of the Province           à Montréal.
+of Lower Canada, 1815. Londres, W. Faden.                      Cote: G 1144 M65G475 P5 1907 CAR
+
+CHAUSSEGROS DE LÉRY, Gaspard. Plan de la ville                 SITWELL, H.S. Fortification Surveys Canada. Contoured
+de Montreal en Canada, 10 août 1717. Archives                  Plan of Montreal and its Environs, Quebec, 1868-1869,
+nationales (France), Centre des archives d’outre-mer,          Archives nationales du Canada, Ottawa.
+Dépôt des fortifications des colonies, Amérique                Cote: V40/300/1867
+Septentrionale, no 473.
+                                                               UNDERWRITERS SURVEY BUREAU. Insurance Plan of
+GOAD, Charles E. Atlas of Montreal, 1890, volumes              the City of Montreal, 1952, 1953, 1954, 1955, 1957,
+1 et 2, Bibliothèque nationale du Québec à Montréal.           1959, 1961, 1962, 1963, 1964, 1966, 1967, 1972,
+Cote : G 1144 M65G475 G6 1890 CAR 1 et 2                       volumes 1 à 10, 12 à 17, 19 à 21.
+
+GOAD, Charles E. Plan of the City of Montreal, 1909,           Ouvrages généraux
+1911, 1912, 1913, 1914, 1915, volumes 1 à 12,
+Bibliothèque nationale du Québec à Montréal et                   Itinéraire toponymique du Saint-Laurent, ses rives
+Direction du développement urbain de la Ville de               et ses îles, Québec, 1984, 451 p., coll. Études et
+Montréal.                                                      recherches toponymiques, no 9.
+
+HOPKINS, H.W. Atlas of the City and Island of                  BEAUREGARD, Ludger. « Géographie historique des
+Montreal, 1879, Bibliothèque nationale du Québec               côtes de l’île de Montréal », Cahiers de géographie
+à Montréal.                                                    du Québec, vol. 28, nos 73-74, avril-septembre 1984,
+Cote : G1144 M65G475 H6 1879 CAR                               p. 47-62.
+
+
+
+
+                       ARRONDISSEMENT                                                                             53
+                                            de Pointe-Claire
+BEAUREGARD, Ludger. Toponymie de la région métro-         MAGNAN, Hormidas. Dictionnaire historique et géo-
+politaine de Montréal, Québec, Ministère des Terres       graphique des paroisses, missions et municipalités
+et Forêts du Québec, 1968, 225 p., coll. Étude            de la province de Québec, Arthabaska, Imprimerie
+toponymique 2 (nouvelle série).                           d’Arthabaska Inc., 1925, 738 p.
+
+BERGERON, Claude. Architectures du XXe siècle au          MARSAN, Jean-Claude (dir.). Inventaire préliminaire
+Québec, Québec, Musée de la civilisation / Éditions       des bâtiments patrimoniaux de la Commission sco-
+du Méridien, 1989, 271 p.                                 laire de Montréal, vol. 1-2a-2b, Montréal, Université
+                                                          de Montréal, 28 février 2001.
+BERGERON, Claude. L’architecture des églises du
+Québec 1940-1985, Québec, Les Presses de l’Université     MARSAN, Jean-Claude. Montréal en évolution :
+Laval, 1987, 386 p.                                       Historique de développement de l’architecture et de
+                                                          l’environnement urbain montréalais, 3e éd., Laval,
+COMMISSION DES BIENS CULTURELS. Les chemins
+                                                          Éditions du Méridien, 1994, 515 p.
+de la mémoire. Monuments et sites historiques du
+Québec, Tome II, Québec, Les Publications du Québec,      ROBERT, Jacques. Les ensembles patrimoniaux de la
+1991, 565 p.                                              Communauté urbaine de Montréal, Montréal, Ministère
+                                                          des Affaires culturelles, mars 1985, 40 p.
+COMMISSION DE TOPONYMIE. Noms et lieux du
+Québec. Dictionnaire illustré du Québec, Québec, Les      ROBERT, Jean-Claude. Atlas historique de Montréal,
+Publications du Québec, 1994, 925 p.                      Montréal, Art Global / Libre Expression, 1994, 167 p.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL. Répertoire                VILLE DE MONTRÉAL. Le patrimoine de Montréal,
+d’architecture traditionnelle sur le territoire de la     Montréal, Ville de Montréal et Ministère de la Culture
+Communauté urbaine de Montréal. 12 volumes.               et des Communications, 1998, 168 p.
+
+COURVILLE, Serge (dir.). Paroisses et municipalités de    WOLFE, Jeanne M. et François DUFAUX (dir.). A topo-
+la région de Montréal au XIXe siècle (1825-1861),         graphic Atlas of Montreal / Atlas topographique de
+Répertoire documentaire et cartographique, Québec,        Montréal, Montréal, McGill School of Urban Planning /
+Les Presses de l’Université Laval, 1988, 350 p.           École d’urbanisme, 1992, 78 p.
+
+DESJARDINS, Pauline. Évaluation du patrimoine indus-      Site Internet
+triel. Critères généraux, Montréal, Archemi / Ville de
+                                                          VILLE DE MONTRÉAL. Répertoire bibliographique sur
+Montréal, Service du développement économique et
+                                                          le patrimoine archéologique de Montréal, 2004.
+du développement urbain, 29 août 2003, 56 p.
+                                                          http://www2.ville.montreal.qc.ca/urb_demo/domaines/
+LAURIN, J.-E. Histoire économique de Montréal et          archeo/bib_recherche.htm
+des Cités et Villes du Québec, [Montréal], Les Éditions
+J.-E. Laurin, 1942, 287 p.
+
+LEUNG, Felicity, David McCONNELL et Jean-Claude
+PARENT. Les emplacements manufacturiers au Canada,
+Ottawa, Environnement Canada, Service canadien des
+Parcs, 1990.
+
+LINTEAU, Paul-André. Histoire de Montréal depuis la
+Confédération, Montréal, Boréal,1992, 608 p.
+
+
+54                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+Ouvrages spécifiques à l’arrondissement
+
+ Tour toponymique. L’ouest de l’île de Montréal
+Montréal, s.d.
+
+  « Procès-verbaux sur la commodité et incommodité
+dressés dans chacune des paroisses de la Nouvelle-
+France par Mathieu-Benoit Collet, procureur général
+du roi au Conseil supérieur de Québec », dans Rapport
+de l’archiviste de la province de Québec, Québec,
+Imprimeur de Sa Majesté le Roi, 1922, 452 p.
+
+  Le pont Victoria. Un lien vital. / Victoria Bridge. The
+Vital Link, Montréal, Musée McCord d’histoire cana-
+dienne / McCord Museum of Canadian History,
+1992, 127 p.
+
+BEAUPRÉ et MICHAUD, architectes. Inventaire patrimo-
+nial de la Ville de Beaconsfield, Montréal, 2001, 87 p.
+
+BERNARD, Florian. « Pointe-Claire », La Presse, 29
+août 1983.
+
+DES ROCHERS, Jacques. Un lieu nommé Pointe-Claire.
+Guide d’excursion patrimoniale / A Place Called Pointe-
+Claire. A Heritage Tour Guide, Pointe-Claire, 2000, s.p.
+
+MATTHEWS, Brian R. A History of Pointe Claire,
+Pointe-Claire, Brianor Ltd., 1985, 324 p.
+
+McCANN, L.D. « Planning and Building the Corporate
+Suburb of Mount Royal, 1910-1925 », dans Planning
+Perspectives, 11, 1996, p. 259-301.
+
+MILNE, George E.R. Recollections of Early PointeClaire,
+Pointe-Claire, West Island School Commission,
+décembre 1965, 29 p.
+
+MONGRAIN, Guy. Le développement urbain de
+Pointe-Claire (volet historique), Rapport préliminaire,
+Montréal, Ministère de la Culture et des Commu-
+nications / Ville de Montréal, 2004, 92 p.
+
+
+
+
+                       ARRONDISSEMENT                          55
+                                            de Pointe-Claire
+
