@@ -16,6 +16,29 @@
     </div>
   </div>
 </div></header>
+{% if pl.building_counts or pl.municipalities or pl.built_fabric_statistics %}
+<section class="notes" id="counts"><div class="wrap">
+  <div class="kicker">How many buildings, and of what</div>
+  {% if pl.municipalities %}<p>{{ pl.municipalities|length }} municipalities: {% for m in pl.municipalities %}<em>{{ m|esc }}</em>{% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
+  {% if pl.building_counts %}
+  <div class="tablewrap"><table class="members">
+    <thead><tr><th>Figure</th><th>What it counts</th></tr></thead>
+    <tbody>{% for k, v in pl.building_counts.items() %}{% if k != "note" %}
+      <tr><td><strong>{{ v }}</strong></td><td>{{ k.replace("_", " ")|esc }}</td></tr>
+    {% endif %}{% endfor %}</tbody>
+  </table></div>
+  {% if pl.building_counts.note %}<p class="pnote">{{ pl.building_counts.note|esc }}</p>{% endif %}
+  {% endif %}
+  {% if pl.built_fabric_statistics %}
+  <p class="olabel" style="margin-top:16px">Built fabric, as the source counts it</p>
+  <div class="tablewrap"><table class="members">
+    <tbody>{% for k, v in pl.built_fabric_statistics.items() %}
+      <tr><td>{{ k.replace("_", " ")|esc }}</td><td>{% if v is mapping %}{% for kk, vv in v.items() %}{{ kk.replace("_", " ")|esc }}: {{ vv }}{% if not loop.last %}; {% endif %}{% endfor %}{% else %}{{ v }}{% endif %}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+  {% endif %}
+</div></section>
+{% endif %}
 {% if pl.governing_instruments %}
 <section class="notes" id="instruments"><div class="wrap">
   <div class="kicker">What protects these buildings</div>
@@ -58,7 +81,7 @@
       <tr id="sector-{{ s.code }}"><td><span class="chip">{{ s.code }}</span>{% if s.code_eval2005 %}<div class="null" style="font-size:11px">{{ s.code_eval2005 }}</div>{% endif %}</td>
           <td><em>{{ s.name_fr|esc }}</em></td>
           <td>{{ s.value }}{% if s.plan_de_conservation %}<div class="null" style="font-size:11px">{{ s.plan_de_conservation|esc }}</div>{% endif %}</td>
-          <td>{% if s.summary_en %}{{ s.summary_en|esc }}{% endif %}{% if s.summary_fr %}<div class="frv" lang="fr">{{ s.summary_fr|esc }}</div>{% endif %}{% if s.characteristics_fr %}<ul class="tv" lang="fr">{% for c in s.characteristics_fr %}<li class="frv">{{ c|esc }}</li>{% endfor %}</ul>{% endif %}{% if s.note %}<div class="pnote">{{ s.note|esc }}</div>{% endif %}{% if not s.summary_en and not s.summary_fr %}<span class="null">– fiche text not yet transcribed</span>{% endif %}</td>
+          <td>{% if s.promoted_to_place %}<strong>Now a place of its own on this site:</strong> <a href="{{ R }}places/{{ s.promoted_to_place }}/">{{ s.name_fr|esc }} ›</a><br>{% endif %}{% if s.summary_en %}{{ s.summary_en|esc }}{% endif %}{% if s.summary_fr %}<div class="frv" lang="fr">{{ s.summary_fr|esc }}</div>{% endif %}{% if s.characteristics_fr %}<ul class="tv" lang="fr">{% for c in s.characteristics_fr %}<li class="frv">{{ c|esc }}</li>{% endfor %}</ul>{% endif %}{% if s.note %}<div class="pnote">{{ s.note|esc }}</div>{% endif %}{% if not s.summary_en and not s.summary_fr and not s.promoted_to_place %}<span class="null">– fiche text not yet transcribed</span>{% endif %}</td>
           <td>{{ s.streets|join(", ")|esc if s.streets else "–" }}</td></tr>
     {% endfor %}</tbody>
   </table></div>
@@ -136,7 +159,21 @@
     {% if t.profile_note %}<p class="pnote">{{ t.profile_note|esc }}</p>{% endif %}
     {% if t.conservation %}<div class="conserve"><span class="olabel">Conservation guidance (fiche)</span><ul class="tv">{% for c in t.conservation %}<li>{{ c|esc }}</li>{% endfor %}{% for c in t.conservation_fr or [] %}<li class="frv" lang="fr">{{ c|esc }}</li>{% endfor %}</ul></div>{% endif %}
     {% if t.related_buildings %}<div class="conserve"><span class="olabel">Buildings the source names</span><ul class="tv">{% for b in t.related_buildings %}<li>{% if b.url %}<a href="{{ b.url }}">{{ b.name|esc }}</a>{% else %}{{ b.name|esc }}{% endif %}</li>{% endfor %}</ul></div>{% endif %}
+    {% if t.example_addresses %}<div class="conserve"><span class="olabel">Addresses the inventory prints</span><ul class="tv">{% for a in t.example_addresses %}<li>{{ a.address|esc }}{% if a.municipality %}, {{ a.municipality|esc }}{% endif %}{% if a.note %} <span class="null">({{ a.note|esc }})</span>{% endif %}</li>{% endfor %}</ul></div>{% endif %}
   </details>
+  {% if t.children %}<div class="subcards">
+    {% for ch in t.children %}
+    <article class="subcard" id="{{ ch.slug }}">
+      <h3><a href="{{ R }}types/{{ ch.id }}/">{{ ch.name_en|esc }} <span class="fr">{{ ch.name_fr|esc }}</span></a></h3>
+      <p class="blurb">{{ ch.blurb_en|esc }}</p>
+      <details class="traits"><summary>What {{ ch.doc_short|esc }} says about this sub-type <span class="chev">›</span></summary>
+        <div class="tgrid">{% for row in ch.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}{% for v in row.fr %}<li class="frv" lang="fr">{{ v|esc }}</li>{% endfor %}{% if not row.bullets and not row.fr %}<li class="null">–</li>{% endif %}</ul></div>{% endfor %}</div>
+        {% if ch.example_addresses %}<ul class="tv">{% for a in ch.example_addresses %}<li>{{ a.address|esc }}{% if a.municipality %}, {{ a.municipality|esc }}{% endif %}</li>{% endfor %}</ul>{% endif %}
+      </details>
+      <div class="metaline">Canonical: {% for c in ch.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% else %}<span class="null">–</span>{% endfor %}</div>
+    </article>
+    {% endfor %}
+  </div>{% endif %}
   <div class="metaline">{{ pl.name_en|esc }} · {{ ph.label|esc }} · {{ t.source_ref|esc }} · Canonical: {% for c in t.canonical_objs %}<a href="{{ R }}canonical/{{ c.id }}/">{{ c.name_en|esc }}</a>{% if not loop.last %}; {% endif %}{% else %}<span class="null">–</span>{% endfor %}</div>
 </article>
 {% endfor %}

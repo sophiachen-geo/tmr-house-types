@@ -251,3 +251,21 @@
   name_en: Wartime Housing dwelling, 1940s–60s, minimal detached
   definition_en: The minimal detached house built to Wartime Housing Limited's standard plans and their post-war successors.
   members: []
+# ---- Part 9a additions ----
+- id: quebec-regionalist-revival-house
+  name_en: Régionalisme québécois house — a 1910–1945 revival of French-regime and Norman rural forms, steep shingled roof, fire-break gable walls
+  definition_en: An interwar revival that deliberately quotes the French-regime rural house — a steep shingled roof, fire-break gable walls, stone or stucco — built new rather than survived.
+  members: []
+- id: arts-crafts-articulated-house
+  name_en: Arts and Crafts house with articulated plan, wide overhanging eaves and exposed structural members
+  definition_en: A house whose plan breaks into wings and sheltered outdoor rooms under deep eaves, with its structure — rafters, brackets, half-timbering — left visible as the ornament.
+  members: []
+- id: industrial-vernacular-group
+  name_en: Maison vernaculaire industrielle (group — cubique, cottage vernaculaire, Boomtown)
+  definition_en: >-
+    A parent grouping, not a building shape. Québec's sources disagree about the level of this
+    thing: the Île d'Orléans inventory and the Lévis catalogue treat cubique, cottage vernaculaire
+    américain and Boomtown as three top-level courants, while the Charlesbourg plan de conservation
+    and the Ville de Québec thésaurus nest all three under one parent. This id carries the parent
+    reading so both are visible; the child forms carry the shapes.
+  members: []

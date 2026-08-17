@@ -28,12 +28,14 @@ SECTIONS = {  # key -> (letter, display name, colour key)
     "planned": ("A", "Planned communities", "p1"),
     "historic-core": ("B", "Historic cores", "p2"),
     "borough-vernacular": ("C", "Borough vernaculars", "p3"),
+    "rural-seigneurial": ("D", "Rural seigneurial territories", "p4"),   # Part 9a
 }
 ENUM = {
     "tenure_plan": {"single-family", "semi-detached", "row", "duplex", "triplex", "walk-up", "slab", "mixed"},
     "roof.form": {"flat", "gabled", "gabled-multi", "hipped", "mansard", "false-mansard", "bellcast", "pyramidal", "shed",
                   "flat-or-false-mansard",  # Part 2a: Plateau duplex-setback
                   "gabled-or-hipped", "hipped-or-pyramidal", "flat-or-low-slope",  # Part 3: Saint-Lambert fiches
+                  "gabled-or-hipped-steep",     # Part 9a: the Ile d'Orleans French-regime roof, over 45 degrees
                   None},                        # Part 4a: Arvida families whose roof form is undocumented
     "window_proportion": {"vertical-2to1", "vertical", "square", "horizontal", "horizontal-2to1", "horizontal-2.5to1", None},
     "garage": {"none", "detached", "detached-or-set-back", "attached-set-back", "integrated-facade", "underground",
@@ -42,7 +44,8 @@ ENUM = {
 }
 # sector rankings, by the vocabulary each source uses for its own territory (Parts 5a, 6a, 7a, 8a)
 SECTOR_VALUES = {"exceptional", "interesting", "urban-ensemble", "cited-site",
-                 "declared-site", "review-jurisdiction", "unite-de-paysage"}
+                 "declared-site", "review-jurisdiction", "unite-de-paysage",
+                 "parcel-system"}          # Part 9a: Charlesbourg's réserve / commune / ceinture
 TRAIT_LABELS = [
     ("siting_landscape", "Siting & landscape"),
     ("massing", "Massing"),
@@ -212,6 +215,9 @@ for pdir in sorted((DATA / "places").iterdir()):
             s.setdefault("note", None)
             s.setdefault("code_eval2005", None)       # Ville de Montréal cross-reference (Part 5a v2)
             s.setdefault("plan_de_conservation", None)  # MCC plan, where one exists (Part 7a)
+            # Part 9a: a sector that has since been promoted to a place of its own renders as a
+            # link to that page rather than as a row of its own content.
+            s.setdefault("promoted_to_place", None)
             s.setdefault("source", None)
         codes = [s["code"] for s in sectors]
         if len(codes) != len(set(codes)):
@@ -222,11 +228,14 @@ for pdir in sorted((DATA / "places").iterdir()):
         LABELS = {"exceptional": "of exceptional value", "interesting": "interesting",
                   "urban-ensemble": "urban ensembles", "cited-site": "cited sites",
                   "declared-site": "sites declared by the province", "unite-de-paysage": "landscape units",
-                  "review-jurisdiction": "a permit-review jurisdiction"}
+                  "review-jurisdiction": "a permit-review jurisdiction",
+                  "parcel-system": "elements of the seigneurial parcel system"}
         counts = [(sum(1 for s in sectors if s["value"] == v), LABELS[v]) for v in SECTOR_VALUES]
         parts = [f"{n} {lab}" for n, lab in sorted(counts, reverse=True) if n]
         pl["sector_tally"] = f"{len(sectors)} sectors — " + ", ".join(parts) + "."
         pl["sectors_label"] = ("Landscape units" if all(s["value"] == "unite-de-paysage" for s in sectors)
+                               else "Land division and landscape units"
+                               if any(s["value"] == "parcel-system" for s in sectors)
                                else "Heritage sectors")
     grading = pl.get("grading")
     if grading:
@@ -241,6 +250,14 @@ for pdir in sorted((DATA / "places").iterdir()):
     for gi in pl["governing_instruments"]:
         require(gi, ["kind", "title", "year"], f"{ctx}: governing_instruments")
         gi.setdefault("url", None)
+    # Part 9a: places whose territory is several municipalities, and whose sources publish
+    # several building counts measuring different things. Never collapse those into one number.
+    pl.setdefault("municipalities", None)
+    pl.setdefault("parent_place", None)
+    for k in ("building_counts", "built_fabric_statistics"):
+        pl.setdefault(k, None)
+        if pl[k] is not None and not isinstance(pl[k], dict):
+            fail(f"{ctx}: {k} must be a mapping")
     smap = pl.get("sector_map")           # Part 5a v2: a rasterised map of the sector set
     if smap:
         require(smap, ["file", "credit"], f"{ctx}: sector_map")
@@ -326,6 +343,18 @@ for pdir in sorted((DATA / "places").iterdir()):
         t.setdefault("quartiers", None)      # Québec City: the quarters the fiche names
         t.setdefault("period_label", None)   # Lévis: the index's own period, e.g. "1900-1930"
         t.setdefault("count_in_place", None)  # Lévis: the fiche's "Nombre à Lévis" figure
+        t.setdefault("page", None)           # page anchor in a paginated source (Part 9a)
+        t.setdefault("example_addresses", None)   # the inventory's own printed examples (Part 9a)
+        t.setdefault("municipalities", None)      # which of a multi-municipality place it occurs in
+        t.setdefault("is_group", False)      # a parent type whose children render as sub-cards
+        t.setdefault("group_parent", None)   # the slug of this record's parent type, if any
+        for k in ("example_addresses", "municipalities"):
+            if t.get(k) is not None and not isinstance(t[k], list):
+                fail(f"{tctx}: {k} must be a list")
+        for ea in t["example_addresses"] or []:
+            require(ea, ["address"], f"{tctx}: example_addresses")
+            ea.setdefault("municipality", None)
+            ea.setdefault("note", None)
         t.setdefault("is_courant", False)    # a parent category: renders as a heading, not a card
         t.setdefault("is_residential", True)  # non-residential catalogue entries are recorded, not rendered
         for k in ("quartiers", "related_buildings"):
@@ -403,7 +432,26 @@ for pdir in sorted((DATA / "places").iterdir()):
     # from the source but do not get a card or a page of their own.
     pl["catalogue_extra"] = [t for t in types if t["is_courant"] or not t["is_residential"]]
     types = [t for t in types if not t["is_courant"] and t["is_residential"]]
+    # Part 9a: a source may nest sub-variants under one type (Charlesbourg's maison vernaculaire
+    # industrielle holds cubique, cottage vernaculaire and Boomtown). The children keep their own
+    # records and pages; on the place page they render inside the parent's card.
+    by_slug = {t["slug"]: t for t in types}
     for t in types:
+        t["children"] = []
+    for t in types:
+        parent_slug = t["group_parent"]
+        if parent_slug is None:
+            continue
+        if parent_slug not in by_slug:
+            fail(f"{pdir.name}: type '{t['slug']}' names group_parent '{parent_slug}', which is not a type here")
+        if not by_slug[parent_slug]["is_group"]:
+            fail(f"{pdir.name}: '{parent_slug}' is named as a group_parent but is not marked is_group")
+        by_slug[parent_slug]["children"].append(t)
+    for t in types:
+        if t["is_group"] and not t["children"]:
+            fail(f"{pdir.name}: type '{t['slug']}' is marked is_group but no type names it as group_parent")
+    types_carded = [t for t in types if t["group_parent"] is None]
+    for t in types_carded:
         PH[t["phase"]]["types"].append(t)
 
     # place-level timeline (header rail)

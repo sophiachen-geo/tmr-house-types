@@ -207,3 +207,11 @@ figure.hero figcaption{font:400 11px "IBM Plex Mono",monospace;color:var(--mute)
   .xl-group{grid-template-columns:1fr;gap:4px}
   table.fields th{width:130px}
 }
+/* Part 9a: sub-variants nested inside a parent type's card (Charlesbourg's vernaculaire industrielle) */
+.subcards{border-top:1px solid var(--line);margin:14px -18px -18px;padding:0 18px 4px;background:rgba(0,0,0,.015)}
+.subcard{padding:14px 0;border-bottom:1px solid var(--line)}
+.subcard:last-child{border-bottom:0}
+.subcard h3{font:400 18px/1.2 "Newsreader",Georgia,serif;margin:0 0 6px}
+.subcard h3 a{text-decoration:none}
+.subcard .fr{font-style:italic;color:var(--mute);font-size:14px}
+.subcard .blurb{font-size:14px;margin:0 0 8px}
