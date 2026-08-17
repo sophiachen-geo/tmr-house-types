@@ -9,7 +9,11 @@
 /* p6: 30 % tint of the planned-section colour (--p1), per the Part 5 brief */
 --p6:color-mix(in srgb,var(--p1) 30%,#fff)}
 *{box-sizing:border-box}html{scroll-behavior:smooth}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.55 "IBM Plex Sans",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.55 "IBM Plex Sans",system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-wrap:break-word}
+/* long unbreakable strings - source citations, French compounds, URLs - were pushing the page
+   sideways at 360px; break-word only acts when a word genuinely cannot fit. Grid items default
+   to min-width:auto (= min-content), which let a wide card widen its whole track. */
+.grid>*{min-width:0}
 a{color:inherit} a:focus-visible,summary:focus-visible{outline:2px solid var(--p1);outline-offset:3px}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 20px}
 header{padding:56px 0 28px;border-bottom:1px solid var(--line)}

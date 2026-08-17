@@ -3,48 +3,66 @@ place: saint-lambert
 phase: p3
 name_en: Boomtown house with crown (parapet or cornice)
 name_fr: La maison Boomtown avec couronnement
-source_ref: "Répertoire des courants architecturaux, fiche 5"
-canonical: [brick-box-flat-or-hipped-2st]
-styles: [boomtown]
-tenure_plan: single-family        # also jumelée and row/terrace
-storeys: "2"
-roof: {form: flat, pitch_deg: 0}
+source_ref: Répertoire des courants architecturaux, fiche 5
+canonical:
+- boomtown-false-front
+- brick-box-flat-or-hipped-2st
+styles:
+- boomtown
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: flat
+  pitch_deg: 0
 window_proportion: vertical
-principal_cladding: [clay-brick, wood]
+principal_cladding:
+- clay-brick
+- wood
 profile:
   siting_landscape:
-    - Very present in Saint-Lambert; covers 1900 to 1930, the period of the town's main growth. Detached, semi-detached and terrace houses.
+  - Very present in Saint-Lambert; covers 1900 to 1930, the period of the town's main growth. Detached, semi-detached
+    and terrace houses.
   massing:
-    - Rectangular body of two storeys, moderately raised; flat or gently rear-sloping roof finished with a crown, parapet or cornice; detached or semi-detached.
-    - Wood gallery or porch under an awning; oriels or projecting bays may replace the gallery.
+  - Rectangular body of two storeys, moderately raised; flat or gently rear-sloping roof finished with a crown, parapet
+    or cornice; detached or semi-detached.
+  - Wood gallery or porch under an awning; oriels or projecting bays may replace the gallery.
   articulation:
-    - "Ornament concentrated in the crown of the façade: prominent worked cornices, or brick parapets of many forms, stepped, gabled, cut out, or patterned with brickwork."
-    - "Woodwork on galleries and porches: worked piers, railings, brackets."
+  - 'Ornament concentrated in the crown of the façade: prominent worked cornices, or brick parapets of many forms,
+    stepped, gabled, cut out, or patterned with brickwork.'
+  - 'Woodwork on galleries and porches: worked piers, railings, brackets.'
   openings:
-    - Wood doors with glazing.
-    - Wood casements or guillotine windows according to the original model.
+  - Wood doors with glazing.
+  - Wood casements or guillotine windows according to the original model.
   materials:
-    - Brick (no imitation, unpainted); wood elsewhere.
+  - Brick (no imitation, unpainted); wood elsewhere.
 profile_fr:
-  volumes: ["Corps de bâtiment rectangulaire de deux étages, moyennement exhaussé du sol, avec toit plat ou à faible pente vers l'arrière doté d'un couronnement (parapet ou corniche). La maison peut être isolée ou jumelée."]
-  saillies: ["Une galerie ou un porche en bois sont protégés par un auvent. … Les oriels ou des avancées peuvent remplacer la galerie."]
-  ouvertures: ["Portes en bois avec vitrage.", "Fenêtres à battants en bois ou fenêtres à guillotine selon le modèle utilisé à l'origine."]
-  materiaux: ["Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable. Éviter de peindre la maçonnerie. Pour les murs en bois, favoriser des matériaux identiques lors de leur remplacement."]
-  ornementation: ["Les ornements sont surtout concentrés dans le couronnement de la façade. Corniches ouvragées ainsi que parapets ornés de jeux de brique ou découpés de diverses façons …, tout comme les boiseries (piliers ouvragés, garde-corps et aisseliers) ornant les galeries et les porches."]
+  volumes:
+  - Corps de bâtiment rectangulaire de deux étages, moyennement exhaussé du sol, avec toit plat ou à faible pente
+    vers l'arrière doté d'un couronnement (parapet ou corniche). La maison peut être isolée ou jumelée.
+  saillies:
+  - Une galerie ou un porche en bois sont protégés par un auvent. … Les oriels ou des avancées peuvent remplacer la
+    galerie.
+  ouvertures:
+  - Portes en bois avec vitrage.
+  - Fenêtres à battants en bois ou fenêtres à guillotine selon le modèle utilisé à l'origine.
+  materiaux:
+  - Pour les murs extérieurs en brique, aucun matériau d'imitation n'est acceptable. Éviter de peindre la maçonnerie.
+    Pour les murs en bois, favoriser des matériaux identiques lors de leur remplacement.
+  ornementation:
+  - Les ornements sont surtout concentrés dans le couronnement de la façade. Corniches ouvragées ainsi que parapets
+    ornés de jeux de brique ou découpés de diverses façons …, tout comme les boiseries (piliers ouvragés, garde-corps
+    et aisseliers) ornant les galeries et les porches.
 conservation:
-  - No imitation brick; do not paint masonry; identical wood replacement; industrial claddings proscribed.
-  - Railings in painted wood or wrought iron of traditional make.
-  - Steel/PVC doors unsuitable; avoid sliding, crank, undivided, aluminium or PVC windows.
-  - Do not raise foundations or add a pitched roof; side/rear reduced-volume additions only.
-blurb_en: >-
-  The plain workers' box of the industrial city, two storeys of brick under a flat roof, whose only
-  vanity is its top edge: a fat cornice or a brick parapet, stepped, gabled, cut or patterned. What
-  Mount Royal's by-law calls the faubourg house is this building on a suburban lot.
-origin_en: >-
-  "Typiquement américain", devised in the late 19th century to house workers fast and cheaply in the
-  boom towns of the industrial United States; originally a low rear-sloping roof hidden by parapet or
-  cornice, generalised to a true flat roof once roofing technology allowed, in the early 20th century.
-# common fields per Part 3 brief §2.3
+- No imitation brick; do not paint masonry; identical wood replacement; industrial claddings proscribed.
+- Railings in painted wood or wrought iron of traditional make.
+- Steel/PVC doors unsuitable; avoid sliding, crank, undivided, aluminium or PVC windows.
+- Do not raise foundations or add a pitched roof; side/rear reduced-volume additions only.
+blurb_en: 'The plain workers'' box of the industrial city, two storeys of brick under a flat roof, whose only vanity
+  is its top edge: a fat cornice or a brick parapet, stepped, gabled, cut or patterned. What Mount Royal''s by-law
+  calls the faubourg house is this building on a suburban lot.'
+origin_en: '"Typiquement américain", devised in the late 19th century to house workers fast and cheaply in the boom
+  towns of the industrial United States; originally a low rear-sloping roof hidden by parapet or cornice, generalised
+  to a true flat roof once roofing technology allowed, in the early 20th century.'
 garage: none
 lot_width_m: null
 setback_front_m: null
@@ -52,7 +70,13 @@ setback_side_m: null
 front_yard_green_pct: null
 roofing: see materials
 profile_note: null
-source_generation: "Répertoire des courants architecturaux, 2020"
+source_generation: Répertoire des courants architecturaux, 2020
 photos:
-- {file: assets/places/saint-lambert/boomtown-crown-1.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 5", kind: single}
-- {file: assets/places/saint-lambert/boomtown-crown-2.jpg, credit: "© Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux, fiche 5", kind: single}
+- file: assets/places/saint-lambert/boomtown-crown-1.jpg
+  credit: © Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux,
+    fiche 5
+  kind: single
+- file: assets/places/saint-lambert/boomtown-crown-2.jpg
+  credit: © Ville de Saint-Lambert / Patri-Arch (G. Mongrain, M. Dubois), Répertoire des courants architecturaux,
+    fiche 5
+  kind: single

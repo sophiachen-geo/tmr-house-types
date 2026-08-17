@@ -11446,10 +11446,12 @@
    "name_fr": "La maison Boomtown à fausse mansarde",
    "source_ref": "Répertoire des courants architecturaux, fiche 4",
    "canonical": [
+    "boomtown-false-front",
     "flat-roof-house-false-mansard-2st",
     "brick-box-flat-or-hipped-2st"
    ],
    "canonical_names": [
+    "Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown",
     "Two-storey house, flat or rear-sloping roof, false-mansard crown with pendant dormers, front gallery",
     "Two-storey brick box, flat/hipped/false-mansard roof, front gallery"
    ],
@@ -11557,9 +11559,11 @@
    "name_fr": "La maison Boomtown avec couronnement",
    "source_ref": "Répertoire des courants architecturaux, fiche 5",
    "canonical": [
+    "boomtown-false-front",
     "brick-box-flat-or-hipped-2st"
    ],
    "canonical_names": [
+    "Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown",
     "Two-storey brick box, flat/hipped/false-mansard roof, front gallery"
    ],
    "styles": [
