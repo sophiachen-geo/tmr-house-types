@@ -3,6 +3,7 @@ name_en: Le Plateau-Mont-Royal (borough of Montréal)
 name_fr: Arrondissement du Plateau-Mont-Royal
 sections: [borough-vernacular]
 region: Ville de Montréal
+borough_of: montreal                       # borough since 1 January 2002
 founded: 1845            # first residential subdivision (Courville); villages 1846–1878; annexed 1886–1909
 settlement_mode: speculative subdivision of farm land into villages, absorbed by Montréal
 governing_instruments:

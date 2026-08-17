@@ -3,6 +3,7 @@ name_en: Outremont (borough of Montréal)
 name_fr: Arrondissement d'Outremont
 sections: [planned, borough-vernacular]
 region: Ville de Montréal
+borough_of: montreal                       # borough since 1 January 2002
 founded: 1875                              # village 23 February 1875; ville 1895; cité 1915; back to ville 1970; borough 1 January 2002
 settlement_mode: bourgeois suburb subdivided out of the Côte-Sainte-Catherine farms
 governing_instruments:
