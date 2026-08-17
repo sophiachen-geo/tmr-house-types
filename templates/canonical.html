@@ -3,7 +3,10 @@
 <header><div class="wrap">
   <div class="kicker">Canonical form</div>
   <h1>{{ c.name_en|esc }}</h1>
-  <p class="lede">{{ c.definition_en|esc }}</p>
+  {% if c.definition_en %}<p class="lede">{{ c.definition_en|esc }}</p>{% endif %}
+  {% if c.alias_target %}<p class="lede">An earlier name for <a href="{{ R }}canonical/{{ c.alias_target.id }}/">{{ c.alias_target.name_en|esc }}</a>. It was coined before the family was modelled as a group; both ids resolve here so older links keep working, and the members listed below are that form's.</p>{% endif %}
+  {% if c.is_group %}<p class="lede">A family, not a single shape. Its members are pooled from its children: {% for ch in c.children %}<a href="{{ R }}canonical/{{ ch }}/">{{ ch }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
+  {% if c.group_of %}<p class="lede">One member of the <a href="{{ R }}canonical/{{ c.group_of }}/">{{ c.group_of }}</a> family.</p>{% endif %}
 </div></header>
 <main><div class="wrap">
   <div class="tablewrap"><table class="members">

@@ -52,3 +52,5 @@
 - {id: wartime-housing, name_en: Wartime Housing, span: [1940, 1970]}
 - {id: rationalisme-industriel, name_en: Rationalisme industriel, span: [1850, 1960]}
 - {id: agricole-vernaculaire, name_en: Agricole vernaculaire, span: [1850, 1950]}
+# ---- Part 10a additions ----
+- {id: city-beautiful, name_en: City Beautiful / embellissement, span: [1900, 1925]}

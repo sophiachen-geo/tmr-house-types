@@ -6806,11 +6806,11 @@
    "name_fr": "Toit plat",
    "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 3 « Toit plat », 1900-1945",
    "canonical": [
-    "plex-superposed-units",
+    "plex-family",
     "faubourg-house-flat-roof"
    ],
    "canonical_names": [
-    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof",
+    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof (earlier name)",
     "Flat-roofed faubourg house, party-wall multi-unit filling the full lot width, porte cochère, ornamented crown"
    ],
    "styles": [
@@ -7025,10 +7025,10 @@
    "name_fr": "Wartime housing",
    "source_ref": "Ville de Lévis, « Styles architecturaux », fiche 6 « Wartime housing », 1940-1970",
    "canonical": [
-    "wartime-housing-1940s"
+    "veterans-house-nha"
    ],
    "canonical_names": [
-    "Wartime Housing dwelling, 1940s–60s, minimal detached"
+    "Wartime Housing dwelling, 1940s–60s, minimal detached (earlier name)"
    ],
    "styles": [
     "wartime-housing",
@@ -11961,11 +11961,11 @@
    "name_fr": "Plex",
    "source_ref": "Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=503",
    "canonical": [
-    "plex-superposed-units",
+    "plex-family",
     "duplex-flat-roof-brick"
    ],
    "canonical_names": [
-    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof",
+    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof (earlier name)",
     "Two-storey, two-dwelling brick box, flat roof, superposed units, cornice or parapet"
    ],
    "styles": [
@@ -15167,10 +15167,10 @@
    "name_fr": "L'immeuble à logements / l'immeuble de type « plex »",
    "source_ref": "Ville de Trois-Rivières, Répertoire des courants architecturaux (Patri-Arch); RPCQ id 93531 (MCC); MCC, Plan de conservation du site patrimonial de Trois-Rivières, 2014",
    "canonical": [
-    "plex-superposed-units"
+    "plex-family"
    ],
    "canonical_names": [
-    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof"
+    "Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof (earlier name)"
    ],
    "styles": [
     "vernaculaire-industriel",

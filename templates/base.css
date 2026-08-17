@@ -215,3 +215,6 @@ figure.hero figcaption{font:400 11px "IBM Plex Mono",monospace;color:var(--mute)
 .subcard h3 a{text-decoration:none}
 .subcard .fr{font-style:italic;color:var(--mute);font-size:14px}
 .subcard .blurb{font-size:14px;margin:0 0 8px}
+/* Part 10a: framework and topic pages */
+.prose blockquote{margin:14px 0;padding:10px 0 10px 16px;border-left:3px solid var(--line);max-width:72ch}
+.lane-group{margin:18px 0 2px;font:500 11px "IBM Plex Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}

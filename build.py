@@ -45,7 +45,8 @@ ENUM = {
 # sector rankings, by the vocabulary each source uses for its own territory (Parts 5a, 6a, 7a, 8a)
 SECTOR_VALUES = {"exceptional", "interesting", "urban-ensemble", "cited-site",
                  "declared-site", "review-jurisdiction", "unite-de-paysage",
-                 "parcel-system"}          # Part 9a: Charlesbourg's réserve / commune / ceinture
+                 "parcel-system",          # Part 9a: Charlesbourg's réserve / commune / ceinture
+                 "archaeological-potential"}   # Part 10a: the Évaluation series' AP sectors
 TRAIT_LABELS = [
     ("siting_landscape", "Siting & landscape"),
     ("massing", "Massing"),
@@ -142,7 +143,11 @@ canon_types = load_yaml(DATA / "canon" / "canonical_types.yaml") or []
 canon_styles = load_yaml(DATA / "canon" / "styles.yaml") or []
 glossary = load_yaml(DATA / "canon" / "glossary.yaml") or []
 for c in canon_types:
-    require(c, ["id", "name_en", "definition_en"], "canonical_types.yaml")
+    require(c, ["id", "name_en"], "canonical_types.yaml")
+    c.setdefault("definition_en", None)
+    c.setdefault("is_group", False)       # Part 10a: a family whose children are the real forms
+    c.setdefault("children", [])
+    c.setdefault("alias_of", None)        # Part 10a: an earlier id kept as a pointer, not a rival
     c["members"] = []
 for s in canon_styles:
     require(s, ["id", "name_en", "span"], "styles.yaml")
@@ -155,6 +160,17 @@ CANON = {c["id"]: c for c in canon_types}
 STYLE = {s["id"]: s for s in canon_styles}
 if len(CANON) != len(canon_types):
     fail("canonical_types.yaml: duplicate ids")
+for c in canon_types:
+    for ch in c["children"]:
+        if ch not in CANON:
+            fail(f"canonical_types.yaml: {c['id']} names child '{ch}', which does not exist")
+        CANON[ch]["group_of"] = c["id"]
+    if c["alias_of"] and c["alias_of"] not in CANON:
+        fail(f"canonical_types.yaml: {c['id']} aliases '{c['alias_of']}', which does not exist")
+    if c["is_group"] and not c["children"]:
+        fail(f"canonical_types.yaml: {c['id']} is marked is_group but names no children")
+for c in canon_types:
+    c.setdefault("group_of", None)
 if len(STYLE) != len(canon_styles):
     fail("styles.yaml: duplicate ids")
 
@@ -229,7 +245,8 @@ for pdir in sorted((DATA / "places").iterdir()):
                   "urban-ensemble": "urban ensembles", "cited-site": "cited sites",
                   "declared-site": "sites declared by the province", "unite-de-paysage": "landscape units",
                   "review-jurisdiction": "a permit-review jurisdiction",
-                  "parcel-system": "elements of the seigneurial parcel system"}
+                  "parcel-system": "elements of the seigneurial parcel system",
+                  "archaeological-potential": "of archaeological potential"}
         counts = [(sum(1 for s in sectors if s["value"] == v), LABELS[v]) for v in SECTOR_VALUES]
         parts = [f"{n} {lab}" for n, lab in sorted(counts, reverse=True) if n]
         pl["sector_tally"] = f"{len(sectors)} sectors — " + ", ".join(parts) + "."
@@ -254,6 +271,7 @@ for pdir in sorted((DATA / "places").iterdir()):
     # several building counts measuring different things. Never collapse those into one number.
     pl.setdefault("municipalities", None)
     pl.setdefault("parent_place", None)
+    pl.setdefault("borough_of", None)    # Part 10a: boroughs render as siblings under one header
     for k in ("building_counts", "built_fabric_statistics"):
         pl.setdefault(k, None)
         if pl[k] is not None and not isinstance(pl[k], dict):
@@ -343,6 +361,9 @@ for pdir in sorted((DATA / "places").iterdir()):
         t.setdefault("quartiers", None)      # Québec City: the quarters the fiche names
         t.setdefault("period_label", None)   # Lévis: the index's own period, e.g. "1900-1930"
         t.setdefault("count_in_place", None)  # Lévis: the fiche's "Nombre à Lévis" figure
+        t.setdefault("variants", None)       # Part 10a: the Patri-Arch fiches' section D
+        if t["variants"] is not None and not isinstance(t["variants"], list):
+            fail(f"{tctx}: variants must be a list")
         t.setdefault("page", None)           # page anchor in a paginated source (Part 9a)
         t.setdefault("example_addresses", None)   # the inventory's own printed examples (Part 9a)
         t.setdefault("municipalities", None)      # which of a multi-municipality place it occurs in
@@ -509,7 +530,13 @@ export_types = all_types + [t for p in places for t in p.get("catalogue_extra") 
 TYPE = {t["id"]: t for t in all_types}
 
 # ------------------------------------------------------- derive cross-links
-for t in all_types:
+for c in canon_types:                 # Part 10a: resolve aliases before members are attached
+    if c["alias_of"]:
+        c["alias_target"] = CANON[c["alias_of"]]
+    else:
+        c["alias_target"] = None
+for t in all_types:                   # Part 10a: a record naming an alias attaches to the real form
+    t["canonical"] = [CANON[c]["alias_of"] or c for c in t["canonical"]]
     for cid in t["canonical"]:
         CANON[cid]["members"].append(t)
     for sid in t["styles"]:
@@ -629,7 +656,20 @@ def render(template, out_rel, depth, **ctx):
     pages_written += 1
 
 
-render("home.html", "index.html", 0, title=SITE,
+# Part 10a: group a city's boroughs so fifteen-plus lanes stay legible
+lane_groups, seen_group = [], {}
+for p_ in places:
+    key = p_["borough_of"]
+    if key is None:
+        lane_groups.append({"label": None, "places": [p_]})
+    elif key in seen_group:
+        seen_group[key]["places"].append(p_)
+    else:
+        g = {"label": key, "places": [p_]}
+        seen_group[key] = g
+        lane_groups.append(g)
+
+render("home.html", "index.html", 0, title=SITE, lane_groups=lane_groups,
        description="Residential building types across Québec, place by place: local typologies from by-laws, inventories and studies, cross-referenced by form, style and period.",
        places=places, sections=sections, tl_ticks=tl_ticks, tl_gridlines=tl_gridlines)
 
@@ -647,6 +687,16 @@ for t in all_types:
            title=f"{t['name_en']} ({t['place_name']}) — {SITE}",
            description=t["blurb_en"][:220], t=t)
 
+for c in canon_types:                 # Part 10a: aliases show the target's members; groups pool children's
+    if c["alias_target"]:
+        c["members"] = c["alias_target"]["members"]
+    if c["is_group"]:
+        seen = {m["id"] for m in c["members"]}
+        for ch in c["children"]:
+            for m in CANON[ch]["members"]:
+                if m["id"] not in seen:
+                    seen.add(m["id"]); c["members"].append(m)
+        c["members"].sort(key=lambda m: (m["place_name"], m["name_en"]))
 for c in canon_types:
     render("canonical.html", f"canonical/{c['id']}/index.html", 2,
            title=f"{c['name_en']} — {SITE}", description=c["definition_en"], c=c)
@@ -655,6 +705,28 @@ for s in canon_styles:
     render("style.html", f"styles/{s['id']}/index.html", 2,
            title=f"{s['name_en']} — {SITE}",
            description=f"{s['name_en']}, {s['span'][0]}–{s['span'][1]}: local residential types carrying the style.", s=s)
+
+# Part 10a: framework pages (how a documentary series works) and topic pages (one shared explainer)
+extras = []
+for kind in ("frameworks", "topics"):
+    d = DATA / "canon" / kind
+    if not d.exists():
+        continue
+    for f in sorted(d.glob("*.yaml")):
+        rec = load_yaml(f)
+        require(rec, ["id", "title", "kicker", "lede", "blocks"], f"{kind}/{f.name}")
+        rec["kind"] = kind
+        for b in rec["blocks"]:
+            require(b, ["heading"], f"{kind}/{f.name}: blocks")
+            for k in ("paragraphs", "quote", "table", "list"):
+                b.setdefault(k, None)
+            if b["table"]:
+                require(b["table"], ["columns", "rows"], f"{kind}/{f.name}: table")
+        extras.append(rec)
+        render("framework.html", f"{kind}/{rec['id']}/index.html", 2,
+               title=f"{rec['title']} — {SITE}", rec=rec)
+FRAMEWORKS = [r for r in extras if r["kind"] == "frameworks"]
+TOPICS = [r for r in extras if r["kind"] == "topics"]
 
 render("matrix.html", "matrix/index.html", 1, title=f"Style ↔ place matrix — {SITE}",
        description="Which places carry which styles, as a sortable matrix of local types.",
@@ -665,6 +737,7 @@ render("glossary.html", "glossary/index.html", 1, title=f"Glossary — {SITE}",
        description="Terms used by the by-laws, inventories and studies this site draws on.",
        glossary=glossary, nav="glossary")
 render("methods.html", "methods/index.html", 1, title=f"Methods — {SITE}",
+       frameworks=FRAMEWORKS, topics=TOPICS,
        description="What is verbatim, what is interpretive, how nulls and photographs are handled, and the schema-additions log.",
        nav="methods")
 

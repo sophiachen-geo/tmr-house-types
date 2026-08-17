@@ -1,122 +1,146 @@
-# Canonical vocabulary of built forms, v0 (Part 1 seed).
-# `members` is filled automatically by build.py from types' `canonical`; keep [] here.
 - id: detached-cottage-steep-gable
   name_en: Detached cottage, steep multi-gabled roof, brick base / light upper
-  definition_en: 1.5–2 storey detached house, roof ≥45°, asymmetrical, brick ground floor with stucco/timber above.
+  definition_en: 1.5–2 storey detached house, roof ≥45°, asymmetrical, brick ground floor with stucco/timber
+    above.
   members: []
 - id: brick-box-flat-or-hipped-2st
   name_en: Two-storey brick box, flat/hipped/false-mansard roof, front gallery
-  definition_en: Plain two-storey brick volume with aligned openings and minimal ornament; flat, hipped or false-mansard roof; front gallery or verandah on posts.
+  definition_en: Plain two-storey brick volume with aligned openings and minimal ornament; flat, hipped or
+    false-mansard roof; front gallery or verandah on posts.
   members: []
 - id: walkup-3st-flat-brick
   name_en: Three-storey brick walk-up, flat roof, decorated parapet
-  definition_en: Three-storey multi-family brick block under a flat roof, base differentiated, parapet with brick motifs, balconies and a prominent entrance.
+  definition_en: Three-storey multi-family brick block under a flat roof, base differentiated, parapet with
+    brick motifs, balconies and a prominent entrance.
   members: []
 - id: bellcast-roof-stone-house
   name_en: Steep bell-cast roof house with flared eaves, dormers, stone walls
-  definition_en: 1.5-storey house whose steep roof flares into larmiers sheltering the door; row of dormers, stone walls, symmetrical front.
+  definition_en: 1.5-storey house whose steep roof flares into larmiers sheltering the door; row of dormers,
+    stone walls, symmetrical front.
   members: []
 - id: side-gabled-colonial-2st
   name_en: Long side-gabled two-storey rectangle, dormers, symmetrical
-  definition_en: Simple two-storey rectangle with its long gabled side to the street, dormers halfway up the roof, symmetrical openings, discreet entrance.
+  definition_en: Simple two-storey rectangle with its long gabled side to the street, dormers halfway up the
+    roof, symmetrical openings, discreet entrance.
   members: []
 - id: courtyard-apartment-u-l
   name_en: Low-rise U/L-plan apartment court, gables, stone base
-  definition_en: Low-rise apartment block in a U or L plan around a green forecourt; steep gables and dormers, stone base and banding.
+  definition_en: Low-rise apartment block in a U or L plan around a green forecourt; steep gables and dormers,
+    stone base and banding.
   members: []
 - id: symmetric-brick-3-5-bay-2st
   name_en: Symmetrical two-storey brick house, 3–5 bays, central door
-  definition_en: Formal two-storey brick box of three or five bays; central door with surround, sash windows, frieze under a moderately pitched roof.
+  definition_en: Formal two-storey brick box of three or five bays; central door with surround, sash windows,
+    frieze under a moderately pitched roof.
   members: []
 - id: tudor-manor-stone-timber
   name_en: Steep multi-gabled house, stone base, brick or half-timber above, patterned brick
-  definition_en: Picturesque 2-storey house with steep multi-gabled roofs, stone ground floor, brick or half-timbered stucco above, worked brick bonds.
+  definition_en: Picturesque 2-storey house with steep multi-gabled roofs, stone ground floor, brick or half-timbered
+    stucco above, worked brick bonds.
   members: []
 - id: one-storey-ranch-low-roof
   name_en: One-storey horizontal house, ≤30° roof, integrated garage
-  definition_en: Long, low one-storey house with shallow roof and deep overhang, recessed entrance, garage in the façade, horizontal windows.
+  definition_en: Long, low one-storey house with shallow roof and deep overhang, recessed entrance, garage
+    in the façade, horizontal windows.
   members: []
 - id: postwar-2st-box-low-hip
   name_en: Two-storey box, low hip roof, integrated garage, marquise
-  definition_en: Plain postwar two-storey box under a low hip roof; base/body dividing line, garage in the façade, flat marquise over the door.
+  definition_en: Plain postwar two-storey box under a low hip roof; base/body dividing line, garage in the
+    façade, flat marquise over the door.
   members: []
 - id: split-level
   name_en: Two volumes offset half a storey, garage under bedrooms
-  definition_en: Two volumes offset by half a storey under one low roof; garage tucked under the bedroom wing and pushed forward, recessed entrance.
+  definition_en: Two volumes offset by half a storey under one low roof; garage tucked under the bedroom wing
+    and pushed forward, recessed entrance.
   members: []
 - id: prairie-contemporary
   name_en: Low pyramidal/hipped roof, deep soffits, ribbon windows, Roman brick
-  definition_en: Horizontal composition under low pyramidal or multi-hipped roofs with deep soffits; ribbon windows under the eaves, elongated brick or stone.
+  definition_en: Horizontal composition under low pyramidal or multi-hipped roofs with deep soffits; ribbon
+    windows under the eaves, elongated brick or stone.
   members: []
 - id: modern-slab-flat-brick
   name_en: Flat-roof brick apartment slab, loggias, penthouse setback
-  definition_en: Flat-roofed modernist apartment slab with coping band, set-back penthouse storey, loggia balconies and wide undivided windows.
+  definition_en: Flat-roofed modernist apartment slab with coping band, set-back penthouse storey, loggia
+    balconies and wide undivided windows.
   members: []
-
-# ---- Part 2a additions (Plateau-Mont-Royal) ----
 - id: duplex-flat-roof-brick
   name_en: Two-storey, two-dwelling brick box, flat roof, superposed units, cornice or parapet
-  definition_en: Two-storey brick building of two superposed dwellings under a flat roof, party-wall or narrowly set back, crowned by a moulded cornice or parapet.
+  definition_en: Two-storey brick building of two superposed dwellings under a flat roof, party-wall or narrowly
+    set back, crowned by a moulded cornice or parapet.
   members: []
 - id: triplex-exterior-stair
   name_en: Three-storey, three-dwelling brick building with exterior stair to upper units, flat roof
-  definition_en: Three-storey brick building of three superposed dwellings, the upper two reached by an exterior stair; flat roof, balconies at each level.
+  definition_en: Three-storey brick building of three superposed dwellings, the upper two reached by an exterior
+    stair; flat roof, balconies at each level.
   members: []
 - id: multiplex-3st
   name_en: Three-storey building with more than three dwellings, flat roof
-  definition_en: Three-storey building holding more than three dwellings under a flat roof; the plex form scaled up.
+  definition_en: Three-storey building holding more than three dwellings under a flat roof; the plex form
+    scaled up.
   members: []
 - id: urban-house-stone-2-3st
   name_en: Detached or row bourgeois urban house, stone-faced, 2–3 storeys, ornamented
-  definition_en: Detached or row bourgeois urban house of two to three storeys, uniformly stone-faced and more richly ornamented than the plex types.
+  definition_en: Detached or row bourgeois urban house of two to three storeys, uniformly stone-faced and
+    more richly ornamented than the plex types.
   members: []
 - id: rapport-block-compact
   name_en: Interwar apartment block ("édifice de rapport"), 3–4 storeys, compact plan, flat roof
-  definition_en: Interwar apartment block (édifice de rapport) of three to four storeys on a compact plan without interior court; flat roof.
+  definition_en: Interwar apartment block (édifice de rapport) of three to four storeys on a compact plan
+    without interior court; flat roof.
   members: []
 - id: rapport-block-u-court
   name_en: Interwar apartment block with U-plan forecourt open to the street, 3–4 storeys
-  definition_en: Interwar apartment block of three to four storeys whose recessed façade or U-plan opens a forecourt to the street.
+  definition_en: Interwar apartment block of three to four storeys whose recessed façade or U-plan opens a
+    forecourt to the street.
   members: []
 - id: small-walkup-interior-stair
   name_en: Postwar small apartment building, 2–4 dwellings off an interior stair, duplex-scale volume
-  definition_en: Postwar apartment building at duplex scale holding two to four dwellings reached from one interior stair.
+  definition_en: Postwar apartment building at duplex scale holding two to four dwellings reached from one
+    interior stair.
   members: []
-
-# ---- Part 3 additions (Saint-Lambert) ----
 - id: quebec-traditional-1-5st-gable
-  name_en: One-and-a-half-storey rectangular house, steep two-slope roof (straight or bell-cast), full-width gallery under the eaves, stone or wood
-  definition_en: Rectangular 1.5-storey house under a steep two-slope roof, straight or bell-cast, with a full-width gallery sheltered by the eave; stone, roughcast or wood.
+  name_en: One-and-a-half-storey rectangular house, steep two-slope roof (straight or bell-cast), full-width
+    gallery under the eaves, stone or wood
+  definition_en: Rectangular 1.5-storey house under a steep two-slope roof, straight or bell-cast, with a
+    full-width gallery sheltered by the eave; stone, roughcast or wood.
   members: []
 - id: mansard-house-2st
-  name_en: Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under its own awning
-  definition_en: Two-storey house under a two- or four-slope mansard (broken) roof, dormers piercing the brisis, wood gallery under an awning independent of the main roof.
+  name_en: Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under
+    its own awning
+  definition_en: Two-storey house under a two- or four-slope mansard (broken) roof, dormers piercing the brisis,
+    wood gallery under an awning independent of the main roof.
   members: []
 - id: queen-anne-irregular-2-5st
   name_en: 2½-storey house of irregular plan, medium-pitched roofs, towers/turrets/oriels/gables, asymmetrical
-  definition_en: House of rectangular or irregular plan, 2½ storeys, medium-pitched roofs, asymmetrical façade articulated by towers, turrets, gables, oriels and galleries.
+  definition_en: House of rectangular or irregular plan, 2½ storeys, medium-pitched roofs, asymmetrical façade
+    articulated by towers, turrets, gables, oriels and galleries.
   members: []
 - id: flat-roof-house-false-mansard-2st
   name_en: Two-storey house, flat or rear-sloping roof, false-mansard crown with pendant dormers, front gallery
-  definition_en: Two-storey house with flat or rear-sloping roof crowned by a false mansard with pendant dormers; front gallery under its own awning.
+  definition_en: Two-storey house with flat or rear-sloping roof crowned by a false mansard with pendant dormers;
+    front gallery under its own awning.
   members: []
 - id: foursquare-hipped-2st
   name_en: Two-storey square or rectangular block under a pyramidal or hipped roof, brick, gallery or porch
-  definition_en: Square or rectangular two-storey block under a pyramidal or hipped roof, usually brick, with a gallery or porch under an awning.
+  definition_en: Square or rectangular two-storey block under a pyramidal or hipped roof, usually brick, with
+    a gallery or porch under an awning.
   members: []
 - id: modest-tudor-cottage-brick-2st
-  name_en: Two-storey detached brick cottage, several gables, gabled entrance porch, false half-timbering, diamond-leaded casements
-  definition_en: Two-storey detached brick cottage with several gables, a gabled entrance porch, false half-timbering and diamond-leaded casements.
+  name_en: Two-storey detached brick cottage, several gables, gabled entrance porch, false half-timbering,
+    diamond-leaded casements
+  definition_en: Two-storey detached brick cottage with several gables, a gabled entrance porch, false half-timbering
+    and diamond-leaded casements.
   members: []
-
-# ---- Part 4a additions (Arvida) ----
 - id: company-cottage-detached-wood-1926
-  name_en: Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch; Arvida 1926 families A–D
-  definition_en: Detached wood-frame company house on a concrete foundation, pitched roof with dormers and an entrance porch; the 1926 Arvida families A–D.
+  name_en: Detached wood-frame company house on concrete foundation, pitched roof with dormers, entrance porch;
+    Arvida 1926 families A–D
+  definition_en: Detached wood-frame company house on a concrete foundation, pitched roof with dormers and
+    an entrance porch; the 1926 Arvida families A–D.
   members: []
 - id: company-semi-detached-1940s
   name_en: Semi-detached company house of the 1940s, wood-frame, pitched roof
-  definition_en: Semi-detached company house of the 1940s, wood-framed under a pitched roof, two dwellings per building.
+  definition_en: Semi-detached company house of the 1940s, wood-framed under a pitched roof, two dwellings
+    per building.
   members: []
 - id: company-row-1940s
   name_en: Row of four to six company dwellings, 1940s
@@ -124,17 +148,18 @@
   members: []
 - id: wartime-housing-prefab
   name_en: Wartime Housing Ltd prefabricated panel house, 1½ storeys, originally on cedar posts
-  definition_en: Wartime Housing Ltd prefabricated panel house of 1½ storeys, pre-cut frame and panels, originally set on cedar posts.
+  definition_en: Wartime Housing Ltd prefabricated panel house of 1½ storeys, pre-cut frame and panels, originally
+    set on cedar posts.
   members: []
-
-# ---- Part 5a additions (Westmount, Hampstead, Témiscaming) ----
 - id: greystone-row-2-3st
   name_en: Party-wall greystone row house, 2–3 storeys, flat roof or false mansard, runs of up to eight units
-  definition_en: Party-wall row house of two or three storeys faced in Montréal greystone, flat roof or false mansard, built in runs of up to eight units.
+  definition_en: Party-wall row house of two or three storeys faced in Montréal greystone, flat roof or false
+    mansard, built in runs of up to eight units.
   members: []
 - id: greystone-triplex-exterior-stair
   name_en: Party-wall greystone triplex with straight exterior stair (Montréal type, rare in Westmount)
-  definition_en: Party-wall greystone triplex reached by a straight, steep exterior stair — the Montréal plex form, rare in Westmount.
+  definition_en: Party-wall greystone triplex reached by a straight, steep exterior stair — the Montréal plex
+    form, rare in Westmount.
   members: []
 - id: picturesque-villa-estate
   name_en: Free-standing picturesque villa or country house in grounds, mid-19th century
@@ -145,12 +170,15 @@
   definition_en: Detached house in heavy rusticated stone with round arches and squat columns.
   members: []
 - id: eclectic-prestige-house
-  name_en: Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château, Edwardian)
-  definition_en: Large detached prestige house in a classical or historicist idiom — Georgian, Beaux-Arts, Château or Edwardian.
+  name_en: Large detached prestige house in a classical or historicist idiom (Georgian, Beaux-Arts, Château,
+    Edwardian)
+  definition_en: Large detached prestige house in a classical or historicist idiom — Georgian, Beaux-Arts,
+    Château or Edwardian.
   members: []
 - id: english-revival-stone-2st
   name_en: Two-storey stone house in an English revival idiom, detached, on a curving-street lot
-  definition_en: Two-storey detached stone house in an English revival idiom, set back on a curving-street lot.
+  definition_en: Two-storey detached stone house in an English revival idiom, set back on a curving-street
+    lot.
   members: []
 - id: interwar-walkup-apartment
   name_en: Interwar apartment building / walk-up ("conciergerie", "appartement de rapport")
@@ -162,29 +190,35 @@
   members: []
 - id: company-house-lower-town-1918
   name_en: Company house of a 1918–1923 planned lower town, architect-designed in series
-  definition_en: Company house of a 1918–1923 planned lower town, designed in series by one architectural firm.
+  definition_en: Company house of a 1918–1923 planned lower town, designed in series by one architectural
+    firm.
   members: []
 - id: company-house-executive-1925
   name_en: Executive/managerial company house of the 1925–1950 upper district, English-cottage idiom
-  definition_en: Executive or managerial company house of a 1925–1950 upper district, in an English-cottage idiom.
+  definition_en: Executive or managerial company house of a 1925–1950 upper district, in an English-cottage
+    idiom.
   members: []
-
-# ---- Part 6a additions (Gatineau, Outremont) ----
 - id: allumette-house-gable-front
-  name_en: Gable-front worker's house of the Ottawa valley match-works era ("maison allumette"), 1½ to 2½ storeys, narrow rectangular plan on a Wright-survey lot
-  definition_en: Narrow gable-front worker's house of the Ottawa valley, its ridge perpendicular to the street and gable wall to the front, on the narrow lots of the 1864 Wright-estate survey; covered front gallery, off-centre door.
+  name_en: Gable-front worker's house of the Ottawa valley match-works era ("maison allumette"), 1½ to 2½
+    storeys, narrow rectangular plan on a Wright-survey lot
+  definition_en: Narrow gable-front worker's house of the Ottawa valley, its ridge perpendicular to the street
+    and gable wall to the front, on the narrow lots of the 1864 Wright-estate survey; covered front gallery,
+    off-centre door.
   members: []
 - id: mixed-use-flat-roof-block
   name_en: Mixed commercial-residential block, flat roof, shops below and dwellings above
-  definition_en: Flat-roofed block combining commerce at street level with dwellings above, on a main commercial street.
+  definition_en: Flat-roofed block combining commerce at street level with dwellings above, on a main commercial
+    street.
   members: []
 - id: central-gable-house
   name_en: House with a central gable over the façade (pignon central)
-  definition_en: House whose façade is crowned by a single central gable or wall dormer over the entrance bay.
+  definition_en: House whose façade is crowned by a single central gable or wall dormer over the entrance
+    bay.
   members: []
 - id: complex-gable-roof-house
   name_en: House with a complex gabled roof, picturesque massing
-  definition_en: House whose roof breaks into several intersecting gables, giving a picturesque, irregular silhouette.
+  definition_en: House whose roof breaks into several intersecting gables, giving a picturesque, irregular
+    silhouette.
   members: []
 - id: l-plan-gable-house
   name_en: L-plan house with a two-slope roof, rural-vernacular
@@ -192,87 +226,169 @@
   members: []
 - id: side-gable-duplex
   name_en: Duplex with the gable wall to the side, two superposed dwellings
-  definition_en: Two-dwelling house whose ridge runs parallel to the street, presenting the long slope rather than the gable to the front.
+  definition_en: Two-dwelling house whose ridge runs parallel to the street, presenting the long slope rather
+    than the gable to the front.
   members: []
-# ---- Parts 7-8 additions ----
 - id: french-rural-house-1st-hip
-  name_en: One-storey rural house of French inspiration, pièce-sur-pièce walls, hipped roof without eaves, no cellar
-  definition_en: The rural house of the French regime — one storey on the ground, walls of squared timber laid pièce-sur-pièce, a steep roof carried to the wall head without eaves, and no cellar beneath.
+  name_en: One-storey rural house of French inspiration, pièce-sur-pièce walls, hipped roof without eaves,
+    no cellar
+  definition_en: The rural house of the French regime — one storey on the ground, walls of squared timber
+    laid pièce-sur-pièce, a steep roof carried to the wall head without eaves, and no cellar beneath.
   members: []
 - id: french-urban-house-stone
-  name_en: Urban stone house of French inspiration, one or two levels plus attic, two-slope roof, chimneys in fire-break party walls
-  definition_en: The town house of the French regime — stone walls, one or two occupied levels under an inhabited attic, a straight two-slope roof, and chimney stacks carried up inside party walls raised as fire-breaks.
+  name_en: Urban stone house of French inspiration, one or two levels plus attic, two-slope roof, chimneys
+    in fire-break party walls
+  definition_en: The town house of the French regime — stone walls, one or two occupied levels under an inhabited
+    attic, a straight two-slope roof, and chimney stacks carried up inside party walls raised as fire-breaks.
   members: []
 - id: london-terrace-house
   name_en: London-type party-wall or row house, narrow deep plan, 2–4 bays with an end door, porte cochère
-  definition_en: The British-regime terrace house — narrow and deep on its lot, party walls, two to four bays with the door at one end of the façade, and a carriage passage through to the rear.
+  definition_en: The British-regime terrace house — narrow and deep on its lot, party walls, two to four bays
+    with the door at one end of the façade, and a carriage passage through to the rear.
   members: []
 - id: transition-franco-quebecoise
   name_en: Franco-Québécois transition house, high foundation, steep roof, massive chimney stacks
-  definition_en: The house between the French regime and the Québécois synthesis — the old steep roof and heavy chimneys carried on a raised foundation that lifts the living floor above the ground.
+  definition_en: The house between the French regime and the Québécois synthesis — the old steep roof and
+    heavy chimneys carried on a raised foundation that lifts the living floor above the ground.
   members: []
 - id: faubourg-house-1-1-5st
-  name_en: Rudimentary faubourg house, 1–1½ storeys, steep two-slope roof, three front openings with an end door
-  definition_en: The plain suburb house of the 19th-century faubourgs — one to one and a half storeys, a steep two-slope roof, and three openings on the front with the door at one end.
+  name_en: Rudimentary faubourg house, 1–1½ storeys, steep two-slope roof, three front openings with an end
+    door
+  definition_en: The plain suburb house of the 19th-century faubourgs — one to one and a half storeys, a steep
+    two-slope roof, and three openings on the front with the door at one end.
   members: []
 - id: faubourg-house-flat-roof
-  name_en: Flat-roofed faubourg house, party-wall multi-unit filling the full lot width, porte cochère, ornamented crown
-  definition_en: The densifying successor to the gabled faubourg house — a party-wall building of flats filling its lot from side to side, pierced by a carriage arch, with its ornament gathered at the crown.
+  name_en: Flat-roofed faubourg house, party-wall multi-unit filling the full lot width, porte cochère, ornamented
+    crown
+  definition_en: The densifying successor to the gabled faubourg house — a party-wall building of flats filling
+    its lot from side to side, pierced by a carriage arch, with its ornament gathered at the crown.
   members: []
 - id: boomtown-false-front
   name_en: Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown
-  definition_en: The fast balloon-framed building of the boom years — a flat or barely sloping roof hidden behind a raised cornice or parapet that makes the front taller than the building behind it.
+  definition_en: The fast balloon-framed building of the boom years — a flat or barely sloping roof hidden
+    behind a raised cornice or parapet that makes the front taller than the building behind it.
   members: []
 - id: plex-superposed-units
   name_en: Plex — superposed dwellings with independent entries by exterior or interior stairs, flat roof
-  definition_en: Two or more dwellings stacked one above another under a flat roof, each reached by its own entrance from the street, by an exterior or an interior stair.
+    (earlier name)
+  definition_en: Two or more dwellings stacked one above another under a flat roof, each reached by its own
+    entrance from the street, by an exterior or an interior stair.
   members: []
+  alias_of: plex-family
 - id: apartment-block-central-stair
-  name_en: Apartment block with a tripartite façade and a central stairwell serving four to eight or more units
-  definition_en: The purpose-built apartment building of the early 20th century — a tripartite front and one central stair serving all the flats, rather than a separate door per dwelling.
+  name_en: Apartment block with a tripartite façade and a central stairwell serving four to eight or more
+    units
+  definition_en: The purpose-built apartment building of the early 20th century — a tripartite front and one
+    central stair serving all the flats, rather than a separate door per dwelling.
   members: []
 - id: industrial-vernacular-cottage
   name_en: Industrial-vernacular cottage, 1½–2½ storeys, rectangular/L/T plan, straight two-slope roof
-  definition_en: The standard workers' cottage of the industrial era, built from milled and catalogued parts on a rectangular, L- or T-shaped plan under a straight two-slope roof.
+  definition_en: The standard workers' cottage of the industrial era, built from milled and catalogued parts
+    on a rectangular, L- or T-shaped plan under a straight two-slope roof.
   members: []
 - id: bourg-vernacular-house-small
   name_en: Small-gabarit village house of an 18th–19th-century bourg, wood or brick, tin roof, minimal setback
-  definition_en: The modest house of an old village core — small in height and width, clad in wood or brick under a tin roof, and set close enough to the street to build a continuous frontage.
+  definition_en: The modest house of an old village core — small in height and width, clad in wood or brick
+    under a tin roof, and set close enough to the street to build a continuous frontage.
   members: []
 - id: maison-cossue-ornamented
-  name_en: Opulent village house (maison cossue) in stone or brick with elaborate ornamentation, deep setback and ornamental fence
-  definition_en: The merchant's or notable's house of a village high street — masonry, elaborately ornamented, set well back behind an ornamental fence and mature trees.
+  name_en: Opulent village house (maison cossue) in stone or brick with elaborate ornamentation, deep setback
+    and ornamental fence
+  definition_en: The merchant's or notable's house of a village high street — masonry, elaborately ornamented,
+    set well back behind an ornamental fence and mature trees.
   members: []
 - id: regency-cottage-hipped-veranda
   name_en: Regency cottage — low hipped roof whose eaves extend to cover a wrap-around veranda
-  definition_en: The Regency villégiature cottage — a low hipped roof whose eaves are carried outward to roof a veranda running around the house.
+  definition_en: The Regency villégiature cottage — a low hipped roof whose eaves are carried outward to roof
+    a veranda running around the house.
   members: []
 - id: wartime-housing-1940s
-  name_en: Wartime Housing dwelling, 1940s–60s, minimal detached
-  definition_en: The minimal detached house built to Wartime Housing Limited's standard plans and their post-war successors.
+  name_en: Wartime Housing dwelling, 1940s–60s, minimal detached (earlier name)
+  definition_en: The minimal detached house built to Wartime Housing Limited's standard plans and their post-war
+    successors.
   members: []
-# ---- Part 9a additions ----
+  alias_of: veterans-house-nha
 - id: quebec-regionalist-revival-house
-  name_en: Régionalisme québécois house — a 1910–1945 revival of French-regime and Norman rural forms, steep shingled roof, fire-break gable walls
-  definition_en: An interwar revival that deliberately quotes the French-regime rural house — a steep shingled roof, fire-break gable walls, stone or stucco — built new rather than survived.
+  name_en: Régionalisme québécois house — a 1910–1945 revival of French-regime and Norman rural forms, steep
+    shingled roof, fire-break gable walls
+  definition_en: An interwar revival that deliberately quotes the French-regime rural house — a steep shingled
+    roof, fire-break gable walls, stone or stucco — built new rather than survived.
   members: []
 - id: arts-crafts-articulated-house
   name_en: Arts and Crafts house with articulated plan, wide overhanging eaves and exposed structural members
-  definition_en: A house whose plan breaks into wings and sheltered outdoor rooms under deep eaves, with its structure — rafters, brackets, half-timbering — left visible as the ornament.
+  definition_en: A house whose plan breaks into wings and sheltered outdoor rooms under deep eaves, with its
+    structure — rafters, brackets, half-timbering — left visible as the ornament.
   members: []
 - id: industrial-vernacular-group
   name_en: Maison vernaculaire industrielle (group — cubique, cottage vernaculaire, Boomtown)
-  definition_en: >-
-    A parent grouping, not a building shape. Québec's sources disagree about the level of this
-    thing: the Île d'Orléans inventory and the Lévis catalogue treat cubique, cottage vernaculaire
-    américain and Boomtown as three top-level courants, while the Charlesbourg plan de conservation
-    and the Ville de Québec thésaurus nest all three under one parent. This id carries the parent
-    reading so both are visible; the child forms carry the shapes.
+  definition_en: 'A parent grouping, not a building shape. Québec''s sources disagree about the level of this
+    thing: the Île d''Orléans inventory and the Lévis catalogue treat cubique, cottage vernaculaire américain
+    and Boomtown as three top-level courants, while the Charlesbourg plan de conservation and the Ville de
+    Québec thésaurus nest all three under one parent. This id carries the parent reading so both are visible;
+    the child forms carry the shapes.'
   members: []
 - id: modern-detached-house
   name_en: Detached modern house — free plan, flat or sculptural roof, ribbon or large glazed openings
-  definition_en: >-
-    The modern movement applied to a house rather than to a block: a free plan throwing off varied
-    volumes, a flat or sculptural roof, wide or ribbon glazing, and materials left expressive in
-    place of ornament. Distinct from the slab and the tower, which are collective buildings.
+  definition_en: 'The modern movement applied to a house rather than to a block: a free plan throwing off
+    varied volumes, a flat or sculptural roof, wide or ribbon glazing, and materials left expressive in place
+    of ornament. Distinct from the slab and the tower, which are collective buildings.'
+  members: []
+- id: plex-family
+  name_en: Plex — the Montréal family of two to six stacked dwellings on a narrow lot
+  definition_en: 'Montréal''s defining housing family: two to six dwellings stacked on a narrow lot, each
+    with its own front door, under a flat roof. The Sud-Ouest typo-morphological study defines the family
+    in one line — « Ces immeubles possèdent de deux à six logements » — and the members differ by dwelling
+    count, by whether the stair to the upper doors is inside or outside, and by whether the ground floor is
+    raised.'
+  is_group: true
+  children:
+  - duplex-interior-stair
+  - duplex-exterior-stair
+  - duplex-raised
+  - duplex-three-storey
+  - triplex-interior-stair
+  - triplex-exterior-stair
+  - multiplex-4-6
+  members: []
+- id: duplex-interior-stair
+  name_en: Duplex with interior stair, flat roof
+  definition_en: Two stacked dwellings whose upper door is reached by a stair inside the building.
+  members: []
+- id: duplex-exterior-stair
+  name_en: Duplex with exterior stair, flat roof, front setback
+  definition_en: Two stacked dwellings with the upper door reached by a stair climbing the front setback.
+  members: []
+- id: duplex-raised
+  name_en: Raised duplex — ground floor lifted clear of the ground
+  definition_en: A duplex whose lower dwelling sits well above grade, so both doors are reached by steps.
+  members: []
+- id: duplex-three-storey
+  name_en: Three-storey duplex
+  definition_en: Two dwellings distributed over three occupied levels rather than two.
+  members: []
+- id: triplex-interior-stair
+  name_en: Triplex with interior stair, flat roof
+  definition_en: Three stacked dwellings served by a stair inside the building.
+  members: []
+- id: multiplex-4-6
+  name_en: Multiplex of four to six dwellings
+  definition_en: The upper end of the plex family — four to six dwellings, still with individual entrances.
+  members: []
+- id: shoebox-uniplex
+  name_en: Maison shoebox — one-storey flat-roofed rectangular house set perpendicular to the street, built
+    to be extended upward
+  definition_en: A single-storey flat-roofed house on a narrow rectangular plan set end-on to the street,
+    built small and cheap by its owner and designed from the start to be built over later. The one self-built
+    type on this site.
+  members: []
+- id: apartment-house-common-hall
+  name_en: Maison d'appartements / conciergerie — a block with a common hall serving six to twelve dwellings
+  definition_en: 'The point at which the plex stops: one shared entrance hall instead of a door per dwelling.
+    The Sud-Ouest study draws the line explicitly — « un hall d''entrée commun qui dessert de six à douze
+    logements ».'
+  members: []
+- id: veterans-house-nha
+  name_en: Wartime or veterans' house, 1½ storeys, to Wartime Housing Limited or NHA plans
+  definition_en: The minimal 1½-storey detached house built to Wartime Housing Limited's standard plans and
+    their National Housing Act successors.
   members: []

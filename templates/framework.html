@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block body %}
+<header><div class="wrap">
+  <div class="kicker">{{ rec.kicker|esc }}</div>
+  <h1>{{ rec.title|esc }}</h1>
+  <p class="lede">{{ rec.lede }}</p>
+</div></header>
+<main><div class="wrap"><div class="prose">
+  {% for b in rec.blocks %}
+  <h2>{{ b.heading|esc }}</h2>
+  {% for p in b.paragraphs or [] %}<p>{{ p }}</p>{% endfor %}
+  {% if b.quote %}<blockquote class="frv" lang="fr">{{ b.quote|esc }}</blockquote>{% endif %}
+  {% if b.list %}<ul>{% for i in b.list %}<li>{{ i }}</li>{% endfor %}</ul>{% endif %}
+  {% if b.table %}
+  <div class="tablewrap"><table class="members">
+    <thead><tr>{% for h in b.table.columns %}<th>{{ h|esc }}</th>{% endfor %}</tr></thead>
+    <tbody>{% for r in b.table.rows %}<tr>{% for cell in r %}<td>{{ cell }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+  </table></div>
+  {% endif %}
+  {% endfor %}
+</div></div></main>
+{% endblock %}

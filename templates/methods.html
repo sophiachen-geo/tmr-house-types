@@ -59,6 +59,14 @@
     <li><code>sectors[].promoted_to_place</code> and <code>sectors[].value: parcel-system</code> — the first for a sector that also has a place record of its own, rendered as a link rather than duplicated; the second for Charlesbourg's <em>réserve</em>, <em>commune</em> and <em>ceinture</em>, which are elements of a land division rather than heritage rankings (Part 9a).</li>
     <li>Section <code>rural-seigneurial</code>, and roof form <code>gabled-or-hipped-steep</code> for the Île d'Orléans French-regime roof, which its inventory describes as two straight slopes <em>or</em> hipped, over 45° either way (Part 9a).</li>
   </ul>
+  {% if frameworks or topics %}
+  <h2>Frameworks and topics</h2>
+  <p>Two kinds of page that belong to no single place. A <em>framework</em> explains how one documentary series works — its code grammar, its categories, its method — so that every place drawing on it can point at one explanation instead of repeating it. A <em>topic</em> does the same for a single building element whose story is shared across places.</p>
+  <ul>
+    {% for f in frameworks %}<li><a href="{{ R }}frameworks/{{ f.id }}/">{{ f.title|esc }}</a> — {{ f.kicker|esc }}</li>{% endfor %}
+    {% for t in topics %}<li><a href="{{ R }}topics/{{ t.id }}/">{{ t.title|esc }}</a> — {{ t.kicker|esc }}</li>{% endfor %}
+  </ul>
+  {% endif %}
   <h2>When an absorbed municipality becomes a place of its own</h2>
   <p>Three places here — Trois-Rivières, Lévis and Québec City — absorbed other municipalities in the 2002 mergers, and this site does not treat the absorbed ones consistently. It cannot: the sources do not. The rule adopted is <strong>promote a merged entity to its own place when a distinct typological source exists for it, and otherwise keep it as a sector</strong>. Charlesbourg is the case that meets the test — it has been inside Ville de Québec since 2002 and is still a sector of the Québec City page, but the ministerial <em>plan de conservation</em> publishes a five-type residential typology for it that the City's thésaurus does not, so it also has a place record, and the sector row links there instead of repeating it. Cap-de-la-Madeleine, Saint-Romuald and the rest have no such source and stay where they are. Stating the rule makes the inconsistency visible and deliberate rather than accidental.</p>
   <h2>Where Québec's own sources disagree about levels</h2>
