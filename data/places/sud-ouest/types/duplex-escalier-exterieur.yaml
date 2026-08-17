@@ -1,0 +1,159 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.duplex-escalier-exterieur
+place: sud-ouest
+page: 70
+phase: p4
+phase_confidence: verified
+name_en: Duplex with exterior stair
+name_fr: Le duplex avec escalier extérieur
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.2 — Le duplex avec escalier extérieur, printed p. 70
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+canonical:
+- duplex-exterior-stair
+- plex-family
+styles:
+- faubourg-vernacular
+tenure_plan: duplex
+storeys: 2
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 3.25
+setback_side_m: 0
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Contiguous, with a front margin of 2 to 4.5 m; the front façades generally form regular alignments.
+  - Front yards stay sober, sometimes with a low metal fence between yard and public realm.
+  - >-
+    Built at the same time as the triplex with exterior stair, from 1900 to 1945, in the sectors that
+    needed less density — furthest from downtown. Commonest in the aire de paysage Côte-Saint-Paul.
+  massing:
+  - A simple rectangular plan, two storeys, flat roof.
+  - The ground floor is raised two to four risers above grade.
+  - A balcony at the upper level, and under it a covered entrance porch at ground level.
+  - >-
+    An exterior stair reaches the upper dwelling; it is generally L-shaped, since the front margin is
+    not deep enough for a straight run.
+  articulation:
+  - The socle is barely expressed and generally formed by the exposed foundation.
+  - >-
+    The composition of the corps is symmetrical: the doors form the central vertical bay, the two flanking
+    bays a vertical alignment of windows.
+  - >-
+    The crowning varies — from a simple metal flashing to a moulded wood or metal cornice or a pedimented
+    parapet, sometimes a light eave.
+  openings:
+  - Sash or casement, with or without a transom, in a proportion of one width to half a height.
+  - Doors plain with a transom.
+  - >-
+    Lintels expressed as a cut-stone band or as a soldier course of brick, straight or in a segmental
+    arch.
+  materials:
+  - Rusticated stone at the socle.
+  - Brick dominant, with some buildings in rusticated stone.
+  - Wood balconies and stair treads, metal guards.
+profile_fr:
+  implantation:
+  - >-
+    Le duplex avec escalier extérieur est implanté de façon contiguë. Il possède une marge avant qui
+    varie de 2 à 4,5 mètres. L’implantation des façades avant forme généralement des alignements réguliers.
+    L’aménagement des cours avant demeure sobre et une clôture basse en métal est parfois présente pour
+    délimiter la cour de l’espace public.
+  volumetrie:
+  - >-
+    Ce bâtiment possède un plan de forme rectangulaire simple et 2 étages avec toit plat. Le rez-de-chaussée
+    y est surélevé de 2 à 4 contremarches par rapport au niveau du sol. On retrouve un balcon à l’étage
+    ainsi qu’un porche d’entrée couvert par ce balcon au rez-de-chaussée. Un escalier extérieur permet
+    l’accès au logement de l’étage. La forme de l’escalier est généralement en forme de « L » puisqu’il
+    donne accès au balcon latéralement.
+  materiaux:
+  - Le socle est composé de béton.
+  - >-
+    La brique est le matériau de revêtement dominant du corps de la façade pour ce type architectural.
+  - Les balcons sont en bois et les garde-corps des balcons et des escaliers sont en métal.
+  traitement_des_facades:
+  - Socle — Le socle est peu exprimé et généralement formé de la fondation apparente.
+  - >-
+    Corps — La composition du corps de la façade est symétrique. Les portes forment la travée verticale
+    centrale. Les 2 travées latérales sont constituées d’un alignement vertical de fenêtres.
+  - >-
+    Couronnement — La composition du couronnement est variée. On retrouve des couronnements simples
+    formés que d’un solin métallique, ainsi que des couronnements plus complexes constitués d’une corniche
+    moulurée en bois ou en métal ou d’un parapet à fronton. Parfois, un léger avant-toit peut aussi
+    marquer le couronnement.
+  ouvertures:
+  - >-
+    Le type de fenêtre est variable notamment en raison de la grande présence de fenêtres de remplacement.
+    La fenêtre à guillotine semble être la fenêtre dominante pour ce type de bâtiment. La proportion
+    dominante des fenêtres est de 1 largeur = ½ hauteur.
+  - Les portes sont simples et comportent généralement une imposte de faible hauteur.
+  - >-
+    Les linteaux sont droits et formés de briques en soldat ou de pierres. Sur certains bâtiments, les
+    linteaux sont en forme d’arc surbaissé.
+  description:
+  - >-
+    Le duplex avec escalier extérieur est un bâtiment de deux étages, implanté avec une marge de recul
+    avant de 2 à 4 mètres et sans marge latérale. Il possède deux logements superposés et le logement
+    de l’étage est accessible par un escalier extérieur disposé en façade.
+  contexte:
+  - >-
+    Le duplex avec escalier extérieur a été construit de façon simultanée au triplex avec escalier extérieur,
+    soit à partir de 1900 jusqu’à 1945, et ce dans les secteurs nécessitant moins de densité, donc plus
+    éloignés du centre-ville. C’est notamment dans l’aire de paysage Côte-Saint-Paul qu’il est le plus
+    fréquent.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — Duplex avec escalier extérieur asymétrique : Cette variante possède une composition
+    asymétrique des façades. L’alignement des portes est alors situé dans l’une des travées latérales.
+  - >-
+    Variante 2 — Duplex avec escalier extérieur à trois logements : Une autre variante est formée par
+    la présence de 3 logements. L’étage est alors subdivisé en deux. Cette variante affecte la composition
+    de la façade par la présence de portes à l’étage dans la travée centrale.
+profile_note: null
+variants: *id001
+example_addresses:
+- address: 1903-1905, rue Springland
+  note: the study's fiche example (SO0266) and its illustration of the type in the synthèse
+- address: 6959, rue Jogues
+  note: the study's example of variante 1, the asymmetrical duplex with exterior stair (SO0395)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 2.2 — Le duplex avec escalier extérieur est un bâtiment de deux étages, implanté avec
+    une marge de recul avant de 2 à 4 mètres… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  The triplex's smaller twin, built simultaneously and for the same reason, in the parts of the borough
+  that did not need three dwellings on a lot. Two storeys, flat roof, a setback of two to four and a
+  half metres, and an L-shaped stair climbing that setback because it is not deep enough for a straight
+  one — a detail the study records and which explains the curved and dog-legged stairs of Montréal better
+  than any folklore about snow.
+origin_en: >-
+  The study is explicit that this type and the triplex with exterior stair (2.6) are the same event:
+  <em>« Le duplex avec escalier extérieur a été construit de façon simultanée au triplex avec escalier
+  extérieur, soit à partir de 1900 jusqu’à 1945 »</em>. Density, not date, is what separates them.

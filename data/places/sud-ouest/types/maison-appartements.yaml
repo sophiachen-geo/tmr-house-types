@@ -1,0 +1,164 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.maison-appartements
+place: sud-ouest
+page: 92
+phase: p4
+phase_confidence: verified
+name_en: Apartment house
+name_fr: La maison d’appartements
+courant: 3. L'immeuble d'appartements
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 3.1 — La maison d’appartements, printed p. 92
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+canonical:
+- apartment-house-common-hall
+styles:
+- stripped-classicism
+- minimal-traditional
+tenure_plan: walk-up
+storeys: 2
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: square
+principal_cladding:
+- clay-brick
+- cut-stone
+roofing: asphalt shingle where a false roof is present
+garage: none
+lot_width_m: null
+setback_front_m: 3.5
+setback_side_m: 1.25
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Detached, semi-detached or contiguous. Front setback 2.5 to 4.5 m; where a side margin exists it
+    is 1 to 1.5 m.
+  - Façades align where the buildings are built in series.
+  - >-
+    Appears from the 1930s, straddling the end of the infrastructure period and the beginning of urban
+    renewal.
+  massing:
+  - >-
+    A simple rectangular plan, two storeys, ground floor raised five to six risers and reached by an
+    interior or an exterior stair.
+  - The entrance porch — and sometimes the stair cage — projects.
+  - Balconies are often aligned on each side of the façade.
+  - Generally four or six dwellings, all reached from one central interior stair.
+  articulation:
+  - >-
+    A symmetrical composition with the main entrance door at the centre, often with a tall opening above
+    it to light the stair cage, and a vertical alignment of balconies or windows on each side of the
+    central bay; the number of windows in each side alignment varies.
+  - >-
+    The exposed concrete foundation makes the socle, which may also take in the ground floor — clad
+    then in stone, so as to make a horizontal division with the brick above.
+  - >-
+    The crowning is simple, usually a metal flashing; a shallow eave or a false roof also occurs, and
+    where the stair volume projects it may be crowned with a gable.
+  openings:
+  - >-
+    Windows of varied types and proportions — casement or sash at one width to half a height, and square
+    or slightly horizontal openings, usually made of fixed and opening parts together.
+  - >-
+    The ground-floor entrance door is single or double, without a transom but sometimes with sidelights,
+    and often under a marquise or a shallow eave.
+  materials:
+  - Concrete at the socle.
+  - Brick the dominant cladding, with stone possible at the ground floor.
+  - False roofs, where present, in asphalt shingle.
+profile_fr:
+  implantation:
+  - >-
+    La maison d’appartements peut être isolée, semi-détachée ou contiguë. La marge de recul avant varie
+    de 2,5 à 4,5 mètres. Lorsque présente, la marge latérale varie de 1 à 1,5 mètre. L’alignement des
+    façades est présent pour les bâtiments construits en série.
+  volumetrie:
+  - >-
+    Les bâtiments possèdent un plan de forme rectangulaire simple. La hauteur est de deux étages avec
+    une surélévation du rez-de-chaussée de cinq à six contremarches. Le niveau du rez-de-chaussée est
+    accessible par un escalier intérieur ou extérieur. Le porche d’entrée et parfois la cage d’escalier
+    sont en saillie. Des balcons sont souvent alignés sur chaque côté de la façade.
+  materiaux:
+  - Le socle est en béton.
+  - >-
+    La brique est le matériau de revêtement dominant. La pierre peut être utilisée comme matériau de
+    revêtement au rez-de-chaussée.
+  - Lorsque présentes, les fausses toitures sont revêtues de bardeaux d’asphalte.
+  traitement_des_facades:
+  - >-
+    Socle — La fondation en béton est apparente. Le socle peut également inclure le rez-de-chaussée.
+    Celui-ci est alors revêtu de pierre ce qui crée une division horizontale avec le reste de la façade
+    qui est revêtu de briques.
+  - >-
+    Corps — Ces bâtiments possèdent une composition symétrique dans laquelle la porte d’accès principale
+    est située au centre. Une ouverture allongée surmonte souvent cette porte afin d’éclairer la cage
+    d’escalier. Un alignement vertical de balcons ou de fenêtres est présent de chaque côté de la travée
+    centrale. Le nombre de fenêtres dans chacun de ces alignements latéraux est variable.
+  - >-
+    Couronnement — Le couronnement est simple et habituellement composé d’un simple solin métallique.
+    On peut également retrouver un avant-toit peu proéminent ou une fausse toiture. Lorsque le volume
+    de l’escalier est en saillie, il peut être couronné d’un pignon.
+  ouvertures:
+  - >-
+    Les fenêtres sont de types et proportions variés. On retrouve des fenêtres à battants ou à guillotine
+    dont les proportions sont 1 largeur = ½ hauteur de même que des fenêtres de proportion carrée ou
+    légèrement horizontale. Ces fenêtres sont habituellement composées de parties fixes et mobiles.
+  - >-
+    La porte d’entrée du rez-de-chaussée est simple ou double. Elle n’est pas surmontée d’une imposte
+    mais peut être accompagnée de fenêtres latérales. On retrouve parfois une marquise ou un avant-toit
+    afin de protéger l’entrée. Les portes des balcons sont des portes simples ou de type porte-fenêtre.
+  description:
+  - >-
+    La maison d’appartements est un bâtiment de deux étages qui compte généralement quatre ou six logements
+    et un escalier central intérieur commun qui permet d’accéder à tous les logements. Bien qu’il soit
+    implanté avec une marge de recul avant, il peut être isolé, semi-détaché ou contigu.
+  contexte:
+  - >-
+    La maison d’appartements voit le jour à partir des années 1930. Sa construction chevauche donc la
+    fin de la période dite de création des infrastructures municipales (1875-1945) et le début de la
+    période dite de revitalisation et de rénovation urbaine (1945 à nos jours). Cet immeuble à logements
+    se différencie du plex par la présence d’un escalier commun intérieur pour accéder aux logements.
+profile_note: null
+example_addresses:
+- address: 6661-6667, rue Hurteau
+  note: >-
+    the study's fiche example of the type (SO0321), and the same building it uses to illustrate the
+    type in the synthèse du développement
+- address: west side of rue Beaulieu, near rue Allard
+  note: >-
+    the study's example of an apartment house whose projecting stair volume is crowned with a gable
+    (SO0244)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 3.1 — La maison d’appartements est un bâtiment de deux étages qui compte généralement
+    quatre ou six logements et un escalier c… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  The point at which the plex stops. Two storeys, four or six dwellings, and a single central interior
+  stair reaching all of them — « Cet immeuble à logements se différencie du plex par la présence d’un
+  escalier commun intérieur pour accéder aux logements ». It arrives in the 1930s, and it is the only
+  Sud-Ouest type whose definition is drawn by negation from another type on the same page.
+origin_en: >-
+  First of the three members of the study's family 3, <em>L'immeuble d'appartements</em>, which the
+  PIIA by-law summarises in one sentence that this site takes as the definition of the canonical form:
+  <em>« L’immeuble d’appartements, aussi nommé édifice de rapport, est construit entre les deux guerres
+  le long de boulevards ou d’avenues prestigieuses. Ce bâtiment possède un hall d’entrée commun qui
+  dessert de six à douze logements. »</em>

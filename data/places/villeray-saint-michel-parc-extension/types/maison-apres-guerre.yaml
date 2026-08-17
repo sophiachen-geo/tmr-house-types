@@ -1,0 +1,116 @@
+id: villeray-saint-michel-parc-extension.maison-apres-guerre
+place: villeray-saint-michel-parc-extension
+page: 35
+phase: p4
+phase_confidence: verified
+name_en: Post-war house
+name_fr: Maison d'après-guerre
+source_ref: "Règlement 01-283-124, Annexe F, fiche 1.5"
+source_generation: >-
+  By-law Annexe F, fiche 1.5, pp. 1.5.1 to 1.5.5, transcribed verbatim; the zone codes are the
+  by-law's own
+sectors: [14.I.5, 14.U.1, PE-WH-1]
+canonical:
+  - veterans-house-nha
+styles:
+  - wartime-housing
+  - minimal-traditional
+tenure_plan: single-family
+storeys: 1
+roof: {form: gabled, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - stone
+  - wood-clapboard
+roofing: null
+garage: detached-or-set-back
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Maison d'après-guerre avec lucarne
+    summary_fr: "Cette maison d’après-guerre est généralement implantée de façon jumelée et présente une petite lucarne en toiture. La porte d’entrée et la lucarne sont positionnées de façon centrale et la toiture présente un coin tronqué. Les façades sont revêtues d’un parement de brique d’argile rouge."
+  - code: B
+    name_fr: Maison d'après-guerre avec volume en avancée
+    summary_fr: "Cette maison d’après-guerre présente un volume en avancée surmonté d’une toiture à pignon. La porte d’entrée y est située et est accessible par un perron, généralement de même largeur que le volume en avancée. Selon la zone, les parements et revêtements autorisés sont les suivants. • H02-096 : brique, pierre et revêtement léger • H03-081, H03-085, H03-125 et H03-131 : revêtement léger"
+    zones: [H02-096, H03-081, H03-085, H03-125, H03-131]
+  - code: C
+    name_fr: Maison d'après-guerre avec volume en avancée et lucarne
+    summary_fr: "Cette maison d’après-guerre est située dans les zones H03-049 et H03-034. Elle présente un volume en avancée surmonté d’une toiture à pignon. La porte d’entrée y est située et est accessible par un perron, généralement de même largeur que le volume en avancée. La maison est implantée de façon jumelée, revêtue de brique d’argile rouge et d’un clin posé à l’horizontale. Une lucarne large est présente sur le pan de toiture avant."
+    zones: [H03-049, H03-034]
+  - code: D
+    name_fr: Maison d'après-guerre étroite
+    summary_fr: "Cette maison d’après-guerre est située dans la zone H01-016 et présente une volumétrie étroite et profonde. Elle comporte une seule fenêtre, grande et de proportions horizontales, en façade. Son parement est en brique d’argile et présente peu d’ornementation, à l’exception du chambranle en pierre de la porte d’entrée."
+    zones: [H01-016]
+  - code: E
+    name_fr: Maison d'après-guerre avec toiture à deux versants, ligne faîtière perpendiculaire à la rue
+    summary_fr: "Cette maison d’après-guerre se distingue par sa toiture à deux versants, dont la ligne faîtière est perpendiculaire à la rue. Le corps du bâtiment est paré de brique d’argile et le pignon de la toiture, d’un revêtement léger. La porte est centrale et encadrée de deux fenêtres carrées."
+profile:
+  siting_landscape:
+    - Generally small and set detached on a lot of reasonably good size, creating large front, side and rear margins.
+    - A garage and a driveway may adjoin the building.
+  massing:
+    - A compact volume, one storey above ground with the habitable rooms carried into the attic — the 1½-storey section.
+    - The ground floor is slightly raised above street level, leaving the base course visible.
+    - A two-slope roof with no dormer, its ridge parallel to the street.
+    - A single-storey garage of low height may have been built at the same time as the house.
+  articulation:
+    - The front door is near a side wall and is reached by a perron — not central, unlike almost every other type in this by-law.
+    - Variants A and C add a dormer and re-centre the door; variant E centres it between two square windows.
+  openings:
+    - Two windows of different sizes on the façade.
+  materials:
+    - Exterior claddings may be brick, stone, or horizontally laid clapboard.
+    - Variants B and C tie the permitted claddings to named zones, so the material rule for this type is not uniform across the borough.
+profile_fr:
+  contexte:
+    - "Les maisons d'après-guerre ont été construites à partir des années 1950, sur les modèles de maisons de la Wartime Housing Limited. Cette typologie a vu le jour pendant la Seconde Guerre mondiale, pour répondre à la crise du logement qui sévit pendant cette période. Elle a ensuite été adoptée par plusieurs développeurs cherchant à attirer les familles en quête de maisons individuelles à un prix abordable."
+  implantation:
+    - "La maison d'après-guerre est généralement de petite taille et implantée de façon isolée sur un lot d’assez bonnes dimensions, créant ainsi d’importantes marges avant, latérales et arrière. Un garage et une allée véhiculaire peuvent être attenants au bâtiment."
+  volumetrie:
+    - "La résidence présente une volumétrie compacte, avec un étage hors sol et des espaces habitables situés dans les combles. Le rez-de-chaussée est légèrement surélevé par rapport à la rue, laissant le soubassement visible. Le toit à deux versants ne comporte aucune lucarne, et sa ligne faîtière est parallèle à la rue. Un garage d’un étage et de faible hauteur peut avoir été construit en même temps que la résidence."
+  traitement_des_facades:
+    - "La porte d’entrée de la maison est située près d’un mur latéral et est accessible par un perron. Deux fenêtres de dimensions différentes sont présentes sur la façade. Les revêtements extérieurs peuvent être en brique, en pierre ou en clin posé à l’horizontale."
+  sous_variantes:
+    - "A — MAISON D’APRÈS-GUERRE AVEC LUCARNE. Cette maison d’après-guerre est généralement implantée de façon jumelée et présente une petite lucarne en toiture. La porte d’entrée et la lucarne sont positionnées de façon centrale et la toiture présente un coin tronqué. Les façades sont revêtues d’un parement de brique d’argile rouge."
+    - "B — MAISON D’APRÈS-GUERRE AVEC VOLUME EN AVANCÉE. […] Selon la zone, les parements et revêtements autorisés sont les suivants. • H02-096 : brique, pierre et revêtement léger • H03-081, H03-085, H03-125 et H03-131 : revêtement léger"
+    - "C — MAISON D’APRÈS-GUERRE AVEC VOLUME EN AVANCÉE ET LUCARNE. Cette maison d’après-guerre est située dans les zones H03-049 et H03-034. […] La maison est implantée de façon jumelée, revêtue de brique d’argile rouge et d’un clin posé à l’horizontale. Une lucarne large est présente sur le pan de toiture avant."
+    - "D — MAISON D’APRÈS-GUERRE ÉTROITE. Cette maison d’après-guerre est située dans la zone H01-016 et présente une volumétrie étroite et profonde. Elle comporte une seule fenêtre, grande et de proportions horizontales, en façade."
+    - "E — MAISON D’APRÈS-GUERRE AVEC TOITURE À DEUX VERSANTS, LIGNE FAÎTIÈRE PERPENDICULAIRE À LA RUE. […] Le corps du bâtiment est paré de brique d’argile et le pignon de la toiture, d’un revêtement léger. La porte est centrale et encadrée de deux fenêtres carrées."
+profile_note: >-
+  <strong>The fiche where the by-law stops describing and starts zoning.</strong> Three of its five
+  variants name the zones they apply in — B in H02-096, H03-081, H03-085, H03-125 and H03-131; C in
+  H03-049 and H03-034; D in H01-016 — and variant B goes further, setting a different list of
+  permitted claddings for H02-096 (brick, stone and light cladding) than for the four H03 zones
+  (light cladding only). That is a typology annexe operating as a material schedule, keyed to a map,
+  and it is the sharpest instance in this record of a type description carrying direct regulatory
+  force. Note also that the base typology puts the front door near a side wall, which sets it apart
+  from the shoebox, the boomtown and the bungalow, all of which centre it; three of the five variants
+  then move it back to the middle. The Évaluation cahier's 14.I.5 Rousselot – Tillemont describes
+  built examples of this type in 1951 — « les maisons d'un étage et demi sont recouvertes de
+  maçonnerie et ont un porche au centre de la façade principale » — which reads as the cahier
+  observing variant A on the ground seventeen years before the by-law drew it.
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, pp. 1.5.2 and 1.5.4–1.5.5 — elevation drawings of the typologie
+      de base and of variants A to E. © Ville de Montréal. Not reproduced. No freely-licensed
+      photograph of a VSP wartime or post-war house was identified on Wikimedia Commons in this pass.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  The Wartime Housing Limited model, built here from the 1950s by developers rather than by the
+  Crown: a small compact 1½-storey house standing free on a generous lot, its ground floor lifted
+  just clear of grade, a plain two-slope roof with the ridge along the street and no dormer, and the
+  front door set off to one side. Five variants, three of them tied to named zones.
+origin_en: >-
+  Wartime and veterans' housing recurs across this site — Lévis, Sud-Ouest, Verdun's Crawford Park,
+  and here. What this borough contributes is the sequence from observation to rule. The 2005
+  Évaluation cahier had recorded three post-war ensembles (14.I.5, 14.U.1, 14.U.3), noted that
+  developers took the federal model up commercially, and recommended studying such groups and
+  developing tools for them; the by-law's fiche 1.5 is what that recommendation turned into — a
+  drawn type with five variants and a cladding schedule by zone.

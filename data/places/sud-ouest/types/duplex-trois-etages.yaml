@@ -1,0 +1,209 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.duplex-trois-etages
+place: sud-ouest
+page: 75
+phase: p3
+phase_confidence: verified
+name_en: Three-storey duplex
+name_fr: Le duplex de trois étages
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.4 — Le duplex de trois étages, printed p. 75
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- 22.E.4
+- AIRE-2
+- AIRE-5
+canonical:
+- duplex-three-storey
+- plex-family
+styles:
+- second-empire
+- victorian-eclectic
+tenure_plan: duplex
+storeys: 3
+roof:
+  form: false-mansard
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- stone-rusticated
+roofing: slate or sheet metal on the false mansard, often replaced by asphalt shingle
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - Built almost everywhere in the borough except the aire de paysage Côte-Saint-Paul.
+  - >-
+    Dominantly contiguous and with no front setback. Where there is one it exists to take an exterior
+    stair up to the ground floor.
+  - >-
+    In alignment, unless built independently of its neighbours; the shallow setback means no landscaping
+    is characteristic of the type.
+  massing:
+  - A rectangular body of three storeys, generally with a false mansard.
+  - The ground floor is raised three risers, or up to eight where there is a front setback.
+  - Balconies, where present, are on the first floor above the entrance doors.
+  - Projecting windows on every level occur only on buildings with a setback.
+  articulation:
+  - >-
+    The dominant composition is asymmetrical, on two vertical bays: the first aligning the paired ground-floor
+    doors with the windows above, sometimes with a first-floor balcony; the second windows only, and
+    it is there that the projecting windows sit.
+  - >-
+    The socle is one to three courses of stone, and the top course is sometimes of a different texture
+    so as to make a horizontal band between socle and corps; where the whole façade is stone, the texture
+    or block size changes at the same line.
+  - >-
+    The crowning is a false mansard over a moulded cornice on modillions or consoles, its dormers varied
+    in shape and more or less ornamented.
+  - >-
+    Buildings of the 1825–1875 period are soberer; those of the first third of 1875–1945 use stone more
+    often, with more complex ornament and a marked raising of the ground floor.
+  openings:
+  - Sash or casement with a transom, one width to half a height.
+  - Doors generally plain or paired, with a transom.
+  - >-
+    Surrounds are a straight stone lintel or a brick flat-arch in a segmental curve; rusticated-stone
+    buildings get a complete cut-stone surround, and on the more ornamented buildings the lintel is
+    absorbed into a horizontal band.
+  materials:
+  - Generally rusticated stone at the socle, sometimes cut stone.
+  - Brick dominant, with some three-storey duplexes clad in rusticated stone.
+  - False mansards originally slate or sheet metal, often replaced by asphalt shingle.
+  - Balconies and stairs generally wood with metal guards.
+profile_fr:
+  implantation:
+  - >-
+    L’implantation dominante est contiguë et sans marge de recul avant. Lorsqu’une marge de recul avant
+    est présente, elle permet généralement l’insertion d’un escalier d’accès extérieur pour le rez-de-chaussée.
+    Le duplex de trois étages est implanté en alignement sauf s’il est construit indépendamment des
+    bâtiments voisins. En raison de la faible marge de recul avant, aucun aménagement paysager n’est
+    caractéristique de ce type de bâtiment.
+  volumetrie:
+  - >-
+    Le duplex de trois étages possède un corps de bâti rectangulaire de 3 étages. On remarque généralement
+    la présence d’une fausse mansarde. Le rez-de-chaussée est surélevé de 3 contremarches sauf s’il
+    y a présence d’une marge de recul avant. Le rez-de-chaussée peut alors être surélevé jusqu’à 8 contremarches.
+    Lorsque présents, les balcons sont situés au premier étage, au-dessus des portes d’entrée. Les fenêtres
+    en saillie sur tous les niveaux sont présentes uniquement sur les bâtiments implantés avec une marge
+    de recul avant.
+  materiaux:
+  - Le socle est généralement revêtu de pierres à bossages et parfois de pierres de taille
+  - >-
+    La brique est le matériau de revêtement dominant. On retrouve toutefois quelques duplex de trois
+    étages revêtus de pierres à bossages. Les fausses mansardes étaient originellement revêtues d’ardoise
+    ou de tôle mais ces matériaux ont souvent été remplacés par du bardeau d’asphalte.
+  - Les balcons et escaliers sont généralement en bois avec des garde-corps en métal.
+  traitement_des_facades:
+  - >-
+    Socle — Le socle est composé de un à trois rangs de pierres. Sur certains bâtiments, le rang de
+    pierre supérieur peut être d’une texture différente que les rangs inférieurs de manière à créer
+    un bandeau horizontal entre le socle et le corps du bâtiment. De même, lorsque toute la façade est
+    en pierre, on remarque généralement un changement de texture et/ou de taille des blocs de pierre
+    entre le socle et le corps de la façade.
+  - >-
+    Corps — Le mode de composition dominant pour le corps de la façade est asymétrique et formé de deux
+    travées verticales. La première travée est formée d’un alignement des portes jumelées au rez-de-chaussée
+    et des fenêtres aux étages. Il est possible d’y observer la présence d’un balcon au premier étage.
+    La deuxième travée est formée uniquement d’un alignement vertical de fenêtres. C’est là que l’on
+    retrouve les fenêtres en saillie lorsque le bâtiment est implanté avec une marge de recul avant.
+  - >-
+    Couronnement — Le couronnement est formé d’une fausse mansarde et d’une corniche moulurée à modillons
+    ou à consoles sous la mansarde. Les lucarnes de la fausse mansarde sont de formes diversifiées et
+    plus ou moins ornementées selon les cas.
+  ouvertures:
+  - >-
+    Les ouvertures dominantes sont à guillotine ou à battants avec imposte. Leur proportion sont de
+    1 largeur = ½ hauteur.
+  - Les portes sont généralement simples ou jumelées et possèdent une imposte.
+  - >-
+    Les encadrements des ouvertures sont composés d’un linteau droit en pierre ou d’une platebande en
+    brique formant un arc surbaissé. Pour les bâtiments revêtus de pierres à bossages, on retrouve un
+    encadrement complet en pierre de taille. Sur certains bâtiments plus ornementés, le linteau est
+    intégré à un bandeau horizontal.
+  description:
+  - >-
+    Le duplex de trois étages est un bâtiment qui possède deux logements de un ou deux étages chacun.
+    Le toit en fausse mansarde est caractéristique de ce type de bâtiment. Les caractéristiques qui
+    peuvent varier sont la présence ou l’absence d’une marge de recul avant, l’utilisation de la brique
+    ou de la pierre comme matériau de revêtement principal et la présence d’une fenêtre en saillie.
+  contexte:
+  - >-
+    Ce type de bâtiment a été construit un peu partout dans l’arrondissement du Sud-Ouest, sauf dans
+    l’aire de paysage Côte-Saint-Paul. Les bâtiments de ce type, construits dans la période historique
+    dite d’industrialisation (1825-1875), sont souvent plus sobres que ceux construits dans le premier
+    tiers de la période dite de création des infrastructures municipales (1875-1945) qui possèdent plus
+    fréquemment la pierre comme matériau de revêtement, des détails ornementaux plus complexes et une
+    surélévation marquée du rez-de-chaussée par rapport au niveau du sol.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — Le duplex de trois étages avec porte cochère : En raison de l’absence de ruelle dans
+    plusieurs secteurs, la porte cochère permet l’accès à la cour arrière. La porte cochère est souvent
+    présente au centre de deux duplex de trois étages jumelés. Ainsi, la composition de la façade est
+    la même que celle décrite précédemment mais une travée verticale supplémentaire est ajoutée entre
+    les deux bâtiments. Il est à noter que la construction en série du duplex de trois étages peut amener
+    la construction d’une seule porte cochère pour plusieurs bâtiments tel que l’illustre l’ensemble
+    situé sur la rue de la Montagne (fig. 2.4.6).
+  - >-
+    Variante 2 — Triplex avec toit en fausse mansarde : Le duplex de trois étages possède généralement
+    deux logements. Dans de rares cas, un troisième logement s’y insère, ce qui peut être observé soit
+    par l’utilisation commune de l’une des portes d’accès du rez-de-chaussée, soit par l’ajout d’une
+    troisième porte. Dans ce deuxième cas, la composition de la façade s’en trouve modifiée. Les possibilités
+    de regroupement des portes et d’alignement des ouvertures sont alors nombreuses. Les figures 2.4.7
+    et 2.4.8 représentent deux exemples différents de regroupement. Cette variante pourrait également
+    être identifiée comme une variante à fausse mansarde du triplex avec escalier intérieur (type architectural
+    2.5).
+profile_note: >-
+  The Évaluation cahier's sector 22.E.4 Place Richmond describes what is visibly this type's gauge,
+  and calls its dwellings single-family: « La place regroupe un bel ensemble de maisons unifamiliales
+  de trois étages en brique, au décor sobre et élégant et avec toits mansards, lucarnes et escaliers
+  extérieurs. L’ensemble est d’une grande cohérence. » The typo-morphological study has no single-family
+  three-storey type; its three-storey forms are this duplex and the triplexes. Which document is right
+  about the dwelling count on place Richmond is not settled here — both are recorded, because the disagreement
+  is between two arms of the same borough eight years apart, and because the combination the cahier
+  reports (one household, three storeys, an exterior stair) is precisely the case the typology has no
+  box for.
+variants: *id001
+example_addresses:
+- address: rue d'Hibernia, between rues de Coleraine and de Rozel
+  note: the study's example of the type built with no front setback (SO0200)
+- address: 2225-2247, rue Quesnel
+  note: the study's example of a three-storey duplex clad in stone (SO0690)
+- address: place Richmond
+  note: >-
+    sector 22.E.4, three storeys, brick, mansard roofs, dormers and exterior stairs, « L’ensemble est
+    d’une grande cohérence »
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 2.4 — Le duplex de trois étages est un bâtiment qui possède deux logements de un ou
+    deux étages chacun. Le toit en fausse mans… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  Two dwellings over three occupied levels under a false mansard — the type that answers the question
+  of what Montréal built before the exterior stair, and the one the study reaches for when it explains
+  why the fabric of the 1875–1945 period is not homogeneous. Built with no setback in the earlier phase
+  and with one in the later, which is when the projecting window and the raised ground floor arrive.
+origin_en: >-
+  It is the plex family's tallest pre-1900 member and its closest relative to the Second Empire terraces
+  of Ville-Marie and the Plateau. The study notes a rare third dwelling squeezed in — variante 2, a
+  triplex with a false-mansard roof — which is how the boundary between duplex and triplex actually
+  behaves on the ground.

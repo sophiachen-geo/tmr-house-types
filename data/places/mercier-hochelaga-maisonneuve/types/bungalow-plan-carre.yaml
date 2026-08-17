@@ -1,0 +1,58 @@
+id: mercier-hochelaga-maisonneuve.bungalow-plan-carre
+place: mercier-hochelaga-maisonneuve
+phase: p5
+name_en: Brick bungalow of the 1950s Mercier developments
+name_fr: Le bungalow de brique des lotissements de Mercier
+source_ref: "Évaluation du patrimoine urbain (2005), sectors 27.U.2, 27.U.3 and 27.U.5"
+canonical: [one-storey-ranch-low-roof]
+styles: [ranch, minimal-traditional]
+tenure_plan: single-family
+storeys: "1"
+window_proportion: horizontal
+principal_cladding: [clay-brick]
+roof: {form: gabled-or-hipped, pitch_deg: null}
+roofing: asphalt-shingle
+garage: detached-or-set-back
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+    - Whole developments built to one plan, with rows of trees along the sidewalk that the cahier reads as deliberate — « les alignements d'arbres matures en bordure du trottoir, découlant d'un plan d'ensemble organisé, ajoutent à l'harmonie des rues ».
+    - In the 1955 ensemble the streets run in loops, « le type de lotissement qui est popularisé dans les nouvelles banlieues développées après la guerre ».
+  massing:
+    - One storey. In the earliest ensemble (rues Honoré-Beaugrand to Cirier, early 1950s) a square plan with no door on the principal façade at all, only a band of windows set either to the left or to the right.
+    - In the 1955 ensemble (rues Honoré-Beaugrand and Chénier), detached or semi-detached, rectangular or L-plan, hipped or gabled roofs, with or without a carport.
+  articulation: []
+  openings:
+    - A horizontal window band as the whole of the principal façade's composition, in the earliest ensemble.
+  materials:
+    - "Brick throughout, and it stays dominant — in the 1955 ensemble most houses have taken on individuality through changed cladding or windows, « cependant, la plupart respectent leur volume et leur composition d'origine et la brique reste le matériau dominant »."
+profile_note: >-
+  Composed from three sector fiches of the Évaluation — 27.U.2 (rues Honoré-Beaugrand to Cirier, early
+  1950s), 27.U.3 (rue Gustave-Bleau to place Lepailleur, early 1950s, « des bungalows en brique tous
+  identiques ») and 27.U.5 (rues Honoré-Beaugrand and Chénier, 1955) — which describe three different
+  developments rather than one type, and are treated here as one record because the cahier itself groups
+  them under the same category and describes them in the same terms. Where they disagree, both readings
+  are kept: the square doorless plan belongs to 27.U.2 only, the loop streets and the plan variety to
+  27.U.5 only. Articulation is left empty; none of the three fiches describes ornament. These three
+  sectors are not in this page's sectors.yaml, which holds the five E sectors only.
+photos:
+  - {file: null, credit: "pending — the one Commons image tagged to this part of Mercier was checked and rejected as a low-resolution snapshot through a chain-link fence showing no bungalow", kind: placeholder}
+blurb_en: >-
+  The other post-war Mercier, and the odder one. Identical brick bungalows put up in whole streets in the
+  early 1950s — in one development with no front door at all on the street face, just a band of windows
+  pushed to one side — laid out with rows of trees along the sidewalk that the Ville's surveyors could
+  still recognise fifty years later as part of the original plan.
+origin_en: >-
+  Mercier is where the borough turned suburban. The Évaluation notes that the criteria it used to find
+  heritage sectors « n'a pas permis d'identifier beaucoup de secteurs dans la partie est du territoire »,
+  and answers itself: « cela ne signifie pas pour autant que cette partie de l'arrondissement ne présente
+  pas d'intérêt. Les qualités d'ensemble de plusieurs rues devraient être maintenues. » That is why these
+  four developments are recorded as ensembles urbains d'intérêt rather than as heritage sectors — the
+  value is in the coherence of a whole street, not in any single house, and the document's own
+  recommendation is to study such territories, « recenser les typologies des ensembles qui présentent une
+  grande homogénéité », and build public awareness of them. It is a recommendation for exactly the kind
+  of record this page is.

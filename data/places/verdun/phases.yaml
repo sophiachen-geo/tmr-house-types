@@ -1,0 +1,10 @@
+# Phases read out of chapter 2 (Historique) and §3.1 (Mise en situation) of the Évaluation du
+# patrimoine urbain — arrondissement de Verdun (2005). The cahier dates the residential take-off to
+# « au début du XXe siècle, après la mise en place de la digue », gives its own wave — « la vague de
+# 1900 à 1920 » — in three separate sector fiches, and closes the build-out « à la fin des années
+# 1950 ». The phase boundaries below follow those sentences; they are not a scheme the cahier prints.
+- {id: p1, label: 1660–1875, start: 1660, end: 1875, title_en: 'The côte de Verdun and île Saint-Paul', colour_key: p1}
+- {id: p2, label: 1875–1900, start: 1875, end: 1900, title_en: 'The village, the floods and the dike', colour_key: p2}
+- {id: p3, label: 1900–1930, start: 1900, end: 1930, title_en: 'The wave: Québec''s third city', colour_key: p3}
+- {id: p4, label: 1930–1950, start: 1930, end: 1950, title_en: 'Depression, the National Housing Act and the war', colour_key: p4}
+- {id: p5, label: 1950–2002, start: 1950, end: 2002, title_en: 'Build-out, île des Sœurs and the Mies plan', colour_key: p5}

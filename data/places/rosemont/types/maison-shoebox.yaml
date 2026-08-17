@@ -1,0 +1,175 @@
+id: rosemont.maison-shoebox
+place: rosemont
+phase: p3
+name_en: Maison shoebox
+name_fr: Maison de type « shoebox »
+display_order: 1
+source_ref: >-
+  Ville de Montréal, dépliant « Maisons de type shoebox — Guide pour les travaux et agrandissements »
+  (2019); Règlement d'urbanisme 01-279, art. 5, art. 11.1, art. 26.1, art. 52.1, art. 89, art. 100.1,
+  art. 135.1 and Annexe B fascicule 10; Annexe F « Maisons shoebox de l'arrondissement de Rosemont –
+  La Petite-Patrie » (December 2018)
+source_url: https://montreal.ca/articles/les-maisons-shoebox-dans-rosemont-la-petite-patrie-22005
+canonical: [shoebox-uniplex]
+styles: [shoebox, faubourg-vernacular]
+tenure_plan: single-family
+storeys: "1"
+window_proportion: vertical
+principal_cladding: [clay-brick-red, clay-brick-beige-brown, wood-clapboard]
+setback_front_m: null
+count_in_place: 561
+example_addresses:
+  - address: 5650, 1re Avenue
+    note: "Annexe F: valeur architecturale 3, couronnement de qualité."
+  - address: 6287, 2e Avenue
+    note: "Annexe F: valeur architecturale 3, couronnement de qualité."
+  - address: 5520, 1re Avenue
+    note: "Annexe F: valeur architecturale 1, construite en fonds de lot — one of the 56 rear-lot shoeboxes."
+  - address: 6263 and 6269, 3e Avenue
+    note: "Annexe F: valeur architecturale 1, both construites en fonds de lot — a rear-lot pair."
+  - address: 4885, 7e Avenue
+    note: "Annexe F: valeur architecturale 2, construite en fonds de lot."
+variants:
+  - "By value, which is the only classification with legal force here: 170 of value 1, 233 of value 2, 158 of value 3 (Annexe F)."
+  - "By couronnement: 118 of the 561 carry the Annexe F mention « couronnement de qualité », which triggers a preservation rule of its own."
+  - "By siting: 505 stand on the street line like their neighbours; 56 — just under 10 % — are built « en fonds de lot », at the back of the lot, a survival of a way of occupying the lot that hygiene rules elsewhere in Montréal ended."
+  - "By adjacency: 232 of the 561 stand next to another shoebox, which is what makes the type read as a street rather than as scattered curiosities."
+  - "By generation: the borough treats the shoebox as one type. The adjoining borough of Villeray–Saint-Michel–Parc-Extension splits the same object in two — « shoebox du début du 20e siècle » (A/B/C) and « shoebox du milieu du 20e siècle » (A–E) — and proposes the alternative name « uniplex ». Two boroughs of one city disagree about whether this is one type or two."
+related_buildings:
+  - name: Ateliers Angus (Angus Shops), Canadien Pacifique, from 1904 — sector 26.E.8
+    url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+profile:
+  siting_landscape:
+    - Rectangular plan set PERPENDICULAR to the street, so the narrow end faces the road and the building runs back into the lot.
+    - Small footprint on a narrow lot, generally in a row of contiguous or near-contiguous neighbours two and three storeys taller.
+    - 56 of the 561 are built at the back of the lot rather than at the street line, sometimes behind another house, sometimes reached down a side passage.
+    - 232 of the 561 stand next to another shoebox; the by-law treats adjacency as a value in itself and restrains the upper floor of an adjacent house accordingly.
+  massing:
+    - "One storey. Flat roof. The flat roof is the point of the type, not a stylistic preference: it was built flat so that a floor could be added later when the owner could afford it."
+    - Minimum height set by by-law at 4 m and 1 storey (art. 11.1), so the form cannot be regulated out of existence from below.
+    - Maximum height where the insertion rules would otherwise cap the building at one storey, 9 m and 2 storeys (art. 26.1) — the by-law permits exactly the upward extension the type was designed for, and no more.
+    - On a value-3 or an adjacent shoebox, any façade plane above the ground floor must step back at least 1 m from the ground-floor façade, so an added storey reads as an addition rather than as a new front (art. 52.1).
+  articulation:
+    - Door at the centre of the façade with two windows distributed symmetrically on either side of it.
+    - The upper part of the façade is finished by a couronnement — a cornice or a parapet — which for a maison shoebox d'intérêt is compulsory under art. 100.1 and which the art. 89 table lists as the type's dominant crowning treatment.
+    - 118 of the 561 carry the Annexe F mention « couronnement de qualité », which is a flag with its own legal consequence rather than a description; on a value-3 house any work must aim to restore that crown to its original form, and on a value-2 house to put it in value or reinterpret it in a contemporary way.
+    - Often a front galerie under a marquise.
+    - Very little else. The type carries no applied ornament programme; what distinguishes one from another is the brickwork and the couronnement.
+  openings:
+    - Two windows flanking the central door, symmetrically placed, on the short street-facing elevation.
+    - Proportion of the openings is one of the three criteria on which the borough graded every house, and PIIA fascicule 10 asks that it be preserved or that a modified façade be returned to its original composition.
+    - Where basement openings are altered, the fascicule asks that their depth be minimised.
+  materials:
+    - Façades generally in brick. The art. 89 table lists brick as the dominant facing for the maison shoebox d'intérêt.
+    - The first generations were built cheaply by their owners from whatever materials were to hand, so the earliest examples are the least consistent.
+    - Quality of the masonry is the second of the three grading criteria.
+profile_fr:
+  description:
+    - "« Il s'agit de bâtiments résidentiels urbains d'un seul étage, de plan rectangulaire implanté perpendiculairement à la rue, de dimensions réduites et couverts d'un toit plat pour permettre de futures expansions architecturales. »"
+    - "« L'appellation de ce type de maisons renvoie à leur volumétrie rectangulaire évoquant une boîte à chaussures. »"
+    - "« Les maisons de type « shoebox » ont fait leur apparition à Montréal au début du XXe siècle et ont connu diverses phases de construction jusqu'aux années 1960. »"
+    - "« Les premières générations sont souvent des constructions modestes réalisées à faible coût par leurs propriétaires à partir des matériaux disponibles. »"
+    - "By-law definition, 01-279 art. 5 : « maison shoebox » : bâtiment principal de 1 étage à toit plat identifié à la liste de l'annexe F intitulée « Maisons shoebox de l'arrondissement de Rosemont – La Petite-Patrie » ou tout autre bâtiment principal de 1 étage à toit plat occupé exclusivement par un usage résidentiel »."
+    - "By-law definition, 01-279 art. 5 : « maison shoebox d'intérêt » : bâtiment principal de 1 étage à toit plat identifié à la liste de l'annexe F […] et ayant une valeur architecturale de 2 ou 3 »."
+  contexte:
+    - "« Avec l'essor de l'industrialisation et la construction de chemins de fer et de tramways, Montréal accueille de nombreux travailleurs issus de l'immigration et des régions. »"
+    - "« Les nouveaux moyens de transport ainsi que le développement du réseau routier offrent aux travailleurs l'occasion de pouvoir éloigner leur lieu de travail de leur milieu de vie. Au lieu de s'installer dans les secteurs surpeuplés proches des usines, ils achètent un lopin de terre à prix abordable en périphérie du centre-ville pour y construire leur maison et ainsi accéder à la propriété. »"
+    - "Cahier d'évaluation, 2004, already naming the threat by name : « la tendance est à la densification des quartiers, ce qui met en péril l'existence des petites maisons d'un seul étage qui témoignent d'un mode d'occupation du territoire en voie de disparition »."
+  elements_caracteristiques:
+    - "« pour la plupart, la présence d'une porte située au centre de la façade et de deux fenêtres distribuées de façon symétrique de chaque côté de celle-ci »"
+    - "« des façades généralement en brique et possédant un couronnement (détail architectural décoratif qui orne la partie supérieure du bâtiment), tels une corniche ou un parapet »"
+    - "« souvent, une galerie en façade surplombée d'une marquise »"
+conservation:
+  - "Objective, PIIA fascicule 10: preserve the principal volumetric and architectural characteristics of the maisons shoebox d'intérêt so that work does not compromise their symbolic value; and, for a shoebox, favour added volumes that stand out by their architectural quality."
+  - "The addition must not swallow the house: « le corps principal devant tendre à demeurer plus imposant que l'agrandissement », and the ground floor should keep its original height."
+  - "An added storey must be compatible in level with the neighbouring buildings, must maximise the area of its openings, and must have its own accentuated couronnement."
+  - "Only usage categories H.1 to H.3 are permitted on a shoebox lot — one, two or three dwellings — and where the house is value 3, only H.1. The most interesting shoeboxes are therefore worth the least to a redeveloper."
+  - "A demolition application is judged under the Règlement régissant la démolition d'immeubles (RCA-6), which carries evaluation criteria of its own; a moratorium on new applications ran from May 2018 until the by-law was in force."
+conservation_fr:
+  - "« Assurer la préservation des principales caractéristiques volumétriques et architecturales des maisons shoebox d'intérêt afin que les interventions ne compromettent pas leur valeur symbolique »"
+  - "« Pour une maison shoebox, favoriser des ajouts de volume qui se démarquent par leur qualité architecturale »"
+  - "« Implanter tout agrandissement de manière à préserver le caractère particulier de la maison shoebox d'intérêt, le corps principal devant tendre à demeurer plus imposant que l'agrandissement »"
+  - "« Favoriser la préservation de la proportion des ouvertures de la façade ou le retour à la composition d'origine si les ouvertures sont modifiées »"
+  - "« Lors de toute intervention, mettre en valeur le couronnement d'un bâtiment »"
+  - "« Maximiser la superficie des ouvertures d'un nouvel étage »; « Accentuer le couronnement d'un nouvel étage »"
+profile_note: >-
+  This borough publishes no per-type fiche, so the five columns are assembled from three documents of
+  different kinds and the join is stated rather than hidden. Siting, massing and materials come from
+  the Ville de Montréal dépliant's definition and from the dimensional articles of by-law 01-279
+  (11.1, 26.1, 52.1); articulation and openings come from the dépliant's list of caractéristiques
+  architecturales, from the art. 89 table of dominant characteristics — where the maison shoebox
+  d'intérêt is the row coded MS, with brick as parement and cornice or parapet as couronnement — and
+  from PIIA fascicule 10. Two attributions matter. The dépliant is published by the ADJOINING borough
+  of Villeray–Saint-Michel–Parc-Extension (2019, source credited to Isabelle Bouchard, M. Sc. A.
+  conservation); its definition is the Ville's general one and is quoted as such, but its counts of
+  1,159 houses are VSP's and are not used here. And nothing in this record is a lot width or a setback
+  measurement, because neither the dépliant nor the by-law states one for the type; the fields are
+  left null rather than estimated from photographs. One further caveat, because it is a disagreement
+  and not a gap: this record treats the shoebox as ONE type, spanning the early twentieth century to
+  the 1960s, which is how Rosemont's by-law treats it — a single defined term, a single address list,
+  a single fascicule. Villeray–Saint-Michel–Parc-Extension, next door, splits the same building stock
+  into a « shoebox du début du 20e siècle » and a « shoebox du milieu du 20e siècle », and proposes
+  calling the whole thing a « uniplex » — a single-family member of the plex family — instead. Two
+  boroughs of one city, working from the same houses in the same years, disagree about whether this is
+  one type or two and about what to call it. Neither reading is corrected into the other here.
+blurb_en: >-
+  A one-storey brick box, its short end to the street, a door in the middle with a window on each
+  side, a cornice or parapet across the top, and a flat roof that was flat on purpose — so that the
+  owner could add a floor when he had the money. Five hundred and sixty-one survive in
+  Rosemont–La Petite-Patrie, more than in any other borough, and since 2019 each of them is named at
+  its own address in an annexe to the zoning by-law and carries an architectural value of 1, 2 or 3.
+  It is the only house on this site that its occupants built themselves.
+origin_en: >-
+  The Canadian Pacific opened the Angus Shops in 1904, and the promoters U.-H. Dandurand and Herbert
+  Holt formed the Rosemont Land Improvement Company and subdivided the Crawford farm to the north of
+  them. The cahier records what the 1907 Pinsoneault atlas shows: long blocks with lanes and lots all
+  of one size, a single model. What let labourers onto those lots was not a mortgage but the
+  promettant-acquéreur — a promise of sale from a land company needing only a few dollars down, which
+  is the mechanism Guy Gaudreau documents for the first Rosemont and Villeray shoeboxes. A journalier
+  could take a lot on those terms and build a small flat-roofed house on it with his own hands, out of
+  whatever materials were available, and add to it later. Everything characteristic of the type
+  follows from that: the small footprint, the perpendicular plan that wastes no street frontage, the
+  plain brick front, and above all the flat roof, which is not a style but an unbuilt second storey.
+photos:
+  - file: assets/places/rosemont/shoebox-rosemont-commons.jpg
+    credit: >-
+      Guerinf, « Maisons shoebox dans Rosemont (25) », 20 November 2019, CC BY-SA 4.0 —
+      https://commons.wikimedia.org/wiki/File:Maisons_shoebox_dans_Rosemont_(25).jpg
+      (licence https://creativecommons.org/licenses/by-sa/4.0). Licence template on the file page read
+      and verified via the Commons API: {{self|cc-by-sa-4.0}}, own work.
+    kind: single
+    match_confidence: visual
+    match_note: >-
+      Categorised on Commons under both Style Shoebox and Rosemont–La Petite-Patrie by the
+      photographer, who describes it as a shoebox in the Rosemont quarter. No civic address is given
+      on the file page, so it could not be joined to an Annexe F row; the match to the type is visual
+      and to the place is the uploader's own categorisation.
+  - file: assets/places/rosemont/shoebox-rosemont-rue-commons.jpg
+    credit: >-
+      Guerinf, « Maison shoebox à Montréal dans Rosemont 05 », CC BY-SA 4.0 —
+      https://commons.wikimedia.org/wiki/File:Maison_shoebox_%C3%A0_Montr%C3%A9al_dans_Rosemont_05.jpg
+      (licence https://creativecommons.org/licenses/by-sa/4.0). Licence verified via the Commons API.
+    kind: single
+    match_confidence: visual
+    match_note: >-
+      Same photographer and same two Commons categories; shows the type in its street context, a
+      one-storey box between taller neighbours. No address on the file page.
+  - file: assets/places/rosemont/shoebox-rosemont-couronnement-commons.jpg
+    credit: >-
+      Guerinf, « Maisons shoebox dans Rosemont (20) », 20 November 2019, CC BY-SA 4.0 —
+      https://commons.wikimedia.org/wiki/File:Maisons_shoebox_dans_Rosemont_(20).jpg
+      (licence https://creativecommons.org/licenses/by-sa/4.0). Licence verified via the Commons API.
+    kind: single
+    match_confidence: visual
+    match_note: >-
+      Chosen for the couronnement, the feature Annexe F flags separately on 118 of the 561 houses and
+      which art. 100.1 makes compulsory on a maison shoebox d'intérêt. No address on the file page, so
+      the « couronnement de qualité » mention cannot be asserted for this particular building.
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: null
+front_yard_green_pct: null
+source_generation: "01-279-58 (2019), codification to 01-279-78 (2024)"

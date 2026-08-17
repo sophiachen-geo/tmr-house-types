@@ -1,0 +1,136 @@
+- id: vsp-01-283-124-annexe-f
+  citation: >-
+    Ville de Montréal, arrondissement de Villeray–Saint-Michel–Parc-Extension, Règlement 01-283-124,
+    Annexe F — « Typologies architecturales résidentielles » (the PDF's own cover reads ANNEXE 4).
+    https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+    — retrieved 17 August 2026; sha-256
+    9ff4ea1e7b741c24436e0ff14f23018a821f91e42eb004326015e72225c1b676; 109 PDF pages. Parsed with
+    pdftotext -layout to sources/vsp/txt/vsp_01-283-124_fiches_typologies.txt, and the pages where
+    that extraction dropped text re-read from page images rendered with pdftoppm. See
+    sources/vsp/MANIFEST.md for which pages those were and why.
+  used_for: >-
+    All thirteen type records and every one of their French quotations and lettered variants: family
+    1.0 (fiches 1.1–1.7), family 2.0 (fiches 2.1–2.3) and family 3.0 (fiches 3.1–3.3). Also the
+    family definitions on the three divider pages — the plex family's « de deux à six logements » and
+    « chaque logement présente habituellement une entrée distincte en façade », and the apartment
+    family's definition of itself against the plex by the position of the stair. Also the zone codes
+    carried by the variants of fiches 1.5, 1.6 and 3.2.
+
+- id: evaluation-patrimoine-vsp-2005
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+    développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine
+    urbain — Arrondissement de Villeray–Saint-Michel–Parc-Extension », 2005. ISBN 2-7647-0457-7;
+    dépôt légal BAnQ and BAC 2005.
+    https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/26_evaluation_patrimoine_villeray.pdf
+    — retrieved 17 August 2026; sha-256
+    e6e6ff5748506e6b14ad704068d232be3c8ee7f628b82ffab0d45c1ccbc2ca08; 46 PDF pages. Parsed with
+    pdftotext -layout to sources/vsp/txt/26_evaluation_patrimoine_villeray.txt.
+  used_for: >-
+    The arrondissement code, 14 — read from inside the document at all 121 code occurrences, in a
+    file whose name begins 26. Every sector record and every sector quotation: 14.E.1, 14.I.1 to
+    14.I.5, 14.U.1 to 14.U.3, 14.AP.1 and 14.A.1. The three settlement narratives for Villeray, Parc
+    Extension and Ville Saint-Michel that the phases are built on, printed pp. 21–22, including the
+    1893 tramway, the 1896 erection and 1905 annexation of Villeray, the 1925–1931 construction boom,
+    the naming of Parc Extension after the Park Avenue Extension development, the 1931 gare
+    Jean-Talon, and Saint-Michel's 1912 Béique & Charton garden-city plan, its post-war federal
+    veterans' housing and its 1968 annexation. The definition of the ensembles urbains d'intérêt
+    category and its three selection criteria, printed p. 13. The archaeological method and the
+    definitions of the two archaeological sector classes, printed pp. 18 and 36. The project's
+    authorship and dates, printed on the verso of the title page.
+
+- id: vsp-depliant-shoebox-2019
+  citation: >-
+    Arrondissement de Villeray–Saint-Michel–Parc-Extension, Direction du développement du territoire,
+    « Maisons de type "shoebox" — guide pour les travaux et agrandissements », année de publication
+    2019. Credited on the leaflet: source Isabelle Bouchard, M. Sc. A conservation; photographs from
+    the Archives de la Ville de Montréal and the Société d'histoire de Parc-Extension; map from
+    Chas. E. Goad Co., Atlas of the City of Montréal and Vicinity, 1912-1914, vol. III, planche 343,
+    BAnQ. https://portail-m4s.s3.montreal.ca/pdf/depliant_maisons_shoebox_final_web.pdf — retrieved
+    17 August 2026; sha-256 2669e0a4b3ec22985871c5e2c4fdf78af0e4d9ebe8263cacc8f8da5707f8b4e7; 2
+    pages. Parsed with pdftotext -layout to sources/vsp/txt/vsp_depliant_maisons_shoebox.txt.
+  used_for: >-
+    The borough's shoebox census — 1 159 houses, tabulated by decade (16 / 144 / 136 / 128 / 191 /
+    544) and by district (Parc-Extension 90, Villeray 153, François-Perrault 660, Saint-Michel 256) —
+    which is the evidence base for the two-type split discussed in the notes, and from which the
+    derived counts on the two shoebox type records are summed. Also the leaflet's own definition of
+    the shoebox and its account of industrialisation, the railways and the tramways letting workers
+    put distance between work and home and buy a cheap plot on the periphery. Also the naming of the
+    2018 « Étude d'évaluation patrimoniale et de mise en valeur des maisons de type "shoebox" ».
+    NOTE: this leaflet is published by THIS borough, not by Rosemont–La Petite-Patrie; the Part 10
+    brief cites the same file under Rosemont. The document's own imprint gives the address 405,
+    avenue Ogilvy, which is the VSP borough hall.
+
+- id: vsp-etude-shoebox-2018
+  citation: >-
+    Arrondissement de Villeray–Saint-Michel–Parc-Extension, « Étude d'évaluation patrimoniale et de
+    mise en valeur des maisons de type "shoebox" », 2018 (Isabelle Bouchard). Named as the source
+    study on the borough's own 2019 leaflet.
+  used_for: >-
+    NOT RETRIEVED IN THIS PASS, and no fact in this record rests on it. Its former address on the
+    Ville's legacy pls/portal host now returns a 302 redirect to a dead portal page, and no mirror
+    was found. It is recorded because it is the source of the « uniplex » proposal discussed in the
+    notes on the place page. That proposal is carried there as an attributed claim in English only;
+    NO FRENCH QUOTATION FROM THIS STUDY IS PUBLISHED ANYWHERE IN THIS RECORD, because the text was
+    never read. Retrieve it and quote it directly before treating the wording as verbatim.
+
+- id: montreal-ca-vsp-typologies
+  citation: >-
+    Ville de Montréal, borough guidance pages « Les maisons unifamiliales patrimoniales dans VSP »
+    (montreal.ca/articles/les-maisons-shoebox-dans-vsp-6250 and
+    montreal.ca/articles/les-maisons-unifamiliales-patrimoniales-dans-vsp-100059) and « Les plex
+    patrimoniaux dans VSP » (montreal.ca/articles/les-plex-patrimoniaux-dans-vsp-100023), consulted
+    17 August 2026.
+  used_for: >-
+    Independent corroboration that the borough publishes three plex typologies and not two — the plex
+    page names « Le plex du début du 20e siècle », « Le plex du milieu du 20e siècle » and « Le plex
+    de la seconde moitié du 20e siècle », the last « aussi connue sous le nom "plex italien" » — which
+    is what settles the Part 10 brief's flag that the plex extraction might have been truncated at
+    2.2. Also confirmation that the borough publishes the seven unifamiliale fiches as separate
+    downloadable documents. No French wording in this record is taken from these pages rather than
+    from the by-law itself.
+
+- id: parc-extension-municipal-sources
+  citation: >-
+    Ville de Montréal, « Parc-Extension : 100 ans d'histoire » (rech_bilan_parc_extension.pdf) and
+    « Portrait du quartier Parc-Extension par le groupe de travail » (portrait_parc_extension.pdf);
+    and MEM – Centre des mémoires montréalaises, « Bienvenue dans Parc-Extension », published
+    2 June 2017 (ville.montreal.qc.ca/memoiresdesmontrealais/bienvenue-dans-parc-extension).
+  used_for: >-
+    The MEM page was retrieved on 17 August 2026 and is the source of the « Depuis 1910 » date and
+    the quarter's area of 1,6 km². THE TWO PDFs WERE NOT RETRIEVED — both returned HTTP 404 on the
+    Ville's legacy pls/portal host, and the S3 portal returned 403 for both. They are the source
+    ordinarily cited for the figure « 69 % des immeubles du quartier sont des duplex et des multiplex
+    (4 à 12 logements) » and for the 1945–1970 construction figures, and those claims are carried on
+    the place page labelled as unverified for exactly that reason. They are also the documents that
+    would confirm or refute the Bloomfield–Jarry–Wiseman–de Liège wartime quadrilatère recorded in
+    sectors.yaml as PE-WH-1. Retrieve them on the next pass.
+
+- id: gaudreau-shoebox-uhr
+  citation: >-
+    Guy Gaudreau, « Les premières maisons shoebox montréalaises de Rosemont et de Villeray », Revue
+    d'histoire urbaine / Urban History Review, DOI 10.3138/uhr-2020-0004.
+  used_for: >-
+    Cited on the early shoebox type record as the scholarly account of the type's origin, and as the
+    paper that pairs the same two boroughs this site now pairs. NOT RETRIEVED in this pass — the
+    article is behind a publisher paywall. No statement in this record is drawn from it; it is
+    recorded so that a later pass can read it and check the self-build account against it.
+
+- id: commons-vsp-photographs
+  citation: >-
+    Wikimedia Commons. Author, licence, description and file URL for every candidate were read
+    individually through the Commons API (action=query&prop=imageinfo&iiprop=url|extmetadata) on
+    17 August 2026 before any download, and no file was retrieved whose terms had not been read
+    first. Categories consulted: Category:Villeray, Category:Multiplexes (buildings), and full-text
+    file search on the borough's quarter names.
+  used_for: >-
+    The four photographs published on this place's type cards. Three are by Guerinf and one by
+    Great11, all released CC BY-SA 4.0 as own work. Every match is on form rather than on address and
+    carries match_confidence: visual. See sources/vsp/MANIFEST.md for the full licence findings,
+    including the borough categories that were checked and found to hold no usable building
+    photographs, and the types for which no freely-licensed photograph could be found at all — the
+    boomtown, the post-war house and semi-detached, the bungalow, the mid-century and late plex, and
+    all three apartment types, whose cards therefore carry placeholders citing the by-law's own
+    elevation drawings. Those drawings are © Ville de Montréal and are not reproduced.
+    Category:External staircases, named in the Part 10 brief, returned a rate-limit error on every
+    attempt and was never successfully enumerated; nothing here depends on it.

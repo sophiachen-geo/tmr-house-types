@@ -1,0 +1,54 @@
+id: rosemont.conciergerie
+place: rosemont
+phase: p2
+name_en: Conciergerie
+name_fr: Conciergerie
+display_order: 8
+source_ref: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie (2005), sector 26.I.2"
+source_url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+canonical: [apartment-house-common-hall]
+styles: [faubourg-vernacular]
+tenure_plan: walk-up
+storeys: "3"
+window_proportion: vertical
+principal_cladding: [clay-brick-red]
+setback_front_m: null
+sectors: ["26.I.2"]
+profile:
+  siting_landscape:
+    - Scattered among the duplex and triplex of La Petite-Patrie's eastern sector rather than gathered on an avenue of their own.
+  massing:
+    - Larger than the plex around it; the cahier gives no storey count, dwelling count or plan.
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+    - "26.I.2 : « On note également quelques conciergeries datant des premières décennies du XXe siècle. »"
+profile_note: >-
+  This is the thinnest record on the page and is published thin on purpose. The cahier mentions
+  conciergeries in Rosemont–La Petite-Patrie in exactly one clause, quoted above in full, and gives no
+  description of them whatever. The columns are therefore almost entirely empty, and the storeys,
+  cladding and tenure_plan values above are carried from what the canonical type means rather than
+  from this borough's source — they should be read as the canonical's defaults, not as evidence from
+  Rosemont. The line that defines the form — a common entrance hall serving six to twelve dwellings,
+  which is where the plex family stops — comes from Le Sud-Ouest's typo-morphological study, not from
+  here. Nothing else has been imported.
+blurb_en: >-
+  The point at which a Montréal building stops giving each dwelling its own front door and starts
+  giving them all one hall. The cahier notes a few of them in the eastern part of La Petite-Patrie,
+  dating from the first decades of the twentieth century, and says no more.
+origin_en: >-
+  La Petite-Patrie's eastern sector was built between 1885 and 1930, and the conciergeries the cahier
+  notes belong to the later end of that span. They are recorded here so that the borough's place in
+  the canonical type's list of occurrences is honest, and because their scarcity is itself the finding:
+  in a borough of 561 self-built one-storey houses and street after street of two- and three-dwelling
+  plex, the shared-hall apartment building is a marginal form.
+photos: [{file: null, credit: "pending — the cahier illustrates no conciergerie and no verified Commons image of one in this borough was found", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: null
+front_yard_green_pct: null

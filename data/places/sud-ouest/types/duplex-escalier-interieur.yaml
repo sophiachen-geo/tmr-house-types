@@ -1,0 +1,200 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.duplex-escalier-interieur
+place: sud-ouest
+page: 65
+phase: p3
+phase_confidence: verified
+name_en: Duplex with interior stair
+name_fr: Le duplex avec escalier intérieur
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.1 — Le duplex avec escalier intérieur, printed p. 65
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-2
+- AIRE-4
+canonical:
+- duplex-interior-stair
+- plex-family
+styles:
+- faubourg-vernacular
+- victorian-eclectic
+tenure_plan: duplex
+storeys: 2
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- stone-rusticated
+- wood-clapboard
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: 0
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Contiguous, and in most cases with no front setback at all — which is exactly why the stair to the
+    second dwelling is inside the building.
+  - The façades form regular alignments.
+  - Present in every sector lotted at the end of the industrialisation period, 1825–1875.
+  massing:
+  - Rectangular plan with no projections, two storeys, flat roof.
+  - The ground floor is barely raised — two or three risers.
+  - A small balcony over the entrance doors is possible, mainly where the doors are paired.
+  articulation:
+  - >-
+    Two modes of composition, and they are what tells the variants apart: doors separated, or doors
+    paired.
+  - >-
+    With separated doors, doors and windows alternate along the ground floor and the ground-floor openings
+    frequently fail to line up with those above.
+  - >-
+    With paired doors there are two vertical alignments, one of them holding the two doors with a balcony
+    over them.
+  - >-
+    The socle is one or two courses of rusticated stone; on altered buildings the stone is often replaced
+    by exposed concrete.
+  - The crowning is a moulded cornice, more or less worked according to the case.
+  openings:
+  - >-
+    Originally sash or casement with or without a transom; most of what survives is replacement, frequently
+    sliders.
+  - >-
+    The dominant proportion is one width to half a height, and segmental-arched openings are frequent.
+  - Doors plain, with or without a transom, the transom's height variable.
+  materials:
+  - Rusticated stone at the socle.
+  - >-
+    Brick dominant on the body of the façade, with some buildings in rusticated stone or wood clapboard.
+  - Wood balconies with metal guards.
+profile_fr:
+  implantation:
+  - >-
+    Le duplex avec escalier intérieur est généralement implanté de façon contiguë. Dans la plupart des
+    cas, il ne possède pas de marge de recul avant, ce qui explique la présence de l’escalier d’accès
+    au deuxième logement à l’intérieur. Les façades forment des alignements réguliers.
+  volumetrie:
+  - >-
+    Le plan des duplex avec escalier intérieur est de forme rectangulaire et sans saillie. Il possède
+    2 étages et le rez-de-chaussée est faiblement surélevé par rapport au niveau du sol (2 à 3 contremarches).
+    Le toit est plat. Il y a une possibilité d’un petit balcon à l’étage au-dessus des portes d’entrée,
+    principalement lorsque celles-ci sont jumelées.
+  materiaux:
+  - >-
+    Le socle est revêtu de pierres à bossages. La brique est le matériau de revêtement dominant pour
+    le corps de la façade, mais quelques bâtiments sont revêtus de pierres à bossages ou de déclin de
+    bois. Les balcons sont en bois et les garde-corps sont en métal.
+  traitement_des_facades:
+  - >-
+    Socle — Le socle du bâtiment se distingue par un ou deux rangs de pierres à bossages. Sur les bâtiments
+    transformés, il est fréquent de voir le remplacement de la pierre par du béton apparent.
+  - >-
+    Corps — On observe deux modes de composition du corps de la façade des duplex avec escalier intérieur
+    : avec portes séparées ou avec portes jumelées. Dans ce premier mode de composition, les portes
+    et les fenêtres sont disposées en alternance au rez-de-chaussée. Il est alors fréquent que les ouvertures
+    du rezde-chaussée ne soient pas alignées avec celles de l’étage (fig. 2.1.1). Le deuxième mode de
+    composition présente deux alignements verticaux. L’un des alignements est formé de portes jumelées
+    au rez-dechaussée et d’une fenêtre ou d’un balcon à l’étage. L’autre alignement est formé uniquement
+    de fenêtres (fig. 2.1.2).
+  - >-
+    Couronnement — Le couronnement se démarque par une corniche moulurée plus ou moins ouvragée selon
+    le cas.
+  ouvertures:
+  - >-
+    Les fenêtres d’origine sont généralement à guillotine ou à battants avec ou sans imposte. Cependant,
+    les fenêtres que l’on retrouve aujourd’hui sont des modèles de remplacement. Par conséquent, on
+    retrouve fréquemment des modèles de fenêtres plus récents telle la fenêtre coulissante. La proportion
+    dominante des ouvertures équivaut à 1 largeur = ½ hauteur. Il est aussi fréquent que les ouvertures
+    possèdent une forme en arc surbaissé.
+  - >-
+    Les portes sont simples avec ou sans imposte. La hauteur de l’imposte est variable. Les portes sont
+    parfois jumelées.
+  - >-
+    Les linteaux des ouvertures sont composés d’un élément rectangulaire en pierre de taille ou d’un
+    appareillage de briques en soldat. La pierre de taille est utilisée seulement pour les fenêtres
+    rectangulaires. Dans le cas des bâtiments dont le corps de la façade est revêtu de pierres à bossages,
+    l’encadrement des ouvertures est formé de pierres de taille. Dans ces cas, le linteau est parfois
+    intégré à un bandeau qui couvre la largeur de la façade.
+  description:
+  - >-
+    Le duplex avec escalier intérieur est un bâtiment de deux étages avec toit plat qui possède généralement
+    2 logements superposés. Dans l’arrondissement du Sud-Ouest, on retrouve deux variantes dominantes
+    du duplex avec escalier intérieur. Ces deux variantes se différencient principalement par la position
+    séparée ou jumelée des portes d’accès au logement.
+  contexte:
+  - >-
+    Le duplex avec escalier intérieur est le premier type de bâtiment multifamilial construit dans l’arrondissement
+    du Sud-Ouest. Il est présent dans tous les secteurs dont le lotissement date de la fin de la période
+    historique dite d’industrialisation (1825-1875). Bien que le duplex avec escalier intérieur est
+    moins populaire à partir de 1880, il sera construit jusqu’à son remplacement définitif par le triplex
+    avec escalier extérieur autour de 1900.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — Le duplex avec escalier intérieur et plus de deux logements : Dans la première période
+    de construction de ce type de logement, soit environ entre 1850 et 1875, la codification architecturale
+    du duplex avec escalier intérieur n’était pas encore achevée. Notamment, la largeur des parcelles
+    sur lesquelles les duplex étaient implantés pouvait varier. Cette variation a amené la construction
+    de duplex avec escalier intérieur qui possèdent plus de deux logements. La composition architecturale
+    de ceux-ci peut varier. Les portes sont parfois jumelées, parfois séparées.
+  - >-
+    Variante 2 — Le duplex avec escalier intérieur et porte cochère : En raison de l’absence de ruelle,
+    la porte cochère est une solution fréquente sur ce type de bâtiment pour donner accès à la cour
+    arrière. La disposition de la porte cochère est généralement sur le côté de la façade sauf si le
+    duplex est jumelé. Alors, on retrouve un bâtiment de plus grande dimension où la porte cochère est
+    située au centre du rez-de-chaussée. Une fenêtre simple ou jumelée, située au centre de la façade
+    à l’étage, vient compléter la composition architecturale.
+  - >-
+    Variante 3 — Maison en rangée : La maison en rangée est d’un gabarit et d’une composition architecturale
+    similaire au duplex avec escalier intérieur, à l’exception qu’elle ne possède qu’un seul logement.
+    Le nom maisons en rangée est généralement utilisé car elles étaient construites en série, par groupes
+    de bâtiments, ce qui produisait une très grande homogénéité. Cependant, ce type d’habitation est
+    relativement rare dans l’arrondissement du Sud-Ouest. Souvent, la maison en rangée s’y retrouve
+    de façon individuelle, en raison de la présence d’une parcelle atypique plus étroite sur laquelle
+    la construction de deux logements était difficile.
+profile_note: null
+variants: *id001
+related_buildings:
+- name: >-
+    Maisons d'ouvriers des ateliers du Grand Tronc, 422-436, 438-444, 456 and 458-460 rue de Sébastopol
+    — built about 1855 to house a highly skilled workforce, « parmi les plus anciennes du quartier »,
+    and listed by the Évaluation cahier among the borough's immeubles de valeur patrimoniale exceptionnelle.
+    Sector 22.E.13. Neither document assigns them to a type: the cahier calls them a série d'habitations
+    and the typo-morphological study does not name the street. They are recorded on this card because
+    they are contemporary with it, from the phase before the setback rule, and because they are the
+    oldest surviving worker housing in the borough.
+  url: >-
+    http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 2.1 — Le duplex avec escalier intérieur est un bâtiment de deux étages avec toit plat
+    qui possède généralement 2 logements sup… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  The first multi-family building type built in the borough, and the one the exterior stair eventually
+  killed. Two dwellings stacked under a flat roof, hard on the street line, both front doors at ground
+  level and the upper dwelling reached by a stair inside. It loses ground after 1880 and is finally
+  displaced by the triplex with exterior stair around 1900 — which is the whole argument of this borough
+  in one sentence.
+origin_en: >-
+  The plex before the stair went outside. Reading this record against the triplex with exterior stair
+  (2.6) gives the mechanism directly: no setback, so no room for a stair in the yard, so the stair eats
+  interior floor area instead.

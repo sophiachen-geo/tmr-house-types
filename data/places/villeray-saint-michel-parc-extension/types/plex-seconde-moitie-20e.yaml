@@ -1,0 +1,105 @@
+id: villeray-saint-michel-parc-extension.plex-seconde-moitie-20e
+place: villeray-saint-michel-parc-extension
+page: 75
+phase: p5
+phase_confidence: verified
+name_en: Plex of the second half of the 20th century — the « plex italien »
+name_fr: Plex de la seconde moitié du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 2.3"
+source_generation: >-
+  By-law Annexe F, fiche 2.3, pp. 2.3.1 to 2.3.5, transcribed verbatim
+sectors: [14.U.1]
+canonical:
+  - plex-family
+  - duplex-raised
+styles:
+  - minimal-traditional
+  - rationalisme
+tenure_plan: mixed
+storeys: 2
+roof: {form: flat, pitch_deg: null}
+window_proportion: horizontal
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Plex avec usage commercial au rez-de-chaussée
+    summary_fr: "Ce plex présente un rez-de-chaussée à usage commercial situé près du sol. Il y a une transition dans le traitement architectural entre les usages commerciaux et résidentiels. Lorsqu’implanté sur un coin de rue, le volume est souvent tronqué sur le coin, et de grandes ouvertures sont situées près de l’intersection."
+profile:
+  siting_landscape:
+    - Generally contiguous with its neighbours, but with a front margin of medium to considerable depth — the plex pulling back off the street for the first time.
+    - A sunken driveway commonly gives access to a garage in the basement.
+    - Often built in series, so very uniform runs are not rare on certain streets; the fiche names Saint-Michel as where the most homogeneous groups are.
+  massing:
+    - Two storeys and a flat roof, over a habitable basement.
+    - The ground floor is raised above the street to let the basement garage in underneath.
+    - The parapet is low and almost non-existent.
+  articulation:
+    - The architectural treatment bets on horizontality.
+    - The dwelling doors are on the ground floor and centred on the façade; they command a wide perron reached by a massive concrete stair — the curved exterior stair is gone.
+    - The crown is a flat projecting eave standing out from the façade in place of a parapet.
+    - Apart from a masonry bond pattern or concrete bands there is very little ornament on the façades.
+    - The façades are sometimes decorated with a coloured masonry bond in often fanciful patterns.
+  openings:
+    - Windows of horizontal proportion, aligned vertically.
+  materials:
+    - Sections of brick and stone, often pale in colour.
+    - The cladding is named by the fiche as an important characteristic of the type — brick mostly white or pale yellow, sometimes glazed.
+profile_fr:
+  contexte:
+    - "Cette typologie fait son apparition à partir des années 1960 et est aussi connue sous le nom « plex italien » en raison de l’origine de ses constructeurs. Construit sur deux étages avec un sous-sol habitable, ce plex est érigé à une certaine distance de la rue afin de prévoir une place de stationnement à même le terrain. Une caractéristique importante de ces constructions est leur revêtement, dont la brique est majoritairement blanche ou jaune pâle, parfois vernissée. Les façades sont parfois ornées d’un appareillage de maçonnerie colorée et à motifs souvent fantaisistes. On trouve des ensembles très homogènes de cette typologie dans le quartier Saint-Michel."
+  implantation:
+    - "Le bâtiment est généralement implanté de manière contiguë aux bâtiments voisins, avec une marge avant d’une profondeur moyenne à importante. Souvent, une allée véhiculaire en dépression permet l’accès à un garage situé au sous-sol. Ces bâtiments étaient souvent construits en série, et il n’est pas rare de trouver des ensembles d’apparence très uniforme dans certaines rues."
+  volumetrie:
+    - "Le bâtiment possède deux étages et un toit plat. Le rez-de-chaussée est surélevé par rapport à la rue pour permettre l’accès à un garage au sous-sol. Le parapet, de faible hauteur, est presque inexistant."
+  traitement_des_facades:
+    - "Le traitement architectural de cette typologie mise sur l’horizontalité. Les portes d’entrée des logements sont situées au rez-de-chaussée et centrées sur la façade. Les portes d’entrée dominent un large perron accessible par un escalier massif et bétonné."
+    - "Le parapet est droit et de faible hauteur ; un avant-toit plat en projection de la façade tient lieu de couronnement. Les revêtements sont constitués de sections de brique et de pierre, souvent de couleur pâle. Mis à part un appareillage de maçonnerie ou des bandeaux de béton, il y a très peu d’ornementation sur les façades."
+  ouvertures:
+    - "Les fenêtres sont de proportions horizontales et alignées verticalement."
+  sous_variantes:
+    - "A — PLEX AVEC USAGE COMMERCIAL AU REZ-DE-CHAUSSÉE. Ce plex présente un rez-de-chaussée à usage commercial situé près du sol. Il y a une transition dans le traitement architectural entre les usages commerciaux et résidentiels. Lorsqu’implanté sur un coin de rue, le volume est souvent tronqué sur le coin, et de grandes ouvertures sont situées près de l’intersection."
+profile_note: >-
+  <strong>This fiche exists, and it is the answer to the Part 10 brief's warning that the plex
+  extraction might have been truncated at 2.2.</strong> It was: family 2.0 has three fiches, not two,
+  and the annexe has a third family beyond that. Fiche 2.3 is also the most striking of the three,
+  because it is the one place in this by-law where a type is named after the people who built it —
+  « aussi connue sous le nom "plex italien" en raison de l'origine de ses constructeurs ». The
+  borough's own public guidance repeats the name, so it is the municipality's usage and not a
+  colloquialism the by-law is reporting at arm's length. Formally it is the plex having absorbed
+  everything the bungalow and the mid-century shoebox absorbed: the deep setback, the raised ground
+  floor over a basement garage reached by a sunken drive, horizontal windows, a flat projecting eave
+  instead of a parapet, and the curved exterior stair replaced by a massive concrete flight. What
+  survives from 1900 is the one thing that makes it a plex at all — stacked dwellings, each with its
+  own door on the front.
+example_addresses:
+  - {address: "quartier Saint-Michel", note: "« On trouve des ensembles très homogènes de cette typologie dans le quartier Saint-Michel » — the fiche's own localisation; a quarter, not a civic number"}
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, pp. 2.3.2 and 2.3.5 — elevation drawings of the typologie de
+      base and of variant A. © Ville de Montréal. Not reproduced. No freely-licensed photograph of a
+      Saint-Michel plex italien was identified on Wikimedia Commons in this pass.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  From the 1960s, and known to the borough as the <em>plex italien</em> after the builders who put it
+  up: two storeys over a habitable basement, set back far enough from the street for a sunken drive
+  down to a garage, a wide perron up a heavy concrete stair, horizontal windows, almost no parapet
+  under a flat projecting eave — and pale brick, white or light yellow and sometimes glazed, laid
+  now and then in coloured patterns the by-law calls fanciful. Its most homogeneous groups are in
+  Saint-Michel.
+origin_en: >-
+  A third plex generation, which no other place record on this site carries, and the one that shows
+  the family surviving the car. It also gives this site its only building type named for the
+  immigrant community that built it, recorded as such in a municipal by-law — a companion to the way
+  the 2005 cahier describes Saint-Michel receiving « de nombreux immigrants italiens » after the war
+  and Parc-Extension being known for the ethnocultural diversity of its population.

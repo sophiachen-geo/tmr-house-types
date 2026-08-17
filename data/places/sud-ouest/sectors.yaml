@@ -1,0 +1,436 @@
+# Three overlapping systems, all of them the sources' own, none of them ours.
+#
+# 1. The Ville de Montréal Évaluation du patrimoine urbain (2005) grades TERRITORY: fifteen
+#    22.E.n secteurs de valeur patrimoniale exceptionnelle. Its code grammar is stated in every
+#    cahier of the series — first number = arrondissement, letter = grade, second number = sector.
+#    The arrondissement number here is 22, read from inside the document (all 540 code occurrences
+#    begin 22), never from the filename, which is 12. summary_fr is verbatim; summary_en is ours.
+#    The cahier also designates 25 secteurs intéressants (22.I.n), two secteurs industriels
+#    d'intérêt (22.N.n) and one secteur urbain d'intérêt (22.U.1); only the E set is encoded here.
+#
+# 2. The Patri-Arch typo-morphological study (2013) divides the SAME territory on a different
+#    principle — agricultural lotting and the permanences that outlived it — into five aires de
+#    paysage, coded AIRE-1 … AIRE-5 here because the study numbers them only through their unités.
+#    They are the level the PIIA sends applicants to read, so they are sectors here too.
+#
+# 3. Archaeology is a separate overlay in the cahier, not a heritage grade: fourteen secteurs
+#    d'intérêt archéologique à fort potentiel, 22.AP.1–22.AP.14. One is encoded, 22.AP.5, as the
+#    example the schema's archaeological-potential value exists for.
+
+# ------------------------------------------------------- Évaluation 2005, secteurs exceptionnels
+- id: canal-de-lachine
+  code: 22.E.1
+  name_fr: Canal de Lachine
+  value: exceptional
+  summary_en: >-
+    The canal itself, its banks, its infrastructure and a heavy concentration of industrial,
+    residential, public and commercial buildings of heritage interest — the sector that crosses
+    the whole borough and several of the former municipalities annexed to Montréal. On the north
+    bank the Griffintown portion, continuous with the faubourg des Récollets, was industrial from
+    the start; the cahier describes an urban fabric dotted with vacant lots and buildings of
+    1880–1950 built to the street line, clay brick, vertical fenestration in regular bays, and a
+    second generation of shed-like steel-frame volumes from the 1950s. Named at length: the Canada
+    Malting with its terracotta silos, the Redpath Sugar Refinery, Belding Corticelli, the Brennan
+    warehouse, the Nordelec, the New City Gas Company, the marché Atwater on its edge, and the
+    declining wood-clad row of workers' houses at 4351-4363 rue Saint-Ambroise, a cited monument
+    historique.
+  summary_fr: >-
+    « Ce secteur comprend le canal lui-même, ses berges, ses infrastructures et une concentration
+    importante d’immeubles industriels, résidentiels, publics et commerciaux d’intérêt patrimonial. »
+  streets: [rue Saint-Ambroise, rue du Canal, rue Saint-Patrick]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.1
+
+- id: sainte-anne
+  code: 22.E.2
+  name_fr: Sainte-Anne
+  value: exceptional
+  summary_en: >-
+    Two triangular blocks either side of rue de la Montagne in the former Griffintown. The first,
+    bounded by rues Ottawa, Murray and Wellington, holds the old core built round the Irish parish
+    church, of which only the foundations survive in the parc Sainte-Anne, and a fine alignment of
+    brick houses with false mansards. The second, bounded by rues du Séminaire, de la Montagne and
+    Ottawa, is articulated by the édifice Kander at its prow. The cahier notes a kinship between
+    the architectural language of the traditional dwellings and that of the industrial buildings —
+    clay brick, window proportions, building heights — and calls the sector's present character
+    « fantomatique » while judging it worth repairing.
+  summary_fr: >-
+    « Le secteur Sainte-Anne, dans l’ancien quartier Griffintown, comprend deux îlots de forme
+    triangulaire situés de part et d’autre de la rue de la Montagne. […] On y trouve aussi un bel
+    alignement de maisons en brique avec fausses mansardes de même que quelques maisons dispersées
+    dans une trame urbaine distendue, qui partagent des cours communes avec des petites industries
+    et des entreprises artisanales. »
+  streets: [rue de la Montagne, rue Ottawa, rue Murray, rue Wellington, rue du Séminaire]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.2
+
+- id: notre-dame-des-seigneurs
+  code: 22.E.3
+  name_fr: Notre-Dame, des Seigneurs
+  value: exceptional
+  summary_en: >-
+    A stretch of rue Notre-Dame distinguished by two banks facing each other across rue des
+    Seigneurs — the Banque de Montréal and the Merchants Bank of Halifax, both on the south flank —
+    which the cahier reads as a gateway to the canal sector. Other buildings of high quality stand
+    with them, in variable condition, especially at the commercial ground floors.
+  summary_fr: >-
+    « Cette portion de la rue Notre-Dame se distingue par la qualité exceptionnelle de
+    l’architecture de la Banque de Montréal et de la Merchants Bank of Halifax […] Cet ensemble
+    constitue une véritable porte d’entrée du secteur du canal de Lachine. »
+  streets: [rue Notre-Dame Ouest, rue des Seigneurs]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.3
+
+- id: place-richmond
+  code: 22.E.4
+  name_fr: Place Richmond
+  value: exceptional
+  summary_en: >-
+    Four sentences in the cahier and one of the sharpest type descriptions in it: three-storey
+    single-family brick houses, sober and elegant, with mansard roofs, dormers and exterior stairs,
+    the whole of great coherence. Read against the type records, it is a sector where the
+    single-family house and the exterior stair — normally the mark of the plex — occur together.
+  summary_fr: >-
+    « La place regroupe un bel ensemble de maisons unifamiliales de trois étages en brique, au
+    décor sobre et élégant et avec toits mansards, lucarnes et escaliers extérieurs. L’ensemble est
+    d’une grande cohérence. »
+  streets: [place Richmond]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.4
+
+- id: coursol
+  code: 22.E.5
+  name_fr: Coursol
+  value: exceptional
+  summary_en: >-
+    The high point of the residential sector of Sainte-Cunégonde's industrial bourgeoisie: a curving
+    street of small two-storey single-family Victorian houses in series, very elaborately decorated,
+    whose curve the cahier says makes them more picturesque still. Also here, at the corner of rues
+    Saint-Antoine and Vinet, a three-storey neoclassical stone building with a commercial ground
+    floor under a heavy cornice; and along rue Saint-Antoine, runs of two- and three-storey stone
+    buildings with false mansards, small exterior stairs and front yards.
+  summary_fr: >-
+    « À proximité de l’église Sainte-Cunégonde, le magnifique alignement de petites maisons
+    victoriennes unifamiliales en série de deux étages au décor très élaboré de la rue Coursol suit
+    la courbure de la rue et le rend d’autant plus pittoresque. »
+  streets: [rue Coursol, rue Saint-Antoine Ouest, rue Vinet]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.5
+
+- id: place-saint-henri
+  code: 22.E.6
+  name_fr: Place Saint-Henri
+  value: exceptional
+  summary_en: >-
+    A planned development inaugurated in 1892, ringed with the Victorian-inspired houses of the
+    French-Canadian elite in varied styles. At its centre stands the monument-fountain to Jacques
+    Cartier, made in 1893 by Joseph-Arthur Vincent — the first work of public art commissioned from
+    a professional artist in Montréal, which the cahier notes put the municipality of Saint-Henri
+    ahead of the metropolis, whose own first commissioned monument came in 1895. The neighbouring
+    streets are homogeneous: two- or three-storey buildings in brick or stone, flat roofs or
+    slate-clad false mansards, set back from the pavement with front yards that accommodate
+    exterior stairs.
+  summary_fr: >-
+    « Les rues voisines de la place présentent un bâti homogène de qualité. On y trouve des
+    immeubles de deux ou trois étages, en brique ou en pierre, au décor plus ou moins élaboré, avec
+    des toits plats ou des fausses mansardes revêtues d’ardoise. Ils sont le plus souvent implantés
+    en recul du trottoir avec des cours avant qui accommodent des escaliers extérieurs. »
+  streets: [place Saint-Henri]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.6
+
+- id: square-sir-george-etienne-cartier
+  code: 22.E.7
+  name_fr: Square Sir-George-Étienne-Cartier
+  value: exceptional
+  summary_en: >-
+    Laid out between 1905 and 1912 on the site of vast industrial slaughterhouses, to clean up its
+    surroundings, and headed by the église Saint-Zotique. Building standards for the houses ringing
+    the square required noble cladding — stone or brick — and the cahier records the result:
+    opulent residences in varied styles beside more modest dwellings, detached or contiguous, and
+    runs of triplexes, mostly in stone, soberly decorated, with exterior stairs. Its cast-iron
+    fountain, installed at the end of the 19th century at the same time as the one in square
+    Saint-Louis, is one of the last Montréal examples of Victorian street furniture bought from a
+    catalogue — here from the Mott Iron Works of New York.
+  summary_fr: >-
+    « Il est bordé de résidences cossues aux styles variés et aux décors élaborés côtoyant des
+    habitations plus modestes, individuelles ou contiguës, et des séries de triplex, majoritairement
+    en pierre, au décor généralement assez sobre, avec des escaliers extérieurs. »
+  streets: [square Sir-George-Étienne-Cartier]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.7
+
+- id: saint-ambroise
+  code: 22.E.8
+  name_fr: Saint-Ambroise
+  value: exceptional
+  summary_en: >-
+    A small, heterogeneous run of workers' dwellings facing the canal sector, in a low-density
+    stretch of rue Saint-Ambroise whose informal atmosphere the cahier attributes to the collision
+    of small-gauge housing with the immense Canada Malting opposite. The remains of the old
+    collector of the rivière Saint-Pierre run under the street, which was traced very early,
+    parallel to the canal.
+  summary_fr: >-
+    « Cette petite série de logements ouvriers assez hétérogènes faisant front au secteur du canal
+    de Lachine s’insère dans un paysage urbain intéressant et unique dans l’arrondissement.
+    L’atmosphère informelle de la rue Saint-Ambroise est en partie due à sa faible densité et à
+    l’implantation particulière d’habitations de petit gabarit qui font face à l’immense édifice de
+    la Canada Malting. »
+  streets: [rue Saint-Ambroise]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.8
+
+- id: aqueduc
+  code: 22.E.9
+  name_fr: Aqueduc
+  value: exceptional
+  summary_en: >-
+    Not a residential sector: the aqueduct canal itself and the water-filtration complex, running
+    between Pointe-Saint-Charles and Côte-Saint-Paul and on into Verdun and LaSalle. After the
+    great fire of 1852 Thomas C. Keefer was commissioned to design a new supply plan, including a
+    2.4 km canal bringing water from above the Lachine rapids to the Pavillon des roues, on the site
+    of today's Atwater filtration plant. The pumping station of 1923 and the filtration plant
+    ordered after the 1910 typhoid epidemic stand at its two ends.
+  summary_fr: >-
+    « Le système d’aqueduc de Montréal constitue une formidable œuvre d’ingénierie qui témoigne de
+    l’histoire des avancements technologiques et de la gestion des problématiques de santé publique
+    et de lutte contre les incendies. »
+  streets: [canal de l'Aqueduc]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.9
+
+- id: saint-gabriel-saint-charles
+  code: 22.E.10
+  name_fr: Saint-Gabriel et Saint-Charles
+  value: exceptional
+  summary_en: >-
+    Two monumental churches at the heart of Pointe-Saint-Charles — Saint-Gabriel for the Irish
+    Catholics and Saint-Charles for the French-Canadian Catholics — which the cahier calls an
+    exceptional fact in itself, each with a presbytery of real architectural interest. With the
+    école Saint-Jean-l'Évangéliste and the residential and commercial buildings of rue du Centre
+    they form an institutional and commercial core.
+  summary_fr: >-
+    « Au cœur du quartier Pointe-Saint-Charles se retrouvent, fait exceptionnel, deux églises
+    monumentales d’une architecture remarquable : celle des catholiques irlandais, l’église
+    Saint-Gabriel, et celle des catholiques canadiens-français, l’église Saint-Charles. »
+  streets: [rue du Centre]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.10
+
+- id: de-rushbrooke-hibernia
+  code: 22.E.11
+  name_fr: De Rushbrooke, Hibernia
+  value: exceptional
+  summary_en: >-
+    The one E sector defined by its typological variety rather than its coherence. Rue de
+    Rushbrooke still looks like a village and carries a range of architectural types on varied
+    sitings: maisons villageoises and small single-family houses in the Victorian taste, sometimes
+    very elaborately decorated, set behind front setbacks of differing depth. Its curve opens a
+    fine perspective onto rue Hibernia. The sector also takes in the part of rue Wellington near
+    rue Charlevoix, with an exceptional run of large bourgeois houses in varied styles and a small
+    series of Victorian single-family houses.
+  summary_fr: >-
+    « La rue de Rushbrooke garde des allures de village et affiche une variété de typologies
+    architecturales aux implantations diverses, ce qui lui confère son caractère très particulier.
+    Maisons villageoises et petites maisons unifamiliales au goût victorien et au décor parfois très
+    élaboré implantées avec des marges de recul avant variables s’y succèdent. »
+  streets: [rue de Rushbrooke, rue Hibernia, rue Wellington, rue Charlevoix]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.11
+
+- id: wellington-hogan
+  code: 22.E.12
+  name_fr: Wellington, Hogan
+  value: exceptional
+  summary_en: >-
+    A short segment of rue Wellington at the parc Marguerite-Bourgeoys: on the south side the
+    former Hogan public bath, an exceptional Art Deco building; on the north a Protestant church and
+    an impressive set of late-19th-century bourgeois houses in the Victorian taste, of high quality
+    and varied decoration. The cahier reads the sector as evidence of the street's prestige from
+    the end of the 19th century to the first third of the 20th.
+  summary_fr: >-
+    « Ce secteur regroupe des bâtiments à vocation résidentielle, civique et cultuelle qui
+    témoignent du prestige de cette artère dans la période allant de la fin du XIXe jusqu’au premier
+    tiers du XXe siècle. »
+  streets: [rue Wellington, parc Marguerite-Bourgeoys]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.12
+
+- id: de-sebastopol
+  code: 22.E.13
+  name_fr: De Sébastopol
+  value: exceptional
+  summary_en: >-
+    A very small, very picturesque street beside the Grand Trunk works, holding a short series of
+    dwellings built about 1855 to house a highly skilled workforce — among the oldest in the
+    quarter. The little street that once opened straight onto the industrial complex is now cut off
+    from it by a screen of vegetation, which the cahier says gives it a rural character. The houses
+    are listed in the same cahier among the borough's immeubles de valeur patrimoniale
+    exceptionnelle, at 422-436, 438-444, 456 and 458-460 rue de Sébastopol, as « Maisons d’ouvriers
+    des ateliers du Grand Tronc ».
+  summary_fr: >-
+    « Cette petite rue très pittoresque jouxte le complexe des ateliers du Grand Tronc. Elle
+    comprend toujours une petite série d’habitations construites vers 1855 pour loger une
+    main-d’œuvre d’un haut niveau d’expertise et qui figurent parmi les plus anciennes du quartier. »
+  streets: [rue de Sébastopol]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), sections A and E
+  code_eval2005: 22.E.13
+
+- id: ferme-couvent-saint-gabriel
+  code: 22.E.14
+  name_fr: Ferme et couvent Saint-Gabriel
+  value: exceptional
+  summary_en: >-
+    The farmhouse built in 1698 on the foundations of an older building that served as school and
+    lodging for the Filles du roi on their arrival. One of the oldest buildings in the city, classed
+    a monument historique and now a museum; the farm's convent lies inside its aire de protection.
+    The Patri-Arch study uses the maison Saint-Gabriel as the single surviving witness of the
+    borough's agricultural period.
+  summary_fr: >-
+    « La maison de ferme construite en 1698 repose sur les fondations d’un bâtiment plus ancien qui
+    servit d’école et de logement aux « Filles du roi » lors de leur arrivée au pays. Ce bâtiment,
+    l'un des plus vieux de la ville, est classé monument historique et fait aujourd'hui office de
+    musée. »
+  streets: [place de Dublin]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.14
+
+- id: site-du-patrimoine-cote-saint-paul
+  code: 22.E.15
+  name_fr: Site du patrimoine de Côte-Saint-Paul
+  value: cited-site
+  summary_en: >-
+    The one E sector that carried a legal status of its own in 2005, constituted a site du
+    patrimoine under the Loi sur les biens culturels: the église Saint-Paul and its presbytery, the
+    former hôtel de ville and the former pensionnat Notre-Dame-du-Rosaire. The cahier reads it as a
+    village core of great coherence and intimate character, recalling the period when
+    Côte-Saint-Paul was an autonomous municipality, and as evidence of the relations between public
+    and religious authorities in local collective life.
+  summary_fr: >-
+    « Ce secteur s’est vu attribuer le statut juridique de site du patrimoine en vertu de la Loi sur
+    les biens culturels. […] Il forme un noyau villageois d’une grande cohérence, à caractère
+    intimiste, qui rappelle une période au cours de laquelle Côte-Saint-Paul était une municipalité
+    autonome. »
+  streets: [chemin de la Côte-Saint-Paul]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section A
+  code_eval2005: 22.E.15
+  note: >-
+    Graded exceptional in the cahier like the other fourteen; recorded here as cited-site because it
+    is the only one of the fifteen that also carries a municipal legal status, and the distinction
+    between a grade and a status is one this site keeps.
+
+# --------------------------------------------------- Patri-Arch 2013, the five aires de paysage
+- id: aire-petite-bourgogne
+  code: AIRE-1
+  name_fr: Aire de paysage La Petite-Bourgogne
+  value: unite-de-paysage
+  summary_en: >-
+    Five unités de paysage, 1.1–1.5, at the eastern end of the borough: Sainte-Cunégonde, rue
+    Notre-Dame Ouest 2, rue Coursol Ouest, rue Coursol Est, marché Atwater. The area of the former
+    village of Sainte-Cunégonde, formed as a parish in 1875, a village in 1876 and annexed to
+    Montréal in 1906, and the one most reshaped by the postwar urban-renewal programmes, which the
+    study says were carried out block by block: the street grid survives, but the two sides of a
+    street can now carry different types.
+  summary_fr: >-
+    « Les aires de paysage sont de vastes zones qui se caractérisent par un mode de lotissement
+    agricole particulier. »
+  source: Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2013), printed pp. 11, 26–38
+  note: >-
+    The study numbers the aires only implicitly, through the first field of each unité's number;
+    AIRE-n here is this site's code, and the five names are the study's own (printed p. 11).
+
+- id: aire-pointe-saint-charles
+  code: AIRE-2
+  name_fr: Aire de paysage Pointe-Saint-Charles
+  value: unite-de-paysage
+  summary_en: >-
+    Fourteen unités de paysage, 2.1–2.14, on the peninsula between the canal and the river: rue du
+    Centre, Ferme Saint-Gabriel Nord and Sud, Ferme Knox Ouest and Est, parc Marguerite-Bourgeoys,
+    rue Hall, rue de Liverpool, rue Wellington, rue de la Congrégation, rue Bourgeoys, parc Le Ber,
+    and rue Saint-Patrick Est. The oldest working-class fabric in the borough, laid out around the
+    Grand Trunk works, and the area where the study's blocks without ruelle — and therefore the
+    porte cochère — are commonest.
+  summary_fr: >-
+    « Le nom de chaque aire de paysage a été choisi selon l’appellation historique liée à ce
+    territoire (ex. La Petite-Bourgogne, Pointe-Saint-Charles, Côte-Saint-Paul, Saint-Henri,
+    Griffintown). »
+  source: Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2013), printed pp. 11, 26–38
+
+- id: aire-cote-saint-paul
+  code: AIRE-3
+  name_fr: Aire de paysage Côte-Saint-Paul
+  value: unite-de-paysage
+  summary_en: >-
+    Twenty unités de paysage, 3.1–3.20, the largest of the five: avenue de l'Église Est and Ouest,
+    rue De Roberval, parc Saint-Paul, Saint-Paul Ouest and Est, rue Holy Cross, Côte des Argoulets,
+    boulevard De La Vérendrye, Terre De Sève Nord and Sud, Terre Hudon, Ville Émard Nord and Sud,
+    avenue Newman, boulevard Monk, parc Angrignon, William-Parkin and Dominion Textile. The last
+    part of the borough to fill, and the one the study says still held free land at the end of the
+    1875–1945 period. It is where the maison « boomtown » occurs exclusively, where the duplex with
+    exterior stair is commonest, and where the maisons de vétérans were built.
+  summary_fr: >-
+    « La maison « boomtown » est exclusivement visible dans l'aire de paysage Côte-Saint-Paul. »
+  source: Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2013), printed pp. 11, 26–38, 50, 70
+
+- id: aire-saint-henri
+  code: AIRE-4
+  name_fr: Aire de paysage Saint-Henri
+  value: unite-de-paysage
+  summary_en: >-
+    Seventeen unités de paysage, 4.1–4.17: village Saint-Augustin, rue Notre-Dame Ouest 3,
+    Lionel-Groulx, avenue Greene, Imperial Tobacco, parc Saint-Henri, place Saint-Henri, ferme
+    Brodie, village Sainte-Marguerite, square Sir-George-Étienne-Cartier, paroisse Saint-Zotique Est
+    and Ouest, Sainte-Élisabeth-du-Portugal, rue Cazelais, village Turcot, chemin de la
+    Côte-Saint-Paul and rue Saint-Ambroise. Saint-Henri was constituted a municipality in 1875 and
+    annexed to Montréal in 1905; the village Turcot inside it stayed low-density and is the one
+    unit where the maison villageoise is the principal type.
+  summary_fr: >-
+    « La principale exception est le village Turcot, qui est demeuré à faible densité, probablement
+    en raison de son éloignement par rapport aux principaux pôles industriels et institutionnels. »
+  source: Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2013), printed pp. 11, 26–38, 42
+
+- id: aire-griffintown
+  code: AIRE-5
+  name_fr: Aire de paysage Griffintown
+  value: unite-de-paysage
+  summary_en: >-
+    Nine unités de paysage, 5.1–5.9: fief Nazareth, rue Ottawa, parc Griffintown St. Ann, rue
+    Notre-Dame Ouest 1, rue Barré, and four the synthesis does not name. The first faubourg laid out
+    in the borough, on the fief Nazareth leased by the Sœurs hospitalières to Thomas McCord in 1792
+    and sold on to Robert and Mary Griffin in 1796 without his agreement; the building lots were not
+    taken up until the canal was dug. The quartier Sainte-Anne including Griffintown was constituted
+    in 1832. Postwar expropriation emptied it of its population, and the Bonaventure viaduct and
+    expressway cut it off from downtown.
+  summary_fr: >-
+    « Griffintown est le premier faubourg aménagé sur le territoire de l’arrondissement du
+    Sud-Ouest. »
+  source: Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2013), printed pp. 11, 28
+
+# ------------------------------------------------- Évaluation 2005, the archaeological overlay
+- id: saint-henri-des-tanneries
+  code: 22.AP.5
+  name_fr: Saint-Henri-des-Tanneries et canal de Lachine
+  value: archaeological-potential
+  summary_en: >-
+    One of fourteen secteurs d'intérêt archéologique à fort potentiel in the cahier — an overlay,
+    not a heritage grade, and the reason the sector vocabulary on this site carries an AP value at
+    all. Around 1770 a village specialising in leather work and known as Saint-Henri-des-Tanneries
+    already stood here beside the little rivière Saint-Pierre. When the canal was begun in 1825
+    Saint-Henri counted 466 inhabitants, of whom 160 were leather workers, 250 farmers and 30
+    innkeepers. The second half of the 19th century brought the first industrial tanneries,
+    shipyards, textiles and metals. The cahier's archaeological text runs through the Canada
+    Malting and Montreal Fire Bricks, the Merchants Manufacturing, the Globe Hat Works and the
+    Moseley tannery — the last established on land Edward Moseley bought in 1858, in operation from
+    1859, a complex of about a dozen buildings, whose rebuilt red-brick main building still stands
+    at the south-west corner of rues Saint-Ambroise and Turgeon.
+  summary_fr: >-
+    « Vers 1770, un village spécialisé dans le travail du cuir et connu sous l’appellation de
+    Saint-Henri-des-Tanneries s’élève déjà dans ce secteur, à proximité de la petite rivière
+    Saint-Pierre. Au moment de la construction du canal de Lachine, en 1825, Saint-Henri compte 466
+    habitants incluant 160 artisans du cuir, 250 agriculteurs et 30 hôteliers et aubergistes. »
+  streets: [rue Saint-Ambroise, rue Turgeon, rue Saint-Ferdinand]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), section 3.2.3 A
+  note: >-
+    The cahier heads this text « 22.AP.5, 22.AP.6 ET 22.A.1 » and its entries for 22.AP.6 and
+    22.AP.4 read « Voir texte 22.AP.5 » — three overlay sectors sharing one description. Only
+    22.AP.5 is encoded; the other thirteen AP sectors are recorded in the source manifest.

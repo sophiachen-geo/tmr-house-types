@@ -1,0 +1,12 @@
+# The Patri-Arch synthèse du développement (printed pp. 25–38) sets out FOUR periods, and their
+# titles here are the study's own. The fifth, p4, is not a heading in the study: it is the sub-period
+# the study describes inside the third, in one sentence that is the hinge of the whole borough —
+# « Le triplex avec escalier extérieur (type architectural 2.6) fait son apparition principalement à
+# partir de 1900 » — and it is given a phase of its own here because seven of the fifteen residential
+# types belong to it and none of them exists before it. p3 and p4 therefore overlap by design; the
+# study's own third period runs 1875–1945 throughout.
+- {id: p1, label: avant 1825, start: 1760, end: 1825, title_en: 'Période agricole: farms, côtes and the portage roads', colour_key: p1}
+- {id: p2, label: 1825–1875, start: 1825, end: 1875, title_en: "Période d'industrialisation: the canal de Lachine and the first villages", colour_key: p2}
+- {id: p3, label: 1875–1945, start: 1875, end: 1945, title_en: 'Période de création des infrastructures municipales: standardised housing, ruelles in « I » then « H »', colour_key: p3}
+- {id: p4, label: 1900–1945, start: 1900, end: 1945, title_en: 'The exterior stair: the plex family arrives, from 1900', colour_key: p4}
+- {id: p5, label: 1945–, start: 1945, end: 2013, title_en: 'Période de rénovation et de revitalisation urbaine: expressways, expropriations, and the canal reopened', colour_key: p5}

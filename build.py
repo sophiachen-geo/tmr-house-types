@@ -174,6 +174,27 @@ for c in canon_types:
 if len(STYLE) != len(canon_styles):
     fail("styles.yaml: duplicate ids")
 
+# Part 10a: which canonical forms a topic page explains. The plex group is expanded to its
+# children and to any alias pointing at it, so a record naming any of them picks the link up.
+def _canon_closure(root):
+    out = {root}
+    if root in CANON:
+        out |= set(CANON[root]["children"])
+    out |= {c["id"] for c in canon_types if c["alias_of"] in out}
+    return out
+
+
+TOPIC_FOR_CANONICAL = {
+    "escalier-exterieur": {"label": "The exterior stair — why it is outside",
+                           "forms": _canon_closure("plex-family")},
+}
+for _tid, _spec in TOPIC_FOR_CANONICAL.items():
+    if not (DATA / "canon" / "topics" / f"{_tid}.yaml").exists():
+        fail(f"topic '{_tid}' is linked from type records but data/canon/topics/{_tid}.yaml is missing")
+    missing = [m for m in _spec["forms"] if m not in CANON]
+    if missing:
+        fail(f"topic '{_tid}' names canonical forms that do not exist: {missing}")
+
 section_essays = split_headed_md(DATA / "canon" / "sections.md", r"^section:")
 
 # ---------------------------------------------------------------- load places
@@ -313,6 +334,15 @@ for pdir in sorted((DATA / "places").iterdir()):
         for key, _label in TRAIT_LABELS:
             if key not in t["profile"] or not isinstance(t["profile"][key], list):
                 fail(f"{tctx}: profile missing list '{key}'")
+            # An unquoted colon inside a bullet makes YAML read it as a mapping, not a string.
+            # Caught here rather than 400 lines later in the CSV writer, where the traceback
+            # names neither the file nor the key.
+            for i, bullet in enumerate(t["profile"][key]):
+                if not isinstance(bullet, str):
+                    got = (f"a mapping with key '{next(iter(bullet))}'"
+                           if isinstance(bullet, dict) and bullet else type(bullet).__name__)
+                    fail(f"{tctx}: profile.{key}[{i}] is {got}, not text — "
+                         f"a bullet containing ': ' must be quoted")
         if not per_type_table and not t.get("profile_note"):
             fail(f"{tctx}: profile_note is required when typology_document.format != per-type-table")
         if not t["photos"]:
@@ -364,6 +394,22 @@ for pdir in sorted((DATA / "places").iterdir()):
         t.setdefault("variants", None)       # Part 10a: the Patri-Arch fiches' section D
         if t["variants"] is not None and not isinstance(t["variants"], list):
             fail(f"{tctx}: variants must be a list")
+        # Two sources shape these differently and both are legitimate: the Sud-Ouest and Rosemont
+        # studies write a variant as one block of prose, while VSP's Annexe F gives every variant a
+        # letter and a name. Normalised to one shape here so a single template renders both.
+        if t["variants"]:
+            norm = []
+            for i, v in enumerate(t["variants"]):
+                if isinstance(v, str):
+                    norm.append({"code": None, "name_fr": None, "text": v})
+                elif isinstance(v, dict):
+                    if not (v.get("summary_fr") or v.get("text")):
+                        fail(f"{tctx}: variants[{i}] has neither summary_fr nor text")
+                    norm.append({"code": v.get("code"), "name_fr": v.get("name_fr"),
+                                 "text": v.get("summary_fr") or v.get("text")})
+                else:
+                    fail(f"{tctx}: variants[{i}] must be text or a mapping, got {type(v).__name__}")
+            t["variants"] = norm
         t.setdefault("page", None)           # page anchor in a paginated source (Part 9a)
         t.setdefault("example_addresses", None)   # the inventory's own printed examples (Part 9a)
         t.setdefault("municipalities", None)      # which of a multi-municipality place it occurs in
@@ -423,6 +469,14 @@ for pdir in sorted((DATA / "places").iterdir()):
         if unknown_fr:
             fail(f"{tctx}: profile_fr has keys no column or standalone row maps: {sorted(unknown_fr)}")
         t["canonical_objs"] = [CANON[c] for c in t["canonical"]]
+        # Part 10a: a topic explains one building element across every place that has it, so the
+        # link is derived from canonical membership rather than repeated in thirty type files.
+        # Every member of the plex family gets the exterior-stair explainer — including the
+        # interior-stair types, which are the reason the page has to explain that the stair is
+        # not what defines a plex.
+        t["topic_links"] = [{"id": tid, "label": spec["label"]}
+                            for tid, spec in sorted(TOPIC_FOR_CANONICAL.items())
+                            if any(cid in spec["forms"] for cid in t["canonical"])]
         t["style_objs"] = [STYLE[s] for s in t["styles"]]
         t.setdefault("style_label", " / ".join(s["name_en"] for s in t["style_objs"]))
         t.setdefault("aliases", [])
@@ -724,7 +778,7 @@ for kind in ("frameworks", "topics"):
                 require(b["table"], ["columns", "rows"], f"{kind}/{f.name}: table")
         extras.append(rec)
         render("framework.html", f"{kind}/{rec['id']}/index.html", 2,
-               title=f"{rec['title']} — {SITE}", rec=rec)
+               title=f"{rec['title']} — {SITE}", description=rec["kicker"], rec=rec)
 FRAMEWORKS = [r for r in extras if r["kind"] == "frameworks"]
 TOPICS = [r for r in extras if r["kind"] == "topics"]
 

@@ -1,0 +1,80 @@
+id: mercier-hochelaga-maisonneuve.commerce-logement-artere
+place: mercier-hochelaga-maisonneuve
+phase: p3
+name_en: Shop-and-dwellings block on the commercial artery
+name_fr: L'immeuble commercial avec logements, rues Ontario et Sainte-Catherine
+source_ref: "Évaluation du patrimoine urbain (2005), sectors 27.E.2 and 27.I.1; Guide patrimonial de MHM"
+canonical: [mixed-use-flat-roof-block]
+styles: [faubourg-vernacular, edwardian-classical]
+tenure_plan: mixed
+storeys: "3"
+window_proportion: vertical
+principal_cladding: [grey-limestone, clay-brick]
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: 0
+sectors: ["27.E.2"]
+profile:
+  siting_landscape:
+    - Built to the lot lines with no setback, on the corner of a commercial artery and a residential street — rue Ontario Est and rue Sainte-Catherine Est are the two the Évaluation identifies as the axes of urban development once the tramway reached the east end.
+    - The corner is chamfered so the shop entrance faces the crossing.
+  massing:
+    - Three storeys under a flat roof, shop at street level and dwellings above.
+    - A projecting oriel rides the chamfered corner through the upper storeys.
+  articulation:
+    - "Ground floor read as its own register — the borough's Guide patrimonial defines « entablement » precisely as « partie supérieure d'un rez-de-chaussée (commercial) prenant la forme d'un bandeau »."
+    - Crown gathered into a bold projecting cornice of worked painted metal, ornamented across the whole frontage and returning around the chamfer.
+  openings:
+    - Vertical rectangular upper windows in regular bays; glazed shopfront below, here with glass-block infill of a later phase.
+  materials:
+    - Rock-faced grey limestone above, brick at the shopfront piers; the Guide's palette for significant sectors allows grey limestone, smooth or rock-faced, and clay brick in red, brown, beige, orange, polychrome or glazed.
+profile_note: >-
+  A weaker record than the others on this page, and marked as such. The Évaluation gives this form no
+  fiche; it names commercial buildings only inside its list of what makes the sectors' fabric —
+  « Industries, banques, édifices commerciaux, écoles et églises composent un paysage bâti riche et
+  diversifié » — and its individual listings for rue Ontario Est are banks, not shop-houses. The
+  articulation and materials lines are drawn from the borough's Guide patrimonial, which regulates the
+  commercial ground-floor entablature and the crown as their own categories in the secteurs
+  significatifs; the massing and siting lines are read from the photographed example and are labelled
+  visual, not documentary. The type is included because it is the one thing Maisonneuve's own zoning
+  by-law was written to keep off the residential streets: the cahier records that the city « instaure un
+  règlement de zonage qui est une nouveauté à l'époque. Celui-ci interdit la construction de commerces ou
+  d'industries sur certaines rues, consacrées uniquement au développement résidentiel. » The plex streets
+  and this corner are two halves of one rule.
+example_addresses:
+  - {address: "4239, rue Ontario Est", note: "Photographed here; one block west of the ancien hôtel de ville at 4120 and two east of the Marché Maisonneuve at 4375."}
+  - {address: "4240, rue Ontario Est", note: "Bank of Toronto — listed by the Évaluation among the immeubles commerciaux de valeur patrimoniale exceptionnelle."}
+  - {address: "4250, rue Ontario Est", note: "Molson's Bank — the same list."}
+  - {address: "1493, avenue De La Salle", note: "Banque d'Épargne — the same list."}
+photos:
+  - file: assets/places/mercier-hochelaga-maisonneuve/commerce-logement-4239-ontario-est.jpg
+    credit: >-
+      "4239, Ontario Street East, Montreal, Quebec, Canada, H1V 1K2" by Thomas1313, 7 November 2014,
+      Wikimedia Commons, CC BY-SA 4.0 — licence read on the Commons API before download. File:
+      https://commons.wikimedia.org/wiki/File:4239,_Ontario_Street_East,_Montreal.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:4239,_Ontario_Street_East,_Montreal.jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on address and form, but to a building the Évaluation does not list, so the confidence is
+      visual rather than documentary. The frame shows the whole of the description: three storeys of
+      rock-faced grey limestone on a chamfered corner, an oriel on the chamfer, a shop at street level
+      behind brick piers with later glass block, and a heavy star-ornamented metal cornice carried right
+      round the crown. The address places it inside sector 27.E.2, a block from the ancien hôtel de ville.
+blurb_en: >-
+  The other half of Maisonneuve's zoning experiment. Where the by-law let commerce go — rue Ontario Est,
+  rue Sainte-Catherine Est — the block turns its corner on a chamfer, puts a shop under three storeys of
+  flats, runs an oriel up the angle and finishes the whole thing with an ornamented metal cornice. The
+  streets the by-law reserved for housing got the plex instead, and no shop at all.
+origin_en: >-
+  The tramway is the cause. The Évaluation dates Hochelaga's commercial axes to the moment the streetcar
+  arrived — rue Sainte-Catherine and the new Montreal Street Railway viaduct of 1892 « pour desservir les
+  populations de l'est montréalais » — and dates Maisonneuve's own growth from the same year: « à partir
+  de 1892, les tramways favorisent le développement rapide de Maisonneuve et placent la municipalité dans
+  la zone d'influence de Montréal ». Shops followed the rails, and the corner block is what a builder
+  puts on a lot that has to earn from both a shopfront and a stack of flats.

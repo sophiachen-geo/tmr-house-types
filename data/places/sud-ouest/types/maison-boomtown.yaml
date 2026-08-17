@@ -1,0 +1,176 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.maison-boomtown
+place: sud-ouest
+page: 50
+phase: p3
+phase_confidence: verified
+name_en: Boomtown house
+name_fr: La maison « boomtown »
+courant: 1. La maison unifamiliale
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 1.3 — La maison « boomtown », printed p. 50
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+canonical:
+- boomtown-false-front
+styles:
+- boomtown
+- vernaculaire-industriel
+tenure_plan: single-family
+storeys: 1
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- wood-clapboard
+- metal-siding
+roofing: null
+garage: integrated-or-carport
+lot_width_m: null
+setback_front_m: 2.75
+setback_side_m: 0
+front_yard_green_pct: null
+count_in_place: 352
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Exclusive to the aire de paysage Côte-Saint-Paul, where it is common; examples elsewhere in the
+    borough are rare. It is not the principal type of any single landscape unit.
+  - >-
+    Generally contiguous, front setback 1.5 to 4 m, and where a series occurs the façades form regular
+    alignments.
+  - >-
+    But there are detached examples set at the back of the lot, with a deep front yard in front of them
+    — variante 1, and a relatively frequent one.
+  - The front yard is usually barely landscaped.
+  massing:
+  - A simple rectangular single-storey volume under a flat roof.
+  - A covered entrance porch, or even a full-width galerie, is frequent.
+  - >-
+    The ground floor is lifted two to four risers above grade; the most recent examples sometimes have
+    a real basement or a garage at the lower level.
+  articulation:
+  - >-
+    The façade composition is often very simple: door in the centre, one window each side, with an awning,
+    galerie or porch of varying size added.
+  - >-
+    The top of the building is usually finished with a metal flashing; more complex crownings are made
+    with a worked sheet-metal cornice, with amortissements — small piers at each end of the roof — or
+    with a parapet at the centre.
+  - >-
+    More decorated examples carry stone insertions on the façade: low reliefs in geometric patterns,
+    or stone window surrounds.
+  openings:
+  - Rectangular windows, sometimes nearly square. Casements, or a fixed light paired with a slider.
+  - Doors plain and without a transom.
+  - >-
+    Sometimes the openings have no particular surround; more often a straight stone lintel or a soldier
+    course of brick sits over the windows.
+  materials:
+  - Concrete at the base of the house.
+  - Brick, wood clapboard, and contemporary light claddings such as vinyl for the façade.
+profile_fr:
+  implantation:
+  - >-
+    Ce type de maison est généralement implanté de façon contiguë, avec une marge de recul avant qui
+    varie entre 1,5 et 4 mètres. Toutefois, il existe des exemples isolés implantés en fond de parcelle,
+    bénéficiant d’une cour avant assez profonde. Lorsque l’on retrouve une série de maisons « boomtown
+    », les façades forment des alignements réguliers. La cour avant est habituellement peu aménagée.
+  volumetrie:
+  - >-
+    Ce type architectural présente un volume rectangulaire simple d’un étage coiffé d’un toit plat.
+    On retrouve fréquemment un porche d’entrée couvert ou même une galerie en façade.
+  - >-
+    Le rez-de-chaussée est légèrement surélevé par rapport au niveau du sol, soit de 2 à 4 contremarches.
+    Les exemples les plus récents comprennent parfois un véritable sous-sol ou un garage au niveau inférieur.
+  materiaux:
+  - >-
+    Le soubassement de la maison est en béton, tandis que la brique, le déclin de bois et les revêtements
+    légers contemporains (ex. : vinyle) sont les principaux matériaux de revêtement utilisés pour la
+    façade.
+  traitement_des_facades:
+  - >-
+    Corps — La composition de la façade est souvent très simple. L’exemple typique comprend une porte
+    au centre et une fenêtre de chaque côté. Un auvent, une galerie ou un porche de dimensions variables
+    peuvent s’y ajouter.
+  - >-
+    Couronnement — La partie supérieure du bâtiment est habituellement couronnée d’un solin métallique.
+    Les couronnements plus complexes sont formés d’une corniche en métal ouvragé, d’amortissements (sortes
+    de petits piliers à chaque extrémité du toit) ou d’un parapet au centre.
+  - >-
+    Ornementation — Certains exemples de maisons « boomtown » plus ornées comprennent des insertions
+    en pierre sur la façade, comme des bas-reliefs aux motifs géométriques, ou encore des encadrements
+    d’ouvertures en pierre.
+  ouvertures:
+  - >-
+    Les fenêtres sont rectangulaires, bien que l’on retrouve parfois des proportions presque carrées.
+    Il s’agit de fenêtres à battants ou composées d’une partie fixe et d’une partie coulissante.
+  - Les portes sont simples et sans imposte.
+  - >-
+    Parfois, les ouvertures n’ont pas d’encadrement particulier. Plus fréquemment, un linteau droit
+    en pierre ou composé de briques en soldat surmonte les fenêtres.
+  description:
+  - >-
+    La maison « boomtown » est une résidence unifamiliale de petites dimensions, s’élevant sur un seul
+    étage. Son toit est plat et sa façade présente généralement peu d’ornements.
+  contexte:
+  - >-
+    La maison « boomtown » est exclusivement visible dans l’aire de paysage Côte-Saint-Paul, où elle
+    est assez fréquente. Les exemples se font plus rares ailleurs dans l’arrondissement. Sa période
+    de construction est principalement concentrée dans les premières décennies du 20e siècle, et persiste
+    jusqu’au milieu des années 1940.
+  - Il n’y a aucune unité de paysage où la maison « boomtown » est un type architectural principal.
+  - >-
+    Au total, 352 maisons de ce typologie ont été répertoriées sur le territoire de l’arrondissement
+    du SudOuest, ce qui en fait une typologie relativement fréquente.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — La maison « boomtown » implantée en fond de parcelle : L’implantation en fond de parcelle
+    est relativement fréquente. Dans ce cas, une cour avant de dimensions importantes et munie d’une
+    clôture sépare la maison de la rue. La composition générale du bâtiment demeure habituellement la
+    même.
+profile_note: null
+variants: *id001
+example_addresses:
+- address: 6305, rue Jogues
+  note: the study's own illustration of the type in the synthèse du développement (SO3535)
+- address: 5975, rue Hamilton
+  note: described by the study as the typical boomtown house (unité 3.12 Terre Hudon)
+- address: 6381, rue Hadley
+  note: the study's second representative example
+- address: rue Hurteau
+  note: >-
+    an alignment of boomtown houses, contiguous with a small front yard (unité 3.16 Ville Émard Nord)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 1.3 — La maison « boomtown » est une résidence unifamiliale de petites dimensions,
+    s’élevant sur un seul étage. Son toit est p… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  One storey, flat roof, a door between two windows, and a flashing or a worked metal cornice for a
+  crown. Three hundred and fifty-two of them, all but a handful inside one landscape area, Côte-Saint-Paul
+  — and, tellingly, not the principal type of a single landscape unit anywhere. It is the cheap detached
+  house of the borough's last frontier, built while the plex was filling everything closer in.
+origin_en: >-
+  Boomtown is the most widely distributed form on this site, and the Sud-Ouest is one of the places
+  that extend its range. What is unusual here is the count and the confinement: the study puts a number
+  on it — 352 — and puts it in one corner of one borough. Compare the Rosemont shoebox, a one-storey
+  flat-roofed self-built house of the same decades that another Montréal borough treats as a protected
+  type of its own.

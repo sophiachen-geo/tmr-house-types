@@ -1,0 +1,123 @@
+- id: patri-arch-typomorpho-2013
+  citation: >-
+    Patri-Arch, consultants en patrimoine et architecture, « Étude typomorphologique de
+    l’arrondissement du Sud-Ouest — rapport de synthèse », for the Direction de l'aménagement urbain
+    et des services aux entreprises, Division Urbanisme, arrondissement du Sud-Ouest, Ville de
+    Montréal. Study 2005 (chargé de projet Martin Dubois; fieldwork, photography, research and
+    writing Patrick Marmen, Martin Dubois, Conrad Gallant, Eva-Marie Neumann); mise à jour October
+    2013 (chargé de projet Martin Dubois; Agathe Chiasson-Leblanc, Cindy Morin, Isabelle Bouchard;
+    typo-morphological maps Marie-Hélène Verdier; layout Chantal Lefebvre). Retrieved from the
+    Office de consultation publique de Montréal document server, dossier P81, on 17 August 2026:
+    https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf —
+    sha-256 12c8b0b6631a14b07ba73bb8e5dfea2cad6a3e1b28a171f4ced828a1e5f02b96; 150 PDF pages.
+    Extracted with pdftotext -layout to sources/sud-ouest/txt/sud-ouest_typomorphologie.txt and
+    parsed by sources/sud-ouest/parse.py.
+  used_for: >-
+    Everything typological. All nineteen type records, their five-column profiles and their
+    variants, from the fiches on printed pp. 42–110; the fiche template and the definitions of the
+    socle, corps and couronnement, printed p. 17; the five aires de paysage and the definition of
+    the unité de paysage, printed pp. 11–15; the five phases and the whole synthèse du
+    développement, printed pp. 25–38; the exterior-stair mechanism and the dates 1880, « la fin des
+    années 1880 » and 1900, printed p. 34; the 38 maisons villageoises and the 352 maisons
+    « boomtown »; the anchor addresses on every type card; and the sixty-five unités de paysage,
+    assembled from the lieux d'occurrence lists on each fiche. Copyright: Patri-Arch ceded usage
+    rights in the text, photographs and illustrations to the Ville de Montréal, and the study
+    requires the mention « © Patri-Arch » in any publication of them. No image from the study is
+    reproduced here; quoted French is quoted as quotation.
+
+- id: evaluation-patrimoine-urbain-sud-ouest-2005
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+    développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine
+    urbain — arrondissement du Sud-Ouest », 2005. Directed by Céline Topp; heritage analysis under
+    Jean-François Gravel, chef de division; worked January 2003 – May 2004 for the Plan d'urbanisme
+    adopted 23 November 2004. Team for built heritage and historical research: Julie Boivin,
+    Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre and Pierre-Paul
+    Savignac, architects, with Denise Caron, historian; archaeology by Claire Mousseau with
+    Françoise Duguay, François Bélanger, Anne-Marie Balac and Christian Roy. One of 27 cahiers, one
+    per arrondissement. ISBN 2-7647-0465-8; dépôt légal 2005.
+    http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
+    — retrieved 17 August 2026; sha-256
+    e9c7902b9d1f29169abc9a86c7c2350bd74d5285dcc637daeaf6af1ec2f7c9a2; 100 PDF pages. Extracted with
+    pdftotext -layout to sources/sud-ouest/txt/12_evaluation_patrimoine_sud.txt.
+  used_for: >-
+    The arrondissement code, read from inside the document and not from its filename: all 540 sector
+    codes it prints begin 22, while the file is numbered 12. The fifteen 22.E.n secteurs de valeur
+    patrimoniale exceptionnelle with their names and their verbatim French, printed pp. 29–37; the
+    tallies of 25 I sectors, 2 N sectors, 1 U sector and 14 AP sectors; the 22.AP.5
+    Saint-Henri-des-Tanneries archaeological text, printed pp. 63–65; the site du patrimoine de
+    Côte-Saint-Paul; and the list of immeubles de valeur patrimoniale exceptionnelle, printed
+    pp. 54–55, which is where the maisons d'ouvriers des ateliers du Grand Tronc at 422-436,
+    438-444, 456 and 458-460 rue de Sébastopol and the maison Clermont at 110 rue Saint-Augustin
+    are named.
+
+- id: piia-rca08-22014
+  citation: >-
+    Arrondissement du Sud-Ouest, Ville de Montréal, « Règlement no RCA08 22014 — règlement modifiant
+    le règlement sur les plans d’implantation et d’intégration architecturale (RCA07 22019)
+    notamment en vue d’assurer la conformité au Plan d’urbanisme de la Ville de Montréal (04-047) »,
+    adopted at the séance of the conseil d'arrondissement of 21 May 2008, with its Annexes carrying
+    the fascicules d'intervention. Retrieved from the Office de consultation publique de Montréal
+    document server, dossier P34, on 17 August 2026:
+    https://ocpm.qc.ca/sites/default/files/pdf/P34/7c1.pdf — sha-256
+    cfea8ea019c9bb2b150beff86a1760f8988da193931013879e8883677bc3fca8; 16 pages. Extracted with
+    pdftotext -layout to sources/sud-ouest/txt/sud-ouest_piia_fascicules.txt.
+  used_for: >-
+    The seven fascicules d'intervention and the by-law's authority. The insertion objective
+    (« Le nouveau bâtiment doit s’inspirer des caractéristiques typomorphologiques de l’unité de
+    paysage dans lequel il se trouve et contribuer à l’évolution de son milieu d’insertion »); the
+    boundary rule quoted in the notes (« le nouveau bâtiment doit choisir clairement une des deux
+    typologies… »); the count of 5 aires and 65 unités in Encadré 1, which independently confirms
+    the study's own numbering; and Encadré 2's one-sentence definitions of the seven typologies,
+    which are the source of the plex definition « Ces immeubles possèdent de deux à six logements »
+    and of the apartment definition « un hall d’entrée commun qui dessert de six à douze logements ».
+    Encadré 2 is also where the PIIA calls the study's maison villageoise a maison « de faubourg »,
+    the naming disagreement recorded on that type card.
+
+- id: commons-sud-ouest
+  citation: >-
+    Wikimedia Commons. Six photographs were considered and each one's licence, author, description
+    and file URL was read individually through the Commons API
+    (action=query&prop=imageinfo&iiprop=url|size|extmetadata) on 17 August 2026 before any file was
+    downloaded, and each downloaded image was then opened and looked at before it was published.
+    Categories searched: Category:Multiplexes (buildings); Category:External staircases (and its
+    by-country subtree); Category:Maisons de vétérans; Category:Griffintown (Montreal);
+    Category:Pointe-Saint-Charles; Category:Côte-Saint-Paul; Category:Rue du Couvent;
+    Category:Rue Angers; Category:Rue Galt.
+  used_for: >-
+    The six photographs on this place record, all by Jeangagnon and all CC BY-SA: 711-719 rue du
+    Couvent (CC BY-SA 3.0) as the place hero; 741 rue du Couvent (CC BY-SA 3.0) on the maison
+    villageoise; 7056 rue Beaulieu and Boulevard Monk - 003 (both CC BY-SA 4.0) on the maison de
+    vétérans; 805-815 rue du Couvent (CC BY-SA 3.0) and 375-399 rue de la Montagne (CC BY-SA 3.0) on
+    the multiplex. Two findings worth recording. Category:External staircases, which the acquisition
+    brief named as one of the two type-tagged categories, turns out to hold no Canadian material at
+    all — its by-country subtree runs Belgium, France, Greece, Japan, Portugal, and the rest is fire
+    escapes — so the Montréal exterior stair had to be found through street categories instead.
+    Category:Rue Galt is a trap: the rue Galt photographed there is in Verdun, not the rue Galt of
+    Côte-Saint-Paul that the Évaluation cahier discusses, and those files were rejected. Matches are
+    on form and on street, not on the study's own addresses, so every photograph carries
+    match_confidence: visual. See sources/sud-ouest/MANIFEST.md for the full licence findings.
+
+- id: donnees-montreal-typologie
+  citation: >-
+    Ville de Montréal open data, « Les édifices patrimoniaux de Montréal », donnees.montreal.ca, and
+    the Grand répertoire du patrimoine bâti de Montréal,
+    http://patrimoine.ville.montreal.qc.ca/inventaire/index.php — the building-scale layer, whose
+    TYPOLOGIE_SPECIFIQUE field is the join key to these type records.
+  used_for: >-
+    NOT retrieved in this pass, and no fact on this page rests on it. Recorded because it is the
+    layer that would let each of these fifteen types be counted building by building, and because
+    the study publishes a count for only two of them (38 maisons villageoises, 352 maisons
+    « boomtown »).
+
+- id: unite-de-paysage-fiches
+  citation: >-
+    Arrondissement du Sud-Ouest, fiches d'aire de paysage and fiches d'unité de paysage — one per
+    aire and one per unité, obtainable from the Direction de l'aménagement urbain et des services
+    aux entreprises or from the borough website, and the documents the PIIA sends every applicant to
+    read.
+  used_for: >-
+    NOT retrieved. The unit table published here carries each unit's number, aire, name and the
+    types the synthesis attributes to it; the limits, block composition, parcel dimensions, marges
+    and immeubles d'intérêt patrimonial of each unit live in these separate fiches and are not
+    encoded. Six of the sixty-five units appear here as numbers without names for the same reason.

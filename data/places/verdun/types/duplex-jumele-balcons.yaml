@@ -1,0 +1,119 @@
+id: verdun.duplex-jumele-balcons
+place: verdun
+phase: p3
+display_order: 2
+name_en: Two semi-detached duplexes, or a three-dwelling building, with deep front balconies
+name_fr: L'ensemble de deux duplex jumelés ou à trois logements
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), sector fiches 21.E.2 and 21.E.3, with 21.I.7"
+source_generation: sector characterisation, two exceptional-value fiches read with one interesting-value fiche
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+canonical: [plex-family]
+styles: [edwardian-classical]
+style_label: Edwardian classical
+tenure_plan: duplex
+storeys: '2'
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+window_proportion: vertical
+principal_cladding: [clay-brick]
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+sectors:
+- 21.E.2
+- 21.E.3
+profile:
+  siting_landscape:
+  - Buildings paired two by two along the street; on avenue Desmarchais a broad landscaped median runs
+    between the two frontages and, in the cahier's words, opens the atmosphere out.
+  - Ground-floor level is held almost constant along the whole avenue, which is what produces the homogeneity
+    the fiche singles out.
+  massing:
+  - Two storeys. Either two duplexes built as a semi-detached pair, or a single building of three dwellings
+    in which the largest is on the ground floor.
+  - Deep balconies across the front. The cahier records no exterior stair here.
+  articulation:
+  - Deep balconies with refined woodwork ("boiseries raffinées") adorning the façades — the phrase is repeated
+    word for word in both sectors.
+  - Elaborate cornices and masonry detail (21.I.7, for the same fabric continuing south).
+  openings:
+  - Tall vertical windows ornamented with stained glass, often combined in groups of two or three.
+  materials:
+  - Brick cladding.
+profile_fr:
+  description:
+  - « De chaque côté, on trouve des habitations de deux étages de diverses typologies, notamment des ensembles
+    de deux duplex jumelés ou à trois logements dont le plus vaste est au rez-de-chaussée. L'ensemble présente
+    une belle homogénéité. Le niveau du rez-de-chaussée est sensiblement uniforme sur toute l'avenue. »
+    (21.E.2, l'avenue Desmarchais)
+  - « Ce secteur est exceptionnel en raison de sa grande uniformité de typologie et d'état de conservation.
+    Les bâtiments sont, ici aussi, à parement de brique … » (21.E.3, le voisinage Moffat)
+  revetement:
+  - « Les bâtiments sont à parement de brique avec de hautes fenêtres verticales et ornées de vitraux, souvent
+    combinées en groupes de deux ou trois. » (21.E.2; the same sentence recurs at 21.E.3 and 21.I.7)
+  ornementation:
+  - « Des balcons profonds aux boiseries raffinées ornent les façades. » (21.E.2, 21.E.3 and 21.I.7 — three
+    times, unchanged)
+  contexte:
+  - « À partir de l'avenue Desmarchais, le cadre bâti prend une composition différentiée des développements
+    précédents. En évoluant vers le sud, l'espace se dégage et la hauteur des bâtiments se généralise à deux
+    étages. Il y a peu d'escaliers extérieurs, mais la présence des balcons avant s'affirme. » (21.I.7, le
+    secteur Woodland et de Verdun)
+profile_note: >-
+  The Évaluation publishes no per-type table, so this record is assembled from sector paragraphs. Its two
+  exceptional-value sectors, 21.E.2 avenue Desmarchais and 21.E.3 le voisinage Moffat, carry one building
+  description between them: 21.E.3 is four lines long and describes the buildings only by back-reference,
+  « ici aussi ». The columns are therefore filled from 21.E.2, checked against 21.E.3, and extended with
+  21.I.7 (le secteur Woodland et de Verdun), whose fabric the cahier explicitly begins « à partir de l'avenue
+  Desmarchais » and which repeats the balcony sentence verbatim. Dwelling count is deliberately left as the
+  source has it — the fiche allows either two duplexes paired or one building of three dwellings, and gives
+  no way to tell which is commoner — so the canonical link is to the plex family rather than to one of its
+  seven children. Stair position is not stated in either E fiche; 21.I.7 says of the same fabric that
+  exterior stairs are few, and that is recorded as context rather than promoted into the massing column.
+example_addresses: null
+related_buildings: null
+photos:
+- file: assets/places/verdun/avenue-desmarchais-banq-postcard.jpg
+  kind: single
+  credit: >-
+    « Desmarchais Boulevard, Verdun » — postcard by J. Sykes, Verdun, Que., between 1931 and 1950.
+    Bibliothèque et Archives nationales du Québec, which states « Domaine public au Canada » under the
+    Creative Commons Public Domain Mark 1.0; tagged PD-old-70 on Wikimedia Commons. BAnQ record:
+    https://numerique.banq.qc.ca/patrimoine/details/52327/5130921. File:
+    https://commons.wikimedia.org/wiki/File:Desmarchais_Boulevard,_Verdun.jpg
+  source_url: https://commons.wikimedia.org/wiki/File:Desmarchais_Boulevard,_Verdun.jpg
+  licence: Public domain (BAnQ « Domaine public au Canada », CC PDM 1.0; Commons PD-old-70)
+  match_confidence: address
+  note: >-
+    The avenue as the sector fiche describes it, seventy years before the fiche — the broad landscaped
+    median down the middle, two-storey brick fronts paired two by two on both sides, deep balconies with
+    turned woodwork, and open ground at the far end where the street had not yet been built out. Commons
+    dates it c. 1935; BAnQ's own record gives « entre 1931 et 1950 », which is used here.
+- file: null
+  kind: placeholder
+  credit: >-
+    Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), p. 26, caption
+    « 21.E.2 Duplex de l'avenue Desmarchais », and p. 27, captions « 21.E.3 Ensemble résidentiel, rue Manning »
+    and « 21.E.3 Ensemble résidentiel, rue Moffat » — the source's own photographs of both sectors as they
+    stood in 2003–2004. © Ville de Montréal; not reproduced here. No freely licensed modern photograph of
+    rue Moffat or rue Manning was found on Commons.
+  licence: permission required
+  source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+  match_confidence: address
+blurb_en: >-
+  Two storeys of brick, tall stained-glass windows in twos and threes, and a deep front balcony with
+  carpentry worth describing — either two duplexes built as a pair or one building of three flats with the
+  largest below. It is the form the 2005 evaluation twice calls exceptional, and the only Verdun housing it
+  says that about.
+origin_en: >-
+  These are the two residential sectors Verdun's evaluation ranks as exceptional, and they sit in the
+  southern half of the borough, where the cahier says the fabric changes: from avenue Desmarchais southward
+  the space opens up, heights settle at two storeys, exterior stairs become few and the front balcony takes
+  over. That is a genuine typological boundary inside one small borough, and the document draws it in a
+  single sentence. What is protected at Desmarchais and Moffat is not a rare building but an unbroken one:
+  21.E.3 is judged exceptional « en raison de sa grande uniformité de typologie et d'état de conservation »
+  — the value is in the run, not the unit. Both sectors are inside the territory the 2019– PIIA modernisation
+  brought under review.
+phase_confidence: provisional

@@ -1,0 +1,113 @@
+id: mercier-hochelaga-maisonneuve.plex-ouvrier-trois-etages
+place: mercier-hochelaga-maisonneuve
+phase: p3
+name_en: Three-storey workers' plex
+name_fr: L'habitation ouvrière de trois étages (« plex »)
+source_ref: "Évaluation du patrimoine urbain (2005), sector 27.E.2 and § 3.1; Guide patrimonial de MHM"
+canonical: [plex-family]
+styles: [faubourg-vernacular]
+tenure_plan: triplex
+storeys: "3"
+window_proportion: vertical
+principal_cladding: [grey-limestone, clay-brick-red-brown]
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+sectors: ["27.E.1", "27.E.2"]
+profile:
+  siting_landscape:
+    - Continuous alignments along tree-lined streets — the Évaluation names the trees twice, in the sector fiche (« le long de rues bordées d'arbres ») and in its overview of the borough's residential heritage.
+    - In Hochelaga the first such streets are Moreau, Dézéry and Saint-Germain, settled directly around the deep-water port and the Notre-Dame rail lines; in Maisonneuve the sector runs east to Viauville, between rues Sicard and Viau.
+  massing:
+    - Three storeys, one dwelling to a floor, under a flat roof.
+    - Front balcony at each upper level, and an exterior stair climbing to the upper doors so that every dwelling keeps its own entrance from the street.
+  articulation:
+    - Crown treated as a distinct element — the borough's conservation guide governs « couronnement » as its own category, in worked and painted wood, worked painted metal, or brick laid in a distinctive bond, plus false mansards and dômes in natural slate, fish-scale metal or tôle à la canadienne.
+    - Openings framed by a lintel of brick laid as a shallow-arched soldier course, of stone, or of concrete with a moulded relief, over a stone or concrete sill 5 to 6 inches high.
+  openings:
+    - Vertical openings; for pre-1940 buildings the guide prescribes double-hung sashes at 1/2–1/2 or 2/5–3/5, or casements at 1/3–2/3 or 2/5–3/5 with a fixed upper light, glazed in uniform clear or frosted glass without muntins or patterns.
+    - Principal door with a glazed panel 42 to 54 inches high, and a secondary balcony door glazed 36 to 42 inches, which may carry the traditional Montréal muntin pattern.
+  materials:
+    - "The Évaluation's own words for the borough's residential heritage — « plex » en pierre ou en brique. Grey limestone, smooth-faced or rock-faced, and clay brick in red, brown, beige, orange or polychrome, plus glazed brick."
+    - Stair, balcony guard and stringer in steel, wrought iron or welded aluminium, painted; natural galvanised steel is prohibited as a non-original component. Balcony floors in tongue-and-groove wood or composite board, boards no wider than 6 inches, on a bipartite wooden fascia with a slatted wooden soffit.
+profile_note: >-
+  This is the record the brief's warning is about, so it says plainly what the documents say and what
+  they do not. NO DISTINCT « MAISON-MODÈLE » FOR MAISONNEUVE IS DOCUMENTED. The word « modèle » does
+  occur in the cahier, but not of a house: sector 27.E.2 calls the municipality itself « la cité-modèle
+  de Maisonneuve », and the only model house named anywhere in the document is « le modèle des maisons
+  de la Wartime Housing Limited » in sector 27.U.1, which is a 1950 federal type in Mercier and has
+  nothing to do with the cité. What the cité's workers lived in is the ordinary Montréal plex — three
+  storeys and a rangée of them, one dwelling to a floor, and the Évaluation's whole description of it
+  is a single clause: « les habitations ouvrières de trois étages le long de rues bordées d'arbres »,
+  supported by its overview line, « un patrimoine résidentiel composé de "plex" en pierre ou en brique
+  le long de rues bordées d'arbres ».
+  Neither document gives dwelling counts or stair positions per building, so this record attaches to the
+  canonical family rather than to one of its seven members: the same street can hold a duplex, a triplex
+  and a multiplex without the fiches distinguishing them. The exterior stair is not named in the
+  Évaluation at all; it is carried here from the borough's own Guide patrimonial, which regulates
+  « escalier courbe » and adds the note « les escaliers traditionnels (typiquement montréalais) doivent
+  être conservés et maintenus en bon état », and it is visible along the whole photographed alignment on
+  rue Dézéry. Every articulation, opening and material line likewise comes from the Guide's prescriptive
+  tables for « secteur significatif » and « immeuble significatif » — that is, from what the borough will
+  today allow to be rebuilt, which is its reading of what was originally there.
+example_addresses:
+  - {address: "1409-1415, rue Moreau", note: "Listed among the borough's immeubles d'habitation de valeur patrimoniale intéressante, Évaluation § 3.2.2 F."}
+  - {address: "1461-1469, rue Moreau", note: "Same list."}
+  - {address: "1854-1864, rue Joliette", note: "Listed among the immeubles d'habitation de valeur patrimoniale exceptionnelle, Évaluation § 3.2.2 E, and photographed there as the illustration for sector 27.I.1 Hochelaga."}
+  - {address: "3219-3225, avenue Lebrun", note: "Immeubles d'habitation de valeur intéressante."}
+  - {address: "5322-5324, rue Des Ormeaux", note: "Immeubles d'habitation de valeur intéressante."}
+  - {address: "6895-6897, rue Hochelaga", note: "Immeubles d'habitation de valeur intéressante."}
+  - {address: "3610-3890, rue Saint-Donat", note: "Immeubles d'habitation de valeur intéressante; a range, not a single building."}
+photos:
+  - file: assets/places/mercier-hochelaga-maisonneuve/plex-rue-dezery.jpg
+    credit: >-
+      "La rue Dézéry à Hochelaga-Maisonneuve (entre la rue De Rouen et la rue Ontario), Montréal" by
+      Atilin, 11 February 2006, Wikimedia Commons, CC BY-SA 3.0 — licence read on the Commons API before
+      download. File: https://commons.wikimedia.org/wiki/File:HochMais.JPG
+    kind: single
+    licence: CC BY-SA 3.0
+    source_url: https://commons.wikimedia.org/wiki/File:HochMais.JPG
+    match_confidence: visual
+    match_note: >-
+      Matched on street name and on form, not on a listed address. Rue Dézéry is one of the three streets
+      sector 27.E.1 names as the first ground of Hochelaga's workers' housing; the frame shows the
+      alignment the fiche describes — three storeys of rock-faced grey limestone and red brick under flat
+      roofs, one balcony to a level, curving iron stairs climbing to the upper doors, and the street trees.
+      The photographed stretch is between De Rouen and Ontario, north of parc Dézéry.
+  - file: assets/places/mercier-hochelaga-maisonneuve/plex-rue-adam.jpg
+    credit: >-
+      "Alignment of houses in Hochelaga (Adam Street), as seen from Saint-Aloysius Park" by Félix
+      Mathieu-Bégin (User:Webfil), 29 November 2012, Wikimedia Commons, CC BY-SA 4.0 — licence read on
+      the Commons API before download. File:
+      https://commons.wikimedia.org/wiki/File:Maisons_du_quartier_Hochelaga.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:Maisons_du_quartier_Hochelaga.jpg
+    match_confidence: visual
+    match_note: >-
+      The rangée condition rather than the stair condition: a continuous frontage of three-storey brick
+      plexes on rue Adam, party wall to party wall, each with its own ground-floor doors and balconies
+      at the upper levels, and each treating its crown differently — a plain parapet, a shaped and
+      ornamented gable-parapet, a bracketed cornice. Matched on street and form, not on a listed address.
+blurb_en: >-
+  What Maisonneuve's workers actually lived in. Three storeys of grey limestone or clay brick under a
+  flat roof, one dwelling to a floor, each with its own door off the street and the upper doors reached
+  by an iron stair curving up out of the front yard — repeated down both sides of a street planted with
+  trees. The Évaluation gives it one clause and no fiche, which is the point: the ambition at Maisonneuve
+  went into the civic buildings and the boulevard, and the housing was the standard Montréal product.
+origin_en: >-
+  The form arrives with the industry. Hochelaga's mills — the W.C. McDonald tobacco works, the Abattoirs
+  de l'Est, the V. Hudon cotton mills and the Filature Sainte-Anne, all established between 1871 and
+  1881 — drew what the cahier calls « une main-d'œuvre bon marché issue des populations agricoles qui
+  convergent vers la ville », and « les terrains sont lotis sans réglementation particulière ». At
+  Maisonneuve after 1883 the promoters offered huge cheap lots and tax exemptions to industry, and the
+  population went from about 350 at the founding to 2,000 in 1896 and roughly 18,000 in 1911 —
+  80 % francophone and « composée surtout de travailleurs et de locataires ». Renters in a boom is what
+  the plex is for. Maisonneuve also enacted a zoning by-law that the cahier calls « une nouveauté à
+  l'époque », barring shops and industry from certain streets reserved for housing alone — one of the
+  earliest use-separation controls in Québec, and the reason these streets read as purely residential
+  while rue Ontario Est a block away does not.

@@ -1,0 +1,4490 @@
+[
+{
+"civ": "5520",
+"rue": "1re Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5568",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5650",
+"rue": "1re Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5678",
+"rue": "1re Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5832",
+"rue": "1re Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6225",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6231",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6524",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6739",
+"rue": "1re Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6750",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6755",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6761",
+"rue": "1re Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6806",
+"rue": "1re Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6818",
+"rue": "1re Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6825",
+"rue": "1re Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6830",
+"rue": "1re Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6833",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6862",
+"rue": "1re Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6886",
+"rue": "1re Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5311",
+"rue": "2e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5687",
+"rue": "2e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5717",
+"rue": "2e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5723",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5729",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5735",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5954",
+"rue": "2e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6278",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6284",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6287",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6351",
+"rue": "2e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6625",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6650",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6656",
+"rue": "2e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6679",
+"rue": "2e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6715",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6719",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6725",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6731",
+"rue": "2e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6817",
+"rue": "2e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6735",
+"rue": "2e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "5322",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5499",
+"rue": "3e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5509",
+"rue": "3e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6221",
+"rue": "3e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6232",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6238",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6244",
+"rue": "3e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6250",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6256",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6257",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6263",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6268",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6269",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6301",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6304",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6399",
+"rue": "3e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6575",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6648",
+"rue": "3e Avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6650",
+"rue": "3e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6660",
+"rue": "3e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5534",
+"rue": "4e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5673",
+"rue": "4e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5670",
+"rue": "5e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5709",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5722",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5728",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5799",
+"rue": "5e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5824",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5880",
+"rue": "5e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5886",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5960",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5981",
+"rue": "5e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5987",
+"rue": "5e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6208",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6220",
+"rue": "5e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6241",
+"rue": "5e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6304",
+"rue": "5e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4965",
+"rue": "6e Avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4997",
+"rue": "6e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5641",
+"rue": "6e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5695",
+"rue": "6e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5787",
+"rue": "6e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5793",
+"rue": "6e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5795",
+"rue": "6e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6796",
+"rue": "6e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4849",
+"rue": "7e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4885",
+"rue": "7e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5775",
+"rue": "7e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5203",
+"rue": "8e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5174",
+"rue": "9e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5478",
+"rue": "9e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5542",
+"rue": "9e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5616",
+"rue": "10e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5633",
+"rue": "10e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5645",
+"rue": "10e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6299",
+"rue": "12e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6534",
+"rue": "12e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6551",
+"rue": "12e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6724",
+"rue": "12e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6766",
+"rue": "12e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6871",
+"rue": "12e Avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6877",
+"rue": "12e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6887",
+"rue": "12e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6338",
+"rue": "13e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6722",
+"rue": "13e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5628",
+"rue": "14e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5634",
+"rue": "14e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5416",
+"rue": "15e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5422",
+"rue": "15e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5424",
+"rue": "15e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5430",
+"rue": "15e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5416",
+"rue": "17e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5434",
+"rue": "17e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5446",
+"rue": "17e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5453",
+"rue": "17e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5459",
+"rue": "17e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5471",
+"rue": "17e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5077",
+"rue": "18e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5638",
+"rue": "18e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5644",
+"rue": "18e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5720",
+"rue": "18e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5726",
+"rue": "18e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5915",
+"rue": "23e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5921",
+"rue": "23e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6239",
+"rue": "23e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6351",
+"rue": "23e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6357",
+"rue": "23e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6369",
+"rue": "23e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6515",
+"rue": "23e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6519",
+"rue": "23e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6659",
+"rue": "23e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5925",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5942",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5948",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5954",
+"rue": "24e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6258",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6275",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6276",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6289",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6294",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6317",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6323",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6347",
+"rue": "24e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6356",
+"rue": "24e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6362",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6383",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6396",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6420",
+"rue": "24e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6541",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6544",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6550",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6553",
+"rue": "24e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6574",
+"rue": "24e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6581",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6599",
+"rue": "24e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6819",
+"rue": "24e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5968",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6252",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6265",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6283",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6289",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6310",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6318",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6335",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6390",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6410",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6544",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6568",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6574",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6580",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6586",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6592",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6600",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6627",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6687",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6727",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6745",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6767",
+"rue": "25e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6773",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6779",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6796",
+"rue": "25e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6230",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6236",
+"rue": "26e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6242",
+"rue": "26e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6259",
+"rue": "26e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6264",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6265",
+"rue": "26e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6323",
+"rue": "26e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6353",
+"rue": "26e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6356",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6359",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6383",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6555",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6603",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6609",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6615",
+"rue": "26e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6715",
+"rue": "26e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6680",
+"rue": "26e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6521",
+"rue": "27e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6532",
+"rue": "27e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6536",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6542-44",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6654",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6658",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6664",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6665",
+"rue": "27e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6670",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6686",
+"rue": "27e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6780",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6784",
+"rue": "27e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6534",
+"rue": "28e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6535",
+"rue": "28e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6586",
+"rue": "28e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6721",
+"rue": "28e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6835",
+"rue": "28e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6958",
+"rue": "28e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6557",
+"rue": "29e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6561",
+"rue": "29e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6565",
+"rue": "29e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6571",
+"rue": "29e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6545",
+"rue": "30e Avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6881",
+"rue": "30e Avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6518",
+"rue": "31e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6534",
+"rue": "31e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6580",
+"rue": "31e Avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6760",
+"rue": "31e Avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6905",
+"rue": "42e Avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6342",
+"rue": "Alma, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6348",
+"rue": "Alma, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "2214",
+"rue": "Augier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "2314",
+"rue": "Augier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "3483",
+"rue": "Aylwin, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "3486",
+"rue": "Aylwin, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "3492",
+"rue": "Aylwin, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "3498",
+"rue": "Aylwin, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "3543",
+"rue": "Aylwin, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "4461",
+"rue": "Beaubien Est, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4515",
+"rue": "Beaubien Est, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "214",
+"rue": "Bélanger, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "278",
+"rue": "Bélanger, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4265",
+"rue": "Bélanger, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "4269",
+"rue": "Bélanger, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "4235",
+"rue": "Bellechasse, rue de",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "4312",
+"rue": "Bellechasse, rue de",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4321",
+"rue": "Bellechasse, rue de",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5861",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6227",
+"rue": "Bordeaux, rue de",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6239",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6273",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6287",
+"rue": "Bordeaux, rue de",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6363",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6398",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6574",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6579",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6609",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6654",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6663",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6670",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6674",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6724",
+"rue": "Bordeaux, rue de",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6727",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6728",
+"rue": "Bordeaux, rue de",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6752",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6756",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6770",
+"rue": "Bordeaux, rue de",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6776",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6782",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6830",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6838",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6848",
+"rue": "Bordeaux, rue de",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6854",
+"rue": "Bordeaux, rue de",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5365",
+"rue": "Bourbonnière, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5428",
+"rue": "Bourbonnière, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5654",
+"rue": "Bourbonnière, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5735",
+"rue": "Bourbonnière, avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6639",
+"rue": "Boyer, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6823",
+"rue": "Boyer, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7009",
+"rue": "Boyer, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7042",
+"rue": "Boyer, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7121",
+"rue": "Boyer, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "7125",
+"rue": "Boyer, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "1895",
+"rue": "Carrières, rue des",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5748",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5775",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5783",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "5784",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5841",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5918",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5924",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6024",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6214",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6290",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6296",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6297",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6309",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6328",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6346",
+"rue": "Cartier, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6353",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6364",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6368",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6405",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6420",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6547",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6560",
+"rue": "Cartier, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6566",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6572",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6592",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6593",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6644",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6660",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6662",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6671",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6729",
+"rue": "Cartier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6739",
+"rue": "Cartier, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6227",
+"rue": "Casgrain, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6762",
+"rue": "Casgrain, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6778",
+"rue": "Casgrain, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5788",
+"rue": "Chabot, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5804",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5933",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6219",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6264",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6306",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6315",
+"rue": "Chabot, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6374",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6392",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6416",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6430",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6436",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6518",
+"rue": "Chabot, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6525",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6573",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6712",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6718",
+"rue": "Chabot, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6736",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6743",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6761",
+"rue": "Chabot, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6821-23",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6911",
+"rue": "Chabot, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6277",
+"rue": "Chambord, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6315",
+"rue": "Chambord, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6321",
+"rue": "Chambord, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6355",
+"rue": "Chambord, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6663",
+"rue": "Chambord, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5360",
+"rue": "Charlemagne, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5466",
+"rue": "Charlemagne, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5496",
+"rue": "Charlemagne, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5502",
+"rue": "Charlemagne, avenue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "5508",
+"rue": "Charlemagne, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5514",
+"rue": "Charlemagne, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6447",
+"rue": "Clark, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6545",
+"rue": "Clark, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6551",
+"rue": "Clark, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6570",
+"rue": "Clark, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6576",
+"rue": "Clark, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6782",
+"rue": "Clark, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6843",
+"rue": "Clark, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6065",
+"rue": "De Chateaubriand, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6071",
+"rue": "De Chateaubriand, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6744",
+"rue": "De Chateaubriand, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6767",
+"rue": "De Chateaubriand, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6896",
+"rue": "De Chateaubriand, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6572",
+"rue": "De Gaspé, avenue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6662",
+"rue": "De Gaspé, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5828",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5883",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6230",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6364",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6518",
+"rue": "De La Roche, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6522",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6657",
+"rue": "De La Roche, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6682",
+"rue": "De La Roche, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6686",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6975",
+"rue": "De La Roche, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7005",
+"rue": "De La Roche, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7021",
+"rue": "De La Roche, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7034",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7067",
+"rue": "De La Roche, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7112",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7121",
+"rue": "De La Roche, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "7125",
+"rue": "De La Roche, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6580",
+"rue": "De Lanaudière, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6734",
+"rue": "De Lanaudière, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6737",
+"rue": "De Lanaudière, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6006",
+"rue": "De Lorimier, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6268",
+"rue": "De Lorimier, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6357",
+"rue": "De Lorimier, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6377",
+"rue": "De Lorimier, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6925",
+"rue": "De Lorimier, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6929",
+"rue": "De Lorimier, avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5614",
+"rue": "De Normanville, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5637",
+"rue": "De Normanville, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5904",
+"rue": "De Normanville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5910",
+"rue": "De Normanville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6063",
+"rue": "De Normanville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6740",
+"rue": "De Normanville, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6816",
+"rue": "De Normanville, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "7017",
+"rue": "De Normanville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7075",
+"rue": "De Normanville, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6005",
+"rue": "De Saint-Vallier, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6845",
+"rue": "De Saint-Vallier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6216",
+"rue": "D'Iberville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6222",
+"rue": "D'Iberville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5967",
+"rue": "D'Iberville, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6207",
+"rue": "D'Iberville, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6237",
+"rue": "Drolet, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6624",
+"rue": "Drolet, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7009",
+"rue": "Drolet, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7041",
+"rue": "Drolet, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7105",
+"rue": "Drolet, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6298",
+"rue": "Écores, rue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6304",
+"rue": "Écores, rue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6716",
+"rue": "Écores, rue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6752",
+"rue": "Écores, rue des",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6825",
+"rue": "Écores, rue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6869",
+"rue": "Écores, rue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5974",
+"rue": "Érables, avenue des",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6224",
+"rue": "Érables, avenue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6262",
+"rue": "Érables, avenue des",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6283",
+"rue": "Érables, avenue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6289",
+"rue": "Érables, avenue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6296",
+"rue": "Érables, avenue des",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6302",
+"rue": "Érables, avenue des",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6366",
+"rue": "Érables, avenue des",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6777",
+"rue": "Érables, avenue des",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6847",
+"rue": "Érables, avenue des",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6890",
+"rue": "Érables, avenue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6896",
+"rue": "Érables, avenue des",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6540",
+"rue": "Esplanade, avenue de l'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6355",
+"rue": "Fabre, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6361",
+"rue": "Fabre, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6541",
+"rue": "Fabre, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6544",
+"rue": "Fabre, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6548",
+"rue": "Fabre, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6562",
+"rue": "Fabre, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6565",
+"rue": "Fabre, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6572",
+"rue": "Fabre, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6576",
+"rue": "Fabre, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6584",
+"rue": "Fabre, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6590",
+"rue": "Fabre, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6596",
+"rue": "Fabre, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6618",
+"rue": "Fabre, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6619",
+"rue": "Fabre, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6741",
+"rue": "Fabre, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6545",
+"rue": "Garnier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6675",
+"rue": "Garnier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6679",
+"rue": "Garnier, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6705",
+"rue": "Garnier, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "2855",
+"rue": "Gilford, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "2863",
+"rue": "Gilford, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6965",
+"rue": "Henri-Julien, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "3115",
+"rue": "Holt, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "3130",
+"rue": "Holt, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5181",
+"rue": "Jeanne-d'Arc, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5249",
+"rue": "Jeanne-d'Arc, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5262",
+"rue": "Jeanne-d'Arc, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5355",
+"rue": "Jeanne-d'Arc, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5535",
+"rue": "Jeanne-d'Arc, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5691",
+"rue": "Jeanne-d'Arc, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6537",
+"rue": "Jeanne-Mance, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5628",
+"rue": "Lafond, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5920",
+"rue": "Louis-Hébert, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5972",
+"rue": "Louis-Hébert, avenue",
+"val": 3,
+"couronnement": true,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5937",
+"rue": "Louis-Hémon, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6392",
+"rue": "Louis-Hémon, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6581",
+"rue": "Louis-Hémon, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6587",
+"rue": "Louis-Hémon, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6623",
+"rue": "Louis-Hémon, rue",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6748",
+"rue": "Louis-Hémon, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6765",
+"rue": "Louis-Hémon, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6775",
+"rue": "Louis-Hémon, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "7027",
+"rue": "Marconi, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6984",
+"rue": "Marconi, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6996",
+"rue": "Marconi, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5779",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5811",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5877",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5903",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6221",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6225",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6245",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6353",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6382",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6511",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6556",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6579",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6585",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6600",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6615",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6622",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6642",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6644",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6688",
+"rue": "Marquette, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6809",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6829",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6835",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6874",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6881",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6887",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6979",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7110",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "7116",
+"rue": "Marquette, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "7132",
+"rue": "Marquette, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "2426",
+"rue": "Masson, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5984",
+"rue": "Molson, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6208",
+"rue": "Molson, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6236",
+"rue": "Molson, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6730",
+"rue": "Molson, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6844",
+"rue": "Molson, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6850",
+"rue": "Molson, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6893",
+"rue": "Molson, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "212",
+"rue": "Mozart Est, avenue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "173",
+"rue": "Mozart Est, avenue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "179",
+"rue": "Mozart Est, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "185",
+"rue": "Mozart Est, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "207",
+"rue": "Mozart Est, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "213",
+"rue": "Mozart Est, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "4665",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5245",
+"rue": "Orléan, avenue d'",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "5325",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5340",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5360",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5418",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5424",
+"rue": "Orléan, avenue d'",
+"val": 1,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "5464",
+"rue": "Orléan, avenue d'",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5465",
+"rue": "Orléan, avenue d'",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5471",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5538",
+"rue": "Orléan, avenue d'",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5675",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5720",
+"rue": "Orléan, avenue d'",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6610",
+"rue": "Papineau, avenue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6614",
+"rue": "Papineau, avenue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6872",
+"rue": "Sagard, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6876",
+"rue": "Sagard, rue",
+"val": 3,
+"couronnement": true,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "6880",
+"rue": "Sagard, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5687",
+"rue": "Saint-André, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5704",
+"rue": "Saint-André, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5740",
+"rue": "Saint-André, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5862",
+"rue": "Saint-André, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5874",
+"rue": "Saint-André, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6293",
+"rue": "Saint-André, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6809",
+"rue": "Saint-André, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "6815",
+"rue": "Saint-André, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "7033",
+"rue": "Saint-André, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "5623",
+"rue": "Saint-Hubert, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5629",
+"rue": "Saint-Hubert, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "5434",
+"rue": "Saint-Michel, boulevard",
+"val": 2,
+"couronnement": true,
+"fond": true,
+"adjacente": false
+},
+{
+"civ": "6776",
+"rue": "Saint-Urbain, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "6794",
+"rue": "Saint-Urbain, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "7028",
+"rue": "Saint-Urbain, rue",
+"val": 2,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "2216",
+"rue": "Saint-Zotique Est, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "2482",
+"rue": "Saint-Zotique Est, rue",
+"val": 3,
+"couronnement": true,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "2688",
+"rue": "Saint-Zotique Est, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4312",
+"rue": "Saint-Zotique Est, rue",
+"val": 1,
+"couronnement": false,
+"fond": false,
+"adjacente": false
+},
+{
+"civ": "4550",
+"rue": "Saint-Zotique Est, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "4556",
+"rue": "Saint-Zotique Est, rue",
+"val": 3,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "4560",
+"rue": "Saint-Zotique Est, rue",
+"val": 3,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "4565",
+"rue": "Saint-Zotique Est, rue",
+"val": 2,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "4566",
+"rue": "Saint-Zotique Est, rue",
+"val": 3,
+"couronnement": false,
+"fond": true,
+"adjacente": true
+},
+{
+"civ": "4571",
+"rue": "Saint-Zotique Est, rue",
+"val": 3,
+"couronnement": false,
+"fond": false,
+"adjacente": true
+},
+{
+"civ": "4583",
+"rue": "Saint-Zotique Est, rue",
+"val": 2,
+"couronnement": false,
+"fond": true,
+"adjacente": false
+}
+]

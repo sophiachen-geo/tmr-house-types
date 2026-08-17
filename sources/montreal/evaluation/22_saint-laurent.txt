@@ -1,0 +1,2281 @@
+      Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Saint-Laurent
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+
+
+
+
+               Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Saint-Laurent
+Étude réalisée par le Service de la mise en valeur du territoire et du patrimoine
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+
+
+
+Cette analyse du patrimoine urbain a été réalisée par la Division du patrimoine et de la toponymie sous la direction de Jean-François Gravel,
+chef de division. Le travail a été effectué de janvier 2003 à mai 2004 dans le cadre de la préparation du Plan d’urbanisme de la Ville de
+Montréal, qui a été adopté par le Conseil municipal le 23 novembre 2004. L’équipe du projet comprend, pour l’évaluation du patrimoine bâti
+et la recherche historique, Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre et Pierre-Paul Savignac,
+architectes, et Denise Caron, historienne. La recherche et l’écriture pour le patrimoine archéologique ont été réalisées par Claire Mousseau,
+archéologue, avec la collaboration de Françoise Duguay, François Bélanger, Anne-Marie Balac et Christian Roy, également archéologues.
+De plus, Gisèle Trépanier, conseillère en aménagement, et Nicole Halpert, chargée de communication, ont participé à la révision des textes
+tandis que Ginette Bouchard, secrétaire d’unité administrative, a procédé à la saisie de texte. Finalement, nous tenons à remercier nos
+collaborateurs des directions de l’aménagement urbain et des services aux entreprises des arrondissements.
+
+
+
+Remerciements
+
+Rendus cartographiques :
+Division des politiques et du Plan d’urbanisme
+Révision linguistique :
+Sylvie Poulin
+Conception graphique et mise en page :
+Marie Violaine Lamarche
+Photographies :
+Ville de Montréal, Bibliothèque nationale du Québec, P. Fauteux
+
+
+
+Ce document fait partie d’une série de cahiers qui ont été réalisés pour chacun des 27 arrondissements de la Ville de Montréal. Les différents
+cahiers d’évaluation du patrimoine urbain peuvent être consultés sur notre site internet à l’adresse suivante : ville.montreal.qc.ca/patrimoine
+
+
+
+ISBN 2-7647-0451-8
+
+Dépôt légal – Bibliothèque nationale du Québec, 2005
+Dépôt légal – Bibliothèque nationale du Canada, 2005
+
+
+
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+   TABLE DES MATIÈRES
+ARRONDISSEMENT
+            de Saint-Laurent
+ 7           A VA N T- P R O P O S
+
+ 9   1.      CADRE MÉTHODOLOGIQUE
+
+ 9   1.1     Introduction
+ 9   1.2     Le cadre bâti d’intérêt patrimonial
+ 9   1.2.1   Approche, étapes et résultats
+11   1.2.2   Critères de sélection
+14   1.3     Les tracés fondateurs d’intérêt patrimonial
+14   1.4     Le patrimoine archéologique
+14   1.4.1   Le caractère spécifique de ce patrimoine
+16   1.4.2   La démarche générale d’acquisition de connaissances et de conservation
+17   1.4.3   L’approche méthodologique et l’identification du patrimoine
+             archéologique au Plan d’urbanisme
+19   1.5     Nouvelles perspectives
+
+21   2.      HISTORIQUE
+
+25   3.      É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+25   3.1     Mise en situation
+25   3.2     Résultat de l’analyse
+25   3.2.1   Les tracés fondateurs d’intérêt patrimonial
+27   3.2.2   Le cadre bâti d’intérêt patrimonial
+27           A Les secteurs de valeur patrimoniale exceptionnelle
+29           B    Les secteurs de valeur patrimoniale intéressante
+32           C Les ensembles urbains d’intérêt
+34           D Les immeubles de valeur patrimoniale exceptionnelle
+35           E    Les immeubles de valeur patrimoniale intéressante
+                  Carte synthèse : Évaluation du patrimoine urbain
+39   3.2.3   Le patrimoine archéologique
+40           A Les secteurs d’intérêt archéologique à fort potentiel
+40           B    Les secteurs d’intérêt archéologique
+40           C Les biens culturels à statut
+                  Carte synthèse : Le patrimoine archéologique
+
+43   4.      R E C O M M A N D AT I O N S
+
+43   4.1     Générales à l’échelle de l’arrondissement
+44   4.2     Générales à l’échelle montréalaise
+45   4.3     Spécifiques à l’arrondissement
+
+47           BIBLIOGRAPHIE
+                              A VA N T- P R O P O S
+
+
+
+
+Le repérage du patrimoine urbain dont nous faisons           C’est la première fois que l’on entreprend un tel travail
+état ici a été réalisé dans le cadre de l’élaboration du     pour les 27 arrondissements de l’île, travail qui suppose
+Plan d’urbanisme de la Ville de Montréal, qui a été          non seulement l’examen de nouvelles thématiques et
+adopté par le Conseil municipal le 23 novembre 2004.         l’établissement de collaborations avec les arrondisse-
+                                                             ments de Montréal, mais aussi une harmonisation
+Le chapitre 2 de la première partie du Plan d’urbanisme      des visions et des représentations que les arrondisse-
+formule différentes orientations d’aménagement               ments ont de leur patrimoine. Par exemple, dans
+pour Montréal et comprend une section sur le patri-          certains cas, seul le patrimoine du Régime français
+moine bâti, archéologique et naturel. Le repérage            était privilégié; ailleurs, on n’avait jamais considéré
+des secteurs et bâtiments d’intérêt patrimonial et des       que le parc immobilier plus récent puisse avoir une
+secteurs d’intérêt archéologique contribuera à atteindre     valeur patrimoniale. Ce repérage connexe au Plan
+l’objectif de conservation énoncé dans le Plan. Il a été     d’urbanisme constitue donc une chance unique de
+mené par la Division du patrimoine et de la topo-            faire converger des visions différentes et d’envisager
+nymie en collaboration avec la Division des politiques       le patrimoine de l’ensemble des arrondissements de
+et du Plan d’urbanisme du Service de la mise en              Montréal dans une perspective commune.
+valeur du territoire et du patrimoine, de janvier 2003
+à mai 2004. En ce qui a trait aux sites archéologiques
+recensés, la liste a été mise à jour en mars 2004.
+
+Préparés par la Division du patrimoine et de la topo-
+nymie, les « Cahiers d’arrondissement » présentent
+la méthodologie du travail de repérage, un bref his-
+torique de chacun des arrondissements, les résultats
+complets du repérage du patrimoine bâti et archéo-
+logique, la justification des choix des secteurs, des
+recommandations et une bibliographie. Ces cahiers,
+qui constituent un document d’appoint au Plan
+d’urbanisme, s’adressent d’abord aux citoyens et
+aux gestionnaires des arrondissements afin de les
+sensibiliser à l’importance de conserver le patrimoine
+de leur localité, ainsi que de les aider à mieux com-
+prendre le territoire et à développer des outils de
+gestion et de contrôle appropriés pour assurer la
+conservation de leur patrimoine urbain.
+
+
+
+
+                       ARRONDISSEMENT                                                                               7
+                                          de Saint-Laurent
+1.
+1.1 Introduction
+                               CADRE MÉTHODOLOGIQUE
+
+
+
+                                                              1.2 Le cadre bâti d’intérêt patrimonial
+Le patrimoine urbain montréalais ne se limite pas à           1.2.1 Approche, étapes et résultats
+une addition de bâtiments individuels de grand intérêt.
+                                                              L’approche choisie pour la sélection des bâtiments et
+Il porte aussi l’empreinte des époques passées sous
+                                                              secteurs s’appuie sur le concept de paysage urbain
+forme de tracés de rues, de paysages, de constructions,
+                                                              développé par Kevin Lynch, selon lequel le territoire
+d’éléments naturels, de vestiges archéologiques ou
+                                                              se découvre à partir de l’intérieur et non à vol d’oiseau
+de vues exceptionnelles. Le patrimoine urbain forme
+                                                              (en plan), et se compose d’une succession de séquences
+l’environnement dans lequel nous vivons aujourd’hui
+                                                              visuelles expérimentées le long d’un parcours.
+et chacune de ses composantes entretient des relations
+complexes avec les autres. Ainsi, un bâtiment contribue       Cette approche, basée sur l’expérience spatiale, com-
+à la qualité et à l’identité d’un lieu, et inversement,       porte au moins deux implications. L’une marque notre
+certaines qualités qui lui sont extérieures rehaussent        préférence pour la considération des bâtiments
+son attrait. Par exemple, une église et une école             exceptionnels ou intéressants dans leur contexte
+donnant sur un parc ajoutent à son intérêt; un amé-           plutôt qu’en tant qu’objets isolés. L’autre est que les
+nagement paysager particulier, tel un écrin, peut con-        limites des secteurs sélectionnés sont déterminées
+tribuer à rehausser la valeur patrimoniale d’un bâtiment;     par le champ visuel. Ces limites ne sont donc pas
+une habitation plutôt modeste peut se trouver dans            arbitrairement placées au centre des rues mais bien
+un secteur qui présente de belles qualités d’ensemble         au fond des lots afin d’englober toutes les com-
+(homogénéité, couvert végétal, etc.) ; et des rues peu-       posantes du champ visuel.
+vent offrir des vues exceptionnelles sur un élément
+naturel ou construit. La nature multidimensionnelle           Même si elles sont réalisées pour tout le territoire de
+du patrimoine urbain fait qu’on ne peut considérer            la ville de Montréal, la sélection et la qualification des
+ses composantes isolément. Ainsi, l’ancienneté, le            bâtiments et secteurs patrimoniaux peuvent contribuer
+potentiel d’évocation historique, la qualité architec-        à faire ressortir la spécificité des arrondissements. En
+turale, l’harmonie et les qualités visuelles, la présence     effet, Montréal est composée de différents territoires
+d’éléments naturels, le tracé des rues, le potentiel ou       qui possèdent une identité et une histoire propres qui
+l’intérêt archéologique sont autant de facteurs que           méritent d’être reconnues. Nous avons pris le parti de
+nous avons pris en compte afin de jeter les bases d’une       choisir l’arrondissement comme échelle d’observation
+meilleure intégration du patrimoine aux probléma-             du territoire afin de dégager ces spécificités locales.
+tiques urbaines.                                              De la sorte, les arrondissements qui ont connu un
+                                                              développement plus récent sont également considérés
+La structure méthodologique comprend trois volets.            et les particularités de leur patrimoine sont reconnues.
+Le premier traite de l’approche et des critères employés
+pour le cadre bâti d’intérêt patrimonial, le second
+explique ce que nous entendons par la notion de tracés
+fondateurs d’intérêt patrimonial, et le troisième expose
+les critères utilisés pour le patrimoine archéologique.
+
+
+
+
+                       ARRONDISSEMENT                                                                                 9
+                                           de Saint-Laurent
+Si ce repérage fondé sur l’expérience spatiale prend           13) Préparation des cartes et listes finales.
+largement appui sur un travail d’observation sur le            14) Identification de quelques bâtiments et secteurs
+terrain, il n’aurait pu être achevé sans l’étude de                d’intérêt patrimonial exceptionnel qui se démar-
+sources documentaires. Bien qu’il ne s’agisse pas d’un             quent à l’échelle montréalaise (les incontournables).
+processus linéaire, voici les principales étapes suivies
+                                                               Tout au long des différentes étapes du projet, les résul-
+par la Division du patrimoine et de la toponymie :
+                                                               tats du travail ont été bonifiés par les connaissances
+1) Préparation de critères de sélection.                       des professionnels des arrondissements et de divers
+2) Rencontre avec chacun des 27 arrondissements pour           comités rattachés à la préparation du Plan d’urbanisme.
+    exposer la démarche et les critères de sélection.
+                                                               Les résultats du repérage du patrimoine urbain se
+3) Visite du territoire de chacun des arrondissements
+                                                               présentent sous forme de listes de bâtiments et de
+    avec les professionnels concernés.
+                                                               cartes définissant des secteurs d’intérêt. Il est important
+4) Recherche et étude de la documentation existante
+                                                               de comprendre que ces deux éléments ne peuvent
+    pour chacun des arrondissements :
+                                                               être dissociés l’un de l’autre – ils sont complémentaires.
+    – inventaires, études patrimoniales, études typo-
+                                                               Ainsi, on a inclus dans les listes tous les bâtiments
+      morphologiques, monographies, dépouillement
+                                                               exceptionnels de chacun des arrondissements, mais il
+      de périodiques, bases de données (Service des
+                                                               était impossible d’inscrire tous les bâtiments intéres-
+      immeubles, Communauté urbaine de Montréal,
+                                                               sants, étant donné leur trop grand nombre. Nous nous
+      Fondation du patrimoine religieux, etc.) ;
+                                                               sommes donc limités à nommer individuellement les
+    – cartographie ancienne et photos aériennes.
+                                                               bâtiments qualifiés d’intéressants qui se trouvaient
+5) Collecte d’informations thématiques :
+                                                               à l’extérieur de secteurs d’intérêt. Ces deux outils
+    – inventaires (les églises, les écoles, etc.),dépouille-
+                                                               doivent donc être interprétés en complémentarité.
+      ment de périodiques (le patrimoine moderne, etc.);
+    – consultation d’un expert en patrimoine industriel.       Le système d’identification des secteurs utilisé dans
+6) Élaboration d’un historique et d’une bibliographie          le document correspond à celui des cartes. Le premier
+    pour chacun des arrondissements.                           chiffre correspond au numéro d’arrondissement. Il est
+7) Analyse de la documentation et détermination                suivi de la lettre E pour les secteurs de valeur patri-
+    préliminaire des territoires et immeubles d’intérêt        moniale exceptionnelle, de la lettre I pour les secteurs
+    pour chacun des arrondissements.                           de valeur patrimoniale intéressante, de la lettre N
+8) Travail sur le terrain : repérage en voiture et à pied      pour les secteurs industriels d’intérêt ou par la lettre U
+    avec la collaboration de certains arrondissements.         pour les secteurs urbains d’intérêt. Le deuxième chiffre
+9) Photographies et report des données spatiales               correspond au numéro du secteur.
+    sur des cartes.
+10) Vérification de la cohérence du traitement des             L’échéancier de réalisation du Plan d’urbanisme,
+    secteurs d’intérêt qui chevauchent plusieurs               les ressources disponibles ainsi que l’état actuel des
+    arrondissements.                                           connaissances sur les différents bâtiments et lieux
+11) Catégorisation des secteurs et immeubles d’intérêt         d’intérêt ont été déterminants quant à la méthodologie
+    patrimonial (exceptionnels et intéressants).               adoptée. Ces contraintes inévitables ont constitué un
+12) Rédaction de courts textes résumant l’intérêt              défi de taille pour la production de ce document qui
+    patrimonial de chacun des secteurs sélectionnés.           est, malgré tout, une base solide à partir de laquelle
+                                                               on pourra amorcer une réflexion plus poussée sur la
+                                                               protection du patrimoine montréalais.
+
+
+
+
+10                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.2.2 Critères de sélection                                                 – Intéressants : ensembles comprenant plusieurs bâti-
+                                                                              ments et certaines caractéristiques environnementales
+LES SECTEURS D’INTÉRÊT PATRIMONIAL                                            qui présentent un intérêt patrimonial. Ce sont toutefois
+                                                                              des ensembles dont la trame urbaine peut avoir été
+Les secteurs d’intérêt patrimonial ont été sélectionnés
+                                                                              partiellement modifiée, qui ont pu connaître un
+sur la base des critères suivants1 :
+                                                                              certain nombre de perturbations et qui renferment
+– leur capacité de témoigner d’un thème ou d’un                               parfois des constructions peu intégrées à l’ensemble.
+  événement historique ;                                                      Certaines zones dont l’état est moins satisfaisant sur
+– leur qualité architecturale (forme, usage, technologie                      le plan architectural ou environnemental pourraient
+  constructive) ;                                                             présenter un intérêt si une action de mise en valeur
+– leur participation à la qualité de la vie urbaine                           était entreprise.
+  et du paysage.
+                                                                            Dans tous les cas, l’échelle de comparaison pour cette
+À titre d’exemple, on identifie le noyau originel                           qualification est l’arrondissement, c’est-à-dire que nous
+d’un village, un pôle d’activité lié à la concentration                     avons identifié les secteurs exceptionnels et intéres-
+d’équipements collectifs, un quartier ouvrier du début                      sants propres à l’arrondissement, ce qui fait ressortir
+du siècle, etc. Cette notion de patrimoine est englo-                       sa spécificité dans l’ensemble montréalais. Lorsqu’un
+bante et correspond aux nouvelles tendances                                 secteur se révèle avoir une importance à l’échelle
+véhiculées par les chartes internationales en matière                       montréalaise, on pourra recommander sa protection en
+de conservation.                                                            procédant à la constitution d’un site du patrimoine
+                                                                            en vertu de la Loi sur les biens culturels du Québec3.
+Tous les secteurs identifiés ont ensuite été qualifiés
+comme suit2 :
+
+– Exceptionnels: secteurs ayant conservé leurs qualités
+  au chapitre des aménagements urbains, des implan-
+  tations de bâtiments, de la géographie et des
+  paysages et qui regroupent des suites architecturales,
+  des alignements de bâtiments d’intérêt patrimonial,
+  des zones unifiées par une fonction ou une typologie
+  architecturale. Les ensembles de cette catégorie ont
+  subi relativement peu de perturbations et présentent
+  un caractère d’harmonie formelle et fonctionnelle.
+  De plus, ils sont souvent reconnus comme des
+  témoins historiques importants.
+
+
+
+
+1 Ces critères sont issus du document de travail Guide de gestion des       3 Conformément au document de travail Citation et constitution de sites
+  études patrimoniales préparé par la Division du patrimoine et de la         du patrimoine préparé par la Division du patrimoine et de la toponymie
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                de la Ville de Montréal en novembre 2003.
+2 Ces critères sont inspirés du Guide d’évaluation des biens culturels et
+  des districts historiques de la Ville d’Ottawa, 1987.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                     11
+                                                       de Saint-Laurent
+LES IMMEUBLES D’INTÉRÊT PATRIMONIAL                                            turale ainsi qu’à son lien particulier avec la trame
+                                                                               urbaine. Les critères utilisés sont les suivants6 :
+Les immeubles d’intérêt patrimonial ont été sélectionnés
+sur la base des critères suivants4 :                                           – la valeur historique et sociale d’une industrie dans
+                                                                                 le développement de l’arrondissement, de la ville
+– leur capacité de témoigner d’un thème ou d’un                                  ou même de la province et du pays ;
+  événement historique ;                                                       – l’intégrité du complexe (ancienneté, évolution
+– leur qualité architecturale (forme, usage, technologie                         architecturale, évolution technologique) ;
+  constructive) ;                                                              – le procédé de production particulier;
+– leur participation à la qualité de la vie urbaine et du                      – le lien avec les voies de transport ;
+  paysage.                                                                     – le lien avec le développement des quartiers ouvriers ;
+Cette notion de patrimoine est englobante et corres-                           – l’insertion dans le paysage urbain.
+pond aux nouvelles tendances véhiculées par les
+chartes internationales en matière de conservation.                            Finalement, tous les immeubles d’intérêt patrimonial
+Outre l’architecture monumentale, elle inclut donc                             ont été qualifiés comme suit7 :
+l’architecture vernaculaire, le patrimoine moderne, le                         – Exceptionnel : un bâtiment ancien par rapport aux
+patrimoine industriel, etc.                                                      autres bâtiments de l’arrondissement construits aux
+Dans les cas du patrimoine moderne et du patrimoine                              mêmes fins et(ou) qui affiche des caractéristiques
+industriel, nous avons jugé utile d’utiliser des critères                        inhabituelles ou remarquables quant à son architecture
+spécifiquement adaptés à ces réalités.                                           (par rapport à des bâtiments comparables) et qui n’a
+                                                                                 pas subi de modifications extérieures importantes.
+Patrimoine moderne : Des bâtiments peuvent être                                  De plus, il sert souvent de point de repère ou est
+considérés comme faisant partie du patrimoine                                    reconnu comme un témoin historique important.
+moderne s’ils ont été construits entre 1930 et 1975                            – Intéressant: un bâtiment qui n’est pas nécessairement
+et qu’ils illustrent les caractéristiques de cette époque                        plus ancien que ceux construits aux mêmes fins dans
+relativement5 :                                                                  l’arrondissement, qui affiche certaines caractéristiques
+                                                                                 inhabituelles ou remarquables par rapport à des
+– aux conditions sociales, économiques et politiques
+                                                                                 bâtiments comparables mais dans une moindre
+  changeantes ;
+                                                                                 mesure que dans la catégorie précédente, et qui
+– aux progrès technologiques rapides ;
+                                                                                 peut avoir subi quelques modifications.
+– aux nouvelles façons d’exprimer les formes et de
+  répondre aux besoins fonctionnels.
+
+Patrimoine industriel : Le patrimoine industriel
+commande aussi une adaptation des critères en usage
+pour reconnaître sa spécificité, notamment quant à
+la primauté de la fonction sur l’esthétique architec-
+
+
+
+
+4 Ces critères sont issus du document de travail Guide de gestion des          6. Ces critères proviennent de l’Évaluation du patrimoine industriel : critères
+  études patrimoniales préparé par la Division du patrimoine et de la             généraux, document préparé par Archémi pour le compte de la Ville de
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                    Montréal en 2003.
+5. Ces critères sont issus du Plan du réseau des lieux historiques nationaux   7. Ces critères sont inspirés du Guide d’évaluation des biens culturels et des
+   du Canada : La commémoration du patrimoine bâti canadien de l’ère              districts historiques de la Ville d’Ottawa, 1987.
+   moderne préparé par Parcs Canada en 2001.
+
+
+
+12                                                                             Évaluation du patrimoine urbain
+                                                                               Ville de Montréal
+Comme dans le cas des secteurs d’intérêt patrimonial,                      Les ensembles industriels d’intérêt : Le Plan
+l’échelle de comparaison pour ce travail de qualification                  d’urbanisme signale l’importance du patrimoine indus-
+est l’arrondissement, c’est-à-dire que nous avons                          triel montréalais en créant une catégorie particulière
+identifié les bâtiments exceptionnels et intéressants                      – Ensembles industriels d’intérêt. Cette catégorie
+propres à l’arrondissement, ce qui fait ressortir sa                       est d’autant plus justifiée que le regard posé sur ces
+spécificité dans l’ensemble montréalais. Lorsqu’un                         sites est différent en raison de leur taille et de leur
+bâtiment se révèle avoir une importance à l’échelle                        complexité, de la primauté de leur fonction sur
+montréalaise, on pourra recommander sa protection                          l’esthétique architecturale ainsi que de leur lien par-
+par la citation en vertu de la Loi sur les biens culturels                 ticulier avec la trame urbaine.
+du Québec8.
+                                                                           De plus, les ensembles industriels d’intérêt offrent des
+                                                                           possibilités de mise en valeur nombreuses et variées. Il
+                                                                           peut s’agir autant de restauration que d’interprétation
+NOTIONS NOUVELLES                                                          du lieu. Cette diversité d’interventions possibles com-
+Les ensembles urbains d’intérêt : Le Plan d’urba-                          mande une excellente connaissance des lieux et
+nisme reconnaît l’intérêt de certains développements                       activités de production, laquelle est malheureusement
+résidentiels d’après-guerre, qui composent une part                        trop souvent embryonnaire actuellement. L’amélioration
+importante du patrimoine des anciennes banlieues,                          de cette connaissance est pourtant nécessaire pour
+en créant une catégorie appelée Ensembles urbains                          permettre des interventions éclairées et même inno-
+d’intérêt. On y retrouve, entre autres, des ensembles                      vatrices qui inscriront pleinement ce patrimoine dans
+homogènes de bungalows, des secteurs de maisons                            la vie urbaine contemporaine.
+qui adoptent le modèle développé par la Wartime                            Le critère qui préside à la sélection d’un ensemble
+Housing Limited ou des exemples des premières                              industriel d’intérêt est le regroupement particulièrement
+coopératives d’habitation. Leur repérage est exploratoire                  complexe de bâtiments industriels, structures de génie
+et vise à les intégrer au Plan en les reliant pour une                     civil, machines, instruments, outils et équipements divers
+première fois à des préoccupations de conservation du                      appartenant à une seule ou à plusieurs compagnies.
+patrimoine. Ces ensembles urbains d’intérêt ont été
+sélectionnés lorsqu’ils présentent les qualités suivantes:
+
+– ensemble représentatif des nouvelles façons
+  d’habiter qui sont apparues pendant la Seconde
+  Guerre mondiale;
+– ensemble représentatif du boom démographique
+  et du développement de la banlieue après la
+  Seconde Guerre mondiale;
+– projets d’ensemble présentant une certaine
+  homogénéité des caractéristiques architecturales.
+
+
+
+
+8 Conformément au document de travail Citation et constitution de sites
+  du patrimoine préparé par la Division du patrimoine et de la toponymie
+  de la Ville de Montréal en novembre 2003.
+
+
+
+
+                             ARRONDISSEMENT                                                                                       13
+                                                       de Saint-Laurent
+                                                                Plusieurs de ces chemins se sont transformés en
+1.3 Les tracés fondateurs d’intérêt                             autoroutes et boulevards, d’autres ont conservé un
+            patrimonial                                         potentiel évocateur du Montréal rural ancien, et
+                                                                quelques-uns se sont fortement urbanisés.
+Sur l’île de Montréal, l’organisation du territoire
+remonte dans certains cas au XVIIe siècle. De cette             Parmi ces tracés fondateurs, nous avons sélectionné
+organisation naissent les voies de circulation qui sont         les tronçons qui présentent un intérêt patrimonial
+souvent les marques les plus anciennes du Montréal              parce qu’ils relient toujours des bâtiments parmi les
+agricole qui prévalait avant l’urbanisation. En effet,          plus anciens de Montréal ou qu’ils sont bordés de
+dès 1663, les sulpiciens deviennent seigneurs de l’île          bâtiments d’intérêt patrimonial. Ces tracés servent
+de Montréal. Ils planifient alors le territoire pour l’ouvrir   en quelque sorte de fil conducteur pour la com-
+à la colonisation. Pour cela, l’île est divisée en côtes –      préhension du territoire. Ils permettent, entre autres,
+chacune, dénommée par les sulpiciens, désigne un                d’expliquer la présence d’un paysage rural ou de
+ensemble de terres pouvant compter quelques                     bâtiments anciens d’intérêt patrimonial qui apparais-
+dizaines de concessions et représentant une unité de            sent autrement un peu perdus dans la trame urbaine
+territoire. Les terres individuelles sont des bandes            actuelle. En reliant différents éléments isolés, ces
+parallèles étroites et longues. Pour chaque côte est            tronçons leur confèrent une importance accrue.
+prévu l’emplacement d’un chemin. Cela donne une
+idée du mode d’occupation du sol du système
+seigneurial mis en place sous le Régime français.
+Le système des côtes constitue la structure de base
+                                                                1.4 Le patrimoine archéologique
+du peuplement de l’île sur laquelle s’appuiera tout             1.4.1 Le caractère spécifique de ce patrimoine
+développement postérieur.
+                                                                Le patrimoine archéologique est «... la partie de notre
+En raison de l’insularité de la seigneurie de Montréal          patrimoine matériel pour laquelle les méthodes de
+et de la présence du mont Royal, ce système de côtes            l’archéologie fournissent les connaissances de base. Le
+présente toutefois une organisation originale. En               patrimoine archéologique englobe toutes les traces de
+effet, si dans la vallée du Saint-Laurent les côtes             l’existence humaine et concerne les lieux où se sont
+intérieures sont parallèles au fleuve, ce n’est pas             exercées les activités humaines, quelles qu’elles soient,
+nécessairement le cas à Montréal. C’est ainsi que, sur          les structures et les vestiges abandonnés de toutes
+l’ensemble de l’île, le réseau routier qui dessert ces          sortes, en surface, en sous-sol ou sous les eaux, ainsi
+côtes présente une configuration propre. Ce réseau              que le matériel qui leur est associé. Le patrimoine
+primitif, clairement illustré sur la carte de Jobin de          archéologique est une richesse culturelle fragile et non
+1834, montre l’ensemble des tracés fondateurs qui               renouvelable».9
+serviront par la suite d’épine dorsale au développe-
+ment des quartiers. Grâce à cette carte, on comprend
+bien la structure du réseau des chemins à son
+apogée, à l’époque où l’île de Montréal était encore
+très fortement rurale.
+
+                                                                9 Extrait de la Charte pour la protection et la gestion du patrimoine
+                                                                  archéologique, ICAHM, ICOMOS International, 1990.
+
+
+
+
+14                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La notion de patrimoine archéologique se rattache               À L’ÉCHELLE DE L’ÎLE DE MONTRÉAL
+d’abord à un lieu physique, le site archéologique, qui
+                                                                L’archipel de Montréal comprend trois nappes d’eau
+correspond à tout espace dont le sous-sol recèle des
+                                                                importantes, trois canaux d’écoulement, une vingtaine
+vestiges d’occupation ancienne – ouvrages et cons-
+                                                                de rapides, trois cents îles (dont deux majeures,
+tructions de tous types, objets témoins et tout autre
+                                                                Montréal et Jésus) et plus de mille kilomètres de
+élément matériel issu de l’action humaine. Le caractère
+                                                                rives. Montréal est également le point de rencontre
+enfoui des sites archéologiques fait que, contrairement
+                                                                de trois grandes voies fluviales – le Saint-Laurent qui
+à d’autres catégories de biens patrimoniaux, ce
+                                                                donne accès à l’Atlantique et aux Grands Lacs, le
+patrimoine constitue une ressource dont il est difficile
+                                                                Richelieu d’où il est possible d’atteindre l’Hudson et
+de dresser rapidement un inventaire exhaustif. De
+                                                                l’État de New York, ainsi que l’Outaouais qui ouvre la
+nombreux sites, de natures diverses et de toutes
+                                                                porte vers l’ouest et le nord. L’importance de l’île de
+époques, restent ainsi à découvrir sur le territoire de
+                                                                Montréal pour les Amérindiens s’explique tout parti-
+l’île de Montréal. Toute tentative de cerner la réalité du
+                                                                culièrement par cette localisation à la confluence et à
+patrimoine archéologique ne pourra donc constituer
+                                                                proximité de plusieurs cours d’eau. Ces axes hydro-
+qu’un exercice partiel de mise à jour des connaissances
+                                                                graphiques sont les routes traditionnelles de commerce
+acquises. Cette part d’inconnu explique l’extrême vul-
+nérabilité de ce patrimoine et les difficultés particulières    au cours de la préhistoire et au début de la période
+d’en assurer la protection face aux exigences modernes          historique. De plus, l’île de Montréal, la plus grande
+du développement urbain.                                        de l’archipel, comporte des terrasses de quinze,
+                                                                trente et cinquante mètres d’élévation ou même
+Un second aspect important a trait au patrimoine                plus, en référence au mont Royal. Ces terres ont pu
+archéologique en tant qu’objet de connaissance.                 accueillir des populations humaines depuis 8 000 ans
+L’archéologie constitue une discipline dont une des             avant aujourd’hui, si l’on se fie aux premières décou-
+missions est l’étude des sociétés passées par l’inter-          vertes archéologiques effectuées dans la vallée du
+médiaire des vestiges matériels que ces sociétés ont            Saint-Laurent.
+laissés derrière elles. Il s’agit, de plus, de la seule
+discipline qui traite dans le temps et l’espace de              La plus ancienne manifestation humaine recensée sur
+l’évolution de l’ensemble des sociétés humaines. Sa             l’île de Montréal date de la fin de la période archaïque,
+                                                                entre 5 000 et 4 000 ans avant aujourd’hui. Cette
+contribution est unique notamment en ce qui con-
+cerne la longue trajectoire suivie par l’humanité avant         occupation par les Amérindiens, au cours des périodes
+l’apparition de l’écriture. L’archéologie s’intéresse à         préhistorique et de contact, est un volet unique du
+                                                                passé de l’île de Montréal.
+toutes les sociétés, sans égard à leur origine ou à
+leur forme d’organisation, qu’elles soient, comme en            Pour la période historique, la documentation et les
+Amérique, de souche autochtone, européenne ou autre.            cartes anciennes fournissent des éléments interpré-
+                                                                tatifs valables, à partir des premières chroniques du
+                                                                XVIe siècle jusqu’à nos jours. Elles sont cependant
+                                                                souvent muettes sur les différents aspects des modes
+                                                                de vie de certaines époques et de certains groupes et
+                                                                individus, de même que sur l’emplacement exact et
+                                                                l’organisation spatiale de plusieurs lieux d’exploita-
+                                                                tion et d’habitation, comme les avant-postes de Ville-
+                                                                Marie. Elles se taisent parfois volontairement et, en
+
+
+
+
+                        ARRONDISSEMENT                                                                                15
+                                             de Saint-Laurent
+d’autres occasions, ne font état que des préoccupa-             En milieu urbain ou aménagé de longue date, la
+tions des classes dirigeantes, des autorités, de l’élite.       démarche suivie consiste, au moyen de l’analyse
+L’archéologie pare à ces lacunes car elle étudie les            des cartes anciennes, des documents d’archives, des
+traces concrètes laissées par les différents occupants.         données environnementales et des données archéo-
+En milieu urbain, l’archéologie étudie en outre l’évo-          logiques acquises, à caractériser la séquence d’occu-
+lution de la forme urbaine et des formes concrètes,             pation et le processus d’aménagement du territoire.
+dans l’espace et dans le temps, pour idéalement                 Il s’agit de confronter les caractéristiques géographiques
+accéder aux fondements de la culture.                           aux caractéristiques culturelles des sociétés ayant
+                                                                habité ou pu habiter un territoire, et de comprendre
+Les recherches archéologiques menées à ce jour sur l’île        dans quelle mesure les occupations successives ont
+de Montréal documentent une séquence d’occupation               structuré le milieu d’origine et affecté les vestiges
+s’étirant sur plusieurs millénaires et associée à la            d’occupations antérieures. Cette étape est celle de
+présence de groupes aux horizons culturels et temporels         l’étude de potentiel archéologique. La seconde étape
+fort diversifiés : campement amérindien, halte, carrière        consiste, en fonction des résultats de l’étude de
+préhistorique pour l’extraction de la pierre, lieu de           potentiel archéologique, à procéder à une évaluation
+sépultures amérindiennes, noyau initial de Ville-Marie,         sur le terrain afin de vérifier la localisation précise,
+lieux de fondation, forts et missions, bourgs anciens,          la nature et le degré d’intégrité des ressources archéo-
+moulin seigneurial, lieux de culte, cimetières (catho-          logiques en place. Il s’agit de l’inventaire archéolo-
+liques, protestants et juifs), complexes institutionnels,       gique réalisé par des forages, sondages et tranchées
+anciens faubourgs, villas, marchés publics, dépotoirs,          exploratoires.
+complexes agricoles, complexes industriels, ouvrages
+de génie civil, etc., et les formes du paysage ancien de        Selon la nature des découvertes découlant de l’inven-
+l’île de Montréal : terrasses, collines, ruisseaux, rivières,   taire archéologique, plusieurs avenues sont envisa-
+lacs, tourbières.                                               geables selon la valeur scientifique, didactique et
+                                                                symbolique du site et du contexte. Dans le cas d’un
+                                                                site archéologique de grand intérêt, il pourra être
+1.4.2 La démarche générale d’acquisition de                     nécessaire d’assurer en priorité sa conservation in
+         connaissances et de conservation                       situ. Une réserve archéologique est souvent garante
+                                                                de la mise en valeur de ce patrimoine. La plupart des
+Le site archéologique constitue le fondement concret            interventions archéologiques à Montréal surviennent
+de la démarche de conservation et de mise en valeur             dans le cadre de projets d’aménagement du territoire.
+du patrimoine archéologique. La valeur intrinsèque du           Les mesures de protection du patrimoine archéo-
+site archéologique, tout comme l’intérêt de procéder à          logique peuvent alors entraîner la conservation inté-
+son investigation, doivent être évalués en fonction             grale in situ de certains vestiges, la mise en valeur
+de critères relatifs à sa signification, et non pas             in situ de vestiges, la relocalisation du projet d’amé-
+essentiellement relever de considérations touchant              nagement, une modification du projet d’aménagement
+sa grande ancienneté ou le caractère plus ou moins              ou encore une fouille archéologique préventive sur
+monumental des vestiges qu’il recèle.                           les sites d’intérêt de façon à assurer une récupération
+                                                                maximale d’informations.
+
+
+
+
+16                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La majorité des sites archéologiques de l’île de                LES SITES ARCHÉOLOGIQUES RECENSÉS
+Montréal se trouvent dans des espaces divers – sous-
+                                                                Au Québec, en vertu de la Loi sur les biens culturels,
+sol de bâtiment, terrain vacant, boulevard, rue,
+                                                                tout site archéologique découvert est codifié selon
+ruelle, square, place, parc, parc-nature – souvent
+                                                                le code Borden et inscrit à l’Inventaire des sites
+menacés par des réaménagements, de nouvelles
+                                                                archéologiques du Québec. Le code Borden est un
+constructions et une modernisation des services
+                                                                système d’enregistrement des sites archéologiques
+publics souterrains. L’intégration de ce patrimoine
+                                                                utilisé à l’échelle du Canada. Il permet de localiser un
+dans les programmes de régénération du tissu urbain
+                                                                site archéologique d’après sa position géographique,
+de Montréal devient donc prioritaire. C’est pourquoi
+                                                                longitude et latitude (ex. : BjFj), et selon l’ordre suc-
+la reconnaissance du patrimoine archéologique dans
+                                                                cessif des découvertes archéologiques (ex. : BjFj-1).
+le Plan d’urbanisme de Montréal permettra de
+                                                                Au Québec, c’est le ministère de la Culture et des
+prévenir l’interférence négative des usages actuels de
+                                                                Communications qui a la responsabilité de tenir
+la ville et assurera la protection et la mise en valeur
+                                                                l’Inventaire des sites archéologiques de la province et
+de vestiges et de sites archéologiques d’un grand
+                                                                qui attribue les codes Borden.
+intérêt pour l’histoire de Montréal.
+                                                                La Ville de Montréal a donc enrichi le Répertoire
+                                                                informatisé des sites archéologiques des données à
+1.4.3 L’approche méthodologique et l’identifi-                  l’échelle de l’île de Montréal. Les 191 sites
+         cation du patrimoine archéologique au                  archéologiques recensés en date de 2004 ont été
+         Plan d’urbanisme                                       caractérisés individuellement. Les critères utilisés
+                                                                pour cette évaluation sont :
+En lien avec la confection du Plan d’urbanisme, la
+Ville de Montréal a réalisé une étude des sites                 – l’état de conservation physique du site et de son
+archéologiques recensés en date de l’année 2003                   environnement immédiat, en considérant que
+et des secteurs d’intérêt archéologique. Cette étude              plusieurs sites archéologiques recensés ont été
+s’étend à la partie montréalaise de l’archipel de                 détruits lors de travaux d’excavation ou ont fait
+Montréal, qui comprend l’île de Montréal mais aussi               l’objet de fouilles archéologiques ;
+l’île des Sœurs, l’île aux Hérons, l’île aux Chèvres, l’île     – la qualité documentaire des couches et des vestiges
+Dorval et d’autres. Ce faisant, elle assure une vision            archéologiques, leur représentativité, leur unicité,
+d’ensemble du territoire et met en perspective les                leur ancienneté et, dans certains cas, leur capacité
+espaces urbanisés où le patrimoine archéologique                  d’évocation.
+nécessite des mesures de protection. Pour comprendre
+                                                                Deux catégories ont été distinguées : les sites archéo-
+la portée de la démarche, il est nécessaire de rappeler
+                                                                logiques intègres qui doivent être protégés et les sites
+que seule une infime quantité des sites archéo-
+                                                                archéologiques altérés qui ne nécessitent aucune mesure
+logiques sur l’île de Montréal sont connus.
+                                                                de protection. Tous ont été cartographiés, y compris
+Dans un premier temps, l’étude s’est attachée à                 les sites archéologiques altérés car ils sont révélateurs
+localiser précisément et à évaluer les sites archéolo-          du potentiel archéologique d’un milieu donné.
+giques déjà recensés et inscrits à l’Inventaire des sites
+archéologiques du Québec, et dans un second temps,
+à qualifier, localiser et prioriser des secteurs d’intérêt
+archéologique.
+
+
+
+
+                        ARRONDISSEMENT                                                                                17
+                                             de Saint-Laurent
+LES BIENS CULTURELS À STATUT                                archéologiques. La qualité de préservation du milieu
+                                                            physique, la densité des témoins archéologiques en
+La notion de bien culturel intègre, d’une part, les sites   sous-sol et(ou) hors sol et leur capacité de con-
+archéologiques et les biens archéologiques classés et,      tribuer à la connaissance constituent des facteurs
+d’autre part, les sites historiques classés et les monu-    qui rehaussent le niveau d’intérêt accordé à un
+ments historiques classés ou reconnus, l’arrondisse-        endroit particulier. Le secteur d’intérêt archéologique
+ment historique du Vieux-Montréal, l’arrondissement         « à fort potentiel » est un territoire où des mesures
+historique et naturel du mont Royal, l’arrondissement       de protection des sites éventuels sont nécessaires.
+naturel de Saraguay, les monuments cités et les sites
+du patrimoine. Tous ces biens ont fait l’objet d’un         Pour chacun des 27 arrondissements de l’île de
+examen à partir de la documentation disponible afin         Montréal, l’identification des secteurs qui présentent
+de déterminer leur intérêt archéologique et, en con-        un intérêt archéologique constitue une étape préalable
+séquence, la nécessité d’une protection du patrimoine       à la protection des éventuels témoins archéolo-
+archéologique sur ces propriétés. Seuls les grands          giques. Cet exercice, qui est d’ailleurs une première
+ensembles à statut sont cartographiés, les autres           sur le territoire montréalais, est basé sur l’examen et
+biens culturels étant présentés par arrondissement.         l’évaluation de multiples sources documentant les
+                                                            aspects environnementaux et culturels de ces terri-
+                                                            toires. Cette étape permet également d’identifier les
+LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                        milieux qui doivent dans l’avenir faire l’objet d’une
+ET LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                     étude de potentiel et d’un inventaire archéologique.
+À FORT POTENTIEL                                            Les secteurs ont été ciblés en fonction :
+Le secteur d’intérêt archéologique est un territoire        – du cadre biophysique et des qualités d’accueil de
+susceptible de renfermer des sites et des vestiges            populations d’un territoire, depuis plusieurs millé-
+des périodes préhistorique, de contact et historique          naires; ce cadre a été documenté à partir d’études
+eu égard à ses caractéristiques géomorphologiques,            géologiques et géomorphologiques ainsi que par
+biophysiques, archéologiques et historiques.                  l’examen de cartes topographiques et de photogra-
+Des études plus poussées doivent y être réalisées             phies aériennes anciennes afin de déterminer la
+afin d’évaluer précisément la qualité de préservation         proximité d’un axe de communication hydro-
+du milieu physique. La probabilité de découverte              graphique ou terrestre, l’élévation des terrasses, les
+de témoins archéologiques demeure à ce jour difficile         types de dépôts de surface, les concentrations de
+à estimer si l’on considère l’environnement et son            ressources alimentaires de même que l’approvi-
+degré de perturbation moderne. Il est donc nécessaire         sionnement en eau potable et autres éléments ;
+que les citoyens collaborent en communiquant toute          – du contexte historique et de l’urbanisme moderne
+découverte de vestiges dans les secteurs d’intérêt            pour déterminer leur capacité à fonder un lieu de
+archéologique.                                                nature archéologique et à le préserver; ces contextes
+                                                              ont été documentés à partir de monographies
+Le secteur d’intérêt archéologique à fort potentiel           historiques et par l’examen des cartes des XVIIe,
+est un territoire dont l’évaluation du contexte bio-          XVIIIe, XIXe et XXe siècles et des photographies
+physique ainsi que des caractéristiques géomor-               aériennes de 1947, 1948 et 1949, de même qu’à
+phologiques, archéologiques et historiques démontre           partir d’études sur les parcs-nature de l’île de
+une forte possibilité qu’il recèle des vestiges               Montréal, les propriétés institutionnelles, les biens
+
+
+
+
+18                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+  culturels à statut et les lieux historiques nationaux,        afin de bien saisir toute la portée de l’urbanisme
+  comme le canal de Lachine ;                                   moderne sur les ressources archéologiques de l’île de
+– du contexte archéologique documenté à partir de               Montréal.
+  l’Inventaire des sites archéologiques du Québec
+                                                                Le résultat de cette réflexion qui comporte des limites,
+  ainsi que dans les publications, les rapports inédits
+                                                                car il ne s’agit aucunement d’une étude de potentiel
+  et les relevés de découvertes. Des copies de ces
+                                                                archéologique « fine » de l’île de Montréal, a été car-
+  études sont maintenant disponibles au Centre de
+                                                                tographié et des textes ont été rédigés en lien avec
+  documentation de la Direction du développement
+                                                                les catégories identifiées au Plan d’urbanisme : site
+  urbain de la Ville de Montréal ; le répertoire de ces
+                                                                archéologique recensé intègre, site archéologique
+  ouvrages peut être consulté sur le site Web de la
+                                                                recensé altéré, secteur d’intérêt archéologique à fort
+  Ville de Montréal – Patrimoine archéologique.
+                                                                potentiel, secteur d’intérêt archéologique, grand
+L’analyse des caractéristiques des sites archéolo-              ensemble à statut.
+giques connus permet de dégager des constantes qui
+influencent le choix des emplacements en fonction des
+cultures et des périodes, et d’élaborer des modèles
+archéologiques prédictifs. C’est ainsi que l’on constate,
+                                                                1.5 Nouvelles perspectives
+sites archéologiques à l’appui, que les groupes
+                                                                En résumé, le travail de repérage du patrimoine urbain
+amérindiens de la période préhistorique et les premiers
+                                                                réalisé dans le cadre du Plan d’urbanisme nous permet
+colons français choisissent approximativement les
+                                                                d’atteindre plusieurs objectifs et d’ouvrir la réflexion sur
+mêmes lieux pour s’établir. Par la suite, la disposition
+                                                                le patrimoine dans une perspective d’avenir. Il permet
+des occupations rurales européennes se démarque
+                                                                entre autres :
+de celle des premiers noyaux villageois, au gré du
+développement des axes de transport terrestre. De               – d’élargir la notion de patrimoine par rapport à ce qu’on
+plus, des activités spécialisées, tel un moulin à farine          retrouvait dans le Plan d’urbanisme de Montréal de 1992
+ou à scie mu par l’eau, une tannerie artisanale ou,               et dans plusieurs des plans d’urbanisme des anciennes
+plus tardivement, un complexe industriel, supposent               villes qui se sont jointes à Montréal ;
+des caractéristiques d’implantation fort différentes.           – de contribuer à accroître l’intérêt de certains arron-
+Ces facteurs ont été pris en considération afin de                dissements pour les problématiques de conservation
+tenter de localiser les territoires qui ont eu la faveur          du patrimoine et d’en sensibiliser d’autres à l’impor-
+des populations locales depuis le début de l’occupation           tance de cet enjeu ;
+de l’île de Montréal jusqu’à nos jours.                         – d’amorcer une exploration de nouvelles notions que
+                                                                  l’on rattache depuis peu à la question patrimoniale
+Les secteurs les plus susceptibles d’abriter des vestiges
+                                                                  dans les outils de gestion municipaux (patrimoine
+archéologiques ont ainsi été identifiés et ont fait l’objet
+                                                                  moderne, ensembles urbains, éléments de paysage,
+d’une inspection visuelle pour estimer leurs carac-
+                                                                  patrimoine archéologique, etc.) ;
+téristiques générales et observer, plus avant, le degré
+                                                                – de contribuer à l’identification d’enjeux locaux et
+de conservation d’éventuels vestiges. Certaines modi-
+                                                                  métropolitains quant à la protection du patrimoine;
+fications modernes majeures, comme l’ajout de rem-
+                                                                – de développer une vision globale et partagée en vue
+blais en rive, ont été réévaluées par suite de l’inspection
+                                                                  d’une planification et d’une action concertées en
+visuelle. Les résultats de l’ensemble de ces étapes
+                                                                  matière de patrimoine, en positionnant mieux le patri-
+d’évaluation ont été cartographiés sur une représen-
+                                                                  moine dans la dynamique du développement urbain.
+tation aérienne de l’île de Montréal, l’orthophoto 2002,
+
+
+
+                        ARRONDISSEMENT                                                                                   19
+                                             de Saint-Laurent
+2.                             HISTORIQUE
+
+
+Situées au centre de l’île de Montréal, les côtes
+Notre-Dame-des-Vertus, Notre-Dame-de-Liesse et
+                                                              À la fin du XIXe siècle, le caractère institutionnel et
+                                                              commercial du noyau villageois situé sur l’avenue
+Saint-Laurent sont déjà clairement indiquées sur une          Sainte-Croix est indéniable. Toutefois, l’arrivée du
+carte de 1702. Les terres de ces côtes sont concédées         premier tramway, qui traverse la Grande-Allée-de-
+à cette époque par les sulpiciens, alors seigneurs de         Florence (boulevard Décarie), permet de développer
+l’île de Montréal. Déjà à cette date, une première            un nouvel axe commercial et d’attirer de nouvelles
+chapelle a été construite sur la côte Saint-Laurent           familles. En 1893, le village est incorporé en munici-
+(dans l’axe de l’actuelle autoroute Métropolitaine)           palité autonome. Celle-ci s’urbanise et un plan
+et, en 1720, on ouvre les registres de la paroisse de         d’aménagement du territoire inspiré des nouvelles
+Saint-Laurent. En 1732, une nouvelle église paroissiale       tendances en urbanisme, dont le mouvement City
+est érigée sur ce qui deviendra l’avenue Sainte-Croix.        Beautiful, est proposé. Le plan prévoit la forme et
+À peine cent ans plus tard (1835-1836), une seconde           l’orientation de rues bordées d’arbres avec des pers-
+église est construite sur le même site; c’est l’église        pectives sur l’église et le collège, l’implantation de
+actuelle, qui a subi des modifications importantes au         maisons isolées, un boulevard prestigieux (l’actuelle
+fil du temps.                                                 rue Saint-Germain) où sont construites des résidences
+                                                              bourgeoises et un quartier plus modeste pour les
+La municipalité de la paroisse de Saint-Laurent est           ouvriers. D’ailleurs, dans un esprit d’embellissement
+créée en 1845. Bien que sa population s’adonne tou-           du territoire, un règlement municipal oblige les
+jours essentiellement à l’agriculture, Saint-Laurent est      propriétaires à planter des arbres. D’autre part, la
+un lieu de passage fréquenté. Des auberges, des               construction d’un hôtel de ville et d’un bureau de
+hôtels et des maréchaux-ferrants prospèrent dans ce           poste en 1912 illustre que Saint-Laurent devient une
+village-relais où le transit et les échanges se font vers     municipalité d’une certaine envergure. À cette époque,
+Montréal, les paroisses environnantes et les villages         près de 2 000 habitants y vivent.
+de la rive nord. L’arrivée des Pères de Sainte-Croix, en
+1847, aura un impact majeur sur le village. En 1852,          À l’aube de la crise économique, quelques industries
+les pères construisent le premier bâtiment du Collège         s’établissent à Saint-Laurent, dont The Robert Mitchell
+de Saint-Laurent sur le site qui formera un ensemble          Company, une fonderie moderne, et la Curtiss
+institutionnel et architectural particulièrement remar-       Aeroplane and Motor Company. C’est le début de
+quable et dont les différentes phases d’agrandisse-           l’implantation d’industries importantes sur le terri-
+ment vont s’échelonner sur plus de cent ans. Non              toire. En 1930, un fait spectaculaire vient modifier
+loin s’ajoute l’ensemble conventuel construit par             l’aspect physique du collège. En effet, les Pères de
+les Sœurs de Sainte-Croix. Collèges, maison mère,             Sainte-Croix achètent l’église St. Andrew and St. Paul,
+chapelles, jardins, potagers, cimetières et dépen-            située sur la rue Dorchester à Montréal. Elle sera
+dances se situent de part et d’autre de l’église parois-      démantelée pierre par pierre et reconstruite sur le site
+siale. Les institutions d’enseignement de la commu-           du collège pour devenir la chapelle de l’établissement,
+nauté des pères et des sœurs de Sainte-Croix font             puis, en 1962, sa vocation change et l’édifice est
+connaître Saint-Laurent comme un haut lieu d’en-              désormais utilisé pour le Musée d’art de Saint-
+seignement secondaire et collégial pour les garçons           Laurent. Par ailleurs, dans le domaine culturel, à la fin
+et les filles, autant au Québec et au Canada qu’en            des années 1930, une troupe de théâtre pionnière et
+Amérique du Nord.                                             permanente naît au collège sous l’impulsion du père
+                                                              Paul-Émile Legault. Il s’agit des Compagnons de Saint-
+                                                              Laurent, qui formeront une multitude de comédiens.
+
+
+
+
+                       ARRONDISSEMENT                                                                               21
+                                           de Saint-Laurent
+Saint-Laurent est alors une petite ville dont les activités
+commerciales se concentrent surtout sur le boulevard
+Décarie, et l’activité agricole est en net déclin.
+
+Il faut attendre la Seconde Guerre mondiale pour que
+l’industrialisation s’intensifie avec vigueur, grâce à
+l’industrie militaire. C’est ainsi que Canadair implante
+son industrie aéronautique par la construction d’une
+usine qui donnera un essor considérable à la ville,
+employant jusqu’à 18 000 personnes. Pendant la
+Seconde Guerre, Canadair attire de nombreuses
+familles ouvrières qui s’établissent à proximité de leur
+lieu de travail. En 1942, la première banlieue de
+Saint-Laurent prend forme. C’est le quartier Norvick,
+construit par la Wartime Housing Limited et où les
+rues courbes ou en croissant donnent une allure pit-
+toresque au secteur. La construction de l’autoroute
+transcanadienne aura pour effet que Saint-Laurent,
+comme de nombreux secteurs de l’île, change rapi-
+dement et devient une banlieue résidentielle, avec
+                                                              Tiré de Sainte-Croix au Canada 1847-1947, p. 523
+ses développements domiciliaires. Des centres com-
+                                                              Le pensionnat Notre-Dame-des-Anges tel qu’il paraît au milieu du
+merciaux ainsi que des commerces variés s’installent          XXe siècle. Ce bâtiment – construit par les Sœurs de Sainte-Croix –
+sur la rue Décarie et le boulevard de la Côte-Vertu.          fait partie d’un ensemble institutionnel unique à Montréal.
+
+
+Avec Canadair, l’impulsion industrielle est donnée.
+Étant à proximité de l’aéroport de Dorval, dont les
+pistes sont situées sur son territoire, Saint-Laurent
+développe des parcs industriels – la construction de
+la Transcanadienne, dans les années 1960, y rend
+encore plus attrayante l’implantation d’entreprises.
+Au début des années 1990, elle est la deuxième ville
+industrielle au Québec et aujourd’hui, plus de 4 000
+entreprises y prospèrent. Grâce à cela, Saint-Laurent
+peut offrir plus d’emplois qu’il n’a d’habitants. Après la
+Seconde Guerre, 10 000 personnes y vivent; sa popu-
+lation cosmopolite actuelle est de 74 000 personnes.
+
+
+
+
+22                                                            Évaluation du patrimoine urbain
+                                                              Ville de Montréal
+PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+1907, BNQ-M
+Cote : G 1144 M65G475 P5 1907 CAR
+En 1907, le village de Saint-Laurent se concentre le long l’avenue Saint-
+Laurent (l’actuel boulevard Sainte-Croix). Toutefois, le nouveau lotisse-
+ment prévu change l’organisation du territoire en introduisant des lots
+de formes régulières, étroits et longs.
+
+
+
+
+                              ARRONDISSEMENT                                23
+                                                       de Saint-Laurent
+3.
+3.1 Mise en situation
+                               É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+
+
+                                                              3.2 Résultat de l’analyse
+L’arrondissement de Saint-Laurent compte en son cœur          3.2.1 Les tracés fondateurs d’intérêt
+l’un des plus anciens sites de peuplement de l’île de                 patrimonial
+Montréal. Ce vaste territoire, qui s’étendait à l’origine
+                                                              L’arrondissement de Saint-Laurent compte plusieurs
+de la côte Saint-Luc à la rivière des Prairies, demeurera
+                                                              chemins originaires. Certains ont conservé un certain
+essentiellement agricole pendant les deux siècles
+                                                              caractère, mais la plupart ont disparu sous les nou-
+suivant la concession des premières terres. L’incorpo-
+                                                              veaux axes de circulation principaux. Les tracés fon-
+ration du village en 1893 et le morcellement du terri-
+                                                              dateurs d’intérêt patrimonial sont :
+toire de la « paroisse » entre 1910 et 1914 façonneront
+définitivement les frontières de l’arrondissement.            – l’avenue Sainte-Croix, qui demeure le chemin le
+                                                                mieux conservé de la zone urbaine. Encadré de bâti-
+Aujourd’hui, autour d’un cœur villageois qui comprend
+                                                                ments institutionnels et d’immeubles prestigieux
+un ensemble institutionnel exceptionnel, la ville s’est
+                                                                anciens, il marque l’évolution du village.
+développée jusqu’aux limites du territoire. Le cœur est
+aussi caractérisé, dans sa dimension résidentielle, par       – le chemin de la côte du Bois-Franc, ou côte Saint-
+des constructions de diverses époques. En périphérie            Louis, qui ne subsiste que partiellement dans la zone
+de ce centre, on peut sentir l’évolution du concept de          résidentielle du nouveau Saint-Laurent. La maison
+la résidence privée et de l’aménagement urbain. On y            Robert s’y trouve, de plus en plus entourée. Seule la
+trouve de vastes développements résidentiels planifiés          mise en enclave par Canadair a permis de préserver
+construits pendant la période 1940-1980.                        aussi longtemps l’aspect originel partiel de ce
+                                                                chemin étroit, sinueux et bordé d’arbres.
+Le XXe siècle verra aussi un important développement
+des fonctions industrielles. La proximité de l’aéroport       D’autre part, on reconnaîtra certaines autres voies
+de Dorval, la présence des voies ferrées du CN et du CP       comme structurantes dans l’évolution du territoire,
+ainsi que le développement d’axes majeurs de circula-         mais d’intérêt patrimonial minime :
+tion automobile faciliteront l’implantation de plusieurs
+industries de pointe.                                         – l’ancienne côte Saint-Laurent est disparue sous l’au-
+                                                                toroute 40. Seule cette constatation peut expliquer
+                                                                la présence d’une maison en pierre des champs le
+                                                                long de l’autoroute Métropolitaine.
+
+                                                              – quant aux anciens chemins de la côte Vertu, de la
+                                                                côte de Liesse et de la côte Saint-François, seules
+                                                                quelques traces subsistent de leur rôle d’axes d’im-
+                                                                plantation où, sur des terres agricoles, les pionniers
+                                                                et leurs descendants ont cultivé le sol. Quelques
+                                                                maisons, aujourd’hui utilisées à d’autres fins, mar-
+                                                                quent l’occupation antérieure.
+
+
+
+
+                       ARRONDISSEMENT                                                                              25
+                                           de Saint-Laurent
+Ville de Montréal
+Évaluation du patrimoine urbain
+                                  André Jobin, Carte de L’île de Montréal, 1834, BNQ
+3.2.2 Le cadre bâti d’intérêt patrimonial
+             A. Les secteurs de valeur
+                  patrimoniale exceptionnelle
+
+8.E.1 SAINT-LAURENT
+  – LE SECTEUR INSTITUTIONNEL
+
+À l’emplacement de la deuxième église de Saint-
+Laurent, un nouveau village se développe. Le cœur
+de ce village est occupé par la fabrique, puis par le
+Collège de Saint-Laurent. Ces institutions ont été
+agrandies, modifiées ou reconstruites, et elles cons-
+tituent un ensemble majeur incontournable. Composé,
+entre autres, de l’église de Saint-Laurent (bâtiment
+                                                                    8.E.1 Cégep Saint-Laurent, 625, avenue Sainte-Croix
+cité), du collège et du cimetière des Sœurs de Sainte-
+Croix, du Collège de Saint-Laurent, du juvénat et de la
+chapelle de l’établissement, cet ensemble d’architec-
+ture monumentale dont le matériau d’usage est la
+pierre de taille est unique à Montréal.
+
+
+
+
+                                                                    8.E.1 L’église de Saint-Laurent, 805, avenue Sainte-Croix
+
+
+
+
+8.E.1 Le musée d’art, 625, avenue Sainte-Croix
+
+
+
+
+                                                                    8.E.1 696, avenue Sainte-Croix
+
+
+
+
+                           ARRONDISSEMENT                                                                                       27
+                                                 de Saint-Laurent
+8.E.2 SAINT-LAURENT – L’ANCIEN VILLAGE
+
+En retrait de l’avenue Sainte-Croix, en bordure de
+la voie ferrée, on retrouve sur la rue Saint-Louis un
+ensemble de maisons villageoises avec parement de
+bois. Construites à la fin du XIXe siècle, elles constituent
+quelques exemples de l’architecture villageoise. Les toi-
+tures en pente, les fenêtres verticales en bois et l’usage
+de lucarnes sont les éléments dominants.
+
+
+
+
+                                                               8.E.3 1410, boulevard de la Côte-Vertu
+
+
+
+                                                               8.E.4 SAINT-LAURENT –
+                                                                 LE DÉVELOPPEMENT URBAIN
+
+                                                               La nouvelle ville prospère et de nombreux nouveaux
+                                                               résidants s’installent. Le développement s’accélère et
+                                                               de nombreuses constructions, généralement faites en
+                                                               série par des promoteurs, s’ajoutent. Ces nouvelles
+                                                               constructions, plus abordables, procurent de l’habita-
+8.E.2 512, avenue Sainte-Croix
+                                                               tion de qualité à une plus grande portion de la popula-
+                                                               tion. Parfois de trois étages, principalement de deux
+8.E.3 SAINT-LAURENT – LE PLAN GOHIER                           étages, ces habitations présentent de vastes balcons
+                                                               en façade, des escaliers extérieurs, de longues fenêtres
+Le début du XXe siècle amène la transformation du
+                                                               décorées de vitraux et un parement de brique ouvragé.
+paysage urbain grâce à la renommée du collège, à la
+situation géographique favorable et à l’émergence du
+transport collectif. Un plan de la ville est dressé par le
+maire et promoteur Gohier; c’est ce plan qui donnera
+la vision du développement futur. Les rues sont tracées
+et le lotissement est formé. La nouvelle rue Saint-
+Germain et la Grande-Allée-de-Florence donneront
+l’allant pour des constructions cossues. Les axes des
+rues du Collège et de l’Église créent les perspectives
+structurant le plan. Cette époque est marquée par
+une architecture originale, chaque habitation étant
+cons truite individuellement. Les matériaux de pare-
+ment sont variés, avec l’usage du bois, de la brique
+                                                               8.E.4 Résidence au 1595, rue de l’Église
+et de la pierre. La toiture plate remplace la toiture en
+pente. Les immeubles ont deux étages et comptent
+un ou deux logements.
+
+
+
+
+28                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+           B. Les secteurs de valeur
+               patrimoniale intéressante
+
+
+
+8.I.1 LE SECTEUR INSTITUTIONNEL
+  CÔTE-VERTU
+
+À l’intersection de l’avenue Sainte-Croix et du boule-
+vard de la Côte-Vertu, on retrouve un ensemble insti-
+tutionnel constitué du CHSLD Saint-Laurent et de
+l’école Ali Ibn Abi Talib. L’hôpital, maintes fois agrandi,
+s’est développé autour d’un ensemble central d’archi-           8.I.1 1275, boulevard de la Côte-Vertu
+tecture soignée et solennelle. L’école, d’architecture
+moderne et dotée d’œuvres d’art, offre un bel exemple
+d’intervention intégrée au bâtiment original.
+
+Cet îlot institutionnel est complété par divers bâtiments
+d’habitation en hauteur, dont un qui présente un bel
+exemple d’architecture internationale.
+
+
+
+
+                                                                8.I.1 1510, boulevard de la Côte-Vertu
+
+
+
+
+                        ARRONDISSEMENT                                                                   29
+                                             de Saint-Laurent
+8.I.2 L’AXE O’BRIEN                                      8.I.3 L’EXPANSION URBAINE
+
+À la croisée des chemins, à la sortie nord du village,   Entre les boulevards Décarie et Marcel-Laurin, pour
+le développement urbain s’est prolongé. On y trouve      recevoir une clientèle en expansion et répondre à une
+plusieurs types d’habitation développés en insertion     demande d’habitation de qualité, un projet d’habita-
+dans un tissu urbain originellement moins dense,         tions jumelées est aménagé. Les immeubles ont deux
+créant ainsi un ensemble distinct. Quelques maisons      étages et le rez-de-chaussée est surélevé par rapport
+au parement de bois, quelques habitations plus           au sol. Les matériaux sont principalement la brique et
+urbaines en brique, à toit plat et généralement à        la pierre artificielle, mais on retrouve des insertions de
+deux étages, constituent l’essentiel de ce secteur qui   bloc de verre. L’architecture est agréable et les lignes
+complète l’ensemble urbain central.                      raffinées. Les toits sont à quatre versants à pente douce
+                                                         ou plats avec fausse mansarde.
+
+
+
+
+8.I.2 Résidences au 1145 à 1165, rue Saint-Germain       8.I.3 Résidences rue Buchanan
+
+
+
+
+8.I.2 Résidence au 1025, avenue O’Brien                  8.I.3 Résidences au 1805, rue Décelles
+
+
+
+
+30                                                       Évaluation du patrimoine urbain
+                                                         Ville de Montréal
+8.I.4 L’AXE INSTITUTIONNEL MARCEL-LAURIN
+
+L’hôtel de ville, l’école Saint-Germain, l’église Saint-
+Sixte et l’église Our Lady of Fatima sont les bâtiments
+principaux de cet ensemble. Quelques immeubles de
+bureaux viennent compléter l’ensemble et encadrer
+l’axe majeur constitué par le boulevard Marcel-Laurin.
+L’hôtel de ville est la construction la plus intéressante
+de ce secteur.
+
+
+
+
+8.I.4 Hôtel-de-Ville, 777, boulevard Marcel-Lauirn
+
+
+
+
+8.I.4 Our Lady of Fatima’s Church, 1830, rue Decelles
+
+
+
+
+                            ARRONDISSEMENT                              31
+                                                     de Saint-Laurent
+             C. Les ensembles urbains d’intérêt
+
+
+8.U.1 NORVICK (LA MAISON DES VÉTÉRANS)
+
+À l’instar des autres quartiers ouvriers construits par la
+Wartime Housing Limited, Norvick reprend les grands
+traits des cités-jardins. Le plan consiste essentiellement
+en une trame de rues organique reliant l’habitation au
+noyau institutionnel central. Le quartier a été baptisé à
+partir des noms des compagnies Noorduyn et Vickers,
+entreprises à l’origine de ce développement. Construit       8.U.1 Résidences rue de la Sorbonne
+en 1942 pour loger les ouvriers œuvrant à l’effort de
+guerre, ce quartier constitue la première banlieue de
+                                                             8.U.2 LE QUARTIER OUEST
+Saint-Laurent.
+                                                               (LA BANLIEUE PLANIFIÉE)
+L’architecture des bâtiments est répétitive et simple. La
+                                                             Ce secteur présente le nouveau type d’urbanisation
+maison ouvrière est compacte et fonctionnelle. Sensés
+                                                             et d’art d’habiter. « Larges terrains, paisibles avenues
+être détruits après l’usage, ces bâtiments ont été con-
+                                                             courbes et plantées d’arbres, maisons unifamiliales
+servés et adaptés aux besoins nouveaux.
+                                                             spacieuses dotées d’un garage, tel est le tableau
+                                                             qu’offre désormais la banlieue moderne. L’architecture
+                                                             est inspirée de nos voisins américains : horizontalité
+                                                             marquée, espaces intérieurs dégagés et ouverts, change-
+                                                             ments de niveaux, massifs de maçonnerie et de pierre
+                                                             naturelle, grandes ouvertures permettant un contact
+                                                             plus étroit avec l’extérieur. » (extrait de ABC, XIII, 144,
+                                                             avril 1958).
+
+                                                             Cet aménagement s’implante jusqu’aux frontières du
+                                                             Saint-Laurent d’alors avec ses voisins : la paroisse Saint-
+                                                             Laurent et la municipalité de Notre-Dame-de-Liesse.
+                                                             Cette frontière physique délimitant le territoire apparaît
+8.U.1 Résidences rue de la Sorbonne
+                                                             aujourd’hui comme une brisure de style.
+
+
+
+
+32                                                           Évaluation du patrimoine urbain
+                                                             Ville de Montréal
+                                                          8.U.3 LE QUARTIER NORD
+                                                            (LA BANLIEUE PLANIFIÉE)
+
+                                                          Il s’agit d’une nouvelle banlieue planifiée structurée
+                                                          autour du boulevard Toupin. L’aménagement incorpore
+                                                          les fonctions publiques telles que les écoles et les
+                                                          églises. L’architecture reprend l’esprit du « bungalow »
+                                                          ouvert largement fenestré dans une planification
+                                                          d’ensemble où les matériaux, l’image, les hauteurs
+                                                          et les modes d’implantation sont constants et har-
+                                                          monieux. Les immeubles publics sont modernes.
+
+8.U.2 Résidences rue du Gray Circle
+
+
+
+
+                                                          8.U.3 École Beau-Séjour, rue Limoges
+
+
+8.U.2 Résidence au 2300, rue Stevens
+
+
+
+
+                                                          8.U.3 Résidences boulevard Toupin
+
+
+
+
+                           ARRONDISSEMENT                                                                      33
+                                       de Saint-Laurent
+           D. Les immeubles de valeur                     680-682, rue Filiatrault
+              patrimoniale exceptionnelle                 Maison urbaine
+
+Tous les immeubles de valeur patrimoniale excep-          730, rue Filiatrault
+tionnelle, qu’ils fassent ou non partie d’un secteur de   Maison préurbaine
+valeur patrimoniale défini dans le présent document,
+                                                          1025, avenue O’Brien
+sont inclus dans la liste qui suit :
+                                                          Maison urbaine
+
+                                                          907, rue Roy
+LES ÉDIFICES DE CULTE                                     Maison villageoise
+
+613, avenue Sainte-Croix                                  696, avenue Sainte-Croix
+St. Paul’s Church of Scotland                             Maison des Pères de Sainte-Croix
+
+805, avenue Sainte-Croix                                  834, avenue Sainte-Croix
+Église de Saint-Laurent, bâtiment historique cité         Maison rurale
+
+LES COUVENTS                                              842, avenue Sainte-Croix
+                                                          Maison bourgeoise
+5915-5935, chemin de la Côte-de-Liesse
+Crèche D’Youville                                         475, rue Saint-Germain
+                                                          Maison bourgeoise
+625, avenue Sainte-Croix
+Collège de Saint-Laurent                                  710, rue Saint-Germain
+                                                          Maison bourgeoise
+821, avenue Sainte-Croix
+Pensionnat de Notre-Dame-des-Anges                        760, rue Saint-Germain
+                                                          Maison bourgeoise
+LES HABITATIONS
+                                                          861, rue Saint-Germain
+3902, chemin Bois-Franc                                   Maison bourgeoise
+Maison Robert
+                                                          880, rue Saint-Germain
+2110, rue Bonin                                           Maison urbaine
+Maison rurale
+                                                          935, rue Saint-Germain
+825, boulevard de la Côte-Vertu                           Maison villageoise
+Maison rurale
+                                                          940, rue Saint-Germain
+1410, boulevard de la Côte-Vertu                          Maison préurbaine
+Maison préurbaine
+
+1375-1785, rue de l’Église
+Maison bourgeoise
+
+
+
+
+34                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+           E. Les immeubles de valeur
+               patrimoniale intéressante
+
+Seuls les immeubles de valeur patrimoniale intéressante
+situés à l’extérieur des secteurs de valeur patrimoniale
+définis dans le présent document sont inclus dans la
+liste qui suit :
+
+
+
+LES ÉDIFICES DE CULTE
+
+1830, rue Decelles
+Église Our Lady of Fatima
+
+805, boulevard Marcel-Laurin
+Église Saint-Sixte
+
+1650, rue Décelles
+Église St. Mark’s
+
+LES ÉDIFICES SCOLAIRES
+
+2681, rue Baker
+École Beau-Séjour
+
+2000, rue Décelles
+École Cardinal Léger
+
+1050, boulevard de la Côte-Vertu
+École Ali Ibn Abi Talib
+
+
+
+
+                       ARRONDISSEMENT                        35
+                                          de Saint-Laurent
+                                                                                                                                         8.U.3
+                                                                                                                                         8.U.3
+                                                                                                                                         8.U.3
+
+
+
+
+                                                                                                                                           boule
+                                                                                                                                                vard
+                                                                                                                                                 Toup
+                                                                                                                  Ouest
+
+
+
+
+                                                                                                                                                     in
+                                                                                                              a
+                                                                                                        ourass
+                                                                                            ar d Henri-B
+                                                                                  boule   v
+                                                                                                                                                                                                                        8.U.1
+                                                                                                                                                                                                                        8.U.1
+                                                                                                                                                                                                                        8.U.1
+                                                                                                                                                                                                                        8.U.1
+                                                                                                                                                                                                                        8.U.1
+                                                                                                                                                                                                                        8.U.1
+
+
+
+
+                                                                          au to
+
+
+
+
+                                                                                                                                                                                                      boule
+                                                                           route
+
+
+
+
+                                                                                                                                                                                                                                boule
+                                                 l
+                                              obe    au
+
+
+
+
+                                                                                                                                                                                                                                 aven
+                                                       tor
+
+
+
+
+                                                                                                                                                                                                         v ar d
+                                                             ou
+
+
+
+
+                                                                              13
+                                          d-N
+                                                                te
+
+
+
+
+                                                                                                                                                                                                                                     vard
+                                                                     40
+
+
+
+
+                                                                                                                                                                                                                                      ue O
+
+
+
+
+                                                                                                                                                                                                                                                                                             au
+                                                                                                                                                                                                           Marc
+                                      lfre
+
+
+
+
+                                                                                                                                                                                                                                                                                               tor
+                                                                                                                                                                                                                                          Déca
+
+                                                                                                                                                                                                                                           'Brien
+                                  rd A
+
+
+
+
+                                                                                                                                                                                                                                                                                                ou
+                                                                                                                                                          boule
+
+
+
+
+                                                                                                                                                                                                                el-
+
+
+
+
+                                                                                                                                                                                                                                                                                                  te
+                                 leva
+
+
+
+
+                                                                                                                                   r
+
+
+
+
+                                                                                                                                                                                                                                                rie
+                                                                                                                                                                                                               Laurin
+
+
+
+
+                                                                                                                                                                                                                                                                                                     15
+                                                                                                                             Poirie                                                        ens
+                                                                                                                        vard                                                           Thim
+                                                                                                                   boule
+
+
+
+
+                                                                                                                                                           vard
+                                                                                                                                                                              v ar d
+                              bou
+
+
+
+
+                                                                                                                                                                                                                                                      8.I.1
+                                                                                                                                                                                                                                                      8.I.1
+                                                                                                                                                                                                                                                      8.I.1
+                                                                                                                                                                                                                                                      8.I.1
+                                                                                                                                                                                                                                                      8.I.1
+                                                                                                                                                                         boule                                                      8.I.2
+                                                                                                                                                                                                                                    8.I.2
+                                                                                                                                                                                                                                    8.I.2
+                                                                                                                                                                                                                                    8.I.2
+                                                                                                                                                                                                                                    8.I.2
+                                                                                                                                                                                                                                    8.I.2
+
+
+
+
+                                                                                                                                                                C
+
+
+
+
+                                                                                                                                                                                                                                                      aven
+                                                                                                                                                                                                           u
+                                                                                                                                                                                                      -Vert
+
+
+
+
+                                                                                                                                                              aven
+                                                                                                                                                                                           La     Côte
+                                                                                                                                                                                    r d De
+
+
+
+
+                                                                                                                                                                                                                                                       ue S
+                                                                                                                                                                                                               8.I.4
+                                                                                                                                                                                                               8.I.4
+                                                                                                                                                                                                               8.I.4
+                                                                                                                                                                                                               8.I.4
+                                                                                                                                                                                                               8.I.4
+                                                                                                                                                                                                               8.I.4                                                 8.E.1
+                                                                                                                                                                                                                                                                     8.E.1
+                                                                                                                                                                                                                                                                     8.E.1
+                                                                                                                                                                                                                                                                     8.E.1
+                                                                                                                                                                                                                                                                     8.E.1
+                                                                                                                                                                                                                                                                     8.E.1
+                                                                                                                                                                               uleva
+
+
+
+
+                                                                                                                                                                  dish
+                                                                                                                                                                                                                                    8.E.4
+                                                                                                                                                                                                                                    8.E.4
+                                                                                                                                                                                                                                    8.E.4
+                                                                                                                                                                          bo                                                        8.E.4
+                                                                                                                                                                                                                                    8.E.4
+                                                                                                                                                                                                                                    8.E.4
+
+
+
+
+                                                                                                                                                                                                                                                            a
+                                                                                                                                                                                                                                               8.E.3
+                                                                                                                                                                                                                                               8.E.3
+                                                                                                                                                                                                                                               8.E.3
+                                                                                                                                                                                                                                               8.E.3
+                                                                                                                                                                                                                                               8.E.3
+                                                                                                                                                                                                                                               8.E.3
+
+
+
+
+                                                                                                                                                                                                                                                          inte-C
+                                                                                                                                                                                                  boul
+                                                                                                                                                                                                                            8.I.3
+                                                                                                                                                                                                                            8.I.3
+                                                                                                                                                                                                                            8.I.3
+                                                                                                                                                                                                                            8.I.3
+                                                                                                                                                                                                                            8.I.3
+                                                                                                                                                                                                                            8.I.3
+
+
+
+
+                                                                                                                                                                                                      evar
+
+
+
+
+                                                                                                                                                                                                                                                              roix
+                                                                                                                                                                                          8.U.2
+                                                                                                                                                                                          8.U.2
+                                                                                                                                                                                          8.U.2
+                                                                                                                                                                                          8.U.2
+                                                                                                                                                                                          8.U.2
+                                                                                                                                                                                          8.U.2
+
+
+
+
+                                                                                                                                                                                                       Alexd
+                                                                                                                                                                                                                                                  8.E.2
+                                                                                                                                                                                                                                                  8.E.2
+                                                                                                                                                                                                                                                  8.E.2
+                                                                                                                                                                                                                                                  8.E.2
+                                                                                                                                                                                                                                                  8.E.2
+                                                                                                                                                                                                                                                  8.E.2
+
+
+
+
+                                                                                                                                                                                                          is-Ni
+                                                                                                                                                                                                               hon
+                                                                                                                                                                                                                                                                             Évaluation du patrimoine urbain
+                                                                                                                                                   e
+                                                                                                                                             -Liess
+                                                                                                                                    te-de
+                                                                                                                          De   La Cô                                                                                                                                         Arrondissement de Saint-Laurent
+                                                                                                             auto   route
+
+
+                                                                                                                                                                                                                                                                                       Arrondissement historique ou naturel
+                                                                                                                                                                                                                                                                                       Secteur de valeur patrimoniale exceptionnelle
+
+
+                                                                                                                                                 au
+                                                                                                                                               re
+                                                                                                                                                                                                                                                                                       Secteur de valeur patrimoniale intéressante
+                                                                                                                                             he
+                                                                                                                                           sc
+                                                                                                                                                                                                                                                                                       Ensemble urbain d'intérêt
+                                                                                                                                         Ta
+                                                                                                                                   ge
+
+
+
+                                                                                                                                                                                                                                                                                       Ensemble industriel d'intérêt
+
+
+
+                                                                                                                                                                            uc
+                                                                                                                                     a
+                                                                                                                                 tri
+
+
+
+
+                                                                                                                                                                         t-L
+                                                                                                                                                                                                                                                                                       Tracé fondateur d'intérêt patrimonial
+                                                                                                                                                                    in
+                                                                                                                                                                  Sa
+                                                                                                                                                                                                                                                                                       Code du secteur
+                                                                                                                                                               e-
+                                                                                                                                                                                                                                                                              8.E.1
+                                                                                                                                                            ôt
+
+
+                                                                                                                                                                                                                                                                                       (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                           C
+                                                                                                                                                      e
+                                                                                                                                                   ag
+
+
+
+
+                                                                                                                                                                                                                                                                                       Limite d'arrondissement
+                                                                                                                                                 tri
+
+
+
+
+                                                                                                                                                                                                                                                                             Division du patrimoine et
+ 0       500       1000   m
+                                                                                                                                                                                                                                                                             de la toponymie
+
+                                                                                                                                                                                                                                                                                                17
+                                                                                                                                                                                                                                                                                                17
+                                                                                                                                                                                                                                                                                                17 III 14
+                                                                                                                                                                                                                                                                                                       14
+                                                                                                                                                                                                                                                                                                       14
+10 décembre 2004
+3.2.3 Le patrimoine archéologique
+L’arrondissement de Saint-Laurent occupe un vaste
+territoire dans le centre-nord de l’île de Montréal.
+Saint-Laurent est le seul village à s’être développé
+à l’intérieur des terres, au cours du Régime français.
+Le noyau villageois date vraisemblablement de 1702,
+il se concentre autour d’une chapelle, premier lieu
+de culte, et croit progressivement avec l’exploitation
+agricole des terres concédées le long des grands axes
+de communication, les côtes Notre-Dame-des-Vertus,
+Notre-Dame-de-Liesse et Saint-Laurent. À partir de la
+                                                              La recherche archéologique a recours à un ensemble de méthodes et
+deuxième moitié du XIXe siècle, deux événements               techniques permettant d’identifier la présence de vestiges enfouis, de
+                                                              les décrire, de les prélever et de les analyser en fonction de leur apport
+donnent une impulsion considérable au village : l’ar-
+                                                              à une meilleure compréhension de nos sociétés passées. En cas de
+rivée du collège et celle du chemin de fer.                   découverte fortuite de vestiges ou d’objets, il est nécessaire d’en
+                                                              informer les instances gouvernementales afin que le lieu de la découverte
+                                                              soit évalué.
+L’expansion résidentielle s’est faite à partir de la
+deuxième moitié du XXe siècle, tout comme l’amé-
+nagement du parc industriel. En fait, le développement
+contemporain de Saint-Laurent est intimement lié
+aux activités industrielles favorisées par les différents
+types de transport disponibles sur ce territoire, les
+autoroutes 13, 15, 20 et 40, l’aéroport de Cartierville
+et une portion de l’aéroport Dorval, ainsi que les voies
+ferrées et les cours de triage ferroviaire.
+
+Aucune recherche archéologique n’a été réalisée sur le
+territoire de Saint-Laurent, ce qui explique l’absence de
+site archéologique répertorié dans cet arrondissement.
+
+
+
+
+                                                              Les collections archéologiques ont une valeur patrimoniale indéniable
+                                                              et représentent une richesse collective qui mérite toute notre attention.
+                                                              Ces objets illustrent avec éloquence notre histoire matérielle et jouissent
+                                                              d’un pouvoir fortement évocateur qui rappelle les modes de vie de nos
+                                                              prédécesseurs. Jarre en terre cuite grossière d’Angleterre, 1760-1840;
+                                                              objet amérindien, pointe de projectile, 2 500 ans avant Jésus-Christ;
+                                                              cannelle de tonneau en laiton, XVIIIe siècle. Photographies : P. Fauteux.
+
+
+
+
+                       ARRONDISSEMENT                                                                                                39
+                                           de Saint-Laurent
+       A. Les secteurs d’intérêt archéologique                         8.AP.2 PARC-NATURE DU BOIS-DE-LIESSE
+             à fort potentiel
+                                                                       Le ruisseau Bertrand, dont l’embouchure s’ouvre sur
+                                                                       la rivière des Prairies, est l’une des caractéristiques
+                                                                       naturelles majeures de l’arrondissement de Saint-
+8.AP.1 ET 8.A.1 VILLAGE DE SAINT-LAURENT                               Laurent. Cet environnement de milieux humides est
+  ET NOYAU INSTITUTIONNEL                                              protégé à l’intérieur des limites du Bois-de-Liesse, en
+En 1847, les premiers religieux et religieuses de la                   partie situé sur le territoire de Saint-Laurent. De telles
+Congrégation de Sainte-Croix arrivent à Saint-Laurent                  conditions sont favorables au soutien d’activités de
+et passent cinq années à enseigner dans un bâtiment                    chasse et de pêche pour les groupes amérindiens de
+de pierre construit en 1794, aujourd’hui désigné                       la période préhistorique, depuis près de 4 000 ans.
+comme la maison des Pères de Sainte-Croix ou le                        Le territoire de ce parc-nature recèle un potentiel
+premier collège. Toujours en place au 696, avenue                      archéologique. Il recoupe également les arrondissements
+Sainte-Croix, il est actuellement occupé par une entre-                d’Ahuntsic–Cartierville, de Dollard-Des-Ormeaux–
+prise. La construction du second collège, situé en face                Roxboro et de Pierrefonds–Senneville.
+du premier, débute en 1852; il s’agit d’un immeuble de
+pierre de taille.
+
+La première église de Saint-Laurent serait localisée sous                    B. Les secteurs d’intérêt archéologique
+l’actuel centre commercial Rockland, sur la côte Saint-
+Laurent (aujourd’hui autoroute Métropolitaine). La
+seconde église, érigée en 1732, sera remplacée par
+                                                                       8.A.1 VILLAGE DE SAINT-LAURENT
+l’église actuelle en 1835. À partir de ce moment, le
+collège, l’église et le couvent forment le noyau prin-                   ET NOYAU INSTITUTIONNEL
+cipal du village, autour de l’avenue Sainte-Croix. Un
+                                                                       Voir texte 8.AP.1
+petit bâtiment de pierre du côté sud-ouest de l’église
+peut être associé à une dépendance ancienne. D’autres
+institutions voient le jour au cours du XIXe siècle, dont
+le pensionnat Notre-Dame-des-Anges de la Congréga-                           C. Les biens culturels à statut
+tion des Sœurs de Sainte-Croix; ces bâtiments sont
+aujourd’hui utilisés par le Collège Vanier.
+                                                                       La notion de bien culturel intègre les sites et les
+                                                                       biens archéologiques classés, les sites historiques
+                                                                       classés et les monuments historiques classés ou
+                                                                       reconnus, les arrondissements historiques et naturels,
+                                                                       les monuments cités et les sites du patrimoine. Ces
+                                                                       biens ont fait l’objet d’un examen à partir de la
+                                                                       documentation disponible afin d’en déterminer
+                                                                       l’intérêt archéologique. La liste suivante indique les
+                                                                       biens à statut où il est nécessaire d’évaluer plus
+                                                                       avant le potentiel archéologique et d’assurer la
+                                                                       protection du patrimoine archéologique.
+
+8.AP.1 Dans ce secteur, plusieurs espaces libres peuvent receler des   – Église de Saint-Laurent, 805, avenue Sainte-
+vestiges archéologiques témoins de la fondation de Saint-Laurent et      Croix, monument historique cité
+des occupations des XVIIIe et XIXe siècles.
+
+40                                                                     Évaluation du patrimoine urbain
+                                                                       Ville de Montréal
+                                                                                                                                              boule
+                                                 8.AP.2
+                                                 8.AP.2
+                                                 8.AP.2
+
+
+
+
+                                                                                                                                                   vard
+                                                                                                                                                  Toup
+                                                                                                                       Ouest
+
+
+
+
+                                                                                                                                                      in
+                                                                                                                   a
+                                                                                                             ourass
+                                                                                                 ar d Henri-B
+                                                                                       boule   v
+
+
+
+
+                                                                               au to
+
+
+
+
+                                                                                                                                                                                                     boule
+                                                                                route
+
+
+
+
+                                                                                                                                                                                                                        boule
+                                             l
+
+
+
+
+                                                                                                                                                                                                                         aven
+                                          obe             au
+                                                            tor
+
+
+
+
+                                                                                                                                                                                                        v ar d
+                                                                  ou
+
+
+
+
+                                                                                   13
+
+
+
+
+                                                                                                                                                                                                                             vard
+                                      d-N
+                                                                     te
+
+
+
+
+                                                                                                                                                                                                                              ue O
+                                                                          40
+
+
+
+
+                                                                                                                                                                                                                                                                                     au
+                                                                                                                                                                                                          Marc
+                                  lfre
+
+
+
+
+                                                                                                                                                                                                                                                                                       tor
+                                                                                                                                                                                                                                  Déca
+
+                                                                                                                                                                                                                                   'Brien
+                              rd A
+
+
+
+
+                                                                                                                                                                                                                                                                                         ou
+                                                                                                                                                           boule
+
+
+
+
+                                                                                                                                                                                                               el-
+
+
+
+
+                                                                                                                                                                                                                                                                                           te
+                                                                                                                                                                                                                                        rie
+                             leva
+
+
+
+
+                                                                                                                                        r
+
+
+
+
+                                                                                                                                                                                                               Laurin
+
+
+
+
+                                                                                                                                                                                                                                                                                             15
+                                                                                                                                  Poirie                                                    ens
+                                                                                                                             vard                                                       Thim
+                                                                                                                        boule
+
+
+
+
+                                                                                                                                                            vard
+                                                                                                                                                                               v ar d
+                          bou
+
+
+
+
+                                                                                                                                                                          boule
+
+
+
+
+                                                                                                                                                                                                                                              aven
+                                                                                                                                                                 C
+                                                                                                                                                                                                           u
+                                                                                                                                                                                                      -Vert
+
+
+
+
+                                                                                                                                                               aven
+                                                                                                                                                                                             La   Côte
+
+
+
+
+                                                                                                                                                                                                                                               ue S
+                                                                                                                                                                                      r d De                                                                8.A.1
+                                                                                                                                                                                                                                                            8.A.1
+                                                                                                                                                                                                                                                            8.A.1
+                                                                                                                                                                                 uleva
+
+
+
+
+                                                                                                                                                                   dish
+                                                                                                                                                                                                                                                            8.A.1
+                                                                                                                                                                                                                                                            8.A.1
+                                                                                                                                                                                                                                                            8.A.1
+                                                                                                                                                                            bo
+
+
+
+
+                                                                                                                                                                                                                                                    a
+                                                                                                                                                                                                                               8.AP.1
+                                                                                                                                                                                                                               8.AP.1
+                                                                                                                                                                                                                               8.AP.1
+                                                                                                                                                                                                                               8.AP.1
+                                                                                                                                                                                                                               8.AP.1
+                                                                                                                                                                                                                               8.AP.1
+
+
+
+
+                                                                                                                                                                                                                                                 inte-C
+                                                                                                                                                                                                  boul
+
+
+
+
+                                                                                                                                                                                                                                                     roix
+                                                                                                                                                                                                      evar
+                                                                                                                                                                                                       Alexd
+                                                                                                                                                                                                          is-Ni
+                                                                                                                                                                                                               hon
+                                                                                                                                                                                                                                                                    Le patrimoine archéologique
+                                                                                                                                                      e
+                                                                                                                                                -Liess
+                                                                                                                                     te-de                                                                                                                          Arrondissement de Saint-Laurent
+                                                                                                                             De La Cô
+                                                                                                                       out e
+                                                                                                                  autor
+                                                                                                                                                                                                                                                                               Grand ensemble à statut
+                                                                                                                                                                                                                                                                               (arrondissement historique et naturel, site du patrimoine)
+                                                                                                                                                                                                                                                                               Site archéologique recensé (intègre)
+
+
+                                                                                                                                                    au
+                                                                                                                                                  re
+                                                                                                                                                                                                                                                                               Site archéologique recensé (altéré)
+                                                                                                                                                he
+                                                                                                                                              sc
+                                                                                                                                                                                                                                                                               Secteur d'intérêt archéologique à fort potentiel
+                                                                                                                                            Ta
+                                                                                                                                      ge
+
+
+
+                                                                                                                                                                                                                                                                               Secteur d'intérêt archéologique
+
+
+
+                                                                                                                                                                             uc
+                                                                                                                                        a
+                                                                                                                                    tri
+
+
+
+
+                                                                                                                                                                          t-L
+                                                                                                                                                                                                                                                                               Code du secteur
+                                                                                                                                                                     in
+                                                                                                                                                                                                                                                                     8.AP.1
+                                                                                                                                                                   Sa                                                                                                          (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                e-
+                                                                                                                                                             ôt
+
+
+                                                                                                                                                                                                                                                                      BiFj-1   Code de site archéologique
+                                                                                                                                                            C
+                                                                                                                                                        e
+                                                                                                                                                     ag
+
+
+
+
+                                                                                                                                                                                                                                                                               Limite d'arrondissement
+                                                                                                                                                   tri
+
+
+
+
+                                                                                                                                                                                                                                                                    Division du patrimoine et
+ 0       500   1000   m
+                                                                                                                                                                                                                                                                    de la toponymie
+
+10 mai 2004
+4.                              R E C O M M A N D AT I O N S
+
+
+
+4.1 Générales à l’échelle de l’arrondissement
+                                                                  et maintenir le bon état et l’intégrité des bâtiments
+                                                                  par l’entretien.
+
+                                                                     Les variables suivantes devraient être considérées
+Nous recommandons :                                                  dans l’élaboration des PIIA et des règles :
+– dans les secteurs d’intérêt patrimonial excep-                   • Parcellaire : mode de division, dimensions et pro-
+  tionnel, de protéger les caractéristiques architecturales          portions des parcelles, mode d’implantation du
+  et paysagères, de veiller à l’intégration des nouveaux             bâti, aménagement du terrain.
+  bâtiments à leur environnement et de s’assurer que
+                                                                   • Bâti : volumétrie (gabarit, nombre d’étages, forme
+  les modifications aux bâtiments existants se fassent
+                                                                     de la toiture), traitement des façades (saillies, com-
+  en tenant compte du contexte. La réglementation
+                                                                     position des façades, rythme, forme et dimen-
+  devra prévoir que les interventions dans ces secteurs
+                                                                     sions des ouvertures, modèles de portes et de
+  soient encadrées par des critères – plans d’implan-
+                                                                     fenêtres, revêtements, ornementation, couleurs,
+  tation et d’intégration architecturale (PIIA) – mais
+                                                                     matériaux et textures, etc.).
+  aussi par des règles si la situation le justifie.
+                                                                – d’instaurer des mesures de zonage spécifiques
+– pour les bâtiments d’intérêt patrimonial excep-
+                                                                  pour des ensembles significatifs tels que les
+  tionnel et intéressant, de protéger leurs caractéris-
+                                                                  noyaux paroissiaux (parc, école, église, pres-
+  tiques architecturales en s’assurant que les modifi-
+                                                                  bytère, etc.) afin de préserver l’essence de leur
+  cations aux bâtiments énumérés dans les listes soient
+                                                                  valeur patrimoniale.
+  encadrées, dans la réglementation, par des critères (PIIA)
+  mais aussi par des règles si la situation le justifie.        – d’étudier les territoires identifiés comme ensembles
+                                                                  urbains d’intérêt, de recenser les typologies des
+– dans les secteurs d’intérêt patrimonial intéressant,
+                                                                  ensembles qui présentent une grande homogénéité
+  de protéger les caractéristiques architecturales et
+                                                                  et de développer des outils visant à sensibiliser la
+  paysagères, de veiller à l’intégration des nouveaux
+                                                                  population à l’égard de l’intérêt patrimonial de ces
+  bâtiments à leur environnement et de s’assurer que
+                                                                  ensembles.
+  les modifications aux bâtiments existants se fassent
+  en tenant compte du contexte. La réglementation               – d’établir un contrôle sur les démolitions dans les
+  devra prévoir que les interventions dans ces secteurs           secteurs d’intérêt patrimonial et pour les bâtiments
+  soient encadrées par des règles.                                patrimoniaux en évaluant l’intérêt patrimonial des
+                                                                  bâtiments concernés afin d’éviter des pertes
+– que l’élaboration des PIIA et l’élaboration de
+                                                                  irréversibles.
+  règles dans les règlements de zonage favorisent
+  une architecture de qualité et consolident le cadre           – d’éviter le fractionnement des grandes propriétés
+  bâti en harmonie avec le caractère de chaque lieu, en           et d’assurer la protection et la mise en valeur des
+  contrôlant notamment l’apparence des nouvelles                  propriétés institutionnelles.
+  constructions afin qu’elles s’intègrent à leur milieu
+  environnant, ainsi qu’en contrôlant l’apparence des           – d’appliquer les mesures nécessaires à un examen
+  modifications à un bâtiment pour qu’elles s’harmo-              du potentiel archéologique et, le cas échéant, à la
+  nisent avec son expression architecturale spécifique.           protection des vestiges découverts, préalablement
+                                                                  aux travaux d’excavation publics et privés dans les
+  Les principes qui devraient guider l’élaboration                grands ensembles à statut et les biens culturels
+  des PIIA et des règles sont les suivants : conserver            à statut, les sites archéologiques recensés et les
+  l’identité des secteurs, connaître avant d’intervenir           secteurs d’intérêt archéologique à fort potentiel.
+
+
+                        ARRONDISSEMENT                                                                                  43
+                                             de Saint-Laurent
+– de favoriser la prise en compte des vestiges
+  présentant une grande valeur archéologique                4.2 Générales à l’échelle montréalaise
+  dans la conception et la réalisation des projets de
+  construction ou d’aménagement urbain, notamment           Nous recommandons :
+  par l’adaptation des travaux ou l’intégration des
+  vestiges.                                                 – de développer des outils de protection et de mise
+                                                              en valeur, incluant la citation en vertu de la Loi
+– d’assurer la protection et la mise en valeur des
+                                                              sur les biens culturels du Québec, pour les
+  aménagements urbains, des parcs et des espaces
+                                                              immeubles qui possèdent une valeur patrimoniale
+  publics.
+                                                              élevée à l’échelle montréalaise, comme certaines
+– de préserver et de protéger le couvert végétal,             maisons rurales et villas, institutions (ex. : écoles,
+  qui contribue beaucoup au caractère de plusieurs            églises), services municipaux (ex. : bains, casernes,
+  secteurs patrimoniaux répertoriés, de favoriser les         complexes civiques), etc.
+  plantations et de protéger de façon générale le
+                                                            – de développer des outils de protection et de mise
+  patrimoine naturel, ainsi que de préserver et mettre
+                                                              en valeur, incluant la création de sites du patri-
+  en valeur le caractère champêtre des secteurs où
+                                                              moine en vertu de la Loi sur les biens culturels
+  l’on retrouve encore des paysages agricoles.
+                                                              du Québec, pour les sites qui possèdent une
+– de protéger les perspectives d’intérêt patrimonial          valeur patrimoniale élevée à l’échelle montréalaise,
+  telles que les vues sur le centre-ville, le mont Royal,     notamment certains noyaux villageois, ensembles
+  les plans d’eau, les places publiques, les monuments        institutionnels, grands domaines, grands gestes
+  commémoratifs, certains bâtiments ou clochers, etc.         urbains et architecturaux, etc.
+
+– de préserver la spécificité de la trame urbaine           – à partir des critères de sélection établis pour l’évalua-
+  montréalaise, qui découle des tracés fondateurs et          tion des bâtiments et des secteurs susceptibles
+  des caractéristiques naturelles, et de préserver            d’avoir un intérêt pan-montréalais, de développer un
+  la grille orthogonale (incluant les ruelles des             plan d’attribution de statuts patrimoniaux en vertu
+  arrondissements du centre) ainsi que les plans              de la Loi sur les biens culturels du Québec, de
+  d’ensemble et grilles particulières de certains             fixer des critères d’évaluation pour les interventions
+  arrondissements; de contrôler les subdivisions              sur les bâtiments et territoires protégés par le volet
+  cadastrales afin de préserver le rythme des rues et         municipal de cette même loi, d’élaborer des outils
+  de sauvegarder l’échelle du bâti.                           de protection et de dresser un plan directeur pour
+                                                              la mise en valeur de chacun des sites du patrimoine.
+– de développer des outils de promotion et de mise
+  en valeur des tracés fondateurs à fort potentiel,         – d’élaborer pour le public, les employés municipaux
+  aux fins de la protection de leur caractère.                et les élus des activités et des outils de sensibili-
+– de développer un plan stratégique pour les artères          sation à l’égard du patrimoine.
+  commerciales principales (vitalité, affichage,
+  rénovation, éclairage, mobilier urbain, etc.) qui
+  tienne compte de la dimension patrimoniale des
+  lieux et de concilier les opérations de travaux
+  publics avec les préoccupations patrimoniales.
+
+
+
+
+44                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+– de réaliser des études plus poussées permettant
+  d’accroître la connaissance du patrimoine bâti, his-         4.3 Spécifiques à l’arrondissement
+  torique et archéologique afin d’évaluer la valeur
+  patrimoniale rattachée à différentes problématiques,         Nous recommandons :
+  notamment :
+                                                               – d’évaluer l’intérêt pan-montréalais des secteurs
+  • étudier les territoires identifiés comme secteurs            d’intérêt patrimonial exceptionnel en vue de
+    d’intérêt archéologique à fort potentiel et                  procéder à la création de sites du patrimoine en
+    secteurs d’intérêt archéologique pour évaluer                vertu de la Loi sur les biens culturels du Québec,
+    le degré de préservation du milieu physique,                 notamment pour le secteur institutionnel entourant
+    localiser les sites archéologiques conservés et              l’église de Saint-Laurent et qui inclut les cimetières,
+    définir préventivement les mesures de protection             le Collège Saint-Laurent, le Cégep, le Collège
+    du patrimoine archéologique.                                 Basile-Moreau, etc.
+
+  • faire des études détaillées sur le patrimoine              – d’évaluer l’intérêt pan-montréalais des bâtiments
+    industriel pour déterminer une stratégie de                  d’intérêt patrimonial exceptionnel en vue d’une
+    conservation et de développement des sites ;                 citation en vertu de la Loi sur les biens culturels
+    étudier plus spécifiquement les territoires identifiés       du Québec, notamment pour tous les immeubles
+    comme ensembles industriels d’intérêt.                       antérieurs à 1850.
+
+  • établir des balises et des critères permettant de
+    bien planifier et gérer la problématique du patri-
+    moine religieux; favoriser la conservation et la
+    mise en valeur des lieux de culte les plus impor-
+    tants relativement à leur valeur patrimoniale ;
+    mettre en œuvre des outils de gestion des
+    demandes de permis et favoriser l’occupation de
+    lieux de culte par des fonctions compatibles ;
+    favoriser le maintien des caractéristiques des
+    ensembles conventuels les plus importants, de
+    leurs espaces paysagers et des cimetières.
+
+  • accroître la connaissance du patrimoine
+    moderne en encourageant la recherche, les
+    inventaires et les publications à ce sujet.
+
+  • planifier des études à l’échelle montréalaise,
+    développer des outils et élaborer des lignes direc-
+    trices de rénovation et d’agrandissement adap-
+    tées aux diverses typologies que l’on retrouve
+    dans les zones identifiées comme ensembles
+    urbains d’intérêt.
+
+
+
+
+                       ARRONDISSEMENT                                                                                45
+                                            de Saint-Laurent
+5.
+Photographies aériennes
+                               BIBLIOGRAPHIE
+
+
+                                                               JOBIN, André. Carte de l’île de Montréal, 1834,
+                                                               Bibliothèque nationale du Québec à Montréal.
+  Photographies aériennes, 1947-1948-1949, Ville               Cote : G 3452 M65 1834 J63 CAR
+de Montréal, Gestion des documents et archives
+                                                               JOURDAIN dit LABROSSE, Paul. Plan de la ville et des
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                 faubourgs de Montréal, 1767. Archives nationales du
+Orthophoto noir et blanc, 2000, Navigateur urbain.             Canada, NMC-16687 [2 sections] H2/340 Montréal
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                 1767.
+Orthophoto noir et blanc, 2002, Navigateur urbain.             LEVASSEUR DE NÉRÉ, Jacques. Plan de la ville de
+Cartes                                                         Montréal, 1704. Archives nationales (France), Centre
+                                                               des archives d’outre-mer, Dépôt des fortifications des
+ADAMS, John. Map of the City and Suburbs of                    colonies, Amérique Septentrionale, no 468A.
+Montreal, 1825. Bibliothèque de l’Université McGill,
+Département des livres rares et des collections spéciales.     MELISH, John. Plan of Montreal, with a Map of the
+                                                               Islands & adjoining Country, 1815, Bibliothèque
+BELLIN, Jacques-Nicolas. Carte de Lisle de Montreal            nationale du Québec à Montréal.
+et de ses environs, 1744, Bibliothèque nationale du            Cote: G 3454 M65 1815 M4
+Québec à Montréal.
+Cote : G 3452 M65 1744 B4                                      PINSONEAULT, A.-R. Atlas of the Island of Montreal
+                                                               and Ile Bizard, 1907, Bibliothèque nationale du Québec
+BOUCHETTE, Joseph. Topographical Map of the Province           à Montréal.
+of Lower Canada, 1815. Londres, W. Faden.                      Cote: G 1144 M65G475 P5 1907 CAR
+
+CHAUSSEGROS DE LÉRY, Gaspard. Plan de la ville                 SITWELL, H.S. Fortification Surveys Canada. Contoured
+de Montreal en Canada, 10 août 1717. Archives                  Plan of Montreal and its Environs, Quebec, 1868-1869,
+nationales (France), Centre des archives d’outre-mer,          Archives nationales du Canada, Ottawa.
+Dépôt des fortifications des colonies, Amérique                Cote: V40/300/1867
+Septentrionale, no 473.
+                                                               UNDERWRITERS SURVEY BUREAU. Insurance Plan of
+GOAD, Charles E. Atlas of Montreal, 1890, volumes              the City of Montreal, 1952, 1953, 1954, 1955, 1957,
+1 et 2, Bibliothèque nationale du Québec à Montréal.           1959, 1961, 1962, 1963, 1964, 1966, 1967, 1972,
+Cote : G 1144 M65G475 G6 1890 CAR 1 et 2                       volumes 1 à 10, 12 à 17, 19 à 21.
+
+GOAD, Charles E. Plan of the City of Montreal, 1909,           Ouvrages généraux
+1911, 1912, 1913, 1914, 1915, volumes 1 à 12,
+Bibliothèque nationale du Québec à Montréal et                   Itinéraire toponymique du Saint-Laurent, ses rives
+Direction du développement urbain de la Ville de               et ses îles, Québec, 1984, 451 p., coll. Études et
+Montréal.                                                      recherches toponymiques, no 9.
+
+HOPKINS, H.W. Atlas of the City and Island of                  BEAUREGARD, Ludger. « Géographie historique des
+Montreal, 1879, Bibliothèque nationale du Québec               côtes de l’île de Montréal », Cahiers de géographie
+à Montréal.                                                    du Québec, vol. 28, nos 73-74, avril-septembre 1984,
+Cote : G1144 M65G475 H6 1879 CAR                               p. 47-62.
+
+
+
+
+                       ARRONDISSEMENT                                                                             47
+                                            de Saint-Laurent
+BEAUREGARD, Ludger. Toponymie de la région métro-         MAGNAN, Hormidas. Dictionnaire historique et géo-
+politaine de Montréal, Québec, Ministère des Terres       graphique des paroisses, missions et municipalités
+et Forêts du Québec, 1968, 225 p., coll. Étude            de la province de Québec, Arthabaska, Imprimerie
+toponymique 2 (nouvelle série).                           d’Arthabaska Inc., 1925, 738 p.
+
+BERGERON, Claude. Architectures du XXe siècle au          MARSAN, Jean-Claude (dir.). Inventaire préliminaire
+Québec, Québec, Musée de la civilisation / Éditions       des bâtiments patrimoniaux de la Commission sco-
+du Méridien, 1989, 271 p.                                 laire de Montréal, vol. 1-2a-2b, Montréal, Université
+                                                          de Montréal, 28 février 2001.
+BERGERON, Claude. L’architecture des églises du
+Québec 1940-1985, Québec, Les Presses de l’Université     MARSAN, Jean-Claude. Montréal en évolution :
+Laval, 1987, 386 p.                                       Historique de développement de l’architecture et de
+                                                          l’environnement urbain montréalais, 3e éd., Laval,
+COMMISSION DES BIENS CULTURELS. Les chemins
+                                                          Éditions du Méridien, 1994, 515 p.
+de la mémoire. Monuments et sites historiques du
+Québec, Tome II, Québec, Les Publications du Québec,      ROBERT, Jacques. Les ensembles patrimoniaux de la
+1991, 565 p.                                              Communauté urbaine de Montréal, Montréal, Ministère
+                                                          des Affaires culturelles, mars 1985, 40 p.
+COMMISSION DE TOPONYMIE. Noms et lieux du
+Québec. Dictionnaire illustré du Québec, Québec, Les      ROBERT, Jean-Claude. Atlas historique de Montréal,
+Publications du Québec, 1994, 925 p.                      Montréal, Art Global / Libre Expression, 1994, 167 p.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL. Répertoire                VILLE DE MONTRÉAL. Le patrimoine de Montréal,
+d’architecture traditionnelle sur le territoire de la     Montréal, Ville de Montréal et Ministère de la Culture
+Communauté urbaine de Montréal. 12 volumes.               et des Communications, 1998, 168 p.
+
+COURVILLE, Serge (dir.). Paroisses et municipalités de    WOLFE, Jeanne M. et François DUFAUX (dir.). A topo-
+la région de Montréal au XIXe siècle (1825-1861),         graphic Atlas of Montreal / Atlas topographique de
+Répertoire documentaire et cartographique, Québec,        Montréal, Montréal, McGill School of Urban Planning /
+Les Presses de l’Université Laval, 1988, 350 p.           École d’urbanisme, 1992, 78 p.
+
+DESJARDINS, Pauline. Évaluation du patrimoine indus-      Site Internet
+triel. Critères généraux, Montréal, Archemi / Ville de
+                                                          VILLE DE MONTRÉAL. Répertoire bibliographique sur
+Montréal, Service du développement économique et
+                                                          le patrimoine archéologique de Montréal, 2004.
+du développement urbain, 29 août 2003, 56 p.
+                                                          http://www2.ville.montreal.qc.ca/urb_demo/domaines/
+LAURIN, J.-E. Histoire économique de Montréal et          archeo/bib_recherche.htm
+des Cités et Villes du Québec, [Montréal], Les Éditions
+J.-E. Laurin, 1942, 287 p.
+
+LEUNG, Felicity, David McCONNELL et Jean-Claude
+PARENT. Les emplacements manufacturiers au Canada,
+Ottawa, Environnement Canada, Service canadien des
+Parcs, 1990.
+
+LINTEAU, Paul-André. Histoire de Montréal depuis la
+Confédération, Montréal, Boréal,1992, 608 p.
+
+
+48                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+Ouvrages spécifiques à l’arrondissement
+
+  Ville Saint-Laurent, Bâtiments anciens, Saint-Laurent,
+Service d’urbanisme, juillet 1976, 8 p.
+
+  Sainte-Croix au Canada 1847-1947, s.l., 604 p.
+
+ARCHAMBAULT-MALOUIN, Diane. «Maisons de guerre,
+maisons de paix», Continuité, hiver 1996, p. 23-29
+
+BROCHU, Johanne et SOKOLOFF, Béatrice. Saint-
+Laurent, du village à la ville, Ville de Saint-Laurent,
+2001, 159 p.
+
+GIROUX, Alice. Histoire du Collège Basile-Moreau
+1933-1968, Montréal, Sœurs de Sainte-Croix, 1976,
+268 p.
+
+LAVALLÉE, Gérard. Les églises et le trésor de Saint-
+Laurent en l’île de Montréal, Ville de Saint-Laurent,
+Musée d’art de Saint-Laurent, 1983, 195 p.
+
+MARCHAND, Denys. « La maison des vétérans, le
+langage des transformations », Continuité, hiver
+1996, p. 27-29.
+
+RUMILLY, Robert. Histoire de Saint-Laurent, Montréal,
+Librairie Beauchemin Limitée, 1969, 289 p.
+
+SOMER, Le Groupe Cartier. Ville Saint-Laurent,
+Inventaire architectonique, Montréal, août 1995, 2 vol.
+
+ST-LOUIS, Denis. Maçonnerie traditionnelle. Document
+technique : régions de Montréal et de Québec, vol.1,
+Origine et caractéristiques des matériaux, Héritage
+Montréal, 1984
+
+VILLIARD-BÉRIAULT, Denise. Saint-Laurent. Un collège
+se raconte. 120 ans de collège, 10 ans de cégep,
+Montréal, Fides, 1977, 157 p.
+
+
+
+
+                       ARRONDISSEMENT                        49
+                                          de Saint-Laurent
+

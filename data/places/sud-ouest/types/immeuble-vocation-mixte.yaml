@@ -1,0 +1,200 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.immeuble-vocation-mixte
+place: sud-ouest
+page: 101
+phase: p3
+phase_confidence: verified
+name_en: Mixed-use building
+name_fr: L’immeuble à vocation mixte
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 4 — L’immeuble à vocation mixte, printed p. 101
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-2
+- AIRE-3
+canonical:
+- mixed-use-flat-roof-block
+styles:
+- victorian-eclectic
+- second-empire
+tenure_plan: mixed
+storeys: 3
+roof:
+  form: flat-or-false-mansard
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- stone-rusticated
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: 0
+is_residential: false
+profile:
+  siting_landscape:
+  - >-
+    Mainly on the borough's big commercial arteries and at certain junctions of residential streets;
+    generally built to the street line.
+  - >-
+    Some were built as mixed-use; others are residential buildings converted to take a shop, and those
+    carry more variants.
+  massing:
+  - >-
+    A clear division between the ground floor and the storeys above, made with a change of cladding,
+    a cornice and a different fenestration.
+  articulation:
+  - >-
+    The socle takes in the whole ground floor, unlike every other type in the study; a large part of
+    it is shop window, with wood panels in the unglazed parts.
+  - >-
+    Where the shopfront does not fill the façade, wood or stone pilasters can divide the frontage, and
+    on the masonry part the socle is a stone band course.
+  - >-
+    The corps is composed of vertical and horizontal alignments of openings, in a number that varies
+    from building to building; balconies where present are vertically aligned.
+  - >-
+    The crowning is a moulded cornice or a false mansard, carried round both façades on a corner, where
+    the corner is often marked by a turret.
+  openings:
+  - Ground-floor openings may not align with those above.
+  - Upper floors follow the residential types the building sits among.
+  materials:
+  - Brick and stone, with the shopfront in wood and glass.
+profile_fr:
+  implantation:
+  - >-
+    L’immeuble à vocation mixte est implanté de façon contiguë, sans marge de recul avant. Les façades
+    forment généralement des alignements réguliers.
+  volumetrie:
+  - >-
+    L’immeuble à vocation mixte possède un corps de bâti de forme rectangulaire simple. Sa hauteur est
+    de 2 à 3 étages. Son toit est généralement plat mais il peut aussi être en pente ou orné d’une fausse
+    mansarde. La plupart des bâtiments mixtes ne présentent pas de fenêtres en saillie. Lorsqu’elles
+    sont présentes, elles couvrent seulement les étages supérieurs. Des balcons sont parfois présents
+    aux étages supérieurs.
+  materiaux:
+  - Le socle est revêtu de pierres à bossages, de pierres de taille, de béton ou de bois.
+  - >-
+    Le corps de la façade peut être revêtu de briques ou de pierres à bossages. La pierre est particulièrement
+    présente sur les grandes artères commerciales telles les rues Notre-Dame, Saint-Jacques, du Centre,
+    Wellington et l’avenue de l’Église. Les constructions du boulevard Monk étant plus récentes, elles
+    possèdent plus rarement un revêtement de pierres.
+  - Les fausses mansardes sont revêtues de tôle ou de bardeaux d’ardoise.
+  - >-
+    Les fenêtres en saillie sont généralement en bois. Les balcons sont en bois et les garde-corps sont
+    en métal.
+  traitement_des_facades:
+  - >-
+    Couronnement — Contrairement à la plupart des autres types de bâtiment présentés, le socle de l’immeuble
+    à vocation mixte inclut tout le rez-de-chaussée. Une large partie de la façade du rez-de-chaussée
+    est généralement occupée par une vitrine. Des panneaux de bois peuvent occuper l’espace non vitré,
+    notamment la partie sous les vitrines. Une corniche moulurée, généralement en bois, divise le rez-de-chaussée
+    des étages. Sur les bâtiments plus récents, cette corniche est remplacée par un auvent ou des éléments
+    d’affichage.
+  - >-
+    Couronnement — Lorsque la vitrine n’occupe pas toute la façade, des pilastres en bois ou en pierre
+    peuvent diviser horizontalement la devanture. Sur la partie de la façade revêtue de maçonnerie,
+    le socle est formé d’un bandeau de pierre. Les ouvertures du rez-de-chaussée peuvent ne pas être
+    alignées avec celles des étages supérieurs.
+  - >-
+    Couronnement — Le corps de la façade est composé d’alignements verticaux et horizontaux d’ouvertures.
+    Le nombre d’alignement est cependant variable d’un bâtiment à l’autre. Lorsque l’on retrouve des
+    balcons, ceux-ci sont alignés verticalement.
+  - >-
+    Couronnement — Il est à noter que lorsque l’immeuble à vocation mixte est situé sur un coin de rue,
+    le traitement commercial du rez-de-chaussée, c’est-à-dire la vitrine et la corniche, se prolonge
+    généralement sur 1 à 2 mètres sur la façade latérale. La composition du reste de la façade latérale
+    est alors formée d’alignements d’ouvertures pour les étages supérieurs et d’aucune fenêtre ou de
+    fenêtres qui peuvent ne pas être alignées pour le rez-de-chaussée.
+  - >-
+    Couronnement — Le couronnement est composé d’une corniche moulurée ou d’une fausse mansarde. Lorsque
+    le bâtiment est situé sur un coin de rue, la corniche ou la fausse mansarde couvre les 2 façades.
+    Dans le cas des fausses mansardes, le coin est souvent marqué par un élément proéminent comme une
+    tourelle.
+  ouvertures:
+  - >-
+    À l’exception des vitrines, les fenêtres sont à guillotine ou à battants avec imposte. Leur proportion
+    est équivalente à 1 largeur = ½ hauteur.
+  - >-
+    Les portes sont simples avec imposte. La porte du commerce peut être de types variés et possède
+    généralement une grande proportion de vitrage.
+  - >-
+    L’encadrement des ouvertures dépend du matériau de revêtement. Pour les bâtiments en brique, la
+    présence d’un linteau droit en pierre est dominante. Le linteau peut également être formé de briques
+    en soldat. Sa forme est alors droite ou en arc surbaissé. Pour les bâtiments revêtus de pierres
+    à bossages, on retrouve un encadrement complet en pierre de taille. Il est à noter que la plupart
+    des bâtiments construits après 1945 utilisent peu ou pas d’éléments ornementaux pour exprimer l’encadrement
+    des ouvertures.
+  - >-
+    Figure 4.1.3 : Immeuble à vocation mixte situé sur le boulevard Figure 4.1.4 : Immeuble à vocation
+    mixte situé sur le boulevard Monk, entre les rues Allard et Springland. SO 3631. Monk, entre les
+    rues Springland et Jolicoeur. SO 3637.
+  description:
+  - >-
+    L’immeuble à vocation mixte est un bâtiment résidentiel dont le rez-de-chaussée est occupé par un
+    commerce. Ils sont généralement implantés sans marge de recul avant sur des artères commerciales.
+    La composition architecturale de ces bâtiments possède une division claire entre le rez-de-chaussée
+    et les autres étages qui se concrétise par le changement de matériau de revêtement, la présence
+    d’une corniche et l’utilisation d’une fenestration différente.
+  contexte:
+  - >-
+    L’immeuble à vocation mixte est principalement présent sur les grandes artères commerciales de l’arrondissement
+    du Sud-Ouest ainsi qu’à certaines intersections de rues résidentielles.
+  - >-
+    Les immeubles à vocation mixte peuvent avoir été construits à cette fin. Ils possèdent alors les
+    caractéristiques générales décrites dans cette fiche. Il est cependant possible que l’immeuble à
+    vocation mixte soit le résultat de transformations effectuées sur des bâtiments résidentiels pour
+    l’insertion de la fonction commerciale. Dans ce cas, les variantes sont plus fréquentes.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — Le bâtiment résidentiel transformé en immeuble à vocation mixte : La transformation
+    des rez-de-chaussée est particulièrement fréquente sur les bâtiments résidentiels situés aux intersections.
+    La vitrine commerciale occupe alors une partie seulement de la façade principale ainsi qu’environ
+    2 mètres de la façade latérale. La composition du rez-de-chaussée commercial est similaire à celle
+    du type de base. Le reste du rez-de-chaussée peut présenter des ouvertures qui ne sont généralement
+    pas alignées verticalement à celles des étages supérieurs. Lorsque le bâtiment transformé n’est
+    pas situé à une intersection, la façade commerciale occupe alors la totalité de la largeur du bâtiment.
+    Cette transformation peut s’appliquer à la plupart des types architecturaux décrits précédemment
+    mais elle est particulièrement fréquente en l’absence de marge de recul avant. Lorsqu’il y a une
+    marge de recul avant, on remarque généralement le recouvrement de la cour avant avec un matériau
+    dur.
+profile_note: null
+variants: *id001
+example_addresses:
+- address: 2463-2473, rue du Centre, between rues Ropery and Charlevoix
+  note: >-
+    the édifice O.-Labelle (SO1706), also listed in the Évaluation cahier among the borough's immeubles
+    de valeur patrimoniale exceptionnelle
+- address: 1124-1130, rue Charlevoix and 2602-2612, rue de Châteauguay
+  note: the Coop du coin (SO1679)
+- address: 7005, rue Jogues
+  note: the study's example of variante 1, a multiplex converted into a mixed-use building (SO3530)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 4 — L’immeuble à vocation mixte est un bâtiment résidentiel dont le rez-de-chaussée
+    est occupé par un commerce. Ils sont gén… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  Recorded, not carded: the study's family 4 is a commercial ground floor under dwellings, and this
+  site's type cards are residential. It earns its place in the record because its socle is the exception
+  that proves the triad — the only type in the study whose socle takes in the whole ground floor.
+origin_en: >-
+  The PIIA's own summary: <em>« Les magasins, ouverts sur le trottoir par de grandes vitrines, sont
+  clairement séparés des étages supérieurs par une frise continue. Les étages supérieurs sont généralement
+  occupés par des logements. »</em>

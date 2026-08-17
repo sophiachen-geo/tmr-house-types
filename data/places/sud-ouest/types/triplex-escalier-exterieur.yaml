@@ -1,0 +1,205 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.triplex-escalier-exterieur
+place: sud-ouest
+page: 84
+phase: p4
+phase_confidence: verified
+name_en: Triplex with exterior stair
+name_fr: Le triplex avec escalier extérieur
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.6 — Le triplex avec escalier extérieur, printed p. 84
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- 22.E.6
+- 22.E.7
+- AIRE-2
+- AIRE-4
+canonical:
+- triplex-exterior-stair
+- plex-family
+styles:
+- faubourg-vernacular
+tenure_plan: triplex
+storeys: 3
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- stone-rusticated
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 3.75
+setback_side_m: 0
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    The commonest variant of the triplex in the borough, and the base type of the urban fabric of four-built-sided
+    blocks with an « H » ruelle that is so typical of several Montréal quarters.
+  - Contiguous, front margin between 2.5 and 5 m. The alignment of façades is not regular.
+  - The front yard is often characterised by a low metal fence.
+  - >-
+    Principal type in eleven of the sixty-five landscape units. Only the two interior-stair plexes it
+    displaced are named principal in more of them — the duplex with interior stair in thirteen, the
+    triplex with interior stair in twelve — which is what a type that arrives in 1900 looks like measured
+    against types with a fifty-year head start.
+  massing:
+  - A rectangular body, sometimes with projecting windows on every level.
+  - >-
+    Generally a rear extension, whose position is reversed from one building to the next so as to make
+    shared yards.
+  - Flat roof, three storeys, ground floor raised two to three risers.
+  - An exterior access stair climbs to the first floor. Balconies are possible.
+  articulation:
+  - >-
+    Two principal modes of composition. The first is asymmetrical on two vertical bays: the first aligns
+    the exterior stair, the first-floor entrance doors and a window and balcony at the second; the second
+    is windows only and may project from the plane of the wall. In this mode the ground-floor dwelling's
+    door is frequently set apart from both alignments — at the centre of the façade, or just behind
+    the stair.
+  - >-
+    The second is symmetrical on three vertical bays: a central bay of doors and balconies, flanking
+    bays of windows. At the first floor the two doors to the upper dwellings can sit at the centre,
+    and the exterior stair is then slightly curved; or the stair runs straight to doors placed in one
+    of the side bays.
+  - The first-floor entrance porch is frequently recessed behind the plane of the façade.
+  - The socle is one or two courses of rusticated stone.
+  - The crowning stands out as a moulded wood cornice, a stone cornice, or a pedimented parapet.
+  openings:
+  - >-
+    Mainly sash or casement, with or without a transom. Proportion generally one width to half a height,
+    though windows may be paired into a nearly square opening.
+  - >-
+    Doors plain and with a transom; at the first floor the two doors to the upper dwellings are sometimes
+    paired.
+  - >-
+    Lintels expressed as a cut-stone band or as soldier-course brick, straight or in a segmental arch.
+  materials:
+  - Rusticated stone at the socle.
+  - Brick the dominant cladding, though some buildings are clad in rusticated stone.
+  - Balconies and stair treads in wood; guards in metal.
+profile_fr:
+  implantation:
+  - >-
+    Le triplex avec escalier extérieur est implanté de façon contiguë et possède une marge de recul
+    avant qui varie entre 2,5 et 5 mètres. L’alignement des façades n’est pas régulier. L’aménagement
+    des cours avant est souvent caractérisé par la présence d’une clôture basse en métal.
+  volumetrie:
+  - >-
+    Le corps de bâti est rectangulaire et présente parfois des fenêtres en saillie sur tous les niveaux.
+    Le triplex avec escalier extérieur présente généralement une rallonge arrière. La disposition de
+    celle-ci s’inverse d’un bâtiment à l’autre de manière à créer des cours communes. Le toit est plat.
+    La hauteur est de trois étages et la surélévation du rez-de-chaussée par rapport au niveau du sol
+    est de deux à trois contremarches. On retrouve un escalier d’accès extérieur qui conduit au premier
+    étage. La présence de balcons est possible.
+  materiaux:
+  - Le socle est revêtu de pierres à bossages.
+  - >-
+    La brique est le matériau de revêtement dominant mais quelques bâtiments sont revêtus de pierres
+    à bossages.
+  - >-
+    Les balcons et les marches des escaliers extérieurs sont en bois et les garde-corps sont en métal.
+  traitement_des_facades:
+  - >-
+    Socle — Le socle du bâtiment se distingue par la présence de un ou deux rangs de pierres à bossages.
+  - >-
+    Corps — Deux modes principaux de composition de la façade des triplex avec escalier extérieur sont
+    présents dans l’arrondissement du Sud-Ouest.
+  - >-
+    Corps — Le premier est une composition asymétrique composée de deux travées verticales (fig. 2.6.1
+    et 2.6.2). La première travée est formée de l’alignement de l’escalier extérieur, des portes d’entrée
+    du premier étage et d’une fenêtre et d’un balcon au deuxième étage. La deuxième travée est formée
+    d’un alignement de fenêtres. Cette travée peut être en saillie par rapport au plan du mur de façade.
+    Dans ce mode de composition, il est fréquent que la porte d’entrée du logement du rez-de-chaussée
+    soit disposée à l’écart de ces 2 alignements verticaux. Elle est alors soit au centre de la façade,
+    soit juste en retrait de l’escalier extérieur.
+  - >-
+    Corps — Le deuxième mode de composition est symétrique et composé de trois travées verticales (fig.
+    2.6.3). La travée centrale est formée d’un alignement de portes et de balcons et les travées latérales
+    sont formées d’un alignement de fenêtres. Au premier étage, il est possible de retrouver les deux
+    portes d’accès aux logements supérieurs au centre de la façade. L’escalier extérieur est alors légèrement
+    courbé. Il est également possible que l’escalier extérieur soit droit et conduise aux portes d’accès
+    disposées dans l’un des alignements latéraux (fig. 2.6.4).
+  - >-
+    Corps — Il est fréquent que le porche d’entrée du premier étage soit aménagé en retrait par rapport
+    au plan de la façade.
+  - >-
+    Couronnement — Le couronnement se démarque par la présence d’une corniche moulurée en bois, d’une
+    corniche en pierre ou d’un parapet à fronton.
+  ouvertures:
+  - >-
+    Les fenêtres sont principalement à guillotine ou à battants avec ou sans imposte. La proportion
+    des fenêtres est généralement de 1 largeur = ½ hauteur mais elles peuvent être jumelées pour former
+    des ouvertures relativement carrées.
+  - >-
+    Les portes sont simples et possèdent une imposte. Au premier étage, les portes d’accès aux logements
+    des étages supérieurs sont parfois jumelées.
+  - >-
+    Les linteaux des ouvertures sont exprimés par un bandeau de pierre de taille ou par des briques
+    en soldat. Dans ce dernier cas, le linteau peut être droit ou en forme d’arc surbaissé.
+  description:
+  - >-
+    Le triplex avec escalier extérieur est un bâtiment de trois étages, implanté avec une marge de recul
+    avant et caractérisé par la présence d’un escalier extérieur qui permet de rejoindre le premier
+    étage où sont situées les portes d’accès aux logements des étages supérieurs.
+  contexte:
+  - >-
+    Cette variante du triplex est la plus fréquente de l’arrondissement du Sud-Ouest. Le triplex avec
+    escalier extérieur est le type architectural de base du tissu urbain avec îlots à quatre faces bâties
+    et ruelle en « H » si typique de plusieurs quartiers montréalais. Ce triplex a été construit principalement
+    à partir de 1900, soit dans la période de création des infrastructures municipales (1875 à 1945).
+  sous_variantes: &id001
+  - >-
+    Variante 1 — Le triplex jumelé avec escalier extérieur : Le triplex avec escalier extérieur est
+    parfois jumelé. On retrouve alors un escalier extérieur commun pour les quatre logements situés
+    aux étages supérieurs. Cette variante du triplex est similaire au multiplex mis à part l’accès indépendant
+    pour tous les logements et la largeur qui est généralement le double du triplex avec escalier extérieur
+    régulier.
+profile_note: null
+variants: *id001
+example_addresses:
+- address: 872-880, rue Agnès
+  note: the study's fiche example of the type (SO0003)
+- address: avenue Greene, between rues Saint-Antoine Ouest and Saint-Jacques
+  note: the study's example of the asymmetrical triplex (SO0110)
+- address: rue York, at rue De Roberval
+  note: the study's example of the symmetrical triplex with the slightly curved exterior stair (SO0405)
+- address: avenue Egan, between boulevard De La Vérendrye and rue Laurendeau
+  note: the study's illustration of the type in the synthèse du développement (SO0254)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 2.6 — Le triplex avec escalier extérieur est un bâtiment de trois étages, implanté
+    avec une marge de recul avant et caractéris… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  The archetypal Montréal house, and this is the document that says how it happened. It appears from
+  1900. Its parent is the block with an « H » ruelle and four built sides. Its defining feature is not
+  the stair as an object but the stair as a consequence: the front-setback requirement gave the stair
+  somewhere to go, and putting it there kept the interior floor area and saved heating a shared hall.
+  Eleven of the borough's sixty-five landscape units name it as their principal type.
+origin_en: >-
+  The mechanism, verbatim from the study's synthèse: <em>« l’obligation de l’implantation avec une marge
+  de recul avant amènera la translation de l’escalier d’accès aux logements des étages supérieurs vers
+  l’extérieur, ce qui donnera la caractéristique si typique des bâtiments des quartiers montréalais
+  de cette époque »</em>. The sequence is dated: lotting without a ruelle and building with no setback
+  <em>« ne sera abandonnée que vers la fin des années 1880 »</em>; this type <em>« fait son apparition
+  principalement à partir de 1900 »</em>; the duplex with exterior stair and the multiplex follow shortly
+  after.

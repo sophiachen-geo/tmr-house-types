@@ -1,0 +1,137 @@
+id: villeray-saint-michel-parc-extension.plex-debut-20e
+place: villeray-saint-michel-parc-extension
+page: 59
+phase: p3
+phase_confidence: verified
+name_en: Plex of the early 20th century
+name_fr: Plex du début du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 2.1"
+source_generation: >-
+  By-law Annexe F, fiche 2.1, pp. 2.1.1 to 2.1.5, transcribed verbatim, with the family definition
+  from the 2.0 divider page
+sectors: [14.E.1, 14.I.3]
+canonical:
+  - plex-family
+  - duplex-exterior-stair
+  - triplex-exterior-stair
+styles:
+  - victorian-eclectic
+  - edwardian-classical
+tenure_plan: mixed
+storeys: 3
+roof: {form: flat, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Plex de la rue Saint-Denis
+    summary_fr: "Les grands plex de la rue Saint-Denis sont associés à un certain prestige en raison de leur gabarit uniforme de trois étages, leur ornementation et leur couronnement travaillé. Les composantes de leur façade sont généralement alignées horizontalement avec celles des voisins, et il est fréquent de trouver des ensembles de bâtiments partageant les mêmes caractéristiques architecturales."
+  - code: B
+    name_fr: Plex avec escalier intérieur
+    summary_fr: "Ce plex présente une volumétrie de deux étages. L’escalier permettant l’accès au logement de l’étage est situé à l’intérieur, le long d’un mur latéral."
+  - code: C
+    name_fr: Plex avec vestibule commun
+    summary_fr: "Ce plex présente un vestibule d’entrée permettant l’accès aux logements."
+  - code: D
+    name_fr: Plex avec balcons en loggia
+    summary_fr: "Ce plex présente des balcons conçus comme des loggias. Un plan de façade en maçonnerie, ponctué de colonnes en brique, encadre les loggias."
+  - code: E
+    name_fr: Plex avec usage commercial au rez-de-chaussée
+    summary_fr: "Ce plex présente un rez-de-chaussée à usage commercial dont le niveau est situé près du sol. Il y a une transition dans le traitement architectural qui marque le seuil entre les usages commerciaux et résidentiels. Lorsque implanté sur un coin de rue, le volume est souvent tronqué sur le coin et de grandes ouvertures sont situées près de l’intersection."
+profile:
+  siting_landscape:
+    - Generally sited contiguously, in rows.
+    - On lots deeper than they are wide, built with a shallow front margin.
+    - The plan is rectangular or L-shaped, the L being cut to free a light court.
+  massing:
+    - Two or three storeys under a flat roof.
+    - The ground-floor level is slightly raised above the street.
+    - The façade may carry a projecting volume.
+  articulation:
+    - The façade composition is symmetrical, and the dwelling doors — reached from the ground-floor or second-storey perron — are generally placed centrally.
+    - The façade is punctuated by projections, above all balconies at every level.
+    - The curved stair giving access to the upper balcony is named by the by-law as an important architectural characteristic of the type.
+    - A marquise may cover the top-floor balcony.
+    - Ornament is usual — brick bond patterns, worked lintels and sills. The crown varies from building to building but is generally a pedimented parapet under a moulded flashing.
+  openings:
+    - Windows aligned vertically and of vertical proportion.
+  materials:
+    - Brick, with stone; the ornament is worked in the brickwork itself as much as applied to it.
+profile_fr:
+  contexte:
+    - "La construction des plex s'amorce au début des années 1900 dans Villeray et dans les années 1920 à Parc-Extension. Le quartier de Villeray, qui connaît un important boom de construction domiciliaire entre 1925 et 1931, est alors un quartier ouvrier modèle. Les plex qu’on y construisait illustraient le triomphe de la modernité et logeaient les familles ouvrières qui travaillaient, notamment, dans les nombreuses carrières de pierre que l’on retrouvait à l’époque sur le territoire de l’arrondissement."
+  implantation:
+    - "Les plex du début du 20e siècle sont généralement implantés de manière contigüe. Ils occupent des lots plus profonds que larges et sont construits avec une faible marge avant. Leur plan est rectangulaire ou en forme de « L » afin de dégager une courette."
+  volumetrie:
+    - "Cette typologie a une volumétrie de deux ou trois étages et un toit plat. Le niveau du rez-de-chaussée est légèrement surélevé par rapport à la rue. La façade peut présenter un volume en avancée."
+  traitement_des_facades:
+    - "La composition de la façade est symétrique. Les portes des logements, accessibles depuis le perron du rez-de-chaussée ou du 2e étage, sont généralement positionnées de façon centrale."
+    - "La façade est ponctuée de saillies, notamment des balcons à tous les étages. L’escalier courbe permettant l’accès au balcon de l’étage est une caractéristique architecturale importante de cette typologie. Un auvent peut recouvrir le balcon du dernier étage."
+    - "Ces bâtiments présentent habituellement de l’ornementation en façade, tels que des appareillages de brique ainsi que des linteaux et des allèges travaillés. Le couronnement varie d’un immeuble à l’autre, mais se compose généralement d’un parapet à fronton surmonté d’une solin mouluré."
+  ouvertures:
+    - "Les fenêtres sont alignées verticalement et de proportions verticales."
+  sous_variantes:
+    - "A — PLEX DE LA RUE SAINT-DENIS. Les grands plex de la rue Saint-Denis sont associés à un certain prestige en raison de leur gabarit uniforme de trois étages, leur ornementation et leur couronnement travaillé. Les composantes de leur façade sont généralement alignées horizontalement avec celles des voisins, et il est fréquent de trouver des ensembles de bâtiments partageant les mêmes caractéristiques architecturales."
+    - "B — PLEX AVEC ESCALIER INTÉRIEUR. Ce plex présente une volumétrie de deux étages. L’escalier permettant l’accès au logement de l’étage est situé à l’intérieur, le long d’un mur latéral."
+    - "C — PLEX AVEC VESTIBULE COMMUN. Ce plex présente un vestibule d’entrée permettant l’accès aux logements."
+    - "D — PLEX AVEC BALCONS EN LOGGIA. Ce plex présente des balcons conçus comme des loggias. Un plan de façade en maçonnerie, ponctué de colonnes en brique, encadre les loggias."
+    - "E — PLEX AVEC USAGE COMMERCIAL AU REZ-DE CHAUSSÉE. Ce plex présente un rez-de-chaussée à usage commercial dont le niveau est situé près du sol. Il y a une transition dans le traitement architectural qui marque le seuil entre les usages commerciaux et résidentiels. Lorsque implanté sur un coin de rue, le volume est souvent tronqué sur le coin et de grandes ouvertures sont situées près de l’intersection."
+profile_note: >-
+  The family definition, from the 2.0 divider page, is the line to keep: « Ces bâtiments se présentent
+  sous différentes configurations, ayant deux ou trois étages et comportant de deux à six logements.
+  […] Cette typologie multi-résidentielle est particulière au fait que chaque logement présente
+  habituellement une entrée distincte en façade. » The same page gives the recognition test for the
+  older plex — « leur escalier extérieur de forme courbe, à leurs balcons en façade et leur
+  couronnement travaillé - caractéristiques souvent associées à l'image du paysage type montréalais ».
+  Two details are worth pulling out of the variants. Variant A, « plex de la rue Saint-Denis », is the
+  only variant in the whole annexe named after a street, and it answers the Évaluation cahier's single
+  exceptional sector, 14.E.1, directly — the by-law regulating in 2020s terms what the cahier
+  identified in 2005. Variant C, the plex with a common vestibule, is the point at which the plex
+  begins to turn into the apartment building of family 3.0, where a shared interior stair is the
+  defining feature; the by-law puts the boundary case inside the plex family rather than outside it.
+  The transcription keeps the source's « d'une solin mouluré ».
+example_addresses:
+  - {address: "avenue Henri-Julien, Villeray", note: "the Évaluation cahier's own illustration for sector 14.I.3 — « L'avenue Henri-Julien, bordée de « plex » à deux ou trois étages »; a street, not a civic number"}
+  - {address: "rue Saint-Denis, Villeray", note: "sector 14.E.1 and variant A of this fiche; the cahier's « voie de prestige […] avec surtout des grands « plex » de trois étages »"}
+photos:
+  - file: assets/places/villeray-saint-michel-parc-extension/plex-debut-20e-avenue-de-gaspe.jpg
+    credit: >-
+      "Avenue Caspé Villeray Montreal" by Great11, 19 March 2017, Wikimedia Commons, licensed
+      CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International) — author, licence and
+      file URL read individually on the Commons API before download. File:
+      https://commons.wikimedia.org/wiki/File:Avenue_Casp%C3%A9_Villeray_Montreal.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:Avenue_Casp%C3%A9_Villeray_Montreal.jpg
+    match_confidence: visual
+    match_note: >-
+      A streetscape rather than a building portrait, and matched on form, not on address. The
+      uploader's file name reads "Caspé" while the description reads "Avenue Gaspé"; the borough
+      street is avenue de Gaspé, and this record follows the description. It is included because it
+      shows what the fiche describes as a condition of the street rather than of one house — a
+      contiguous run of three-storey brick plex with a shallow front margin, balconies at every
+      level, and the curved exterior stair the by-law calls an important architectural characteristic
+      of the type. Trees and parked cars occupy much of the frame; the fabric is the right-hand side.
+blurb_en: >-
+  Montréal's own building, as this borough regulates it: two or three storeys of stacked flats under
+  a flat roof, filling a narrow deep lot in a contiguous row with barely any setback, each dwelling
+  with its own door on the front, balconies at every level, and a curved exterior stair climbing to
+  the upper one. Ornament in the brickwork, worked lintels and sills, and a pedimented parapet on
+  top. Villeray from about 1900, Parc-Extension from the 1920s.
+origin_en: >-
+  This is the plex family recorded in the words of the borough that has most of it. Two things here
+  are not in the other Montréal plex records on this site. One is the borough's own social account of
+  who lived in them — « logeaient les familles ouvrières qui travaillaient, notamment, dans les
+  nombreuses carrières de pierre que l'on retrouvait à l'époque sur le territoire de
+  l'arrondissement » — which ties the type to the Saint-Michel limestone quarries recorded as this
+  borough's only archaeological interest. The other is that the by-law makes the curved exterior
+  stair a named characteristic of a regulated type, which is what the shared explainer at
+  /topics/escalier-exterieur/ exists to unpack.

@@ -1,0 +1,77 @@
+id: rosemont.maison-cite-jardin
+place: rosemont
+phase: p4
+name_en: Detached house of the Cité-Jardin du Tricentenaire
+name_fr: Maison unifamiliale de la Cité-Jardin du Tricentenaire
+display_order: 5
+source_ref: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie (2005), historique p. 21 and sector 26.E.10"
+source_url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+canonical: [detached-cottage-steep-gable]
+styles: [city-beautiful, minimal-traditional]
+tenure_plan: single-family
+storeys: "1.5"
+window_proportion: vertical
+principal_cladding: [clay-brick-red]
+setback_front_m: null
+sectors: ["26.E.10"]
+profile:
+  siting_landscape:
+    - Detached single-family houses on planted streets east of parc Maisonneuve — the deliberate opposite of the contiguous row plex that fills the rest of the borough.
+    - Each street planted with one tree species and named after it; the cahier says the resulting canopy gives the sector its ambiance champêtre.
+    - A network of footpaths runs independently of the street system, separating pedestrian from vehicle movement. That separation is what the cahier identifies as the City Beautiful inheritance here.
+    - Only partly built. The cahier says plainly that the development « ne sera réalisé que partiellement ».
+  massing:
+    - Detached houses rather than stacked dwellings; the cahier calls them « maisons unifamiliales » and gives no storey count, plan or roof form.
+  articulation: []
+  openings: []
+  materials: []
+profile_fr:
+  description:
+    - "26.E.10 : « Il s'agit d'un aménagement unique à Montréal, témoin important du mouvement City Beautiful, qui valorisait la ségrégation entre la circulation automobile et piétonnière. Chacune des rues est plantée d'une essence végétale particulière d'où elle tient son nom. La présence d'un couvert végétal important contribue à l'ambiance champêtre du secteur. »"
+    - "Historique, p. 21 : « En 1942, un ambitieux projet, la Cité-jardin du Tricentenaire, est inauguré. Des maisons unifamiliales, sur des rues dont les noms rappellent les essences particulières d'arbres qui les bordent, ainsi qu'un réseau de sentiers piétonniers dissocié du système de rues, caractérisent ce nouveau développement qui ne sera réalisé que partiellement. »"
+profile_note: >-
+  Three of the five columns are deliberately empty. The cahier is the only source used for this record
+  and it describes the Cité-Jardin as a LAYOUT, not as a house: it names the detached single-family
+  dwelling, the tree-named streets and the separated footpath network, and says nothing about roof
+  form, cladding, openings or ornament. Rather than fill those columns from photographs or from the
+  garden-suburb houses of other places on this site, they are left empty and the gap is stated. The
+  storeys figure of 1.5 is likewise the weakest claim in the record and is marked provisional.
+  Completing this type properly needs the borough's 2009 PIIA for the Cité-Jardin, which was not
+  obtained for this encoding — see sources/rosemont/MANIFEST.md.
+phase_confidence: provisional
+blurb_en: >-
+  Detached houses on curving streets each planted with a single species of tree, with a footpath
+  network kept clear of the roads: a co-operative garden suburb inaugurated in 1942 for the three
+  hundredth anniversary of the founding of Ville-Marie, and the only one in Montréal. It is the answer
+  the borough gave to its own row plex, and the reason Rosemont belongs beside the planned communities
+  on this site rather than only beside the boroughs.
+origin_en: >-
+  The Cité-Jardin was inaugurated in 1942 during the celebrations of the three-hundredth anniversary
+  of the founding of Ville-Marie, which is where its name comes from. The 2004 Plan d'urbanisme rates
+  it a sector of exceptional heritage value, and the cahier calls it « un aménagement unique à
+  Montréal ». Read it against the other planned places on this site and the point of the comparison is
+  the sponsor rather than the plan: Arvida and Témiscaming were laid out by an aluminium smelter and a
+  pulp mill, Mount Royal by a railway that needed to sell the land over its own tunnel; the
+  Cité-Jardin was a co-operative venture aimed at putting working families into houses of their own,
+  and — like the shoebox, in a quite different register — it is about ownership as much as about form.
+photos:
+  - file: assets/places/rosemont/cite-jardin-tricentenaire-commons.jpg
+    credit: >-
+      Cossette.phil, « Maison typique de la Cité-jardin du Tricentenaire à Montréal », 3 February 2011,
+      CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Cit%C3%A9-jardin_du_Tricentenaire.jpg
+      (licence https://creativecommons.org/licenses/by-sa/3.0). Licence template read via the Commons
+      API before download: {{self|cc-by-sa-3.0}}, own work.
+    kind: single
+    match_confidence: visual
+    match_note: >-
+      The photographer's own caption calls it a typical house of the Cité-jardin du Tricentenaire, and
+      the file sits in Commons' Cité-jardin du Tricentenaire category. No address is given, and because
+      the cahier describes no house form for the sector, this photograph is not used to fill the empty
+      profile columns — it illustrates the record, it does not evidence it.
+# common fields per Part 2 brief §2.3
+roof: {form: null, pitch_deg: null}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: null
+front_yard_green_pct: null

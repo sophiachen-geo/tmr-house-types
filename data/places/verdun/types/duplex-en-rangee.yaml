@@ -1,0 +1,90 @@
+id: verdun.duplex-en-rangee
+place: verdun
+phase: p5
+display_order: 6
+name_en: Row duplex of the 1950s
+name_fr: Le duplex en rangée d'après 1950
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), sector fiche 21.I.8, with 21.I.10"
+source_generation: sector characterisation, one interesting-value fiche
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+canonical: [plex-family]
+styles: [minimal-traditional]
+style_label: Minimal Traditional
+tenure_plan: duplex
+storeys: '2'
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+window_proportion: null
+principal_cladding: [clay-brick, stone]
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+  - In rows, on the last buildable ground in the borough — between the aqueduct canal and rue Bannantyne —
+    filled in mainly after 1950.
+  - Some blocks keep the shape of the original subdivision, and the cahier credits that shape with having
+    forced public green space into the plan.
+  massing:
+  - Two dwellings stacked, built in a row rather than paired or free-standing. The cahier says the row
+    works « quelques modèles originaux » — a small number of repeated designs.
+  articulation: []
+  openings: []
+  materials:
+  - The cahier's stated reason for the sector's interest is the quality of the original materials and the
+    general harmony, not any particular feature.
+profile_fr:
+  description:
+  - « Ce secteur situé entre le canal de l'aqueduc et la rue Bannantyne s'est construit principalement après
+    1950. Ce sont majoritairement des duplex en rangée reprenant quelques modèles originaux. L'intérêt de
+    ce secteur découle de la qualité des matériaux d'origine et de l'harmonie générale. Certains îlots
+    bénéficient aussi de la morphologie des lotissements d'origine, qui ont entraîné la planification
+    d'espaces verts publics. » (21.I.8, le voisinage Ouest)
+  contexte:
+  - « De l'Hôpital Douglas à la limite de la municipalité, on retrouve un cadre bâti assez hétérogène de
+    basse densité. … Le secteur est essentiellement résidentiel (unifamilial ou bifamilial), avec des
+    immeubles majoritairement détachés sur des terrains individuels. … Ce sont des constructions un peu plus
+    récentes que celles du reste de l'arrondissement. » (21.I.10, le voisinage Sud)
+profile_note: >-
+  The most sparsely evidenced record on this page, and included because it closes Verdun's plex sequence
+  rather than because the source says much. Everything comes from one four-sentence fiche, 21.I.8, which is
+  a secteur de valeur intéressante — hence `sectors: null`, since the ten 21.I codes are not encoded in this
+  part. That fiche gives the date, the row form, the dwelling count implied by "duplex", and a judgement
+  about materials; it gives no storey count, no roof form, no cladding, no opening description and no
+  ornament. `storeys: 2`, `roof.form: flat` and `principal_cladding` are entered from the word "duplex" and
+  from the borough's uniform practice as the cahier describes it elsewhere, not from this fiche, and are
+  the fields to distrust. Articulation and openings are left empty. The canonical link is to the plex family
+  as a whole rather than to one of its seven children, because nothing in the source says where the stair
+  to the upper dwelling is.
+example_addresses: null
+related_buildings: null
+photos:
+- file: null
+  kind: placeholder
+  credit: >-
+    Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), p. 32; the page's
+    only photograph is captioned « 21.I.8 L'école Riverview », which is the school, not the housing. ©
+    Ville de Montréal; not reproduced here. No freely licensed photograph of the voisinage Ouest row
+    duplexes was identified on Commons.
+  licence: permission required
+  source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+  match_confidence: none
+blurb_en: >-
+  Two flats stacked and built in a row, on the strip between the aqueduct canal and rue Bannantyne that was
+  the last ground left. Post-1950, from a handful of repeated designs, and valued by the evaluation for the
+  quality of what it was originally made of.
+origin_en: >-
+  Verdun ran out of land in the late 1950s — the cahier says the development « se poursuivra de façon
+  constante pour atteindre les limites du territoire à la fin des années 1950 », after which « l'expansion
+  se poursuivra alors sur le seul territoire encore vierge, l'île des Sœurs ». The voisinage Ouest is the
+  end of that sequence on the mainland, and it shows the plex having quietly changed shape: no longer three
+  storeys with a stair on the front, but two stacked dwellings repeated in a row from a short catalogue of
+  models. Nothing about the transition is explained by the document, which is the honest state of the
+  record; what it does say is that the value lies in the materials and in the harmony, and that where the
+  original subdivision survived it produced public green space. Read alongside the exterior-stair plex of
+  the 1900–1920 wave and the balcony duplex of the south, it completes the borough's three-stage plex
+  sequence within one small territory.
+phase_confidence: verified

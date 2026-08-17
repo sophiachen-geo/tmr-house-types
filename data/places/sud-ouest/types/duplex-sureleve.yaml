@@ -1,0 +1,158 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.duplex-sureleve
+place: sud-ouest
+page: 73
+phase: p4
+phase_confidence: verified
+name_en: Raised duplex
+name_fr: Le duplex surélevé
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.3 — Le duplex surélevé, printed p. 73
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+canonical:
+- duplex-raised
+- plex-family
+styles:
+- minimal-traditional
+tenure_plan: duplex
+storeys: 2
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: square
+principal_cladding:
+- clay-brick
+- cut-stone
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: 4.0
+setback_side_m: 0
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Contiguous, with a front margin of 3 to 5 m. Built in series, which gives a regular alignment of
+    façades.
+  - Front yards are mostly lawn.
+  - It is the principal type of no landscape unit anywhere in the borough.
+  massing:
+  - A simple rectangular form, two storeys, flat roof.
+  - The ground floor is raised five to ten risers — the feature the type is named for.
+  - The basement sometimes holds interior parking, reached by a ramp down from the street.
+  - Projecting windows and balconies are rare.
+  articulation:
+  - >-
+    The socle is the exposed concrete foundation; sometimes the ground-floor level is distinguished
+    by using stone as its cladding.
+  - >-
+    Two modes of composition for the corps. The first is symmetrical on three vertical bays, the central
+    bay aligning the two front doors at ground level with a balcony above, the flanking bays windows.
+  - >-
+    The second is the same but with a single door at the centre, the upper dwelling's door pushed to
+    one side of the façade — and these duplexes are generally built as pairs, so the two side doors
+    end up adjacent.
+  - The crowning is simple, generally a stone band course or a light eave.
+  openings:
+  - >-
+    Sizes and proportions vary. Large glazed bays of nearly square proportion, made of several fixed,
+    casement or sliding sashes.
+  - Other openings are generally one width to half a height.
+  - Doors plain and without a transom, sometimes paired.
+  - Surrounds mostly a stone lintel and sill.
+  materials:
+  - Concrete at the socle.
+  - >-
+    Brick dominant on the body of the façade, with stone sometimes used to pick out parts of the building,
+    especially the ground floor.
+profile_fr:
+  implantation:
+  - >-
+    Ce duplex est contigu et possède une marge de recul avant qui varie de 3 à 5 mètres. La construction
+    en série de ces bâtiments se réalise généralement avec un alignement régulier des façades. Les aménagements
+    de la cour avant sont principalement composés de surfaces gazonnées.
+  volumetrie:
+  - >-
+    Ces bâtiments sont de forme rectangulaire simple. Ils possèdent 2 étages et un toit plat. Leur rez-dechaussée
+    est généralement surélevé de 5 à 10 contremarches. Le sous-sol comporte parfois un espace de stationnement
+    intérieur. Par conséquent, une rampe d’accès permet la liaison entre la rue et le niveau du sous-sol.
+    La présence de fenêtres en saillie ou de balcon est rare.
+  materiaux:
+  - Le socle est en béton.
+  - >-
+    La brique est le matériau de revêtement dominant pour le corps de la façade. On retrouve parfois
+    de la pierre pour souligner certains aspects du bâtiment, notamment les rez-de-chaussée.
+  traitement_des_facades:
+  - >-
+    Socle — Le socle est formé par la fondation apparente en béton. Il est possible que le niveau du
+    rez-de-chaussée se distingue par l’utilisation de la pierre comme matériau de revêtement.
+  - Corps — On retrouve deux modes de composition du corps de la façade.
+  - >-
+    Corps — Le premier est formé d’une composition symétrique à 3 travées verticales. La travée centrale
+    possède un alignement des 2 portes principales au rez-de-chaussée et d’un balcon à l’étage et les
+    travées latérales sont formées d’un alignement de fenêtres (fig. 2.3.1).
+  - >-
+    Corps — Le second mode de composition est similaire au premier à l’exception près qu’une seule porte
+    est présente au centre du rez-de-chaussée. La porte d’accès au logement de l’étage se trouve sur
+    l’un des côtés de la façade. Ces duplex sont généralement construits de façon jumelée. Ainsi, les
+    portes d’accès au logement de l’étage de 2 bâtiments voisins se trouvent jumelées (fig. 2.3.2).
+  - >-
+    Couronnement — Le couronnement est simple et généralement exprimé par un bandeau de pierre ou un
+    avant-toit.
+  ouvertures:
+  - >-
+    Les dimensions et proportions des ouvertures sont variables. On remarque la présence de grandes
+    baies vitrées aux proportions relativement carrées. Ces ouvertures sont formées d’un regroupement
+    de plusieurs châssis soit fixes, à battants ou coulissants. Les autres ouvertures sont généralement
+    de proportion 1 largeur = ½ hauteur.
+  - Les portes sont simples et sans imposte. On retrouve parfois des portes jumelées.
+  - >-
+    Les encadrements des ouvertures sont principalement composés d’un linteau et d’un appui en pierre.
+    Sur certains bâtiments, le linteau n’est pas exprimé architecturalement.
+  description:
+  - >-
+    Le duplex surélevé est un bâtiment qui possède deux logements superposés. Il est implanté avec une
+    marge de recul avant et sans marge latérale. Il se distingue du duplex avec escalier intérieur par
+    la marge de recul avant, par une composition symétrique des façades ainsi que l’utilisation de fenêtres
+    de proportion carrée ou rectangulaire.
+  contexte:
+  - >-
+    Ces duplex ont principalement été construits à la fin de la période historique dite de création
+    des infrastructures municipales (1875-1945) et au début de la période dite de rénovation et de revitalisation
+    urbaine (1945 à nos jours). Les duplex en rangée ont généralement été construits en série, ce qui
+    amène une grande régularité dans le traitement architectural.
+  - >-
+    Le duplex surélevé ne figure dans aucune unité de paysage en tant que type architectural principal.
+profile_note: null
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 2.3 — Le duplex surélevé est un bâtiment qui possède deux logements superposés. Il
+    est implanté avec une marge de recul avant … © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  What distinguishes it from the duplex with interior stair, the study says, is the front setback, the
+  symmetrical façade and the use of square or rectangular windows. It is the hinge type between the
+  pre-war plex and the post-war one: built at the end of the infrastructure period and the start of
+  urban renewal, raised high enough to put parking under it, and — the study notes without comment —
+  the principal type of nowhere.
+origin_en: >-
+  The raised duplex is the plex adjusting to the car and to the picture window. Its ground floor climbs
+  from three risers to ten, the basement becomes a garage, and the ornamental programme collapses to
+  a stone band. Compare the postwar plexes of Verdun and Villeray.

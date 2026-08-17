@@ -1,0 +1,95 @@
+id: mercier-hochelaga-maisonneuve.demeure-bourgeoise-beaux-arts
+place: mercier-hochelaga-maisonneuve
+phase: p3
+name_en: Bourgeois residence of the cité, Beaux-Arts
+name_fr: La demeure bourgeoise d'inspiration Beaux-Arts
+source_ref: "RPCQ fiche 92740, Château Dufresne; Évaluation du patrimoine urbain (2005), ch. 2 and sector 27.E.3"
+canonical: [maison-cossue-ornamented]
+styles: [beaux-arts, city-beautiful]
+tenure_plan: semi-detached
+storeys: "2"
+window_proportion: vertical
+principal_cladding: [stone]
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: ["27.E.3"]
+source_url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92740&type=bien
+profile:
+  siting_landscape:
+    - Set on a large landscaped ground behind a cast-iron fence, on one of the two thoroughfares laid out for prestige — rue Sherbrooke Est, or boulevard Pie-IX, whose subdivision « privilégiait de riches constructions sur des terrains plus grands que ce que l'on retrouve dans les environs ».
+    - Garages and other service space put underground at the rear rather than on the street front.
+  massing:
+    - Rectangular two-storey corps de logis under a flat roof ringed by a balustrade.
+    - Two paired houses composed as one unified block, with lateral wings set back from the main façade and rising only to half height, and a rear annex holding a winter garden.
+  articulation:
+    - "Symmetry and frontality — two avant-corps framing a central section carried on three pairs of coupled Ionic columns."
+    - Classical ornament — column capitals, entablature and the terrace roof edged with a balustrade. The RPCQ names this house, with the Maisonneuve bain public et gymnase and the Saint-Sulpice library, as an illustration of Beaux-Arts composition applied in Québec.
+  openings:
+    - Vertical rectangular and round-headed openings, disposed symmetrically about the central bay.
+  materials:
+    - Indiana limestone facing.
+    - Structure and twenty massive piers in reinforced concrete.
+profile_note: >-
+  Every line here is read off one building, the Château Dufresne (Maisons Marius et Oscar Dufresne,
+  4040 rue Sherbrooke Est, 1915–1918, Marius Dufresne with the French architect Jules Renard), because it
+  is the only house of this class in the borough with a fiche of its own; the Évaluation says as much —
+  « Des demeures somptueuses sont également construites pour la bourgeoisie canadienne-française, mais
+  elles constituent l'exception. Le meilleur exemple en est le château Dufresne. » Sector 27.E.3
+  establishes that a whole street of such houses was intended on boulevard Pie-IX and that « plusieurs
+  bâtiments témoignent encore du faste qu'avait autrefois cette voie », but it names none of them, so the
+  siting line is the sector's and the rest is the Château's.
+  ONE CORRECTION TO THE PART 10 MEMO. The RPCQ does not say this was the first reinforced-concrete
+  private residence in Montréal. Its wording is « l'une des premières utilisations de ce matériau pour
+  la construction résidentielle à Montréal, voire au Québec », and again « il s'agit de l'une des
+  premières résidences à structure en béton armé à Montréal » — one of the first, not the first. The
+  superlative is not in the source and is not published here.
+  On the style tags: <em>beaux-arts</em> is the RPCQ's own word for this building, repeated four times in
+  its fiche. <em>city-beautiful</em> is attached deliberately and is the only house record on this site
+  that carries it, because this is the house the author of Maisonneuve's City Beautiful plan built for
+  himself while executing it, and because the RPCQ ties the two together explicitly — Beaux-Arts is a
+  current « fréquemment associé aux projets urbains d'inspiration City Beautiful ». The tag belongs to the
+  designer and the moment, not to a set of formal features that could be found in another house.
+related_buildings:
+  - name: "Château Dufresne — classé immeuble patrimonial 20 December 1976, forty-six years before the site around it was classed. Forty rooms; central heating and central vacuum; interior decoration by Guido Nincheri, 1920–1938, one of that artist's rare secular works."
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92740&type=bien
+example_addresses:
+  - {address: "4040, rue Sherbrooke Est", note: "Maisons Marius et Oscar Dufresne (Château Dufresne); listed by the Évaluation among the immeubles d'habitation de valeur patrimoniale exceptionnelle."}
+  - {address: "201, avenue Mercier", note: "Maison Allen (Picard) — the same list."}
+  - {address: "8976, rue Notre-Dame Est", note: "Maison Brouillet dit Bernard — the same list."}
+photos:
+  - file: assets/places/mercier-hochelaga-maisonneuve/chateau-dufresne-facade-nord.jpg
+    credit: >-
+      "North facade of the Château Dufresne, 4040 Sherbrooke East, Montreal, Quebec, Canada" by
+      Thomas1313, 18 April 2012, Wikimedia Commons, CC BY-SA 3.0 — licence read on the Commons API before
+      download. File: https://commons.wikimedia.org/wiki/File:Façade_avant_-_Château_Dufresne.JPG
+    kind: single
+    licence: CC BY-SA 3.0
+    source_url: https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_avant_-_Ch%C3%A2teau_Dufresne.JPG
+    match_confidence: address
+    match_note: >-
+      The building itself, at the address the RPCQ fiche gives. Visible in the frame and named in the
+      fiche's éléments caractéristiques: the two-storey limestone block, the flat roof ringed by its
+      stone balustrade, the three pairs of coupled Ionic columns in the central section, the two
+      avant-corps framing them, the half-height lateral wings set back, and the cast-iron fence, which
+      the classement covers along with the building and its underground spaces but not the grounds.
+blurb_en: >-
+  The exception the record keeps insisting on. Two houses for two brothers built as one Beaux-Arts block
+  in Indiana limestone — Marius Dufresne, who as municipal engineer designed Maisonneuve's public
+  buildings, on one side, and Oscar Dufresne, who ran the family shoe factory, on the other — standing on
+  twenty reinforced-concrete piers at a moment when almost no house in Montréal did. Forty rooms, a
+  winter garden, garages underground.
+origin_en: >-
+  Maisonneuve was 80 % francophone and, in the Évaluation's phrase, « composée surtout de travailleurs et
+  de locataires »; its promoters had founded the place in 1883 to be, as the RPCQ puts it, « la
+  "Westmount des francophones" ». The bourgeois house is where that ambition became a building. The
+  Dufresne brothers were both instruments of it: Oscar sat as échevin and ran Dufresne et Locke, the shoe
+  manufactory established at Maisonneuve about 1900 and one of its largest employers; Marius was
+  municipal engineer from 1910 to 1918 and drew the market (1912–1914), the fire station (1914–1915) and
+  the public bath and gymnasium (1914–1916). They began their own house in 1915, the year the civic
+  building programme was breaking the city's finances, and finished it in 1918, the year the province
+  annexed Maisonneuve to Montréal. It was classé in 1976; the civic buildings had to wait until 2022.

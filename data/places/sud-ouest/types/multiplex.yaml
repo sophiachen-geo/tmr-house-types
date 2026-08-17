@@ -1,0 +1,162 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.multiplex
+place: sud-ouest
+page: 88
+phase: p4
+phase_confidence: verified
+name_en: Multiplex
+name_fr: Le multiplex
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.7 — Le multiplex, printed p. 88
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-4
+- AIRE-5
+canonical:
+- multiplex-4-6
+- plex-family
+styles:
+- faubourg-vernacular
+tenure_plan: walk-up
+storeys: 3
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- stone-rusticated
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 3.25
+setback_side_m: 0
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Contiguous, front margin 2 to 4.5 m; the alignment of façades is regular where the multiplexes are
+    built in series.
+  - A low metal — sometimes wood — fence characterises the outdoor treatment.
+  - >-
+    Generally built in a fabric with a ruelle, like the triplex, but on wider lots. Mostly from the
+    First World War to the end of the 1875–1945 period.
+  massing:
+  - >-
+    A simple rectangular body with no projections, generally with a rear extension whose position reverses
+    from one building to the next so as to maximise sunlight in the yards.
+  - Three storeys, ground floor raised two to three risers, flat roof.
+  - Two dwellings per floor, and a shared access for the two dwellings on the top floor.
+  articulation:
+  - The socle is one or two courses of stone, or an exposed concrete foundation.
+  - The crowning is underlined by a moulded metal cornice, a stone cornice or a parapet.
+  openings:
+  - Sash or casement, generally one width to half a height.
+  - Doors plain with a transom; the doors to the upper dwellings are often paired.
+  - Lintels expressed as a cut-stone band or soldier-course brick.
+  materials:
+  - Concrete or rusticated stone at the socle.
+  - Brick dominant.
+  - Balconies and stair treads in wood; guards in metal.
+profile_fr:
+  implantation:
+  - >-
+    Le multiplex est implanté de façon contiguë. La marge de recul avant varie de 2 à 4,5 mètres. L’alignement
+    des façades est régulier si les multiplex sont construits en série. L’aménagement extérieur est
+    caractérisé par la présence d’une clôture basse en métal ou parfois en bois.
+  volumetrie:
+  - >-
+    Le corps de bâti est de forme rectangulaire simple et sans saillie. On remarque généralement la
+    présence d’une rallonge arrière. La disposition de celle-ci est inversée d’un bâtiment à l’autre
+    de manière à maximiser l’ensoleillement des cours. La hauteur est de trois étages avec une surélévation
+    du rez-dechaussée par rapport au niveau du sol de deux à trois contremarches. Le toit est plat.
+    On retrouve un balcon sur tous les niveaux au-dessus de l’entrée du rez-de-chaussée. Un escalier
+    extérieur mène au premier étage.
+  materiaux:
+  - Le socle est en béton ou revêtu de pierres à bossages.
+  - La brique est le matériau de revêtement dominant.
+  - Les balcons et les marches des escaliers sont en bois et les garde-corps sont en métal.
+  traitement_des_facades:
+  - >-
+    Socle — Le socle se distingue par la présence de un ou deux rangs de pierres ou d’une fondation
+    apparente en béton.
+  - >-
+    Corps — La composition des façades est symétrique. Les portes d’entrées et les balcons sont disposés
+    dans l’alignement central de la façade. On retrouve deux alignements latéraux formés de fenêtres.
+    La présence des portes au premier étage est parfois soulignée par un porche d’entrée en alcôve.
+  - >-
+    Couronnement — Le couronnement du bâtiment est souligné par la présence d’une corniche moulurée
+    en métal, d’une corniche en brique ou d’un parapet à fronton.
+  ouvertures:
+  - >-
+    Les fenêtres à guillotine ou à battants avec ou sans imposte sont dominantes. Les proportions de
+    ces fenêtres sont équivalentes à 1 largeur = ½ hauteur.
+  - >-
+    Les portes sont simples avec imposte. Les portes sont généralement jumelées sauf au dernier étage
+    où elles sont simples.
+  - >-
+    Les linteaux des ouvertures sont droits en pierre, en brique ou en béton ou constitués d’une platebande
+    en brique en forme d’arc surbaissé.
+  description:
+  - >-
+    Le multiplex est un bâtiment de trois étages généralement implanté avec une marge de recul avant
+    et sans marge latérale. Il se caractérise par la présence de deux logements par étage et la présence
+    d’un accès commun pour les deux logements de l’étage supérieur.
+  contexte:
+  - >-
+    Le multiplex est une dérivation du triplex avec escalier extérieur. Il constitue la transformation
+    typologique du triplex afin de répondre au processus de densification du tissu urbain. Il a généralement
+    été construit dans un tissu urbain avec ruelle, donc de façon similaire au triplex, mais sur des
+    parcelles plus larges. Ce type de bâtiment a surtout été construit à partir de la Première Guerre
+    mondiale jusqu’à la fin de la période création des infrastructures municipales (1875-1945).
+profile_note: null
+example_addresses:
+- address: rue Delinelle, between rues Notre-Dame Ouest and Depocas
+  note: the study's fiche example of the type (SO0138)
+- address: rue Soulanges, between rues Butler and Charlevoix
+  note: the study's example of a multiplex with a recessed first-floor porch (SO0204)
+- address: 6114-6116, rue Hamilton
+  note: the study's illustration of the type in the synthèse du développement (SO3584)
+conservation: []
+photos:
+- file: assets/places/sud-ouest/multiplex-805-815-rue-du-couvent-commons.jpg
+  kind: single
+  licence: CC BY-SA (see credit)
+  match_confidence: visual
+  credit: >-
+    805-815 rue du Couvent, Saint-Henri — the multiplex in its symmetrical three-bay mode: a central
+    bay of doors and balconies, flanking bays of windows, and one slightly curved exterior stair serving
+    the pair of doors on the first floor. Photograph by Jeangagnon, 24 January 2015, Wikimedia Commons,
+    CC BY-SA 3.0, from Category:Multiplexes (buildings). https://commons.wikimedia.org/wiki/File:805-815,_rue_du_Couvent.jpg
+    — licence, author and file URL read through the Commons API before download.
+- file: assets/places/sud-ouest/multiplex-375-399-rue-de-la-montagne-commons.jpg
+  kind: single
+  licence: CC BY-SA (see credit)
+  match_confidence: visual
+  credit: >-
+    375-399 rue de la Montagne at rue Barré, Griffintown — four six-plex built about 1920, per the Ville
+    de Montréal description quoted on the file page: « Cet ensemble de bâtiment est formé de 4 six-plex
+    ». Three storeys, brick, flat roof, but built to the street line rather than behind the setback
+    the study calls general for the type. Photograph by Jeangagnon, 6 October 2015, Wikimedia Commons,
+    CC BY-SA 3.0, from Category:Multiplexes (buildings). https://commons.wikimedia.org/wiki/File:375-399,_rue_de_la_Montagne.jpg
+    — licence, author and file URL read through the Commons API before download.
+blurb_en: >-
+  The top of the plex family: three storeys, two dwellings per floor, and — the detail that matters
+  — one shared access for the two dwellings on the top floor. The study calls it a derivation of the
+  triplex with exterior stair, « la transformation typologique du triplex afin de répondre au processus
+  de densification du tissu urbain », built on wider lots from the First World War on.
+origin_en: >-
+  This is where the plex family ends and the apartment building begins. The multiplex still gives most
+  dwellings their own front door but concedes a shared one at the top; the maison d'appartements (3.1)
+  concedes the whole stair; the immeuble d'appartements (3.3) concedes a common hall serving six to
+  twelve. Read the four records in order and the boundary the canonical layer draws between <em>plex-family</em>
+  and <em>apartment-house-common-hall</em> is the study's own.

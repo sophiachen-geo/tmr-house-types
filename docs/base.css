@@ -218,3 +218,9 @@ figure.hero figcaption{font:400 11px "IBM Plex Mono",monospace;color:var(--mute)
 /* Part 10a: framework and topic pages */
 .prose blockquote{margin:14px 0;padding:10px 0 10px 16px;border-left:3px solid var(--line);max-width:72ch}
 .lane-group{margin:18px 0 2px;font:500 11px "IBM Plex Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}
+
+/* Part 10a: a topic explains one element across places; the link is derived from
+   canonical membership, so it appears on every plex card in every borough. */
+.topiclink{margin:10px 0 0;font-size:14px}
+.topiclink a{color:var(--accent);text-decoration:none;border-bottom:1px solid currentColor}
+.variants .tv li{margin-bottom:6px}

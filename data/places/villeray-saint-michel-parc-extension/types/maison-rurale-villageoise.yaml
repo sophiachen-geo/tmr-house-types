@@ -1,0 +1,93 @@
+id: villeray-saint-michel-parc-extension.maison-rurale-villageoise
+place: villeray-saint-michel-parc-extension
+page: 3
+phase: p1
+phase_confidence: verified
+name_en: Rural or village house
+name_fr: Maison rurale ou villageoise
+source_ref: "Règlement 01-283-124, Annexe F, fiche 1.1"
+source_generation: >-
+  By-law Annexe F, fiche 1.1, pp. 1.1.1 to 1.1.5 — the fiche d'accompagnement, the three headings of
+  the typologie de base, and the two lettered variants, transcribed verbatim
+sectors: [14.A.1]
+canonical:
+  - bourg-vernacular-house-small
+styles:
+  - agricole-vernaculaire
+  - second-empire
+tenure_plan: single-family
+storeys: 1
+roof: {form: mansard, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-clapboard
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Maison rurale ou villageoise à toiture à deux versants
+    summary_fr: "La particularité de cette variante est que son toit n’est pas mansardé, mais plutôt à deux versants."
+  - code: B
+    name_fr: Maison rurale ou villageoise à parement de brique ou de pierre
+    summary_fr: "Ces maisons sont construites avec un revêtement de pierre ou de brique."
+profile:
+  siting_landscape:
+    - Built on large lots that were later cut down by cadastral resubdivision, so the house often now stands on a parcel far smaller than the one it was set out on.
+    - Set back from the street with a medium to large front margin — the opposite of every other type in this by-law except the post-war ones.
+  massing:
+    - Square or rectangular plan, compact, one storey above ground with the habitable space carried up into the attic.
+    - Mansard roof with dormers; the ridge runs parallel to the street.
+    - One or more chimneys, placed on the side walls.
+  articulation:
+    - Modest houses, clad in wood clapboard.
+    - The front door is reached by a covered gallery running the full width of the façade.
+  openings:
+    - Windows may have shutters.
+    - Openings are of vertical proportion and of similar dimensions to one another.
+  materials:
+    - Wood clapboard in the base typology; variant B is built in stone or brick instead.
+profile_fr:
+  contexte:
+    - "Comme son nom l’indique, cette typologie est associée à une occupation agricole ou villageoise du territoire. Bien que la majorité de ces maisons n’aient pas résisté au passage du temps, on en trouve encore quelques exemples dans les secteurs les plus anciens de Villeray et de l’ancienne Cité de Saint-Michel."
+  implantation:
+    - "Ce type d’habitation a généralement été construit sur des terrains de grandes dimensions, qui ont ensuite été réduits lors de redécoupages cadastraux. La maison est implantée en recul par rapport à la rue, avec une marge avant de moyenne à importante."
+  volumetrie:
+    - "La maison rurale possède un plan carré ou rectangulaire. Elle est habituellement de volumétrie compacte avec un étage hors sol et un espace habitable situé dans les combles. Le toit est mansardé et agrémenté de lucarnes. La ligne faîtière de la toiture est parallèle à la rue. Le bâtiment peut comporter une ou plusieurs cheminées, positionnées sur les murs latéraux."
+  traitement_des_facades:
+    - "Ces maisons sont modestes et revêtues d’un clin en bois. Les fenêtres peuvent être équipées de volets. La porte d’entrée est accessible par une galerie couverte faisant la pleine largeur de la façade."
+  ouvertures:
+    - "Les ouvertures présentent des proportions verticales de dimensions similaires."
+  sous_variantes:
+    - "A — MAISON RURALE OU VILLAGEOISE À TOITURE À DEUX VERSANTS. La particularité de cette variante est que son toit n’est pas mansardé, mais plutôt à deux versants."
+    - "B — MAISON RURALE OU VILLAGEOISE À PAREMENT DE BRIQUE OU DE PIERRE. Ces maisons sont construites avec un revêtement de pierre ou de brique."
+profile_note: >-
+  The oldest and rarest of the thirteen types, and the only one whose fiche opens by admitting that
+  most examples are gone. The by-law makes the mansard the base form and the two-slope roof the
+  variant — the reverse of how most Québec sources file the pair, and worth noting beside Charlesbourg
+  and Île d'Orléans, where the straight two-slope roof is the parent and the mansard a later courant.
+  The sector link is to 14.A.1, the archaeological record of the ancien village de Villeray, because
+  that is where the cahier says traces of the village survive; it is not a claim that any surviving
+  house of this type stands inside that perimeter.
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, p. 1.1.2 — elevation drawing of the typologie de base, with
+      further elevations of variants A and B at pp. 1.1.4–1.1.5. © Ville de Montréal. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  What the borough looked like before the tramway: a compact wood-clad house on a big lot, set back
+  from the road, one storey under a mansard with the bedrooms in the attic and a covered gallery
+  running the whole width of the front. The by-law keeps it because a few survive in the oldest parts
+  of Villeray and of the former Cité de Saint-Michel, not because it is common.
+origin_en: >-
+  This is the borough's link to the rural Québec forms catalogued elsewhere on this site — the small
+  village house of Charlesbourg's Trait-Carré, of Île d'Orléans, of Lévis. Here it is a survivor
+  inside a twentieth-century street grid rather than the parent of what came after: nothing in
+  Villeray's plex or shoebox descends from it. The by-law's ordering makes the point by putting it
+  first and then never referring back to it.

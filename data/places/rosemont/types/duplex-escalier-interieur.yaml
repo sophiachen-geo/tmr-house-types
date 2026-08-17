@@ -1,0 +1,58 @@
+id: rosemont.duplex-escalier-interieur
+place: rosemont
+phase: p3
+name_en: Duplex with interior stair and paired entrances
+name_fr: Duplex contigu à escalier intérieur, entrées jumelées
+display_order: 4
+source_ref: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie (2005), sector 26.I.7 (secteurs situés près du parc Campbell)"
+source_url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+canonical: [duplex-interior-stair, plex-family]
+styles: [faubourg-vernacular]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical
+principal_cladding: [clay-brick-red]
+setback_front_m: null
+sectors: ["26.I.7"]
+profile:
+  siting_landscape:
+    - Contiguous duplex forming a homogeneous street front, in two small sectors near parc Campbell.
+    - Set back slightly from the street, which allows a minimal arrangement at the front of the lots.
+  massing:
+    - Two storeys, flat roof, two stacked dwellings.
+    - No exterior stair. The stair to the upper dwelling is inside the building, and the tell for that is at ground level, not on the elevation.
+  articulation:
+    - Comparatively sober; the cahier notes few ornamental details.
+    - Paired entrances side by side, because the interior stair puts both front doors on the ground floor.
+    - Balconies.
+  openings:
+    - Two doors together at the centre of the paired front; regular window openings.
+  materials:
+    - Brick facing.
+profile_fr:
+  description:
+    - "« L'architecture est relativement sobre : toit plat, parement extérieur de brique, balcons, entrées jumelées (car l'escalier menant au niveau supérieur est intérieur) et peu de détails ornementaux. L'implantation légèrement en retrait de la rue permet un aménagement minimal sur l'avant des lots. »"
+profile_note: >-
+  A one-sector type: 26.I.7 is the only fiche in the cahier that describes it, and the five columns
+  above contain nothing that is not in that fiche. It is kept as a separate record rather than folded
+  into the exterior-stair duplex because the cahier itself draws the distinction and explains the
+  visible consequence — paired doors instead of an outside stair — in the same sentence. The same
+  borough, in the same decades, built both answers.
+blurb_en: >-
+  The plex with its stair put back inside: two flats, two front doors side by side on the ground
+  floor, a flat roof, brick, and almost no ornament. The cahier records it in two small sectors near
+  parc Campbell, and it is the counter-example that shows the Montréal exterior stair was a choice
+  under rules, not a necessity.
+origin_en: >-
+  The cahier gives no date for these two sectors and none is invented here. What it does give is the
+  causal chain in one clause — the entrances are paired « car l'escalier menant au niveau supérieur
+  est intérieur » — which is the same relation the Sud-Ouest synthèse states from the other direction
+  for the exterior stair. Where the stair goes decides what the front of a Montréal plex looks like.
+photos: [{file: null, credit: "pending — no Commons image of the parc Campbell sectors was found whose licence and location could both be verified", kind: placeholder}]
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null

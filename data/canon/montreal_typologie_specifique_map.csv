@@ -1,0 +1,44 @@
+typologie_specifique,n_records,canonical_id,confidence,basis
+non applicable,309,,,No value recorded.
+magasin-entrepôt,166,,,Non-residential use category.
+indéterminée,157,,,No value recorded.
+(empty),145,,,No value recorded.
+Maison isolée,120,,,"Records mode of attachment, not form. Our canonical forms are defined by shape, roof and stair position, none of which this dataset carries, so the value cannot be resolved to one form. Spans 1833-median detached houses, villas and misfiled institutions."
+indéterminé,66,,,No value recorded.
+Édifice de culte,52,,,Non-residential use category.
+maison-magasin,47,mixed-use-flat-roof-block,partial,"Shop below, dwelling above, on a commercial street - the canonical form's defining arrangement. All 47 records are Vieux-Montreal, 1800-1863 (median 1841); the canonical requires a flat roof, which the dataset does not record, so the match is on use-and-plan only."
+Édifice religieux,39,,,Non-residential use category.
+gratte-ciel,34,,,Non-residential use category.
+Atelier / entrepôt / usine / garage,25,,,Non-residential use category.
+Maison en rangée,20,,,"Records mode of attachment, not form. Our canonical forms are defined by shape, roof and stair position, none of which this dataset carries, so the value cannot be resolved to one form. 20 records, 1886-1898, Ville-Marie and the Plateau; greystone-row-2-3st and london-terrace-house are both candidates and the data cannot separate them."
+École,18,,,Non-residential use category.
+Collège / université,15,,,Non-residential use category.
+maison urbaine façon Nouvelle-France,13,french-urban-house-stone,exact,"The dataset's own phrase and the canonical definition name the same object: the stone town house of the French regime. All 13 records are in Ville-Marie, DEBUT_DES_TRAVAUX 1757-1818."
+Hôpital ou clinique,12,,,Non-residential use category.
+Théâtre / auditorium / cinéma,11,,,Non-residential use category.
+Banque,9,,,Non-residential use category.
+Caserne de pompiers,9,,,Non-residential use category.
+Maison contiguë,9,,,"Records mode of attachment, not form. Our canonical forms are defined by shape, roof and stair position, none of which this dataset carries, so the value cannot be resolved to one form. 9 records spanning 1819-1930."
+Centre communautaire / sportif,6,,,Non-residential use category.
+Croix de chemin,5,,,Non-residential use category.
+Maison semi-détachée,5,,,"Records mode of attachment, not form. Our canonical forms are defined by shape, roof and stair position, none of which this dataset carries, so the value cannot be resolved to one form. 5 records, including the Chateau Dufresne, which is a semi-detached mansion."
+Bibliothèque,4,,,Non-residential use category.
+Hôtel de ville,4,,,Non-residential use category.
+Immeuble de bureaux,4,,,Non-residential use category.
+Tour d'habitation,4,,,Residential but heterogeneous: Habitat 67 (1965) beside the Appartements Trafalgar and Gleneagles (1929-30). No single canonical form covers them.
+Club privé,3,,,Non-residential use category.
+Halle d'exposition,3,,,Non-residential use category.
+Moulin,3,,,Non-residential use category.
+Bâtiment agricole,2,,,Non-residential use category.
+Construction pour le transport terrestre,2,,,Non-residential use category.
+Immeuble de rapport,2,apartment-house-common-hall,partial,"Two records, both blocks entered through one shared hall rather than a door per dwelling: Appartements Bishop Court (1904) and Edifice Joseph-Arthur-Godin (1914). Dwelling count is not recorded, so the canonical's six-to-twelve range is unverified."
+Prison,2,,,Non-residential use category.
+Édifice militaire,2,,,Non-residential use category.
+Élément d'aménagement paysager,2,,,Non-residential use category.
+Bureau de poste,1,,,Non-residential use category.
+Bâtiment commercial et résidentiel,1,mixed-use-flat-roof-block,partial,"Same arrangement as maison-magasin, later label. One record: Maison L'Archeveque, 1647 rue Visitation, 1891. Roof not recorded."
+Bâtiment commercial ou de bureaux,1,,,Non-residential use category.
+Laboratoire / centre de recherche,1,,,Non-residential use category.
+Restaurant,1,,,Non-residential use category.
+Stade,1,,,Non-residential use category.
+Station-service,1,,,Non-residential use category.

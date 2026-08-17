@@ -1,0 +1,128 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.immeuble-appartements
+place: sud-ouest
+page: 98
+phase: p5
+phase_confidence: verified
+name_en: Apartment building (lift-served)
+name_fr: L’immeuble d’appartements
+courant: 3. L'immeuble d'appartements
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 3.3 — L’immeuble d’appartements, printed p. 98
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+- AIRE-5
+canonical:
+- apartment-house-common-hall
+styles:
+- international-style
+tenure_plan: slab
+storeys: 5
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - Generally detached, front and side margins of variable size, façades not in regular alignment.
+  - Landscaping dominated by lawn.
+  - >-
+    Found throughout the borough. Mostly built during the 1945-onward period of urban renewal, as substitution
+    buildings.
+  massing:
+  - A simple rectangular plan, the long side generally parallel to the street.
+  - More than four storeys, and it may take the form of a residential tower.
+  - Flat roof; projecting balconies are frequent.
+  - Large enough to require large lots, because access to the upper dwellings is by lift.
+  articulation:
+  - The socle is the exposed foundation.
+  - The corps of the façade is composed of an irregular number of vertical alignments of openings.
+  - The crowning is barely expressed, generally a plain metal flashing.
+  openings:
+  - Window and door types and proportions are varied on this type.
+  - Lintels and surrounds are barely expressed or not at all.
+  materials:
+  - Concrete at the socle.
+  - The body of the façade generally clad in brick, in varying tones.
+profile_fr:
+  implantation:
+  - >-
+    L’immeuble d’appartements est généralement isolé mais ses marges de recul avant et latérales sont
+    de dimensions variables. Les façades ne forment pas d’alignements réguliers. Les aménagements paysagers
+    sont caractérisés par la dominance des surfaces gazonnées.
+  volumetrie:
+  - >-
+    L’immeuble d’appartements possède un plan de forme rectangulaire simple. Le côté le plus large est
+    généralement parallèle à la rue. Sa hauteur est de plus de 4 étages. Le toit est plat. Les balcons
+    en saillie sont fréquents.
+  materiaux:
+  - Le socle est en béton.
+  - Le corps de la façade est généralement revêtu de briques dont les teintes peuvent varier.
+  traitement_des_facades:
+  - Socle — Le socle est composé de la fondation apparente.
+  - >-
+    Corps — Le corps de la façade est composé d’un nombre irrégulier d’alignements verticaux d’ouvertures.
+  - >-
+    Couronnement — Le couronnement est peu exprimé. Il est généralement composé d’un simple solin métallique.
+  ouvertures:
+  - >-
+    Les types de fenêtres et de portes ainsi que leur proportion sont variés sur ce type de bâtiment.
+  - Le linteau et l’encadrement des ouvertures sont peu ou pas exprimés.
+  description:
+  - >-
+    L’immeuble d’appartements est un bâtiment de grande dimension dont l’accès aux logements des étages
+    supérieurs est caractérisé par la présence d’un ascenseur. Ainsi, ces bâtiments sont souvent implantés
+    sur de larges parcelles. Ils possèdent généralement plus de 4 étages et peuvent se présenter sous
+    la forme d’une tour à logements.
+  contexte:
+  - >-
+    La plupart des immeubles d’appartements de l’arrondissement du Sud-Ouest ont été construits pendant
+    la période de revitalisation et de rénovation urbaine (1945 à nos jours). Il s’agit donc essentiellement
+    de bâtiments de substitution qui remplacent des structures plus anciennes. Les immeubles d’appartements
+    sont conçus et construits individuellement ou par ensemble, ce qui amène de grandes différences
+    dans leur mode d’implantation et de composition architecturale. De plus, les gabarits varient énormément
+    en fonction du nombre de logements inclus dans le projet. On retrouve ces bâtiments dans l’ensemble
+    du territoire de l’arrondissement du Sud-Ouest.
+profile_note: null
+example_addresses:
+- address: rue Dick-Irvin
+  note: the study's fiche example (SO1084)
+- address: 4450, rue Saint-Jacques
+  note: Habitation Charlebois, the study's second fiche example (SO3051)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 3.3 — L’immeuble d’appartements est un bâtiment de grande dimension dont l’accès aux
+    logements des étages supérieurs est carac… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  The top of the borough's residential scale and the end of the sequence that starts with the duplex:
+  more than four storeys, a lift, and a shared hall. The PIIA by-law's own summary is the definition
+  this site uses for the canonical form — an édifice de rapport with « un hall d’entrée commun qui dessert
+  de six à douze logements ».
+origin_en: >-
+  Note what the study does not do here: it does not treat the lift-served apartment building as a different
+  family from the two-storey maison d'appartements. All three share family 3, and the thing they share
+  is the common entrance. On this site they share one canonical id for the same reason.

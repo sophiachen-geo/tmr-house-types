@@ -1,0 +1,85 @@
+id: rosemont.duplex-jumele-art-deco
+place: rosemont
+phase: p4
+name_en: Semi-detached duplex with rear garage, Art déco manner
+name_fr: Duplex jumelé d'inspiration Art déco, garage en fond de terrain
+display_order: 6
+source_ref: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie (2005), ensembles urbains 26.U.1 and 26.U.2"
+source_url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+canonical: [duplex-flat-roof-brick, plex-family]
+styles: [art-deco]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical
+principal_cladding: [clay-brick-red]
+setback_front_m: null
+sectors: ["26.U.1", "26.U.2"]
+variants:
+  - "26.U.1, north of Saint-Zotique between the 6e and 8e Avenue: semi-detached houses of two storeys in brick with a flat roof and a detached garage at the back of the yard; short street segments interrupting the grid of the avenues, mature trees in the front yards. A single promoter, in the 1950s."
+  - "26.U.2, near the Centre civique: semi-detached duplex separated by driveways to garages at the back of the lot, with the fuller Art déco vocabulary set out below. A single promoter, 1940s–1950s."
+profile:
+  siting_landscape:
+    - Semi-detached rather than contiguous — paired buildings separated from the next pair by a driveway running to a garage at the back of the lot.
+    - Set back slightly from the street, allowing a minimal arrangement of lawn and rows of shrubs.
+    - In 26.U.1 the street layout is made of short segments that interrupt the regular grid of the avenues, and mature trees stand in the front yards.
+    - The uniformity of the buildings in each sector led the cahier to infer a single promoter in both cases.
+  massing:
+    - Two storeys, flat roof.
+    - The garage is off the street entirely, at the far end of the lot, reached by the shared driveway; the front is left to the entrance.
+  articulation:
+    - Entrance emphasised and sheltered by a wrought-iron marquise hung on chains.
+    - Ornamental motifs in artificial stone — the cahier names a beaver and an escutcheon.
+    - Balconies with ornamental iron railings.
+  openings:
+    - Glass block used to light the interior stairwell — the clearest sign that the stair here is inside, as in the parc Campbell duplex, not climbing the front.
+  materials:
+    - Brick facing, with artificial stone for the ornamental motifs; wrought and ornamental iron for the marquise and the railings; glass block.
+profile_fr:
+  description:
+    - "26.U.2 : « Les traits architecturaux de ces résidences d'inspiration Art déco sont : le parement de brique, le toit plat, l'entrée accentuée et protégée par un auvent de fer forgé suspendu à des chaînes, l'utilisation de blocs de verre pour éclairer la cage d'escalier intérieure, les motifs ornementaux en pierre artificielle (castor, écusson, etc.) et les balcons avec garde-corps en fer ornemental. »"
+    - "26.U.1 : « Ce petit secteur est composé de maisons jumelés de deux étages, en brique et à toit plat, et possédant un garage extérieur en fond de cour. »"
+profile_note: >-
+  Assembled from two sector fiches, both quoted in full in profile_fr; the richer Art déco vocabulary
+  belongs to 26.U.2 and the plainer paired-house description to 26.U.1, and the variants field keeps
+  them apart rather than merging them into an average. Dwelling counts are the cahier's own words —
+  26.U.2 says « duplex jumelés » and 26.U.1 says « maisons jumelés », so the type is recorded as a
+  duplex on 26.U.2's authority and 26.U.1 is carried as the plainer variant. No dimensions are given
+  in either fiche.
+blurb_en: >-
+  The plex after the car: two flats behind a brick front with a flat roof, but paired instead of
+  contiguous, with a driveway between each pair running back to a garage at the end of the lot, and
+  the front door under a wrought-iron marquise on chains. Built by single promoters in the 1940s and
+  1950s in two ensembles urbains that the cahier singles out for their uniformity.
+origin_en: >-
+  Rosemont kept growing after 1945 on the post-war demographic boom and the housing shortage, and the
+  cahier says whole streets went up at once. These two sectors are that process caught in a form: too
+  uniform to be the work of many builders, still built as stacked dwellings in brick with a flat roof,
+  but now paired and served by a driveway, with the stairwell brought back inside and lit through
+  glass block. The vocabulary is Art déco; the plan is a plex adjusting to the suburb.
+photos:
+  - file: assets/places/rosemont/duplexes-rosemont-1948-poirier-banq.jpg
+    credit: >-
+      Conrad Poirier, « Feature. Duplexes. Rosemont », 28 July 1948, Bibliothèque et Archives
+      nationales du Québec, fonds Conrad Poirier, P48,S1,P16539. Public domain — licence templates
+      {{PD-Canada}} and {{PD-1996|Canada}}, read on the file page through the Commons API before
+      download; uploaded to Wikimedia Commons by BAnQ itself —
+      https://commons.wikimedia.org/wiki/File:Feature._Duplexes._Rosemont_BAnQ_P48S1P16539.jpg
+    kind: single
+    match_confidence: documented
+    match_note: >-
+      BAnQ's own title and description name the type and the place and date it: « Nous voyons une rue
+      de duplex jumelés dans le quartier Rosemont à Montréal », 28 July 1948. The word that matters is
+      JUMELÉS — semi-detached — which is this record and not the contiguous exterior-stair duplex of
+      the 26.I sectors. The photograph independently corroborates four things the 26.U.2 fiche names:
+      the buildings are paired and two storeys, the roof is flat, the facing is brick, and every front
+      door is at ground level under a small suspended marquise, which is only possible because the
+      stair to the upper dwelling is inside. The date, 1948, sits inside the fiche's own span of
+      « les années 1940-1950 ». The sector is not named on the file page, so the match is to the TYPE
+      by documented caption and to the sector by form and date, not by address.
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: detached
+lot_width_m: null
+setback_side_m: null
+front_yard_green_pct: null

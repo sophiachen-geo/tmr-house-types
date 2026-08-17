@@ -1,0 +1,95 @@
+id: villeray-saint-michel-parc-extension.jumele-apres-guerre
+place: villeray-saint-michel-parc-extension
+page: 43
+phase: p4
+phase_confidence: verified
+name_en: Post-war semi-detached house
+name_fr: Jumelé d'après-guerre
+source_ref: "Règlement 01-283-124, Annexe F, fiche 1.6"
+source_generation: >-
+  By-law Annexe F, fiche 1.6, pp. 1.6.1 to 1.6.5, transcribed verbatim
+sectors: [14.U.3]
+canonical:
+  - veterans-house-nha
+styles:
+  - minimal-traditional
+  - wartime-housing
+tenure_plan: semi-detached
+storeys: 2
+roof: {form: hipped, pitch_deg: null}
+window_proportion: horizontal
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: detached-or-set-back
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Jumelées d'après-guerre avec fenestration de coin
+    summary_fr: "Ces maisons jumelées d’après-guerre sont situées dans les zones H03-128 et H03-132, sont de plus grand gabarit et présentent plus d’ornementation que la typologie de base. La porte d’entrée est centrée sur la façade et encadrée d’un chambranle en pierre. La façade est ponctuée de bandeaux et d’ornements de pierre. Une importante fenestration verticale est située sur le coin du bâtiment."
+    zones: [H03-128, H03-132]
+profile:
+  siting_landscape:
+    - Sited in pairs on large lots with generous margins.
+    - A garage and a driveway adjoining the building are not uncommon.
+    - The by-law locates the type principally in the district of François-Perrault.
+  massing:
+    - A compact two-storey volume under a hipped roof, its ridge parallel to the street.
+    - A gable sometimes interrupts the hipped roof, generally aligned with the front door.
+    - The ground floor is slightly raised above street level, exposing the base course.
+    - A low garage may have been built at the same time as the house.
+  articulation:
+    - Each pair of houses shares its characteristics and reads as symmetrical about the party wall.
+    - The front door is near a side wall, reached by a perron and covered by a flat-roofed marquise.
+    - Ornament is sober and bets on horizontality — masonry bond patterns between the openings, concrete bands, and sometimes a stone door architrave.
+  openings:
+    - The distribution of openings across the façade is regular.
+    - Variant A adds a tall run of glazing at the corner of the building.
+  materials:
+    - Brick, with stone dressings; variant A adds stone bands and ornaments.
+profile_fr:
+  contexte:
+    - "On trouve les maisons jumelées d’après-guerre principalement dans le district de François-Perrault. Ces résidences standardisées de deux étages ont été construites dans les années 50 pour répondre à la crise du logement de l’époque. Les maisons jumelées d’après-guerre présentent des caractéristiques communes, notamment en ce qui concerne leur parement, la composition des façades ainsi que leurs saillies."
+  implantation:
+    - "Les maisons jumelées d’après-guerre sont implantées sur des lots de grandes dimensions et présentent d’importantes marges. Il n’est pas rare qu’un garage et une allée véhiculaire soient attenants au bâtiment."
+  volumetrie:
+    - "Cette typologie présente un volume compact de deux étages surmontés d’un toit à croupe. La ligne faîtière de la toiture est parallèle à la rue. Parfois, un pignon interrompt le toit à croupe ; il est généralement aligné avec la porte d’entrée. Le rez-de-chaussée est légèrement surélevé par rapport à la rue, exposant ainsi le soubassement. Un garage de faible hauteur peut avoir été construit simultanément avec la résidence."
+  traitement_des_facades:
+    - "Chaque duo de maisons partage des caractéristiques similaires et est d’apparence symétrique. La porte d’entrée est située près d’un mur latéral, accessible par un perron et surmonté par un auvent à toit plat. La distribution des ouvertures en façade est régulière. L’ornementation de ce type de bâtiment est sobre, et mise sur l’horizontalité. Il y a présence d’un appareillage de maçonnerie entre les ouvertures, de bandeaux de béton et, parfois, d’un chambranle de porte en pierre."
+  sous_variantes:
+    - "A — JUMELÉES D’APRÈS-GUERRE AVEC FENESTRATION DE COIN. Ces maisons jumelées d’après-guerre sont situées dans les zones H03-128 et H03-132, sont de plus grand gabarit et présentent plus d’ornementation que la typologie de base. La porte d’entrée est centrée sur la façade et encadrée d’un chambranle en pierre. La façade est ponctuée de bandeaux et d’ornements de pierre. Une importante fenestration verticale est située sur le coin du bâtiment."
+profile_note: >-
+  The by-law files this separately from fiche 1.5 and the separation is real: two full storeys rather
+  than one and a half, a hipped roof rather than a two-slope one, brick with stone dressings rather
+  than an open list of claddings, and a pair rather than a free-standing house. It is mapped here to
+  the same canonical as 1.5 because both the by-law and the 2005 cahier derive them from one thing —
+  standardised housing built against the post-war housing crisis on and after the Wartime Housing
+  Limited model — and no separate canonical for the two-storey post-war semi-detached exists on this
+  site. The alternative would have been to invent one on the strength of a single place, which the
+  canon does not do. Note that variant A is once again zone-keyed (H03-128, H03-132), and that it is
+  the only variant in the entire annexe whose defining feature is a window position rather than a
+  roof, a cladding or a siting: « Une importante fenestration verticale est située sur le coin du
+  bâtiment. »
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, pp. 1.6.2 and 1.6.5 — elevation drawings of the typologie de
+      base and of variant A. © Ville de Montréal. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  Standardised two-storey houses built in pairs in the 1950s, mostly in François-Perrault: a compact
+  brick block under a hipped roof with the ridge along the street, the ground floor lifted just clear
+  of grade, the door tucked near the party end under a flat marquise, and ornament that runs sideways
+  — concrete bands, a patterned bond between the windows, a stone surround at the door.
+origin_en: >-
+  The semi-detached answer to the same housing crisis that produced fiche 1.5, and the type the
+  cahier had already found on the ground: 14.U.3, on 1re Avenue and rue Villeray, records
+  « un ensemble d'habitations jumelées de deux étages construites en 1950 » holding their brick
+  cladding, façade organisation, galleries and entrance marquises in common — the by-law's list, in
+  the cahier's words, five years before the by-law's fiche.

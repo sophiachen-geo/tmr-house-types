@@ -1,0 +1,108 @@
+id: villeray-saint-michel-parc-extension
+name_en: Villeray–Saint-Michel–Parc-Extension
+name_fr: Arrondissement de Villeray–Saint-Michel–Parc-Extension
+sections: [borough-vernacular]
+region: Montréal (arrondissement; Évaluation du patrimoine urbain code 14)
+borough_of: montreal
+founded: 1896                     # the village de Villeray erected as a municipality; see phases
+settlement_mode: >-
+  three separate settlements fused into one borough by annexation — a tramway suburb platted along
+  the 1893 Montreal Park and Island Railway line (Villeray, annexed 1905), a promoters' subdivision
+  at the end of avenue du Parc laid out on an orthogonal grid (Parc-Extension), and a quarry village
+  on the côte Saint-Michel whose 1912 garden-city street plan was not built out until after 1945
+  (Ville Saint-Michel, annexed 1968)
+municipalities: null
+parent_place: null
+governing_instruments:
+  - kind: evaluation-cahier
+    title: >-
+      Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+      développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine
+      urbain — Arrondissement de Villeray–Saint-Michel–Parc-Extension », 2005 (ISBN 2-7647-0457-7;
+      dépôt légal 2005). Fieldwork January 2003 – May 2004, under Jean-François Gravel, for the Plan
+      d'urbanisme adopted 23 November 2004; one of 27 arrondissement cahiers. This is the document
+      that assigns the borough its code — read from inside the PDF, VSP is arrondissement 14, in the
+      file named 26_evaluation_patrimoine_villeray.pdf. Never infer the code from the filename.
+    year: 2005
+    url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/26_evaluation_patrimoine_villeray.pdf
+  - kind: zoning-bylaw
+    title: >-
+      Règlement de zonage de l'arrondissement de Villeray–Saint-Michel–Parc-Extension, 01-283. The
+      borough's base zoning by-law. Not 01-279, which is Rosemont–La Petite-Patrie's — the two are
+      routinely confused, and the amending by-law that carries this borough's typology annexe,
+      01-283-124, has itself been mis-attributed to Rosemont in secondary summaries.
+    year: null
+    url: null
+  - kind: typology-annexe
+    title: >-
+      Règlement 01-283-124, Annexe F — « Typologies architecturales résidentielles » (the PDF is
+      headed ANNEXE 4). 109 pages; thirteen numbered fiches in three families, each with a
+      fiche d'accompagnement, a typologie de base, a page of lettered variants, and three pages of
+      permitted original and replacement components. This is the most formal residential typology
+      instrument held by any of the five Montréal boroughs encoded on this site: it does not merely
+      describe types, it names them, numbers them, gives each a lettered variant set, and ties
+      several variants to specific zone codes (H01-016, H02-096, H03-034, H03-049, H03-081, H03-085,
+      H03-125, H03-128, H03-131, H03-132).
+    year: null
+    url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+  - kind: guidance
+    title: >-
+      Arrondissement de Villeray–Saint-Michel–Parc-Extension, « Maisons de type "shoebox" — guide
+      pour les travaux et agrandissements », année de publication 2019 (source credited on the
+      leaflet: Isabelle Bouchard, M. Sc. A conservation; photographs from the Archives de la Ville de
+      Montréal and the Société d'histoire de Parc-Extension). Carries the borough's own shoebox
+      census — 1 159 houses by decade and by district — and the guidance that an agrandissement must
+      read as distinct from the original volume.
+    year: 2019
+    url: https://portail-m4s.s3.montreal.ca/pdf/depliant_maisons_shoebox_final_web.pdf
+  - kind: heritage-study
+    title: >-
+      Arrondissement de Villeray–Saint-Michel–Parc-Extension, « Étude d'évaluation patrimoniale et de
+      mise en valeur des maisons de type "shoebox" », 2018 (Isabelle Bouchard). Named on the
+      borough's 2019 leaflet as the study behind it. NOT RETRIEVED in this pass — the Ville's legacy
+      pls/portal host now 302-redirects the PDF to a dead portal page. It is the source of the
+      « uniplex » proposal recorded in the notes, which is therefore carried here as an attributed
+      claim and not as a quotation.
+    year: 2018
+    url: null
+building_counts:
+  shoebox_houses_borough_total: 1159
+  note: >-
+    1 159 is the borough's own count of shoebox houses, from its 2019 guide, and it is a count of one
+    type rather than of the borough's building stock. By decade: 1900-1909, 16 (1,4 %); 1910-1919,
+    144 (12,4 %); 1920-1929, 136 (11,7 %); 1930-1939, 128 (11,0 %); 1940-1949, 191 (16,5 %);
+    1950-1960, 544 (46,9 %). By district: François-Perrault 660 (56,9 %), Saint-Michel 256 (22,1 %),
+    Villeray 153 (13,2 %), Parc-Extension 90 (7,8 %). The decade table is the empirical fact behind
+    this borough's decision to split the shoebox in two: 63,4 % of its shoebox houses were built from
+    1940 onward, and 46,9 % in the eleven years 1950-1960 alone.
+built_fabric_statistics: null
+typology_document:
+  title: >-
+    Règlement 01-283-124, Annexe F, « Typologies architecturales résidentielles » — thirteen fiches
+    in three families: 1.0 Maisons unifamiliales (1.1–1.7), 2.0 Plex (2.1–2.3), 3.0 Immeubles
+    d'appartements (3.1–3.3)
+  year: null
+  format: per-type-table
+  note: >-
+    Each fiche runs to eight pages on a fixed plan — .1 fiche d'accompagnement (historical context),
+    .2 an elevation of the typologie de base, .3 the description under three headings (Implantation,
+    Volumétrie, Traitement architectural), .4 and .5 the lettered variants with their own elevations,
+    .6 to .8 the tables of permitted original and replacement components. Fiche 1.7 has seven pages,
+    having only two variant pages' worth of content. The three headings map onto this site's columns
+    as Implantation → siting, Volumétrie → massing, and Traitement architectural → articulation,
+    openings and materials together, since the by-law does not separate them.
+map_layer: null
+summary_en: >-
+  The borough with the most formal residential typology by-law in Montréal: règlement 01-283-124's
+  Annexe F names thirteen house types, numbers them, gives each a set of lettered variants, and in
+  several cases ties a variant to the zones it is allowed in. It is also the borough that disagrees
+  with its neighbour about what a shoebox is. Rosemont–La Petite-Patrie treats the shoebox as one
+  type; Villeray–Saint-Michel–Parc-Extension splits it in two — a 1900-1940 shoebox of contiguous
+  brick fronts, found « principalement dans Villeray et Parc-Extension », and a 1940-1960 shoebox
+  that sheds its ornament, lifts its ground floor over a basement, detaches from its neighbours and
+  pulls back from the street to make room for a car. The borough's own census says why: of its
+  1 159 shoebox houses, 544 were built in the eleven years from 1950 to 1960. Around that argument
+  sits everything else — a single exceptional sector, rue Saint-Denis, singled out for its
+  three-storey plex; five interesting sectors; three ensembles urbains d'intérêt, two of them built
+  on Wartime Housing Limited models; and a limestone quarry with lime kilns as the only
+  archaeological interest in a borough where no archaeological research has ever been done.

@@ -1,0 +1,212 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.maison-de-veterans
+place: sud-ouest
+page: 55
+phase: p5
+phase_confidence: verified
+name_en: Veterans' house
+name_fr: La maison de vétérans
+courant: 1. La maison unifamiliale
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 1.4 — La maison de vétérans, printed p. 55
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+canonical:
+- veterans-house-nha
+styles:
+- wartime-housing
+- minimal-traditional
+tenure_plan: single-family
+storeys: 1
+roof:
+  form: gabled-or-hipped
+  pitch_deg: null
+window_proportion: horizontal
+principal_cladding:
+- wood-clapboard
+- clay-brick
+- artificial-stone
+- metal-siding
+roofing: asphalt shingle
+garage: none
+lot_width_m: null
+setback_front_m: 5.5
+setback_side_m: null
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - Detached. Front setback anywhere between 2.5 and 8.5 m; side margins have no typical dimension.
+  - >-
+    Where the houses occur in concentrations the façades line up regularly — boulevard Monk in unité
+    3.10, and the rues Jolicoeur and Beaulieu.
+  massing:
+  - >-
+    A simple rectangular or square plan, originally with no projection but a covered porch. One storey.
+  - >-
+    Pitched two-slope, pavilion or hipped roof; the ridge is sometimes parallel to the street and sometimes
+    at right angles to it. Where the pitch is steeper the attic is occupied.
+  - The ground floor is raised two to five risers above grade.
+  articulation:
+  - Façades are sober and carry very few ornamental details.
+  - >-
+    The door is at the centre of the façade with windows either side, but the composition is slightly
+    asymmetrical: very often one of the two windows is wider than the other.
+  - >-
+    On houses clad in a light material there is sometimes a horizontal change of colour on the gable
+    wall.
+  - >-
+    Where the attic is occupied it is usually lit through windows cut in the gable walls, though dormers
+    in the roof slope also occur.
+  openings:
+  - >-
+    Rectangular windows, and in the study's period the sash and casement types have largely given way
+    to replacements.
+  - Doors plain and without a transom.
+  - Openings are generally unframed, or framed only by the cladding itself.
+  materials:
+  - Concrete foundation.
+  - >-
+    Wood clapboard originally; brick, artificial stone and contemporary light claddings on many, sometimes
+    several on one façade.
+profile_fr:
+  implantation:
+  - >-
+    La maison de vétérans est implantée de façon isolée. La marge de recul avant peut varier entre 2,5
+    et 8,5 mètres et les marges latérales n’ont pas de dimensions typiques. L’implantation des façades
+    forme très souvent des alignements réguliers dans les secteurs comprenant des concentrations de
+    maisons de vétérans, comme par exemple sur le boulevard Monk (unité 3.10) ainsi que sur les rues
+    Jolicoeur, Holy Cross et Angers (unité 3.7). Il est fréquent de retrouver de grandes surfaces gazonnées
+    dans la cour avant.
+  volumetrie:
+  - >-
+    La maison de vétérans présente un plan simple de forme rectangulaire ou carrée, à l’origine sans
+    saillie mis à part un porche couvert. Elle possède un seul étage. Son toit est en pente à deux versants,
+    en pavillon ou à croupes. Le faîte du toit est tantôt parallèle à la rue, tantôt perpendiculaire
+    à celle-ci. Le rezde-chaussée est surélevé de 2 à 5 contremarches par rapport au niveau du sol et
+    accessible par un escalier extérieur. Les modèles plus tardifs et les cas modifiés comportent quelques
+    éléments en saillie comme un porche, une galerie ou des fenêtres de type « bow window » peu proéminentes.
+  materiaux:
+  - >-
+    La maison de vétérans possède un soubassement en béton, parfois ajouté ou surélevé après sa construction.
+    Le déclin de bois ou les revêtements légers comme le bardeau d’amiante et le vinyle sont les matériaux
+    privilégiés à l’origine pour les façades. D’autres modèles sont recouverts de brique et parfois
+    de pierre artificielle. Les toitures sont revêtues de bardeaux d’asphalte.
+  traitement_des_facades:
+  - >-
+    Ornementation — Les façades sont sobres et possèdent très peu de détails ornementaux. La porte est
+    située au centre de la façade et les fenêtres sur les côtés. La façade est légèrement asymétrique,
+    c’est-à-dire que très souvent l’une des deux fenêtres est plus large. Sur les bâtiments revêtus
+    d’un matériau léger, on remarque parfois une différenciation horizontale de la couleur des matériaux
+    sur le mur pignon. Lorsque les combles sont habités, les espaces sont habituellement éclairés par
+    des fenêtres percées dans les murs pignons mais on peut aussi retrouver des lucarnes pratiquées
+    dans la toiture.
+  ouvertures:
+  - >-
+    La dimension et les proportions des ouvertures sont variables. Il est fréquent d’observer un changement
+    de modèles d’ouvertures dans la façade pour exprimer les différentes fonctions des pièces intérieures.
+    Par exemple, on retrouve une grande baie vitrée pour la salle de séjour et de plus petites ouvertures
+    pour les chambres.
+  - Les portes sont simples et sans imposte.
+  - >-
+    L’encadrement des ouvertures est rarement souligné, si ce n’est par la présence de volets décoratifs
+    aux fenêtres.
+  description:
+  - >-
+    La maison de vétérans est une résidence unifamiliale de dimensions modestes, s’élevant sur un seul
+    étage et coiffé d’un toit à faible pente. Dans certains cas, une pente de toit plus importante permet
+    l’occupation des combles. Il s’agit d’un bâtiment isolé, mais il existe aussi quelques exemples
+    de maisons jumelées.
+  contexte:
+  - >-
+    Ce type de maison apparaît au début des années 1940, durant la Deuxième Guerre mondiale, alors que
+    les ouvriers travaillant dans les usines d’armement et de munitions cherchent à se loger près de
+    leur lieu de travail. La Wartime Housing Limited, compagnie créée par le gouvernement canadien,
+    conçoit donc des modèles de maison économiques et faciles à construire qui seront bâtis en série
+    dans les années suivantes. Érigées d’abord près des usines et conçues à l’origine comme des bâtiments
+    temporaires que l’on pourra démonter après la guerre, ces maisons ouvrières essaiment bientôt dans
+    les quartiers résidentiels et les nouveaux développements de plusieurs villes. Après la guerre,
+    les vétérans retournés au pays occupent ces résidences, donnant ainsi son nom à la typologie architecturale.
+    Le besoin de logements étant toujours présent durant la période de l’après-guerre, la Société canadienne
+    d’hypothèques et de logements (SCHL) prend le relais et construit d’autres maisons en série, en
+    reprenant des modèles simples mais cette fois-ci plus durables. Des promoteurs privés s’inspirent
+    aussi de ces modèles. La maison de vétérans évolue ainsi vers le bungalow et les banlieues pavillonnaires
+    dans les années 1950 et 1960.
+  - >-
+    La maison de vétérans est présente dans plusieurs quartiers et arrondissements de Montréal. On la
+    retrouve généralement en concentrations circonscrites par quelques rues ou pâtés de maisons, formant
+    des alignements réguliers de façades et de volumes similaires. Les arrondissements de MercierHochelaga-Maisonneuve,
+    de Rosemont-La Petite-Patrie, de Lachine et de Lasalle ainsi que le quartier Villeray en comprennent
+    notamment.
+  - >-
+    Dans l’arrondissement du Sud-Ouest, où les exemples sont particulièrement nombreux et variés, la
+    maison de vétérans a principalement été construite durant les années 1950 et 1960. Elle a d’abord
+    été érigée pour servir de logement aux vétérans par la SCHL, puis par des promoteurs privés. On
+    rencontre à la fois des modèles typiques des débuts, au petit gabarit et aux matériaux légers, ainsi
+    que des bâtiments ayant largement été modifiés par les propriétaires (nouveaux matériaux de parement,
+    ajout de volumes annexes, surhaussement, changement des ouvertures, etc.).
+  - >-
+    Au total, 252 cas de maisons de vétérans ont été répertoriés dans l’aire Côte-Saint-Paul de l’arrondissement
+    du Sud-Ouest, ce qui en fait une typologie relativement fréquente.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — La maison de vétérans jumelée : L’implantation jumelée forme la principale variante
+    de la maison de vétérans dans l’arrondissement du Sud-Ouest. Les exemples sont toutefois isolés
+    et relativement peu nombreux.
+  - >-
+    Variante 2 — Le bungalow : La composition architecturale du bungalow est similaire à celle des maisons
+    de vétérans mais son plan est plus allongé et la pente du toit généralement moins prononcée. Le
+    bungalow est rare dans l’arrondissement du Sud-Ouest. Lorsqu’il est présent, il s’agit habituellement
+    d’une exception dans le paysage bâti et il ne forme donc pas d’alignements réguliers avec d’autres
+    bâtiments semblables.
+profile_note: null
+variants: *id001
+example_addresses:
+- address: 7034, rue Beaulieu
+  note: the study's typical example (unité 3.10 Terre De Sève Sud)
+- address: boulevard Monk, between rues Raudot and Allard
+  note: >-
+    the study's illustration of the type in the synthèse (SO3556); the borough's largest concentration
+- address: 6170, rue Angers
+  note: >-
+    the study's example of a house carrying brick, sheet metal and artificial stone on one façade (unité
+    3.7 Rue Holy Cross)
+conservation: []
+photos:
+- file: assets/places/sud-ouest/maison-de-veterans-7056-rue-beaulieu-commons.jpg
+  kind: single
+  licence: CC BY-SA (see credit)
+  match_confidence: visual
+  credit: >-
+    7056 rue Beaulieu, Côte-Saint-Paul — a veterans' house on the street the study names as one of the
+    type's concentrations, four doors from its own example at 7034. Photograph by Jeangagnon, 11 April
+    2020, Wikimedia Commons, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:7056_rue_Beaulieu.jpg
+    — licence, author and file URL read through the Commons API before download.
+- file: assets/places/sud-ouest/maisons-de-veterans-boulevard-monk-commons.jpg
+  kind: single
+  licence: CC BY-SA (see credit)
+  match_confidence: visual
+  credit: >-
+    Boulevard Monk, Ville-Émard — the row of veterans' houses the study cites as the borough's clearest
+    concentration of the type (unité 3.10). Photograph by Jeangagnon, 19 May 2018, Wikimedia Commons,
+    CC BY-SA 4.0, from Category:Maisons de vétérans. https://commons.wikimedia.org/wiki/File:Boulevard_Monk_-_003.jpg
+    — licence, author and file URL read through the Commons API before download.
+blurb_en: >-
+  The one type in the borough that arrived from Ottawa rather than from a Montréal builder. Wartime
+  Housing Limited, created by the federal government, drew economical, quickly built models for the
+  workers in the munitions plants; they were meant to be dismantled after the war and instead spread
+  through the outer quarters. One storey, low pitch, a door between two windows of unequal width, and
+  — after seventy years — a façade that may carry brick, sheet metal and artificial stone at once.
+origin_en: >-
+  The same object as the wartime housing this site catalogues at Lévis, at Arvida and in Verdun's voisinage
+  Crawford, and the reason the canonical id is shared. What the Sud-Ouest fiche adds is the ordinary
+  end of the story: not a prize-winning NHA neighbourhood but a few streets in Côte-Saint-Paul where
+  the standard plan was dropped into an existing grid.

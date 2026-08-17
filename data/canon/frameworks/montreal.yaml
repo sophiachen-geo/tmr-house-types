@@ -1,0 +1,318 @@
+id: montreal
+title: The Montréal framework — Évaluation du patrimoine urbain, and the art. 120 inventory
+kicker: Framework — Ville de Montréal
+lede: >-
+  Nine places on this site are characterised by one documentary series: the Ville de Montréal's
+  <em>Évaluation du patrimoine urbain</em>, twenty-seven arrondissement cahiers researched in 2003–2004
+  and published in 2005. This page holds what they share — the sector code grammar, the categories, the
+  selection criteria and the method — so that no place record has to repeat it. It also holds the
+  statutory inventory that has since been laid over the whole island, and the one trap the series sets
+  for anyone reading it from the outside: <strong>the number in a sector code is not the number in the
+  filename</strong>.
+
+blocks:
+  - heading: Three nested scales
+    paragraphs:
+      - >-
+        Montréal's residential fabric is documented at three scales, and for once they nest cleanly.
+        Everything on the Montréal pages of this site sits at one of the three, and says which.
+    list:
+      - >-
+        <strong>Sector scale</strong> — the <em>Évaluation du patrimoine urbain</em> cahiers (2005), one
+        per arrondissement, which draw sector boundaries and grade them. This is where
+        <code>sectors.yaml</code> comes from.
+      - >-
+        <strong>Fabric scale</strong> — the per-borough typo-morphological studies and PIIA typology
+        annexes, which name and describe building types. This is where the type records come from: the
+        Sud-Ouest's Patri-Arch study and Villeray–Saint-Michel–Parc-Extension's règlement 01-283-124,
+        Annexe F.
+      - >-
+        <strong>Building scale</strong> — the <em>Grand répertoire du patrimoine bâti</em> open dataset
+        and, since 2026, the art. 120 pre-1940 inventory. Both are address-level and neither carries a
+        building type in a form this site can join to; see the last two sections.
+
+  - heading: The code grammar
+    paragraphs:
+      - >-
+        Every sector in the series carries a code of the form <code>[arrondissement].[letter].[n]</code>.
+        The cahiers state the grammar themselves, identically in each volume, in section 1.2.1:
+    quote: >-
+      Le système d'identification des secteurs utilisé dans le document correspond à celui des cartes. Le
+      premier chiffre correspond au numéro d'arrondissement. Il est suivi de la lettre E pour les secteurs
+      de valeur patrimoniale exceptionnelle, de la lettre I pour les secteurs de valeur patrimoniale
+      intéressante, de la lettre N pour les secteurs industriels d'intérêt ou par la lettre U pour les
+      secteurs urbains d'intérêt. Le deuxième chiffre correspond au numéro du secteur.
+    list:
+      - <strong>E</strong> — secteur de valeur patrimoniale <em>exceptionnelle</em>.
+      - <strong>I</strong> — secteur de valeur patrimoniale <em>intéressante</em>.
+      - <strong>N</strong> — secteur industriel d'intérêt (<em>ensemble industriel d'intérêt</em>).
+      - <strong>U</strong> — secteur urbain d'intérêt (<em>ensemble urbain d'intérêt</em>).
+      - >-
+        <strong>AP</strong> — <em>secteur d'intérêt archéologique à fort potentiel</em>. The paragraph
+        above names four letters; the cahiers use five. AP codes are issued from the archaeological half
+        of the same document (section 3.2.3), researched by a different team, and they are an
+        <strong>overlay, not a heritage ranking</strong> — a territory where the biophysical,
+        geomorphological, archaeological and historical evidence shows a strong likelihood of buried
+        remains, and where protective measures are required in advance of any find. On this site they
+        carry the sector value <code>archaeological-potential</code> and never sit in the E/I ladder.
+
+  - heading: The code is not the filename
+    paragraphs:
+      - >-
+        The cahiers are published as PDFs whose filenames begin with a two-digit number — and that number
+        is a <strong>series number, not the arrondissement number in the codes inside</strong>. The two
+        sequences run in different orders and collide outright. File <code>22_…_stla.pdf</code> is
+        Saint-Laurent, whose sectors are coded <code>8.E.n</code>; the arrondissement that <em>owns</em>
+        code 22 is Le Sud-Ouest, published as file <code>12_…_sud.pdf</code>. File
+        <code>27_…_wes.pdf</code> is Westmount, coded 23; the arrondissement that owns code 27 is
+        Mercier–Hochelaga-Maisonneuve, published as file <code>14_…_mercier.pdf</code>, and file
+        <code>14_…</code> in turn is not the arrondissement coded 14, which is
+        Villeray–Saint-Michel–Parc-Extension, published as file <code>26_…</code>.
+      - >-
+        The rule this site follows: <strong>read the code from inside the document, never from the
+        filename.</strong> Every row below was verified by extracting the sector codes from the PDF text
+        itself. A few stray codes appear in each volume where a synthesis map shows a neighbouring
+        arrondissement's sectors bleeding across the boundary; those are map labels, not the volume's own
+        codes, and the dominant prefix in the sector fiches is the one recorded here.
+    table:
+      columns: [File prefix, Code, Arrondissement, Sector codes found inside]
+      rows:
+        - ["12", "<strong>22</strong>", "Le Sud-Ouest", "E.1–15, I.1–25, N.1–2, U.1, AP.1–14"]
+        - ["14", "<strong>27</strong>", "Mercier–Hochelaga-Maisonneuve", "E.1–5, I.1–6, N.1–2, U.1–5, AP.1–3"]
+        - ["17", "<strong>16</strong>", "Outremont", "E.1–8, I.1–6, AP.1–2"]
+        - ["21", "<strong>26</strong>", "Rosemont–La Petite-Patrie", "E.1–11, I.1–7, N.1, U.1–4, AP.1–3"]
+        - ["22", "<strong>8</strong>", "Saint-Laurent", "E.1–4, I.1–4, U.1–3, AP.1–2"]
+        - ["24", "<strong>21</strong>", "Verdun", "E.1–7 (E.1 split 1A/1B/1C), I.1–10, U.1, AP.1–2"]
+        - ["25", "<strong>24</strong>", "Ville-Marie", "E.1–67, I.1–19, N.1–2, U.1, AP.1–6"]
+        - ["26", "<strong>14</strong>", "Villeray–Saint-Michel–Parc-Extension", "E.1, I.1–5, U.1–3, AP.1"]
+        - ["27", "<strong>23</strong>", "Westmount", "E.1–35, I.1–4, AP.1–4"]
+
+  - heading: The categories, and why their letters move
+    paragraphs:
+      - >-
+        Section 3.2.2 of each cahier, <em>Le cadre bâti d'intérêt patrimonial</em>, presents its results
+        under lettered headings. The categories are stable across the series; <strong>the letters are
+        not</strong>. Each volume letters only the categories that its own territory contains, so C is
+        <em>ensembles urbains d'intérêt</em> in the Sud-Ouest, Ville-Marie, Mercier–Hochelaga-Maisonneuve
+        and Rosemont cahiers, but D is <em>immeubles de valeur patrimoniale exceptionnelle</em> in Verdun
+        and Saint-Laurent, and Outremont's D is <em>éléments particuliers du paysage</em>, a category no
+        other volume here uses. Cite the category, not the letter.
+    list:
+      - Les secteurs de valeur patrimoniale exceptionnelle — code letter <strong>E</strong>.
+      - Les secteurs de valeur patrimoniale intéressante — code letter <strong>I</strong>.
+      - Les ensembles urbains d'intérêt — code letter <strong>U</strong>.
+      - Les ensembles industriels d'intérêt — code letter <strong>N</strong>.
+      - Les immeubles de valeur patrimoniale exceptionnelle, and in some volumes a second list of <em>immeubles de valeur patrimoniale intéressante</em>. These are named buildings, not sectors, and carry no code.
+
+  - heading: Two new categories the 2004 Plan d'urbanisme invented
+    paragraphs:
+      - >-
+        The <em>ensembles urbains d'intérêt</em> and <em>ensembles industriels d'intérêt</em> are flagged
+        in the cahiers under the heading <em>Notions nouvelles</em> — categories created for the 2004 Plan
+        d'urbanisme rather than inherited. The urban one matters to this site because it is the first time
+        Montréal's postwar suburbs were connected to conservation at all: it covers, in the cahiers' own
+        list, homogeneous bungalow ensembles, sectors of houses built to the Wartime Housing Limited model,
+        and early housing co-operatives. The series calls its own coverage of them
+        <em>exploratoire</em>.
+    quote: >-
+      Le Plan d'urbanisme reconnaît l'intérêt de certains développements résidentiels d'après-guerre, qui
+      composent une part importante du patrimoine des anciennes banlieues, en créant une catégorie appelée
+      Ensembles urbains d'intérêt. On y retrouve, entre autres, des ensembles homogènes de bungalows, des
+      secteurs de maisons qui adoptent le modèle développé par la Wartime Housing Limited ou des exemples
+      des premières coopératives d'habitation.
+
+  - heading: The qualification criteria, verbatim
+    paragraphs:
+      - >-
+        Sectors and buildings were selected on the same three criteria, set out in section 1.2.2 and
+        drawn from the Division's own 2001 <em>Guide de gestion des études patrimoniales</em>, revised
+        2003: <em>« leur capacité de témoigner d'un thème ou d'un événement historique; leur qualité
+        architecturale (forme, usage, technologie constructive); leur participation à la qualité de la vie
+        urbaine et du paysage. »</em> Selected sectors were then qualified into the two grades — the
+        definitions below are the cahiers' own, adapted from the City of Ottawa's 1987
+        <em>Guide d'évaluation des biens culturels et des districts historiques</em>.
+    quote: >-
+      Exceptionnels : secteurs ayant conservé leurs qualités au chapitre des aménagements urbains, des
+      implantations de bâtiments, de la géographie et des paysages et qui regroupent des suites
+      architecturales, des alignements de bâtiments d'intérêt patrimonial, des zones unifiées par une
+      fonction ou une typologie architecturale. Les ensembles de cette catégorie ont subi relativement peu
+      de perturbations et présentent un caractère d'harmonie formelle et fonctionnelle. De plus, ils sont
+      souvent reconnus comme des témoins historiques importants. — Intéressants : ensembles comprenant
+      plusieurs bâtiments et certaines caractéristiques environnementales qui présentent un intérêt
+      patrimonial. Ce sont toutefois des ensembles dont la trame urbaine peut avoir été partiellement
+      modifiée, qui ont pu connaître un certain nombre de perturbations et qui renferment parfois des
+      constructions peu intégrées à l'ensemble.
+    list:
+      - >-
+        The comparison is <strong>internal to each arrondissement</strong>, not island-wide:
+        <em>« Dans tous les cas, l'échelle de comparaison pour cette qualification est l'arrondissement…
+        ce qui fait ressortir sa spécificité dans l'ensemble montréalais. »</em> An exceptional sector in
+        Verdun and an exceptional sector in Ville-Marie are not claims about the same threshold. Read the
+        grades within a borough, not across them.
+      - >-
+        Where a sector proved to matter island-wide, the recommendation was to protect it by
+        <em>constitution d'un site du patrimoine</em>, and a building by <em>citation</em>, both then
+        under the Loi sur les biens culturels. The evaluation itself confers nothing.
+
+  - heading: Two methodological notes worth carrying
+    paragraphs:
+      - >-
+        The series is explicitly Lynchian, and says so in its first substantive paragraph — the urban
+        landscape is a sequence of visual experiences along a route, not a plan seen from above.
+    quote: >-
+      L'approche choisie pour la sélection des bâtiments et secteurs s'appuie sur le concept de paysage
+      urbain développé par Kevin Lynch, selon lequel le territoire se découvre à partir de l'intérieur et
+      non à vol d'oiseau (en plan), et se compose d'une succession de séquences visuelles expérimentées le
+      long d'un parcours.
+    list:
+      - >-
+        <strong>Boundaries are drawn at the back of the lots, not down the middle of the streets.</strong>
+        <em>« Ces limites ne sont donc pas arbitrairement placées au centre des rues mais bien au fond des
+        lots afin d'englober toutes les composantes du champ visuel. »</em> This follows from the method:
+        if a sector is a field of view from inside it, then both sides of a street belong to it. Anyone
+        overlaying these sectors on a cadastral or street-centreline layer will find them off by half a
+        block, and that is the source's intent, not an error.
+      - >-
+        <strong>Lists and maps cannot be separated.</strong> Every exceptional building is named, but the
+        interesting ones were too numerous to list, so only those <em>outside</em> a sector were named
+        individually. A building's absence from a list is therefore not evidence about the building.
+
+  - heading: Who made it, and when
+    paragraphs:
+      - >-
+        Produced by the <strong>Division du patrimoine et de la toponymie</strong> of the Service de la
+        mise en valeur du territoire et du patrimoine, Direction du développement urbain, under
+        <strong>Jean-François Gravel</strong>, chef de division, with the Direction under Céline Topp. The
+        work ran <strong>January 2003 to May 2004</strong>, in preparation for the Plan d'urbanisme
+        adopted by the conseil municipal on <strong>23 November 2004</strong>; the archaeological site
+        list was updated to March 2004. <strong>Twenty-seven cahiers</strong>, one per arrondissement.
+        Dépôt légal, Bibliothèque nationale du Québec and Bibliothèque nationale du Canada,
+        <strong>2005</strong>.
+      - >-
+        Built heritage and historical research: Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy
+        Lafontaine, Christiane Lefebvre and Pierre-Paul Savignac, architects, with Denise Caron,
+        historian. Archaeological research and writing: Claire Mousseau, archaeologist, with Françoise
+        Duguay, François Bélanger, Anne-Marie Balac and Christian Roy. Also Gisèle Trépanier, conseillère
+        en aménagement, and Nicole Halpert, chargée de communication, on text revision, and Ginette
+        Bouchard on text entry. Cartography by the Division des politiques et du Plan d'urbanisme.
+      - >-
+        The series is twenty years old and was never revised. It predates every borough typology document
+        this site uses, and it predates the statutory inventory below by two decades. Where it disagrees
+        with a later source, it is the older reading, not the wrong one.
+
+  - heading: The statutory inventory — art. 120, Loi sur le patrimoine culturel
+    paragraphs:
+      - >-
+        Laid over all of the above since 2021 is an obligation that has nothing to do with the 2005
+        series. Article 120 of the <em>Loi sur le patrimoine culturel</em>, as replaced by 2021, c. 10,
+        a. 42: <em>« Une municipalité régionale de comté doit adopter et mettre à jour périodiquement un
+        inventaire des immeubles construits avant 1940 qui sont situés sur son territoire et qui présentent
+        une valeur patrimoniale. »</em> The Act's provisions came into force on <strong>1 April
+        2021</strong> (2021, c. 10, a. 143), and its transitional article 136 set the deadline:
+        <em>« L'inventaire visé à l'article 120 de la Loi sur le patrimoine culturel, remplacé par
+        l'article 42 de la présente loi, doit être adopté au plus tard le 1er avril 2026. »</em>
+      - >-
+        <strong>That deadline has now passed.</strong> Checking whether the agglomération de Montréal
+        adopted its inventory was left as the first task on any revisit of this page; it has been done,
+        and the answer is yes. The Ville's own page, updated 15 June 2026, states:
+        <em>« En tout, ce sont 34 listes d'inventaire qui ont été réalisées puis adoptées par le Conseil
+        d'agglomération. Il y a un inventaire pour chacun des 19 arrondissements et 15 pour chacune des
+        villes liées, ce qui représente plus de 68 500 immeubles, qu'ils soient principaux ou
+        secondaires. »</em> The adopted lists were published as open data on 25 March 2026 and are
+        counted below.
+    table:
+      columns: [Figure, Source, What it counts]
+      rows:
+        - ["plus de <strong>80 000</strong> immeubles", "Ville de Montréal, earlier wording of the <em>Inventaires des immeubles patrimoniaux</em> page, since replaced. <strong>Not re-verified against a dated snapshot on this pass</strong> — the Internet Archive was unreachable from this session — so it is carried as an attributed claim, not a quotation.", "The <em>recensement</em> — buildings targeted for examination, pre-1940, across the agglomération."]
+        - ["plus de <strong>87 000</strong> bâtiments", "Ville de Montréal-Ouest, notice of 3 June 2025: <em>« Sur l'île de Montréal, cet inventaire représente plus de 87 000 bâtiments »</em>", "Island-wide scope as described to residents by a ville liée. The same notice names the firm doing the fieldwork: <em>« des employés de la firme Architecture 49 sillonneront les rues de la municipalité »</em>, from the week of 9 June 2025."]
+        - ["plus de <strong>68 500</strong> immeubles", "Ville de Montréal, <em>Inventaires des immeubles patrimoniaux</em>, updated 15 June 2026", "Buildings actually <em>retained</em> on the 34 adopted lists — principal and secondary."]
+        - ["<strong>68 652</strong> immeubles", "Counted for this site from the Ville's own open dataset <em>Inventaires des immeubles patrimoniaux construits avant 1940</em>, 34 GeoJSON files, retrieved 17 August 2026", "Every feature carries <code>LISTE: PRÉ1940</code> and <code>INVENTAIRE: Retenu</code>. This is the 68 500 figure, exactly."]
+    list:
+      - >-
+        The gap between 80 000 / 87 000 and 68 652 is a scope-versus-result gap, not a contradiction: the
+        larger numbers are what was surveyed, the smaller is what was kept. Neither of the larger figures
+        has been restated by the Ville since adoption, so both are recorded here as historical scope
+        claims and neither is used as a count.
+      - >-
+        Adoption dates in the dataset run from <strong>18 May 2023</strong> to <strong>26 March
+        2026</strong>, and the work was heavily back-loaded: 15 166 buildings adopted on 25 September 2025,
+        8 946 on 18 December 2025, 16 157 on 19 February 2026 and 22 770 on 26 March 2026 — six days before
+        the deadline. Le Plateau-Mont-Royal's 12 260 buildings all fall in that last batch. 897 records
+        across six localities carry no adoption date at all.
+      - >-
+        Per-borough totals for the places on this site: Le Plateau-Mont-Royal 12 260;
+        Rosemont–La Petite-Patrie 8 585; Le Sud-Ouest 5 466; Mercier–Hochelaga-Maisonneuve 5 088;
+        Villeray–Saint-Michel–Parc-Extension 4 612; Verdun 4 023; Westmount 3 654; Outremont 2 903;
+        Mont-Royal 805; Hampstead 372. The full table is in
+        <code>sources/montreal/data/inventaire_pre1940_par_localite.csv</code>.
+
+  - heading: What listing on the inventory does, and does not, do
+    paragraphs:
+      - >-
+        This needs saying plainly, because the three instruments are constantly conflated.
+        <strong>Inventory listing is neither citation nor classement.</strong> <em>Citation</em> is a
+        municipal by-law under LPC art. 127, taken on the advice of a conseil local du patrimoine.
+        <em>Classement</em> is a ministerial decision under LPC art. 29, on the advice of the Conseil du
+        patrimoine culturel du Québec. Both create a legal status attached to the building. The art. 120
+        inventory creates none: the Ville's own dataset says the data are
+        <em>« fournies à titre indicatif et n'ont donc aucune portée légale »</em>.
+      - >-
+        What it does instead is switch on the demolition-control regime. LAU art. 148.0.1 defines
+        <em>immeuble patrimonial</em>, for the purposes of the demolition chapter, as a building cited
+        under the LPC, in a cited heritage site, <em>« ou inscrit dans un inventaire visé au premier
+        alinéa de l'article 120 de cette loi »</em> — the inventory is the third door into the same
+        definition. Art. 148.0.2 then requires every municipality to keep in force a by-law prohibiting
+        demolition without the authorisation of a demolition committee, and to set criteria specific to
+        an <em>immeuble patrimonial</em>. The Ville puts it in plainer words: inventoried buildings are
+        <em>« assujettis aux règlements concernant leur occupation et leur entretien et aux règlements
+        relatifs à la démolition »</em>, applied by the borough or the ville liée. There is a transitional
+        sting too — under 2021, c. 10, a. 138, until both a conforming demolition by-law is in force and
+        the art. 120 inventory is adopted for a territory, that municipality had to notify the Minister
+        ninety days before issuing any demolition permit for a pre-1940 building.
+      - >-
+        So an inventoried Rosemont shoebox is not protected in the way a cited building is. It is
+        protected in the way that matters most to a type that is being demolished one at a time: someone
+        has to say yes first, in public, against criteria that include its heritage value.
+
+  - heading: One provincial deadline, four local outcomes
+    paragraphs:
+      - >-
+        Article 120 falls on every MRC and every agglomération in Québec at once, and this site now holds
+        four of them. Read together they are the clearest demonstration here that a uniform statutory
+        obligation does not produce a uniform result.
+    list:
+      - >-
+        <strong>Montréal</strong> — 34 lists adopted by the conseil d'agglomération, 68 652 buildings,
+        fieldwork contracted out to Architecture 49 and photography continuing to the end of 2028. A
+        1940–1975 pilot inventory was also run in Saint-Laurent. The largest and latest of the four.
+      - >-
+        <strong><a href="../../places/terrebonne/">Vieux-Terrebonne</a></strong> (Part 8) — the MRC route,
+        arriving alongside a provincial declaration of 20 May 2026. Inventory and declaration reinforce
+        each other on the same territory.
+      - >-
+        <strong><a href="../../places/temiscaming/">Témiscaming</a></strong> (Part 5) — the negative
+        result. The MRC's 2026 inventory retained three properties on the whole territory, none of them
+        residential. An inventory can be complied with and still find almost nothing, and that finding is
+        itself information about the place.
+      - >-
+        <strong><a href="../../places/levis/">Lévis</a></strong> (Part 8) — a city that already ran a live
+        municipal catalogue of architectural styles before the obligation existed, so the inventory lands
+        on top of an inventory. The instrument is new; the knowledge is not.
+
+  - heading: Open tasks
+    list:
+      - >-
+        Identify the <strong>conseil d'agglomération résolutions</strong> that adopted each of the 34
+        lists. The dataset gives an adoption date per building but no resolution number, and the six
+        localities with no date at all (Rivière-des-Prairies–Pointe-aux-Trembles, L'Île-Bizard–Sainte-Geneviève,
+        Montréal-Est, Pierrefonds-Roxboro, L'Île-Dorval, Saint-Léonard — 897 records) need resolving.
+      - >-
+        The inventory carries <strong>no typology field</strong> — <code>ID_IMM_INV</code>,
+        <code>ADRESSE</code>, <code>LOCALITE</code>, <code>DATE_ADOPT</code> and little else. It cannot be
+        joined to this site's type records by form, only by address. Whether the underlying
+        MCCQ-method examination that produced it records a building type, and whether that is ever
+        published, is open.
+      - >-
+        Enumerate the <strong>I, N and U sectors</strong> for the five Part 10 boroughs. Only E sectors
+        are encoded so far, and the counts in the table above show how much is left: 25 I-sectors in the
+        Sud-Ouest alone.

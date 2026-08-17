@@ -1,0 +1,172 @@
+- id: rosemont-evaluation-cahier
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+    développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine urbain
+    — Arrondissement de Rosemont–La Petite-Patrie », 60 p., ISBN 2-7647-0469-0, dépôt légal 2005.
+    Study directed by Céline Topp; heritage evaluation and historical research under Jean-François
+    Gravel by Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre
+    and Pierre-Paul Savignac, architects, with Denise Caron, historian; archaeology by Claire Mousseau
+    with Françoise Duguay, François Bélanger, Anne-Marie Balac and Christian Roy. Work carried out
+    January 2003 – May 2004 for the Plan d'urbanisme adopted 23 November 2004; one of 27 cahiers.
+    File 21_evaluation_patrimoine_rose.pdf, downloaded 17 August 2026;
+    https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+  used_for: >-
+    sectors.yaml in full — the arrondissement code 26 read from the sector codes inside the document,
+    all eleven 26.E sectors, seven 26.I, four 26.U, one 26.N and three 26.AP, with their verbatim
+    French where it carries the argument, plus the rue des Carrières tracé fondateur, which is carried
+    in prose rather than as a sector record for the reason set out there. Also the historique
+    (Angus, the Rosemont Land subdivision, the Cité-Jardin, the hospitals, the Jean-Talon market),
+    phases.yaml, the plex and bungalow type records, and the 2004 sentence naming the threat to the
+    one-storey houses that the 2018–2019 by-law answers.
+  note: >-
+    Two filename and metadata traps in one document. The file prefix is 21 and the arrondissement code
+    is 26; and the PDF's own Title metadata still reads "maq1_CŽte StLuc Hampstead", left over from
+    the template the series was produced from. Neither the filename nor the metadata may be used to
+    identify the arrondissement — only the sector codes printed inside. The cahier also cites 14.AP.1,
+    an adjoining borough's sector, which independently confirms VSP as code 14.
+
+- id: rosemont-annexe-f
+  citation: >-
+    Arrondissement de Rosemont–La Petite-Patrie, « ANNEXE F — Maisons shoebox de l'arrondissement de
+    Rosemont – La Petite-Patrie », the address-by-address characterisation table published with the
+    projet de règlement. Source spreadsheet "Annexe F _ décembre 2018.xls"; PDF created 7 December
+    2018, ModDate 21 January 2019; 8 pages, 561 rows; columns No. Civique, Rue, Valeur architecturale,
+    Couronnement de qualité, Construite en fonds de lot, Adjacente à une autre maison shoebox.
+    http://ville.montreal.qc.ca/pls/portal/docs/1/89503139.PDF — downloaded 17 August 2026,
+    kept at sources/rosemont/rosemont_annexe_caracterisation_shoebox.pdf
+  used_for: >-
+    count_in_place (561) and the whole grading block. Counts computed from the table itself rather
+    than taken from any summary: valeur architecturale 1 = 170, 2 = 233, 3 = 158; « couronnement de
+    qualité » = 118; « construite en fonds de lot » = 56; « adjacente à une autre maison shoebox » =
+    232; 77 distinct streets. Also the example_addresses on the shoebox record.
+  note: >-
+    This is the document that resolves a conflict in the Part 10 research memo. The memo gave the
+    three classes as 69 / 258 / 235, which sums to 562 and does not match. The parsed table gives
+    561 rows and 170 / 233 / 158, which agrees exactly with the percentages the Ville publishes
+    (30.3 / 41.5 / 28.2). The memo's other Annexe F figure, 56 rear-lot houses, is confirmed exactly.
+    The parse is reproducible: sources/rosemont/annexe_f_parsed.json holds all 561 rows as read.
+
+- id: rosemont-reglement-01-279
+  citation: >-
+    Ville de Montréal, « Règlement d'urbanisme de l'arrondissement Rosemont–Petite-Patrie (01-279) »,
+    codification administrative 01-279-78, dated 23 May 2024, 295 p. Copy served by the Office de
+    consultation publique de Montréal (dossier P131, pièce 5-1); downloaded 17 August 2026 and kept
+    at sources/rosemont/reglement_urbanisme_01-279_codification.pdf. Article 5 (definitions of
+    « maison shoebox » and « maison shoebox d'intérêt »); art. 11.1 minimum height; art. 26.1 maximum
+    height; art. 52.1 the 1 m upper-floor setback; Chapitre VIII and the art. 89 table of dominant
+    architectural characteristics, where the maison shoebox d'intérêt is the row coded MS; art. 100.1
+    compulsory couronnement; art. 135.1 usage categories H.1–H.3 and the H.1-only rule for value 3;
+    Annexe B fascicule d'évaluation 10, « Maison shoebox d'intérêt », with separate criteria sheets
+    for value 3 and value 2; Annexe F.
+  used_for: >-
+    The shoebox record's regulated massing, articulation, openings and conservation blocks; the
+    grading block's intervention_fr; the governing_instruments entries; and the by-law numbers.
+  note: >-
+    The amending by-law that created the shoebox regime is 01-279-58. Its zone-by-zone successors are
+    visible in the codification's own citation footers as 01-279-58-01 through 01-279-58-39 — thirty-
+    nine of them, one per zone, which is the primary-source confirmation that thirty-nine zones went
+    to signature registers. Later amendments touching the same articles: 01-279-66, 01-279-67,
+    01-279-76. Rosemont's base by-law is 01-279; règlement 01-283-124 belongs to Villeray–Saint-Michel–
+    Parc-Extension, whose base by-law is 01-283.
+
+- id: ville-montreal-depliant-shoebox
+  citation: >-
+    Ville de Montréal, arrondissement de Villeray–Saint-Michel–Parc-Extension, Direction du
+    développement du territoire, « Maisons de type « shoebox » — Guide pour les travaux et
+    agrandissements », dépliant, année de publication 2019. Source credited on the dépliant to
+    Isabelle Bouchard, M. Sc. A. conservation; photographs Archives de la Ville de Montréal and
+    Société d'histoire de Parc-Extension; map Chas. E. Goad Co., Atlas of the City of Montréal and
+    Vicinity, 1912–1914, vol. III, pl. 343, BAnQ.
+    https://portail-m4s.s3.montreal.ca/pdf/depliant_maisons_shoebox_final_web.pdf — downloaded
+    17 August 2026, kept at sources/rosemont/shoebox_depliant.pdf
+  used_for: >-
+    The verbatim definition of the type, its appearance « au début du XXe siècle » and its phases
+    « jusqu'aux années 1960 », the self-build sentence, the origin of the name, the three
+    caractéristiques architecturales (central door with two symmetrical windows; brick façade with a
+    cornice or parapet couronnement; front galerie under a marquise), and the industrialisation /
+    railway / tramway account of why workers bought peripheral lots.
+  note: >-
+    Attribution matters here and is stated on the place page. The dépliant is VSP's, not Rosemont's.
+    Its definition is the one the Ville uses city-wide and is quoted as such; its statistics are VSP's
+    own — 1,159 houses, 46.9 % of them built 1950–1960, 660 in the François-Perrault district — and
+    none of them is used on this page.
+
+- id: montreal-ca-shoebox-rosemont
+  citation: >-
+    Ville de Montréal, « Les maisons shoebox dans Rosemont–La Petite-Patrie », montreal.ca article
+    22005 (page last updated 15 December 2021) —
+    https://montreal.ca/articles/les-maisons-shoebox-dans-rosemont-la-petite-patrie-22005 —
+    consulted 17 August 2026.
+  used_for: >-
+    Cross-check on the grading counts and percentages (170 / 30.3 %, 233 / 41.5 %, 158 / 28.2 %); the
+    statement that a value of 1 shows the fewest characteristics of interest and 3 the most; the
+    dwelling limits by value; the demolition by-law reference RCA-6; and the link to the Annexe F PDF.
+
+- id: rosemont-communiques-2019
+  citation: >-
+    Arrondissement de Rosemont–La Petite-Patrie, two press releases on CNW/Newswire: « Adoption du
+    règlement visant la protection de maisons de type shoebox : un cadre clair et une protection sans
+    précédent », 12 February 2019; and « Le règlement visant la protection de maisons de type shoebox
+    s'appliquera maintenant à l'ensemble de l'arrondissement de Rosemont-La Petite-Patrie »,
+    27 March 2019. Consulted 17 August 2026.
+  used_for: >-
+    The protection chronology: the moratorium instituted in May 2018 (« instauré en mai dernier »),
+    adoption in « 3e et dernière lecture » on 12 February 2019, and full application across the
+    borough on 27 March 2019. Also the borough's own claim to be « le premier à protéger cet élément
+    distinctif de son patrimoine bâti », the 561 figure, and the mayor, François William Croteau.
+  note: >-
+    These are the borough's own releases, which is why they are used for the chronology rather than
+    news coverage. The 12 February release states the first-borough claim; the 27 March release does
+    not repeat it, and notes instead that other boroughs are now taking up the approach.
+
+- id: gaudreau-shoebox-2021
+  citation: >-
+    Guy Gaudreau, « Les premières maisons shoebox montréalaises de Rosemont et de Villeray », Urban
+    History Review / Revue d'histoire urbaine, vol. 49, no 1 (Fall/automne 2021), p. 4–29.
+    DOI 10.3138/uhr-2020-0004.
+  used_for: >-
+    The promettants-acquéreurs mechanism — promises of sale from land companies requiring only a few
+    dollars down, which allowed journaliers to build modest houses on their own lots — and the
+    attribution of the earliest Rosemont and Villeray shoeboxes to that mechanism. This is the
+    scholarly authority for calling the shoebox a self-build type.
+  note: >-
+    Cited from the publisher's and JSTOR's bibliographic records and the published abstract; the full
+    text is behind a paywall and was not read for this encoding. Nothing in the type records depends
+    on a claim from the body of the article.
+
+- id: la-presse-shoebox
+  citation: >-
+    Two La Presse reports, used as PRESS and labelled as such on the page: « Maisons shoebox : des
+    mesures qui compliquent la vie des propriétaires », 19 October 2018,
+    https://www.lapresse.ca/actualites/grand-montreal/201810/19/01-5201010-maisons-shoebox-des-mesures-qui-compliquent-la-vie-des-proprietaires.php ;
+    and « Un demi-million… à démolir », 20 September 2019,
+    https://www.lapresse.ca/maison/immobilier/201909/20/01-5242101-un-demi-million-a-demolir.php
+  used_for: >-
+    Two figures the municipal record does not carry. First, the island-wide estimate — about a
+    thousand shoebox houses in Montréal, roughly half of them in Rosemont–La Petite-Patrie — which is
+    presented on the page as press, never as a municipal count. Second, the September 2019 case of a
+    couple who paid $500,000 for an uninhabited Rosemont shoebox in order to demolish it and build a
+    single-family house of over $700,000, a project that reached about $1.3 million.
+  note: >-
+    Neither article could be fetched directly (lapresse.ca returns 403 to automated requests); both
+    are cited from search-index summaries carrying their headlines, dates and URLs. They are used only
+    for the two attributed claims above, and both are flagged as press in prose.md so that no reader
+    can mistake them for the municipal figures. Per the Part 10 brief, no commercial real-estate blog
+    has been used for any date or count on this page.
+
+- id: rosemont-commons-photographs
+  citation: >-
+    Wikimedia Commons. Files used: « Maisons shoebox dans Rosemont (25) », « Maisons shoebox dans
+    Rosemont (20) » and « Maison shoebox à Montréal dans Rosemont 05 », all by Guerinf, CC BY-SA 4.0;
+    « Feature. Duplexes. Rosemont », Conrad Poirier, 28 July 1948, BAnQ P48,S1,P16539, public domain,
+    uploaded by BAnQ; « Cité-jardin du Tricentenaire », Cossette.phil, 3 February 2011, CC BY-SA 3.0;
+    « Saint-Denis Street, Rosemont quarter in Montreal », Gene.arboit, 4 September 2005, CC BY-SA 3.0.
+  used_for: The photographs on the shoebox, triplex, duplex and Cité-Jardin type records.
+  note: >-
+    Every licence was verified individually through the Commons API — extmetadata for the licence
+    short name and URL, and the raw wikitext of the file page for the licence template itself — before
+    any file was downloaded. Author, licence and file URL are in each photo credit, and each carries a
+    match_confidence. The two categories the Part 10 brief names, Multiplexes (buildings) and External
+    staircases, were both listed and neither contained a usable image of this borough; Category:Style
+    Shoebox and Category:Rosemont–La Petite-Patrie did. Rejected files and the reasons are recorded in
+    sources/rosemont/MANIFEST.md.

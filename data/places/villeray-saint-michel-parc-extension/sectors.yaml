@@ -1,0 +1,282 @@
+# Codes and texts are from the 2005 Évaluation cahier, read from inside the PDF. The arrondissement
+# number is 14 — confirmed at every one of the 121 code occurrences in the document, in a file whose
+# name begins 26. Ten coded sectors are published: one E, five I, three U and one AP. The cahier also
+# carries a single "secteur d'intérêt archéologique" coded 14.A.1, with the bare letter A rather than
+# AP; both archaeological records are filed here under archaeological-potential, and the note on each
+# says which letter the cahier actually printed, because this site's schema has one archaeological
+# value and the cahier uses two letters.
+#
+# One further sector is recorded at the end of this file without a cahier code: the Parc-Extension
+# wartime quadrilatère. Read its note before using it — its boundary is not confirmed from a
+# municipal source.
+
+# --- A. Secteur de valeur patrimoniale exceptionnelle
+- id: rue-saint-denis
+  code: 14.E.1
+  name_fr: Rue Saint-Denis
+  value: exceptional
+  streets: [rue Saint-Denis]
+  summary_en: >-
+    The borough's only exceptional sector, and the only one anywhere in this record that is a street
+    rather than an area. Rue Saint-Denis was built out through the 1920s as Villeray urbanised, and
+    although it now carries shops and offices this stretch was never the commercial street — that
+    was rue Saint-Hubert. What it was instead was the address: the cahier calls it a voie de
+    prestige because its buildings are bigger than those on the streets around it, above all the
+    large three-storey plex. They form near-continuous runs, matched in gabarit, in brick cladding,
+    in the unbroken line of the ground floor above the pavement, in their saillies, and in the
+    rhythm, proportion and crowning of their openings. The by-law answers this sector directly:
+    variant A of fiche 2.1 is called « plex de la rue Saint-Denis », the only variant in the whole
+    annexe named after a street.
+  summary_fr: >-
+    « Dans Villeray, la rue Saint-Denis est en quelque sorte une voie de prestige car elle comporte
+    un bâti plus imposant que les rues avoisinantes, avec surtout des grands « plex » de trois
+    étages. Ces bâtiments composent des suites relativement continues avec leurs gabarits semblables,
+    leurs revêtements de brique, le niveau continu de leur rez-de-chaussée par rapport au trottoir,
+    leurs saillies, les rythmes et les proportions de leurs ouvertures, ainsi que leurs
+    couronnements. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 A, printed p. 25"
+
+# --- B. Secteurs de valeur patrimoniale intéressante
+- id: saint-roch
+  code: 14.I.1
+  name_fr: Saint-Roch
+  value: interesting
+  streets: [avenue d'Outremont]
+  summary_en: >-
+    Parc-Extension had no village core to grow from. What it had instead was a property development
+    mounted by promoters competing with the ones building the cité-modèle next door at Ville
+    Mont-Royal. The cahier is precise about the timing, and it matters: lots went on sale in 1912,
+    but real urbanisation came very much later. The oldest houses stand around the église
+    Saint-Roch of 1927, and the building of the écoles Saint-Roch and Barclay created the
+    institutional nucleus.
+  summary_fr: >-
+    « Il n'y a pas de véritable cœur villageois à l'origine du quartier de Parc Extension, mais
+    plutôt un développement immobilier de promoteurs concurrents de ceux qui tentent de développer
+    la cité-modèle (Ville Mont-Royal). Sur le territoire de Parc Extension, les lots sont à vendre
+    dès 1912, mais il faudra attendre beaucoup plus tard pour voir une véritable urbanisation. »
+  note: >-
+    The cahier's « dès 1912 » is the one firm municipal date for the sale of Parc-Extension lots. The
+    Part 10 research memo dates the "Park Avenue Extension" lots to 1907 and attributes them to Park
+    Realty; neither the year nor the company appears in this cahier, which names only the development
+    project — « le projet de développement connu sous le nom de Park Avenue Extension ». Both claims
+    are recorded on the place page; only 1912 is sourced here.
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 B, printed p. 26"
+
+- id: ogilvy
+  code: 14.I.2
+  name_fr: Ogilvy
+  value: interesting
+  streets: [avenue Ogilvy]
+  summary_en: >-
+    A small group of civic, religious and commercial buildings of quality around one intersection —
+    the Art déco police station at 671 avenue Ogilvy, an eclectic church, and two clay-brick
+    commercial buildings with the corner entrance typical of the form.
+  summary_fr: >-
+    « Il s'agit d'un petit ensemble composé d'édifices civiques, religieux et commerciaux de qualité
+    disposés autour d'une intersection. On y retrouve le poste de police d'inspiration Art déco, une
+    église de style éclectique et deux immeubles commerciaux en brique d'argile avec leur entrée en
+    coin typique. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 B, printed p. 26"
+
+- id: villeray
+  code: 14.I.3
+  name_fr: Villeray
+  value: interesting
+  streets: [rue Saint-Gérard, rue Villeray, avenue Henri-Julien, rue Saint-Hubert]
+  summary_en: >-
+    The largest of the interesting sectors and the one that explains the borough's plex. Villeray was
+    born of the electric tramway the Montreal Park and Island Railway ran through in 1893; the
+    village was erected in 1896 and annexed to Montréal in 1905, and annexation set off the
+    urbanisation of everything west of rue Saint-Hubert, with a housing construction boom between
+    1925 and 1931. The cahier calls it a model working-class quarter whose plex « illustraient le
+    triomphe de la modernité », and says this sector now holds the borough's greatest concentration
+    of turn-of-the-century buildings. Traces of the old village survive mainly on rue Saint-Gérard
+    south of rue Villeray. The cahier's own illustration for the sector is avenue Henri-Julien,
+    « bordée de "plex" à deux ou trois étages ».
+  summary_fr: >-
+    « L'annexion du village à la ville de Montréal en 1905 donne le coup d'envoi de l'urbanisation du
+    secteur situé à l'ouest de la rue Saint-Hubert, avec un boom de construction domiciliaire entre
+    1925 et 1931. C'était à l'époque un quartier ouvrier modèle. Les « plex » qu'on y construisait
+    illustraient le triomphe de la modernité. Aujourd'hui, ce secteur regroupe la plus grande
+    concentration de bâtiments du début du siècle dans l'arrondissement. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 B, printed p. 26"
+
+- id: saint-barthelemy
+  code: 14.I.4
+  name_fr: Saint-Barthélémy
+  value: interesting
+  streets: [rue Jean-Talon Est]
+  summary_en: >-
+    A parish ensemble on rue Jean-Talon Est — the modern church of 1957, its attached presbytery, the
+    earlier temporary brick church and the school. The parish was erected in 1928. The cahier's
+    argument for it is social rather than architectural: a grouping of high-quality community
+    buildings of this kind draws the population's attachment and makes the focal point of the
+    quarter.
+  summary_fr: >-
+    « La paroisse Saint-Barthélémy fut érigée en 1928. L'ensemble paroissial composé par l'église
+    moderne datant de 1957, le presbytère attenant, l'église temporaire en brique et l'école est fort
+    intéressant. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 B, printed p. 27"
+
+- id: rousselot-tillemont
+  code: 14.I.5
+  name_fr: Rousselot – Tillemont
+  value: interesting
+  streets: [rue Rousselot, rue de Tillemont]
+  summary_en: >-
+    Built in 1951 on Wartime Housing Limited models. The cahier gives the mechanism plainly: the
+    model was developed during the Second World War to answer the housing crisis of the day, and was
+    then taken up by developers chasing buyers who wanted a detached house at an affordable price.
+    Here the houses are one and a half storeys, faced in masonry, with a porch at the centre of the
+    principal façade — the borough's clearest built statement of by-law fiche 1.5, maison
+    d'après-guerre.
+  summary_fr: >-
+    « Ces ensembles ont été construits en 1951 sur le modèle des maisons de la Wartime Housing
+    Limited. […] Dans cet ensemble, les maisons d'un étage et demi sont recouvertes de maçonnerie et
+    ont un porche au centre de la façade principale. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 B, printed p. 27"
+
+# --- C. Les ensembles urbains d'intérêt
+- id: ensembles-wartime
+  code: 14.U.1
+  name_fr: Ensembles de type Wartime
+  value: urban-ensemble
+  streets: [23e Avenue]
+  summary_en: >-
+    The borough's largest urban ensemble and the one the Part 10 brief flags as its Wartime Housing
+    Limited model sector — groups built through the 1950s by various promoters, sometimes under
+    federal auspices, on Wartime Housing Limited models. What makes them an ensemble rather than a
+    set of houses is stated as a rule: each group holds very strong characteristics in common as
+    regards setbacks, massing, projections and even claddings. The cahier's illustration is
+    23e Avenue, in Saint-Michel. The Évaluation series created the ensembles urbains d'intérêt
+    category expressly to catch this kind of fabric — post-war residential development, the heritage
+    of the former suburbs, whose identification it calls exploratory.
+  summary_fr: >-
+    « Il s'agit d'ensembles construits au cours des années 1950 par différents promoteurs, parfois
+    sous l'égide du gouvernement fédéral, sur le modèle des maisons de la Wartime Housing Limited.
+    […] Chacun de ces ensembles présente donc des caractéristiques communes très fortes à l'égard des
+    reculs, de la volumétrie, des saillies et même des revêtements. »
+  note: >-
+    The category's own definition, from the cahier's § 1.2.2: « Le Plan d'urbanisme reconnaît
+    l'intérêt de certains développements résidentiels d'après-guerre, qui composent une part
+    importante du patrimoine des anciennes banlieues, en créant une catégorie appelée Ensembles
+    urbains d'intérêt. On y retrouve, entre autres, des ensembles homogènes de bungalows, des
+    secteurs de maisons qui adoptent le modèle développé par la Wartime Housing Limited ou des
+    exemples des premières coopératives d'habitation. » The three selection criteria are: a group
+    representative of the new ways of living that appeared during the Second World War; a group
+    representative of the post-war demographic boom and suburban development; and planned groups
+    showing a certain homogeneity of architectural characteristics.
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 C, printed pp. 13 and 28"
+
+- id: terrasses-villeray
+  code: 14.U.2
+  name_fr: Terrasses Villeray
+  value: urban-ensemble
+  streets: [rue Chambord]
+  summary_en: >-
+    Multi-family housing built in 1947 by the SCHL to house veterans, and the only modernist site
+    plan in the borough: the buildings are placed so as to define outdoor zones with distinct
+    functions — play areas, parking, a collective lawn — following the modernist ideas then in
+    fashion. The cahier compares it directly with Benny Farm in Côte-des-Neiges–Notre-Dame-de-Grâce
+    and notes that it is much the less well known of the two.
+  summary_fr: >-
+    « C'est un ensemble d'habitations multifamiliales construites en 1947 par la SCHL pour loger les
+    vétérans. L'implantation des bâtiments délimite des zones extérieures aux fonctions variées
+    (aires de jeu, stationnement, espace collectif gazonné) suivant les idées modernistes en vogue à
+    l'époque. Ce projet, même s'il est moins connu, est comparable à Benny Farm (arrondissement de
+    Côte-des Neiges–Notre-Dame-de-Grâce) sur plusieurs points. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 C, printed p. 28"
+
+- id: premiere-avenue-villeray
+  code: 14.U.3
+  name_fr: 1re Avenue et Villeray
+  value: urban-ensemble
+  streets: [1re Avenue, rue Villeray, rue Molson]
+  summary_en: >-
+    Semi-detached two-storey houses built in 1950 against the housing crisis, holding their brick
+    cladding, their façade organisation, and their galleries and entrance marquises in common. This
+    is the sector that corresponds to by-law fiche 1.6, jumelé d'après-guerre, though the by-law
+    itself locates that type principally in the district of François-Perrault.
+  summary_fr: >-
+    « Voici un ensemble d'habitations jumelées de deux étages construites en 1950 pour répondre à la
+    crise du logement qui sévissait alors. Les habitations possèdent des caractéristiques communes :
+    leur revêtement de brique, l'organisation des façades, les galeries et marquises d'entrée. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.1 C, printed p. 28"
+
+# --- Patrimoine archéologique
+- id: carriere-calcaire-fours-a-chaux
+  code: 14.AP.1
+  name_fr: Carrière de calcaire et fours à chaux
+  value: archaeological-potential
+  streets: [rue Jarry, avenue Papineau]
+  summary_en: >-
+    A secteur d'intérêt archéologique à fort potentiel. The Saint-Michel limestone quarries were
+    worked from the 18th century for building stone and for the lime that made mortar; Pehr Kalm
+    recorded two lime kilns along the côte Saint-Michel on his 1749 journey without giving their
+    exact position. The kilns were built of fire-hardened stone, lined with granite, and could stand
+    close to six metres. The Limoges quarry and kilns north-east of the Saint-Michel village worked
+    from 1879, and the quality of Limoges lime was renowned among Montréal masons. Extraction
+    continued to about 1930, by a technique of breaking the stone with a sledge and carting it out by
+    horse-drawn tombereau; the kilns were moved about 1883 to near the corner of avenue Papineau and
+    rue Jarry. The cahier records that no archaeological research has ever been carried out on the
+    territory of this borough, which is why it holds no recorded archaeological site at all.
+  summary_fr: >-
+    « Les carrières de calcaire de Saint-Michel sont exploitées dès le XVIIIe siècle; elles
+    fournissent de la pierre de construction et la chaux pour la fabrication du mortier. »
+  note: >-
+    Rendered as an archaeological overlay, not as a heritage sector. The cahier's own definition of
+    the class: « Le secteur d'intérêt archéologique à fort potentiel est un territoire dont
+    l'évaluation du contexte biophysique ainsi que des caractéristiques géomorphologiques,
+    archéologiques et historiques démontre une forte possibilité qu'il recèle des vestiges
+    archéologiques. […] Le secteur d'intérêt archéologique "à fort potentiel" est un territoire où
+    des mesures de protection des sites éventuels sont nécessaires. »
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.2 A, printed p. 36"
+
+- id: ancien-village-de-villeray
+  code: 14.A.1
+  name_fr: Ancien village de Villeray
+  value: archaeological-potential
+  streets: [rue Saint-Gérard, rue Villeray]
+  summary_en: >-
+    The site of the village of Villeray, which came into being through the electric tramway the
+    Montreal Park and Island Railway laid in 1893 and was erected as a municipality in 1896. A few
+    traces of the old village remain above ground, mainly on rue Saint-Gérard south of rue Villeray.
+  summary_fr: >-
+    « Le village de Villeray est né grâce au tramway électrique implanté en 1893 par la Montreal Park
+    and Island Railway. En 1896, Villeray devient officiellement municipalité. Quelques traces de
+    l'ancien village sont toujours présentes, principalement sur la rue Saint-Gérard, au sud de la
+    rue Villeray. »
+  note: >-
+    The cahier prints this code with a bare A, not AP — it is a « secteur d'intérêt archéologique »
+    under heading B, one rank below the « secteur d'intérêt archéologique à fort potentiel » of
+    heading A. The distinction is substantive: for the plain-A class the cahier says further study is
+    needed before the probability of finding remains can be estimated, whereas for the AP class it
+    says protective measures are necessary. This site's schema carries a single archaeological value,
+    so both are filed as archaeological-potential and the difference is recorded here. A schema that
+    wants to preserve the distinction would need a second value; that is a change to shared canon and
+    is not made from this place record.
+  source: "Évaluation du patrimoine urbain — VSP (2005), § 3.2.2 B, printed p. 36"
+
+# --- Not a cahier sector. Read the note.
+- id: parc-extension-wartime-quadrilatere
+  code: PE-WH-1
+  name_fr: Quadrilatère Bloomfield – Jarry – Wiseman – de Liège (Parc-Extension)
+  value: urban-ensemble
+  streets: [avenue Bloomfield, rue Jarry, avenue Wiseman, rue de Liège]
+  summary_en: >-
+    An enclave of low gabled wartime houses inside Parc-Extension, in the quadrilateral bounded by
+    avenue Bloomfield, rue Jarry, avenue Wiseman and rue de Liège. It belongs typologically with
+    14.U.1 and with by-law fiche 1.5, and it is the one place in Parc-Extension — a quarter otherwise
+    built of duplex and multiplex — where the detached wartime house appears as a coherent group.
+  note: >-
+    NOT A CAHIER CODE, and the boundary is NOT CONFIRMED from a municipal source. The 2005 Évaluation
+    cahier publishes ten coded sectors for this borough and this is not among them; it codes no
+    Parc-Extension wartime ensemble at all. Its four street names do all occur in the cahier, but only
+    in the list of immeubles de valeur patrimoniale exceptionnelle (7060 and 7290 avenue Bloomfield,
+    7941 avenue Wiseman), never as the limits of an ensemble. The quadrilateral comes from the Part 10
+    research memo. The two Ville de Montréal documents that would settle it — rech_bilan_parc_extension.pdf
+    (« Parc-Extension : 100 ans d'histoire ») and portrait_parc_extension.pdf — both returned HTTP 404
+    on 17 August 2026, and no substitute was found. The code PE-WH-1 is local to this record and is
+    deliberately not in the Évaluation's grammar, so that it can never be mistaken for one. Confirm or
+    delete it when either Parc-Extension document can be retrieved.
+  source: "Part 10 research memo; unconfirmed — see note"

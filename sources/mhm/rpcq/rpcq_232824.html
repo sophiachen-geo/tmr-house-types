@@ -1,0 +1,2739 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial de l'Ancienne-Cité-de-Maisonneuve -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=232824&type=bien"
+              addthis:title="Site patrimonial de l'Ancienne-Cité-de-Maisonneuve"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial de l'Ancienne-Cité-de-Maisonneuve</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Site patrimonial de l'Ancienne-Ville-de-Maisonneuve</li>
+  
+    <li>Site patrimonial de Maisonneuve</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Montréal</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine institutionnel et civil</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Non applicable</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=per&id=232824&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=per&id=232824&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=immo&id=232824&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=immo&id=232824&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(14)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=210645&type=bien">
+            Ancien hôtel de ville de Maisonneuve
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=232894&type=bien">
+            Ancien marché public de Maisonneuve
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=96613&type=bien">
+            Ancienne caserne de pompiers de Maisonneuve
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=232895&type=bien">
+            Avenue Morgan
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Autres biens associés</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92740&type=bien">
+            Château Dufresne
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+            - <span class="spanLien">Composante d'un même ensemble arbitraire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=96613&type=bien">
+            Ancienne caserne de pompiers de Maisonneuve
+            
+          </a>
+          
+          
+            - <span class="spanLien">Composante d'un même ensemble arbitraire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=210645&type=bien">
+            Ancien hôtel de ville de Maisonneuve
+            
+          </a>
+          
+          
+            - <span class="spanLien">Composante d'un même ensemble arbitraire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=211389&type=bien">
+            Bain et gymnase publics de Maisonneuve
+            
+          </a>
+          
+          
+            - <span class="spanLien">Composante d'un même ensemble arbitraire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=immo&id=232824&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=immo&id=232824&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=per&id=232824&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=per&id=232824&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(13)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7463&type=pge">
+            Dufort, Joseph-Cajetan (1868 &ndash; 1936)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Architecte / concepteur(-trice)</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7465&type=pge">
+            Dufresne, Oscar (1875 &ndash; 1936)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Promoteur(-trice) / instigateur(-trice)</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8024&type=pge">
+            Travers, Mary (1894 &ndash; 1941)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+            - <span class="spanLien">Sujet</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=10648&type=pge">
+            Todd, Frederick Gage (1876 &ndash; 1948)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Architecte / concepteur(-trice)</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=per&id=232824&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=2D9BD9573CA86DD6A27E180696F38634?type=per&id=232824&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Ancien marché public Maisonneuve" class="galleryImage"
+           href="document/rpcq_bien_232824_342185.JPG?id=342185" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_232824_342185.JPG?id=342185" 
+           data-grandformat="document/rpcq_bien_232824_342185.JPG?id=342185" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Marie-Ève Bonenfant" 
+           data-description="" 
+           data-annee="" 
+           data-auteur="Marie-Ève Bonenfant" 
+           data-id="342185" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="342185"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Ancien marché public Maisonneuve" src="document/rpcq_bien_232824_342185.JPG?id=342185&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Bain et gymnase publics de Maisonneuve" class="galleryImage"
+           href="document/rpcq_bien_232824_342186.JPG?id=342186" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_232824_342186.JPG?id=342186" 
+           data-grandformat="document/rpcq_bien_232824_342186.JPG?id=342186" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Marie-Ève Bonenfant" 
+           data-description="" 
+           data-annee="" 
+           data-auteur="Marie-Ève Bonenfant" 
+           data-id="342186" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="342186"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Bain et gymnase publics de Maisonneuve" src="document/rpcq_bien_232824_342186.JPG?id=342186&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Ancienne caserne de pompiers de Maisonneuve" class="galleryImage"
+           href="document/rpcq_bien_232824_342187.JPG?id=342187" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_232824_342187.JPG?id=342187" 
+           data-grandformat="document/rpcq_bien_232824_342187.JPG?id=342187" 
+           data-licence="Creative Commons 2.0 (by)" 
+           data-lienlicence="https://creativecommons.org/licenses/by/2.0/deed.fr" 
+           data-detenteur="Denis Tremblay" 
+           data-liendetenteur="" 
+           data-copyright="2017" 
+           data-description="" 
+           data-annee="2017" 
+           data-auteur="" 
+           data-id="342187" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="342187"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="false">
+           <img alt="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Ancienne caserne de pompiers de Maisonneuve" src="document/rpcq_bien_232824_342187.JPG?id=342187&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Ancien hôtel de ville de Maisonneuve" class="galleryImage"
+           href="document/rpcq_bien_232824_342188.JPG?id=342188" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_232824_342188.JPG?id=342188" 
+           data-grandformat="document/rpcq_bien_232824_342188.JPG?id=342188" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Marie-Ève Bonenfant" 
+           data-description="" 
+           data-annee="" 
+           data-auteur="Marie-Ève Bonenfant" 
+           data-id="342188" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="342188"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Ancienne-Cité-de-Maisonneuve. Ancien hôtel de ville de Maisonneuve" src="document/rpcq_bien_232824_342188.JPG?id=342188&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 45.55369500, -73.54017555];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de l'Ancienne-Cité-de-Maisonneuve est un ensemble de bâtiments, de sculptures-fontaines et d'aménagements urbains réalisés de 1910 à 1939. Il comprend quatre édifices publics principalement inspirés du style beaux-arts et parés de pierre, soit l'ancien hôtel de ville, l'ancien marché public, le bain et le gymnase publics ainsi que l'ancienne caserne de pompiers. L'ensemble inclut l'avenue Morgan, orientée nord-sud et dotée d'un terre-plein au centre, le parc Morgan terminant l'avenue au sud et comprenant un kiosque à musique et des vespasiennes, de même que deux sculptures-fontaines en bronze d'Alfred Laliberté intitulées « La Fermière » et « Les Petits baigneurs ». Les différentes parties du site se trouvent à proximité les unes des autres, entre la rue Ontario Est, la rue Notre-Dame Est, le boulevard Pie-IX et l'avenue Morgan. Le site fait partie de l'arrondissement municipal de Mercier-Hochelaga-Maisonneuve de la Ville de Montréal.<br/><br/>Ce bien est classé site patrimonial. La protection s'applique à l'extérieur des bâtiments, aux sculptures-fontaines, aux aménagements urbains et aux terrains.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Classement</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Ministre de la Culture et des Communications
+          
+        
+      </td>
+      <td>
+        2022-03-03
+        
+          <br><span >Prise d'effet</span>&nbsp;: 2021-03-30
+        
+      </td>
+    </tr>
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Catégories de conservation</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                    <li>7 - Terrain exceptionnel</li>
+                
+                    <li>12 - Potentiel archéologique significatif</li>
+                
+                    <li>1 - Extérieur exceptionnel</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+     
+        
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Statuts antérieurs</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                  <li>Avis d&#039;intention de classement, 2021-03-29</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de l'Ancienne-Cité-de-Maisonneuve présente un intérêt pour sa valeur historique. La ville est fondée en 1883 par des hommes d'affaires canadiens-français qui désirent y développer une cité industrielle prospère. Cette ville connaît une croissance fulgurante notamment grâce à l'industrie de la chaussure. Elle figure au cinquième rang des villes industrielles canadiennes en 1910. Sous la houlette du maire Alexandre Michaud et de l'échevin Oscar Dufresne, l'ingénieur municipal Marius Dufresne élabore un plan d'aménagement ambitieux qui prévoit la construction d'immeubles monumentaux et l'aménagement de parcs et de boulevards urbains. En 1912, l'hôtel de ville et le boulevard Morgan sont inaugurés. Dans les années suivantes, le marché public, la caserne de pompiers et l'édifice du bain et du gymnase publics sont construits, ce qui fragilise les finances publiques de l'administration municipale. En pleine crise économique liée à la Première Guerre mondiale, la Cité de Maisonneuve est finalement annexée à la Ville de Montréal en 1918. Regroupant les principaux bâtiments et aménagements de la cité de Maisonneuve, le site patrimonial témoigne de l'histoire de cette ancienne ville et des ambitions de prospérité et de prestige de la bourgeoisie industrielle francophone qui l'a imaginée.<br/><br/>Le site patrimonial de l'Ancienne-Cité-de-Maisonneuve présente également un intérêt pour ses valeurs urbanistique et paysagère. Le plan d'aménagement urbain réalisé par Marius Dufresne pour la cité de Maisonneuve est le plus ambitieux réalisé au Québec à cette époque. Il est influencé par le mouvement américain d'embellissement civique nommé City Beautiful, caractérisé notamment par une architecture d'inspiration beaux-arts, de larges boulevards, des perspectives visuelles intéressantes, la présence de parcs et la répartition fonctionnelle de l'espace. Le plan de Dufresne entend aussi remédier aux maux urbains dont souffrent les villes industrielles. L'élément central du plan de Dufresne est l'aménagement du boulevard Morgan, dessiné par l'architecte paysagiste Frederick Gage Todd, qui a comme fonction de relier le marché public et le parc Morgan. Ce dernier est aménagé en 1939 selon les plans de Todd, à l'emplacement de l'ancien domaine Milton Lodge de la famille Morgan. L'avenue et le parc Morgan constituent des témoins importants du plan d'aménagement urbain imaginé par Marius Dufresne pour embellir la cité de Maisonneuve. L'avenue, large et dotée d'un terre-plein, et le parc, avec son terrain en pente et son kiosque à musique, participent en effet à l'image de prestige voulue par les promoteurs de la cité.<br/><br/>Le site patrimonial de l'Ancienne-Cité-de-Maisonneuve présente aussi un intérêt pour ses valeurs architecturale et artistique. L'administration municipale de Maisonneuve souhaitait projeter par ses édifices institutionnels une image de grandeur et de prospérité en employant une architecture monumentale. Les trois principaux bâtiments du site patrimonial, soit l'hôtel de ville, le marché public et l'édifice du bain et du gymnase publics, sont d'influence beaux-arts, un courant dérivé de l'enseignement donné à l'École des beaux-arts de Paris, qui utilise abondamment le vocabulaire de l'architecture classique et qui est fréquemment associé aux projets urbains d'inspiration City Beautiful. Les façades des bâtiments sont ainsi composées de manière symétrique, les élévations sont majoritairement parées de pierres et dévoilent un décor élaboré. La caserne de pompiers présente un vocabulaire plus moderne, caractérisé par un jeu de volumes, des toitures débordantes et une ornementation sobre. Le site comprend aussi deux sculptures-fontaines en bronze réalisées par Alfred Laliberté, l'une des figures marquantes de la sculpture québécoise dans les premières décennies du XXe siècle.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments caractéristiques du site patrimonial de l'Ancienne-Cité-de-Maisonneuve liés à ses valeurs historique, urbanistique, paysagère, architecturale et artistique comprennent, notamment :<br/>- sa situation sur le territoire de l'ancienne cité de Maisonneuve, son implantation organisée autour de l'avenue Morgan comme axe central et la localisation de ses composantes à l'intérieur du quadrilatère formé par la rue Ontario Est, la rue Notre-Dame Est, le boulevard Pie-IX et l'avenue Morgan; <br/>- l'avenue Morgan, dont son axe nord-sud reliant l'ancien marché public au parc Morgan, son terre-plein gazonné au centre et les arbres matures bordant les trottoirs;<br/>- le parc Morgan, dont son plan presque carré, son allée principale prolongeant l'avenue Morgan jusqu'au kiosque central, son réseau de sentiers droits et sinueux, sa végétation faite de surfaces gazonnées plantées d'arbres matures, son kiosque à musique érigé sur un talus, coiffé d'un toit à croupes et logeant des vespasiennes au niveau inférieur, sa fontaine, ses espaces dallés dotés de bancs, ses espaces gazonnés comprenant des tables ainsi que ses aires de jeux pour enfants;<br/>- l'ancien hôtel de ville de Maisonneuve, dont son terrain ceinturé d'un muret de pierre; son implantation en retrait de la voie publique; son volume, dont son élévation de deux étages, son plan rectangulaire, son toit plat entouré d'une balustrade en pierre et son soubassement dégagé du sol; ses matériaux, dont son parement de pierre calcaire; la composition symétrique de ses façades; le portique de la façade principale coiffé d'un fronton; ses ouvertures, dont le portail central surmonté d'un arc surbaissé et doté d'une porte à double vantail à panneaux sculptés, les fenêtres rectangulaires du rez-de-chaussée à six grands carreaux et coiffées d'un fronton, ainsi que les fenêtres carrées à quatre carreaux de l'étage; les ornements puisés dans le vocabulaire classique, dont les colonnes à chapiteaux ioniques et la corniche à denticules, l'escalier central en pierre flanqué de deux lampadaires;<br/>- l'ancien marché public de Maisonneuve, dont son implantation sur une vaste place publique pavée au nord de l'avenue Morgan; son volume imposant, dont son plan cruciforme, son élévation de trois étages, son toit à croupes couvert de cuivre et percé de lucarnes à pignon, son dôme central surmonté d'un lanternon et percé de fenêtres cintrées, son avant-corps central coiffé d'un fronton comprenant une horloge et doté d'un balcon avec balustrade en pierre, ses quatre tourelles cornières coiffées de toits en pavillon au faîte tronqué, ainsi que la galerie couverte ceinturant le rez-de-chaussée sur les quatre côtés et soutenue par des colonnes; ses matériaux, dont le parement de pierre calcaire; ses ouvertures, dont les trois portails cintrés accessibles par des marches en pierre, les fenêtres cintrées du deuxième étage et les portes et les fenêtres rectangulaires des deux premiers niveaux; ses ornements puisés dans le vocabulaire classique, dont les colonnes, les pilastres, les épis et l'inscription « MARCHE MAISONNEUVE » sur l'avant-corps central;<br/>- la sculpture-fontaine en bronze représentant une maraîchère et trois enfants tenant un veau, un poisson et une volaille, dont son implantation au centre de la place devant l'ancien marché public de Maisonneuve;<br/>- l'édifice du bain et du gymnase publics de Maisonneuve, dont son implantation en bordure de l'avenue Morgan; son volume rectangulaire de deux étages doté d'un soubassement fortement dégagé du sol, d'un toit plat couronné d'une balustrade en pierre, d'un avant-corps central à trois travées et d'un escalier monumental en pierre; ses matériaux, dont la pierre calcaire de la façade principale, le granit clair du soubassement et la brique des façades latérales et arrière; ses ouvertures, dont les trois portails cintrés à imposte et à baies latérales ainsi que les fenêtres et soupiraux de la façade principale dotés de croisillons romains en métal, ainsi que les fenêtres rectangulaires des autres façades, dont celles en blocs de verre du premier niveau; ses ornements puisés dans le vocabulaire classique, dont le fronton de la travée centrale en façade, les colonnes et les pilastres à chapiteaux ioniques, les corniches à denticules, les bandeaux de pierre sur les façades latérales et arrière, la sculpture-fontaine en bronze ornant la travée centrale et représentant deux jeunes garçons s'amusant au bord d'un bassin, les trois sculptures en pierre du couronnement représentant une naïade à gauche, un homme tenant deux chevaux en bride au centre et un gymnaste à droite, de même que les inscriptions « BAIN PUBLIC », « MAISONNEUVE » et « GYMNASE » de l'entablement de la façade;<br/>- l'ancienne caserne de pompiers de Maisonneuve, dont sa situation adjacente au parc Morgan; son volume rectangulaire de deux étages coiffé d'un toit plat et doté d'une tour centrale; ses matériaux, dont le parement en pierre calcaire sur trois façades et celui en brique ocre de la façade est; ses ouvertures, dont les trois portes de garage de la façade principale, les quatre portes en bois surmontées d'une marquise sur la façade ouest avec leur baie à petits carreaux et les fenêtres rectangulaires étroites en blocs de verre; de même que son ornementation épurée, dont la toiture débordante, les corniches, les linteaux, les marquises et les pilastres décorés de motifs géométriques sculptés en relief.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de l'Ancienne-Cité-de-Maisonneuve se trouve sur le territoire de l'ancienne ville du même nom. Cette dernière est créée le 27 décembre 1883 par une proclamation du lieutenant-gouverneur de la province de Québec, sous l'initiative d'un groupe d'industriels et d'hommes d'affaires canadiens-français qui souhaite en faire la « Westmount des francophones ». Alphonse Desjardins (1841-1912), Hector Barsalou (1850-1931) Charles-Théodore Viau (1843-1898), William Bennettt (décédé en 1905), Charles-Henri Létourneux (1828-1906) et Raymond Préfontaine (1850-1906) figurent parmi ces promoteurs. <br/><br/>En 1888, la Ville de Maisonneuve est dotée d'un premier hôtel de ville érigé sur la rue Jeanne-d'Arc. En 1910, elle connaît un essor fulgurant. Elle figure dorénavant au cinquième rang des villes industrielles du Canada. Son industrie est principalement axée sur la fabrication de chaussures. Sous la houlette du maire Alexandre Michaud (1868-1943) et de l'échevin Oscar Dufresne (1875-1936), l'ingénieur municipal Marius Dufresne (1883-1945) élabore un plan d'aménagement ambitieux qui prévoit la construction d'immeubles monumentaux et l'aménagement de parcs et de boulevards urbains. Ce plan entend aussi remédier aux maux urbains dont souffrent les villes industrielles.<br/><br/>En 1912, la ville de Maisonneuve devient la Cité de Maisonneuve. On inaugure la même année le boulevard Morgan ainsi que le nouvel hôtel de ville érigé de 1910 à 1912 d'après les plans de l'architecte Joseph Cajetan Dufort (1868-1936). L'édifice comprend alors, au sous-sol, un laboratoire pour la stérilisation et la pasteurisation du lait. <br/><br/>De 1912 à 1916, le marché public, la caserne de pompiers et l'édifice du bain et du gymnase publics sont construits, ce qui fragilise les finances publiques de l'administration municipale. Un hippodrome, projeté en même temps que les autres édifices publics, n'est finalement jamais construit. Pendant les mêmes années, les frères Dufresne se font ériger une demeure sur la rue Sherbrooke, le château Dufresne, classé en 1976. <br/><br/>En pleine crise économique liée à la Première Guerre mondiale, la Cité de Maisonneuve est finalement annexée à la Ville de Montréal en 1918 en raison d'un fort endettement. Les idéaux des promoteurs de Maisonneuve, cristallisés dans le plan de Dufresne, sont néanmoins perpétués dans les bâtiments institutionnels et les aménagements conçus au cours des années suivantes.  <br/><br/>En 1929, la ville de Montréal acquiert l'ancien domaine Milton Lodge, qui avait été cédé en 1908 à la ville de Maisonneuve par la famille Morgan. Dix ans plus tard, le parc Morgan est aménagé à cet emplacement selon les plans de l'architecte paysagiste Frederick Gage Todd (1876-1948), qui s'inspire du plan d'aménagement de Marius Dufresne. <br/><br/>De 1926 à 1967, l'ancien hôtel de ville loge l'Institut du Radium de Montréal, qui pouvait accueillir une trentaine de patients pour des traitements contre le cancer. La patiente la plus célèbre de l'Institut est Mary Travers (1894-1941), mieux connue sous le nom de La Bolduc, qui y a été traitée pour un cancer et y est décédée. Après 1967, le bâtiment est réaménagé pour accueillir différents services municipaux. En 1981, il est recyclé en Maison de la Culture Maisonneuve et comprend une bibliothèque. L'édifice est maintenant connu comme étant la « Bibliothèque Maisonneuve ».<br/><br/>Après avoir servi de salle d'entraînement à l'école de police jusque dans les années 1960, l'édifice du Bain et du Gymnase a retrouvé sa fonction initiale et sert toujours de piscine publique. L'ancien marché de Maisonneuve, fermé en 1963, abrite depuis 1980 un centre culturel et sportif. L'ancienne caserne de pompiers est pour sa part demeurée en fonction jusqu'en 1961, puis a accueilli un poste de police jusqu'en 1982. Depuis 2015, le bâtiment est un centre d'entraînement pour une équipe de soccer, l'Impact de Montréal.<br/>   <br/>Le site patrimonial de l'Ancienne-Cité-de-Maisonneuve est classé en 2022.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Montréal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Arrondissement municipal</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Mercier - Hochelaga-Maisonneuve
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        45° 33' 13.302"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -73° 32' 24.632"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Désignation cadastrale</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        1 878 052 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        1 878 407 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        1 879 552 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        1 882 557 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        1 882 579 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        1 882 601 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 310 931 Ptie
+      </li>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        2 507 518
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>LINTEAU, Paul-André. <I>Maisonneuve ou Comment des promoteurs fabriquent une ville : 1883-1918</I>. Montréal, Boréal express, 1981. 280 p.</li>
+      
+    
+      <li>PINARD, Guy. <I>Montréal, son histoire, son architecture</I>. Montréal, Éditions le Méridien, 1987. s.p.</li>
+      
+    
+      <li>WOLFE, Jeanne. « Montréal. Des plans d’embellissement ». <I>Continuité</I>.  No 31 (1986), s.p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=645787272" async></script></body>
+</html>

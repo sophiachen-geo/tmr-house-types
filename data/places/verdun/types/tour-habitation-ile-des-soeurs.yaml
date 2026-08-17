@@ -1,0 +1,124 @@
+id: verdun.tour-habitation-ile-des-soeurs
+place: verdun
+phase: p5
+display_order: 5
+name_en: Residential tower, île des Sœurs
+name_fr: La tour d'habitation de l'île des Sœurs
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), sector fiche 21.E.6 and §3.2.2 D, les immeubles de valeur patrimoniale exceptionnelle"
+source_generation: sector characterisation plus the cahier's own list of exceptional buildings
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+canonical: [modern-slab-tower]
+styles: [international-style]
+style_label: International Style
+tenure_plan: slab
+storeys: null
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+window_proportion: null
+principal_cladding: [glass-curtain-wall]
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- 21.E.6
+profile:
+  siting_landscape:
+  - Free-standing on open ground, oriented so that views through to the river are kept open. Building tall
+    is the means, not the end — the plan builds up in order to free ground for parks and community space.
+  - Pedestrian and vehicle circulation separated; the shoreline developed as public space.
+  massing:
+  - Slab blocks. Three of them by Mies van der Rohe, at 100 and 200 rue De Gaspé and 201 rue Corot.
+  articulation:
+  - Not described by the cahier, which treats the sector as an urban-planning object and says so — « Ce sont
+    ces éléments urbains qui caractérisent ce secteur. »
+  openings: []
+  materials: []
+profile_fr:
+  description:
+  - « La planification urbaine de ce secteur de l'île des Sœurs a été élaborée en collaboration avec
+    l'architecte de réputation internationale Ludwig Mies van der Rohe. On y retrouve aussi trois tours
+    d'habitation de l'architecte ainsi que la station d'essence de la pétrolière Esso. Van der Rohe est
+    aussi l'auteur, à Montréal, du complexe Westmount Square et du Centre Saidye Bronfman. » (21.E.6)
+  implantation:
+  - « La planification urbaine de l'île des Sœurs repose sur la construction en hauteur dégageant de plus
+    grands espaces au sol (parcs, espaces communautaires, etc.), l'aménagement public de la berge, une
+    séparation entre la circulation piétonne et la circulation automobile, et une orientation des bâtiments
+    permettant les percées visuelles sur le fleuve. Ce sont ces éléments urbains qui caractérisent ce secteur. »
+    (21.E.6)
+  contexte:
+  - « En 1956, l'île des Sœurs jusque là exclusivement agricole est définitivement annexée à la ville de
+    Verdun. Les Sœurs de la Congrégation de Notre-Dame quittent les lieux. » (ch. 2, Historique)
+  - « Les années 1960 transformeront l'île, jusqu'alors vouée à l'agriculture, en un vaste projet de
+    développement urbain planifié. Sous l'influence de l'architecte Mies van de Rohe et d'urbanistes, une
+    nouvelle ville sera planifiée selon des règles strictes dont l'influence est encore ressentie et dont
+    l'esprit supporte les orientations actuelles. » (§3.1, Mise en situation — the source's own spelling
+    « van de Rohe » is reproduced here and corrected everywhere else on this page)
+profile_note: >-
+  The thinnest record on this page, and deliberately so. The Évaluation characterises 21.E.6 as an
+  urban-planning proposition and describes no building: it gives no storey count, no structural or cladding
+  description, no dates and no dimensions for the three towers. Storeys, window proportion, openings and
+  materials, garage and setbacks are therefore null or empty. `principal_cladding` is the one field entered
+  from the photographs rather than from the text — continuous glazed bands with spandrel panels, visible in
+  both — and should be read as observation, not source. What the cahier does
+  give with certainty is identity and address, from its own list of immeubles de valeur patrimoniale
+  exceptionnelle — « 201, rue Corot — Habitations multiples – Mies van der Rohe » and « 100 et 200, rue De
+  Gaspé — Habitations multiples – Mies van der Rohe » — and those are recorded as example_addresses. The
+  filling station at 201 rue Berlioz is in related_buildings, not here, because it is not housing.
+example_addresses:
+- address: 201, rue Corot
+  municipality: null
+  note: "Cahier §3.2.2 D, LES HABITATIONS: « Habitations multiples – Mies van der Rohe »"
+- address: 100 et 200, rue De Gaspé
+  municipality: null
+  note: "Cahier §3.2.2 D, LES HABITATIONS: « Habitations multiples – Mies van der Rohe ». Printed as one entry covering both addresses; the pair is kept as the source has it."
+related_buildings:
+- name: "Station-service Esso, 201 rue Berlioz — Mies van der Rohe. Listed by the cahier under LES ÉDIFICES COMMERCIAUX among the immeubles de valeur patrimoniale exceptionnelle, and named in the 21.E.6 fiche."
+  url: https://commons.wikimedia.org/wiki/Category:Station-service_de_l%27%C3%8Ele-des-S%C5%93urs
+- name: "Westmount Square and the Centre Saidye Bronfman — the cahier names both as Mies van der Rohe's other Montréal work"
+  url: null
+photos:
+- file: assets/places/verdun/201-rue-corot-mies-commons.jpg
+  kind: single
+  credit: >-
+    201 rue Corot, île des Sœurs, Verdun — one of the three residential slabs the 2005 evaluation attributes
+    to Mies van der Rohe. Photograph by Commons user Niroyb, CC BY-SA 3.0. Licence:
+    https://creativecommons.org/licenses/by-sa/3.0. File:
+    https://commons.wikimedia.org/wiki/File:201Corot.jpg
+  source_url: https://commons.wikimedia.org/wiki/File:201Corot.jpg
+  licence: CC BY-SA 3.0
+  match_confidence: address
+  note: The address in the file name and description matches the cahier's own list entry exactly.
+- file: assets/places/verdun/100-rue-de-gaspe-mies-commons.jpg
+  kind: single
+  credit: >-
+    100 rue De Gaspé, île des Sœurs, Verdun, with 200 rue De Gaspé at the left edge — the pair the cahier
+    lists as one entry. Photograph by Commons user Jeangagnon, CC BY-SA 4.0. Licence:
+    https://creativecommons.org/licenses/by-sa/4.0. File:
+    https://commons.wikimedia.org/wiki/File:100_rue_De_Gaspe_-_01.jpg
+  source_url: https://commons.wikimedia.org/wiki/File:100_rue_De_Gaspe_-_01.jpg
+  licence: CC BY-SA 4.0
+  match_confidence: address
+  note: >-
+    Screened by trees; kept because it is the only freely licensed view of this address that was verified,
+    and because the ground it stands in — open, planted, shared — is what the fiche says the sector is
+    about.
+blurb_en: >-
+  Three residential slabs on an island that was farmland until 1956, set on open ground so the river stays
+  visible between them, in a plan Mies van der Rohe worked on. The evaluation ranks the sector exceptional
+  for the plan rather than for the buildings, and describes no building at all.
+origin_en: >-
+  Île des Sœurs belonged to the Congrégation de Notre-Dame from 1769 and was farmed until the Sainte-Famille
+  farm was abandoned in 1957; the island was annexed to the ville de Verdun in 1956 and the sisters left.
+  What replaced the farm is the only planned town on this site laid out on modernist principles rather than
+  garden-city ones — building tall in order to free the ground, the shoreline made public, pedestrians
+  separated from cars, and the blocks turned so the river shows between them. The cahier is unusually
+  candid that this, and not the architecture, is what it is protecting: « Ce sont ces éléments urbains qui
+  caractérisent ce secteur. » It also records that the plan's authority outlasted its authors — « une
+  nouvelle ville sera planifiée selon des règles strictes dont l'influence est encore ressentie et dont
+  l'esprit supporte les orientations actuelles » — which is why the Pointe-Nord de l'Île-des-Sœurs is one of
+  the three territories Verdun's PIIA singles out for review of new construction. Set this beside the
+  Westmount modern tower and the Outremont apartment blocks: same decade, same idiom, three different
+  reasons for being there.
+phase_confidence: verified

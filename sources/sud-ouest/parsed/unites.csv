@@ -1,0 +1,66 @@
+unite,aire,aire_name_fr,name_fr,name_variants_fr,types_principaux,types_secondaires,n_types,named_in_synthese
+1.1,1,La Petite-Bourgogne,Sainte-Cunégonde,,1.5 3.2 3.3,2.1 2.4 4,6,oui
+1.2,1,La Petite-Bourgogne,Rue Notre-Dame Ouest 2,,4,3.2,2,oui
+1.3,1,La Petite-Bourgogne,Rue Coursol Ouest,,2.4 2.5,2.7 3.2,4,oui
+1.4,1,La Petite-Bourgogne,Rue Coursol Est,,1.2,2.4 3.2 4,4,oui
+1.5,1,La Petite-Bourgogne,Marché Atwater,,,3.2 3.3,2,oui
+2.1,2,Pointe-Saint-Charles,Rue du Centre,,4,,1,oui
+2.2,2,Pointe-Saint-Charles,Ferme Saint-Gabriel Nord,,,1.5 2.1 2.4 2.5 2.6 3.2,6,oui
+2.3,2,Pointe-Saint-Charles,Ferme Saint-Gabriel Sud,,2.1 2.4 2.5,1.1 1.5 2.6 2.7,7,oui
+2.4,2,Pointe-Saint-Charles,Ferme Knox Ouest,,2.1 2.5,2.7,3,oui
+2.5,2,Pointe-Saint-Charles,Ferme Knox Est,,2.1,1.2 2.4 2.5 2.6 3.2,6,oui
+2.6,2,Pointe-Saint-Charles,Parc Marguerite-Bourgeoys,Parc Marguertie-Bourgeoys,1.2 2.4 2.6,,3,oui
+2.7,2,Pointe-Saint-Charles,Rue Hall,,2.6 2.7,,2,oui
+2.8,2,Pointe-Saint-Charles,Rue de Liverpool,,2.1,2.2 3.2,3,oui
+2.9,2,Pointe-Saint-Charles,Rue Wellington,,2.1 2.4 2.5 4,,4,oui
+2.10,2,Pointe-Saint-Charles,Rue de la Congrégation,,2.1,1.1 2.4,3,oui
+2.11,2,Pointe-Saint-Charles,Rue Bourgeoys,,2.1,1.2 2.5 2.6,4,oui
+2.12,2,Pointe-Saint-Charles,Parc Le Ber,,3.2,3.3,2,oui
+2.13,2,Pointe-Saint-Charles,,,,,0,non
+2.14,2,Pointe-Saint-Charles,Rue Saint-Patrick Est,,,3.3,1,oui
+3.1,3,Côte-Saint-Paul,Avenue de l’Église Est,,4,1.2 2.1 2.2 2.6 2.7 3.1,7,oui
+3.2,3,Côte-Saint-Paul,Avenue de l’Église Ouest,Rue De Roberval,2.2 2.5 2.6,,3,oui
+3.3,3,Côte-Saint-Paul,Avenue de l’Église Ouest,,4,,1,oui
+3.4,3,Côte-Saint-Paul,Parc Saint-Paul,,2.2,1.1 1.3 1.4 2.3 2.6 2.7 3.1,8,oui
+3.5,3,Côte-Saint-Paul,Saint-Paul Ouest,,2.2,1.1 1.3 1.4 2.1 2.3 2.6 3.1 4,9,oui
+3.6,3,Côte-Saint-Paul,Saint-Paul Est,,,2.3 3.1,2,oui
+3.7,3,Côte-Saint-Paul,Rue Holy Cross,,1.4,1.3 2.2,3,oui
+3.8,3,Côte-Saint-Paul,Côte des Argoulets,,2.2 3.1,1.3 1.4,4,oui
+3.9,3,Côte-Saint-Paul,Boulevard De La Vérendrye,,,3.3,1,oui
+3.10,3,Côte-Saint-Paul,Terre De Sève Sud,,1.4,,1,oui
+3.11,3,Côte-Saint-Paul,Terre De Sève Nord,Terre De Sève Sud; Terre de Sève Nord,2.2,1.3 1.4 2.3 2.7 3.1,6,oui
+3.12,3,Côte-Saint-Paul,Terre Hudon,,2.2 3.1,1.3 1.4 2.6 2.7,6,oui
+3.13,3,Côte-Saint-Paul,Ville Émard Sud,,2.2 3.1,1.1 1.3 1.4 2.3,6,oui
+3.14,3,Côte-Saint-Paul,Avenue Newman,,1.5,2.3,2,oui
+3.15,3,Côte-Saint-Paul,Boulevard Monk,,4,2.1 2.5,3,oui
+3.16,3,Côte-Saint-Paul,Ville Émard Nord,Ville Émard Sud,2.2,1.3 1.4 2.1 2.6 3.1,6,oui
+3.17,3,Côte-Saint-Paul,Parc Angrignon,,3.3,3.2,2,oui
+3.18,3,Côte-Saint-Paul,,,,,0,non
+3.19,3,Côte-Saint-Paul,William-Parkin,,,1.1 2.2,2,oui
+3.20,3,Côte-Saint-Paul,Dominion Textile,,,3.3 4,2,oui
+4.1,4,Saint-Henri,Village Saint-Augustin,,2.1 2.5 3.2,1.1 2.4 2.7,6,oui
+4.2,4,Saint-Henri,Rue Notre-Dame Ouest 3,Rue Notre-Dame Ouest 2,4,2.1 2.5 3.2,4,oui
+4.3,4,Saint-Henri,Lionel-Groulx,,,1.5 2.1 2.2 2.5 2.7 3.2 3.3,7,oui
+4.4,4,Saint-Henri,Avenue Greene,,2.4 2.5 2.6 2.7,4,5,oui
+4.5,4,Saint-Henri,Imperial Tobacco,,,2.6,1,oui
+4.6,4,Saint-Henri,Parc Saint-Henri,,1.2 2.4 2.6,1.1 2.1 4,6,oui
+4.7,4,Saint-Henri,Place Saint-Henri,,2.1 2.5 4,1.1 2.6 2.7 3.2,7,oui
+4.8,4,Saint-Henri,Ferme Brodie,,2.6 2.7,2.2 3.2,4,oui
+4.9,4,Saint-Henri,Village Sainte-Marguerite,,2.1 2.7,1.1 2.2 2.5 3.2 4,7,oui
+4.10,4,Saint-Henri,Square Sir-George-Étienne-Cartier,,2.6 2.7,1.2 2.2,4,oui
+4.11,4,Saint-Henri,Paroisse Saint-Zotique Est,Paroisse Saint-Zotique Ouest,2.1 2.5 2.6 2.7,2.2 3.2 4,7,oui
+4.12,4,Saint-Henri,Sainte-Élisabeth-du-Portugal,,3.2,3.3,2,oui
+4.13,4,Saint-Henri,Rue Cazelais,,2.6 2.7,2.2 2.5 4,5,oui
+4.14,4,Saint-Henri,Village Turcot,,1.1 2.1,2.2 2.5,4,oui
+4.15,4,Saint-Henri,Paroisse Saint-Zotique Ouest,Paroisse Saint-Zotique Est,2.5 2.6,2.1 2.7 4,5,oui
+4.16,4,Saint-Henri,Chemin de la Côte-Saint-Paul,,2.1 2.2 2.5 2.6,2.7 3.2 3.3 4,8,oui
+4.17,4,Saint-Henri,Rue Saint-Ambroise,,3.3,,1,oui
+5.1,5,Griffintown,Fief Nazareth,,,3.3,1,oui
+5.2,5,Griffintown,Rue Ottawa,,,2.4,1,oui
+5.3,5,Griffintown,Parc Griffintown St. Ann,,,2.4,1,oui
+5.4,5,Griffintown,,,,,0,non
+5.5,5,Griffintown,,,,,0,non
+5.6,5,Griffintown,,,,,0,non
+5.7,5,Griffintown,Rue Notre-Dame Ouest 1,Rue Notre-Dame Ouest (a et b),4,1.5 3.2,3,oui
+5.8,5,Griffintown,,,,,0,non
+5.9,5,Griffintown,Rue Barré,,2.5 2.7,2.4 3.3,4,oui

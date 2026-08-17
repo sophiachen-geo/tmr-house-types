@@ -1,0 +1,87 @@
+id: rosemont.triplex-escalier-exterieur
+place: rosemont
+phase: p2
+name_en: Triplex with exterior stair
+name_fr: Triplex de brique avec escalier extérieur
+display_order: 2
+source_ref: >-
+  Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie (2005), sectors 26.E.3, 26.E.5,
+  26.I.1, 26.I.2, 26.I.3, 26.I.5, 26.I.6
+source_url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+canonical: [triplex-exterior-stair, plex-family]
+styles: [faubourg-vernacular, victorian-eclectic]
+tenure_plan: triplex
+storeys: "3"
+window_proportion: vertical
+principal_cladding: [clay-brick-red, clay-brick-beige-brown, grey-limestone]
+setback_front_m: null
+sectors: ["26.E.3", "26.E.5", "26.I.1", "26.I.2", "26.I.3", "26.I.5", "26.I.6"]
+variants:
+  - "The rue Saint-Denis grade (26.E.3): the same form built more expensively — grey stone used more often on the façade, more refined ornamental detail, stained glass — in an almost continuous street front."
+  - "The série grade (26.I.3, 26.I.5): built in series by one hand, homogeneous in massing and siting, brick with artificial-stone inserts; the more luxurious have stained glass and polychrome brick, and the cahier singles out the polychromy of 5e Avenue."
+profile:
+  siting_landscape:
+    - Contiguous, built close to the property line, in rows that make a continuous street front.
+    - Streets at right angles with rear lanes giving access to the back of the properties — the Rosemont Land subdivision of the Crawford farm, whose original grid the cahier says is essentially unaltered.
+    - Height along a street varies from one to three storeys, but three-storey plex predominate in the sectors above.
+  massing:
+    - Three storeys, three stacked dwellings, flat roof.
+    - Exterior stair climbing the front to the upper doors; balconies at the upper levels.
+  articulation:
+    - Roofline finished by a decorative parapet or by brickwork; couronnements and cornices.
+    - Artificial-stone inserts used to dress the street façade.
+    - Decorative elements often mass-produced and repeated down a row.
+    - The richest examples carry stained glass and polychrome brick.
+  openings:
+    - Regular arrangement of openings across the façade.
+    - Tall vertical windows; stained glass in the more expensive houses.
+  materials:
+    - Clay brick as the preferred exterior facing; stone to a lesser extent.
+    - Grey stone appears more often on the rue Saint-Denis front than on the neighbouring streets.
+profile_fr:
+  description:
+    - "26.I.1 : « Les caractéristiques de ces « plex » typiques des vieux quartiers montréalais sont l'utilisation de la brique comme parement extérieur, les escaliers extérieurs, les balcons, les couronnements et corniches, ainsi que divers éléments décoratifs souvent faits en série. »"
+    - "26.E.3 : « Les triplex de brique prédominent toutefois dans ce paysage urbain dont la densité est très serrée. […] les éléments caractéristiques de ces « plex » (escaliers extérieurs, balcons, couronnements, jeux de brique, vitraux, etc.). »"
+    - "26.I.3 : « les parements de façade en brique, les escaliers extérieurs, les balcons, la disposition régulière des ouvertures, les couronnements décoratifs et les insertions de pierre artificielle. Les demeures plus luxueuses comportent des vitraux et autres éléments décoratifs, par exemple de la brique polychrome. »"
+    - "26.I.5 : « le bâti est contigu (duplex et triplex construits à proximité de la limite de la propriété). On retrouve les caractéristiques typiques de l'époque : escaliers extérieurs, balcons, ligne du toit ornementée d'un parapet décoratif ou de jeux de brique. »"
+profile_note: >-
+  The cahier is a territorial evaluation, not a typology annexe, so it describes this type only inside
+  its sector fiches and never in a table of its own. The five columns above are assembled from the
+  seven sector fiches that describe it, each quoted in profile_fr, and nothing has been added from the
+  neighbouring boroughs' fiches. Dwelling counts, lot widths and setbacks are not stated for the type
+  anywhere in the cahier and are left null. Codes are document-specific: Le Sud-Ouest's typo-
+  morphological study calls the same form type 2.6 and Le Plateau-Mont-Royal's fiches call it 3.2;
+  Rosemont's cahier gives it no code at all.
+blurb_en: >-
+  Three flats stacked behind one brick front, the upper two reached by a stair climbing the outside,
+  balconies at each level, a parapet or a run of brickwork finishing the roofline. It is what
+  Rosemont–La Petite-Patrie is mostly made of, and the cahier treats a street of it — rue Saint-Denis —
+  as a heritage sector of exceptional value in its own right.
+origin_en: >-
+  La Petite-Patrie's fabric took shape between 1885 and 1930 with the arrival of the tramway; the
+  Rosemont side followed the Angus Shops from 1904, on land the Rosemont Land Improvement Company had
+  cut into regular blocks with lanes. During the 1920s Rosemont was among the most active Montréal
+  quarters for house-building. The exterior stair itself is not explained in this cahier; the
+  mechanism — the mandatory front setback pushing the stair to the upper dwellings outside the
+  building — is set out in the Sud-Ouest synthèse and is treated once, elsewhere on this site, rather
+  than repeated in every borough.
+photos:
+  - file: assets/places/rosemont/rue-saint-denis-triplex-commons.jpg
+    credit: >-
+      Gene.arboit, "Saint-Denis Street, Rosemont quarter in Montreal", 4 September 2005, CC BY-SA 3.0 —
+      https://commons.wikimedia.org/wiki/File:Saint-Denis_Street,_Rosemont_quarter_in_Montreal_2005-09-04.jpg
+      (licence http://creativecommons.org/licenses/by-sa/3.0/). Licence read on the file page before
+      download.
+    kind: single
+    match_confidence: visual
+    match_note: >-
+      The photographer's own caption places it on rue Saint-Denis in the Rosemont quarter, which is
+      sector 26.E.3; the match to that sector is therefore by street name, and the match to the type
+      is visual.
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null

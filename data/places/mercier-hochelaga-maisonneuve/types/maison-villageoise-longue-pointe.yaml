@@ -1,0 +1,76 @@
+id: mercier-hochelaga-maisonneuve.maison-villageoise-longue-pointe
+place: mercier-hochelaga-maisonneuve
+phase: p1
+name_en: Village house of Longue-Pointe
+name_fr: La maison villageoise de Longue-Pointe (maison en carré de bois)
+source_ref: "Évaluation du patrimoine urbain (2005), sector 27.I.3 Longue-Pointe and ch. 2"
+canonical: [bourg-vernacular-house-small]
+styles: [neoclassical-quebec]
+tenure_plan: single-family
+storeys: "1.5"
+window_proportion: vertical
+principal_cladding: [wood-clapboard, wood-shingle, clay-brick]
+roof: {form: null, pitch_deg: null}
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+    - Along the old chemin du Roy — the present rue Notre-Dame Est — and the village streets running off it, around the parish church of Saint-François-d'Assise on the river bank; the church itself has been demolished.
+    - The village core was « largement amputé » when the Louis-Hippolyte-Lafontaine bridge-tunnel was built in the early 1960s, so what survives is a fragment, not a continuous frontage.
+  massing:
+    - Small village gabarit, one to one-and-a-half occupied levels.
+  articulation: []
+  openings: []
+  materials:
+    - Squared-timber walls — « maisons en carré de bois » — most often sheathed in wood boards or wood shingles, and sometimes in clay brick.
+profile_note: >-
+  The entire documentary basis for this record is one sentence of sector fiche 27.I.3: « il présente
+  encore aujourd'hui un bâti villageois typique : maisons en carré de bois, souvent recouvertes de
+  planches ou de bardeaux de bois et parfois de brique d'argile. » That sentence gives wall construction
+  and cladding and nothing else, so roof form, storey count beyond the small village gabarit,
+  articulation and openings are left null or empty rather than inferred from the photograph. Sector
+  27.I.3 is not encoded in this page's sectors.yaml, which carries only the five E sectors; the I, U, N
+  and AP sectors of arrondissement 27 are Part 10b work, and the sector reference is therefore made in
+  this note instead of in the `sectors` field. One building in the photographed street carries a raised
+  and ornamented parapet with a 1898 date panel — a boomtown crown, and this borough's only observed
+  instance — but the cahier does not name the form, so it is recorded here and not encoded as a type.
+example_addresses:
+  - {address: "7765, rue de Lavaltrie", note: "Ancienne école Boucher-de-la-Bruère, 1913, plans by Zotique Trudel — not a house, but the surviving anchor the fiche names for the village core."}
+  - {address: "8976, rue Notre-Dame Est", note: "Maison Brouillet dit Bernard — an individually listed house of exceptional value on the old chemin du Roy."}
+photos:
+  - file: assets/places/mercier-hochelaga-maisonneuve/longue-pointe-rue-lepailleur.jpg
+    credit: >-
+      "Lepailleur street in Mercier neighbourhood, Montreal, Quebec, Canada" by Félix Mathieu-Bégin
+      (User:Webfil), 6 January 2014, Wikimedia Commons, CC BY-SA 4.0 — licence read on the Commons API
+      before download. File: https://commons.wikimedia.org/wiki/File:Mercier,_rue_Lepailleur.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:Mercier,_rue_Lepailleur.jpg
+    match_confidence: visual
+    match_note: >-
+      Same street as the cahier's own illustration for this sector, which is captioned « 27.I.3 La rue
+      Lepailleur dans Longue-Pointe », but a different and later frame, so the match is visual rather
+      than documentary. The frame shows the mixed village fabric the fiche describes — small two-storey
+      volumes clad in painted wood boards and in red brick, standing close to the sidewalk — together
+      with the 1898 date panel on the raised parapet of the corner building at the right.
+blurb_en: >-
+  What was on the ground before any of the rest of it. Small squared-timber houses sheathed in board,
+  shingle or brick, strung along the old chemin du Roy around a parish founded in 1722 — the oldest
+  settlement layer in the borough, and the one most thoroughly cut apart, first by the tramway that
+  reached the end of the island in 1897 and then by the bridge-tunnel approaches of the early 1960s.
+origin_en: >-
+  Longue-Pointe is the borough's French-regime layer. A wooden redoubt went up on the shore about 1670
+  in the chain of forts protecting Ville-Marie; a chapel and presbytery followed at the turn of the
+  eighteenth century; Saint-François-d'Assise de la Longue Pointe became, in 1722, one of the few
+  parishes erected on the island under the French regime, and the territory became a municipality in
+  1845. In 1825 the parish counted 67 houses, holding « de nombreux artisans, des aubergistes, des
+  rentiers, des journaliers mais surtout des agriculteurs ». Its urbanisation came late precisely because
+  it was far from Montréal's economy, and the cahier says so: development « se fera plus tardivement que
+  celui des municipalités voisines (Hochelaga et Maisonneuve) puisqu'elle est située assez loin du centre
+  des activités économiques de Montréal ». Longue-Pointe, Beaurivage and Tétraultville were all annexed
+  to Montréal in 1910.

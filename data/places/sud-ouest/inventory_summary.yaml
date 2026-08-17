@@ -1,0 +1,49 @@
+title_en: The 65 unités de paysage
+source: Patri-Arch, « Étude typomorphologique de l’arrondissement du Sud-Ouest », rapport de synthèse,
+  2005, mise à jour octobre 2013, for the Direction de l'aménagement urbain et des services aux
+  entreprises of the arrondissement du Sud-Ouest. Assembled by sources/sud-ouest/parse.py from the
+  lieux d'occurrence lists printed on each of the nineteen type fiches. © Patri-Arch; text quoted
+  under fair dealing, no image reproduced.
+note_en: >-
+  Sixty-five rows because sixty-five is what the borough has — « L’arrondissement compte 5 aires de
+  paysage divisées en 65 unités de paysage distinctes », says the PIIA by-law's Encadré 1, and the
+  study's own numbering agrees: it runs 1.1–1.5, 2.1–2.14, 3.1–3.20, 4.1–4.17 and 5.1–5.9, which
+  sums to exactly 65. The synthesis report names a unit only where some architectural type occurs in
+  it, so 59 of the 65 arrive with a name and 6 (2.13, 3.18, 5.4, 5.5, 5.6, 5.8) arrive as numbers
+  only; those six are carried as blank names rather than dropped. Each unit's own fiche — with its
+  limits, its parcel dimensions, its blocks and its immeubles d'intérêt patrimonial — is a separate
+  document obtainable from the borough office, and is not encoded here. The types columns give the
+  study's own division into principal and secondary types, which is the division the PIIA's insertion
+  rule turns on. Eight units carry a second spelling of their name because the study's own
+  cross-reference lists disagree with each other; both are kept in the name_variants_fr column,
+  and 3.2 is the sharpest case, appearing as both « Avenue de l’Église Ouest » and « Rue De
+  Roberval ».
+rows: 65
+columns:
+- 'No'
+- Aire de paysage
+- Unités
+- Named in the synthèse
+- With a principal type
+- Plex family principal
+categories:
+- code: '1'
+  label_fr: La Petite-Bourgogne
+  count: 5
+  extra: [5, 4, 1]
+- code: '2'
+  label_fr: Pointe-Saint-Charles
+  count: 14
+  extra: [13, 11, 9]
+- code: '3'
+  label_fr: Côte-Saint-Paul
+  count: 20
+  extra: [19, 15, 8]
+- code: '4'
+  label_fr: Saint-Henri
+  count: 17
+  extra: [17, 15, 12]
+- code: '5'
+  label_fr: Griffintown
+  count: 9
+  extra: [5, 2, 1]

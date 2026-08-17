@@ -1,0 +1,65 @@
+id: mercier-hochelaga-maisonneuve.maison-de-veterans
+place: mercier-hochelaga-maisonneuve
+phase: p5
+name_en: Veterans' house, to the Wartime Housing Limited model
+name_fr: La maison de vétérans
+source_ref: "Évaluation du patrimoine urbain (2005), sectors 27.U.1 and 27.U.4; Guide patrimonial de MHM, « Maison des vétérans » types I–III"
+canonical: [veterans-house-nha]
+styles: [wartime-housing, minimal-traditional]
+tenure_plan: single-family
+storeys: "1.5"
+window_proportion: vertical
+principal_cladding: [wood-clapboard, clay-brick]
+roof: {form: gabled, pitch_deg: null}
+roofing: asphalt-shingle
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+    - Grouped as whole developments rather than as single houses, laid out to one plan; the borough's ensembles are north of rue de Rouen and along rue Curatteau.
+  massing:
+    - Detached houses of closely similar volume across the whole ensemble — « ces maisons présentent une volumétrie semblable, apportant une harmonie certaine à l'ensemble ».
+    - Two-slope gabled roof.
+    - The borough's Guide distinguishes three variants and notes that type II carries an entrance vestibule (« tambour d'entrée ») and therefore has no columns.
+  articulation:
+    - Guard rails 36 inches high; simple painted metal fascia; painted or natural wooden slat soffits; painted untreated wooden columns where there are any.
+    - Wooden surround mouldings, painted and untreated, around the cladding.
+  openings:
+    - Double-hung windows in a 1/2–1/2 ratio, glazed in uniform clear or frosted glass without patterns, muntins permitted.
+    - Door carrying one glazed panel, optionally divided into nine lights, the glass clear and plain, 91.4 to 124.5 cm high.
+  materials:
+    - Light horizontal wood clapboard in a pale, low-contrast tone harmonised with its surroundings; brick with a two-slope roof in the rue Curatteau ensemble.
+    - Original roof covering is asphalt shingle — stated as such by the Guide for both the maisons des vétérans and the Village Champlain houses.
+profile_note: >-
+  Massing and context come from the Évaluation's sector fiches 27.U.1 and 27.U.4; everything under
+  articulation, openings and materials comes from the borough's Guide patrimonial, whose prescriptive
+  tables carry a « Maison des vétérans » column beside the secteur significatif and immeuble significatif
+  columns, with three lettered types. The Guide is a conservation manual, so those lines describe what
+  may be rebuilt today, which is the borough's reading of the original. Sectors 27.U.1 and 27.U.4 are not
+  encoded in this page's sectors.yaml, which carries only the five E sectors of arrondissement 27; the
+  U-sector enumeration is recorded in the header of that file and is Part 10b work. Note the date: the
+  cahier puts these ensembles « autour de 1950 » and the rue Curatteau one in 1953, so they are post-war
+  builders' adoptions of the wartime model rather than Wartime Housing Limited's own construction —
+  « ce modèle fut adopté par la suite par plusieurs promoteurs ».
+photos:
+  - {file: null, credit: "pending — the one Commons image of rue Curatteau was checked and rejected: it shows yellow-brick plexes at the north end of the street, not the 1953 gabled brick ensemble of sector 27.U.4", kind: placeholder}
+blurb_en: >-
+  The federal minimal house, arriving in Mercier after the war it was invented for. A detached
+  one-and-a-half-storey box under a two-slope roof, clad in pale clapboard or brick, built in whole
+  streets to one volume so that the ensemble reads as a single gesture — around 1950 north of rue de
+  Rouen, in 1953 on rue Curatteau.
+origin_en: >-
+  The Évaluation states the lineage exactly: these ensembles were built « autour de 1950 sur le modèle
+  des maisons de la Wartime Housing Limited. Ce modèle a été développé durant la Deuxième Guerre mondiale
+  pour répondre à la crise du logement qui sévissait alors et pour loger les ouvriers à proximité des
+  entreprises consacrées à l'industrie de guerre. Le modèle fut adopté par la suite par plusieurs
+  promoteurs qui cherchaient à rejoindre un segment de marché composé de personnes désirant habiter une
+  maison individuelle à prix abordable. » That last clause is the whole post-war housing shift in one
+  sentence: a state emergency type turned into a market product. The same object appears on this site at
+  Lévis, in the Sud-Ouest, in Villeray–Saint-Michel–Parc-Extension, in Parc-Extension and at Verdun's
+  Crawford Park; this is its eastern Montréal instance, and it is the one place in this borough where the
+  cahier uses the word « modèle » of a house at all.

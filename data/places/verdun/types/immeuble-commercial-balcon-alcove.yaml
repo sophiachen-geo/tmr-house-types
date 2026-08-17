@@ -1,0 +1,113 @@
+id: verdun.immeuble-commercial-balcon-alcove
+place: verdun
+phase: p3
+display_order: 3
+name_en: Three-storey commercial block with dwellings above and alcove balconies
+name_fr: L'immeuble commercial de trois étages avec logements aux étages
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), sector fiches 21.E.1B and 21.E.1C, with 21.I.5"
+source_generation: sector characterisation, two exceptional-value fiches
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+canonical: [mixed-use-flat-roof-block]
+styles: [edwardian-classical]
+style_label: Edwardian classical
+tenure_plan: mixed
+storeys: '3'
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+window_proportion: vertical
+principal_cladding: [clay-brick, stone]
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: 0
+sectors:
+- 21.E.1A
+- 21.E.1B
+- 21.E.1C
+profile:
+  siting_landscape:
+  - Built hard to the property line on both sides of the street, with no setback. Rue de l'Église is fifty
+    feet wide, and the cahier says the result « projette une image très urbaine ».
+  - Rue Wellington runs the length of the borough as its commercial axis; rue de l'Église is one of Verdun's
+    two founding routes and carries its oldest commercial buildings.
+  massing:
+  - Three storeys generally — shops at ground level, dwellings above. Ground floors are at street level and
+    entered without steps.
+  articulation:
+  - The commercial storey is separated from the residential storeys by an elaborate cornice.
+  - Because there is no setback to project into, the balconies serving the upper dwellings are cut back into
+    the wall plane instead. The cahier calls this « une typologie originale ».
+  - On rue de l'Église the frontage is deliberately various — « une grande variété de caractéristiques,
+    créant une composition éclectique » — and the façades are generally ornamented.
+  openings:
+  - Tall shopfront windows with a transom over.
+  materials:
+  - Brick, with worked stone inserted at lintels, jambs and sills; stone façades on rue de l'Église.
+profile_fr:
+  description:
+  - « On y retrouve un ensemble de bâtiments généralement de trois étages, occupés au rez-de-chaussée par
+    des commerces et aux étages par des logements. L'accès aux espaces commerciaux est de plain-pied. »
+    (21.E.1B, la rue Wellington)
+  traitement_des_facades:
+  - « Les vitrines commerciales sont hautes et dotées d'un tympan, et l'étage commercial est démarqué des
+    étages résidentiels par une corniche élaborée. Les immeubles étant construits à la limite de la propriété,
+    une typologie originale s'est développée pour doter les logements de balcons en alcôve. » (21.E.1B)
+  revetement:
+  - « Les façades sont généralement en brique avec des insertions de pierre travaillée aux linteaux, jambages
+    et allèges. » (21.E.1B)
+  - « Les parements de façade sont la brique ou la pierre, et les façades sont généralement ornementées.
+    La hauteur générale des bâtiments est de trois étages et les rez-de-chaussée sont au niveau du sol. »
+    (21.E.1C, la rue de l'Église)
+  contexte:
+  - « La rue de Verdun reprend un peu la typologie commerciale de la rue Wellington, avec ses immeubles de
+    trois étages, ses hautes vitrines de façade, ses corniches et ses balcons en alcôve aux étages supérieurs
+    (résidentiels). » (21.I.5, le secteur Rielle et de Verdun)
+profile_note: >-
+  Assembled from sector paragraphs, not from a type table: the Évaluation publishes none. 21.E.1B supplies
+  the massing, the articulation and the materials; 21.E.1C confirms the height, the ground-floor level and
+  the cladding for the second street; 21.E.1A supplies the institutional context and is listed because the
+  three lettered parts are one sector in the document. 21.I.5 is quoted as context because it records the
+  same building repeated on a third street. The record is kept as residential (`is_residential` left at its
+  default) because the cahier defines the type by what is above the shop — « aux étages par des logements » —
+  and because the alcove balcony, the one feature the document calls an original Verdun typology, is a
+  dwelling feature. No dwelling count, lot width or date is given anywhere in the cahier for this form and
+  those fields are left null.
+example_addresses: null
+related_buildings:
+- name: "Église Notre-Dame-des-Sept-Douleurs, 4155 rue Wellington — the parish detached from Saint-Paul in 1899, church built 1911–1914 and consecrated 1929"
+  url: null
+- name: "Banque d'Épargne, succursale Wellington et Galt, 4214 rue Wellington — the cahier's own illustration for 21.E.1B"
+  url: null
+- name: "Ancien hôtel de ville, 475 rue de l'Église; hôtel de ville de Verdun, 4555 rue de Verdun"
+  url: null
+- name: "Chalmers United Church, 177 rue de l'Église; St. Clement's Anglican Church, 4322 rue Wellington; Académie Saint-Joseph, 320 rue de l'Église"
+  url: null
+photos:
+- file: null
+  kind: placeholder
+  credit: >-
+    Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), p. 26, captions
+    « 21.E.1B Institution bancaire dans le cœur commercial, 4214, rue Wellington » and « 21.E.1B La rue
+    Wellington, vers l'est, du parvis de l'église ». © Ville de Montréal; not reproduced here. No freely
+    licensed photograph of a Wellington or de l'Église block showing the alcove balcony was identified on
+    Commons.
+  licence: permission required
+  source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+  match_confidence: address
+blurb_en: >-
+  Shops on the ground, flats above, three storeys, built flush to the lot line so there is nowhere for a
+  balcony to project — so the balcony is cut back into the wall instead. The 2005 evaluation calls that
+  alcove balcony an original typology, and it is the one thing in this document that is Verdun's own.
+origin_en: >-
+  Two streets meeting at right angles carry the whole of Verdun's commercial fabric: rue Wellington, its
+  commercial axis end to end, and rue de l'Église, one of the two tracés fondateurs — the old chemin de la
+  côte Saint-Paul — with the oldest shops in the borough. Both were built to the property line, which is
+  where the interesting part comes from. The setback that pushed the stair outdoors in the residential
+  streets does not exist here, so there is no room for a projecting balcony; the response was to hollow one
+  out of the wall. The cahier states the causation plainly: « Les immeubles étant construits à la limite de
+  la propriété, une typologie originale s'est développée pour doter les logements de balcons en alcôve. » It
+  spread — fiche 21.I.5 finds the same section repeated on rue de Verdun. Both streets, together with the
+  Pointe-Nord de l'Île-des-Sœurs, are the territory the borough's PIIA singles out for review of new
+  construction, streetward enlargements and signage.
+phase_confidence: provisional

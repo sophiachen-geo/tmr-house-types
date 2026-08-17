@@ -34,6 +34,8 @@
   <h2 style="margin-top:34px;font-size:24px">What {{ t.doc_short|esc }} says about this type</h2>
   <div class="tgrid">{% for row in t.profile_rows %}<div class="trow"><div class="tk">{{ row.label|esc }}</div><ul class="tv">{% for v in row.bullets %}<li>{{ v|esc }}</li>{% endfor %}{% for v in row.fr %}<li class="frv" lang="fr">{{ v|esc }}</li>{% endfor %}{% if not row.bullets and not row.fr %}<li class="null">–</li>{% endif %}</ul></div>{% endfor %}</div>
   {% if t.profile_note %}<p class="pnote">{{ t.profile_note|esc }}</p>{% endif %}
+  {% if t.topic_links %}<p class="topiclink">{% for tp in t.topic_links %}<a href="{{ R }}topics/{{ tp.id }}/">{{ tp.label|esc }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>{% endif %}
+  {% if t.variants %}<div class="conserve variants" style="margin-top:20px"><span class="olabel">Variants the source distinguishes</span><ul class="tv">{% for v in t.variants %}<li class="frv" lang="fr">{% if v.code %}<strong>{{ v.code|esc }}</strong> — {% endif %}{% if v.name_fr %}{{ v.name_fr|esc }} : {% endif %}{{ v.text|esc }}</li>{% endfor %}</ul></div>{% endif %}
   {% if t.conservation %}<div class="conserve" style="margin-top:20px"><span class="olabel">Conservation guidance (fiche)</span><ul class="tv">{% for c in t.conservation %}<li>{{ c|esc }}</li>{% endfor %}{% for c in t.conservation_fr or [] %}<li class="frv" lang="fr">{{ c|esc }}</li>{% endfor %}</ul></div>{% endif %}
 
   <div class="xlinks">

@@ -1,0 +1,134 @@
+id: villeray-saint-michel-parc-extension.shoebox-debut-20e
+place: villeray-saint-michel-parc-extension
+page: 11
+phase: p3
+phase_confidence: verified
+name_en: Shoebox of the early 20th century
+name_fr: Shoebox du début du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 1.2"
+source_generation: >-
+  By-law Annexe F, fiche 1.2, pp. 1.2.1 to 1.2.5, transcribed verbatim; the borough-wide counts come
+  from the arrondissement's own 2019 guide, not from the by-law
+sectors: [14.I.1, 14.I.3]
+canonical:
+  - shoebox-uniplex
+styles:
+  - shoebox
+  - vernaculaire-industriel
+tenure_plan: single-family
+storeys: 1
+roof: {form: flat, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - wood-clapboard
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+count_in_place: 424
+variants:
+  - code: A
+    name_fr: Shoebox implantée en fond de lot
+    summary_fr: "La particularité de cette shoebox est qu’elle est construite en fond de lot, avec peu ou pas de marge arrière."
+  - code: B
+    name_fr: Shoebox avec porte d’entrée située près d’un mur latéral
+    summary_fr: "Cette shoebox présente une volumétrie plus étroite. La porte d’entrée est située près d’un mur latéral."
+  - code: C
+    name_fr: Shoebox à parement léger
+    summary_fr: "Cette shoebox arbore un revêtement léger. Elle peut se présenter sous une apparence modeste, sans ornementation et couronnement ou, à l’inverse, être plus ornementée et comporter une corniche, des chambranles autour de ses ouvertures, une grande galerie couverte, etc."
+profile:
+  siting_landscape:
+    - Generally contiguous with its neighbours, but it may also be detached or semi-detached.
+    - Built on a rectangular lot deeper than it is wide, close to the street so as to leave room for a back yard — the siting rule that makes the type read end-on to the street.
+    - Variant A inverts it and stands at the back of the lot with little or no rear margin.
+  massing:
+    - A single-storey flat-roofed building on a rectangular plan of modest dimensions.
+    - The ground floor is slightly raised above street level; the cellar is usually no more than a crawl space.
+    - A projecting volume is sometimes present on the façade.
+  articulation:
+    - The façade composition is generally symmetrical.
+    - The front door is reached by a perron, sometimes sheltered by a marquise.
+    - A cornice, or a parapet with a pediment, usually crowns the building, and the brickwork often carries ornament.
+  openings:
+    - Two windows disposed either side of a central door.
+    - Windows of vertical proportion.
+  materials:
+    - Brick, usually, with ornament worked into the cladding.
+    - Variant C substitutes a light cladding, and may then be either plain or more ornamented than the brick version — cornice, window architraves, a wide covered gallery.
+profile_fr:
+  contexte:
+    - "L’appellation shoebox renvoie à la volumétrie rectangulaire de ces maisons qui évoque une boîte à chaussures. La première phase de développement de cette typologie s’étend des années 1900 à 1940. Ce sont des constructions simples, réalisées à faible coût à partir des matériaux disponibles à l’époque. Ces constructions s’insèrent dans la trame urbaine aux côtés de duplex et de triplex. On les trouve principalement dans Villeray et Parc-Extension."
+  implantation:
+    - "La shoebox est généralement implantée en contiguïté avec les bâtiments voisins, mais elle peut aussi être isolée ou jumelée. Elle est construite sur un lot rectangulaire, plus profond que large, à proximité de la rue pour permettre l’aménagement d’une cour arrière."
+  volumetrie:
+    - "Il s’agit d’un bâtiment d’un seul étage à toit plat, au plan rectangulaire de dimensions modestes. Le rez-de-chaussée est légèrement surélevé par rapport à la rue. Le sous-sol est habituellement constitué d’un vide sanitaire. Parfois, un volume en avancée est présent en façade."
+  traitement_des_facades:
+    - "La composition de la façade de la maison est généralement symétrique : deux fenêtres sont disposées de part et d’autre de la porte d’entrée centrale. […] La porte d’entrée est accessible par un perron, parfois couvert d’un auvent. Le parement de brique du bâtiment présente souvent de l’ornementation et une corniche ou un parapet à fronton couronne généralement le bâtiment."
+  ouvertures:
+    - "Les fenêtres sont de proportions verticales."
+  sous_variantes:
+    - "A — SHOEBOX IMPLANTÉE EN FOND DE LOT. La particularité de cette shoebox est qu’elle est construite en fond de lot, avec peu ou pas de marge arrière."
+    - "B — SHOEBOX AVEC PORTE D’ENTRÉE SITUÉE PRÈS D’UN MUR LATÉRAL. Cette shoebox présente une volumétrie plus étroite. La porte d’entrée est située près d’un mur latéral."
+    - "C — SHOEBOX À PAREMENT LÉGER. Cette shoebox arbore un revêtement léger. Elle peut se présenter sous une apparence modeste, sans ornementation et couronnement ou, à l’inverse, être plus ornementée et comporter une corniche, des chambranles autour de ses ouvertures, une grande galerie couverte, etc."
+profile_note: >-
+  <strong>This record and the next are the two halves of one argument.</strong> This borough splits
+  the shoebox into two numbered types where Rosemont–La Petite-Patrie treats it as a single type; the
+  disagreement is set out in full in the notes on the place page. Fiche 1.2 is the early half —
+  « La première phase de développement de cette typologie s'étend des années 1900 à 1940 » — and it
+  is the half the fiche localises: « On les trouve principalement dans Villeray et Parc-Extension. »
+  The <code>count_in_place</code> of 424 is derived, not printed: the borough's 2019 guide counts
+  1 159 shoebox houses by decade, and 424 of them fall in the decades 1900-1909 through 1930-1939,
+  which is this fiche's own 1900-1940 range. The remaining 735 fall in 1940-1949 and 1950-1960 and
+  are counted on fiche 1.3. Both figures are sums over the guide's table; neither is a number the
+  borough itself prints, and a reader who wants a published figure should use the total of 1 159.
+example_addresses: []
+photos:
+  - file: assets/places/villeray-saint-michel-parc-extension/shoebox-debut-20e-parapet-fronton.jpg
+    credit: >-
+      "Maison shoebox à Montréal 08" by Guerinf, 8 April 2020, Wikimedia Commons, licensed
+      CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International) — author, licence and
+      file URL read individually on the Commons API before download. File:
+      https://commons.wikimedia.org/wiki/File:Maison_shoebox_%C3%A0_Montr%C3%A9al_08.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:Maison_shoebox_%C3%A0_Montr%C3%A9al_08.jpg
+    match_confidence: visual
+    match_note: >-
+      The uploader's own description places it in the Villeray area, which is where fiche 1.2 says
+      the type is chiefly found; the match to the fiche is on form, not on address. It carries the
+      described set almost item for item — one storey, flat roof, red brick, a central door with one
+      vertically proportioned window either side, a perron under a marquise, and the parapet à
+      fronton the fiche names as the usual crown, here stepped and picked out in white.
+  - file: assets/places/villeray-saint-michel-parc-extension/shoebox-parement-leger-galerie.jpg
+    credit: >-
+      "Maison de style shoebox à Montréal 09" by Guerinf, 7 April 2020, Wikimedia Commons, licensed
+      CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International) — author, licence and
+      file URL read individually on the Commons API before download. File:
+      https://commons.wikimedia.org/wiki/File:Maison_de_style_shoebox_%C3%A0_Montr%C3%A9al_09.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:Maison_de_style_shoebox_%C3%A0_Montr%C3%A9al_09.jpg
+    match_confidence: visual
+    match_note: >-
+      Included for variant C, shoebox à parement léger, and matched on form. The uploader places it
+      in the Parc Extension area — the other of the two quarters fiche 1.2 names. It shows the
+      ornamented reading of the variant rather than the plain one: light horizontal cladding, a
+      bracketed cornice above the wall head, architraves round the openings, and the « grande galerie
+      couverte » the variant text allows, running the full width of the front between party walls of
+      brick on either side.
+blurb_en: >-
+  A single-storey brick box on a lot deeper than it is wide, set end-on and close to the street with
+  the yard behind, its door in the middle and one tall window either side, and a cornice or a
+  pedimented parapet raising the front above the flat roof. Built cheaply from what was to hand
+  between 1900 and 1940, mostly in Villeray and Parc-Extension, and built to be built over later.
+origin_en: >-
+  The shoebox is the one self-built type on this site, and this is one of three records for it — with
+  Rosemont–La Petite-Patrie's single type and with fiche 1.3 next door. The scholarly account is Guy
+  Gaudreau, "Les premières maisons shoebox montréalaises de Rosemont et de Villeray" (Revue d'histoire
+  urbaine / Urban History Review, DOI 10.3138/uhr-2020-0004), which pairs the same two boroughs this
+  site now pairs. What is distinctive here is that the by-law does not simply describe the type: it
+  regulates it, giving it three lettered variants and a table of permitted original and replacement
+  components running to three further pages.

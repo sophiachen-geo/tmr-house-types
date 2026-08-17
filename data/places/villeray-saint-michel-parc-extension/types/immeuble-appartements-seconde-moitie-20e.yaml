@@ -1,0 +1,102 @@
+id: villeray-saint-michel-parc-extension.immeuble-appartements-seconde-moitie-20e
+place: villeray-saint-michel-parc-extension
+page: 101
+phase: p5
+phase_confidence: verified
+name_en: Apartment building of the second half of the 20th century
+name_fr: Immeuble d'appartements de la seconde moitié du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 3.3"
+source_generation: >-
+  By-law Annexe F, fiche 3.3, pp. 3.3.1 to 3.3.5, transcribed verbatim
+sectors: [14.U.1]
+canonical:
+  - apartment-block-central-stair
+  - modern-slab-flat-brick
+styles:
+  - rationalisme
+  - international-style
+tenure_plan: walk-up
+storeys: 3
+roof: {form: flat, pitch_deg: null}
+window_proportion: horizontal
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Immeubles d'appartements avec porte d'entrée située près d'un mur latéral
+    summary_fr: "La porte d’entrée de cette variante est située près d’un mur latéral."
+  - code: B
+    name_fr: Immeubles d'appartements à fort gabarit
+    summary_fr: "L’immeuble d’appartements à fort gabarit a une volumétrie plus imposante et large que la typologie de base. La porte d’entrée centrale est souvent couronnée d’une marquise à toit plat ou ondulé. Les logements ont généralement tous un balcon."
+  - code: C
+    name_fr: Immeubles d'appartements avec usage commercial au rez-de-chaussée
+    summary_fr: "Ces immeubles présentent un rez-de-chaussée à usage commercial situé près du sol. Il y a une transition dans le traitement architectural entre les usages commerciaux et résidentiels. Ils comportent généralement des bandeaux de béton horizontaux."
+profile:
+  siting_landscape:
+    - Sited contiguously, and often part of a group of buildings put up in one period.
+    - Front margin of medium depth; a driveway may run across the front to a basement garage.
+  massing:
+    - Three storeys or more under a flat roof — the tallest type in the annexe.
+    - The ground floor is raised above the street, but the foundations barely show.
+    - Habitable rooms in the basement.
+  articulation:
+    - The architectural treatment bets on horizontality.
+    - The dwelling entrance is at ground level, most often at the centre of the façade, and serves all the dwellings.
+    - That entrance opening is very wide and tall, commercial in appearance — a wide vestibule announced by a projecting eave and generous glazing.
+    - The parapet is straight and low under a simple flashing; a flat projecting eave serves as the crown.
+    - Apart from a masonry bond pattern or concrete bands there is little ornament on the façade.
+  openings:
+    - The dwellings have balconies.
+    - Horizontal emphasis throughout.
+  materials:
+    - Sections of brick or stone, often pale in colour — brick mostly white or pale yellow, sometimes glazed, occasionally laid in coloured patterns.
+profile_fr:
+  contexte:
+    - "Cette typologie fait son apparition dans les années 1960. Construit sur trois étages ou plus, avec un sous-sol habitable, ce bâtiment présente une forte densité de logements. Il est souvent érigé à une certaine distance de la rue afin de prévoir une place de stationnement à même le terrain ou au sous-sol. La porte d’entrée commune des logements est un large vestibule dont la présence est signalée par un avant-toit et de généreuses baies vitrées. Une caractéristique importante de ces constructions est leur revêtement, dont la brique est majoritairement blanche ou jaune pâle, parfois vernissée. Les façades sont parfois ornées d’un appareillage de maçonnerie colorée."
+  implantation:
+    - "Le bâtiment est implanté de façon contiguë et fait souvent partie d’ensembles de bâtiments construits à la même période. Sa marge avant est de profondeur moyenne. Il est possible qu’une allée véhiculaire soit positionnée en façade, menant à un garage situé au sous-sol."
+  volumetrie:
+    - "Le volume comporte trois étages ou plus, et un toit plat. Le rez-de-chaussée est surélevé par rapport à la rue, mais les fondations sont peu apparentes. Des espaces habitables se trouvent au sous-sol."
+  traitement_des_facades:
+    - "Le traitement architectural de cette typologie mise sur l’horizontalité. La porte d’entrée des logements est située au niveau du sol, le plus souvent au centre de la façade, et permet l’accès à tous les logements. L’ouverture de la porte d’entrée sera très large et haute, d’aspect commercial. Les logements bénéficient de balcons."
+    - "Le parapet est droit, de faible hauteur et surmonté d’un solin simple. Un avant-toit plat en projection de la façade tient lieu de couronnement. Les revêtements sont constitués de sections en brique ou en pierre, souvent de couleur pâle. Mis à part un appareillage de maçonnerie ou les bandeaux de béton, il y a peu d’ornementation en façade."
+  sous_variantes:
+    - "A — IMMEUBLES D’APPARTEMENTS AVEC PORTE D’ENTRÉE SITUÉE PRÈS D’UN MUR LATÉRAL. La porte d’entrée de cette variante est située près d’un mur latéral."
+    - "B — IMMEUBLES D’APPARTEMENTS À FORT GABARIT. L’immeuble d’appartements à fort gabarit a une volumétrie plus imposante et large que la typologie de base. La porte d’entrée centrale est souvent couronnée d’une marquise à toit plat ou ondulé. Les logements ont généralement tous un balcon."
+    - "C — IMMEUBLES D’APPARTEMENTS AVEC USAGE COMMERCIAL AU REZ-DE-CHAUSSÉE. Ces immeubles présentent un rez-de-chaussée à usage commercial situé près du sol. […] Ils comportent généralement des bandeaux de béton horizontaux."
+profile_note: >-
+  The last fiche in the annexe, and the exact counterpart of fiche 2.3 one family up: same 1960s
+  date, same pale white or yellow brick sometimes glazed, same coloured masonry patterning, same flat
+  projecting eave in place of a parapet, same basement garage off a driveway across the front. The
+  two fiches describe one building culture applied at two densities, which is a stronger statement
+  about 1960s Montréal than either makes alone. Note also the entrance: a « large vestibule » with an
+  opening « très large et haute, d'aspect commercial ». The by-law is describing, without saying so,
+  the point at which the front door of a dwelling stops looking domestic — the end of the sequence
+  that began at fiche 1.2 with a door in the middle of a one-storey brick front, flanked by two
+  windows.
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, pp. 3.3.2 and 3.3.4–3.3.5 — elevation drawings of the typologie
+      de base and of variants A to C. © Ville de Montréal. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  From the 1960s: three storeys or more of densely packed flats, contiguous, usually in groups built
+  at one go, set back far enough for a drive to a basement garage. Pale brick — white or light
+  yellow, sometimes glazed — laid now and then in coloured patterns, a low straight parapet under a
+  flat projecting eave, and a common entrance that is a wide glazed vestibule under its own canopy,
+  commercial in scale.
+origin_en: >-
+  The end of the annexe and the end of the sequence: the apartment building at its densest, described
+  by the same by-law that opens with a wood-clad rural house on a large lot. Set beside fiche 2.3,
+  the plex italien, it shows the 1960s arriving in this borough as one palette applied at two scales —
+  pale glazed brick, horizontal banding, a flat eave for a crown, and the car put underneath.

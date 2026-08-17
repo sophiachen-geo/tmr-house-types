@@ -1,0 +1,111 @@
+id: verdun.maison-national-housing-act
+place: verdun
+phase: p4
+display_order: 4
+name_en: National Housing Act house — 1½ storeys, brick, to prize-winning plans
+name_fr: L'habitation unifamiliale de masse « National Housing Act »
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), sector fiche 21.E.5, with 21.I.9 and 21.I.10"
+source_generation: sector characterisation, one exceptional-value fiche with two interesting-value fiches
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+canonical: [veterans-house-nha]
+styles: [wartime-housing, minimal-traditional]
+style_label: Wartime Housing / Minimal Traditional
+tenure_plan: single-family
+storeys: '1.5'
+roof: {form: gabled, pitch_deg: null}
+roofing: null
+window_proportion: null
+principal_cladding: [clay-brick]
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors:
+- 21.E.5
+profile:
+  siting_landscape:
+  - Detached houses on individual lots, set back behind a planted front yard, on a street layout that
+    abandons the city's orthogonal grid — the cahier's last sentence for the sector is « On abandonne ici
+    la trame de rues orthogonale. »
+  - The homogeneity of the siting mode and of the landscaping is named, alongside the buildings, as a reason
+    the ensemble is of exceptional value.
+  massing:
+  - One and a half storeys throughout. Uniform heights and uniform roof pitches across the whole
+    development.
+  articulation:
+  - Not described. The cahier's interest is in the ensemble, not the elevation, and it names no ornament,
+    no porch and no door treatment.
+  openings:
+  - Not described.
+  materials:
+  - Brick cladding, uniform across the development. 21.I.10 records the same "War Time" typology elsewhere
+    in the borough with brick and/or stone.
+profile_fr:
+  description:
+  - « Quelques années avant la Seconde Guerre mondiale, le gouvernement promulgue le « National Housing Act ».
+    De nouvelles typologies d'habitation prendront forme dans ce cadre, et plus particulièrement l'habitation
+    unifamiliale de masse. Le voisinage Crawford offre un exemple exceptionnel de ce nouveau type d'intervention
+    urbaine, constitué d'immeubles d'un étage et demi recouverts d'un parement de brique. Ces immeubles ont
+    été construits sur la base de plans d'architecture primés. » (21.E.5, le voisinage Crawford)
+  elements_caracteristiques:
+  - « L'homogénéité des hauteurs, des matériaux, des pentes de toit, du mode d'implantation et du paysagement
+    contribue à la qualité de l'ensemble. On abandonne ici la trame de rues orthogonale. » (21.E.5)
+  contexte:
+  - « Suivant les mêmes typologies que dans le secteur Crawford, ce projet urbain est aménagé autour d'un
+    parc, mais cette fois, inscrit dans la trame de rues orthogonale de la ville. » (21.I.9, un projet
+    « National Housing Act »)
+  - « La typologie « War Time » dans un projet intégré décrite précédemment s'est aussi implantée dans ce
+    secteur, sur des terrains lotis préalablement selon une trame conventionnelle. Les immeubles sont
+    généralement de bonne facture, avec parement de brique et(ou) de pierre et toiture plate avec mansardes
+    ou toit à pignon. » (21.I.10, le voisinage Sud)
+profile_note: >-
+  Assembled from sector paragraphs; the Évaluation publishes no type table. 21.E.5 gives storeys, cladding,
+  roof-pitch uniformity, siting and street layout, and is the only place the cahier states the National
+  Housing Act connection. 21.I.9 and 21.I.10 are quoted because they record the same house twice more in
+  the borough and are what allow the roof form to be entered at all: 21.E.5 mentions « pentes de toit »
+  without naming a form, and 21.I.10 says « toiture plate avec mansardes ou toit à pignon » of a mixed
+  fabric that includes the War Time houses among others. `roof.form` is therefore entered as gabled with a
+  null pitch, on 21.E.5's roof-pitch uniformity plus 21.I.10's « toit à pignon », and should be treated as
+  the weakest field in this record. Articulation and openings are left empty rather than inferred from
+  Wartime Housing Limited's standard plans, which the cahier does not cite. The « plans d'architecture
+  primés » are not identified in the document and no architect is named; the Commons uploader of the
+  photograph below attributes the Crawford Park layout to Samuel Gitterman at the NHA, which is not in any
+  municipal source consulted here and is not asserted.
+example_addresses: null
+related_buildings: null
+photos:
+- file: assets/places/verdun/crawford-park-rue-leclair-commons.jpg
+  kind: single
+  credit: >-
+    A line of 1½-storey brick houses on rue LeClair in Crawford Park, Verdun — uniform heights, uniform
+    roof pitches, planted front yards. Photograph by Commons user A611662, CC BY-SA 4.0. Licence:
+    https://creativecommons.org/licenses/by-sa/4.0. File:
+    https://commons.wikimedia.org/wiki/File:Crawford_Park_Extension.jpg
+  source_url: https://commons.wikimedia.org/wiki/File:Crawford_Park_Extension.jpg
+  licence: CC BY-SA 4.0
+  match_confidence: neighbourhood
+  note: >-
+    Not `address`: the cahier illustrates 21.E.5 with rue Fayolle and rue Truman, and this photograph is of
+    rue LeClair, which Commons places inside Crawford Park but which the cahier does not name and whose
+    position relative to the sector boundary has not been verified. The buildings are what 21.E.5 describes.
+    The identical file is also on Commons as Crawford Park Extension at Verdun.jpg — byte-for-byte the same
+    photograph uploaded twice.
+blurb_en: >-
+  A storey and a half, brick, detached on its own lot, one of several hundred built to the same handful of
+  award-winning plans on streets that curve away from Verdun's grid. The 2005 evaluation ranks the result
+  among the borough's seven sectors of exceptional value — for the ensemble, not for the house.
+origin_en: >-
+  Crawford Park is Verdun's one piece of planned suburb, and the cahier treats it as an event in the history
+  of housing policy rather than as architecture: the federal National Housing Act « quelques années avant la
+  Seconde Guerre mondiale » produced « de nouvelles typologies d'habitation … et plus particulièrement
+  l'habitation unifamiliale de masse », and Crawford is « un exemple exceptionnel de ce nouveau type
+  d'intervention urbaine ». What is exceptional, in the document's own reasoning, is uniformity plus the
+  abandoned grid — heights, materials, roof pitches, siting and landscaping all held constant on curving
+  streets, in a borough otherwise laid out in blocks. The same house recurs twice more in Verdun and the
+  cahier separates the three occurrences by street plan alone: 21.I.9 puts it back on the orthogonal grid
+  around a park, and 21.I.10 finds it dropped onto conventionally subdivided lots in the south. This is the
+  same form as the Lévis wartime housing and the Sud-Ouest's maison de vétérans, and it is also the only
+  house type anywhere on this site that a municipal fee schedule names: Verdun's 2020 tariff by-law sets a
+  PIIA study fee reserved for enlarging the roof volume of a "wartime"-type house to add habitable space.
+phase_confidence: verified

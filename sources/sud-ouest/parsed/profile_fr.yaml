@@ -1,0 +1,986 @@
+'1.1':
+  name_fr: La maison villageoise
+  profile_fr:
+    implantation:
+    - La maison villageoise peut être isolée, jumelée ou contiguë. La présence d’un passage latéral qui
+      permet un accès à la cour arrière est fréquente. La marge de recul avant est inférieure à 1,5 mètre
+      et est souvent comblée par une galerie. Les maisons villageoises forment rarement des alignements
+      réguliers.
+    volumetrie:
+    - Le corps du bâtiment est rectangulaire et sans saillie. La hauteur est de 1½ étage. Le rez-de-chaussée
+      est très peu élevé par rapport au niveau du sol, avec un maximum de 3 contremarches. Le toit est
+      en pente à deux versants et présente généralement 2 lucarnes. La présence d’une galerie occupant
+      la même largeur que le bâtiment est fréquente.
+    materiaux:
+    - La fondation, en pierre, est parfois recouverte de crépi de ciment. Pour le corps du bâtiment, la
+      brique et le déclin de bois sont les deux matériaux de revêtement utilisés. La tôle traditionnelle
+      était probablement le matériau le plus courant à l’origine pour le recouvrement des toitures. Cependant,
+      la tôle a souvent été substituée pour du bardeau d’asphalte.
+    traitement_des_facades:
+    - Corps — La composition peut être symétrique avec la porte au centre et les fenêtres sur les côtés,
+      ou asymétrique avec la porte à l’une des extrémités. Toutes les fenêtres du rez-de-chaussée sont
+      alignées horizontalement. Cependant, il n’y a généralement pas d’alignement vertical entre les fenêtres
+      du rez-dechaussée et les lucarnes. On retrouve généralement une lucarne de moins que le nombre d’ouvertures
+      au rez-de-chaussée. Les lucarnes sont donc disposées entre chacune des ouvertures du rez-de-chaussée.
+    - Corps — Les encadrements des ouvertures ainsi que les planches cornières sont généralement peints
+      d’une couleur contrastante par rapport au reste de la façade.
+    ouvertures:
+    - On retrouve des fenêtres de remplacement sur la plupart des bâtiments. À l’origine, il est probable
+      que ces bâtiments possédaient des fenêtres à battants à 6 carreaux. Cependant, on retrouve aujourd’hui
+      principalement des fenêtres à guillotine ou à battants sans carreau. Les fenêtres des lucarnes sont
+      plus petites et de forme carrée ou faiblement rectangulaire.
+    - Les portes sont simples et sans imposte.
+    - L’encadrement des ouvertures est variable selon le matériau de revêtement utilisé. Pour les bâtiments
+      revêtus de déclin de bois, on retrouve un chambranle en bois. Pour les bâtiments revêtus de briques,
+      on retrouve un chambranle en bois ou un linteau composé d’un appareillage de briques en soldat.
+  triad:
+    corps:
+    - La composition peut être symétrique avec la porte au centre et les fenêtres sur les côtés, ou asymétrique
+      avec la porte à l’une des extrémités. Toutes les fenêtres du rez-de-chaussée sont alignées horizontalement.
+      Cependant, il n’y a généralement pas d’alignement vertical entre les fenêtres du rez-dechaussée
+      et les lucarnes. On retrouve généralement une lucarne de moins que le nombre d’ouvertures au rez-de-chaussée.
+      Les lucarnes sont donc disposées entre chacune des ouvertures du rez-de-chaussée.
+    - Les encadrements des ouvertures ainsi que les planches cornières sont généralement peints d’une
+      couleur contrastante par rapport au reste de la façade.
+  variants:
+  - n: 1
+    title_fr: La maison villageoise à deux étages
+    description_fr: La première variante possède une composition de façade similaire au type de base mais
+      on y retrouve deux étages et demi. Cette sous-variante ne possède pas de galerie en façade.
+  - n: 2
+    title_fr: La maison villageoise à toit en mansarde
+    description_fr: La seconde variante possède un toit en mansarde. Cette variante est relativement rare
+      dans l’arrondissement du Sud-Ouest.
+  - n: 3
+    title_fr: La maison villageoise avec pignon secondaire
+    description_fr: Cette variante se trouve principalement dans le secteur de l’unité de paysage William-Parkin
+      et celle de Parc Saint-Henri. Il s’agit d’une maison villageoise avec un pignon secondaire en façade
+      au lieu de lucarnes.
+  - n: 4
+    title_fr: La maison villageoise à toit plat
+    description_fr: Cette dernière variante se trouve essentiellement dans le secteur Village Turcot.
+      Sa composition est proche du duplex avec escalier intérieur. Certaines peuvent être composées d’une
+      fausse mansarde.
+'1.2':
+  name_fr: La maison urbaine
+  profile_fr:
+    implantation:
+    - Comme son nom l’indique, la maison urbaine est généralement mitoyenne. La maison urbaine est implantée
+      avec une marge de recul avant qui varie généralement entre 2 et 4 mètres. Bien que la marge avant
+      puisse parfois être inférieure à 2 mètres, les façades sont invariablement implantées en alignement.
+      La cour avant, dont l’aménagement est souvent soigné, est séparée de l’espace public par une clôture
+      basse en fer forgé ou une haie.
+    volumetrie:
+    - Avec un plan de forme rectangulaire allongé, la maison urbaine possède 2 étages. L’étage supérieur
+      est généralement construit sous un toit à faible pente ou un toit plat orné d’une fausse mansarde
+      en façade. Le rez-de-chaussée est surélevé de 5 à 10 contremarches par rapport au niveau du sol.
+      L’escalier d’accès au rez-de-chaussée est extérieur. Il est possible de retrouver un oriel au rez-de-chaussée
+      ou sur les 2 niveaux. La porte d’entrée est parfois située dans un tambour en saillie, sous un porche
+      couvert ou sous un balcon.
+    materiaux:
+    - Le socle du bâtiment est revêtu de pierres à bossages. Pour le corps, la brique et la pierre de
+      taille ou à bossages sont les deux matériaux de revêtement dominants. Les fausses mansardes sont
+      revêtues de bardeaux d’ardoise ou de tôle.
+    traitement_des_facades:
+    - Socle — La surélévation des rez-de-chaussée est accompagnée d’une démarcation franche du socle du
+      bâtiment. Cette démarcation horizontale dans la façade se manifeste par l’utilisation d’un matériau
+      de revêtement différent ainsi que par la disposition des pierres de fondation légèrement en saillie
+      ou par la présence de bandeau horizontal entre la fondation et le rez-de-chaussée.
+    - Corps — Le corps de la façade est composé de deux alignements verticaux des ouvertures. Le premier
+      alignement est composé de la porte au rez-de-chaussée et d’un balcon ou d’une fenêtre à l’étage.
+      Le second alignement est composé uniquement de fenêtres. S’il est présent, l’oriel se retrouve généralement
+      dans ce second alignement. Un balcon est parfois situé au-dessus de l’oriel.
+    - Couronnement — Pour le couronnement, une corniche de bois à modillons ou à consoles orne la base
+      de la fausse mansarde. La forme des lucarnes est variable. La lucarne peut être située dans le plan
+      du mur à demi encastrée dans la fausse mansarde ou être entièrement comprise dans la pente de la
+      fausse mansarde.
+    ouvertures:
+    - La dimension et les proportions des ouvertures sont variables. Au rez-de-chaussée, on peut retrouver
+      une fenêtre simple dont les proportions sont de 1 largeur = ½ hauteur ou des fenêtres jumelées aux
+      proportions variables. Les fenêtres à battants avec imposte ou à guillotine sans imposte sont dominantes.
+      À l’étage, les lucarnes amènent généralement la présence de fenêtres aux dimensions plus petites
+      de proportion carrée ou légèrement verticale.
+    - Les portes peuvent être doubles ou simples et possèdent généralement une imposte.
+    - L’encadrement des ouvertures est exprimé par la présence d’un linteau formé de briques en soldat
+      sur les bâtiments revêtus de briques et par la présence d’un chambranle en pierre de taille sur
+      les bâtiments revêtus de pierres à bossages.
+  triad:
+    socle:
+    - La surélévation des rez-de-chaussée est accompagnée d’une démarcation franche du socle du bâtiment.
+      Cette démarcation horizontale dans la façade se manifeste par l’utilisation d’un matériau de revêtement
+      différent ainsi que par la disposition des pierres de fondation légèrement en saillie ou par la
+      présence de bandeau horizontal entre la fondation et le rez-de-chaussée.
+    corps:
+    - Le corps de la façade est composé de deux alignements verticaux des ouvertures. Le premier alignement
+      est composé de la porte au rez-de-chaussée et d’un balcon ou d’une fenêtre à l’étage. Le second
+      alignement est composé uniquement de fenêtres. S’il est présent, l’oriel se retrouve généralement
+      dans ce second alignement. Un balcon est parfois situé au-dessus de l’oriel.
+    couronnement:
+    - Pour le couronnement, une corniche de bois à modillons ou à consoles orne la base de la fausse mansarde.
+      La forme des lucarnes est variable. La lucarne peut être située dans le plan du mur à demi encastrée
+      dans la fausse mansarde ou être entièrement comprise dans la pente de la fausse mansarde.
+  variants: []
+'1.3':
+  name_fr: La maison « boomtown »
+  profile_fr:
+    implantation:
+    - Ce type de maison est généralement implanté de façon contiguë, avec une marge de recul avant qui
+      varie entre 1,5 et 4 mètres. Toutefois, il existe des exemples isolés implantés en fond de parcelle,
+      bénéficiant d’une cour avant assez profonde. Lorsque l’on retrouve une série de maisons « boomtown
+      », les façades forment des alignements réguliers. La cour avant est habituellement peu aménagée.
+    volumetrie:
+    - Ce type architectural présente un volume rectangulaire simple d’un étage coiffé d’un toit plat.
+      On retrouve fréquemment un porche d’entrée couvert ou même une galerie en façade.
+    - Le rez-de-chaussée est légèrement surélevé par rapport au niveau du sol, soit de 2 à 4 contremarches.
+      Les exemples les plus récents comprennent parfois un véritable sous-sol ou un garage au niveau inférieur.
+    materiaux:
+    - 'Le soubassement de la maison est en béton, tandis que la brique, le déclin de bois et les revêtements
+      légers contemporains (ex. : vinyle) sont les principaux matériaux de revêtement utilisés pour la
+      façade.'
+    traitement_des_facades:
+    - Corps — La composition de la façade est souvent très simple. L’exemple typique comprend une porte
+      au centre et une fenêtre de chaque côté. Un auvent, une galerie ou un porche de dimensions variables
+      peuvent s’y ajouter.
+    - Couronnement — La partie supérieure du bâtiment est habituellement couronnée d’un solin métallique.
+      Les couronnements plus complexes sont formés d’une corniche en métal ouvragé, d’amortissements (sortes
+      de petits piliers à chaque extrémité du toit) ou d’un parapet au centre.
+    - Ornementation — Certains exemples de maisons « boomtown » plus ornées comprennent des insertions
+      en pierre sur la façade, comme des bas-reliefs aux motifs géométriques, ou encore des encadrements
+      d’ouvertures en pierre.
+    ouvertures:
+    - Les fenêtres sont rectangulaires, bien que l’on retrouve parfois des proportions presque carrées.
+      Il s’agit de fenêtres à battants ou composées d’une partie fixe et d’une partie coulissante.
+    - Les portes sont simples et sans imposte.
+    - Parfois, les ouvertures n’ont pas d’encadrement particulier. Plus fréquemment, un linteau droit
+      en pierre ou composé de briques en soldat surmonte les fenêtres.
+  triad:
+    corps:
+    - La composition de la façade est souvent très simple. L’exemple typique comprend une porte au centre
+      et une fenêtre de chaque côté. Un auvent, une galerie ou un porche de dimensions variables peuvent
+      s’y ajouter.
+    couronnement:
+    - La partie supérieure du bâtiment est habituellement couronnée d’un solin métallique. Les couronnements
+      plus complexes sont formés d’une corniche en métal ouvragé, d’amortissements (sortes de petits piliers
+      à chaque extrémité du toit) ou d’un parapet au centre.
+    ornementation:
+    - Certains exemples de maisons « boomtown » plus ornées comprennent des insertions en pierre sur la
+      façade, comme des bas-reliefs aux motifs géométriques, ou encore des encadrements d’ouvertures en
+      pierre.
+  variants:
+  - n: 1
+    title_fr: La maison « boomtown » implantée en fond de parcelle
+    description_fr: L’implantation en fond de parcelle est relativement fréquente. Dans ce cas, une cour
+      avant de dimensions importantes et munie d’une clôture sépare la maison de la rue. La composition
+      générale du bâtiment demeure habituellement la même.
+'1.4':
+  name_fr: La maison de vétérans
+  profile_fr:
+    implantation:
+    - La maison de vétérans est implantée de façon isolée. La marge de recul avant peut varier entre 2,5
+      et 8,5 mètres et les marges latérales n’ont pas de dimensions typiques. L’implantation des façades
+      forme très souvent des alignements réguliers dans les secteurs comprenant des concentrations de
+      maisons de vétérans, comme par exemple sur le boulevard Monk (unité 3.10) ainsi que sur les rues
+      Jolicoeur, Holy Cross et Angers (unité 3.7). Il est fréquent de retrouver de grandes surfaces gazonnées
+      dans la cour avant.
+    volumetrie:
+    - La maison de vétérans présente un plan simple de forme rectangulaire ou carrée, à l’origine sans
+      saillie mis à part un porche couvert. Elle possède un seul étage. Son toit est en pente à deux versants,
+      en pavillon ou à croupes. Le faîte du toit est tantôt parallèle à la rue, tantôt perpendiculaire
+      à celle-ci. Le rezde-chaussée est surélevé de 2 à 5 contremarches par rapport au niveau du sol et
+      accessible par un escalier extérieur. Les modèles plus tardifs et les cas modifiés comportent quelques
+      éléments en saillie comme un porche, une galerie ou des fenêtres de type « bow window » peu proéminentes.
+    materiaux:
+    - La maison de vétérans possède un soubassement en béton, parfois ajouté ou surélevé après sa construction.
+      Le déclin de bois ou les revêtements légers comme le bardeau d’amiante et le vinyle sont les matériaux
+      privilégiés à l’origine pour les façades. D’autres modèles sont recouverts de brique et parfois
+      de pierre artificielle. Les toitures sont revêtues de bardeaux d’asphalte.
+    traitement_des_facades:
+    - Ornementation — Les façades sont sobres et possèdent très peu de détails ornementaux. La porte est
+      située au centre de la façade et les fenêtres sur les côtés. La façade est légèrement asymétrique,
+      c’est-à-dire que très souvent l’une des deux fenêtres est plus large. Sur les bâtiments revêtus
+      d’un matériau léger, on remarque parfois une différenciation horizontale de la couleur des matériaux
+      sur le mur pignon. Lorsque les combles sont habités, les espaces sont habituellement éclairés par
+      des fenêtres percées dans les murs pignons mais on peut aussi retrouver des lucarnes pratiquées
+      dans la toiture.
+    ouvertures:
+    - La dimension et les proportions des ouvertures sont variables. Il est fréquent d’observer un changement
+      de modèles d’ouvertures dans la façade pour exprimer les différentes fonctions des pièces intérieures.
+      Par exemple, on retrouve une grande baie vitrée pour la salle de séjour et de plus petites ouvertures
+      pour les chambres.
+    - Les portes sont simples et sans imposte.
+    - L’encadrement des ouvertures est rarement souligné, si ce n’est par la présence de volets décoratifs
+      aux fenêtres.
+  triad:
+    ornementation:
+    - Les façades sont sobres et possèdent très peu de détails ornementaux. La porte est située au centre
+      de la façade et les fenêtres sur les côtés. La façade est légèrement asymétrique, c’est-à-dire que
+      très souvent l’une des deux fenêtres est plus large. Sur les bâtiments revêtus d’un matériau léger,
+      on remarque parfois une différenciation horizontale de la couleur des matériaux sur le mur pignon.
+      Lorsque les combles sont habités, les espaces sont habituellement éclairés par des fenêtres percées
+      dans les murs pignons mais on peut aussi retrouver des lucarnes pratiquées dans la toiture.
+  variants:
+  - n: 1
+    title_fr: La maison de vétérans jumelée
+    description_fr: L’implantation jumelée forme la principale variante de la maison de vétérans dans
+      l’arrondissement du Sud-Ouest. Les exemples sont toutefois isolés et relativement peu nombreux.
+  - n: 2
+    title_fr: Le bungalow
+    description_fr: La composition architecturale du bungalow est similaire à celle des maisons de vétérans
+      mais son plan est plus allongé et la pente du toit généralement moins prononcée. Le bungalow est
+      rare dans l’arrondissement du Sud-Ouest. Lorsqu’il est présent, il s’agit habituellement d’une exception
+      dans le paysage bâti et il ne forme donc pas d’alignements réguliers avec d’autres bâtiments semblables.
+'1.5':
+  name_fr: La maison de ville
+  profile_fr:
+    implantation:
+    - Les maisons de ville sont principalement implantées de façon jumelée ou contiguë. Bien que dans
+      les cas jumelés la marge latérale peut varier, la marge de recul avant est généralement importante
+      et varie entre 5 et 8 mètres. L’aménagement des cours avant présente régulièrement plusieurs éléments
+      de paysagement dont des haies ou des arbres et un espace de stationnement pour les voitures.
+    volumetrie:
+    - La maison de ville est un bâtiment dont le plan est de forme rectangulaire et qui possède 2 étages.
+      Le toit est généralement en pente à pignon ou en croupe. Le rez-de-chaussée est surélevé de 2 à
+      5 contremarches par rapport au niveau du sol. Plusieurs maisons de ville présentent des saillies
+      en façade mais leur position varie d’une à l’autre.
+    - Il est fréquent que les maisons de ville présentent un garage intérieur. Celui-ci est localisé soit
+      dans un volume en saillie au rez-de-chaussée ou en sous-sol, ce qui commande la présence d’une rampe
+      d’accès.
+    materiaux:
+    - Le socle est formé de la fondation en béton. La brique est dominante comme matériau de revêtement
+      de la façade. Il est cependant fréquent d’observer des changements de matériaux sur certaines parties
+      du bâtiment et ce, notamment par l’utilisation d’un revêtement léger (bois ou matière synthétique).
+      Les toitures sont revêtues de bardeau d’asphalte.
+    traitement_des_facades:
+    - Socle — Le socle est exprimé par une fondation apparente.
+    - Corps — Le corps de la façade est asymétrique. On retrouve un premier alignement vertical composé
+      des portes principales et d’une fenêtre à l’étage et un deuxième alignement composé seulement de
+      fenêtres. La composition des façades est généralement inversée en alternance d’un bâtiment à l’autre
+      de manière à créer un axe de symétrie entre les bâtiments.
+    - Couronnement — Le couronnement est peu exprimé.
+    - Ornementation — Les façades sont sobres et possèdent très peu de détails ornementaux.
+    ouvertures:
+    - La dimension et les proportions des ouvertures sont variables. Il est fréquent d’observer l’utilisation
+      d’ouverture de taille différente pour exprimer les diverses fonctions des pièces intérieures. Par
+      exemple, on retrouve une grande baie vitrée pour la salle de séjour et de plus petites ouvertures
+      pour les chambres.
+    - Les portes sont simples et sans imposte.
+    - L’encadrement des ouvertures est rarement exprimé, si ce n’est par la présence de volets décoratifs
+      aux fenêtres.
+  triad:
+    socle:
+    - Le socle est exprimé par une fondation apparente.
+    corps:
+    - Le corps de la façade est asymétrique. On retrouve un premier alignement vertical composé des portes
+      principales et d’une fenêtre à l’étage et un deuxième alignement composé seulement de fenêtres.
+      La composition des façades est généralement inversée en alternance d’un bâtiment à l’autre de manière
+      à créer un axe de symétrie entre les bâtiments.
+    couronnement:
+    - Le couronnement est peu exprimé.
+    ornementation:
+    - Les façades sont sobres et possèdent très peu de détails ornementaux.
+  variants: []
+'2.1':
+  name_fr: Le duplex avec escalier intérieur
+  profile_fr:
+    implantation:
+    - Le duplex avec escalier intérieur est généralement implanté de façon contiguë. Dans la plupart des
+      cas, il ne possède pas de marge de recul avant, ce qui explique la présence de l’escalier d’accès
+      au deuxième logement à l’intérieur. Les façades forment des alignements réguliers.
+    volumetrie:
+    - Le plan des duplex avec escalier intérieur est de forme rectangulaire et sans saillie. Il possède
+      2 étages et le rez-de-chaussée est faiblement surélevé par rapport au niveau du sol (2 à 3 contremarches).
+      Le toit est plat. Il y a une possibilité d’un petit balcon à l’étage au-dessus des portes d’entrée,
+      principalement lorsque celles-ci sont jumelées.
+    materiaux:
+    - Le socle est revêtu de pierres à bossages. La brique est le matériau de revêtement dominant pour
+      le corps de la façade, mais quelques bâtiments sont revêtus de pierres à bossages ou de déclin de
+      bois. Les balcons sont en bois et les garde-corps sont en métal.
+    traitement_des_facades:
+    - Socle — Le socle du bâtiment se distingue par un ou deux rangs de pierres à bossages. Sur les bâtiments
+      transformés, il est fréquent de voir le remplacement de la pierre par du béton apparent.
+    - 'Corps — On observe deux modes de composition du corps de la façade des duplex avec escalier intérieur
+      : avec portes séparées ou avec portes jumelées. Dans ce premier mode de composition, les portes
+      et les fenêtres sont disposées en alternance au rez-de-chaussée. Il est alors fréquent que les ouvertures
+      du rezde-chaussée ne soient pas alignées avec celles de l’étage (fig. 2.1.1). Le deuxième mode de
+      composition présente deux alignements verticaux. L’un des alignements est formé de portes jumelées
+      au rez-dechaussée et d’une fenêtre ou d’un balcon à l’étage. L’autre alignement est formé uniquement
+      de fenêtres (fig. 2.1.2).'
+    - Couronnement — Le couronnement se démarque par une corniche moulurée plus ou moins ouvragée selon
+      le cas.
+    ouvertures:
+    - Les fenêtres d’origine sont généralement à guillotine ou à battants avec ou sans imposte. Cependant,
+      les fenêtres que l’on retrouve aujourd’hui sont des modèles de remplacement. Par conséquent, on
+      retrouve fréquemment des modèles de fenêtres plus récents telle la fenêtre coulissante. La proportion
+      dominante des ouvertures équivaut à 1 largeur = ½ hauteur. Il est aussi fréquent que les ouvertures
+      possèdent une forme en arc surbaissé.
+    - Les portes sont simples avec ou sans imposte. La hauteur de l’imposte est variable. Les portes sont
+      parfois jumelées.
+    - Les linteaux des ouvertures sont composés d’un élément rectangulaire en pierre de taille ou d’un
+      appareillage de briques en soldat. La pierre de taille est utilisée seulement pour les fenêtres
+      rectangulaires. Dans le cas des bâtiments dont le corps de la façade est revêtu de pierres à bossages,
+      l’encadrement des ouvertures est formé de pierres de taille. Dans ces cas, le linteau est parfois
+      intégré à un bandeau qui couvre la largeur de la façade.
+  triad:
+    socle:
+    - Le socle du bâtiment se distingue par un ou deux rangs de pierres à bossages. Sur les bâtiments
+      transformés, il est fréquent de voir le remplacement de la pierre par du béton apparent.
+    corps:
+    - 'On observe deux modes de composition du corps de la façade des duplex avec escalier intérieur :
+      avec portes séparées ou avec portes jumelées. Dans ce premier mode de composition, les portes et
+      les fenêtres sont disposées en alternance au rez-de-chaussée. Il est alors fréquent que les ouvertures
+      du rezde-chaussée ne soient pas alignées avec celles de l’étage (fig. 2.1.1). Le deuxième mode de
+      composition présente deux alignements verticaux. L’un des alignements est formé de portes jumelées
+      au rez-dechaussée et d’une fenêtre ou d’un balcon à l’étage. L’autre alignement est formé uniquement
+      de fenêtres (fig. 2.1.2).'
+    couronnement:
+    - Le couronnement se démarque par une corniche moulurée plus ou moins ouvragée selon le cas.
+  variants:
+  - n: 1
+    title_fr: Le duplex avec escalier intérieur et plus de deux logements
+    description_fr: Dans la première période de construction de ce type de logement, soit environ entre
+      1850 et 1875, la codification architecturale du duplex avec escalier intérieur n’était pas encore
+      achevée. Notamment, la largeur des parcelles sur lesquelles les duplex étaient implantés pouvait
+      varier. Cette variation a amené la construction de duplex avec escalier intérieur qui possèdent
+      plus de deux logements. La composition architecturale de ceux-ci peut varier. Les portes sont parfois
+      jumelées, parfois séparées.
+  - n: 2
+    title_fr: Le duplex avec escalier intérieur et porte cochère
+    description_fr: En raison de l’absence de ruelle, la porte cochère est une solution fréquente sur
+      ce type de bâtiment pour donner accès à la cour arrière. La disposition de la porte cochère est
+      généralement sur le côté de la façade sauf si le duplex est jumelé. Alors, on retrouve un bâtiment
+      de plus grande dimension où la porte cochère est située au centre du rez-de-chaussée. Une fenêtre
+      simple ou jumelée, située au centre de la façade à l’étage, vient compléter la composition architecturale.
+  - n: 3
+    title_fr: Maison en rangée
+    description_fr: La maison en rangée est d’un gabarit et d’une composition architecturale similaire
+      au duplex avec escalier intérieur, à l’exception qu’elle ne possède qu’un seul logement. Le nom
+      maisons en rangée est généralement utilisé car elles étaient construites en série, par groupes de
+      bâtiments, ce qui produisait une très grande homogénéité. Cependant, ce type d’habitation est relativement
+      rare dans l’arrondissement du Sud-Ouest. Souvent, la maison en rangée s’y retrouve de façon individuelle,
+      en raison de la présence d’une parcelle atypique plus étroite sur laquelle la construction de deux
+      logements était difficile.
+'2.2':
+  name_fr: Le duplex avec escalier extérieur
+  profile_fr:
+    implantation:
+    - Le duplex avec escalier extérieur est implanté de façon contiguë. Il possède une marge avant qui
+      varie de 2 à 4,5 mètres. L’implantation des façades avant forme généralement des alignements réguliers.
+      L’aménagement des cours avant demeure sobre et une clôture basse en métal est parfois présente pour
+      délimiter la cour de l’espace public.
+    volumetrie:
+    - Ce bâtiment possède un plan de forme rectangulaire simple et 2 étages avec toit plat. Le rez-de-chaussée
+      y est surélevé de 2 à 4 contremarches par rapport au niveau du sol. On retrouve un balcon à l’étage
+      ainsi qu’un porche d’entrée couvert par ce balcon au rez-de-chaussée. Un escalier extérieur permet
+      l’accès au logement de l’étage. La forme de l’escalier est généralement en forme de « L » puisqu’il
+      donne accès au balcon latéralement.
+    materiaux:
+    - Le socle est composé de béton.
+    - La brique est le matériau de revêtement dominant du corps de la façade pour ce type architectural.
+    - Les balcons sont en bois et les garde-corps des balcons et des escaliers sont en métal.
+    traitement_des_facades:
+    - Socle — Le socle est peu exprimé et généralement formé de la fondation apparente.
+    - Corps — La composition du corps de la façade est symétrique. Les portes forment la travée verticale
+      centrale. Les 2 travées latérales sont constituées d’un alignement vertical de fenêtres.
+    - Couronnement — La composition du couronnement est variée. On retrouve des couronnements simples
+      formés que d’un solin métallique, ainsi que des couronnements plus complexes constitués d’une corniche
+      moulurée en bois ou en métal ou d’un parapet à fronton. Parfois, un léger avant-toit peut aussi
+      marquer le couronnement.
+    ouvertures:
+    - Le type de fenêtre est variable notamment en raison de la grande présence de fenêtres de remplacement.
+      La fenêtre à guillotine semble être la fenêtre dominante pour ce type de bâtiment. La proportion
+      dominante des fenêtres est de 1 largeur = ½ hauteur.
+    - Les portes sont simples et comportent généralement une imposte de faible hauteur.
+    - Les linteaux sont droits et formés de briques en soldat ou de pierres. Sur certains bâtiments, les
+      linteaux sont en forme d’arc surbaissé.
+  triad:
+    socle:
+    - Le socle est peu exprimé et généralement formé de la fondation apparente.
+    corps:
+    - La composition du corps de la façade est symétrique. Les portes forment la travée verticale centrale.
+      Les 2 travées latérales sont constituées d’un alignement vertical de fenêtres.
+    couronnement:
+    - La composition du couronnement est variée. On retrouve des couronnements simples formés que d’un
+      solin métallique, ainsi que des couronnements plus complexes constitués d’une corniche moulurée
+      en bois ou en métal ou d’un parapet à fronton. Parfois, un léger avant-toit peut aussi marquer le
+      couronnement.
+  variants:
+  - n: 1
+    title_fr: Duplex avec escalier extérieur asymétrique
+    description_fr: Cette variante possède une composition asymétrique des façades. L’alignement des portes
+      est alors situé dans l’une des travées latérales.
+  - n: 2
+    title_fr: Duplex avec escalier extérieur à trois logements
+    description_fr: Une autre variante est formée par la présence de 3 logements. L’étage est alors subdivisé
+      en deux. Cette variante affecte la composition de la façade par la présence de portes à l’étage
+      dans la travée centrale.
+'2.3':
+  name_fr: Le duplex surélevé
+  profile_fr:
+    implantation:
+    - Ce duplex est contigu et possède une marge de recul avant qui varie de 3 à 5 mètres. La construction
+      en série de ces bâtiments se réalise généralement avec un alignement régulier des façades. Les aménagements
+      de la cour avant sont principalement composés de surfaces gazonnées.
+    volumetrie:
+    - Ces bâtiments sont de forme rectangulaire simple. Ils possèdent 2 étages et un toit plat. Leur rez-dechaussée
+      est généralement surélevé de 5 à 10 contremarches. Le sous-sol comporte parfois un espace de stationnement
+      intérieur. Par conséquent, une rampe d’accès permet la liaison entre la rue et le niveau du sous-sol.
+      La présence de fenêtres en saillie ou de balcon est rare.
+    materiaux:
+    - Le socle est en béton.
+    - La brique est le matériau de revêtement dominant pour le corps de la façade. On retrouve parfois
+      de la pierre pour souligner certains aspects du bâtiment, notamment les rez-de-chaussée.
+    traitement_des_facades:
+    - Socle — Le socle est formé par la fondation apparente en béton. Il est possible que le niveau du
+      rez-de-chaussée se distingue par l’utilisation de la pierre comme matériau de revêtement.
+    - Corps — On retrouve deux modes de composition du corps de la façade.
+    - Corps — Le premier est formé d’une composition symétrique à 3 travées verticales. La travée centrale
+      possède un alignement des 2 portes principales au rez-de-chaussée et d’un balcon à l’étage et les
+      travées latérales sont formées d’un alignement de fenêtres (fig. 2.3.1).
+    - Corps — Le second mode de composition est similaire au premier à l’exception près qu’une seule porte
+      est présente au centre du rez-de-chaussée. La porte d’accès au logement de l’étage se trouve sur
+      l’un des côtés de la façade. Ces duplex sont généralement construits de façon jumelée. Ainsi, les
+      portes d’accès au logement de l’étage de 2 bâtiments voisins se trouvent jumelées (fig. 2.3.2).
+    - Couronnement — Le couronnement est simple et généralement exprimé par un bandeau de pierre ou un
+      avant-toit.
+    ouvertures:
+    - Les dimensions et proportions des ouvertures sont variables. On remarque la présence de grandes
+      baies vitrées aux proportions relativement carrées. Ces ouvertures sont formées d’un regroupement
+      de plusieurs châssis soit fixes, à battants ou coulissants. Les autres ouvertures sont généralement
+      de proportion 1 largeur = ½ hauteur.
+    - Les portes sont simples et sans imposte. On retrouve parfois des portes jumelées.
+    - Les encadrements des ouvertures sont principalement composés d’un linteau et d’un appui en pierre.
+      Sur certains bâtiments, le linteau n’est pas exprimé architecturalement.
+  triad:
+    socle:
+    - Le socle est formé par la fondation apparente en béton. Il est possible que le niveau du rez-de-chaussée
+      se distingue par l’utilisation de la pierre comme matériau de revêtement.
+    corps:
+    - On retrouve deux modes de composition du corps de la façade.
+    - Le premier est formé d’une composition symétrique à 3 travées verticales. La travée centrale possède
+      un alignement des 2 portes principales au rez-de-chaussée et d’un balcon à l’étage et les travées
+      latérales sont formées d’un alignement de fenêtres (fig. 2.3.1).
+    - Le second mode de composition est similaire au premier à l’exception près qu’une seule porte est
+      présente au centre du rez-de-chaussée. La porte d’accès au logement de l’étage se trouve sur l’un
+      des côtés de la façade. Ces duplex sont généralement construits de façon jumelée. Ainsi, les portes
+      d’accès au logement de l’étage de 2 bâtiments voisins se trouvent jumelées (fig. 2.3.2).
+    couronnement:
+    - Le couronnement est simple et généralement exprimé par un bandeau de pierre ou un avant-toit.
+  variants: []
+'2.4':
+  name_fr: Le duplex de trois étages
+  profile_fr:
+    implantation:
+    - L’implantation dominante est contiguë et sans marge de recul avant. Lorsqu’une marge de recul avant
+      est présente, elle permet généralement l’insertion d’un escalier d’accès extérieur pour le rez-de-chaussée.
+      Le duplex de trois étages est implanté en alignement sauf s’il est construit indépendamment des
+      bâtiments voisins. En raison de la faible marge de recul avant, aucun aménagement paysager n’est
+      caractéristique de ce type de bâtiment.
+    volumetrie:
+    - Le duplex de trois étages possède un corps de bâti rectangulaire de 3 étages. On remarque généralement
+      la présence d’une fausse mansarde. Le rez-de-chaussée est surélevé de 3 contremarches sauf s’il
+      y a présence d’une marge de recul avant. Le rez-de-chaussée peut alors être surélevé jusqu’à 8 contremarches.
+      Lorsque présents, les balcons sont situés au premier étage, au-dessus des portes d’entrée. Les fenêtres
+      en saillie sur tous les niveaux sont présentes uniquement sur les bâtiments implantés avec une marge
+      de recul avant.
+    materiaux:
+    - Le socle est généralement revêtu de pierres à bossages et parfois de pierres de taille
+    - La brique est le matériau de revêtement dominant. On retrouve toutefois quelques duplex de trois
+      étages revêtus de pierres à bossages. Les fausses mansardes étaient originellement revêtues d’ardoise
+      ou de tôle mais ces matériaux ont souvent été remplacés par du bardeau d’asphalte.
+    - Les balcons et escaliers sont généralement en bois avec des garde-corps en métal.
+    traitement_des_facades:
+    - Socle — Le socle est composé de un à trois rangs de pierres. Sur certains bâtiments, le rang de
+      pierre supérieur peut être d’une texture différente que les rangs inférieurs de manière à créer
+      un bandeau horizontal entre le socle et le corps du bâtiment. De même, lorsque toute la façade est
+      en pierre, on remarque généralement un changement de texture et/ou de taille des blocs de pierre
+      entre le socle et le corps de la façade.
+    - Corps — Le mode de composition dominant pour le corps de la façade est asymétrique et formé de deux
+      travées verticales. La première travée est formée d’un alignement des portes jumelées au rez-de-chaussée
+      et des fenêtres aux étages. Il est possible d’y observer la présence d’un balcon au premier étage.
+      La deuxième travée est formée uniquement d’un alignement vertical de fenêtres. C’est là que l’on
+      retrouve les fenêtres en saillie lorsque le bâtiment est implanté avec une marge de recul avant.
+    - Couronnement — Le couronnement est formé d’une fausse mansarde et d’une corniche moulurée à modillons
+      ou à consoles sous la mansarde. Les lucarnes de la fausse mansarde sont de formes diversifiées et
+      plus ou moins ornementées selon les cas.
+    ouvertures:
+    - Les ouvertures dominantes sont à guillotine ou à battants avec imposte. Leur proportion sont de
+      1 largeur = ½ hauteur.
+    - Les portes sont généralement simples ou jumelées et possèdent une imposte.
+    - Les encadrements des ouvertures sont composés d’un linteau droit en pierre ou d’une platebande en
+      brique formant un arc surbaissé. Pour les bâtiments revêtus de pierres à bossages, on retrouve un
+      encadrement complet en pierre de taille. Sur certains bâtiments plus ornementés, le linteau est
+      intégré à un bandeau horizontal.
+  triad:
+    socle:
+    - Le socle est composé de un à trois rangs de pierres. Sur certains bâtiments, le rang de pierre supérieur
+      peut être d’une texture différente que les rangs inférieurs de manière à créer un bandeau horizontal
+      entre le socle et le corps du bâtiment. De même, lorsque toute la façade est en pierre, on remarque
+      généralement un changement de texture et/ou de taille des blocs de pierre entre le socle et le corps
+      de la façade.
+    corps:
+    - Le mode de composition dominant pour le corps de la façade est asymétrique et formé de deux travées
+      verticales. La première travée est formée d’un alignement des portes jumelées au rez-de-chaussée
+      et des fenêtres aux étages. Il est possible d’y observer la présence d’un balcon au premier étage.
+      La deuxième travée est formée uniquement d’un alignement vertical de fenêtres. C’est là que l’on
+      retrouve les fenêtres en saillie lorsque le bâtiment est implanté avec une marge de recul avant.
+    couronnement:
+    - Le couronnement est formé d’une fausse mansarde et d’une corniche moulurée à modillons ou à consoles
+      sous la mansarde. Les lucarnes de la fausse mansarde sont de formes diversifiées et plus ou moins
+      ornementées selon les cas.
+  variants:
+  - n: 1
+    title_fr: Le duplex de trois étages avec porte cochère
+    description_fr: En raison de l’absence de ruelle dans plusieurs secteurs, la porte cochère permet
+      l’accès à la cour arrière. La porte cochère est souvent présente au centre de deux duplex de trois
+      étages jumelés. Ainsi, la composition de la façade est la même que celle décrite précédemment mais
+      une travée verticale supplémentaire est ajoutée entre les deux bâtiments. Il est à noter que la
+      construction en série du duplex de trois étages peut amener la construction d’une seule porte cochère
+      pour plusieurs bâtiments tel que l’illustre l’ensemble situé sur la rue de la Montagne (fig. 2.4.6).
+  - n: 2
+    title_fr: Triplex avec toit en fausse mansarde
+    description_fr: Le duplex de trois étages possède généralement deux logements. Dans de rares cas,
+      un troisième logement s’y insère, ce qui peut être observé soit par l’utilisation commune de l’une
+      des portes d’accès du rez-de-chaussée, soit par l’ajout d’une troisième porte. Dans ce deuxième
+      cas, la composition de la façade s’en trouve modifiée. Les possibilités de regroupement des portes
+      et d’alignement des ouvertures sont alors nombreuses. Les figures 2.4.7 et 2.4.8 représentent deux
+      exemples différents de regroupement. Cette variante pourrait également être identifiée comme une
+      variante à fausse mansarde du triplex avec escalier intérieur (type architectural 2.5).
+'2.5':
+  name_fr: Le triplex avec escalier intérieur
+  profile_fr:
+    implantation:
+    - Le triplex avec escalier intérieur est implanté de façon contiguë et sans marge de recul avant.
+      Cependant, sa façade ne respecte pas un alignement régulier avec celle des bâtiments voisins. Il
+      n’y a pas d’aménagement paysager.
+    volumetrie:
+    - Ce type architectural possède un corps de bâti rectangulaire simple avec un toit plat. La surélévation
+      du rez-de-chaussée par rapport au niveau du sol est inférieure à trois contremarches. Il y a une
+      possibilité de balcons aux étages. Aucune fenêtre en saillie n’est présente.
+    materiaux:
+    - Le socle est revêtu de pierres à bossages.
+    - La brique est le matériau de revêtement dominant. Certains triplex avec escalier intérieur sont
+      cependant revêtus de pierres à bossages.
+    - Les balcons sont en bois et les garde-corps sont en métal. Les marches qui permettent l’accès au
+      rez-dechaussée sont généralement en maçonnerie.
+    traitement_des_facades:
+    - Socle — Le socle est exprimé par la présence de 1 à 3 rangs de pierres à bossages. Les fondations
+      apparentes en béton sont généralement le résultat de travaux de rénovation.
+    - Corps — La composition du corps de la façade est variable tant dans la position des portes au rez-de-chaussée
+      que dans l’alignement vertical des ouvertures. Sur certains bâtiments, les portes sont toutes jumelées,
+      ce qui amène une longue suite de portes au rez-de-chaussée (fig. 2.5.1). Sur d’autres bâtiments,
+      on retrouve 2 portes jumelées sur un côté de la façade et une porte simple à l’autre extrémité.
+      Finalement, il est également possible de retrouver les 3 portes séparées et divisées par des fenêtres.
+      Cette grande variation dans la disposition des portes favorise le non-alignement vertical des fenêtres
+      des étages avec les ouvertures du rez-de-chaussée. Cependant, les alignements verticaux sont réguliers
+      pour les 2 étages supérieurs. Il est possible de retrouver des triplex avec escalier intérieur jumelés.
+      La ligne de lot agit alors comme axe de symétrie (fig. 2.5.1).
+    - Couronnement — Le couronnement du bâtiment est composé d’une corniche moulurée en bois avec modillons
+      ou consoles. Il est également possible de retrouver des corniches de briques ainsi que des fausses
+      mansardes.
+    ouvertures:
+    - Les fenêtres sont à guillotine ou à battants avec imposte. Leurs proportions sont de 1 largeur =
+      ½ hauteur.
+    - Les portes sont simples ou jumelées et possèdent une imposte.
+    - Les encadrements des ouvertures sont exprimés par la présence d’un linteau droit en brique ou en
+      pierre ou d’une platebande en brique en forme d’arc surbaissé. Les bâtiments revêtus de pierres
+      à bossages possèdent des encadrements complets en pierre de taille.
+  triad:
+    socle:
+    - Le socle est exprimé par la présence de 1 à 3 rangs de pierres à bossages. Les fondations apparentes
+      en béton sont généralement le résultat de travaux de rénovation.
+    corps:
+    - La composition du corps de la façade est variable tant dans la position des portes au rez-de-chaussée
+      que dans l’alignement vertical des ouvertures. Sur certains bâtiments, les portes sont toutes jumelées,
+      ce qui amène une longue suite de portes au rez-de-chaussée (fig. 2.5.1). Sur d’autres bâtiments,
+      on retrouve 2 portes jumelées sur un côté de la façade et une porte simple à l’autre extrémité.
+      Finalement, il est également possible de retrouver les 3 portes séparées et divisées par des fenêtres.
+      Cette grande variation dans la disposition des portes favorise le non-alignement vertical des fenêtres
+      des étages avec les ouvertures du rez-de-chaussée. Cependant, les alignements verticaux sont réguliers
+      pour les 2 étages supérieurs. Il est possible de retrouver des triplex avec escalier intérieur jumelés.
+      La ligne de lot agit alors comme axe de symétrie (fig. 2.5.1).
+    couronnement:
+    - Le couronnement du bâtiment est composé d’une corniche moulurée en bois avec modillons ou consoles.
+      Il est également possible de retrouver des corniches de briques ainsi que des fausses mansardes.
+  variants:
+  - n: 1
+    title_fr: Le triplex avec escalier intérieur à plus de trois logements
+    description_fr: Bien que ce type de bâtiment soit en majorité un édifice à 3 logements superposés,
+      il est possible qu’il possède plus de 3 logements notamment en fonction de sa largeur ou de sa position
+      relative (par exemple, sur un coin de rue). Les logements situés aux étages supérieurs partagent
+      alors leur escalier d’accès (fig. 2.5.2).
+  - n: 2
+    title_fr: Le triplex avec escalier intérieur situé en coin de rue
+    description_fr: Lorsque situés sur un coin de rue, les triplex avec escalier intérieur possèdent généralement
+      un coin tronqué. On peut alors trouver sur le mur d’angle des balcons aux étages et une porte au
+      rez-dechaussée. La corniche de ces bâtiments est continue sur les 2 façades. Les fenêtres de la
+      façade latérale sont disposées en alignement seulement pour les 2 étages supérieurs (fig. 2.5.3).
+  - n: 3
+    title_fr: Le triplex avec escalier intérieur et porte cochère
+    description_fr: Finalement, le triplex avec escalier intérieur est fréquemment implanté dans un tissu
+      urbain sans ruelle. On retrouve alors une porte cochère pour accéder à la cour arrière. Bien qu’il
+      soit possible qu’un seul bâtiment possède sa propre porte cochère, il est plus fréquent d’observer
+      le partage de la porte cochère entre 2 bâtiments jumelés. Une travée centrale est alors ajoutée
+      à la composition architecturale. Celle-ci peut inclure ou non des ouvertures aux étages supérieurs
+      (fig. 2.5.4).
+'2.6':
+  name_fr: Le triplex avec escalier extérieur
+  profile_fr:
+    implantation:
+    - Le triplex avec escalier extérieur est implanté de façon contiguë et possède une marge de recul
+      avant qui varie entre 2,5 et 5 mètres. L’alignement des façades n’est pas régulier. L’aménagement
+      des cours avant est souvent caractérisé par la présence d’une clôture basse en métal.
+    volumetrie:
+    - Le corps de bâti est rectangulaire et présente parfois des fenêtres en saillie sur tous les niveaux.
+      Le triplex avec escalier extérieur présente généralement une rallonge arrière. La disposition de
+      celle-ci s’inverse d’un bâtiment à l’autre de manière à créer des cours communes. Le toit est plat.
+      La hauteur est de trois étages et la surélévation du rez-de-chaussée par rapport au niveau du sol
+      est de deux à trois contremarches. On retrouve un escalier d’accès extérieur qui conduit au premier
+      étage. La présence de balcons est possible.
+    materiaux:
+    - Le socle est revêtu de pierres à bossages.
+    - La brique est le matériau de revêtement dominant mais quelques bâtiments sont revêtus de pierres
+      à bossages.
+    - Les balcons et les marches des escaliers extérieurs sont en bois et les garde-corps sont en métal.
+    traitement_des_facades:
+    - Socle — Le socle du bâtiment se distingue par la présence de un ou deux rangs de pierres à bossages.
+    - Corps — Deux modes principaux de composition de la façade des triplex avec escalier extérieur sont
+      présents dans l’arrondissement du Sud-Ouest.
+    - Corps — Le premier est une composition asymétrique composée de deux travées verticales (fig. 2.6.1
+      et 2.6.2). La première travée est formée de l’alignement de l’escalier extérieur, des portes d’entrée
+      du premier étage et d’une fenêtre et d’un balcon au deuxième étage. La deuxième travée est formée
+      d’un alignement de fenêtres. Cette travée peut être en saillie par rapport au plan du mur de façade.
+      Dans ce mode de composition, il est fréquent que la porte d’entrée du logement du rez-de-chaussée
+      soit disposée à l’écart de ces 2 alignements verticaux. Elle est alors soit au centre de la façade,
+      soit juste en retrait de l’escalier extérieur.
+    - Corps — Le deuxième mode de composition est symétrique et composé de trois travées verticales (fig.
+      2.6.3). La travée centrale est formée d’un alignement de portes et de balcons et les travées latérales
+      sont formées d’un alignement de fenêtres. Au premier étage, il est possible de retrouver les deux
+      portes d’accès aux logements supérieurs au centre de la façade. L’escalier extérieur est alors légèrement
+      courbé. Il est également possible que l’escalier extérieur soit droit et conduise aux portes d’accès
+      disposées dans l’un des alignements latéraux (fig. 2.6.4).
+    - Corps — Il est fréquent que le porche d’entrée du premier étage soit aménagé en retrait par rapport
+      au plan de la façade.
+    - Couronnement — Le couronnement se démarque par la présence d’une corniche moulurée en bois, d’une
+      corniche en pierre ou d’un parapet à fronton.
+    ouvertures:
+    - Les fenêtres sont principalement à guillotine ou à battants avec ou sans imposte. La proportion
+      des fenêtres est généralement de 1 largeur = ½ hauteur mais elles peuvent être jumelées pour former
+      des ouvertures relativement carrées.
+    - Les portes sont simples et possèdent une imposte. Au premier étage, les portes d’accès aux logements
+      des étages supérieurs sont parfois jumelées.
+    - Les linteaux des ouvertures sont exprimés par un bandeau de pierre de taille ou par des briques
+      en soldat. Dans ce dernier cas, le linteau peut être droit ou en forme d’arc surbaissé.
+  triad:
+    socle:
+    - Le socle du bâtiment se distingue par la présence de un ou deux rangs de pierres à bossages.
+    corps:
+    - Deux modes principaux de composition de la façade des triplex avec escalier extérieur sont présents
+      dans l’arrondissement du Sud-Ouest.
+    - Le premier est une composition asymétrique composée de deux travées verticales (fig. 2.6.1 et 2.6.2).
+      La première travée est formée de l’alignement de l’escalier extérieur, des portes d’entrée du premier
+      étage et d’une fenêtre et d’un balcon au deuxième étage. La deuxième travée est formée d’un alignement
+      de fenêtres. Cette travée peut être en saillie par rapport au plan du mur de façade. Dans ce mode
+      de composition, il est fréquent que la porte d’entrée du logement du rez-de-chaussée soit disposée
+      à l’écart de ces 2 alignements verticaux. Elle est alors soit au centre de la façade, soit juste
+      en retrait de l’escalier extérieur.
+    - Le deuxième mode de composition est symétrique et composé de trois travées verticales (fig. 2.6.3).
+      La travée centrale est formée d’un alignement de portes et de balcons et les travées latérales sont
+      formées d’un alignement de fenêtres. Au premier étage, il est possible de retrouver les deux portes
+      d’accès aux logements supérieurs au centre de la façade. L’escalier extérieur est alors légèrement
+      courbé. Il est également possible que l’escalier extérieur soit droit et conduise aux portes d’accès
+      disposées dans l’un des alignements latéraux (fig. 2.6.4).
+    - Il est fréquent que le porche d’entrée du premier étage soit aménagé en retrait par rapport au plan
+      de la façade.
+    couronnement:
+    - Le couronnement se démarque par la présence d’une corniche moulurée en bois, d’une corniche en pierre
+      ou d’un parapet à fronton.
+  variants:
+  - n: 1
+    title_fr: Le triplex jumelé avec escalier extérieur
+    description_fr: Le triplex avec escalier extérieur est parfois jumelé. On retrouve alors un escalier
+      extérieur commun pour les quatre logements situés aux étages supérieurs. Cette variante du triplex
+      est similaire au multiplex mis à part l’accès indépendant pour tous les logements et la largeur
+      qui est généralement le double du triplex avec escalier extérieur régulier.
+'2.7':
+  name_fr: Le multiplex
+  profile_fr:
+    implantation:
+    - Le multiplex est implanté de façon contiguë. La marge de recul avant varie de 2 à 4,5 mètres. L’alignement
+      des façades est régulier si les multiplex sont construits en série. L’aménagement extérieur est
+      caractérisé par la présence d’une clôture basse en métal ou parfois en bois.
+    volumetrie:
+    - Le corps de bâti est de forme rectangulaire simple et sans saillie. On remarque généralement la
+      présence d’une rallonge arrière. La disposition de celle-ci est inversée d’un bâtiment à l’autre
+      de manière à maximiser l’ensoleillement des cours. La hauteur est de trois étages avec une surélévation
+      du rez-dechaussée par rapport au niveau du sol de deux à trois contremarches. Le toit est plat.
+      On retrouve un balcon sur tous les niveaux au-dessus de l’entrée du rez-de-chaussée. Un escalier
+      extérieur mène au premier étage.
+    materiaux:
+    - Le socle est en béton ou revêtu de pierres à bossages.
+    - La brique est le matériau de revêtement dominant.
+    - Les balcons et les marches des escaliers sont en bois et les garde-corps sont en métal.
+    traitement_des_facades:
+    - Socle — Le socle se distingue par la présence de un ou deux rangs de pierres ou d’une fondation
+      apparente en béton.
+    - Corps — La composition des façades est symétrique. Les portes d’entrées et les balcons sont disposés
+      dans l’alignement central de la façade. On retrouve deux alignements latéraux formés de fenêtres.
+      La présence des portes au premier étage est parfois soulignée par un porche d’entrée en alcôve.
+    - Couronnement — Le couronnement du bâtiment est souligné par la présence d’une corniche moulurée
+      en métal, d’une corniche en brique ou d’un parapet à fronton.
+    ouvertures:
+    - Les fenêtres à guillotine ou à battants avec ou sans imposte sont dominantes. Les proportions de
+      ces fenêtres sont équivalentes à 1 largeur = ½ hauteur.
+    - Les portes sont simples avec imposte. Les portes sont généralement jumelées sauf au dernier étage
+      où elles sont simples.
+    - Les linteaux des ouvertures sont droits en pierre, en brique ou en béton ou constitués d’une platebande
+      en brique en forme d’arc surbaissé.
+  triad:
+    socle:
+    - Le socle se distingue par la présence de un ou deux rangs de pierres ou d’une fondation apparente
+      en béton.
+    corps:
+    - La composition des façades est symétrique. Les portes d’entrées et les balcons sont disposés dans
+      l’alignement central de la façade. On retrouve deux alignements latéraux formés de fenêtres. La
+      présence des portes au premier étage est parfois soulignée par un porche d’entrée en alcôve.
+    couronnement:
+    - Le couronnement du bâtiment est souligné par la présence d’une corniche moulurée en métal, d’une
+      corniche en brique ou d’un parapet à fronton.
+  variants: []
+'3.1':
+  name_fr: La maison d’appartements
+  profile_fr:
+    implantation:
+    - La maison d’appartements peut être isolée, semi-détachée ou contiguë. La marge de recul avant varie
+      de 2,5 à 4,5 mètres. Lorsque présente, la marge latérale varie de 1 à 1,5 mètre. L’alignement des
+      façades est présent pour les bâtiments construits en série.
+    volumetrie:
+    - Les bâtiments possèdent un plan de forme rectangulaire simple. La hauteur est de deux étages avec
+      une surélévation du rez-de-chaussée de cinq à six contremarches. Le niveau du rez-de-chaussée est
+      accessible par un escalier intérieur ou extérieur. Le porche d’entrée et parfois la cage d’escalier
+      sont en saillie. Des balcons sont souvent alignés sur chaque côté de la façade.
+    materiaux:
+    - Le socle est en béton.
+    - La brique est le matériau de revêtement dominant. La pierre peut être utilisée comme matériau de
+      revêtement au rez-de-chaussée.
+    - Lorsque présentes, les fausses toitures sont revêtues de bardeaux d’asphalte.
+    traitement_des_facades:
+    - Socle — La fondation en béton est apparente. Le socle peut également inclure le rez-de-chaussée.
+      Celui-ci est alors revêtu de pierre ce qui crée une division horizontale avec le reste de la façade
+      qui est revêtu de briques.
+    - Corps — Ces bâtiments possèdent une composition symétrique dans laquelle la porte d’accès principale
+      est située au centre. Une ouverture allongée surmonte souvent cette porte afin d’éclairer la cage
+      d’escalier. Un alignement vertical de balcons ou de fenêtres est présent de chaque côté de la travée
+      centrale. Le nombre de fenêtres dans chacun de ces alignements latéraux est variable.
+    - Couronnement — Le couronnement est simple et habituellement composé d’un simple solin métallique.
+      On peut également retrouver un avant-toit peu proéminent ou une fausse toiture. Lorsque le volume
+      de l’escalier est en saillie, il peut être couronné d’un pignon.
+    ouvertures:
+    - Les fenêtres sont de types et proportions variés. On retrouve des fenêtres à battants ou à guillotine
+      dont les proportions sont 1 largeur = ½ hauteur de même que des fenêtres de proportion carrée ou
+      légèrement horizontale. Ces fenêtres sont habituellement composées de parties fixes et mobiles.
+    - La porte d’entrée du rez-de-chaussée est simple ou double. Elle n’est pas surmontée d’une imposte
+      mais peut être accompagnée de fenêtres latérales. On retrouve parfois une marquise ou un avant-toit
+      afin de protéger l’entrée. Les portes des balcons sont des portes simples ou de type porte-fenêtre.
+  triad:
+    socle:
+    - La fondation en béton est apparente. Le socle peut également inclure le rez-de-chaussée. Celui-ci
+      est alors revêtu de pierre ce qui crée une division horizontale avec le reste de la façade qui est
+      revêtu de briques.
+    corps:
+    - Ces bâtiments possèdent une composition symétrique dans laquelle la porte d’accès principale est
+      située au centre. Une ouverture allongée surmonte souvent cette porte afin d’éclairer la cage d’escalier.
+      Un alignement vertical de balcons ou de fenêtres est présent de chaque côté de la travée centrale.
+      Le nombre de fenêtres dans chacun de ces alignements latéraux est variable.
+    couronnement:
+    - Le couronnement est simple et habituellement composé d’un simple solin métallique. On peut également
+      retrouver un avant-toit peu proéminent ou une fausse toiture. Lorsque le volume de l’escalier est
+      en saillie, il peut être couronné d’un pignon.
+  variants: []
+'3.2':
+  name_fr: La conciergerie
+  profile_fr:
+    implantation:
+    - La conciergerie est généralement isolée. Les marges de recul avant et latérales sont alors de dimensions
+      variables. On retrouve également des conciergeries contiguës, construites en ensemble. Les marges
+      avant sont alors uniformes pour tout l’ensemble. Les aménagements paysagers sont caractérisés par
+      la dominance des surfaces gazonnées.
+    volumetrie:
+    - L’immeuble d’appartements possède un plan de forme rectangulaire simple. Le côté le plus large est
+      généralement parallèle à la rue. Sa hauteur varie de trois à quatre étages. Le toit est plat. Les
+      seules saillies présentes en façades sont les alignements verticaux de balcons sur tous les niveaux.
+    materiaux:
+    - Le socle est en béton.
+    - Le corps de la façade est généralement revêtu de briques dont les teintes peuvent varier.
+    traitement_des_facades:
+    - Socle — Le socle est composé de la fondation apparente.
+    - Corps — Le corps de la façade est composé d’un nombre irrégulier d’alignements verticaux d’ouvertures.
+    - Couronnement — Le couronnement est peu exprimé. Il est généralement composé d’un simple solin métallique.
+      L’utilisation de briques d’une couleur contrastante à celle du corps de la façade et disposées en
+      bandeau contribue parfois à former un couronnement.
+    - Couronnement — Le couronnement peut également être formé d’une toiture en projection.
+    ouvertures:
+    - Les types de fenêtres et de portes ainsi que leur proportion sont variés sur ce type de bâtiment.
+    - Le linteau et l’encadrement des ouvertures sont peu ou pas exprimés.
+  triad:
+    socle:
+    - Le socle est composé de la fondation apparente.
+    corps:
+    - Le corps de la façade est composé d’un nombre irrégulier d’alignements verticaux d’ouvertures.
+    couronnement:
+    - Le couronnement est peu exprimé. Il est généralement composé d’un simple solin métallique. L’utilisation
+      de briques d’une couleur contrastante à celle du corps de la façade et disposées en bandeau contribue
+      parfois à former un couronnement.
+    - Le couronnement peut également être formé d’une toiture en projection.
+  variants: []
+'3.3':
+  name_fr: L’immeuble d’appartements
+  profile_fr:
+    implantation:
+    - L’immeuble d’appartements est généralement isolé mais ses marges de recul avant et latérales sont
+      de dimensions variables. Les façades ne forment pas d’alignements réguliers. Les aménagements paysagers
+      sont caractérisés par la dominance des surfaces gazonnées.
+    volumetrie:
+    - L’immeuble d’appartements possède un plan de forme rectangulaire simple. Le côté le plus large est
+      généralement parallèle à la rue. Sa hauteur est de plus de 4 étages. Le toit est plat. Les balcons
+      en saillie sont fréquents.
+    materiaux:
+    - Le socle est en béton.
+    - Le corps de la façade est généralement revêtu de briques dont les teintes peuvent varier.
+    traitement_des_facades:
+    - Socle — Le socle est composé de la fondation apparente.
+    - Corps — Le corps de la façade est composé d’un nombre irrégulier d’alignements verticaux d’ouvertures.
+    - Couronnement — Le couronnement est peu exprimé. Il est généralement composé d’un simple solin métallique.
+    ouvertures:
+    - Les types de fenêtres et de portes ainsi que leur proportion sont variés sur ce type de bâtiment.
+    - Le linteau et l’encadrement des ouvertures sont peu ou pas exprimés.
+  triad:
+    socle:
+    - Le socle est composé de la fondation apparente.
+    corps:
+    - Le corps de la façade est composé d’un nombre irrégulier d’alignements verticaux d’ouvertures.
+    couronnement:
+    - Le couronnement est peu exprimé. Il est généralement composé d’un simple solin métallique.
+  variants: []
+'4':
+  name_fr: L’immeuble à vocation mixte
+  profile_fr:
+    implantation:
+    - L’immeuble à vocation mixte est implanté de façon contiguë, sans marge de recul avant. Les façades
+      forment généralement des alignements réguliers.
+    volumetrie:
+    - L’immeuble à vocation mixte possède un corps de bâti de forme rectangulaire simple. Sa hauteur est
+      de 2 à 3 étages. Son toit est généralement plat mais il peut aussi être en pente ou orné d’une fausse
+      mansarde. La plupart des bâtiments mixtes ne présentent pas de fenêtres en saillie. Lorsqu’elles
+      sont présentes, elles couvrent seulement les étages supérieurs. Des balcons sont parfois présents
+      aux étages supérieurs.
+    materiaux:
+    - Le socle est revêtu de pierres à bossages, de pierres de taille, de béton ou de bois.
+    - Le corps de la façade peut être revêtu de briques ou de pierres à bossages. La pierre est particulièrement
+      présente sur les grandes artères commerciales telles les rues Notre-Dame, Saint-Jacques, du Centre,
+      Wellington et l’avenue de l’Église. Les constructions du boulevard Monk étant plus récentes, elles
+      possèdent plus rarement un revêtement de pierres.
+    - Les fausses mansardes sont revêtues de tôle ou de bardeaux d’ardoise.
+    - Les fenêtres en saillie sont généralement en bois. Les balcons sont en bois et les garde-corps sont
+      en métal.
+    traitement_des_facades:
+    - Couronnement — Contrairement à la plupart des autres types de bâtiment présentés, le socle de l’immeuble
+      à vocation mixte inclut tout le rez-de-chaussée. Une large partie de la façade du rez-de-chaussée
+      est généralement occupée par une vitrine. Des panneaux de bois peuvent occuper l’espace non vitré,
+      notamment la partie sous les vitrines. Une corniche moulurée, généralement en bois, divise le rez-de-chaussée
+      des étages. Sur les bâtiments plus récents, cette corniche est remplacée par un auvent ou des éléments
+      d’affichage.
+    - Couronnement — Lorsque la vitrine n’occupe pas toute la façade, des pilastres en bois ou en pierre
+      peuvent diviser horizontalement la devanture. Sur la partie de la façade revêtue de maçonnerie,
+      le socle est formé d’un bandeau de pierre. Les ouvertures du rez-de-chaussée peuvent ne pas être
+      alignées avec celles des étages supérieurs.
+    - Couronnement — Le corps de la façade est composé d’alignements verticaux et horizontaux d’ouvertures.
+      Le nombre d’alignement est cependant variable d’un bâtiment à l’autre. Lorsque l’on retrouve des
+      balcons, ceux-ci sont alignés verticalement.
+    - Couronnement — Il est à noter que lorsque l’immeuble à vocation mixte est situé sur un coin de rue,
+      le traitement commercial du rez-de-chaussée, c’est-à-dire la vitrine et la corniche, se prolonge
+      généralement sur 1 à 2 mètres sur la façade latérale. La composition du reste de la façade latérale
+      est alors formée d’alignements d’ouvertures pour les étages supérieurs et d’aucune fenêtre ou de
+      fenêtres qui peuvent ne pas être alignées pour le rez-de-chaussée.
+    - Couronnement — Le couronnement est composé d’une corniche moulurée ou d’une fausse mansarde. Lorsque
+      le bâtiment est situé sur un coin de rue, la corniche ou la fausse mansarde couvre les 2 façades.
+      Dans le cas des fausses mansardes, le coin est souvent marqué par un élément proéminent comme une
+      tourelle.
+    ouvertures:
+    - À l’exception des vitrines, les fenêtres sont à guillotine ou à battants avec imposte. Leur proportion
+      est équivalente à 1 largeur = ½ hauteur.
+    - Les portes sont simples avec imposte. La porte du commerce peut être de types variés et possède
+      généralement une grande proportion de vitrage.
+    - L’encadrement des ouvertures dépend du matériau de revêtement. Pour les bâtiments en brique, la
+      présence d’un linteau droit en pierre est dominante. Le linteau peut également être formé de briques
+      en soldat. Sa forme est alors droite ou en arc surbaissé. Pour les bâtiments revêtus de pierres
+      à bossages, on retrouve un encadrement complet en pierre de taille. Il est à noter que la plupart
+      des bâtiments construits après 1945 utilisent peu ou pas d’éléments ornementaux pour exprimer l’encadrement
+      des ouvertures.
+    - 'Figure 4.1.3 : Immeuble à vocation mixte situé sur le boulevard Figure 4.1.4 : Immeuble à vocation
+      mixte situé sur le boulevard Monk, entre les rues Allard et Springland. SO 3631. Monk, entre les
+      rues Springland et Jolicoeur. SO 3637.'
+  triad:
+    couronnement:
+    - Contrairement à la plupart des autres types de bâtiment présentés, le socle de l’immeuble à vocation
+      mixte inclut tout le rez-de-chaussée. Une large partie de la façade du rez-de-chaussée est généralement
+      occupée par une vitrine. Des panneaux de bois peuvent occuper l’espace non vitré, notamment la partie
+      sous les vitrines. Une corniche moulurée, généralement en bois, divise le rez-de-chaussée des étages.
+      Sur les bâtiments plus récents, cette corniche est remplacée par un auvent ou des éléments d’affichage.
+    - Lorsque la vitrine n’occupe pas toute la façade, des pilastres en bois ou en pierre peuvent diviser
+      horizontalement la devanture. Sur la partie de la façade revêtue de maçonnerie, le socle est formé
+      d’un bandeau de pierre. Les ouvertures du rez-de-chaussée peuvent ne pas être alignées avec celles
+      des étages supérieurs.
+    - Le corps de la façade est composé d’alignements verticaux et horizontaux d’ouvertures. Le nombre
+      d’alignement est cependant variable d’un bâtiment à l’autre. Lorsque l’on retrouve des balcons,
+      ceux-ci sont alignés verticalement.
+    - Il est à noter que lorsque l’immeuble à vocation mixte est situé sur un coin de rue, le traitement
+      commercial du rez-de-chaussée, c’est-à-dire la vitrine et la corniche, se prolonge généralement
+      sur 1 à 2 mètres sur la façade latérale. La composition du reste de la façade latérale est alors
+      formée d’alignements d’ouvertures pour les étages supérieurs et d’aucune fenêtre ou de fenêtres
+      qui peuvent ne pas être alignées pour le rez-de-chaussée.
+    - Le couronnement est composé d’une corniche moulurée ou d’une fausse mansarde. Lorsque le bâtiment
+      est situé sur un coin de rue, la corniche ou la fausse mansarde couvre les 2 façades. Dans le cas
+      des fausses mansardes, le coin est souvent marqué par un élément proéminent comme une tourelle.
+  variants:
+  - n: 1
+    title_fr: Le bâtiment résidentiel transformé en immeuble à vocation mixte
+    description_fr: La transformation des rez-de-chaussée est particulièrement fréquente sur les bâtiments
+      résidentiels situés aux intersections. La vitrine commerciale occupe alors une partie seulement
+      de la façade principale ainsi qu’environ 2 mètres de la façade latérale. La composition du rez-de-chaussée
+      commercial est similaire à celle du type de base. Le reste du rez-de-chaussée peut présenter des
+      ouvertures qui ne sont généralement pas alignées verticalement à celles des étages supérieurs. Lorsque
+      le bâtiment transformé n’est pas situé à une intersection, la façade commerciale occupe alors la
+      totalité de la largeur du bâtiment. Cette transformation peut s’appliquer à la plupart des types
+      architecturaux décrits précédemment mais elle est particulièrement fréquente en l’absence de marge
+      de recul avant. Lorsqu’il y a une marge de recul avant, on remarque généralement le recouvrement
+      de la cour avant avec un matériau dur.
+'5':
+  name_fr: L’immeuble à vocation commerciale
+  profile_fr:
+    implantation: []
+    volumetrie: []
+    materiaux: []
+    traitement_des_facades: []
+    ouvertures: []
+  triad: {}
+  variants: []
+'6':
+  name_fr: L’immeuble à vocation industrielle
+  profile_fr:
+    implantation: []
+    volumetrie: []
+    materiaux: []
+    traitement_des_facades: []
+    ouvertures: []
+  triad: {}
+  variants: []
+'7':
+  name_fr: L’immeuble à vocation institutionnelle
+  profile_fr:
+    implantation: []
+    volumetrie: []
+    materiaux: []
+    traitement_des_facades: []
+    ouvertures: []
+  triad: {}
+  variants: []

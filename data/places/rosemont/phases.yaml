@@ -1,0 +1,10 @@
+# The cahier (3.1) divides the borough into three sectors "dont le développement urbain correspond
+# à des périodes historiques différentes": La Petite-Patrie 1885–1930 with the tramway; the quartier
+# Rosemont from the Angus Shops c. 1904; and Nouveau Rosemont after the Second World War. The phases
+# below follow that division, with an agricultural prologue for the côte de la Visitation and the
+# quarries, and a closing phase for the pressure the 2018–2019 shoebox by-law answers.
+- {id: p1, label: Before 1904, start: 1700, end: 1904, title_en: "Côte de la Visitation: farms and quarries", colour_key: p1}
+- {id: p2, label: 1885–1930, start: 1885, end: 1930, title_en: La Petite-Patrie and the tramway, colour_key: p2}
+- {id: p3, label: 1904–1940, start: 1904, end: 1940, title_en: The Angus Shops and the self-built suburb, colour_key: p3}
+- {id: p4, label: 1940–1960, start: 1940, end: 1960, title_en: The garden suburb and the post-war fill, colour_key: p4}
+- {id: p5, label: After 1960, start: 1960, end: 2019, title_en: Closure, densification and the shoebox by-law, colour_key: p5}

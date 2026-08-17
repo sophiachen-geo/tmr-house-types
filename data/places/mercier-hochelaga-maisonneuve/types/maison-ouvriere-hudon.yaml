@@ -1,0 +1,61 @@
+id: mercier-hochelaga-maisonneuve.maison-ouvriere-hudon
+place: mercier-hochelaga-maisonneuve
+phase: p2
+name_en: Company workers' house of the Hudon mill, rue Saint-Germain
+name_fr: La maison ouvrière de la filature Hudon, rue Saint-Germain
+source_ref: "MEM, « Les maisons ouvrières de la rue Saint-Germain » (2017); Évaluation du patrimoine urbain (2005), sector 27.E.1"
+canonical: [duplex-interior-stair]
+styles: [faubourg-vernacular]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical
+principal_cladding: [clay-brick]
+roof: {form: null, pitch_deg: null}
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: 0
+sectors: ["27.E.1"]
+profile:
+  siting_landscape:
+    - Built at the sidewalk edge with no setback, and set in an unbroken run — « disposées en enfilade et en bordure du trottoir ».
+    - Rue Saint-Germain between rues Rouville and Adam, civic numbers 1451 to 1544; one of the three streets sector 27.E.1 names as the first ground of Hochelaga's workers' housing.
+  massing:
+    - Square-ish two-storey volumes — « cubes de bois revêtus de briques ».
+    - Two dwellings, one on the ground floor and one above, reached by a stair inside the building. No exterior stair; this is 1881, nearly twenty years before the outside stair becomes standard in Montréal.
+  articulation: []
+  openings: []
+  materials:
+    - Wood frame faced in brick.
+profile_note: >-
+  Siting, massing and materials are quoted from the MEM (Mémoires des Montréalais / Centre des mémoires
+  montréalaises, Ville de Montréal) article of 8 November 2017 by the Atelier d'histoire
+  Mercier-Hochelaga-Maisonneuve, which is the only account of these houses found in an institutional
+  source; the Évaluation names rue Saint-Germain as a first street of workers' housing but gives no fiche
+  and does not list these buildings individually. Articulation and openings are left empty rather than
+  inferred — no photograph of the row could be verified on Commons, and the houses were renovated in 1981,
+  so present appearance is not evidence of 1881 detailing. The interior stair is the article's own
+  statement, « L'escalier est à l'intérieur », and it is the reason this record attaches to
+  duplex-interior-stair rather than to the exterior-stair members of the plex family.
+example_addresses:
+  - {address: "1451–1544, rue Saint-Germain", note: "Between rues Rouville and Adam; the range given by the MEM article."}
+photos:
+  - {file: null, credit: "pending — no verified free image of the rue Saint-Germain row was found on Wikimedia Commons", kind: placeholder}
+blurb_en: >-
+  The corporate counterpart to Maisonneuve, built two years before Maisonneuve existed. Brick-faced
+  wooden cubes running unbroken along the sidewalk on rue Saint-Germain, two dwellings each with the
+  stair inside, put up in 1881 by the V. Hudon cotton mill for its own workers — and, according to the
+  Ville's MEM, the only surviving nineteenth-century company-built housing in Montréal.
+origin_en: >-
+  Hochelaga industrialised faster than it could house anyone. Four large works arrived between 1871 and
+  1881 — the W.C. McDonald tobacco factory, the Abattoirs de l'Est, the Compagnie des moulins à coton
+  V. Hudon and the Filature Sainte-Anne, the last two merging in 1905 into Dominion Textile, which then
+  held half of the Canadian textile industry — and, in the Évaluation's words, « les terrains sont lotis
+  sans réglementation particulière ». The Hudon mill announced its own workers' housing in early
+  December 1881 and built this row; it was renovated in 1981, exactly a century later. Read this record
+  against the plex on the next page and against Arvida and Témiscaming: an employer housing its
+  workforce directly is what a company town does, and it is precisely what Maisonneuve two years later
+  did not do. Maisonneuve's promoters sold lots and built civic monuments instead, and left the housing
+  to the ordinary speculative builder.

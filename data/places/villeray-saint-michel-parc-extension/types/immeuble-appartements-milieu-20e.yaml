@@ -1,0 +1,118 @@
+id: villeray-saint-michel-parc-extension.immeuble-appartements-milieu-20e
+place: villeray-saint-michel-parc-extension
+page: 93
+phase: p4
+phase_confidence: verified
+name_en: Apartment building of the mid-20th century — the walk-up
+name_fr: Immeuble d'appartements du milieu du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 3.2"
+source_generation: >-
+  By-law Annexe F, fiche 3.2, pp. 3.2.1 to 3.2.5, transcribed verbatim
+sectors: [14.I.3, 14.U.2]
+canonical:
+  - apartment-house-common-hall
+  - small-walkup-interior-stair
+styles:
+  - minimal-traditional
+  - stripped-classicism
+tenure_plan: walk-up
+storeys: 3
+roof: {form: flat, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: underground
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Immeubles d'appartements avec porte d'entrée près du mur latéral
+    summary_fr: "Cette variante ne présente aucune avancée de façade. La porte d’entrée est située près d’un mur latéral."
+  - code: B
+    name_fr: Immeubles d'appartements à fort gabarit
+    summary_fr: "L’immeuble d’appartements à fort gabarit a une volumétrie plus imposante que la typologie de base et ne présente aucun volume en avancée en façade. Le traitement architectural mise sur l’horizontalité par la présence de bandeaux de béton horizontaux qui encadrent les ouvertures de chaque étage."
+  - code: C
+    name_fr: Immeubles d'appartements jumelés (rue D'Iberville)
+    summary_fr: "Cet ensemble particulier se situe dans la zone H03-032 (rue D’Iberville). Les bâtiments sont jumelés, présentent un volume en avancée, des avant-toits en tuile et une fenêtre hexagonale située au-dessus de la porte d’entrée."
+    zones: [H03-032]
+  - code: D
+    name_fr: Immeubles d'appartements jumelés (au nord du parc Jarry)
+    summary_fr: "Cet ensemble particulier se situe dans la zone H01-131 (au nord du parc Jarry). Les bâtiments sont jumelés, ne présentent aucune avancée de façade, et la porte d’entrée est centrée sur la façade. Parfois, une porte de garage est présente en sous-sol."
+    zones: [H01-131]
+  - code: E
+    name_fr: Immeubles d'appartements avec usage commercial au rez-de-chaussée
+    summary_fr: "Ces immeubles présentent un rez-de-chaussée à usage commercial situé près du sol. Il y a une transition dans le traitement architectural entre les usages commerciaux et résidentiels. Lorsqu’implanté sur un coin de rue, le volume est souvent tronqué sur le coin, et de grandes ouvertures sont situées près de l’intersection."
+profile:
+  siting_landscape:
+    - Generally contiguous with its neighbours, but may also be semi-detached or detached.
+    - Sometimes part of a group of similar-looking buildings.
+    - Shallow to medium front margin.
+  massing:
+    - Two to three storeys under a flat roof — the three-storey rule of the conciergerie relaxes.
+    - The ground floor is raised above the street, which allows habitable rooms in the basement.
+    - The façade generally carries a projecting volume of about the building's own height, placed centrally, and it is inside that volume that the common stair sits.
+  articulation:
+    - The dwelling entrance is near ground level, inside the projecting volume, and serves all the dwellings.
+    - The front door is emphasised by a stone architrave.
+    - The façade is usually faced in stone at the ground floor and polychrome brick above.
+    - It normally carries a brick bond pattern, straight lintels, concrete bands and glass-block insertions.
+    - The parapet is generally straight and crowned by a projecting eave.
+  openings:
+    - Openings of vertical proportion, vertically aligned.
+    - The dwellings generally have balconies projecting from the façade.
+  materials:
+    - Stone at the ground floor, polychrome brick above, with glass block worked into the front.
+profile_fr:
+  contexte:
+    - "À partir des années 1940, les immeubles d’appartements ont une stature moins imposante : les bâtiments auront parfois deux étages et leur largeur variera grandement. Cette typologie s’inscrit dans la continuité du modèle d’organisation des conciergeries du début du siècle, qui présentent un escalier commun desservant tous les logements. Les façades sont toutefois moins ornementées qu’au début du siècle, et sont revêtues de matériaux plus modernes, en plus de présenter un couronnement simple."
+  implantation:
+    - "Le bâtiment est généralement implanté de façon contiguë aux immeubles voisins, mais il peut également être implanté de façon jumelée ou isolée. Il fait parfois partie d’un ensemble d’immeubles d’apparence similaire. Sa marge avant est d’une profondeur faible à moyenne."
+  volumetrie:
+    - "Le volume comporte de deux à trois étages et un toit plat. Le rez-de-chaussée est surélevé par rapport à la rue, ce qui permet d’aménager des espaces habitables au sous-sol. La façade présente généralement un volume en avancée de hauteur similaire à celle du bâtiment et positionné de façon centrale au sein duquel l’escalier commun est positionné."
+  traitement_des_facades:
+    - "La porte d’entrée des logements est située près du sol, au sein du volume en avancée, et permet l’accès à tous les logements."
+    - "La façade est souvent revêtue de pierre au rez-de-chaussée et de brique polychrome aux étages. Elle présente habituellement un appareillage de brique, des linteaux droits, des bandeaux de béton et des insertions de blocs de verre. La porte d’entrée est mise en évidence par un chambranle en pierre. Le parapet est généralement droit et couronné d’un avant-toit."
+  ouvertures:
+    - "Les ouvertures sont de proportions verticales et sont alignées verticalement. Les logements bénéficient généralement de balcons, disposés en saillie de la façade."
+  sous_variantes:
+    - "A — IMMEUBLES D’APPARTEMENTS AVEC PORTE D’ENTRÉE PRÈS DU MUR LATÉRAL. Cette variante ne présente aucune avancée de façade. La porte d’entrée est située près d’un mur latéral."
+    - "B — IMMEUBLES D’APPARTEMENTS À FORT GABARIT. L’immeuble d’appartements à fort gabarit a une volumétrie plus imposante que la typologie de base et ne présente aucun volume en avancée en façade. Le traitement architectural mise sur l’horizontalité par la présence de bandeaux de béton horizontaux qui encadrent les ouvertures de chaque étage."
+    - "C — IMMEUBLES D’APPARTEMENTS JUMELÉS (RUE D'IBERVILLE). Cet ensemble particulier se situe dans la zone H03-032 (rue D’Iberville). Les bâtiments sont jumelés, présentent un volume en avancée, des avant-toits en tuile et une fenêtre hexagonale située au-dessus de la porte d’entrée."
+    - "D — IMMEUBLES D’APPARTEMENTS JUMELÉS (AU NORD DU PARC JARRY). Cet ensemble particulier se situe dans la zone H01-131 (au nord du parc Jarry). Les bâtiments sont jumelés, ne présentent aucune avancée de façade, et la porte d’entrée est centrée sur la façade. Parfois, une porte de garage est présente en sous-sol."
+    - "E — IMMEUBLES D’APPARTEMENTS AVEC USAGE COMMERCIAL AU REZ-DE-CHAUSSÉE. Ces immeubles présentent un rez-de-chaussée à usage commercial situé près du sol."
+profile_note: >-
+  The walk-up — the 3.0 divider page gives it that name and glosses it: « On le surnomme walk-up,
+  terme qui réfère à un immeuble résidentiel collectif sans ascenseur. » Two of its five variants are
+  not types at all but named places: variant C is one particular group in zone H03-032 on rue
+  D'Iberville, identified by tiled eaves and a hexagonal window over the door, and variant D is
+  another in zone H01-131 north of parc Jarry. A typology annexe that descends to a hexagonal window
+  above one street's front doors has stopped classifying and started listing, and it is the furthest
+  this by-law goes in that direction. The base typology is worth reading for its section as much as
+  its front: the common stair is put inside a central projecting volume the full height of the
+  building, so the thing that defines the family is expressed on the façade as a vertical bay — the
+  interior stair made visible from the street.
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, pp. 3.2.2 and 3.2.4–3.2.5 — elevation drawings of the typologie
+      de base and of variants A to E. © Ville de Montréal. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  From the 1940s the apartment building comes down in stature: two or three storeys of widely varying
+  width, stone at the ground floor and polychrome brick above, straight lintels, concrete bands and
+  glass block, a straight parapet under a projecting eave. The organisation is unchanged from the
+  conciergerie — one common stair for everyone — but it is now expressed as a central bay standing
+  proud of the façade, with the front door in it.
+origin_en: >-
+  The post-war walk-up, which the Évaluation cahier had already caught on the ground when it recorded
+  Villeray filling with « des blocs comptant quelques appartements » after the war, and which the
+  cahier's 14.U.2 shows in its most ambitious form — the Terrasses Villeray, built by the SCHL in
+  1947 for veterans on a modernist site plan. The by-law's variants C and D are the opposite end of
+  the same story: not a designed ensemble but two ordinary developers' groups, singled out by zone
+  because their details are distinctive.

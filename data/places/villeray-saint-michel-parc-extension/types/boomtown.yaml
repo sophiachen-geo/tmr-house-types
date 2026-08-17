@@ -1,0 +1,95 @@
+id: villeray-saint-michel-parc-extension.boomtown
+place: villeray-saint-michel-parc-extension
+page: 27
+phase: p3
+phase_confidence: verified
+name_en: Boomtown house
+name_fr: Boomtown
+source_ref: "Règlement 01-283-124, Annexe F, fiche 1.4"
+source_generation: >-
+  By-law Annexe F, fiche 1.4, pp. 1.4.1 to 1.4.5, transcribed verbatim
+sectors: [14.I.3]
+canonical:
+  - boomtown-false-front
+styles:
+  - boomtown
+  - vernaculaire-industriel
+tenure_plan: single-family
+storeys: 2
+roof: {form: flat-or-low-slope, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - wood-clapboard
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Boomtown à revêtement léger
+    summary_fr: "Cette variante est revêtue d’un clin en bois plutôt que de maçonnerie. Des chambranles sont présents autour des ouvertures."
+profile:
+  siting_landscape:
+    - Sited contiguously, detached or semi-detached.
+    - Generally found on lots deeper than they are wide — the same lot geometry as the shoebox.
+  massing:
+    - A volume of one or two storeys under a flat roof, or one falling at a low slope towards the rear.
+    - The side walls often carry a stepped parapet.
+    - The ground-floor level is generally close to the level of the ground, which distinguishes it from the raised shoebox.
+  articulation:
+    - The façade composition is symmetrical, with a central door.
+    - A covered gallery the full width of the building gives access to the door.
+    - The parapet is high, often pedimented or carrying a cornice, and gives the building a false, western look.
+    - Apart from a worked crown, buildings of this type are usually plainly treated.
+  openings:
+    - Windows of vertical proportion, disposed rhythmically at each level.
+  materials:
+    - Masonry in the base typology; variant A substitutes wood clapboard and adds architraves round the openings.
+profile_fr:
+  contexte:
+    - "La maison boomtown est associée aux périodes d’essor économique et industriel des villes et est étroitement liée à la typologie shoebox, avec laquelle elle partage plusieurs similitudes. Le type boomtown se déploie habituellement sur deux étages. Le volume compact est généralement surmonté d’un toit plat ou à très faible pente vers l’arrière et est généralement construit d’une charpente en bois à claire-voie, une méthode de construction facile permettant une érection rapide. Le parapet assez haut, souvent à fronton ou orné d’une corniche, donne une allure postiche et western au bâtiment. Une grande galerie couverte se trouve généralement en façade."
+  implantation:
+    - "La maison boomtown est implantée de façon contiguë, isolée ou jumelée et se trouve généralement sur des lots plus profonds que larges."
+  volumetrie:
+    - "Cette typologie présente un volume d’un ou deux étages surmontés d’un toit plat ou à faible pente vers l’arrière. Les murs latéraux présentent souvent un parapet en escalier. Le niveau du rez-de-chaussée est généralement situé près du niveau du sol."
+  traitement_des_facades:
+    - "La composition de la façade est symétrique : la porte d’entrée est centrale et les fenêtres, de proportions verticales, sont disposées de façon rythmée à chaque niveau. La porte d’entrée est accessible par une galerie couverte qui fait la largeur du bâtiment. À l’exception d’un couronnement travaillé, les bâtiments de ce type présentent habituellement un traitement sobre."
+  sous_variantes:
+    - "A — BOOMTOWN À REVÊTEMENT LÉGER. Cette variante est revêtue d’un clin en bois plutôt que de maçonnerie. Des chambranles sont présents autour des ouvertures."
+profile_note: >-
+  The single-variant fiche, and the one whose fiche d'accompagnement is the best short definition of
+  the boomtown anywhere in this project's sources, because it names the construction method rather
+  than only the look: <strong>« une charpente en bois à claire-voie, une méthode de construction
+  facile permettant une érection rapide »</strong>. That is balloon framing, described in French
+  without the English term, and it is the reason the type exists — speed. The fiche then ties the
+  form to the frame: a high parapet, often pedimented or corniced, giving « une allure postiche et
+  western au bâtiment ». It also states outright what other sources leave to be inferred, that the
+  boomtown is « étroitement liée à la typologie shoebox, avec laquelle elle partage plusieurs
+  similitudes » — same lot, same flat roof, same raised front; the difference is the second storey
+  and the ground floor sitting at grade rather than lifted.
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, p. 1.4.2 — elevation drawing of the typologie de base, with the
+      variant A elevation at p. 1.4.5. © Ville de Montréal. Not reproduced. No freely-licensed
+      photograph of a boomtown house identified as being in this borough was found on Wikimedia
+      Commons in this pass; the Commons boomtown photographs that were checked are of other places
+      and are not offered here as evidence for this one.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  Two storeys of open-slat wood frame put up fast in a boom, under a flat roof or one falling gently
+  to the back, with a stepped parapet on the side walls and a high pedimented or corniced parapet on
+  the front that makes the building look taller than it is. A covered gallery runs the width of the
+  façade. The by-law's own word for the effect is <em>postiche</em> — false-fronted.
+origin_en: >-
+  Boomtown is the most widely distributed form on this site, and this record is one of its two
+  Montréal borough entries in Part 10. What this borough adds to the file is the frame: the fiche
+  gives the construction method in plain French — a slatted wood frame, easy to build, quick to
+  raise — where the Charlesbourg plan de conservation names it « une charpente claire, aussi appelée
+  "Balloon Frame" » and most other sources describe only the parapet. The two readings belong
+  together: the parapet is what the fast frame made possible to dress up.

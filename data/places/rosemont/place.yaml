@@ -1,0 +1,164 @@
+id: rosemont
+name_en: Rosemont–La Petite-Patrie (borough of Montréal)
+name_fr: Arrondissement de Rosemont–La Petite-Patrie
+sections: [borough-vernacular]
+region: Ville de Montréal
+borough_of: montreal                       # Part 10a: renders as a sibling under the Montréal header
+founded: 1904                              # the Angus Shops open; the village of Rosemont follows, annexed 1906–1910
+settlement_mode: >-
+  railway-shop suburb laid out by the Rosemont Land Improvement Company on the Crawford farm,
+  self-built in part by the shopmen who worked at Angus
+governing_instruments:
+  - kind: plan-durbanisme
+    title: >-
+      Ville de Montréal, Évaluation du patrimoine urbain — Arrondissement de Rosemont–La Petite-Patrie
+      (cahier no 21 of the 27-cahier series; arrondissement code 26), Service de la mise en valeur du
+      territoire et du patrimoine, Direction du développement urbain, Division du patrimoine et de la
+      toponymie, under Jean-François Gravel; work carried out January 2003 – May 2004 for the Plan
+      d'urbanisme adopted by the Conseil municipal on 23 November 2004; ISBN 2-7647-0469-0, dépôt légal 2005.
+    year: 2005
+    url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+  - kind: zoning
+    title: >-
+      Règlement d'urbanisme de l'arrondissement Rosemont–Petite-Patrie (01-279), codification
+      administrative to 01-279-78 (23 May 2024). Chapitre VIII is headed « Secteurs de valeur
+      patrimoniale, immeubles d'intérêt patrimonial et maisons shoebox d'intérêt »; Annexe F is the
+      address-by-address list « Maisons shoebox de l'arrondissement de Rosemont – La Petite-Patrie ».
+    year: 2001
+    url: https://montreal.ca/articles/reglement-durbanisme-de-larrondissement-de-rosemont-la-petite-patrie-22090
+  - kind: zoning-annex
+    title: >-
+      Règlement 01-279-58, « Règlement modifiant le Règlement d'urbanisme … afin d'encadrer les
+      interventions sur les maisons shoebox », adopted in third and final reading 12 February 2019 and
+      in force across the whole borough on 27 March 2019. Contested provisions in thirty-nine zones
+      went to signature registers and were carried by thirty-nine separate zone by-laws, 01-279-58-01
+      through 01-279-58-39; later amended by 01-279-66, 01-279-67 and 01-279-76.
+    year: 2019
+    url: https://montreal.ca/articles/les-maisons-shoebox-dans-rosemont-la-petite-patrie-22005
+  - kind: PIIA
+    title: >-
+      01-279, Annexe B « Fascicules d'évaluation ». Fascicule 10, « Maison shoebox d'intérêt », sets
+      objectives and criteria for enlarging or altering a shoebox of architectural value 2 or 3, with
+      separate criteria sheets for value 3 and for value 2 and a special rule for a building carrying
+      the Annexe F mention « couronnement de qualité ».
+    year: 2019
+    url: https://montreal.ca/articles/les-maisons-shoebox-dans-rosemont-la-petite-patrie-22005
+  - kind: demolition-control
+    title: >-
+      Règlement régissant la démolition d'immeubles (RCA-6), which carries evaluation criteria of its
+      own. A moratorium on new demolition applications for shoebox houses was voted by the borough
+      council in May 2018 and lifted once 01-279-58 was in force.
+    year: 2018
+    url: https://montreal.ca/articles/les-maisons-shoebox-dans-rosemont-la-petite-patrie-22005
+  - kind: site-du-patrimoine
+    title: >-
+      Site du patrimoine de l'Église-Saint-Esprit-de-Rosemont, a municipal citation constituted in
+      1990 (the cahier's own list gives the date 29-01-91) covering the Art déco church of 1931 and
+      the commercial buildings of rue Masson around it. This is the borough's only cited perimeter;
+      it is also carried as the archaeological sector 26.AP.3.
+    year: 1990
+    url: null
+  - kind: inventory
+    title: >-
+      Art. 120, Loi sur le patrimoine culturel — the agglomération de Montréal's pre-1940 inventory,
+      obligation in force 1 April 2021, deadline 1 April 2026. It does not create a status; under LAU
+      art. 148.0.1 an inventoried building falls under the demolition-control regime. No shoebox house
+      is affected by it as of this encoding, because none has any status under the LPC.
+    year: 2021
+    url: null
+grading:                                   # per-building, and specific to one type: the shoebox
+  system: >-
+    Not a borough-wide grading. Rosemont–La Petite-Patrie characterised every one of the 561 shoebox
+    houses on its territory, one by one, and gave each a « valeur architecturale » of 1, 2 or 3,
+    judged on the interest of the architectural components of the façade and on the context of the
+    building's siting. THE SCALE RUNS THE OPPOSITE WAY TO EVERY OTHER GRADING ON THIS SITE: a house
+    of value 1 shows the fewest characteristics of interest and a house of value 3 the most. The
+    scale is legally operative rather than advisory. Article 5 of by-law 01-279 defines a « maison
+    shoebox d'intérêt » as a house on the Annexe F list « ayant une valeur architecturale de 2 ou 3 »,
+    and that defined term is what triggers Chapitre VIII and PIIA fascicule 10. Article 135.1 then
+    ties redevelopment rights to the same number: only usage categories H.1, H.2 and H.3 — one, two
+    or three dwellings — are permitted on a shoebox lot, and where the house is value 3, only H.1.
+    So the most interesting shoeboxes are worth the least to a redeveloper, which is the point.
+  criteria_fr:
+    - "L'intérêt des composantes architecturales de la façade"
+    - "Le contexte d'implantation du bâtiment"
+    - "Mention distincte : « couronnement de qualité » — 118 of the 561"
+    - "Mention distincte : « construite en fonds de lot » — 56 of the 561"
+    - "Mention distincte : « adjacente à une autre maison shoebox » — 232 of the 561"
+  categories:
+    - code: "1"
+      label_fr: Valeur architecturale 1
+      count: 170
+      description_fr: >-
+        « Une maison ayant une valeur de 1 présente le moins de caractéristiques architecturales
+        d'intérêt. » 30.3 % of the inventory. Thirty-five of the 56 rear-lot shoeboxes fall here.
+      intervention_fr: >-
+        Not a « maison shoebox d'intérêt ». Chapitre VIII and fascicule 10 do not apply, and neither
+        do the value-2 and value-3 criteria sheets. Usage categories H.1 to H.3 are available, so up
+        to three dwellings may be built on the lot (art. 135.1).
+      note: null
+    - code: "2"
+      label_fr: Valeur architecturale 2
+      count: 233
+      description_fr: >-
+        41.5 % of the inventory — the largest class. A « maison shoebox d'intérêt » in the sense of
+        art. 5 of by-law 01-279.
+      intervention_fr: >-
+        « Toute intervention visible de la voie publique doit mettre en valeur le volume et
+        l'implantation de la maison shoebox »; where the house carries the Annexe F mention
+        « couronnement de qualité », any work « doit mettre en valeur ce couronnement ou le
+        réinterpréter de façon contemporaine »; a lost original component should return « dans sa
+        forme et son apparence d'origine ou une réinterprétation contemporaine de celle-ci ».
+        Up to three dwellings (art. 135.1).
+      note: null
+    - code: "3"
+      label_fr: Valeur architecturale 3
+      count: 158
+      description_fr: >-
+        « Une maison ayant une valeur de 3 présente le plus de caractéristiques architecturales
+        d'intérêt. » 28.2 % of the inventory. A « maison shoebox d'intérêt ».
+      intervention_fr: >-
+        « Toute intervention visible de la voie publique doit viser à préserver l'intégralité du
+        volume et de l'implantation de la maison shoebox »; a « couronnement de qualité » must be
+        put in value and, where possible, returned to « sa forme et son apparence d'origine »; a lost
+        component should return in its original form. Under art. 52.1 a façade plane above the ground
+        floor must be set back at least 1 m from the ground-floor façade. Under art. 135.1 only usage
+        category H.1 is permitted — a single dwelling.
+      note: null
+  note: >-
+    Counts computed here directly from the primary document rather than taken from a summary:
+    sources/rosemont/rosemont_annexe_caracterisation_shoebox.pdf, the December 2018 spreadsheet
+    published as Annexe F of the projet de règlement (PDF ModDate 21 January 2019), parsed row by
+    row — 561 rows, 170 + 233 + 158. They agree exactly with the Ville de Montréal article page
+    (30.3 / 41.5 / 28.2 %). The Part 10 research memo carried a different distribution (69 / 258 /
+    235), which sums to 562 and is not what Annexe F says; it is not published here. The memo's other
+    Annexe F figure, 56 houses « construite en fonds de lot », is confirmed exactly.
+typology_document:
+  title: >-
+    There is no per-type typology annexe for this borough. The five-column content comes from three
+    documents of different scope: the Évaluation du patrimoine urbain cahier (2005) for territory and
+    sector descriptions; by-law 01-279 (Chapitre VIII, art. 89 table, art. 52.1, art. 100.1, art.
+    135.1 and Annexe B fascicule 10) for the shoebox's regulated characteristics; and the Ville de
+    Montréal dépliant « Maisons de type shoebox — Guide pour les travaux et agrandissements » for the
+    type's definition and its architectural elements.
+  year: 2005
+  format: sector-and-document              # not a per-type table; every type record carries a profile_note
+  note: >-
+    Attribution point worth stating, because the shoebox record leans on it: the dépliant is a
+    publication of the ADJOINING borough, Villeray–Saint-Michel–Parc-Extension (Direction du
+    développement du territoire, 405 avenue Ogilvy; year of publication 2019; source credited to
+    Isabelle Bouchard, M. Sc. A. conservation). Its definition of the type is the one the Ville uses
+    city-wide and is quoted here as such, but its counts — 1,159 houses by decade and by district —
+    are VSP's, not Rosemont's, and are not used on this page.
+map_layer: null
+summary_en: >-
+  The borough the Canadian Pacific built. When the Angus Shops opened in 1904 the promoters U.-H.
+  Dandurand and Herbert Holt subdivided the Crawford farm beside them, and the shopmen who could not
+  afford a plex bought a lot on a promise of sale for a few dollars down and built a one-storey
+  flat-roofed box on it themselves, meaning to add a floor later. Some five hundred and sixty-one of
+  those maisons shoebox survive, and in 2018–2019 Rosemont–La Petite-Patrie became the first Montréal
+  borough to write them into its zoning by-law — house by house, with an architectural value from 1
+  to 3 attached to each address. Around them the borough is otherwise the standard Montréal fabric of
+  contiguous brick duplex and triplex with exterior stairs, denser and more ornate on rue Saint-Denis;
+  and at its eastern edge sits the Cité-Jardin du Tricentenaire, a co-operative garden suburb of
+  1941–1947 that answered the row plex with detached houses on curving planted streets.

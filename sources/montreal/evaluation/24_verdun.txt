@@ -1,0 +1,2344 @@
+     Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Verdun
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+
+
+
+
+               Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de Verdun
+Étude réalisée par le Service de la mise en valeur du territoire et du patrimoine
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+
+
+
+Cette analyse du patrimoine urbain a été réalisée par la Division du patrimoine et de la toponymie sous la direction de Jean-François Gravel,
+chef de division. Le travail a été effectué de janvier 2003 à mai 2004 dans le cadre de la préparation du Plan d’urbanisme de la Ville de
+Montréal, qui a été adopté par le Conseil municipal le 23 novembre 2004. L’équipe du projet comprend, pour l’évaluation du patrimoine bâti
+et la recherche historique, Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre et Pierre-Paul Savignac,
+architectes, et Denise Caron, historienne. La recherche et l’écriture pour le patrimoine archéologique ont été réalisées par Claire Mousseau,
+archéologue, avec la collaboration de Françoise Duguay, François Bélanger, Anne-Marie Balac et Christian Roy, également archéologues.
+De plus, Gisèle Trépanier, conseillère en aménagement, et Nicole Halpert, chargée de communication, ont participé à la révision des textes
+tandis que Ginette Bouchard, secrétaire d’unité administrative, a procédé à la saisie de texte. Finalement, nous tenons à remercier nos
+collaborateurs des directions de l’aménagement urbain et des services aux entreprises des arrondissements.
+
+
+
+Remerciements
+
+Rendus cartographiques :
+Division des politiques et du Plan d’urbanisme
+Révision linguistique :
+Sylvie Poulin
+Conception graphique et mise en page :
+Marie Violaine Lamarche
+Photographies :
+Ville de Montréal, Bibliothèque nationale du Québec, P. Fauteux, D. B Webster
+
+
+
+Ce document fait partie d’une série de cahiers qui ont été réalisés pour chacun des 27 arrondissements de la Ville de Montréal. Les différents
+cahiers d’évaluation du patrimoine urbain peuvent être consultés sur notre site internet à l’adresse suivante : ville.montreal.qc.ca/patrimoine
+
+
+
+ISBN 2-7647-0464-X
+
+Dépôt légal – Bibliothèque nationale du Québec, 2005
+Dépôt légal – Bibliothèque nationale du Canada, 2005
+
+
+
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+   TABLE DES MATIÈRES
+ARRONDISSEMENT
+               de Verdun
+ 7           A VA N T- P R O P O S
+
+ 9   1.      CADRE MÉTHODOLOGIQUE
+
+ 9   1.1     Introduction
+ 9   1.2     Le cadre bâti d’intérêt patrimonial
+ 9   1.2.1   Approche, étapes et résultats
+11   1.2.2   Critères de sélection
+14   1.3     Les tracés fondateurs d’intérêt patrimonial
+14   1.4     Le patrimoine archéologique
+14   1.4.1   Le caractère spécifique de ce patrimoine
+16   1.4.2   La démarche générale d’acquisition de connaissances et de conservation
+17   1.4.3   L’approche méthodologique et l’identification du patrimoine
+             archéologique au Plan d’urbanisme
+19   1.5     Nouvelles perspectives
+
+21   2.      HISTORIQUE
+
+23   3.      É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+23   3.1     Mise en situation
+25   3.2     Résultat de l’analyse
+25   3.2.1   Les tracés fondateurs d’intérêt patrimonial
+25   3.2.2   Le cadre bâti d’intérêt patrimonial
+25           A Les secteurs de valeur patrimoniale exceptionnelle
+29           B    Les secteurs de valeur patrimoniale intéressante
+33           C Les ensembles urbains d’intérêt
+33           D Les immeubles de valeur patrimoniale exceptionnelle
+                  Carte synthèse : Évaluation du patrimoine urbain
+37   3.2.3   Le patrimoine archéologique
+38           A Les secteurs d’intérêt archéologique à fort potentiel
+40           B    Les secteurs d’intérêt archéologique
+40           C Les sites archéologiques
+42           D Les biens culturels à statut
+                  Carte synthèse : Le patrimoine archéologique
+
+45   4.      R E C O M M A N D AT I O N S
+
+45   4.1     Générales à l’échelle de l’arrondissement
+47   4.2     Générales à l’échelle montréalaise
+
+49           BIBLIOGRAPHIE
+                              A VA N T- P R O P O S
+
+
+
+
+Le repérage du patrimoine urbain dont nous faisons         C’est la première fois que l’on entreprend un tel travail
+état ici a été réalisé dans le cadre de l’élaboration du   pour les 27 arrondissements de l’île, travail qui suppose
+Plan d’urbanisme de la Ville de Montréal, qui a été        non seulement l’examen de nouvelles thématiques et
+adopté par le Conseil municipal le 23 novembre 2004.       l’établissement de collaborations avec les arrondisse-
+                                                           ments de Montréal, mais aussi une harmonisation
+Le chapitre 2 de la première partie du Plan d’urbanisme    des visions et des représentations que les arrondisse-
+formule différentes orientations d’aménagement             ments ont de leur patrimoine. Par exemple, dans
+pour Montréal et comprend une section sur le patri-        certains cas, seul le patrimoine du Régime français
+moine bâti, archéologique et naturel. Le repérage          était privilégié; ailleurs, on n’avait jamais considéré
+des secteurs et bâtiments d’intérêt patrimonial et des     que le parc immobilier plus récent puisse avoir une
+secteurs d’intérêt archéologique contribuera à atteindre   valeur patrimoniale. Ce repérage connexe au Plan
+l’objectif de conservation énoncé dans le Plan. Il a été   d’urbanisme constitue donc une chance unique de
+mené par la Division du patrimoine et de la topo-          faire converger des visions différentes et d’envisager
+nymie en collaboration avec la Division des politiques     le patrimoine de l’ensemble des arrondissements de
+et du Plan d’urbanisme du Service de la mise en            Montréal dans une perspective commune.
+valeur du territoire et du patrimoine, de janvier 2003
+à mai 2004. En ce qui a trait aux sites archéologiques
+recensés, la liste a été mise à jour en mars 2004.
+
+Préparés par la Division du patrimoine et de la topo-
+nymie, les « Cahiers d’arrondissement » présentent
+la méthodologie du travail de repérage, un bref his-
+torique de chacun des arrondissements, les résultats
+complets du repérage du patrimoine bâti et archéo-
+logique, la justification des choix des secteurs, des
+recommandations et une bibliographie. Ces cahiers,
+qui constituent un document d’appoint au Plan
+d’urbanisme, s’adressent d’abord aux citoyens et
+aux gestionnaires des arrondissements afin de les
+sensibiliser à l’importance de conserver le patrimoine
+de leur localité, ainsi que de les aider à mieux com-
+prendre le territoire et à développer des outils de
+gestion et de contrôle appropriés pour assurer la
+conservation de leur patrimoine urbain.
+
+
+
+
+                       ARRONDISSEMENT                                                                             7
+                                               de Verdun
+1.
+1.1 Introduction
+                               CADRE MÉTHODOLOGIQUE
+
+
+
+                                                            1.2 Le cadre bâti d’intérêt patrimonial
+Le patrimoine urbain montréalais ne se limite pas à         1.2.1 Approche, étapes et résultats
+une addition de bâtiments individuels de grand intérêt.
+                                                            L’approche choisie pour la sélection des bâtiments et
+Il porte aussi l’empreinte des époques passées sous
+                                                            secteurs s’appuie sur le concept de paysage urbain
+forme de tracés de rues, de paysages, de constructions,
+                                                            développé par Kevin Lynch, selon lequel le territoire
+d’éléments naturels, de vestiges archéologiques ou
+                                                            se découvre à partir de l’intérieur et non à vol d’oiseau
+de vues exceptionnelles. Le patrimoine urbain forme
+                                                            (en plan), et se compose d’une succession de séquences
+l’environnement dans lequel nous vivons aujourd’hui
+                                                            visuelles expérimentées le long d’un parcours.
+et chacune de ses composantes entretient des relations
+complexes avec les autres. Ainsi, un bâtiment contribue     Cette approche, basée sur l’expérience spatiale, com-
+à la qualité et à l’identité d’un lieu, et inversement,     porte au moins deux implications. L’une marque notre
+certaines qualités qui lui sont extérieures rehaussent      préférence pour la considération des bâtiments
+son attrait. Par exemple, une église et une école           exceptionnels ou intéressants dans leur contexte
+donnant sur un parc ajoutent à son intérêt; un amé-         plutôt qu’en tant qu’objets isolés. L’autre est que les
+nagement paysager particulier, tel un écrin, peut con-      limites des secteurs sélectionnés sont déterminées
+tribuer à rehausser la valeur patrimoniale d’un bâtiment;   par le champ visuel. Ces limites ne sont donc pas
+une habitation plutôt modeste peut se trouver dans          arbitrairement placées au centre des rues mais bien
+un secteur qui présente de belles qualités d’ensemble       au fond des lots afin d’englober toutes les com-
+(homogénéité, couvert végétal, etc.) ; et des rues peu-     posantes du champ visuel.
+vent offrir des vues exceptionnelles sur un élément
+naturel ou construit. La nature multidimensionnelle         Même si elles sont réalisées pour tout le territoire de
+du patrimoine urbain fait qu’on ne peut considérer          la ville de Montréal, la sélection et la qualification des
+ses composantes isolément. Ainsi, l’ancienneté, le          bâtiments et secteurs patrimoniaux peuvent contribuer
+potentiel d’évocation historique, la qualité architec-      à faire ressortir la spécificité des arrondissements. En
+turale, l’harmonie et les qualités visuelles, la présence   effet, Montréal est composée de différents territoires
+d’éléments naturels, le tracé des rues, le potentiel ou     qui possèdent une identité et une histoire propres qui
+l’intérêt archéologique sont autant de facteurs que         méritent d’être reconnues. Nous avons pris le parti de
+nous avons pris en compte afin de jeter les bases d’une     choisir l’arrondissement comme échelle d’observation
+meilleure intégration du patrimoine aux probléma-           du territoire afin de dégager ces spécificités locales.
+tiques urbaines.                                            De la sorte, les arrondissements qui ont connu un
+                                                            développement plus récent sont également considérés
+La structure méthodologique comprend trois volets.          et les particularités de leur patrimoine sont reconnues.
+Le premier traite de l’approche et des critères employés
+pour le cadre bâti d’intérêt patrimonial, le second
+explique ce que nous entendons par la notion de tracés
+fondateurs d’intérêt patrimonial, et le troisième expose
+les critères utilisés pour le patrimoine archéologique.
+
+
+
+
+                       ARRONDISSEMENT                                                                               9
+                                                de Verdun
+Si ce repérage fondé sur l’expérience spatiale prend           13) Préparation des cartes et listes finales.
+largement appui sur un travail d’observation sur le            14) Identification de quelques bâtiments et secteurs
+terrain, il n’aurait pu être achevé sans l’étude de                d’intérêt patrimonial exceptionnel qui se démar-
+sources documentaires. Bien qu’il ne s’agisse pas d’un             quent à l’échelle montréalaise (les incontournables).
+processus linéaire, voici les principales étapes suivies
+                                                               Tout au long des différentes étapes du projet, les résul-
+par la Division du patrimoine et de la toponymie :
+                                                               tats du travail ont été bonifiés par les connaissances
+1) Préparation de critères de sélection.                       des professionnels des arrondissements et de divers
+2) Rencontre avec chacun des 27 arrondissements pour           comités rattachés à la préparation du Plan d’urbanisme.
+    exposer la démarche et les critères de sélection.
+                                                               Les résultats du repérage du patrimoine urbain se
+3) Visite du territoire de chacun des arrondissements
+                                                               présentent sous forme de listes de bâtiments et de
+    avec les professionnels concernés.
+                                                               cartes définissant des secteurs d’intérêt. Il est important
+4) Recherche et étude de la documentation existante
+                                                               de comprendre que ces deux éléments ne peuvent
+    pour chacun des arrondissements :
+                                                               être dissociés l’un de l’autre – ils sont complémentaires.
+    – inventaires, études patrimoniales, études typo-
+                                                               Ainsi, on a inclus dans les listes tous les bâtiments
+      morphologiques, monographies, dépouillement
+                                                               exceptionnels de chacun des arrondissements, mais il
+      de périodiques, bases de données (Service des
+                                                               était impossible d’inscrire tous les bâtiments intéres-
+      immeubles, Communauté urbaine de Montréal,
+                                                               sants, étant donné leur trop grand nombre. Nous nous
+      Fondation du patrimoine religieux, etc.) ;
+                                                               sommes donc limités à nommer individuellement les
+    – cartographie ancienne et photos aériennes.
+                                                               bâtiments qualifiés d’intéressants qui se trouvaient
+5) Collecte d’informations thématiques :
+                                                               à l’extérieur de secteurs d’intérêt. Ces deux outils
+    – inventaires (les églises, les écoles, etc.),dépouille-
+                                                               doivent donc être interprétés en complémentarité.
+      ment de périodiques (le patrimoine moderne, etc.);
+    – consultation d’un expert en patrimoine industriel.       Le système d’identification des secteurs utilisé dans
+6) Élaboration d’un historique et d’une bibliographie          le document correspond à celui des cartes. Le premier
+    pour chacun des arrondissements.                           chiffre correspond au numéro d’arrondissement. Il est
+7) Analyse de la documentation et détermination                suivi de la lettre E pour les secteurs de valeur patri-
+    préliminaire des territoires et immeubles d’intérêt        moniale exceptionnelle, de la lettre I pour les secteurs
+    pour chacun des arrondissements.                           de valeur patrimoniale intéressante, de la lettre N
+8) Travail sur le terrain : repérage en voiture et à pied      pour les secteurs industriels d’intérêt ou par la lettre U
+    avec la collaboration de certains arrondissements.         pour les secteurs urbains d’intérêt. Le deuxième chiffre
+9) Photographies et report des données spatiales               correspond au numéro du secteur.
+    sur des cartes.
+10) Vérification de la cohérence du traitement des             L’échéancier de réalisation du Plan d’urbanisme,
+    secteurs d’intérêt qui chevauchent plusieurs               les ressources disponibles ainsi que l’état actuel des
+    arrondissements.                                           connaissances sur les différents bâtiments et lieux
+11) Catégorisation des secteurs et immeubles d’intérêt         d’intérêt ont été déterminants quant à la méthodologie
+    patrimonial (exceptionnels et intéressants).               adoptée. Ces contraintes inévitables ont constitué un
+12) Rédaction de courts textes résumant l’intérêt              défi de taille pour la production de ce document qui
+    patrimonial de chacun des secteurs sélectionnés.           est, malgré tout, une base solide à partir de laquelle
+                                                               on pourra amorcer une réflexion plus poussée sur la
+                                                               protection du patrimoine montréalais.
+
+
+
+
+10                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.2.2 Critères de sélection                                                 – Intéressants : ensembles comprenant plusieurs bâti-
+                                                                              ments et certaines caractéristiques environnementales
+LES SECTEURS D’INTÉRÊT PATRIMONIAL                                            qui présentent un intérêt patrimonial. Ce sont toutefois
+                                                                              des ensembles dont la trame urbaine peut avoir été
+Les secteurs d’intérêt patrimonial ont été sélectionnés
+                                                                              partiellement modifiée, qui ont pu connaître un
+sur la base des critères suivants1 :
+                                                                              certain nombre de perturbations et qui renferment
+– leur capacité de témoigner d’un thème ou d’un                               parfois des constructions peu intégrées à l’ensemble.
+  événement historique ;                                                      Certaines zones dont l’état est moins satisfaisant sur
+– leur qualité architecturale (forme, usage, technologie                      le plan architectural ou environnemental pourraient
+  constructive) ;                                                             présenter un intérêt si une action de mise en valeur
+– leur participation à la qualité de la vie urbaine                           était entreprise.
+  et du paysage.
+                                                                            Dans tous les cas, l’échelle de comparaison pour cette
+À titre d’exemple, on identifie le noyau originel                           qualification est l’arrondissement, c’est-à-dire que nous
+d’un village, un pôle d’activité lié à la concentration                     avons identifié les secteurs exceptionnels et intéres-
+d’équipements collectifs, un quartier ouvrier du début                      sants propres à l’arrondissement, ce qui fait ressortir
+du siècle, etc. Cette notion de patrimoine est englo-                       sa spécificité dans l’ensemble montréalais. Lorsqu’un
+bante et correspond aux nouvelles tendances                                 secteur se révèle avoir une importance à l’échelle
+véhiculées par les chartes internationales en matière                       montréalaise, on pourra recommander sa protection en
+de conservation.                                                            procédant à la constitution d’un site du patrimoine
+                                                                            en vertu de la Loi sur les biens culturels du Québec3.
+Tous les secteurs identifiés ont ensuite été qualifiés
+comme suit2 :
+
+– Exceptionnels: secteurs ayant conservé leurs qualités
+  au chapitre des aménagements urbains, des implan-
+  tations de bâtiments, de la géographie et des
+  paysages et qui regroupent des suites architecturales,
+  des alignements de bâtiments d’intérêt patrimonial,
+  des zones unifiées par une fonction ou une typologie
+  architecturale. Les ensembles de cette catégorie ont
+  subi relativement peu de perturbations et présentent
+  un caractère d’harmonie formelle et fonctionnelle.
+  De plus, ils sont souvent reconnus comme des
+  témoins historiques importants.
+
+
+
+
+1 Ces critères sont issus du document de travail Guide de gestion des       3 Conformément au document de travail Citation et constitution de sites
+  études patrimoniales préparé par la Division du patrimoine et de la         du patrimoine préparé par la Division du patrimoine et de la toponymie
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                de la Ville de Montréal en novembre 2003.
+2 Ces critères sont inspirés du Guide d’évaluation des biens culturels et
+  des districts historiques de la Ville d’Ottawa, 1987.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                     11
+                                                              de Verdun
+LES IMMEUBLES D’INTÉRÊT PATRIMONIAL                                            turale ainsi qu’à son lien particulier avec la trame
+                                                                               urbaine. Les critères utilisés sont les suivants6 :
+Les immeubles d’intérêt patrimonial ont été sélectionnés
+sur la base des critères suivants4 :                                           – la valeur historique et sociale d’une industrie dans
+                                                                                 le développement de l’arrondissement, de la ville
+– leur capacité de témoigner d’un thème ou d’un                                  ou même de la province et du pays ;
+  événement historique ;                                                       – l’intégrité du complexe (ancienneté, évolution
+– leur qualité architecturale (forme, usage, technologie                         architecturale, évolution technologique) ;
+  constructive) ;                                                              – le procédé de production particulier;
+– leur participation à la qualité de la vie urbaine et du                      – le lien avec les voies de transport ;
+  paysage.                                                                     – le lien avec le développement des quartiers ouvriers ;
+Cette notion de patrimoine est englobante et corres-                           – l’insertion dans le paysage urbain.
+pond aux nouvelles tendances véhiculées par les
+chartes internationales en matière de conservation.                            Finalement, tous les immeubles d’intérêt patrimonial
+Outre l’architecture monumentale, elle inclut donc                             ont été qualifiés comme suit7 :
+l’architecture vernaculaire, le patrimoine moderne, le                         – Exceptionnel : un bâtiment ancien par rapport aux
+patrimoine industriel, etc.                                                      autres bâtiments de l’arrondissement construits aux
+Dans les cas du patrimoine moderne et du patrimoine                              mêmes fins et(ou) qui affiche des caractéristiques
+industriel, nous avons jugé utile d’utiliser des critères                        inhabituelles ou remarquables quant à son architecture
+spécifiquement adaptés à ces réalités.                                           (par rapport à des bâtiments comparables) et qui n’a
+                                                                                 pas subi de modifications extérieures importantes.
+Patrimoine moderne : Des bâtiments peuvent être                                  De plus, il sert souvent de point de repère ou est
+considérés comme faisant partie du patrimoine                                    reconnu comme un témoin historique important.
+moderne s’ils ont été construits entre 1930 et 1975                            – Intéressant: un bâtiment qui n’est pas nécessairement
+et qu’ils illustrent les caractéristiques de cette époque                        plus ancien que ceux construits aux mêmes fins dans
+relativement5 :                                                                  l’arrondissement, qui affiche certaines caractéristiques
+                                                                                 inhabituelles ou remarquables par rapport à des
+– aux conditions sociales, économiques et politiques
+                                                                                 bâtiments comparables mais dans une moindre
+  changeantes ;
+                                                                                 mesure que dans la catégorie précédente, et qui
+– aux progrès technologiques rapides ;
+                                                                                 peut avoir subi quelques modifications.
+– aux nouvelles façons d’exprimer les formes et de
+  répondre aux besoins fonctionnels.
+
+Patrimoine industriel : Le patrimoine industriel
+commande aussi une adaptation des critères en usage
+pour reconnaître sa spécificité, notamment quant à
+la primauté de la fonction sur l’esthétique architec-
+
+
+
+
+4 Ces critères sont issus du document de travail Guide de gestion des          6. Ces critères proviennent de l’Évaluation du patrimoine industriel : critères
+  études patrimoniales préparé par la Division du patrimoine et de la             généraux, document préparé par Archémi pour le compte de la Ville de
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                    Montréal en 2003.
+5. Ces critères sont issus du Plan du réseau des lieux historiques nationaux   7. Ces critères sont inspirés du Guide d’évaluation des biens culturels et des
+   du Canada : La commémoration du patrimoine bâti canadien de l’ère              districts historiques de la Ville d’Ottawa, 1987.
+   moderne préparé par Parcs Canada en 2001.
+
+
+
+12                                                                             Évaluation du patrimoine urbain
+                                                                               Ville de Montréal
+Comme dans le cas des secteurs d’intérêt patrimonial,                      Les ensembles industriels d’intérêt : Le Plan
+l’échelle de comparaison pour ce travail de qualification                  d’urbanisme signale l’importance du patrimoine indus-
+est l’arrondissement, c’est-à-dire que nous avons                          triel montréalais en créant une catégorie particulière
+identifié les bâtiments exceptionnels et intéressants                      – Ensembles industriels d’intérêt. Cette catégorie
+propres à l’arrondissement, ce qui fait ressortir sa                       est d’autant plus justifiée que le regard posé sur ces
+spécificité dans l’ensemble montréalais. Lorsqu’un                         sites est différent en raison de leur taille et de leur
+bâtiment se révèle avoir une importance à l’échelle                        complexité, de la primauté de leur fonction sur
+montréalaise, on pourra recommander sa protection                          l’esthétique architecturale ainsi que de leur lien par-
+par la citation en vertu de la Loi sur les biens culturels                 ticulier avec la trame urbaine.
+du Québec8.
+                                                                           De plus, les ensembles industriels d’intérêt offrent des
+                                                                           possibilités de mise en valeur nombreuses et variées. Il
+                                                                           peut s’agir autant de restauration que d’interprétation
+NOTIONS NOUVELLES                                                          du lieu. Cette diversité d’interventions possibles com-
+Les ensembles urbains d’intérêt : Le Plan d’urba-                          mande une excellente connaissance des lieux et
+nisme reconnaît l’intérêt de certains développements                       activités de production, laquelle est malheureusement
+résidentiels d’après-guerre, qui composent une part                        trop souvent embryonnaire actuellement. L’amélioration
+importante du patrimoine des anciennes banlieues,                          de cette connaissance est pourtant nécessaire pour
+en créant une catégorie appelée Ensembles urbains                          permettre des interventions éclairées et même inno-
+d’intérêt. On y retrouve, entre autres, des ensembles                      vatrices qui inscriront pleinement ce patrimoine dans
+homogènes de bungalows, des secteurs de maisons                            la vie urbaine contemporaine.
+qui adoptent le modèle développé par la Wartime                            Le critère qui préside à la sélection d’un ensemble
+Housing Limited ou des exemples des premières                              industriel d’intérêt est le regroupement particulièrement
+coopératives d’habitation. Leur repérage est exploratoire                  complexe de bâtiments industriels, structures de génie
+et vise à les intégrer au Plan en les reliant pour une                     civil, machines, instruments, outils et équipements divers
+première fois à des préoccupations de conservation du                      appartenant à une seule ou à plusieurs compagnies.
+patrimoine. Ces ensembles urbains d’intérêt ont été
+sélectionnés lorsqu’ils présentent les qualités suivantes:
+
+– ensemble représentatif des nouvelles façons
+  d’habiter qui sont apparues pendant la Seconde
+  Guerre mondiale;
+– ensemble représentatif du boom démographique
+  et du développement de la banlieue après la
+  Seconde Guerre mondiale;
+– projets d’ensemble présentant une certaine
+  homogénéité des caractéristiques architecturales.
+
+
+
+
+8 Conformément au document de travail Citation et constitution de sites
+  du patrimoine préparé par la Division du patrimoine et de la toponymie
+  de la Ville de Montréal en novembre 2003.
+
+
+
+
+                             ARRONDISSEMENT                                                                                       13
+                                                             de Verdun
+                                                                Plusieurs de ces chemins se sont transformés en
+1.3 Les tracés fondateurs d’intérêt                             autoroutes et boulevards, d’autres ont conservé un
+            patrimonial                                         potentiel évocateur du Montréal rural ancien, et
+                                                                quelques-uns se sont fortement urbanisés.
+Sur l’île de Montréal, l’organisation du territoire
+remonte dans certains cas au XVIIe siècle. De cette             Parmi ces tracés fondateurs, nous avons sélectionné
+organisation naissent les voies de circulation qui sont         les tronçons qui présentent un intérêt patrimonial
+souvent les marques les plus anciennes du Montréal              parce qu’ils relient toujours des bâtiments parmi les
+agricole qui prévalait avant l’urbanisation. En effet,          plus anciens de Montréal ou qu’ils sont bordés de
+dès 1663, les sulpiciens deviennent seigneurs de l’île          bâtiments d’intérêt patrimonial. Ces tracés servent
+de Montréal. Ils planifient alors le territoire pour l’ouvrir   en quelque sorte de fil conducteur pour la com-
+à la colonisation. Pour cela, l’île est divisée en côtes –      préhension du territoire. Ils permettent, entre autres,
+chacune, dénommée par les sulpiciens, désigne un                d’expliquer la présence d’un paysage rural ou de
+ensemble de terres pouvant compter quelques                     bâtiments anciens d’intérêt patrimonial qui apparais-
+dizaines de concessions et représentant une unité de            sent autrement un peu perdus dans la trame urbaine
+territoire. Les terres individuelles sont des bandes            actuelle. En reliant différents éléments isolés, ces
+parallèles étroites et longues. Pour chaque côte est            tronçons leur confèrent une importance accrue.
+prévu l’emplacement d’un chemin. Cela donne une
+idée du mode d’occupation du sol du système
+seigneurial mis en place sous le Régime français.
+Le système des côtes constitue la structure de base
+                                                                1.4 Le patrimoine archéologique
+du peuplement de l’île sur laquelle s’appuiera tout             1.4.1 Le caractère spécifique de ce patrimoine
+développement postérieur.
+                                                                Le patrimoine archéologique est «... la partie de notre
+En raison de l’insularité de la seigneurie de Montréal          patrimoine matériel pour laquelle les méthodes de
+et de la présence du mont Royal, ce système de côtes            l’archéologie fournissent les connaissances de base. Le
+présente toutefois une organisation originale. En               patrimoine archéologique englobe toutes les traces de
+effet, si dans la vallée du Saint-Laurent les côtes             l’existence humaine et concerne les lieux où se sont
+intérieures sont parallèles au fleuve, ce n’est pas             exercées les activités humaines, quelles qu’elles soient,
+nécessairement le cas à Montréal. C’est ainsi que, sur          les structures et les vestiges abandonnés de toutes
+l’ensemble de l’île, le réseau routier qui dessert ces          sortes, en surface, en sous-sol ou sous les eaux, ainsi
+côtes présente une configuration propre. Ce réseau              que le matériel qui leur est associé. Le patrimoine
+primitif, clairement illustré sur la carte de Jobin de          archéologique est une richesse culturelle fragile et non
+1834, montre l’ensemble des tracés fondateurs qui               renouvelable».9
+serviront par la suite d’épine dorsale au développe-
+ment des quartiers. Grâce à cette carte, on comprend
+bien la structure du réseau des chemins à son
+apogée, à l’époque où l’île de Montréal était encore
+très fortement rurale.
+
+                                                                9 Extrait de la Charte pour la protection et la gestion du patrimoine
+                                                                  archéologique, ICAHM, ICOMOS International, 1990.
+
+
+
+
+14                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La notion de patrimoine archéologique se rattache              À L’ÉCHELLE DE L’ÎLE DE MONTRÉAL
+d’abord à un lieu physique, le site archéologique, qui
+                                                               L’archipel de Montréal comprend trois nappes d’eau
+correspond à tout espace dont le sous-sol recèle des
+                                                               importantes, trois canaux d’écoulement, une vingtaine
+vestiges d’occupation ancienne – ouvrages et cons-
+                                                               de rapides, trois cents îles (dont deux majeures,
+tructions de tous types, objets témoins et tout autre
+                                                               Montréal et Jésus) et plus de mille kilomètres de
+élément matériel issu de l’action humaine. Le caractère
+                                                               rives. Montréal est également le point de rencontre
+enfoui des sites archéologiques fait que, contrairement
+                                                               de trois grandes voies fluviales – le Saint-Laurent qui
+à d’autres catégories de biens patrimoniaux, ce
+                                                               donne accès à l’Atlantique et aux Grands Lacs, le
+patrimoine constitue une ressource dont il est difficile
+                                                               Richelieu d’où il est possible d’atteindre l’Hudson et
+de dresser rapidement un inventaire exhaustif. De
+                                                               l’État de New York, ainsi que l’Outaouais qui ouvre la
+nombreux sites, de natures diverses et de toutes
+                                                               porte vers l’ouest et le nord. L’importance de l’île de
+époques, restent ainsi à découvrir sur le territoire de
+                                                               Montréal pour les Amérindiens s’explique tout parti-
+l’île de Montréal. Toute tentative de cerner la réalité du
+                                                               culièrement par cette localisation à la confluence et à
+patrimoine archéologique ne pourra donc constituer
+                                                               proximité de plusieurs cours d’eau. Ces axes hydro-
+qu’un exercice partiel de mise à jour des connaissances
+                                                               graphiques sont les routes traditionnelles de commerce
+acquises. Cette part d’inconnu explique l’extrême vul-
+nérabilité de ce patrimoine et les difficultés particulières   au cours de la préhistoire et au début de la période
+d’en assurer la protection face aux exigences modernes         historique. De plus, l’île de Montréal, la plus grande
+du développement urbain.                                       de l’archipel, comporte des terrasses de quinze,
+                                                               trente et cinquante mètres d’élévation ou même
+Un second aspect important a trait au patrimoine               plus, en référence au mont Royal. Ces terres ont pu
+archéologique en tant qu’objet de connaissance.                accueillir des populations humaines depuis 8 000 ans
+L’archéologie constitue une discipline dont une des            avant aujourd’hui, si l’on se fie aux premières décou-
+missions est l’étude des sociétés passées par l’inter-         vertes archéologiques effectuées dans la vallée du
+médiaire des vestiges matériels que ces sociétés ont           Saint-Laurent.
+laissés derrière elles. Il s’agit, de plus, de la seule
+discipline qui traite dans le temps et l’espace de             La plus ancienne manifestation humaine recensée sur
+l’évolution de l’ensemble des sociétés humaines. Sa            l’île de Montréal date de la fin de la période archaïque,
+                                                               entre 5 000 et 4 000 ans avant aujourd’hui. Cette
+contribution est unique notamment en ce qui con-
+cerne la longue trajectoire suivie par l’humanité avant        occupation par les Amérindiens, au cours des périodes
+l’apparition de l’écriture. L’archéologie s’intéresse à        préhistorique et de contact, est un volet unique du
+                                                               passé de l’île de Montréal.
+toutes les sociétés, sans égard à leur origine ou à
+leur forme d’organisation, qu’elles soient, comme en           Pour la période historique, la documentation et les
+Amérique, de souche autochtone, européenne ou autre.           cartes anciennes fournissent des éléments interpré-
+                                                               tatifs valables, à partir des premières chroniques du
+                                                               XVIe siècle jusqu’à nos jours. Elles sont cependant
+                                                               souvent muettes sur les différents aspects des modes
+                                                               de vie de certaines époques et de certains groupes et
+                                                               individus, de même que sur l’emplacement exact et
+                                                               l’organisation spatiale de plusieurs lieux d’exploita-
+                                                               tion et d’habitation, comme les avant-postes de Ville-
+                                                               Marie. Elles se taisent parfois volontairement et, en
+
+
+
+
+                        ARRONDISSEMENT                                                                               15
+                                                   de Verdun
+d’autres occasions, ne font état que des préoccupa-             En milieu urbain ou aménagé de longue date, la
+tions des classes dirigeantes, des autorités, de l’élite.       démarche suivie consiste, au moyen de l’analyse
+L’archéologie pare à ces lacunes car elle étudie les            des cartes anciennes, des documents d’archives, des
+traces concrètes laissées par les différents occupants.         données environnementales et des données archéo-
+En milieu urbain, l’archéologie étudie en outre l’évo-          logiques acquises, à caractériser la séquence d’occu-
+lution de la forme urbaine et des formes concrètes,             pation et le processus d’aménagement du territoire.
+dans l’espace et dans le temps, pour idéalement                 Il s’agit de confronter les caractéristiques géographiques
+accéder aux fondements de la culture.                           aux caractéristiques culturelles des sociétés ayant
+                                                                habité ou pu habiter un territoire, et de comprendre
+Les recherches archéologiques menées à ce jour sur l’île        dans quelle mesure les occupations successives ont
+de Montréal documentent une séquence d’occupation               structuré le milieu d’origine et affecté les vestiges
+s’étirant sur plusieurs millénaires et associée à la            d’occupations antérieures. Cette étape est celle de
+présence de groupes aux horizons culturels et temporels         l’étude de potentiel archéologique. La seconde étape
+fort diversifiés : campement amérindien, halte, carrière        consiste, en fonction des résultats de l’étude de
+préhistorique pour l’extraction de la pierre, lieu de           potentiel archéologique, à procéder à une évaluation
+sépultures amérindiennes, noyau initial de Ville-Marie,         sur le terrain afin de vérifier la localisation précise,
+lieux de fondation, forts et missions, bourgs anciens,          la nature et le degré d’intégrité des ressources archéo-
+moulin seigneurial, lieux de culte, cimetières (catho-          logiques en place. Il s’agit de l’inventaire archéolo-
+liques, protestants et juifs), complexes institutionnels,       gique réalisé par des forages, sondages et tranchées
+anciens faubourgs, villas, marchés publics, dépotoirs,          exploratoires.
+complexes agricoles, complexes industriels, ouvrages
+de génie civil, etc., et les formes du paysage ancien de        Selon la nature des découvertes découlant de l’inven-
+l’île de Montréal : terrasses, collines, ruisseaux, rivières,   taire archéologique, plusieurs avenues sont envisa-
+lacs, tourbières.                                               geables selon la valeur scientifique, didactique et
+                                                                symbolique du site et du contexte. Dans le cas d’un
+                                                                site archéologique de grand intérêt, il pourra être
+1.4.2 La démarche générale d’acquisition de                     nécessaire d’assurer en priorité sa conservation in
+         connaissances et de conservation                       situ. Une réserve archéologique est souvent garante
+                                                                de la mise en valeur de ce patrimoine. La plupart des
+Le site archéologique constitue le fondement concret            interventions archéologiques à Montréal surviennent
+de la démarche de conservation et de mise en valeur             dans le cadre de projets d’aménagement du territoire.
+du patrimoine archéologique. La valeur intrinsèque du           Les mesures de protection du patrimoine archéo-
+site archéologique, tout comme l’intérêt de procéder à          logique peuvent alors entraîner la conservation inté-
+son investigation, doivent être évalués en fonction             grale in situ de certains vestiges, la mise en valeur
+de critères relatifs à sa signification, et non pas             in situ de vestiges, la relocalisation du projet d’amé-
+essentiellement relever de considérations touchant              nagement, une modification du projet d’aménagement
+sa grande ancienneté ou le caractère plus ou moins              ou encore une fouille archéologique préventive sur
+monumental des vestiges qu’il recèle.                           les sites d’intérêt de façon à assurer une récupération
+                                                                maximale d’informations.
+
+
+
+
+16                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La majorité des sites archéologiques de l’île de              LES SITES ARCHÉOLOGIQUES RECENSÉS
+Montréal se trouvent dans des espaces divers – sous-
+                                                              Au Québec, en vertu de la Loi sur les biens culturels,
+sol de bâtiment, terrain vacant, boulevard, rue,
+                                                              tout site archéologique découvert est codifié selon
+ruelle, square, place, parc, parc-nature – souvent
+                                                              le code Borden et inscrit à l’Inventaire des sites
+menacés par des réaménagements, de nouvelles
+                                                              archéologiques du Québec. Le code Borden est un
+constructions et une modernisation des services
+                                                              système d’enregistrement des sites archéologiques
+publics souterrains. L’intégration de ce patrimoine
+                                                              utilisé à l’échelle du Canada. Il permet de localiser un
+dans les programmes de régénération du tissu urbain
+                                                              site archéologique d’après sa position géographique,
+de Montréal devient donc prioritaire. C’est pourquoi
+                                                              longitude et latitude (ex. : BjFj), et selon l’ordre suc-
+la reconnaissance du patrimoine archéologique dans
+                                                              cessif des découvertes archéologiques (ex. : BjFj-1).
+le Plan d’urbanisme de Montréal permettra de
+                                                              Au Québec, c’est le ministère de la Culture et des
+prévenir l’interférence négative des usages actuels de
+                                                              Communications qui a la responsabilité de tenir
+la ville et assurera la protection et la mise en valeur
+                                                              l’Inventaire des sites archéologiques de la province et
+de vestiges et de sites archéologiques d’un grand
+                                                              qui attribue les codes Borden.
+intérêt pour l’histoire de Montréal.
+                                                              La Ville de Montréal a donc enrichi le Répertoire
+                                                              informatisé des sites archéologiques des données à
+1.4.3 L’approche méthodologique et l’identifi-                l’échelle de l’île de Montréal. Les 191 sites
+         cation du patrimoine archéologique au                archéologiques recensés en date de 2004 ont été
+         Plan d’urbanisme                                     caractérisés individuellement. Les critères utilisés
+                                                              pour cette évaluation sont :
+En lien avec la confection du Plan d’urbanisme, la
+Ville de Montréal a réalisé une étude des sites               – l’état de conservation physique du site et de son
+archéologiques recensés en date de l’année 2003                 environnement immédiat, en considérant que
+et des secteurs d’intérêt archéologique. Cette étude            plusieurs sites archéologiques recensés ont été
+s’étend à la partie montréalaise de l’archipel de               détruits lors de travaux d’excavation ou ont fait
+Montréal, qui comprend l’île de Montréal mais aussi             l’objet de fouilles archéologiques ;
+l’île des Sœurs, l’île aux Hérons, l’île aux Chèvres, l’île   – la qualité documentaire des couches et des vestiges
+Dorval et d’autres. Ce faisant, elle assure une vision          archéologiques, leur représentativité, leur unicité,
+d’ensemble du territoire et met en perspective les              leur ancienneté et, dans certains cas, leur capacité
+espaces urbanisés où le patrimoine archéologique                d’évocation.
+nécessite des mesures de protection. Pour comprendre
+                                                              Deux catégories ont été distinguées : les sites archéo-
+la portée de la démarche, il est nécessaire de rappeler
+                                                              logiques intègres qui doivent être protégés et les sites
+que seule une infime quantité des sites archéo-
+                                                              archéologiques altérés qui ne nécessitent aucune mesure
+logiques sur l’île de Montréal sont connus.
+                                                              de protection. Tous ont été cartographiés, y compris
+Dans un premier temps, l’étude s’est attachée à               les sites archéologiques altérés car ils sont révélateurs
+localiser précisément et à évaluer les sites archéolo-        du potentiel archéologique d’un milieu donné.
+giques déjà recensés et inscrits à l’Inventaire des sites
+archéologiques du Québec, et dans un second temps,
+à qualifier, localiser et prioriser des secteurs d’intérêt
+archéologique.
+
+
+
+
+                        ARRONDISSEMENT                                                                              17
+                                                  de Verdun
+LES BIENS CULTURELS À STATUT                                archéologiques. La qualité de préservation du milieu
+                                                            physique, la densité des témoins archéologiques en
+La notion de bien culturel intègre, d’une part, les sites   sous-sol et(ou) hors sol et leur capacité de con-
+archéologiques et les biens archéologiques classés et,      tribuer à la connaissance constituent des facteurs
+d’autre part, les sites historiques classés et les monu-    qui rehaussent le niveau d’intérêt accordé à un
+ments historiques classés ou reconnus, l’arrondisse-        endroit particulier. Le secteur d’intérêt archéologique
+ment historique du Vieux-Montréal, l’arrondissement         « à fort potentiel » est un territoire où des mesures
+historique et naturel du mont Royal, l’arrondissement       de protection des sites éventuels sont nécessaires.
+naturel de Saraguay, les monuments cités et les sites
+du patrimoine. Tous ces biens ont fait l’objet d’un         Pour chacun des 27 arrondissements de l’île de
+examen à partir de la documentation disponible afin         Montréal, l’identification des secteurs qui présentent
+de déterminer leur intérêt archéologique et, en con-        un intérêt archéologique constitue une étape préalable
+séquence, la nécessité d’une protection du patrimoine       à la protection des éventuels témoins archéolo-
+archéologique sur ces propriétés. Seuls les grands          giques. Cet exercice, qui est d’ailleurs une première
+ensembles à statut sont cartographiés, les autres           sur le territoire montréalais, est basé sur l’examen et
+biens culturels étant présentés par arrondissement.         l’évaluation de multiples sources documentant les
+                                                            aspects environnementaux et culturels de ces terri-
+                                                            toires. Cette étape permet également d’identifier les
+LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                        milieux qui doivent dans l’avenir faire l’objet d’une
+ET LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                     étude de potentiel et d’un inventaire archéologique.
+À FORT POTENTIEL                                            Les secteurs ont été ciblés en fonction :
+Le secteur d’intérêt archéologique est un territoire        – du cadre biophysique et des qualités d’accueil de
+susceptible de renfermer des sites et des vestiges            populations d’un territoire, depuis plusieurs millé-
+des périodes préhistorique, de contact et historique          naires; ce cadre a été documenté à partir d’études
+eu égard à ses caractéristiques géomorphologiques,            géologiques et géomorphologiques ainsi que par
+biophysiques, archéologiques et historiques.                  l’examen de cartes topographiques et de photogra-
+Des études plus poussées doivent y être réalisées             phies aériennes anciennes afin de déterminer la
+afin d’évaluer précisément la qualité de préservation         proximité d’un axe de communication hydro-
+du milieu physique. La probabilité de découverte              graphique ou terrestre, l’élévation des terrasses, les
+de témoins archéologiques demeure à ce jour difficile         types de dépôts de surface, les concentrations de
+à estimer si l’on considère l’environnement et son            ressources alimentaires de même que l’approvi-
+degré de perturbation moderne. Il est donc nécessaire         sionnement en eau potable et autres éléments ;
+que les citoyens collaborent en communiquant toute          – du contexte historique et de l’urbanisme moderne
+découverte de vestiges dans les secteurs d’intérêt            pour déterminer leur capacité à fonder un lieu de
+archéologique.                                                nature archéologique et à le préserver; ces contextes
+                                                              ont été documentés à partir de monographies
+Le secteur d’intérêt archéologique à fort potentiel           historiques et par l’examen des cartes des XVIIe,
+est un territoire dont l’évaluation du contexte bio-          XVIIIe, XIXe et XXe siècles et des photographies
+physique ainsi que des caractéristiques géomor-               aériennes de 1947, 1948 et 1949, de même qu’à
+phologiques, archéologiques et historiques démontre           partir d’études sur les parcs-nature de l’île de
+une forte possibilité qu’il recèle des vestiges               Montréal, les propriétés institutionnelles, les biens
+
+
+
+
+18                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+  culturels à statut et les lieux historiques nationaux,      afin de bien saisir toute la portée de l’urbanisme
+  comme le canal de Lachine ;                                 moderne sur les ressources archéologiques de l’île de
+– du contexte archéologique documenté à partir de             Montréal.
+  l’Inventaire des sites archéologiques du Québec
+                                                              Le résultat de cette réflexion qui comporte des limites,
+  ainsi que dans les publications, les rapports inédits
+                                                              car il ne s’agit aucunement d’une étude de potentiel
+  et les relevés de découvertes. Des copies de ces
+                                                              archéologique « fine » de l’île de Montréal, a été car-
+  études sont maintenant disponibles au Centre de
+                                                              tographié et des textes ont été rédigés en lien avec
+  documentation de la Direction du développement
+                                                              les catégories identifiées au Plan d’urbanisme : site
+  urbain de la Ville de Montréal ; le répertoire de ces
+                                                              archéologique recensé intègre, site archéologique
+  ouvrages peut être consulté sur le site Web de la
+                                                              recensé altéré, secteur d’intérêt archéologique à fort
+  Ville de Montréal – Patrimoine archéologique.
+                                                              potentiel, secteur d’intérêt archéologique, grand
+L’analyse des caractéristiques des sites archéolo-            ensemble à statut.
+giques connus permet de dégager des constantes qui
+influencent le choix des emplacements en fonction des
+cultures et des périodes, et d’élaborer des modèles
+archéologiques prédictifs. C’est ainsi que l’on constate,
+                                                              1.5 Nouvelles perspectives
+sites archéologiques à l’appui, que les groupes
+                                                              En résumé, le travail de repérage du patrimoine urbain
+amérindiens de la période préhistorique et les premiers
+                                                              réalisé dans le cadre du Plan d’urbanisme nous permet
+colons français choisissent approximativement les
+                                                              d’atteindre plusieurs objectifs et d’ouvrir la réflexion sur
+mêmes lieux pour s’établir. Par la suite, la disposition
+                                                              le patrimoine dans une perspective d’avenir. Il permet
+des occupations rurales européennes se démarque
+                                                              entre autres :
+de celle des premiers noyaux villageois, au gré du
+développement des axes de transport terrestre. De             – d’élargir la notion de patrimoine par rapport à ce qu’on
+plus, des activités spécialisées, tel un moulin à farine        retrouvait dans le Plan d’urbanisme de Montréal de 1992
+ou à scie mu par l’eau, une tannerie artisanale ou,             et dans plusieurs des plans d’urbanisme des anciennes
+plus tardivement, un complexe industriel, supposent             villes qui se sont jointes à Montréal ;
+des caractéristiques d’implantation fort différentes.         – de contribuer à accroître l’intérêt de certains arron-
+Ces facteurs ont été pris en considération afin de              dissements pour les problématiques de conservation
+tenter de localiser les territoires qui ont eu la faveur        du patrimoine et d’en sensibiliser d’autres à l’impor-
+des populations locales depuis le début de l’occupation         tance de cet enjeu ;
+de l’île de Montréal jusqu’à nos jours.                       – d’amorcer une exploration de nouvelles notions que
+                                                                l’on rattache depuis peu à la question patrimoniale
+Les secteurs les plus susceptibles d’abriter des vestiges
+                                                                dans les outils de gestion municipaux (patrimoine
+archéologiques ont ainsi été identifiés et ont fait l’objet
+                                                                moderne, ensembles urbains, éléments de paysage,
+d’une inspection visuelle pour estimer leurs carac-
+                                                                patrimoine archéologique, etc.) ;
+téristiques générales et observer, plus avant, le degré
+                                                              – de contribuer à l’identification d’enjeux locaux et
+de conservation d’éventuels vestiges. Certaines modi-
+                                                                métropolitains quant à la protection du patrimoine;
+fications modernes majeures, comme l’ajout de rem-
+                                                              – de développer une vision globale et partagée en vue
+blais en rive, ont été réévaluées par suite de l’inspection
+                                                                d’une planification et d’une action concertées en
+visuelle. Les résultats de l’ensemble de ces étapes
+                                                                matière de patrimoine, en positionnant mieux le patri-
+d’évaluation ont été cartographiés sur une représen-
+                                                                moine dans la dynamique du développement urbain.
+tation aérienne de l’île de Montréal, l’orthophoto 2002,
+
+
+
+                        ARRONDISSEMENT                                                                                 19
+                                                  de Verdun
+PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+1907, BNQ-M Cote : G 1144 M65G475 P5 1907 CAR
+En 1907, le secteur est de Verdun est complètement loti et la con-
+struction d’habitations est bien amorcée.
+
+
+
+
+                                                                     Board Walk and Bathing Place, Verdun, P.Q. (La Promenade et la Plage,
+                                                                     Verdun, P.Q.), sans date, http://www.bnquebec.ca, CP 5367
+                                                                     Les abords du fleuve à Verdun alors qu’ils sont accessibles autant pour
+                                                                     la promenade que pour la baignade.
+
+
+
+
+20                                                                   Évaluation du patrimoine urbain
+                                                                     Ville de Montréal
+2.                             HISTORIQUE
+
+
+Le toponyme de Verdun vient du nom donné à
+l’ensemble des premières terres concédées sur ce ter-
+                                                             La vocation agricole du territoire de Verdun diminue
+                                                             avec le développement urbain. Malgré ce déclin, lors
+ritoire et formant alors la côte de Verdun (ou des           de la Première Guerre mondiale, l’Association des
+Argoulets). La côte est située au sud de l’île de            jardins de guerre encourage la culture maraîchère à
+Montréal, au pied des rapides de Lachine. En 1660,           Verdun. D’autre part, bien que Verdun soit presque
+elle est occupée par des militaires. Là, des soldats         exclusivement résidentielle, des usines de fabrication
+nommés « argoulets » sont chargés de défendre                de munitions seront en activité sur son territoire pen-
+Montréal, menacée régulièrement par des Iroquois.            dant les deux guerres mondiales.
+À la même époque, l’île Saint-Paul (aujourd’hui île
+                                                             Au début du XXe siècle, Verdun compte une popula-
+des Sœurs), située juste en face, est aussi un endroit
+                                                             tion principalement ouvrière travaillant à Montréal.
+stratégique sur le fleuve. Elle fait partie du vaste
+                                                             En 1915, les constructeurs y sont surtout de petits
+réseau militaire et commercial de Montréal et de la
+                                                             propriétaires. Durement touchée par la crise écono-
+Nouvelle-France. Jacques LeBer, riche marchand de
+                                                             mique des années 1930, Verdun souffre d’une pénurie
+fourrures associé à Charles LeMoyne, est alors pro-
+                                                             de logements qui deviendra pendant quelques
+priétaire du secteur ouest de l’île, où il fait construire
+                                                             décennies un problème endémique. Pendant la
+une ferme fortifiée. Après la Grande paix de 1701
+entre la France et les nations amérindiennes, les ter-       Seconde Guerre, de nombreux logements y sont
+res de la côte de Verdun seront utilisées à des fins         construits et, en 1946, les 18 000 logements
+agricoles. Par ailleurs, en 1769, toute l’île Saint-Paul     disponibles sont occupés. Ayant obtenu son statut de
+devient la propriété des religieuses de la Congré-           ville en 1909, Verdun, très densément peuplée,
+gation de Notre-Dame, qui y exploitent à leur tour           devient dans les années 1920 la troisième ville en
+une ferme.                                                   importance au Québec, après Montréal et Québec.
+
+Le canal de l’aqueduc de Montréal constitue la fron-         En 1956, l’île des Sœurs jusque là exclusivement agri-
+tière nord du territoire de Verdun. Ce canal alimente        cole est définitivement annexée à la ville de Verdun.
+Montréal en eau potable depuis 1856. Élargi à                Les Sœurs de la Congrégation de Notre-Dame quit-
+plusieurs reprises, il constitue, avec le fleuve, un élé-    tent les lieux. L’année suivante, la construction du
+ment important du paysage verdunois. Il est traversé         pont Champlain, dernier pont à relier l’ouest de l’île
+par des ponts qui permettent l’accès à Montréal.             à la rive sud, débute; il sera ouvert à la circulation en
+                                                             1962. En 1968, plus de 800 unités de logement
+En 1874 est créé le village de la Rivière-Saint-Pierre,      accueillent au-delà de 3 000 résidants sur l’île et,
+qui prendra le nom de Verdun en 1878. Les inonda-            actuellement, plus de 13 000 personnes y vivent dans
+tions printanières dues à la crue des eaux rendent           un environnement exceptionnel, tandis que l’ensemble
+cependant les rives impraticables et freinent le             de l’arrondissement compte environ 60 000 habitants.
+développement de la municipalité. Elles sont la cause
+de soucis constants pour le conseil municipal. Celui-
+ci cherche des solutions et, en 1895, une première
+digue est construite. Toutefois, ce n’est qu’avec la
+canalisation du Saint-Laurent que ce phénomène
+naturel est complètement enrayé. Cette digue a per-
+mis l’aménagement d’une promenade donnant
+accès au fleuve.
+
+
+
+
+                       ARRONDISSEMENT                                                                              21
+                                                 de Verdun
+3.
+3.1 Mise en situation
+                                 É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+
+                                                                La paroisse Notre-Dame-des-Sept-Douleurs est la pre-
+                                                                mière paroisse catholique à desservir Verdun et à être
+                                                                située sur son territoire. En 1899, elle est détachée de
+Le territoire de Verdun est bordé d’eau – le fleuve Saint-      la paroisse de Saint-Paul, elle-même fondée en 1874.
+Laurent et les rapides de Lachine d’une part, et le canal       L’église actuelle fut construite entre 1911 et 1914 et
+de l’aqueduc d’autre part. L’île des Sœurs siège quant          consacrée en 1929. La population grandissante entraî-
+à elle au milieu du fleuve. L’histoire de Verdun est mar-       nera la création de plusieurs paroisses catholiques fran-
+quée par cette présence de l’eau, qu’il s’agisse des            cophones distinctes sur le territoire. La population de
+inondations printanières, des rivières anciennes, de la         Verdun étant partagée entre anglophones et franco-
+digue ou de l’aqueduc.                                          phones, des églises de traditions diverses seront aussi
+                                                                érigées.
+Le patrimoine bâti de Verdun présente des caractéris-
+tiques très variées soulignant les diverses phases de           Au cœur du territoire, le site de l’Hôpital Douglas cons-
+développement du territoire. Ainsi, on pourra indiquer          titue une enclave institutionnelle dans le tissu urbain.
+que le développement résidentiel prend son envol au             Établie en 1881, l’institution, connue alors sous le nom
+début du XXe siècle, après la mise en place de la digue         de « Protestant Lunatic Asylum », acquiert en 1887
+protégeant le territoire des fortes inondations printa-         deux terres appartenant à Henry et Daniel Hadley. On y
+nières. Le territoire se développera rapidement par la          ajoutera aussi une terre acquise de John Greenshields,
+suite et permettra à Verdun de devenir, dans les années         et le don d’une dernière terre viendra combler les
+1920, la troisième ville en importance au Québec. Ce            besoins en espace de l’institution. Ce site comporte
+développement se poursuivra de façon constante pour             plusieurs bâtiments et pavillons construits au fil des ans.
+atteindre les limites du territoire à la fin des années 1950.
+
+L’expansion se poursuivra alors sur le seul territoire
+encore vierge, l’île des Sœurs. Les années 1960 trans-
+formeront l’île, jusqu’alors vouée à l’agriculture, en un
+vaste projet de développement urbain planifié. Sous
+l’influence de l’architecte Mies van de Rohe et d’ur-
+banistes, une nouvelle ville sera planifiée selon des
+règles strictes dont l’influence est encore ressentie et
+dont l’esprit supporte les orientations actuelles.
+
+Le canal de l’aqueduc délimite le territoire final de la
+ville de Verdun. Des terres concédées à l’origine en bor-
+dure du fleuve et qui débordaient au-delà du tracé
+actuel de l’aqueduc, seule la portion au sud dudit canal
+demeurera partie de la ville constituée.
+
+
+
+
+                         ARRONDISSEMENT                                                                                 23
+                                                    de Verdun
+Ville de Montréal
+Évaluation du patrimoine urbain
+                                  André Jobin, Carte de L’île de Montréal, 1834, BNQ
+3.2 Résultat de l’analyse
+3.2.1 Tracé fondateur d’intérêt patrimonial
+Les tracés fondateurs qui ont structuré le développe-
+ment du territoire de Verdun sont :
+
+– le chemin de la rivière Saint-Pierre ou chemin de
+  Lachine (Lower Lachine Road, puis boulevard LaSalle);
+
+– le chemin de la côte Saint-Paul (chemin du Pavillon,
+  puis rue de l’Église).                                    21.E.1A Au cœur de la ville, l’église et le presbytère de Notre-Dame-
+                                                            des-Sept-Douleurs
+Ces chemins reliaient les noyaux d’implantation et
+les villages qui structuraient les environs. Aujourd’hui,
+le territoire s’est urbanisé et il ne reste pratiquement
+aucune trace des premiers établissements dans Verdun.
+La maison Étienne-Nivard-de-Saint-Dizier nous rappelle
+l’ancienneté du boulevard LaSalle.
+
+
+
+3.2.2 Le cadre bâti d’intérêt patrimonial
+           A. Les secteurs de valeur
+               patrimoniale exceptionnelle
+
+                                                            21.E.1A La résidence LaSalle, toujours occupée par les Frères du Sacré-
+                                                            Cœur
+
+21.E.1A LE CŒUR INSTITUTIONNEL
+  ET COMMERÇANT
+
+L’intersection des rues Wellington et de l’Église cons-
+titue le cœur institutionnel et commerçant de Verdun.
+On y retrouve l’église Notre-Dame-des-Sept-Douleurs,
+l’académie Saint-Joseph, l’église Unie Chalmers, l’église
+anglicane St. Clement, l’ancien hôtel de ville et les
+succursales des principales institutions bancaires. Le
+secteur abrite ainsi un ensemble de bâtiments majeurs
+avec des façades en pierre majestueuses, du parement
+de brique ouvragé, des insertions d’art et de vastes
+fenêtres. Plusieurs de ces immeubles sont des œuvres
+d’architectes connus de la région métropolitaine.
+
+
+
+
+                       ARRONDISSEMENT                                                                                           25
+                                                de Verdun
+21.E.1B LA RUE WELLINGTON                                         21.E.1C LA RUE DE L’ÉGLISE
+
+Sur toute sa longueur, la rue Wellington constitue un             Comme tracé fondateur de Verdun, la rue de l’Église
+axe majeur de la vie commerçante de Verdun. On y                  compte les plus anciennes constructions commerciales.
+retrouve un ensemble de bâtiments généralement de                 D’une largeur de cinquante pieds et avec des cons-
+trois étages, occupés au rez-de-chaussée par des com-             tructions de part et d’autre érigées à la limite de la
+merces et aux étages par des logements. L’accès aux               propriété, cette rue projette une image très urbaine.
+espaces commerciaux est de plain-pied. Les vitrines               Les bâtiments qui la bordent présentent une grande
+commerciales sont hautes et dotées d’un tympan, et                variété de caractéristiques, créant une composition
+l’étage commercial est démarqué des étages résiden-               éclectique. Les parements de façade sont la brique ou
+tiels par une corniche élaborée. Les immeubles étant              la pierre, et les façades sont généralement ornemen-
+construits à la limite de la propriété, une typologie             tées. La hauteur générale des bâtiments est de trois
+originale s’est développée pour doter les logements de            étages et les rez-de-chaussée sont au niveau du sol.
+balcons en alcôve. Les façades sont généralement en
+brique avec des insertions de pierre travaillée aux lin-
+teaux, jambages et allèges.                                       21.E.2 L’AVENUE DESMARCHAIS
+
+                                                                  L’avenue Desmarchais présente un environnement
+                                                                  exceptionnel et particulier. Son large terre-plein paysagé
+                                                                  contribue à créer une atmosphère plus dégagée. De
+                                                                  chaque côté, on trouve des habitations de deux étages
+                                                                  de diverses typologies, notamment des ensembles de
+                                                                  deux duplex jumelés ou à trois logements dont le plus
+                                                                  vaste est au rez-de-chaussée. L’ensemble présente une
+                                                                  belle homogénéité. Le niveau du rez-de-chaussée est
+                                                                  sensiblement uniforme sur toute l’avenue. Les bâti-
+                                                                  ments sont à parement de brique avec de hautes
+                                                                  fenêtres verticales et ornées de vitraux, souvent com-
+21.E.1B Institution bancaire dans le cœur commercial, 4214, rue   binées en groupes de deux ou trois. Des balcons pro-
+Wellington
+                                                                  fonds aux boiseries raffinées ornent les façades.
+
+
+
+
+21.E.1B La rue Wellington, vers l’est, du parvis de l’église      21.E.2 Duplex de l’avenue Desmarchais
+
+
+
+
+26                                                                Évaluation du patrimoine urbain
+                                                                  Ville de Montréal
+21.E.3 LE VOISINAGE MOFFAT                                 21.E.4 L’HÔPITAL DOUGLAS
+
+Ce secteur est exceptionnel en raison de sa grande         Fondé en 1881, le « Protestant Lunatic Asylum » cons-
+uniformité de typologie et d’état de conservation. Les     titue un vaste îlot de verdure dans le tissu urbain qui
+bâtiments sont, ici aussi, à parement de brique avec de    l’entoure. Ce campus compte aussi près de 30 im-
+hautes fenêtres verticales et ornées de vitraux, souvent   meubles, dont le pavillon Perry, la salle Douglas (cons-
+combinées en groupes de deux ou trois. Des balcons         truite en 1912 et restaurée en 2001) et le pavillon
+profonds, aux boiseries raffinées, ornent les façades.     Dobell, construit en 1916.
+
+
+
+
+21.E.3 Ensemble résidentiel, rue Manning                   21.E.4 Le Douglas Memorial Hall, Centre hospitalier Douglas
+
+
+
+
+21.E.3 Ensemble résidentiel, rue Moffat                    21.E.4 Le pavillon Dobell, Centre hospitalier Douglas
+
+
+
+
+                            ARRONDISSEMENT                                                                               27
+                                               de Verdun
+21.E.5 LE VOISINAGE CRAWFORD
+
+Quelques années avant la Seconde Guerre mondiale,
+le gouvernement promulgue le « National Housing
+Act ». De nouvelles typologies d’habitation prendront
+forme dans ce cadre, et plus particulièrement l’habita-
+tion unifamiliale de masse. Le voisinage Crawford offre
+un exemple exceptionnel de ce nouveau type d’inter-
+vention urbaine, constitué d’immeubles d’un étage
+et demi recouverts d’un parement de brique. Ces
+immeubles ont été construits sur la base de plans d’ar-
+chitecture primés. L’homogénéité des hauteurs, des
+                                                          21.E.6 La station d’essence Esso, Mies van de Rohe, architecte
+matériaux, des pentes de toit, du mode d’implantation
+et du paysagement contribue à la qualité de l’ensem-
+ble. On abandonne ici la trame de rues orthogonale.
+
+
+
+
+                                                          21.E.6 Une tour résidentielle, Mies van de Rohe, architecte
+
+
+21.E.5 Le développement Crawford Park, rue Fayolle
+                                                          21.E.6 L’ÎLE DES SŒURS
+
+                                                          La planification urbaine de ce secteur de l’île des Sœurs
+                                                          a été élaborée en collaboration avec l’architecte de
+                                                          réputation internationale Ludwig Mies van der Rohe.
+                                                          On y retrouve aussi trois tours d’habitation de l’ar-
+                                                          chitecte ainsi que la station d’essence de la pétrolière
+                                                          Esso. Van der Rohe est aussi l’auteur, à Montréal, du
+                                                          complexe Westmount Square et du Centre Saidye
+                                                          Bronfman. La planification urbaine de l’île des Sœurs
+                                                          repose sur la construction en hauteur dégageant de
+                                                          plus grands espaces au sol (parcs, espaces communau-
+                                                          taires, etc.), l’aménagement public de la berge, une
+                                                          séparation entre la circulation piétonne et la circulation
+21.E.5 Le développement Crawford Park, rue Truman
+                                                          automobile, et une orientation des bâtiments permet-
+                                                          tant les percées visuelles sur le fleuve. Ce sont ces élé-
+                                                          ments urbains qui caractérisent ce secteur.
+
+28                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+21.E.7 LE SECTEUR DE L’AQUEDUC                                           B. Les secteurs de valeur
+                                                                              patrimoniale intéressante
+À Verdun, le secteur de l’aqueduc comprend l’essen-
+tiel du canal lui-même. Le territoire occupé aujour-
+d’hui par l’usine était à l’origine verdunois. Le secteur
+du canal de l’aqueduc fait partie d’un secteur plus         21.I.1 LE VIEUX-VERDUN
+grand qui chevauche aussi les arrondissements de
+                                                            Sur le boulevard LaSalle, dans le voisinage de l’hôpital
+LaSalle et du Sud-Ouest. En 1852, on confie la con-
+                                                            et sur la rue Wellington au nord du boulevard, on
+ception d’un nouveau plan d’approvisionnement en
+                                                            retrouve le cadre bâti le plus ancien de Verdun. En
+eau à l’ingénieur Thomas C. Keefer. Ce plan com-
+                                                            front sur ces rues sont regroupés des bâtiments rési-
+prend le creusage d’un canal de 2,4 km qui amène
+                                                            dentiels de belle qualité et d’une agréable uniformité.
+l’eau puisée en amont des rapides de Lachine au
+                                                            On se rappellera que la rue May bordait autrefois le
+Pavillon des roues, qui était situé à l’emplacement de
+                                                            déversoir de l’usine d’alimentation d’eau plutôt que
+l’actuelle usine de filtration Atwater. Aujourd’hui, aux
+                                                            l’autoroute, assurant un milieu de vie agréable.
+extrémités du canal, élargi à deux reprises, on retrouve
+la station de pompage construite en 1923 et l’usine de
+filtration commandée par le conseil municipal à la
+suite de l’épidémie de typhoïde de 1910. Le système
+d’aqueduc de Montréal constitue une formidable
+œuvre d’ingénierie qui témoigne de l’histoire des
+avancements technologiques et de la gestion des
+problématiques de santé publique et de lutte contre
+les incendies. À ce titre, il mérite une reconnaissance
+comme patrimoine exceptionnel.
+
+
+
+                                                            21.I.1 L’Hôpital général de Verdun
+
+
+
+
+                                                            21.I.1 Ensemble résidentiel sur la rue May
+
+
+
+
+                       ARRONDISSEMENT                                                                            29
+                                                de Verdun
+21.I.2 LE VOISINAGE NORD
+
+Ce secteur situé entre l’usine d’alimentation d’eau, la
+rue Hickson et le Vieux-Verdun est une zone urbaine
+homogène. Constitué généralement d’immeubles
+de trois étages avec escalier extérieur pour l’accès aux
+étages, il s’est développé au cours de la vague de
+1900 à 1920. On y observe surtout des bâtiments en
+brique avec des corniches élaborées et des détails de
+maçonnerie. Les fenêtres sont verticales et possèdent
+des vitraux. Les façades comportent souvent des
+alcôves dans la composition. Ces constructions sont
+                                                           21.I.4 Le Natatorium, en bordure du fleuve, Verdun
+typiquement montréalaises.
+
+
+
+21.I.3 L’ÎLOT ANCIEN
+
+En bordure de la rue de l’Église, entre les rues Hickson
+et Galt, on retrouve un lotissement antérieur au lo-
+tissement avec ruelles si caractéristique du déve-
+loppement urbain de Montréal. Lors de la densifica-
+tion du cadre bâti, l’absence de ruelle a entraîné une
+typologie particulière donnant accès à la cour arrière
+par une porte cochère. Les bâtiments sont générale-
+ment en brique avec des corniches élaborées et des
+détails de maçonnerie. Les fenêtres sont verticales et     21.I.4 Les serres, Verdun
+comportent des vitraux. Il y a également des bâtiments
+de deux ou trois étages.
+
+
+
+21.I.4 LE BOULEVARD LASALLE
+
+Construit uniquement du côté intérieur des terres, le
+boulevard LaSalle offre une vue imprenable, d’abord
+sur la digue et ses aménagements, puis sur le fleuve
+Saint-Laurent. Le cadre bâti présente des constructions
+généralement originales dans une géométrie de ter-
+rain hors du commun. Tous les bâtiments sont en pierre
+ou en maçonnerie de brique. Le gabarit et l’implanta-
+tion parallèle aux rues secondaires sont des éléments      21.I.6 4902, rue de Verdun
+
+caractéristiques forts.
+
+
+
+
+30                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+21.I.5 LE SECTEUR RIELLE ET DE VERDUN                       21.I.7 LE SECTEUR WOODLAND ET DE VERDUN
+
+En 1907, la digue détermine la limite sud de la zone        À partir de l’avenue Desmarchais, le cadre bâti prend
+protégée de la crue des eaux, qui se développera plus       une composition différentiée des développements
+rapidement que la zone plus au sud. La digue se ter-        précédents. En évoluant vers le sud, l’espace se
+minait alors à la limite sud des terrains de la rue         dégage et la hauteur des bâtiments se généralise à
+Willibrord. Le cadre bâti, assez hétérogène, est consti-    deux étages. Il y a peu d’escaliers extérieurs, mais la
+tué d’immeubles de deux ou trois étages avec escalier       présence des balcons avant s’affirme. Formant au nord
+extérieur pour l’accès aux étages; il s’est développé au    une ensemble plutôt hétérogène, le développement
+cours de la vague de 1900 à 1920. Ce sont générale-         devient très homogène. Les bâtiments sont générale-
+ment des bâtiments en brique avec des corniches             ment parés de brique, avec des corniches élaborées et
+élaborées et des détails de maçonnerie, érigés sur des      des détails de maçonnerie. Les fenêtres sont verticales,
+lots de largeur conventionnelle, assez profonds et          hautes, ornées de vitraux et souvent combinées en
+dotés de ruelles. Les fenêtres sont verticales et com-      groupes de deux ou trois. Des balcons profonds, aux
+portent des vitraux. La rue de Verdun reprend un peu        boiseries raffinées, ornent les façades.
+la typologie commerciale de la rue Wellington, avec
+ses immeubles de trois étages, ses hautes vitrines de
+façade, ses corniches et ses balcons en alcôve aux
+étages supérieurs (résidentiels).
+
+
+
+21.I.6 LE SECTEUR DES AVENUES
+
+De la 1re Avenue jusqu’à la 6e, le cadre bâti de part et
+d’autre de la rue de Verdun est très uniforme.
+Principalement constitué d’immeubles de trois étages
+avec escalier extérieur pour l’accès aux étages, il s’est
+développé à partir du début du XXe siècle sur un lotisse-   21.I.7 Ensemble résidentiel, rue Allard
+
+ment de largeur conventionnelle mais de profondeur
+plus restreinte et comprenant des ruelles en « H ». Le
+secteur est dense; il s’agit en général de bâtiments en
+brique avec des corniches élaborées et des détails de
+maçonnerie. Quelques immeubles ont des façades de
+pierre. Les fenêtres sont verticales et comportent des
+vitraux. La rue de Verdun se prolonge dans ce secteur
+avec la même typologie originale que celle du secteur
+précédent. Elle compte aussi des immeubles civiques
+imposants, dont l’église Notre-Dame-de-Lourdes et
+l’école Notre-Dame-du-Sacré-Cœur.
+
+
+                                                            21.I.7 L’église Notre-Dame-de-la-Garde, rue Brault
+
+
+
+
+                       ARRONDISSEMENT                                                                            31
+                                                de Verdun
+21.I.8 LE VOISINAGE OUEST
+
+Ce secteur situé entre le canal de l’aqueduc et la rue
+Bannantyne s’est construit principalement après 1950.
+Ce sont majoritairement des duplex en rangée repre-
+nant quelques modèles originaux. L’intérêt de ce
+secteur découle de la qualité des matériaux d’origine
+et de l’harmonie générale. Certains îlots bénéficient
+aussi de la morphologie des lotissements d’origine, qui
+ont entraîné la planification d’espaces verts publics.
+
+
+                                                              21.I.8 L’école Riverview
+21.I.9 UN PROJET « NATIONAL HOUSING ACT »
+
+Suivant les mêmes typologies que dans le secteur
+Crawford, ce projet urbain est aménagé autour d’un
+parc, mais cette fois, inscrit dans la trame de rues
+orthogonale de la ville. Constitué d’immeubles d’un
+étage et demi recouverts d’un parement de brique, le
+projet est aussi construit sur la base de plans d’architec-
+ture primés. L’homogénéité des hauteurs, des maté-
+riaux, des pentes de toit, du mode d’implantation et du
+paysagement contribue à la qualité de l’ensemble.
+
+
+
+21.I.10 LE VOISINAGE SUD                                      21.I.9 Ensemble résidentiel, rue Manning
+
+
+De l’Hôpital Douglas à la limite de la municipalité, on
+retrouve un cadre bâti assez hétérogène de basse
+densité. Développé à partir des terres du fleuve vers
+l’intérieur, il présente diverses typologies exprimant
+les modes d’habitation. Le secteur est essentiellement
+résidentiel (unifamilial ou bifamilial), avec des im-
+meubles majoritairement détachés sur des terrains
+individuels. La typologie « War Time » dans un projet
+intégré décrite précédemment s’est aussi implantée
+dans ce secteur, sur des terrains lotis préalablement
+selon une trame conventionnelle. Les immeubles
+sont généralement de bonne facture, avec parement
+de brique et(ou) de pierre et toiture plate avec man-         21.I.10 Ensemble résidentiel, rue Crawford
+
+sardes ou toit à pignon. Ce sont des constructions un
+peu plus récentes que celles du reste de l’arron-
+dissement, bien que certains immeubles plus anciens
+y soient présents.
+
+
+32                                                            Évaluation du patrimoine urbain
+                                                              Ville de Montréal
+           C. Les ensembles urbains d’intérêt                          D. Les immeubles de valeur
+                                                                          patrimoniale exceptionnelle
+
+                                                            Tous les immeubles de valeur patrimoniale excep-
+21.U.1 L’ÎLE DES SŒURS                                      tionnelle, qu’ils fassent ou non partie d’un secteur de
+Le projet de développement s’est poursuivi dans le pro-     valeur patrimoniale défini dans le présent document,
+longement du plan d’implantation original de l’île des      sont inclus dans la liste qui suit :
+Sœurs. L’architecture y est soignée et l’implantation
+crée un ensemble urbain intéressant. Les constructions,
+plus récentes, utilisent des matériaux nobles comme la      LES ÉDIFICES DE CULTE
+brique et la pierre. L’aménagement continue de pro-
+                                                            177, rue de l’Église
+poser la séparation des espaces piétonniers et automo-
+                                                            Chalmers United Church (Montreal Korean United)
+biles. Il favorise toujours diverses typologies d’habita-
+tion d’une densité suffisante pour permettre la création    4155, rue Wellington
+d’espaces verts et communautaires importants. La mise       Église Notre-Dame-des-Sept-Douleurs
+en valeur des espaces naturels et l’accès au fleuve
+demeurent au centre du concept.                             4322, rue Wellington
+                                                            St. Clement’s Anglican Church
+
+                                                            351, rue Willibrord
+                                                            St. Willibrord’s Catholic Church
+
+                                                            LES ÉDIFICES SCOLAIRES
+
+                                                            454, rue Caisse
+                                                            École Notre-Dame-de-la-Paix
+
+                                                            320, rue de l’Église
+                                                            Académie Saint-Joseph
+
+                                                            200, rue Galt
+                                                            Académie Richard
+
+                                                            5257, rue de Verdun
+                                                            École Woodland
+
+                                                            LES ÉDIFICES PUBLICS
+
+                                                            4000, boulevard LaSalle
+                                                            Hôpital Général du Christ-Roi
+
+                                                            4110, boulevard LaSalle
+                                                            Auditorium de Verdun
+
+                                                            6500, boulevard LaSalle
+                                                            Natatorium
+
+
+
+                       ARRONDISSEMENT                                                                           33
+                                                de Verdun
+6875, boulevard LaSalle                       LES HABITATIONS
+Protestant Hospital for the Insane
+                                              703-707, rue Gordon
+4555, rue de Verdun                           Maison urbaine
+Hôtel de ville de Verdun
+                                              5695, boulevard LaSalle
+LES ÉDIFICES COMMERCIAUX                      Maison bourgeoise
+
+980, 1re Avenue                               7244, boulevard LaSalle
+Bell Canada                                   Maison Nivard-de Saint-Dizier,
+                                              monument historique reconnu
+475, rue de l’Église
+Ancien hôtel de ville                         3267, rue Wellington
+                                              Maison urbaine
+4026, rue Wellington
+Banque de Montréal –                          3513, rue Wellington
+succ. Wellington et Church                    Maison urbaine
+
+4073, rue Wellington                          3523, rue Wellington
+Banque d’Hochelaga                            Maison urbaine
+
+4214, rue Wellington                          201, rue Corot
+Banque d’Épargne – succ. Wellington et Galt   Habitations multiples – Mies van der Rohe
+
+4546, rue Wellington                          100 et 200, rue De Gaspé
+Édifice commercial                            Habitations multiples – Mies van der Rohe
+
+201, rue Berlioz
+Station-service Esso – Mies van der Rohe
+
+LES ÉDIFICES INDUSTRIELS
+
+444, rue de la Poudrière
+British Munitions Supply Co.
+
+
+
+
+34                                            Évaluation du patrimoine urbain
+                                              Ville de Montréal
+                                                                                                                                                                                     21.I.2a
+                                                                                                                                                                                     21.I.2a
+                                                                                                                                                                                     21.I.2a
+                                                                                                                                                                                     21.I.2a
+                                                                                                                                                                                     21.I.2a
+                                                                                                                                                                                     21.I.2a
+                                                                                                                                            21.I.3
+                                                                                                                                            21.I.3
+                                                                                                                                            21.I.3
+                                                                                                                                            21.I.3
+                                                                                                                                            21.I.3
+
+                                                                                                                                                                                                             21.I.1
+                                                                                                                                                                                                             21.I.1
+                                                                                                                                                                                                             21.I.1
+                                                                                                                                                                                                             21.I.1
+                                                                                                                                                                                                             21.I.1
+                                                                                                                                                                                                             21.I.1
+                                                                                                                                                 ru
+                                                                                                                                                   e
+                                                                                                                                                       De
+                                                                                                                                                            L'É                                             21.I.2b
+                                                                                                                                                                                                            21.I.2b
+                                                                                                                                                                                                            21.I.2b
+                                                                                                                                                                                                            21.I.2b
+                                                                                                                                                                                                            21.I.2b
+                                                                                                                                                                  gli
+                                                                                                                                                                      se
+
+                                                                                                                                               21.I.5b
+                                                                                                                                               21.I.5b
+                                                                                                                                               21.I.5b               21.E.1
+                                                                                                                                                                     21.E.1
+                                                                                                                                                                     21.E.1
+                                                                                                                                                                     21.E.1
+                                                                                                                                                                     21.E.1
+                                                                                                                                               21.I.5b
+                                                                                                                                               21.I.5b
+
+
+
+
+                                                                                                                                                                      n
+                                                                                                                                                                    to
+                                                                                                                                                                                                        21.I.2c
+                                                                                                                                                                                                        21.I.2c
+                                                                                                                                                                                                        21.I.2c
+                                                                                                                                                                                                        21.I.2c
+                                                                                                                                                                                                        21.I.2c
+
+
+
+
+                                                                                                                                                                 ing
+                                                                                                                                                              ell
+                                                                                                                                       un
+                                                                           21.E.7
+                                                                           21.E.7
+
+
+
+
+                                                                                                                                                             W
+                                                                           21.E.7
+                                                                           21.E.7
+                                                                           21.E.7                                                                                                                                                 chemin
+                                                                                                                                                                           21.I.5a
+                                                                                                                                                                           21.I.5a                                                       Du
+
+
+
+
+                                                                                                                                    rd
+                                                                                                                                                                           21.I.5a
+                                                                                                                                                                           21.I.5a
+                                                                                                                                                                           21.I.5a                                                              Golf
+
+
+
+
+                                                                                                                                                           e
+                                                                                                                                                        ru
+                                                                                                                                 Ve
+                                                                    ain
+                                                                 mpl                                                                 21.I.6b
+                                                                                                                                     21.I.6b
+                                                                                                                                     21.I.6b
+                                                                                                                                     21.I.6b
+                                                                                                                                     21.I.6b
+                                                              Cha
+
+
+
+
+                                                                                                                            De
+                                                         rd
+                                                     leva
+                                                                                    21.I.8
+                                                                                    21.I.8
+                                                                                    21.I.8
+                                                                                    21.I.8
+                                                                                    21.I.8
+
+
+
+
+                                                                                                                            ue
+                                                  bou
+
+
+
+
+                                                                                                                         en
+                                                                                                       e
+                                                                                                    tyn
+
+
+
+
+                                                                                                                       av
+                                                                                                                                                       21.I.6a
+                                                                                                                                                       21.I.6a
+                                                                                                                                                       21.I.6a
+                                                                                                                                                       21.I.6a
+                                                                                                                                                       21.I.6a
+
+
+
+
+                                                                                                  an
+                                                                                               nn
+                                                                                             Ba
+                                                                  21.I.9
+                                                                  21.I.9
+                                                                  21.I.9
+                                                                  21.I.9
+                                                                  21.I.9
+                                                                  21.I.9                                                 21.E.2
+                                                                                                                         21.E.2
+                                                                                                                         21.E.2
+                                                                                                                         21.E.2
+                                                                                                                         21.E.2
+                                                                                                                         21.E.2
+                                                                                                           21.I.7
+                                                                                                           21.I.7
+
+
+
+
+                                                                                         e
+                                                                                                           21.I.7
+                                                                                                           21.I.7
+                                                                                                           21.I.7
+
+
+
+                                                                                       ru
+                                                                                                                                                                                                                                            21.U.1
+                                                                                                                                                                                                                                            21.U.1
+                                                                                                                                                                                                                                            21.U.1
+                                                                                                                                                                                                                                            21.U.1
+                                                                                                                                                                                                                                            21.U.1                                     po
+                                                                                                                                            21.I.4
+                                                                                                                                            21.I.4
+                                                                                                                                            21.I.4
+                                                                                                                                                                                                                                                                                         nt
+                                                                                                                                            21.I.4
+                                                                                                                                            21.I.4                                                                                                                                          C
+                                             21.E.4
+                                             21.E.4
+                                             21.E.4
+                                                                                                                                                                                                                                                                                                ha
+                       21.E.5
+                       21.E.5
+                       21.E.5
+                       21.E.5
+                       21.E.5
+                                             21.E.4
+                                             21.E.4                                                                                                                                                                                                                                               m
+                                                                                                                                                                                                                                                                                                      pl
+                                                                                                                                                                                                                                                                                                        ai
+                                                                                                                                                                                                                                                                                                          n
+                                                                                                                                                                                               21.U.1
+                                                                                                                                                                                               21.U.1
+                                                                                                                                                                                               21.U.1
+                                                                                                                                                                                               21.U.1
+                                                                                                                                                                                               21.U.1
+                                                                                                                                                                                                                                  21.E.6
+                                                                                                                                                                                                                                  21.E.6
+                                                                                                                                                                                                                                  21.E.6
+                                                                                                                                                                                                                                  21.E.6
+                                                                                                                                                                                                                                  21.E.6
+                                21.I.10
+                                21.I.10
+                                21.I.10
+                                21.I.10
+                                21.I.10
+                                                                                                              21.E.3
+                                                                                                              21.E.3
+                                                                                                              21.E.3
+                                                      lle
+                                                                                                              21.E.3
+                                                                                                              21.E.3
+                                                                                                                                                                                                                                                       Évaluation du patrimoine urbain
+                                                aSa                                                                                                                                                                                 oeurs
+                                            rd L
+                                   bou
+                                      l ev a
+                                                                                                                                                                                                                         'Île des S
+                                                                                                                                                                                                                 dD   eL                               Arrondissement de Verdun
+                                                                                                                                                                                                        var
+                                                                                                                                                                                                  boule
+
+                                                                                                                                                                                                                                                                 Arrondissement historique ou naturel
+                                                                                                                                                                                                                                                                 Secteur de valeur patrimoniale exceptionnelle
+                                                                                                                                                                                                                                                                 Secteur de valeur patrimoniale intéressante
+                                                                                                                                                                                                                                                                 Ensemble urbain d'intérêt
+                                                                                                                                                                                                        21.U.1
+                                                                                                                                                                                                        21.U.1
+                                                                                                                                                                                                        21.U.1
+                                                                                                                                                                                                        21.U.1
+                                                                                                                                                                                                        21.U.1
+                                                                                                                                                                                                                                                                 Ensemble industriel d'intérêt
+                                                                                                                                                                                                                                                                 Tracé fondateur d'intérêt patrimonial
+                                                                                                                                                                                                                                                        21.E.1
+                                                                                                                                                                                                                                                                 Code du secteur
+ 0     250     500 m                                                                                                                                                                                                                                             (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                                                                                 Limite d'arrondissement
+
+
+                                                                                                                                                                                                                                                       Division du patrimoine et
+                                                                                                                                                                                                                                                       de la toponymie
+
+10 décembre 2004
+3.2.3 Le patrimoine archéologique                                            Au XVIIe siècle, un premier lot est concédé en fief
+                                                                             noble au major Zachary Dupuis, qui donne le nom de
+L’arrondissement de Verdun comprend deux espaces                             Verdun à la propriété. D’autres concessions sont
+distincts : une plaine alluviale sur l’île de Montréal, et                   ensuite octroyées entre le fief noble et l’embouchure
+l’île des Sœurs, anciennement l’île Saint-Paul, toutes                       de la rivière Saint-Pierre. En 1673, le major Dupuis
+deux comportant des berges sur le fleuve Saint-                              fait don de sa propriété à Marquerite Bourgeoys, fon-
+Laurent. Ces espaces dont les côtes respectives sont                         datrice de la Congrégation de Notre-Dame. Les
+à l’origine séparées par un chenal d’environ 500 mètres                      Sœurs de la Congrégation de Notre-Dame possèdent
+de largeur présentent des conditions environnemen-                           déjà la ferme Saint-Gabriel; elles ajoutent ainsi de nou-
+tales très différentes. Verdun est caractérisée par une                      velles terres agricoles à leurs propriétés et construisent
+basse terrasse (de 15 à 20 mètres d’élévation) et une                        bientôt des bâtiments. Au début du XVIIIe siècle, on
+topographie relativement plane, ce qui en fait un lieu                       trouve une grange et une maison de pierre et peut-
+susceptible d’être affecté par les inondations saison-                       être un ouvrage fortifié, en bordure du fleuve, sur le
+nières. L’île des Sœurs est constituée d’une section                         fief Verdun.
+basse, des côtés sud et ouest, et d’une terrasse
+élevée du côté nord-est. Ces conditions font en sorte
+que le territoire de Verdun a pu être occupé par des
+groupes amérindiens de l’époque préhistorique, envi-
+ron 4 000 ans avant aujourd’hui.
+
+
+
+
+La recherche archéologique a recours à un ensemble de méthodes et            Les collections archéologiques ont une valeur patrimoniale indéniable
+techniques permettant d’identifier la présence de vestiges enfouis, de       et représentent une richesse collective qui mérite toute notre attention.
+les décrire, de les prélever et de les analyser en fonction de leur apport   Ces objets illustrent avec éloquence notre histoire matérielle et jouissent
+à une meilleure compréhension de nos sociétés passées. En cas de             d’un pouvoir fortement évocateur qui rappelle les modes de vie de nos
+découverte fortuite de vestiges ou d’objets, il est nécessaire d’en          prédécesseurs. Jarre en terre cuite grossière d’Angleterre, 1760-1840;
+informer les instances gouvernementales afin que le lieu de la découverte    objet amérindien, pointe de projectile, 2 500 ans avant Jésus-Christ;
+soit évalué.                                                                 cannelle de tonneau en laiton, XVIIIe siècle. Photographies : P. Fauteux.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                        37
+                                                               de Verdun
+Le premier chemin terrestre, l’ancêtre de l’actuel          L’arrondissement de Verdun compte deux sites
+boulevard LaSalle, est ouvert en bordure du fleuve au       archéologiques répertoriés, tous deux sur l’île des
+XVIIIe siècle. Les rues de l’Église et Wellington sont      Sœurs : la ferme LeBer et un site amérindien préhis-
+ensuite aménagées pour faciliter le transport. Les          torique. De plus, la maison historique Étienne-Nivard-
+activités agricoles se poursuivent sur les terres de        de-Saint-Dizier, érigée possiblement au début du
+Verdun et le village est créé en 1876.                      XVIIIe siècle par les Sœurs de la Congrégation de
+                                                            Notre-Dame, est toujours en place en bordure du
+L’évolution de l’île Saint-Paul diffère de ce schéma.       boulevard LaSalle.
+Au cours du dernier quart du XVIIe siècle, Jacques
+LeBer se porte acquéreur de la portion nord de l’île et
+y érige une ferme fortifiée sur la haute terrasse de la
+berge nord-est. Il devient ensuite propriétaire de la                  A. Les secteurs d’intérêt
+                                                                           archéologique à fort potentiel
+section sud de l’île qui demeure boisée. À sa mort, sa
+fille Jeanne hérite des terres et elle les remet à la
+Congrégation de Notre-Dame. Au cours de la seconde
+moitié du XVIIIe siècle, les Sœurs de la Congrégation       21.AP.1 ÎLE DES SŒURS
+de Notre-Dame acquièrent le dernier tiers de l’île,
+                                                            L’île des Sœurs comportait autrefois, à son extrémité
+devenant ainsi les seules propriétaires de l’île. La
+                                                            sud, une vaste zone marécageuse. Ce type d’envi-
+Congrégation veille au développement agricole de
+                                                            ronnement est particulièrement prisé par les popula-
+l’ensemble de l’île Saint-Paul, d’abord avec la cons-
+                                                            tions amérindiennes de la période préhistorique pour
+truction de la ferme Saint-Paul, du côté nord-ouest,
+                                                            sa capacité à fournir différentes espèces de ressources.
+puis de la ferme Sainte-Famille, sur les terres hautes
+                                                            Une bonne part de l’environnement original a été
+du côté nord-est. Les activités agricoles s’y poursuivent
+                                                            modifiée par l’ajout de remblais, mais l’examen des
+jusque vers 1957, année de l’abandon de la ferme
+                                                            photographies aériennes anciennes indique que cer-
+Sainte-Famille.
+                                                            tains emplacements, à proximité du fleuve, peuvent
+La construction de la ferme Sainte-Famille est entre-       être intacts.
+prise rapidement par suite de l’incendie de la ferme
+                                                            La section nord-est de l’île des Sœurs est caractérisée
+Saint-Paul, sur un terrain situé au sud de l’emplace-
+                                                            par une élévation de la berge nettement supérieure à
+ment de la ferme LeBer. Les premiers bâtiments sont
+                                                            celle des terres avoisinantes. Cette particularité en fait
+destinés à l’élevage : une étable en forme de rotonde,
+                                                            un lieu favorable à l’occupation humaine puisqu’elle
+une écurie et une porcherie en brique ainsi qu’une
+                                                            diminue les risques d’inondation et offre un poste
+grange et des dépendances en bois. La maison est
+                                                            d’observation naturel. Deux sites archéologiques ont
+érigée en brique rouge et bordée d’une chapelle et
+                                                            d’ailleurs été découverts dans cet environnement : la
+d’un presbytère. Diverses modifications sont apportées
+                                                            ferme LeBer (BiFj-001) et un site amérindien préhis-
+au bâti, notamment à la suite d’un incendie en 1929.
+                                                            torique (BiFj-049).
+Une inspection visuelle de surface effectuée en 1991
+a permis d’identifier plusieurs des bâtiments de la
+ferme. L’emplacement a depuis été utilisé pour la
+construction domiciliaire (Archéocène 1991).
+
+
+
+
+38                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+21.AP.2 ZONE CÔTIÈRE                                             jusqu’à la rue May. L’endroit est traversé par les rues
+                                                                 Hickson, Troy, Lafleur (anciennement Pacific) et
+La bordure de l’île de Montréal comprend les rives et            Rhéaume ainsi que par une section du boulevard
+quelques îles mais également le chemin qui en suit le            du Cerf-Volant. Les espaces libres de construction
+pourtour et les terres qui le bordent. Ces emplace-              moderne et les emprises de ces rues peuvent toujours
+ments peuvent avoir été utilisés au cours des pério-             receler des vestiges de ces occupations.
+des préhistorique et historique selon divers choix
+d’établissement, en fonction de l’époque et des popu-            Digue
+lations concernées.                                              La digue, dont la construction s’amorce en 1896, est
+                                                                 périodiquement rehaussée et élargie jusque vers
+Berge et îles                                                    1915. Cet ouvrage, toujours visible par endroits, cons-
+Les avancées de terres, les baies, les chenaux et les îles       titue une mesure de protection contre les crues et les
+forment des environnements particuliers qui permet-              inondations saisonnières qui affectent le village de
+tent d’exploiter les ressources dans le cadre d’activités        Verdun. Débutant à proximité de l’exutoire du canal
+de chasse et de pêche. Quand ces formations se trou-             de l’aqueduc, la digue se poursuit vers l’ouest en
+vent de plus situées sur un axe de communication                 suivant le contour de la berge originale du fleuve et
+majeur, comme c’est le cas ici, les probabilités d’y             dépasse légèrement l’axe de la rue Willibrord avant
+retrouver des vestiges de campements amérindiens                 de remonter vers le nord jusqu’à la rue de Verdun.
+préhistoriques ou des occupations européennes for-               Cet ouvrage de génie permet de retracer l’emplace-
+tifiées ou rurales datant des XVIIe et XVIIIe siècles            ment de l’ancienne berge, tout comme il en a assuré
+croissent de façon importante. Ce fait est d’ailleurs            la protection contre l’érosion. La digue est en elle-
+confirmé par les sites archéologiques répertoriés sur            même un aménagement caractéristique de l’ar-
+l’île des Sœurs et dans les arrondissements voisins.             rondissement de Verdun puisqu’il ne s’en trouve
+Certaines des modifications apportées au cours des               aucune autre sur l’île de Montréal.
+XIXe et XXe siècles, particulièrement l’ajout de remblais
+et la construction de la digue, ont souvent eu pour              Chemin du Bas-Lachine (ou chemin de Lachine)
+conséquence de favoriser la protection des vestiges              Le chemin du Bas-Lachine, aussi appelé Lower Lachine
+archéologiques présents en sous-sol.                             Road, longe la berge sud de l’île de Montréal. Cet
+                                                                 axe qui part de Ville-Marie pour rejoindre Lachine
+Exutoire de la rivière Saint-Pierre                              traverse également LaSalle; il occupe une place
+L’ancienne embouchure de la rivière Saint-Pierre, qui            prépondérante dans l’utilisation du territoire. Son
+se trouve aujourd’hui approximativement dans l’axe               tracé correspond approximativement à celui de l’actuel
+de la rue Rhéaume, constitue un environnement                    boulevard LaSalle. Ce chemin suit le front des terres
+favorable à l’occupation humaine. Le lieu peut donc              agricoles occupées au XIXe siècle, ce qui implique que
+avoir conservé l’empreinte des campements des                    des vestiges des maisons et des dépendances érigées
+groupes amérindiens de la période préhistorique et               en bordure du chemin peuvent avoir été conservés
+celle des activités rurales des XVIIe, XVIIIe et XIXe siècles.   en sous-sol. La présence de la maison Étienne-Nivard-
+De plus, des bâtiments industriels et commerciaux                de-Saint-Dizier illustre cet état de fait.
+spécialisés datant de la fin du XIXe et du début du
+XXe siècle – tannerie, usine de teinture, entrepôts de
+glace et de charbon, station de pompage des égouts
+municipaux – sont historiquement regroupés entre le
+boulevard LaSalle et la digue, de la rue Hickson
+
+
+
+
+                         ARRONDISSEMENT                                                                              39
+                                                    de Verdun
+           B. Les secteurs d’intérêt                       21.A.2 HÔPITAL DOUGLAS
+               archéologique
+                                                           Fondé en 1881, l’établissement connu sous le nom
+                                                           de Protestant Lunatic Asylum achète en 1887 deux
+                                                           terres appartenant à Henry et Daniel Hadley. On y
+21.A.1 FERME SAINT-PAUL                                    ajoute une terre acquise de John Greenshields et le
+                                                           don d’une dernière terre complète la propriété. Ce
+La ferme Saint-Paul, construite en 1788, est la première
+                                                           territoire comporte plusieurs bâtiments et pavillons
+exploitation agricole des Sœurs de la Congrégation
+                                                           construits depuis 1881. Au fil des époques, l’institu-
+de Notre-Dame sur l’île Saint-Paul. Les fermes Saint-
+                                                           tion a aménagé diverses dépendances, jardins et autres
+Paul et Saint-Gabriel sont d’ailleurs judicieusement
+                                                           ouvrages utilitaires dont les traces peuvent avoir été
+situées l’une par rapport à l’autre, puisque la ferme
+                                                           conservées in situ.
+Saint-Paul est aménagée sur l’éperon ouest de l’île
+des Sœurs. Le déplacement entre les deux fermes
+implique de franchir le chenal, à l’aide d’un bac ou
+par un pont de glace. La nouvelle ferme met un                        C. Les sites archéologiques
+terme à l’utilisation des bâtiments de la ferme LeBer.
+L’exploitation est contrôlée directement depuis l’ad-
+ministration centrale de la Congrégation, qui l’utilise    BIFJ-001, FERME LEBER DE L’ÎLE DES SŒURS
+pour répondre aux besoins alimentaires et en bois de       Mesure de protection : site archéologique
+ses diverses institutions. La ferme est prospère et        à protéger
+compte de nombreux bâtiments : maison principale           Thème : complexe agricole
+en pierre, grange, silo, atelier de métier, forge, buan-
+derie, hangars et autres dépendances. Elle est la          Le marchand Jacques LeBer achète de Jean de Lauson
+proie d’un violent incendie en 1918. Le Conseil            un tiers de l’île Saint-Paul en 1664 et un autre tiers en
+général de la congrégation prend alors la décision de      1668. Il y exploite une ferme tout en y faisant sans
+reconstruire sur les terres hautes de l’île, du côté       doute un peu de traite des fourrures. Dès 1676, des
+nord-est (la ferme Sainte-Famille). L’emplacement de       bâtiments de pierre, une étable et une grange sont
+la ferme Saint-Paul a d’abord été réutilisé pour amé-      présents. En 1693, un incendie rase quelques bâti-
+nager un terrain de golf, et il est maintenant occupé      ments mais un inventaire des biens de 1706 permet de
+par des bâtiments. L’examen des photographies              constater que la ferme a été reconstruite. La disposition
+aériennes anciennes suggère toutefois qu’une portion       des bâtiments est particulière : ils délimitent trois côtés
+de la berge originale a pu être préservée, derrière le     d’une cour intérieure, l’autre côté étant fermé par une
+bâti du chemin du Golf.                                    palissade de pieux. Cette organisation spatiale pourrait
+                                                           posséder une certaine valeur défensive. Lors du pas-
+                                                           sage de la propriété aux mains des Sœurs de la
+                                                           Congrégation de Notre-Dame, ces dernières limitent
+                                                           leurs investissements à des modifications mineures aux
+                                                           bâtiments et amorcent plutôt la construction de la
+                                                           ferme Saint-Paul. L’emplacement de la ferme LeBer n’a
+                                                           donc pas été réutilisé sauf pour y déposer des remblais
+                                                           en surface; il est toujours libre de bâti.
+
+
+
+
+40                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+                                                                               BIFJ-049, SITE AMÉRINDIEN PRÉHISTORIQUE
+                                                                               DE L'ÎLE DES SŒURS
+                                                                               Mesure de protection : site archéologique
+                                                                               à protéger
+                                                                               Thème : occupation amérindienne, rite funéraire,
+                                                                               sépulture
+
+                                                                               Ce site préhistorique est à composantes multiples car il
+                                                                               recèle des éléments représentatifs de plusieurs groupes
+                                                                               et périodes : archaïque, sylvicole moyen et supérieur. La
+                                                                               première époque est représentée par un foyer ouvert,
+                                                                               dont la datation au C-14 a produit une date de 4 000
+                                                                               ans avant aujourd’hui. La particularité de ce vestige est
+                                                                               qu’il se trouve maintenant à une profondeur de plus de
+                                                                               deux mètres, conséquence des remblais modernes
+                                                                               déposés sur la surface originale et qui ont probable-
+                                                                               ment contribué à la préservation des vestiges. Le site
+                                                                               compte également des éléments représentatifs des
+                                                                               époques sylvicole moyen et supérieur : des tessons de
+                                                                               poterie, des outils lithiques et des débris de taille. Une
+                                                                               sépulture datant de l’époque sylvicole a également été
+                                                                               enregistrée (Ethnoscop 1997, Archéocène 1998).
+
+BiFj-001 Le site archéologique de la ferme Leber à l’île des Sœurs, en cours
+de recherches archéologiques. Photographies: D.B. Webster
+
+
+
+Les fouilles archéologiques au site LeBer ont permis
+la mise au jour de multiples aménagements : maison,
+grange, étable, écurie, boulangerie, four à chaux, mur
+d’enceinte, palissade de pieux et autres. Les diverses
+recherches ont démontré la présence de vestiges en
+très bon état de conservation. De plus, des indices
+d’une occupation amérindienne à la période préhis-
+torique, au sylvicole moyen, ont été découverts
+(Webster 1970, Archéocène 1994, Ethnoscop 1997,
+Ethnoscop, 2002).
+
+
+
+
+                               ARRONDISSEMENT                                                                                         41
+                                                                de Verdun
+BIFJ-078, DIGUE
+Mesure de protection : site archéologique
+à protéger
+Thème : aménagement en rive,
+ouvrage de génie
+
+La construction de la digue en bordure du fleuve
+Saint-Laurent s’amorce en 1896. La digue est pério-
+diquement rehaussée et élargie jusque vers 1915.
+Cet ouvrage de génie, toujours visible par endroits, a
+constitué une mesure de protection contre les crues
+et les inondations saisonnières qui affectent Verdun.
+                                                          Les espaces libres à proximité de la maison Étienne-Nivard-de-Saint-Dizier
+Commençant à proximité de l’exutoire du canal de          peuvent receler des vestiges du XVIIIe siècle.
+l’aqueduc, la digue se poursuit vers l’ouest en suivant
+le contour de la berge originale du fleuve et elle
+dépasse légèrement l’axe de la rue Willibrord avant                     D. Les biens culturels à statut
+de remonter vers le nord jusqu’à la rue de Verdun.
+Cet ouvrage de génie permet de retracer l’emplace-
+ment de l’ancienne berge, tout comme il en a assuré       La notion de bien culturel intègre les sites et les biens
+la protection contre l’érosion. La digue est en elle-     archéologiques classés, les sites historiques classés et
+même un aménagement caractéristique de Verdun             les monuments historiques classés ou reconnus, les
+puisqu’il ne s’en trouve aucune autre sur l’île de        arrondissements historiques et naturels, les monu-
+Montréal. Un relevé en coupe de cet ouvrage a été         ments cités et les sites du patrimoine. Ces biens ont
+effectué en 2003 (SACL à paraître).                       fait l’objet d’un examen à partir de la documentation
+                                                          disponible afin d’en déterminer l’intérêt archéolo-
+                                                          gique. La liste suivante indique les biens à statut où il
+                                                          est nécessaire d’évaluer plus avant le potentiel
+                                                          archéologique et d’assurer la protection du patri-
+                                                          moine archéologique.
+
+                                                          – Maison Nivard-de Saint-Dizier,
+                                                            7244, boulevard LaSalle,
+                                                            monument historique reconnu
+
+
+
+
+42                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+                                                                                                                 ru
+                                                                                                                   e
+                                                                                                                       De
+                                                                                                                            L'É
+                                                                                                                                  gli                   BiFj-78
+                                                                                                                                                        BiFj-78
+                                                                                                                                                        BiFj-78
+                                                                                                                                                        BiFj-78
+                                                                                                                                                        BiFj-78
+                                                                                                                                      se
+
+
+
+
+                                                                                                                                      n
+                                                                                                                                    to
+                                                                                                                                 ing
+                                                                                                                              ell
+                                                                                                            un
+
+
+
+
+                                                                                                                             W
+                                                                                                                                                                            chemin
+
+
+
+
+                                                                                                         rd
+                                                                                                                                                                                   Du
+
+
+
+
+                                                                                                                           e
+                                                                                                                                                                                            Golf
+
+
+
+
+                                                                                                                        ru
+                                                                                                      Ve
+                                                                         n
+                                                                 m   plai
+                                                              Cha
+
+
+
+
+                                                                                                 De
+                                                         rd
+                                                     leva
+
+
+
+
+                                                                                                 ue
+                                                                                                                                                                                                                                       BiFj-49
+                                                                                                                                                                                                                                       BiFj-49
+                                                                                                                                                                                                                                       BiFj-49
+                                                                                                                                                                                                                                       BiFj-49
+                                                                                                                                                                                                                                       BiFj-49
+                                                  bou
+
+
+
+
+                                                                                              en
+                                                                                        e
+                                                                                                                                                                                        21.A.1
+                                                                                                                                                                                        21.A.1
+                                                                                                                                                                                        21.A.1
+                                                                                                                                                                                        21.A.1
+                                                                                                                                                                                        21.A.1
+
+
+
+
+                                                                                     tyn
+
+
+
+
+                                                                                            av
+                                                                                   an
+                                                                                nn
+                                                                              Ba
+                                                                               e
+                                                                                                                                                                                                              BiFj-1
+                                                                                                                                                                                                              BiFj-1
+
+
+
+
+                                                                             ru
+                                                                                                                                                                                                              BiFj-1
+                                                                                                                                                                                                              BiFj-1
+                                                                                                                                                                                                              BiFj-1
+                                                                                                                                                                                                                                     po
+                                                                                                                                                                                                                                       nt
+                                                                                                                                                                                                                                          C   ha
+                                             21.A.2
+                                             21.A.2
+                                             21.A.2
+                                             21.A.2
+                                             21.A.2
+                                             21.A.2
+                                                                                                                                                                                                                                                m
+                                                                                                                                                                                                                                                    pl
+                                                                                                                                                                                                                                                      ai
+                                                                                                                                                                                                                                                        n
+
+                                                                                                                                           21.AP.1
+                                                                                                                                           21.AP.1
+                                                                                                                                           21.AP.1
+                                                                                                                                           21.AP.1
+                                                                                                                                           21.AP.1
+
+                                                                                                                                                                                                   Le patrimoine archéologique
+                                               Sa     lle
+                                        r d La                                                                                                                                  oeurs
+                                bou
+                                   lev a                                                                                                                                des S
+                                                                                                                                                           De   L'Île
+                                                                                                                                                      vard                                         Arrondissement de Verdun
+                                                                                                                                                boule
+                                             21.AP.2
+                                             21.AP.2
+                                             21.AP.2
+                                             21.AP.2
+                                             21.AP.2
+                                             21.AP.2
+                                                                                                                                                                                                              Grand ensemble à statut
+                                                                                                                                                                                                              (arrondissement historique et naturel, site du patrimoine)
+                                                                                                                                                                                                              Site archéologique recensé (intègre)
+                                                                                                                                                                                                              Site archéologique recensé (altéré)
+                                                                                                                                                                                                              Secteur d'intérêt archéologique à fort potentiel
+                                                                                                                                                                                                              Secteur d'intérêt archéologique
+                                                                                                                                                                                                    21.AP.1
+                                                                                                                                                                                                              Code du secteur
+                                                                                                                                                                                                              (voir étude d'évaluation du patrimoine urbain)
+ 0      250   500 m                                                                                                                                                                                  BiFj-1   Code de site archéologique
+                                                                                                                                                                                                              Limite d'arrondissement
+
+
+                                                                                                                                                                                                   Division du patrimoine et
+                                                                                                                                                                                                   de la toponymie
+                      BiFj-20
+                      BiFj-20
+                      BiFj-20
+                      BiFj
+                      BiFj
+                      BiFj 20
+                           20
+                           20      BiFj
+                                   BiFj
+                                   BiFj 14
+                                        14
+                                        14
+10 mai 2004
+4.                              R E C O M M A N D AT I O N S
+
+
+
+4.1 Générales à l’échelle de l’arrondissement
+                                                                 Les principes qui devraient guider l’élaboration
+                                                                 des PIIA et des règles sont les suivants : conserver
+                                                                 l’identité des secteurs, connaître avant d’intervenir
+Nous recommandons :                                              et maintenir le bon état et l’intégrité des bâtiments
+                                                                 par l’entretien.
+– dans les secteurs d’intérêt patrimonial excep-
+                                                                    Les variables suivantes devraient être considérées
+  tionnel, de protéger les caractéristiques architecturales
+                                                                    dans l’élaboration des PIIA et des règles :
+  et paysagères, de veiller à l’intégration des nouveaux
+  bâtiments à leur environnement et de s’assurer que              • Parcellaire : mode de division, dimensions et pro-
+  les modifications aux bâtiments existants se fassent              portions des parcelles, mode d’implantation du
+  en tenant compte du contexte. La réglementation                   bâti, aménagement du terrain.
+  devra prévoir que les interventions dans ces secteurs
+                                                                  • Bâti : volumétrie (gabarit, nombre d’étages, forme
+  soient encadrées par des critères – plans d’implan-
+                                                                    de la toiture), traitement des façades (saillies, com-
+  tation et d’intégration architecturale (PIIA) – mais
+                                                                    position des façades, rythme, forme et dimen-
+  aussi par des règles si la situation le justifie.
+                                                                    sions des ouvertures, modèles de portes et de
+– pour les bâtiments d’intérêt patrimonial excep-                   fenêtres, revêtements, ornementation, couleurs,
+  tionnel et intéressant, de protéger leurs caractéris-             matériaux et textures, etc.).
+  tiques architecturales en s’assurant que les modifi-
+                                                               – d’instaurer des mesures de zonage spécifiques
+  cations aux bâtiments énumérés dans les listes soient
+                                                                 pour des ensembles significatifs tels que les
+  encadrées, dans la réglementation, par des critères (PIIA)
+                                                                 noyaux paroissiaux (parc, école, église, pres-
+  mais aussi par des règles si la situation le justifie.
+                                                                 bytère, etc.) afin de préserver l’essence de leur
+– dans les secteurs d’intérêt patrimonial intéressant,           valeur patrimoniale.
+  de protéger les caractéristiques architecturales et
+                                                               – d’étudier les territoires identifiés comme ensembles
+  paysagères, de veiller à l’intégration des nouveaux
+                                                                 urbains d’intérêt, de recenser les typologies des
+  bâtiments à leur environnement et de s’assurer que
+                                                                 ensembles qui présentent une grande homogénéité
+  les modifications aux bâtiments existants se fassent
+                                                                 et de développer des outils visant à sensibiliser la
+  en tenant compte du contexte. La réglementation
+                                                                 population à l’égard de l’intérêt patrimonial de ces
+  devra prévoir que les interventions dans ces secteurs
+                                                                 ensembles.
+  soient encadrées par des règles.
+                                                               – d’établir un contrôle sur les démolitions dans les
+– que l’élaboration des PIIA et l’élaboration de
+                                                                 secteurs d’intérêt patrimonial et pour les bâtiments
+  règles dans les règlements de zonage favorisent
+                                                                 patrimoniaux en évaluant l’intérêt patrimonial des
+  une architecture de qualité et consolident le cadre
+                                                                 bâtiments concernés afin d’éviter des pertes
+  bâti en harmonie avec le caractère de chaque lieu, en
+                                                                 irréversibles.
+  contrôlant notamment l’apparence des nouvelles
+  constructions afin qu’elles s’intègrent à leur milieu        – d’éviter le fractionnement des grandes propriétés
+  environnant, ainsi qu’en contrôlant l’apparence des            et d’assurer la protection et la mise en valeur des
+  modifications à un bâtiment pour qu’elles s’harmo-             propriétés institutionnelles.
+  nisent avec son expression architecturale spécifique.
+
+
+
+
+                        ARRONDISSEMENT                                                                                 45
+                                                   de Verdun
+– d’appliquer les mesures nécessaires à un examen           – de préserver la spécificité de la trame urbaine
+  du potentiel archéologique et, le cas échéant, à la         montréalaise, qui découle des tracés fondateurs et
+  protection des vestiges découverts, préalablement           des caractéristiques naturelles, et de préserver
+  aux travaux d’excavation publics et privés dans les         la grille orthogonale (incluant les ruelles des
+  grands ensembles à statut et les biens culturels            arrondissements du centre) ainsi que les plans
+  à statut, les sites archéologiques recensés et les          d’ensemble et grilles particulières de certains
+  secteurs d’intérêt archéologique à fort potentiel.          arrondissements; de contrôler les subdivisions
+                                                              cadastrales afin de préserver le rythme des rues et
+– de favoriser la prise en compte des vestiges                de sauvegarder l’échelle du bâti.
+  présentant une grande valeur archéologique
+                                                            – de développer des outils de promotion et de mise
+  dans la conception et la réalisation des projets de
+                                                              en valeur des tracés fondateurs à fort potentiel,
+  construction ou d’aménagement urbain, notamment
+                                                              aux fins de la protection de leur caractère.
+  par l’adaptation des travaux ou l’intégration des
+  vestiges.                                                 – de développer un plan stratégique pour les artères
+                                                              commerciales principales (vitalité, affichage,
+– d’assurer la protection et la mise en valeur des
+                                                              rénovation, éclairage, mobilier urbain, etc.) qui
+  aménagements urbains, des parcs et des espaces
+                                                              tienne compte de la dimension patrimoniale des
+  publics.
+                                                              lieux et de concilier les opérations de travaux
+– de préserver et de protéger le couvert végétal,             publics avec les préoccupations patrimoniales.
+  qui contribue beaucoup au caractère de plusieurs
+  secteurs patrimoniaux répertoriés, de favoriser les
+  plantations et de protéger de façon générale le
+  patrimoine naturel, ainsi que de préserver et mettre
+  en valeur le caractère champêtre des secteurs où
+  l’on retrouve encore des paysages agricoles.
+
+– de protéger les perspectives d’intérêt patrimonial
+  telles que les vues sur le centre-ville, le mont Royal,
+  les plans d’eau, les places publiques, les monuments
+  commémoratifs, certains bâtiments ou clochers, etc.
+
+
+
+
+46                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+                                                              – de réaliser des études plus poussées permettant
+4.2 Générales à l’échelle montréalaise                          d’accroître la connaissance du patrimoine bâti, his-
+                                                                torique et archéologique afin d’évaluer la valeur
+Nous recommandons :                                             patrimoniale rattachée à différentes problématiques,
+                                                                notamment :
+– de développer des outils de protection et de mise
+  en valeur, incluant la citation en vertu de la Loi            • étudier les territoires identifiés comme secteurs
+  sur les biens culturels du Québec, pour les                     d’intérêt archéologique à fort potentiel et
+  immeubles qui possèdent une valeur patrimoniale                 secteurs d’intérêt archéologique pour évaluer
+  élevée à l’échelle montréalaise, comme certaines                le degré de préservation du milieu physique,
+  maisons rurales et villas, institutions (ex. : écoles,          localiser les sites archéologiques conservés et
+  églises), services municipaux (ex. : bains, casernes,           définir préventivement les mesures de protection
+  complexes civiques), etc.                                       du patrimoine archéologique.
+
+– de développer des outils de protection et de mise             • faire des études détaillées sur le patrimoine
+  en valeur, incluant la création de sites du patri-              industriel pour déterminer une stratégie de
+  moine en vertu de la Loi sur les biens culturels                conservation et de développement des sites ;
+  du Québec, pour les sites qui possèdent une                     étudier plus spécifiquement les territoires identifiés
+  valeur patrimoniale élevée à l’échelle montréalaise,            comme ensembles industriels d’intérêt.
+  notamment certains noyaux villageois, ensembles
+                                                                • établir des balises et des critères permettant de
+  institutionnels, grands domaines, grands gestes
+                                                                  bien planifier et gérer la problématique du patri-
+  urbains et architecturaux, etc.
+                                                                  moine religieux; favoriser la conservation et la
+– à partir des critères de sélection établis pour l’évalua-       mise en valeur des lieux de culte les plus impor-
+  tion des bâtiments et des secteurs susceptibles                 tants relativement à leur valeur patrimoniale ;
+  d’avoir un intérêt pan-montréalais, de développer un            mettre en œuvre des outils de gestion des
+  plan d’attribution de statuts patrimoniaux en vertu             demandes de permis et favoriser l’occupation de
+  de la Loi sur les biens culturels du Québec, de                 lieux de culte par des fonctions compatibles ;
+  fixer des critères d’évaluation pour les interventions          favoriser le maintien des caractéristiques des
+  sur les bâtiments et territoires protégés par le volet          ensembles conventuels les plus importants, de
+  municipal de cette même loi, d’élaborer des outils              leurs espaces paysagers et des cimetières.
+  de protection et de dresser un plan directeur pour
+                                                                • accroître la connaissance du patrimoine
+  la mise en valeur de chacun des sites du patrimoine.
+                                                                  moderne en encourageant la recherche, les
+– d’élaborer pour le public, les employés municipaux              inventaires et les publications à ce sujet.
+  et les élus des activités et des outils de sensibili-
+                                                                • planifier des études à l’échelle montréalaise,
+  sation à l’égard du patrimoine.
+                                                                  développer des outils et élaborer des lignes direc-
+                                                                  trices de rénovation et d’agrandissement adap-
+                                                                  tées aux diverses typologies que l’on retrouve
+                                                                  dans les zones identifiées comme ensembles
+                                                                  urbains d’intérêt.
+
+
+
+
+                        ARRONDISSEMENT                                                                               47
+                                                  de Verdun
+5.
+Photographies aériennes
+                               BIBLIOGRAPHIE
+
+
+                                                             JOBIN, André. Carte de l’île de Montréal, 1834,
+                                                             Bibliothèque nationale du Québec à Montréal.
+  Photographies aériennes, 1947-1948-1949, Ville             Cote : G 3452 M65 1834 J63 CAR
+de Montréal, Gestion des documents et archives
+                                                             JOURDAIN dit LABROSSE, Paul. Plan de la ville et des
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.               faubourgs de Montréal, 1767. Archives nationales du
+Orthophoto noir et blanc, 2000, Navigateur urbain.           Canada, NMC-16687 [2 sections] H2/340 Montréal
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.               1767.
+Orthophoto noir et blanc, 2002, Navigateur urbain.           LEVASSEUR DE NÉRÉ, Jacques. Plan de la ville de
+Cartes                                                       Montréal, 1704. Archives nationales (France), Centre
+                                                             des archives d’outre-mer, Dépôt des fortifications des
+ADAMS, John. Map of the City and Suburbs of                  colonies, Amérique Septentrionale, no 468A.
+Montreal, 1825. Bibliothèque de l’Université McGill,
+Département des livres rares et des collections spéciales.   MELISH, John. Plan of Montreal, with a Map of the
+                                                             Islands & adjoining Country, 1815, Bibliothèque
+BELLIN, Jacques-Nicolas. Carte de Lisle de Montreal          nationale du Québec à Montréal.
+et de ses environs, 1744, Bibliothèque nationale du          Cote: G 3454 M65 1815 M4
+Québec à Montréal.
+Cote : G 3452 M65 1744 B4                                    PINSONEAULT, A.-R. Atlas of the Island of Montreal
+                                                             and Ile Bizard, 1907, Bibliothèque nationale du Québec
+BOUCHETTE, Joseph. Topographical Map of the Province         à Montréal.
+of Lower Canada, 1815. Londres, W. Faden.                    Cote: G 1144 M65G475 P5 1907 CAR
+
+CHAUSSEGROS DE LÉRY, Gaspard. Plan de la ville               SITWELL, H.S. Fortification Surveys Canada. Contoured
+de Montreal en Canada, 10 août 1717. Archives                Plan of Montreal and its Environs, Quebec, 1868-1869,
+nationales (France), Centre des archives d’outre-mer,        Archives nationales du Canada, Ottawa.
+Dépôt des fortifications des colonies, Amérique              Cote: V40/300/1867
+Septentrionale, no 473.
+                                                             UNDERWRITERS SURVEY BUREAU. Insurance Plan of
+GOAD, Charles E. Atlas of Montreal, 1890, volumes            the City of Montreal, 1952, 1953, 1954, 1955, 1957,
+1 et 2, Bibliothèque nationale du Québec à Montréal.         1959, 1961, 1962, 1963, 1964, 1966, 1967, 1972,
+Cote : G 1144 M65G475 G6 1890 CAR 1 et 2                     volumes 1 à 10, 12 à 17, 19 à 21.
+
+GOAD, Charles E. Plan of the City of Montreal, 1909,         Ouvrages généraux
+1911, 1912, 1913, 1914, 1915, volumes 1 à 12,
+Bibliothèque nationale du Québec à Montréal et                 Itinéraire toponymique du Saint-Laurent, ses rives
+Direction du développement urbain de la Ville de             et ses îles, Québec, 1984, 451 p., coll. Études et
+Montréal.                                                    recherches toponymiques, no 9.
+
+HOPKINS, H.W. Atlas of the City and Island of                BEAUREGARD, Ludger. « Géographie historique des
+Montreal, 1879, Bibliothèque nationale du Québec             côtes de l’île de Montréal », Cahiers de géographie
+à Montréal.                                                  du Québec, vol. 28, nos 73-74, avril-septembre 1984,
+Cote : G1144 M65G475 H6 1879 CAR                             p. 47-62.
+
+
+
+
+                       ARRONDISSEMENT                                                                           49
+                                                 de Verdun
+BEAUREGARD, Ludger. Toponymie de la région métro-         MAGNAN, Hormidas. Dictionnaire historique et géo-
+politaine de Montréal, Québec, Ministère des Terres       graphique des paroisses, missions et municipalités
+et Forêts du Québec, 1968, 225 p., coll. Étude            de la province de Québec, Arthabaska, Imprimerie
+toponymique 2 (nouvelle série).                           d’Arthabaska Inc., 1925, 738 p.
+
+BERGERON, Claude. Architectures du XXe siècle au          MARSAN, Jean-Claude (dir.). Inventaire préliminaire
+Québec, Québec, Musée de la civilisation / Éditions       des bâtiments patrimoniaux de la Commission sco-
+du Méridien, 1989, 271 p.                                 laire de Montréal, vol. 1-2a-2b, Montréal, Université
+                                                          de Montréal, 28 février 2001.
+BERGERON, Claude. L’architecture des églises du
+Québec 1940-1985, Québec, Les Presses de l’Université     MARSAN, Jean-Claude. Montréal en évolution :
+Laval, 1987, 386 p.                                       Historique de développement de l’architecture et de
+                                                          l’environnement urbain montréalais, 3e éd., Laval,
+COMMISSION DES BIENS CULTURELS. Les chemins
+                                                          Éditions du Méridien, 1994, 515 p.
+de la mémoire. Monuments et sites historiques du
+Québec, Tome II, Québec, Les Publications du Québec,      ROBERT, Jacques. Les ensembles patrimoniaux de la
+1991, 565 p.                                              Communauté urbaine de Montréal, Montréal, Ministère
+                                                          des Affaires culturelles, mars 1985, 40 p.
+COMMISSION DE TOPONYMIE. Noms et lieux du
+Québec. Dictionnaire illustré du Québec, Québec, Les      ROBERT, Jean-Claude. Atlas historique de Montréal,
+Publications du Québec, 1994, 925 p.                      Montréal, Art Global / Libre Expression, 1994, 167 p.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL. Répertoire                VILLE DE MONTRÉAL. Le patrimoine de Montréal,
+d’architecture traditionnelle sur le territoire de la     Montréal, Ville de Montréal et Ministère de la Culture
+Communauté urbaine de Montréal. 12 volumes.               et des Communications, 1998, 168 p.
+
+COURVILLE, Serge (dir.). Paroisses et municipalités de    WOLFE, Jeanne M. et François DUFAUX (dir.). A topo-
+la région de Montréal au XIXe siècle (1825-1861),         graphic Atlas of Montreal / Atlas topographique de
+Répertoire documentaire et cartographique, Québec,        Montréal, Montréal, McGill School of Urban Planning /
+Les Presses de l’Université Laval, 1988, 350 p.           École d’urbanisme, 1992, 78 p.
+
+DESJARDINS, Pauline. Évaluation du patrimoine indus-      Site Internet
+triel. Critères généraux, Montréal, Archemi / Ville de
+                                                          VILLE DE MONTRÉAL. Répertoire bibliographique sur
+Montréal, Service du développement économique et
+                                                          le patrimoine archéologique de Montréal, 2004.
+du développement urbain, 29 août 2003, 56 p.
+                                                          http://www2.ville.montreal.qc.ca/urb_demo/domaines/
+LAURIN, J.-E. Histoire économique de Montréal et          archeo/bib_recherche.htm
+des Cités et Villes du Québec, [Montréal], Les Éditions
+J.-E. Laurin, 1942, 287 p.
+
+LEUNG, Felicity, David McCONNELL et Jean-Claude
+PARENT. Les emplacements manufacturiers au Canada,
+Ottawa, Environnement Canada, Service canadien des
+Parcs, 1990.
+
+LINTEAU, Paul-André. Histoire de Montréal depuis la
+Confédération, Montréal, Boréal,1992, 608 p.
+
+
+50                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+Ouvrages spécifiques à l’arrondissement
+
+  « Procès-verbaux sur la commodité et incommodité
+dressés dans chacune des paroisses de la Nouvelle-
+France par Mathieu-Benoit Collet, procureur général
+du roi au conseil supérieur de Québec », dans Rapport
+de l’archiviste de la province de Québec pour 1921-
+1922, Québec, L-A. Proulx, Imprimeur de Sa Majesté le
+Roi, 1922, p. 264-362.
+
+  Paroisse Notre-Dame-des-Sept-Douleurs de Verdun,
+Verdun, 2001, 378 p.
+
+DES ROCHERS, Jacques. Essai de synthèse ethno-his-
+torique du secteur des Rapides de Lachine. Rapport
+final, Montréal, Communauté urbaine de Montréal,
+Service de la mise en valeur du territoire, Division de
+l’aménagement, Ministère de la Culture et des
+Communications, juin 2001, 160 p.
+
+DÉZIEL, Julien. Essai d’histoire de Verdun 1665 1876-
+1976, Verdun, Comité du centenaire, 1976, 241 p.
+
+GAUTHIER-LANDREVILLE, Marie-Anne. L’Île-Saint-Paul,
+Île-des-Sœurs près de Montréal, Montréal, Éditions de
+la Congrégation de Notre-Dame, 1970, 367 p.
+
+GRAVEL, Denis. Verdun, 125 ans d’histoire 1875-2000,
+Montréal, Société de recherche historique Archiv-Histo
+Inc., 2000, 318 p.
+
+TREMBLAY, Rosaire. Ponts du Québec, Québec,
+Ministère des Transports, Direction des communica-
+tions, [1975], 284 p.
+
+WRIGHT, Frederick. “The City of Verdun. The Working
+Men’s Paradise”, Canadian Municipal Journal, 1915,
+vol. XI, no 9, p. 318-323.
+
+
+
+
+                      ARRONDISSEMENT                      51
+                                              de Verdun
+

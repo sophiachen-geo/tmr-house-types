@@ -1,0 +1,9 @@
+# Phase anchors come from two documents that agree with each other: the 2005 Évaluation cahier's
+# "2. HISTORIQUE" (printed pp. 21–22, three separate narratives for Villeray, Parc Extension and
+# Ville Saint-Michel) and the fiches d'accompagnement of règlement 01-283-124, Annexe F, which date
+# each type. Where the by-law gives a type a date range it is the range used here.
+- {id: p1, label: before 1893, start: 1750, end: 1893, title_en: "Côtes, farms and quarries", colour_key: p1}
+- {id: p2, label: 1893–1915, start: 1893, end: 1915, title_en: "The tramway, the village, the annexation", colour_key: p2}
+- {id: p3, label: 1915–1940, start: 1915, end: 1940, title_en: "The plex and the first shoebox", colour_key: p3}
+- {id: p4, label: 1940–1960, start: 1940, end: 1960, title_en: "Wartime models, the second shoebox, the post-war boom", colour_key: p4}
+- {id: p5, label: 1960–1980, start: 1960, end: 1980, title_en: "Bungalow, plex italien, the Métropolitaine", colour_key: p5}

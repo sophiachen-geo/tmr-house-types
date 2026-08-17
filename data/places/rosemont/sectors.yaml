@@ -1,0 +1,425 @@
+# Arrondissement code 26, READ FROM INSIDE THE CAHIER, not from its filename. The file is
+# 21_evaluation_patrimoine_rose.pdf and every sector code inside it is 26.x.n. The Part 10 brief
+# proves the filenames cannot be trusted (Le Sud-Ouest is code 22 inside file 12), and this cahier
+# adds a second trap of its own: its PDF Title metadata still reads "maq1_CŽte StLuc Hampstead",
+# left over from the template the Division du patrimoine et de la toponymie built it from.
+#
+# The Part 10 memo listed three E sectors and flagged the list as incomplete. It is: the cahier
+# carries ELEVEN. Full enumeration below, taken from pages 27–33 (A), 34–37 (B), 37–39 (C), 39 (D)
+# and 46–47 (the archaeological overlay), plus the tracé fondateur of section 3.2.1.
+# The cahier also cites one sector belonging to a neighbouring borough, 14.AP.1, which independently
+# confirms that Villeray–Saint-Michel–Parc-Extension is code 14.
+
+# ── A. Les secteurs de valeur patrimoniale exceptionnelle (11) ────────────────────────────────
+- id: marche-jean-talon
+  code: 26.E.1
+  name_fr: Le secteur du marché Jean-Talon
+  value: exceptional
+  streets: ["rue Jean-Talon", "rue Saint-Dominique", "avenue Henri-Julien"]
+  summary_en: >-
+    The marché du Nord, built in the make-work programmes that followed the 1929 crash and opened in
+    1933 by mayor Camilien Houde. Unlike Saint-Jacques (1932) and Atwater (1933) it was planned for
+    open-air trading; the Art déco central chalet is by Charles-Aimé Reeves, and the Ville built the
+    caserne no 31 and the meat inspection post (architect E.-A. Doucet) beside it in the same idiom.
+    The market stands on the former Shamrock Lacrosse Grounds, in use since 1904.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 27"
+
+- id: coeur-petite-italie
+  code: 26.E.2
+  name_fr: Le cœur de la Petite-Italie
+  value: exceptional
+  streets: ["rue Saint-Denis", "parc Dante"]
+  summary_en: >-
+    A small sector dominated by the church of Notre-Dame-de-la-Défense (1910), designated a national
+    historic site of Canada in 2002 for its eighty-year role in Montréal's and Canada's Italian
+    community, with the Notre-Dame-de-la-Défense primary school — one of the first Italian-community
+    schools in Montréal — the école Sainte-Julienne-Falconieri by Ernest Cormier, and parc Dante,
+    named in 1963.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 28"
+
+- id: rue-saint-denis-saint-edouard
+  code: 26.E.3
+  name_fr: La rue Saint-Denis (A) et l'ensemble institutionnel Saint-Édouard (B)
+  value: exceptional
+  streets: ["rue Saint-Denis", "rue Bélanger", "rue Saint-Zotique", "rue De Saint-Vallier"]
+  summary_en: >-
+    The borough's densest and most ornate residential street, and the clearest statement in the
+    cahier that a Montréal heritage sector can be made of ordinary plex. Brick triplexes predominate
+    along an almost continuous front of contiguous houses of one to three storeys; the fabric is more
+    luxurious than the neighbouring streets, with grey stone used more often on the façade. Part B is
+    the Saint-Édouard institutional group: the neo-Gothic church of 1901–1909, the presbytery, the
+    1919 school, the former académie Saint-Paul of 1899–1909 converted to flats, and the classically
+    inspired Banque d'Épargne of 1919. The Rivoli (1926) and Château (1931, cited and classed)
+    theatres stand on either side of rue Bélanger.
+  summary_fr: >-
+    « La rue Saint-Denis est bordée des deux côtés par un front presque continu de résidences
+    contiguës dont la hauteur varie de un à trois étages. Les triplex de brique prédominent toutefois
+    dans ce paysage urbain dont la densité est très serrée. Le caractère patrimonial exceptionnel de
+    la rue Saint-Denis repose sur ses qualités architecturales et environnementales, ainsi que sur le
+    bon état de préservation des éléments caractéristiques de ces « plex » (escaliers extérieurs,
+    balcons, couronnements, jeux de brique, vitraux, etc.). Il est à noter que le bâti de la rue
+    Saint-Denis est plus luxueux que celui des rues voisines (utilisation plus fréquente de pierre
+    grise en façade, détails ornementaux plus raffinés, etc.). »
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 28"
+
+- id: ensemble-saint-ambroise
+  code: 26.E.4
+  name_fr: L'ensemble institutionnel Saint-Ambroise
+  value: exceptional
+  streets: ["rue Beaubien"]
+  summary_en: >-
+    Church and presbytery Saint-Ambroise (1925) and the école Anthelme-Verreau, three works by Ernest
+    Cormier, with the école Saint-Ambroise (1924–1925) by Omer Marchand. The cahier values the group
+    as much for the historical link between the two architects — Cormier was Marchand's pupil early
+    in his career — as for the quality of the buildings.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 29"
+
+- id: parc-molson
+  code: 26.E.5
+  name_fr: Le parc Molson
+  value: exceptional
+  streets: ["avenue Louis-Hébert", "avenue Elsdale", "rue Molson", "rue Beaubien", "rue D'Iberville"]
+  summary_en: >-
+    The park and the streets that ring it. John Elsdale Molson, descendant of the brewery's founder,
+    kept a villa in the countryside here, bought the neighbouring land for subdivision early in the
+    twentieth century, and in 1914 ceded lots to the Ville for the park. The houses around it are
+    mostly contiguous duplex or triplex, and the cahier calls their quality and condition one of the
+    pleasantest places to live in the borough. Its illustrated example is 6564-6566, avenue
+    Louis-Hébert.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 30"
+
+- id: centre-civique-rosemont
+  code: 26.E.6
+  name_fr: Centre civique et autres bâtiments institutionnels
+  value: exceptional
+  streets: ["boulevard Rosemont", "6e Avenue"]
+  summary_en: >-
+    The Centre civique Rosemont — library, pool and former hygiene centre — by Jean-Julien Perrault
+    in the Art déco manner, opened in 1951 by mayor Camilien Houde and set on a large lawn, with the
+    écoles Saint-Jean-Brendan (1930, the same chamois brick) and Nesbitt (1922, brown brick), the
+    former collège Saint-Ignace, now the coopérative d'habitation Marius-Barbeau, and the Ukrainian
+    church of the Assomption-de-la-Bienheureuse-Vierge.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 30"
+
+- id: site-patrimoine-saint-esprit
+  code: 26.E.7
+  name_fr: Site du patrimoine de l'église Saint-Esprit de Rosemont
+  value: exceptional        # its rank in the Évaluation; it is ALSO a municipal cited site — see note
+  streets: ["rue Masson"]
+  summary_en: >-
+    The borough's only cited perimeter, constituted in 1990 in the busiest stretch of rue Masson to
+    protect the church and the commercial buildings around it — the cahier calls them representative
+    of the commercial architecture of a working-class Montréal suburb. The parish was founded in 1905
+    as Sainte-Philomène; the basement of the present church went up in 1922 and the building was
+    finished in 1931 to plans by J.-E.-C. Daoust. With its cut-stone facing and stepped profile it is,
+    the cahier says, the only Art déco place of worship in Montréal; interior décor by Carli and
+    Petrucci, glass by Guido Nincheri. The 1914 presbytery, the Banque de Montréal of 1927–1928
+    (whose small vault building was once the village of Rosemont's morgue), the immeuble Gauthier
+    (1925), the immeubles Tétreault (1914), the immeuble Sarrazin (1928–1929), the Banque Canadienne
+    Nationale (1928–1929), the immeuble Millier (1912) with its corner entrance and the immeubles
+    Proulx (1913, 1931) are all part of the site.
+  note: >-
+    Double status, and the only sector here that has one: it is an E sector in the Évaluation AND a
+    municipal site du patrimoine, cited in its own right. It is ranked exceptional above so that the
+    tally of E sectors comes to eleven, matching the code list; the citation is carried in the
+    borough's governing_instruments. Source error worth recording rather than silently fixing: the
+    cahier's text for 26.I.5 refers the reader to "26.E.4" for this site du patrimoine. The site is
+    26.E.7; 26.E.4 is the Saint-Ambroise institutional group. The cahier's own list of exceptional
+    buildings (p. 40) gives the citation date as 29-01-91, where the sector text says the site was
+    constituted in 1990.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 31 and p. 40"
+
+- id: secteur-angus
+  code: 26.E.8
+  name_fr: Secteur Angus
+  value: exceptional
+  streets: ["rue Rachel", "rue Molson", "boulevard Saint-Michel"]
+  summary_en: >-
+    What is left of the reason the borough exists. The Canadian Pacific's Angus Shops were built at
+    the start of the twentieth century for the maintenance and repair of rolling stock and the
+    building of cars; at their peak they employed 12,000 workers across 31 principal buildings and 35
+    annexes. Decline through the 1960s and 1970s ended in final closure in 1992, after which the site
+    was divided in two, one part residential and one industrial. Three buildings survive: the former
+    fire station, now a Société des alcools branch; the locoshop, now offices and a supermarket; and
+    the former administrative building, now offices.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 32"
+
+- id: jardin-botanique
+  code: 26.E.9
+  name_fr: Le Jardin botanique
+  value: exceptional
+  streets: ["rue Sherbrooke Est"]
+  summary_en: >-
+    Frère Marie-Victorin's project, with the programme drawn up by Henry Teuscher, one of the leading
+    figures of North American public horticulture, and built through the Depression job-creation
+    programmes. The Art déco administrative pavilion by the city architect Lucien Kéroack is a major
+    work of that style in Québec. The cahier quotes François Rémillard (1990) that the garden « est
+    devenu avec les années le troisième plus important du monde après ceux de Londres et de Berlin ».
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 32"
+
+- id: cite-jardin-tricentenaire
+  code: 26.E.10
+  name_fr: La Cité-Jardin du Tricentenaire
+  value: exceptional
+  streets: ["rue des Ormes", "rue des Cèdres", "rue des Bouleaux", "rue des Trembles", "boulevard Rosemont"]
+  summary_en: >-
+    The borough's answer to the row plex, and the only planned garden suburb in Montréal. Laid out
+    east of parc Maisonneuve and inaugurated in 1942 during the celebrations of the three-hundredth
+    anniversary of the founding of Ville-Marie, from which it takes its name. The cahier calls it an
+    arrangement unique in Montréal and an important witness of the City Beautiful movement, valued
+    for separating vehicle from pedestrian circulation: a network of footpaths runs independently of
+    the street system, each street is planted with one tree species and named after it, and the heavy
+    canopy gives the sector what the cahier calls its ambiance champêtre. Detached single-family
+    houses, not plex. The scheme was only partly built.
+  summary_fr: >-
+    « Il s'agit d'un aménagement unique à Montréal, témoin important du mouvement City Beautiful, qui
+    valorisait la ségrégation entre la circulation automobile et piétonnière. Chacune des rues est
+    plantée d'une essence végétale particulière d'où elle tient son nom. La présence d'un couvert
+    végétal important contribue à l'ambiance champêtre du secteur. »
+  note: >-
+    Two dates, both from the cahier and both correct for different things: the historique (p. 21)
+    says « En 1942, un ambitieux projet, la Cité-jardin du Tricentenaire, est inauguré … ce nouveau
+    développement qui ne sera réalisé que partiellement », and the sector fiche (p. 33) repeats the
+    1942 inauguration. The Part 10 memo's span of 1940–1947 is a construction span rather than an
+    inauguration date; the cahier does not give a construction span, so none is published here.
+    The 2004 Plan d'urbanisme rating of exceptional value is the status this record carries; the
+    Cité-Jardin has no status under the Loi sur le patrimoine culturel either.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 21 and p. 33"
+
+- id: pyramides-olympiques
+  code: 26.E.11
+  name_fr: Les pyramides olympiques
+  value: exceptional
+  streets: ["boulevard Pie-IX", "rue Sherbrooke Est"]
+  summary_en: >-
+    The Olympic Village towers of 1976, part of a sports complex that lies mostly in the neighbouring
+    borough of Mercier–Hochelaga-Maisonneuve. Built to house athletes, now a housing complex.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 33"
+
+# ── B. Les secteurs de valeur patrimoniale intéressante (7) ───────────────────────────────────
+- id: petite-patrie-ouest
+  code: 26.I.1
+  name_fr: La Petite-Patrie, secteur ouest (quartier Saint-Édouard et la Petite-Italie)
+  value: interesting
+  streets: ["boulevard Saint-Laurent", "avenue de Chateaubriand", "rue Jean-Talon"]
+  summary_en: >-
+    Streets of contiguous houses one to three storeys high; the smallest, and probably the oldest,
+    sometimes stand behind small front gardens, but rows of duplex and triplex predominate. The
+    cahier's list of what makes these « plex » typical of the old Montréal quarters is the canonical
+    one: brick facing, exterior stairs, balconies, couronnements and cornices, and decorative elements
+    often mass-produced. Boulevard Saint-Laurent, designated a national historic district in 2002,
+    and the marché Jean-Talon each structure the sector in their own way.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 34"
+
+- id: petite-patrie-est
+  code: 26.I.2
+  name_fr: La Petite-Patrie, secteur est
+  value: interesting
+  streets: ["rue des Carrières", "avenue Christophe-Colomb", "rue Bélanger"]
+  summary_en: >-
+    Fabric of 1885–1930, one to three storeys but mostly duplex and triplex: brick facing, flat roofs,
+    exterior stairs and balconies, decorative couronnements and inserts of artificial stone to dress
+    the street façades, with a few conciergeries from the first decades of the twentieth century. The
+    portion of rue des Carrières inside the sector is singled out because the built fabric follows the
+    winding line of that old route. The église Saint-Arsène (1954) and Ernest Cormier's école
+    Saint-Arsène (1923) stand on avenue Christophe-Colomb, with the former académie Christophe-Colomb
+    (1910) south of rue Bélanger.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 35"
+
+- id: vieux-rosemont-ouest
+  code: 26.I.3
+  name_fr: Le Vieux-Rosemont, secteur ouest
+  value: interesting
+  streets: ["boulevard Rosemont", "rue Chabot"]
+  summary_en: >-
+    Developed in the first decades of the twentieth century and made up largely of contiguous
+    multi-family houses — duplex or triplex — built in series. Brick façades, exterior stairs,
+    balconies, a regular arrangement of openings, decorative couronnements and artificial-stone
+    inserts; the more luxurious have stained glass and polychrome brick. The cahier rests the
+    sector's value on the homogeneity of the fabric and its state of conservation. Two institutional
+    groups mark the period: Saint-Jean-Berchmans (1938) with its presbytery and the école
+    Madeleine-de-Verchères (1926–1927, J.-O. Marchand and T. Gouin), and near parc Molson the church
+    (1931), presbytery and école Saint-Marc (1917–1918).
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 35"
+
+- id: secteur-des-carrieres
+  code: 26.I.4
+  name_fr: Secteur des Carrières
+  value: interesting
+  streets: ["rue des Carrières"]
+  summary_en: >-
+    A small sector south of rue des Carrières whose built fabric the cahier describes simply as
+    similar to that of 26.I.3.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 36"
+
+- id: vieux-rosemont-est
+  code: 26.I.5
+  name_fr: Le Vieux-Rosemont, secteur est
+  value: interesting
+  streets: ["5e Avenue", "rue Masson", "boulevard Rosemont"]
+  summary_en: >-
+    Very nearly the former Crawford farm itself, bought by the Rosemont Land company for subdivision
+    to catch the thousands of workers arriving at the Angus Shops. The farm was divided regularly —
+    streets at right angles, lanes giving access to the rear of the properties — and that original
+    grid is essentially unaltered. The architecture is strongly homogeneous in massing and siting:
+    contiguous duplex and triplex built close to the property line, with exterior stairs, balconies
+    and a roofline finished by a decorative parapet or brickwork. Clay brick, and to a lesser extent
+    stone, are the preferred facings; the cahier singles out the polychromy of 5e Avenue.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 36"
+
+- id: vieux-rosemont-dandurand
+  code: 26.I.6
+  name_fr: Le Vieux-Rosemont, secteur Dandurand
+  value: interesting
+  streets: ["rue Dandurand", "rue Masson", "boulevard Saint-Michel", "15e Avenue"]
+  summary_en: >-
+    Rue Dandurand extended east, between Dandurand and Masson. Varied fabric, mostly contiguous duplex
+    and triplex. The churches Sainte-Bibiane (1954) and Saint-François-Solano (1924–1925) and the
+    school of 1929 record the need to create new parishes as the population grew. At the eastern
+    limit stands a picturesque-manner house built between 1915 and 1920 by the Voyer family, modelled
+    on the old Club Canadien of rue Sherbrooke.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 37"
+
+- id: parc-campbell
+  code: 26.I.7
+  name_fr: Secteurs situés près du parc Campbell
+  value: interesting
+  streets: ["parc Campbell"]
+  summary_en: >-
+    Two small sectors of mainly contiguous duplex forming a homogeneous street front. The architecture
+    is comparatively sober — flat roof, brick facing, balconies, paired entrances because the stair to
+    the upper level is INSIDE, and few ornamental details. A slight setback from the street allows a
+    minimal front-yard arrangement. The paired-door tell for an interior stair is worth reading
+    against the exterior-stair sectors: the same borough, the same decade, the opposite answer.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 37"
+
+# ── C. Les ensembles urbains d'intérêt (4) ────────────────────────────────────────────────────
+- id: ue-6e-8e-avenue
+  code: 26.U.1
+  name_fr: Entre la 6e et la 8e Avenue, nord de Saint-Zotique
+  value: urban-ensemble
+  streets: ["6e Avenue", "7e Avenue", "8e Avenue", "rue Saint-Zotique", "rue Paradis"]
+  summary_en: >-
+    Semi-detached two-storey houses in brick with flat roofs and a detached garage at the back of the
+    yard. The street layout, short segments interrupting the regular grid of the avenues, and mature
+    trees in the front yards give the sector its character. The uniformity of the buildings suggests
+    a single promoter working in the 1950s.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 37"
+
+- id: ue-centre-civique
+  code: 26.U.2
+  name_fr: Secteur près du Centre civique Rosemont
+  value: urban-ensemble
+  streets: ["10e Avenue", "boulevard Rosemont"]
+  summary_en: >-
+    Semi-detached duplex separated by driveways to garages at the back of the lot. Art déco-inspired:
+    brick facing, flat roof, an emphasised entrance sheltered by a wrought-iron marquise hung on
+    chains, glass block lighting the interior stairwell, ornamental motifs in artificial stone
+    (a beaver, an escutcheon), and balconies with ornamental iron railings. A slight setback allows a
+    minimal front arrangement of lawn and shrub rows. Again the similarity of the buildings points to
+    a single promoter; the sector developed in the 1940s and 1950s.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 38"
+
+- id: ue-31e-35e-avenue
+  code: 26.U.3
+  name_fr: Entre la 31e et la 35e Avenue, nord de Beaubien
+  value: urban-ensemble
+  streets: ["31e Avenue", "33e Avenue", "34e Avenue", "35e Avenue", "rue Beaubien"]
+  summary_en: >-
+    Bungalows dropped into an urban setting of mostly duplex. Squat form and hipped roof, brick facing
+    dressed with stone to mark the main entrance, asymmetrical composition; set back to allow front
+    lawns, with mature trees shading the streets. Developed in the 1950s. The street layout breaks the
+    orthogonal grid and 33e Avenue widens, which the cahier says creates « une ambiance de banlieue
+    en ville ».
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 38"
+
+- id: ue-petite-louisiane
+  code: 26.U.4
+  name_fr: La Petite-Louisiane
+  value: urban-ensemble
+  streets: ["rue De Tonty", "rue Mobile", "rue Biloxi", "parc de la Louisiane"]
+  summary_en: >-
+    North of parc Maisonneuve: mainly single-family or contiguous houses in brick, with a two-slope
+    roof carrying large shed dormers, a raised main entrance behind a balcony and under a small
+    pediment, and a setback allowing planting. As in 26.U.3 the street layout breaks the grid; rue De
+    Tonty widens into a small park holding a commemorative monument. The sector dates from the 1950s
+    and its calm contrasts with the busier streets around it.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 39"
+
+# ── D. Les ensembles industriels d'intérêt (1) ────────────────────────────────────────────────
+- id: ni-voies-ferrees
+  code: 26.N.1
+  name_fr: Secteur limitrophe des voies ferrées
+  value: urban-ensemble
+  streets: ["rue des Carrières", "avenue De Lorimier"]
+  summary_en: >-
+    A small industrial group that grew up along the railway at the turn of the twentieth century, and
+    which the cahier values as an ensemble tied to the railway rather than for individual buildings.
+    Most of the first industries are still standing: the L. Villeneuve & Cie lumber yard (1910), the
+    oldest timber-trading company in the Montréal region; the Philips Electrical Works (1905), the
+    oldest in the sector; Catelli Ltée (1911), whose sober treatment is representative of the
+    typology; and the Coca-Cola building of 1929–1930, a rare industrial work by Kenneth Rea, an
+    architect known mainly for banks. The Frontenac brewery, later Carling's (1911), was demolished
+    in 1973.
+  note: >-
+    Encoded with value urban-ensemble because the schema's SECTOR_VALUES set has no separate industrial
+    rank; the cahier's own category is D, « Les ensembles industriels d'intérêt », and the code letter
+    N records it.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 39"
+
+# ── Tracé fondateur d'intérêt patrimonial — DELIBERATELY NOT A SECTOR RECORD ─────────────────
+# The cahier's section 3.2.1 identifies one tracé fondateur d'intérêt patrimonial in this borough,
+# la rue des Carrières: the road that led to the limestone quarries of the côte de la Visitation,
+# known from 1780, which yielded Montréal's grey building stone and later the crushed rock that
+# surfaced the roads into the middle of the twentieth century. Its winding line still breaks the
+# orthogonal grid, and the descriptive street name is the only surviving witness.
+#
+# It is NOT encoded as a sector, and the omission is on purpose. A tracé fondateur is a route, it
+# sits outside the E/I/N/U/AP grammar in the cahier's own structure (3.2.1, not 3.2.2), and it has no
+# numeric code. None of the values in the schema's SECTOR_VALUES set describes it: the nearest,
+# parcel-system, renders on the page as "elements of the seigneurial parcel system", which would put
+# a false statement about a Montréal quarry road into the sector tally. Rather than mislabel it, it
+# is carried in prose.md (phase p1) and in the manifest. Adding a tracé-fondateur value to the schema
+# is the right fix and belongs to whoever owns build.py.
+
+# ── A. Les secteurs d'intérêt archéologique à fort potentiel (3) — a separate overlay ─────────
+- id: ap-terrasse-de-montreal
+  code: 26.AP.1
+  name_fr: Terrasse dite « de Montréal »
+  value: archaeological-potential
+  streets: ["parc T.-X. Renaud"]
+  summary_en: >-
+    A well-drained sandy terrace on a crest line about 50 m high, following part of the axis of rue
+    Sherbrooke before turning north-east across Mercier–Hochelaga-Maisonneuve, Rosemont–La
+    Petite-Patrie and Saint-Léonard. Sites of this kind were used by Archaic-period groups from about
+    4,000 years ago and later by the St Lawrence Iroquoians; the Dawson site (BjFj-001) downtown is
+    the type case. In 1996 workers excavating in a hundred-year-old Rosemont house found human
+    remains, identified as a woman aged twenty to thirty-five, with two native-copper beads dating the
+    burial between 1,000 and 1,500 years before Christ (BjFj-098).
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 46–47"
+
+- id: ap-cote-de-la-visitation
+  code: 26.AP.2
+  name_fr: Chemin de la côte de la Visitation
+  value: archaeological-potential
+  streets: ["boulevard Rosemont", "parc de la Louisiane"]
+  summary_en: >-
+    The old road that ran east from the north end of the chemin des Carrières on a relatively straight
+    line; its right of way, since widened, is now boulevard Rosemont. Farms lined it from the
+    eighteenth century, the largest being the Crawford farm on its south side — the same land the
+    Rosemont Land Improvement Company subdivided in 1907. A probable change in the old alignment means
+    one stretch now crosses the parc de la Louisiane, whose potential is tied to the early farming
+    occupation.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 47"
+
+- id: ap-site-saint-esprit
+  code: 26.AP.3
+  name_fr: Site du patrimoine de l'église Saint-Esprit de Rosemont
+  value: archaeological-potential
+  streets: ["rue Masson"]
+  summary_en: >-
+    The cited site read a second time, as buried evidence: the ground may still hold traces of the
+    first chapel or of secondary buildings associated with the founding of the parish. Saint-Esprit
+    opened in 1905 as Sainte-Philomène, a first chapel was built the following year, a new church was
+    begun in 1922 and finished in 1931.
+  source: "Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie, p. 47"

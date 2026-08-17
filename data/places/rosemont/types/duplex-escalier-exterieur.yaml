@@ -1,0 +1,69 @@
+id: rosemont.duplex-escalier-exterieur
+place: rosemont
+phase: p2
+name_en: Duplex with exterior stair
+name_fr: Duplex de brique avec escalier extérieur
+display_order: 3
+source_ref: >-
+  Évaluation du patrimoine urbain, arr. Rosemont–La Petite-Patrie (2005), sectors 26.E.5, 26.I.1,
+  26.I.2, 26.I.3, 26.I.5, 26.I.6
+source_url: https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+canonical: [duplex-exterior-stair, plex-family]
+styles: [faubourg-vernacular]
+tenure_plan: duplex
+storeys: "2"
+window_proportion: vertical
+principal_cladding: [clay-brick-red, clay-brick-beige-brown]
+setback_front_m: null
+sectors: ["26.E.5", "26.I.1", "26.I.2", "26.I.3", "26.I.5", "26.I.6"]
+profile:
+  siting_landscape:
+    - Contiguous, at or close to the property line, in rows; enfilades of duplex and triplex are what the cahier says predominates in the older sectors.
+    - Rear lanes to the back of the lots in the Rosemont Land grid.
+  massing:
+    - Two storeys, two stacked dwellings, flat roof.
+    - Exterior stair to the upper door, with balconies.
+  articulation:
+    - Decorative couronnements and cornices; artificial-stone inserts on the street façade.
+    - Serially produced decorative elements repeated along the row.
+  openings:
+    - Regular arrangement of openings; tall vertical windows.
+  materials:
+    - Brick as the exterior facing, with stone used more sparingly.
+profile_fr:
+  description:
+    - "26.I.2 : « hauteur variant de un à trois étages, mais majoritairement des duplex et triplex; parement extérieur en brique, toits plats, escaliers extérieurs et balcons, couronnements décoratifs et insertions de pierre artificielle pour enjoliver les façades sur rue. »"
+    - "26.E.5 : « le bon état des résidences (en majorité des duplex ou triplex contigus) qui bordent le parc »"
+profile_note: >-
+  Same caveat as the triplex record: the cahier describes this type only inside sector fiches. The
+  duplex and the triplex are almost always named together in those fiches — « des duplex ou triplex
+  contigus » — so the two records share their descriptive material, and the difference between them
+  here is dwelling count and storeys, which is exactly how the plex family is defined. Nothing has
+  been imported from another borough's fiches to fill the gaps; lot width, setback and dwelling
+  dimensions are left null.
+blurb_en: >-
+  Two flats stacked behind a brick front with an outside stair to the upper door — the smaller and
+  commoner member of the same family as the triplex, and the form that fills the streets between the
+  sectors the cahier singles out.
+origin_en: >-
+  The same subdivision and the same decades as the triplex: La Petite-Patrie from 1885 with the
+  tramway, Rosemont from 1904 with the Angus Shops, and the building boom of the 1920s that made
+  Rosemont one of the most active quarters in Montréal for house construction. Where the shoebox
+  represents what a labourer could build for himself on a promise of sale, the duplex represents what
+  a builder could put up for rent on the same street in the same years.
+photos:
+  - file: null
+    credit: >-
+      pending. The one archival photograph of Rosemont duplexes with a verifiable licence — Conrad
+      Poirier's of 28 July 1948 — was examined and then assigned to the SEMI-DETACHED Art déco duplex
+      record instead, because what it actually shows is paired houses with all their doors at ground
+      level under marquises, which is the 26.U.2 form and not this one. Publishing it here would have
+      illustrated an exterior-stair type with a photograph containing no exterior stair.
+    kind: placeholder
+# common fields per Part 2 brief §2.3
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+garage: none
+lot_width_m: null
+setback_side_m: 0
+front_yard_green_pct: null

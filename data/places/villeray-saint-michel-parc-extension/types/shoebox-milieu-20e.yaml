@@ -1,0 +1,129 @@
+id: villeray-saint-michel-parc-extension.shoebox-milieu-20e
+place: villeray-saint-michel-parc-extension
+page: 19
+phase: p4
+phase_confidence: verified
+name_en: Shoebox of the mid-20th century
+name_fr: Shoebox du milieu du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 1.3"
+source_generation: >-
+  By-law Annexe F, fiche 1.3, pp. 1.3.1 to 1.3.5, transcribed verbatim; the counts are summed from
+  the arrondissement's own 2019 guide
+sectors: [14.U.1]
+canonical:
+  - shoebox-uniplex
+styles:
+  - shoebox
+  - minimal-traditional
+tenure_plan: single-family
+storeys: 1
+roof: {form: flat, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: integrated-facade
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+count_in_place: 735
+variants:
+  - code: A
+    name_fr: Shoebox implantée en fond de lot
+    summary_fr: "Cette shoebox est construite en fond de lot, avec peu ou pas de marge arrière."
+  - code: B
+    name_fr: Shoebox comportant une avancée de façade
+    summary_fr: "Cette shoebox présente un volume en avancée en façade. […] le bâtiment est situé au niveau du sol, tandis que le rez-de-chaussée est surélevé par rapport à celui-ci."
+  - code: C
+    name_fr: Shoebox à revêtement léger
+    summary_fr: "Cette shoebox arbore un revêtement léger et présente une apparence modeste, sans ornementation."
+  - code: D
+    name_fr: Shoebox comportant un stationnement intérieur
+    summary_fr: "Cette shoebox présente un stationnement intérieur situé au sous-sol. Le rez-de-chaussée est surélevé et la marge avant est généreuse, ce qui permet l’implantation d’une allée véhiculaire en dépression."
+  - code: E
+    name_fr: Shoebox comportant un logement
+    summary_fr: "Cette shoebox présente un logement secondaire au sous-sol. L’accès au logement du sous-sol est indépendant, accessible par une cour anglaise située sous le perron du rez-de-chaussée."
+profile:
+  siting_landscape:
+    - Generally semi-detached or detached — the contiguous siting of the earlier shoebox gives way.
+    - Often on lots wider than those of the early-century type.
+    - Characterised by a large front margin, sometimes containing a parking space.
+    - In some cases the houses were built in series, and groups of them are not rare in certain sectors of the borough.
+  massing:
+    - A one-storey volume on a rectangular plan with a flat roof — the shoebox envelope, unchanged.
+    - The ground floor is often raised above street level, which is what makes a real basement possible.
+  articulation:
+    - The front door is central and framed by two windows, reached by a perron sometimes covered by a marquise.
+    - The façade carries little ornament.
+    - The crowning is sober — this is the clearest single break from the early-century type, which was crowned by a cornice or a pedimented parapet.
+  openings:
+    - Door architrave and window lintels and sills are soberly worked.
+    - Insertions of glass block, or a decorative masonry bond, are possible.
+  materials:
+    - Exterior cladding in brick or stone.
+    - Variant C substitutes a light cladding, and unlike the early-century light-clad variant it is plain, with no ornament at all.
+profile_fr:
+  contexte:
+    - "À partir de 1940 jusqu’en 1960, le traitement architectural des shoebox se simplifie peu à peu. Le couronnement est sobre et le rez-de-chaussée est graduellement surélevé pour permettre l’aménagement d’un sous-sol. L’implantation majoritairement contiguë sera peu à peu remplacée par une implantation jumelée ou isolée, présentant une marge de recul plus importante afin de dégager l’espace pour garer une voiture."
+  implantation:
+    - "La shoebox du milieu du 20e siècle est généralement implantée de façon jumelée ou isolée. Cette typologie se trouve souvent sur des lots plus larges que ceux du début du siècle. Elle est caractérisée par la présence d’une grande marge avant comportant parfois une place de stationnement. Dans certains cas, les maisons étaient construites en série, et il n’est pas rare de voir des ensembles de ce type dans certains secteurs de l’arrondissement."
+  volumetrie:
+    - "La shoebox présente un volume d’un seul étage au plan rectangulaire, avec un toit plat. Le rez-de-chaussée est souvent surélevé par rapport à la rue."
+  traitement_des_facades:
+    - "La porte d’entrée est centrale et encadrée de deux fenêtres. Elle est accessible par un perron, parfois couvert d’un auvent. La façade présente peu d’ornementation : le revêtement extérieur est en brique ou en pierre, la porte d’entrée est encadrée d’un chambranle et les fenêtres, de linteaux et d’allèges sobrement travaillés. Des insertions de blocs de verre ou un appareillage de maçonnerie sont possibles."
+  sous_variantes:
+    - "A — SHOEBOX IMPLANTÉE EN FOND DE LOT. Cette shoebox est construite en fond de lot, avec peu ou pas de marge arrière."
+    - "B — SHOEBOX COMPORTANT UNE AVANCÉE DE FAÇADE. Cette shoebox présente un volume en avancée en façade. […] le bâtiment est situé au niveau du sol, tandis que le rez-de-chaussée est surélevé par rapport à celui-ci."
+    - "C — SHOEBOX À REVÊTEMENT LÉGER. Cette shoebox arbore un revêtement léger et présente une apparence modeste, sans ornementation."
+    - "D — SHOEBOX COMPORTANT UN STATIONNEMENT INTÉRIEUR. Cette shoebox présente un stationnement intérieur situé au sous-sol. Le rez-de-chaussée est surélevé et la marge avant est généreuse, ce qui permet l’implantation d’une allée véhiculaire en dépression."
+    - "E — SHOEBOX COMPORTANT UN LOGEMENT. Cette shoebox présente un logement secondaire au sous-sol. L’accès au logement du sous-sol est indépendant, accessible par une cour anglaise située sous le perron du rez-de-chaussée."
+profile_note: >-
+  <strong>The second half of the borough's shoebox split, and the reason it exists.</strong> Read the
+  fiche's own sentence as a list of four changes, all of them dated 1940–1960: the architectural
+  treatment simplifies; the crown becomes sober; the ground floor rises to make a basement; and the
+  contiguous siting is replaced by semi-detached or detached siting with a deeper setback — the last
+  of these expressly « afin de dégager l'espace pour garer une voiture ». Those are bungalow
+  properties arriving inside a flat-roofed rectangular envelope, which is precisely the case for
+  calling it a second type rather than a late phase of the first. Variant E is the one that matters
+  for the vocabulary: a shoebox with a second dwelling in the basement, reached independently through
+  an areaway under the front perron — the case that makes the borough's proposed name « uniplex »
+  legible. Variant D, with the garage under the raised ground floor and a sunken driveway, is the
+  same move made for a car instead of a tenant. Note that both fiches keep a variant A « implantée en
+  fond de lot », so back-of-lot siting is not itself a period marker. The 735 count is derived: it is
+  the sum of the 1940-1949 (191) and 1950-1960 (544) rows of the borough's 2019 guide, matching this
+  fiche's own range, and it is not a figure the borough prints.
+example_addresses: []
+photos:
+  - file: assets/places/villeray-saint-michel-parc-extension/shoebox-milieu-20e-surelevee.jpg
+    credit: >-
+      "Maison de style Shoebox à Montréal 03" by Guerinf, 31 March 2020, Wikimedia Commons, licensed
+      CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International) — author, licence and
+      file URL read individually on the Commons API before download. File:
+      https://commons.wikimedia.org/wiki/File:Maison_de_style_Shoebox_%C3%A0_Montr%C3%A9al_03.jpg
+    kind: single
+    licence: CC BY-SA 4.0
+    source_url: https://commons.wikimedia.org/wiki/File:Maison_de_style_Shoebox_%C3%A0_Montr%C3%A9al_03.jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form, not on address; the uploader places it in the Villeray area. It is the fiche's
+      diagnostic set rather than the early type's: buff brick instead of red, the ground floor
+      clearly raised over a basement whose windows show at grade, a broad flight of concrete steps up
+      to the perron, a marquise over the central door, one window either side, and no cornice or
+      pedimented parapet — the sober crown the fiche describes. Its raised ground floor over a
+      basement is the condition variants D and E both build on; which, if either, this house is
+      cannot be told from the front and is not claimed.
+blurb_en: >-
+  The same flat-roofed one-storey box, built between 1940 and 1960, with the ornament stripped off,
+  the crown flattened, the ground floor lifted over a real basement, and the party walls given up for
+  a gap on each side and a deeper front yard to park a car in. Two of its five variants put something
+  under that raised floor: a garage in one, a second dwelling with its own areaway entrance in the
+  other.
+origin_en: >-
+  This is the record that makes the shoebox argument visible, because it has no counterpart in
+  Rosemont's single-type treatment. It is also the borough's numerically dominant shoebox: 735 of the
+  1 159 houses the borough counts fall in this fiche's years, and 544 of those in the eleven years
+  1950-1960 alone. The type is where the shoebox meets the bungalow — which the same by-law files six
+  fiches later, at 1.7 — and the meeting happens in the siting and the section rather than in the
+  roof, which stays flat.

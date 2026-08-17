@@ -1,0 +1,85 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.immeuble-vocation-industrielle
+place: sud-ouest
+page: 107
+phase: p2
+phase_confidence: verified
+name_en: Industrial building
+name_fr: L’immeuble à vocation industrielle
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 6 — L’immeuble à vocation industrielle, printed p. 107
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- 22.E.1
+- 22.AP.5
+canonical: []
+styles:
+- rationalisme-industriel
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+is_residential: false
+profile:
+  siting_landscape:
+  - >-
+    Around the canal de Lachine and in every sector near the railways, which kept a coarse-grained urban
+    fabric given over to industry.
+  massing:
+  - Great architectural simplicity; siting and cladding are both variable.
+  articulation:
+  - >-
+    Openings arranged in regular alignment, and the structural elements form the principal ornament.
+  openings:
+  - Regular alignments; not otherwise characterised.
+  materials:
+  - Variable; the study does not characterise them.
+profile_fr:
+  description:
+  - >-
+    Le pourtour du canal de Lachine ainsi que tous les secteurs situés à proximité de voies ferrées
+    ont conservé un tissu urbain à larges mailles, destiné principalement à la fonction industrielle.
+    La plupart des bâtiments industriels qui sont toujours présents dans ces secteurs possèdent une
+    grande simplicité architecturale. Les ouvertures sont disposées en alignement régulier et les éléments
+    de structures forment les principaux éléments d’ornementation. Le mode d’implantation et les matériaux
+    de revêtement sont cependant variables. Ce type n’a pas fait l’objet d’une description complète
+    dans cette description typologique.
+profile_note: null
+example_addresses:
+- address: 225, rue Bridge
+  note: the Postes Canada building (SO1606)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 6 — Le pourtour du canal de Lachine ainsi que tous les secteurs situés à proximité
+    de voies ferrées ont conservé un tissu ur… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  Recorded, not carded. The industrial fabric is the reason the borough exists, and the Évaluation cahier
+  gives it a whole grade of its own — the two secteurs industriels d'intérêt 22.N.1 and 22.N.2 — but
+  the typo-morphological study leaves it deliberately undescribed: « Ce type n’a pas fait l’objet d’une
+  description complète dans cette description typologique. »
+origin_en: >-
+  Family 6 of seven. Non-residential; the canal-side complexes are catalogued in sector 22.E.1 instead.

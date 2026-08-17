@@ -1,0 +1,80 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.immeuble-vocation-commerciale
+place: sud-ouest
+page: 105
+phase: p3
+phase_confidence: verified
+name_en: Commercial building
+name_fr: L’immeuble à vocation commerciale
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 5 — L’immeuble à vocation commerciale, printed p. 105
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-3
+canonical: []
+styles:
+- beaux-arts
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+- cut-stone
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+is_residential: false
+profile:
+  siting_landscape:
+  - On the borough's main arteries.
+  massing:
+  - 'Not characterised: the study says the type is too differentiated to describe.'
+  articulation:
+  - Generally designed by architects and possessing an architectural language of their own.
+  - On a corner the side façade keeps the same rules of composition as the principal one.
+  openings:
+  - Not characterised in the study.
+  materials:
+  - Not characterised in the study.
+profile_fr:
+  description:
+  - >-
+    Quelques immeubles à vocation uniquement commerciale ont également été construits sur les grandes
+    artères du Sud-Ouest. Ces bâtiments sont généralement conçus par des architectes et possèdent un
+    langage architectural qui leur est propre. Lorsqu’ils sont situés à une intersection, leur façade
+    latérale conserve les mêmes règles de composition que la façade principale. En raison de la grande
+    différenciation des bâtiments de ce type, il n’a pas fait l’objet d’une attention particulière dans
+    cette description typologique.
+profile_note: null
+example_addresses:
+- address: boulevard Monk, at rue du Parc-Garneau
+  note: the édifice de la banque Laurentienne (SO3635)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 5 — Quelques immeubles à vocation uniquement commerciale ont également été construits
+    sur les grandes artères du Sud-Ouest. … © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  Recorded as the study records it, which is to say barely: « En raison de la grande différenciation
+  des bâtiments de ce type, il n’a pas fait l’objet d’une attention particulière dans cette description
+  typologique. » Non-residential, so no card.
+origin_en: Family 5 of seven. Kept in the record so the type list is complete and honest about its gaps.

@@ -1,0 +1,88 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.immeuble-vocation-institutionnelle
+place: sud-ouest
+page: 109
+phase: p3
+phase_confidence: verified
+name_en: Institutional building
+name_fr: L’immeuble à vocation institutionnelle
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 7 — L’immeuble à vocation institutionnelle, printed p. 109
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- 22.E.10
+- 22.E.15
+canonical: []
+styles:
+- beaux-arts
+- neogothique
+tenure_plan: mixed
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- clay-brick
+- cut-stone
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+is_residential: false
+profile:
+  siting_landscape:
+  - >-
+    Distributed across the whole borough. They can form complexes filling a whole block — the study's
+    example is the école secondaire Saint-Henri, in the block bounded by rues Saint-Ferdinand, du Couvent,
+    Saint-Jacques and Saint-Antoine Ouest — or be inserted inside the residential fabric.
+  massing:
+  - Large buildings, singular monuments designed by architects.
+  articulation:
+  - 'Not characterised: the study treats them as exceptions in the fabric rather than base elements.'
+  openings:
+  - Not characterised in the study.
+  materials:
+  - Not characterised in the study.
+profile_fr:
+  description:
+  - >-
+    Les immeubles institutionnels de l’arrondissement du Sud-Ouest sont répartis sur l’ensemble de son
+    territoire. Ils peuvent former des complexes qui occupent un îlot entier, par exemple l’école secondaire
+    Saint-Henri située dans l’îlot délimité par les rues Saint-Ferdinand, du Couvent, Saint-Jacques
+    et SaintAntoine Ouest, ou être insérés à l’intérieur du tissu résidentiel. Ces bâtiments sont destinés
+    à des fonctions multiples (église, école, hôpital, etc.). Ce type n’a pas fait l’objet d’une description
+    complète dans cette description typologique car ils constituent des exceptions dans le tissu urbain
+    plutôt que des éléments de base.
+profile_note: null
+example_addresses:
+- address: 110-154, avenue Atwater
+  note: the marché Atwater (SO1526)
+- address: 625, rue Fortune
+  note: Grace Church (SO1610)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 7 — Les immeubles institutionnels de l’arrondissement du Sud-Ouest sont répartis sur
+    l’ensemble de son territoire. Ils peuve… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  Recorded, not carded. Churches, schools, hospitals, public baths and libraries, which the study excludes
+  on principle: « ils constituent des exceptions dans le tissu urbain plutôt que des éléments de base
+  ».
+origin_en: >-
+  Family 7 of seven. Non-residential; the borough's institutional cores are carried in the sector records.

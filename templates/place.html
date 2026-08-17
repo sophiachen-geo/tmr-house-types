@@ -160,6 +160,8 @@
     {% if t.conservation %}<div class="conserve"><span class="olabel">Conservation guidance (fiche)</span><ul class="tv">{% for c in t.conservation %}<li>{{ c|esc }}</li>{% endfor %}{% for c in t.conservation_fr or [] %}<li class="frv" lang="fr">{{ c|esc }}</li>{% endfor %}</ul></div>{% endif %}
     {% if t.related_buildings %}<div class="conserve"><span class="olabel">Buildings the source names</span><ul class="tv">{% for b in t.related_buildings %}<li>{% if b.url %}<a href="{{ b.url }}">{{ b.name|esc }}</a>{% else %}{{ b.name|esc }}{% endif %}</li>{% endfor %}</ul></div>{% endif %}
     {% if t.example_addresses %}<div class="conserve"><span class="olabel">Addresses the inventory prints</span><ul class="tv">{% for a in t.example_addresses %}<li>{{ a.address|esc }}{% if a.municipality %}, {{ a.municipality|esc }}{% endif %}{% if a.note %} <span class="null">({{ a.note|esc }})</span>{% endif %}</li>{% endfor %}</ul></div>{% endif %}
+    {% if t.topic_links %}<p class="topiclink">{% for tp in t.topic_links %}<a href="{{ R }}topics/{{ tp.id }}/">{{ tp.label|esc }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>{% endif %}
+    {% if t.variants %}<div class="conserve variants"><span class="olabel">Variants the source distinguishes</span><ul class="tv">{% for v in t.variants %}<li class="frv" lang="fr">{% if v.code %}<strong>{{ v.code|esc }}</strong> — {% endif %}{% if v.name_fr %}{{ v.name_fr|esc }} : {% endif %}{{ v.text|esc }}</li>{% endfor %}</ul></div>{% endif %}
   </details>
   {% if t.children %}<div class="subcards">
     {% for ch in t.children %}

@@ -1,0 +1,106 @@
+id: mercier-hochelaga-maisonneuve
+name_en: Mercier–Hochelaga-Maisonneuve (borough of Montréal)
+name_fr: Arrondissement de Mercier–Hochelaga-Maisonneuve
+sections: [planned, borough-vernacular]    # planned, because of the cité de Maisonneuve, 1883–1918
+region: Ville de Montréal
+borough_of: montreal                       # borough since 1 January 2002
+founded: 1722                              # paroisse Saint-François-d'Assise de la Longue Pointe, 1722; municipalité de
+                                           # Longue-Pointe 1845; village d'Hochelaga incorporated 1870 and annexed to
+                                           # Montréal 1883; cité de Maisonneuve created 27 December 1883 and annexed 1918;
+                                           # Longue-Pointe, Beaurivage and Tétraultville annexed 1910; Saint-Jean-de-Dieu 1963.
+settlement_mode: >-
+  Five annexed municipalities on the eastern end of the island, the largest of which — Maisonneuve —
+  was founded in 1883 by its own landowners as a rival to the Montréal that had just swallowed Hochelaga,
+  and laid out on an orthogonal grid before being replanned as a City Beautiful capital in 1910
+governing_instruments:
+  - kind: evaluation
+    title: >-
+      Ville de Montréal, Division du patrimoine et de la toponymie, « Évaluation du patrimoine urbain :
+      arrondissement de Mercier–Hochelaga-Maisonneuve » (2005, ISBN 2-7647-0470-4). Fieldwork January 2003
+      – May 2004 for the Plan d'urbanisme adopted 23 November 2004. The sector codes inside the document are
+      27.E.1–5, 27.I.1–6, 27.U.1–5, 27.N.1–2 and 27.AP.1–3 / 27.A.1–2 — the arrondissement number is 27,
+      not the 14 of the filename.
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/14_evaluation_patrimoine_mercier.pdf
+  - kind: zoning
+    title: >-
+      Règlement d'urbanisme de l'arrondissement de Mercier/Hochelaga-Maisonneuve (01-275). It carries the
+      borough's two building-scale heritage instruments directly: the « secteurs significatifs », where
+      norms and criteria govern any exterior work visible from the street, and the « immeubles
+      significatifs ». Twelve further areas are subject to PIIA review.
+    year: 2001
+    url: https://montreal.ca/reglements-municipaux/recherche/60d761c6fd6531b6145780ac
+  - kind: PIIA
+    title: >-
+      Twelve PIIA sectors are designated inside règlement 01-275 (Louis-H.-Lafontaine; SDC
+      Hochelaga-Maisonneuve; Lavo; Village Champlain; Promenade Bellerive; Assomption-Sud–Longue-Pointe;
+      Assomption-Nord; site Contrecœur; de Rouen; Préfontaine; Radisson; and the voie panoramique et
+      patrimoniale de la rue Notre-Dame Est). Règlement 01-275-112 (2017) is the amendment that inserted
+      the Assomption-Sud « Cité de la logistique » PIIA as a new Section VI after article 120.12 — an
+      industrial-logistics control, not a residential heritage one; public consultation 23 March 2017.
+    year: 2017
+    url: https://portail-m4s.s3.montreal.ca/pdf/26677_guide_patrimonial_vfinal.pdf
+  - kind: demolition
+    title: >-
+      Règlement régissant la démolition d'immeubles (RCA02-27006) — « prévoit l'interdiction de démolir un
+      immeuble sans avoir préalablement obtenu une autorisation ». The members of the comité consultatif
+      d'urbanisme sit as the comité de démolition.
+    year: 2002
+    url: https://montreal.ca/articles/comite-de-demolition-de-mhm-20897
+  - kind: classement
+    title: >-
+      Site patrimonial de l'Ancienne-Cité-de-Maisonneuve — classé site patrimonial by the Minister of
+      Culture and Communications. Statut: Classement, date 2022-03-03, prise d'effet 2021-03-30, after an
+      avis d'intention de classement of 2021-03-29. RPCQ id 232824. It covers works of 1910–1939: the
+      former hôtel de ville, the former marché public, the bain et gymnase publics, the former caserne de
+      pompiers, avenue Morgan and parc Morgan, and Alfred Laliberté's two bronze fountain-sculptures
+      « La Fermière » and « Les Petits baigneurs ». This is a PROVINCIAL classement, not a municipal
+      citation — the only provincial area protection among the five Montréal boroughs of this part.
+    year: 2022
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=232824&type=bien
+  - kind: classement
+    title: >-
+      Château Dufresne (Maisons Marius et Oscar Dufresne, 4040 rue Sherbrooke Est, 1915–1918) — classé
+      immeuble patrimonial 20 December 1976, forty-six years before the site around it. RPCQ id 92740.
+    year: 1976
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92740&type=bien
+  - kind: inventory
+    title: >-
+      Statutory pre-1940 inventory under art. 120 of the Loi sur le patrimoine culturel, carried by the
+      agglomération de Montréal. Not checked for MHM as at this encoding; listing is neither citation nor
+      classement, but an inventoried building falls under the demolition-control regime of LAU art. 148.0.1.
+    year: null
+    url: null
+typology_document:
+  title: >-
+    Ville de Montréal, « Évaluation du patrimoine urbain — arrondissement de Mercier–Hochelaga-Maisonneuve »
+    (2005); arrondissement de Mercier–Hochelaga-Maisonneuve, « Guide patrimonial » (n.d., current 2026)
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    Neither document is a typology. The Évaluation characterises sectors and lists individual buildings;
+    it names house forms only in passing, and the phrase it uses for Maisonneuve's workers' housing is
+    « les habitations ouvrières de trois étages le long de rues bordées d'arbres ». The borough's Guide
+    patrimonial is a conservation manual keyed to elements — stair, balcony, fascia, soffit, door, window,
+    cladding, crown — rather than to house types, with two named exceptions of its own (Village Champlain
+    types I–VII and Maison des vétérans types I–III, both post-1941). Every type record on this page
+    therefore carries a profile_note saying which document each line came from.
+map_layer: null
+hero_photo:
+  file: assets/places/mercier-hochelaga-maisonneuve/boulevard-morgan-1916.jpg
+  credit: >-
+    "Morgan Boulevard looking at market, Maisonneuve (Montreal), QC, 1916" by Wm. Notman & Son, silver
+    salts on glass, McCord Stewart Museum VIEW-16185 — public domain, licence read on the Wikimedia
+    Commons API before download. File:
+    https://commons.wikimedia.org/wiki/File:Boulevard_Morgan_Maisonneuve_Montreal_1916.jpg
+summary_en: >-
+  Five annexed municipalities at the east end of the island, and one of them is why this page exists.
+  Maisonneuve was created on 27 December 1883 by the Hochelaga landowners who refused to be annexed with
+  their neighbours, grew fifth among Canadian industrial cities by 1910 on the strength of the shoe trade,
+  and in that year handed its municipal engineer, Marius Dufresne, the most ambitious town-planning scheme
+  drawn in Québec at the time — a City Beautiful capital of stone civic buildings on a treed boulevard,
+  paid for out of municipal borrowing until the borrowing ran out and the province annexed the city to
+  Montréal in 1918. It is the third planning exercise at company-town scale on this site after Arvida and
+  Témiscaming, and the only one where the client was a town council rather than a corporation. What the
+  workers actually lived in was not a model house but the ordinary Montréal plex: three storeys of stone or
+  brick, one dwelling to a floor, outside stairs, on streets lined with trees.

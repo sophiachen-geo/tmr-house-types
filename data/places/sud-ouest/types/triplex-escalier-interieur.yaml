@@ -1,0 +1,191 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.triplex-escalier-interieur
+place: sud-ouest
+page: 80
+phase: p3
+phase_confidence: verified
+name_en: Triplex with interior stair
+name_fr: Le triplex avec escalier intérieur
+courant: 2. L'immeuble de type plex
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 2.5 — Le triplex avec escalier intérieur, printed p. 80
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- AIRE-1
+- AIRE-2
+canonical:
+- triplex-interior-stair
+- plex-family
+styles:
+- faubourg-vernacular
+- victorian-eclectic
+tenure_plan: triplex
+storeys: 3
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- stone-rusticated
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: 0
+setback_side_m: 0
+front_yard_green_pct: 0
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Contiguous and with no front setback — but, unusually, its façade does not keep a regular alignment
+    with its neighbours'.
+  - No landscaping at all.
+  - >-
+    Mainly in the sectors lotted at the end of the industrialisation period and the start of the infrastructure
+    period, when building behind a setback was not yet general.
+  - >-
+    Frequently sited in a fabric with no ruelle, which is why the porte cochère appears (variante 3).
+  massing:
+  - A simple rectangular body under a flat roof, three storeys.
+  - The ground floor is raised less than three risers.
+  - Balconies possible at the upper levels; no projecting windows.
+  articulation:
+  - >-
+    The composition of the corps varies, both in where the ground-floor doors sit and in how the openings
+    line up vertically. On some buildings every door is paired, making a long run of doors along the
+    ground floor; on others two paired doors sit at one end and a single door at the other.
+  - >-
+    The socle is one to three courses of rusticated stone; exposed concrete foundations are generally
+    the result of renovation.
+  - >-
+    The crowning is a moulded wood cornice with modillions or consoles; brick cornices and false mansards
+    also occur.
+  openings:
+  - Sash or casement with a transom, one width to half a height.
+  - Doors plain or paired, with a transom.
+  - >-
+    Surrounds expressed by a straight brick or stone lintel, or a brick flat-arch in a segmental curve;
+    rusticated-stone buildings get a complete cut-stone surround.
+  materials:
+  - Rusticated stone at the socle.
+  - Brick dominant; some triplexes with interior stair are clad in rusticated stone.
+  - Wood balconies with metal guards; the steps up to the ground floor are generally masonry.
+profile_fr:
+  implantation:
+  - >-
+    Le triplex avec escalier intérieur est implanté de façon contiguë et sans marge de recul avant.
+    Cependant, sa façade ne respecte pas un alignement régulier avec celle des bâtiments voisins. Il
+    n’y a pas d’aménagement paysager.
+  volumetrie:
+  - >-
+    Ce type architectural possède un corps de bâti rectangulaire simple avec un toit plat. La surélévation
+    du rez-de-chaussée par rapport au niveau du sol est inférieure à trois contremarches. Il y a une
+    possibilité de balcons aux étages. Aucune fenêtre en saillie n’est présente.
+  materiaux:
+  - Le socle est revêtu de pierres à bossages.
+  - >-
+    La brique est le matériau de revêtement dominant. Certains triplex avec escalier intérieur sont
+    cependant revêtus de pierres à bossages.
+  - >-
+    Les balcons sont en bois et les garde-corps sont en métal. Les marches qui permettent l’accès au
+    rez-dechaussée sont généralement en maçonnerie.
+  traitement_des_facades:
+  - >-
+    Socle — Le socle est exprimé par la présence de 1 à 3 rangs de pierres à bossages. Les fondations
+    apparentes en béton sont généralement le résultat de travaux de rénovation.
+  - >-
+    Corps — La composition du corps de la façade est variable tant dans la position des portes au rez-de-chaussée
+    que dans l’alignement vertical des ouvertures. Sur certains bâtiments, les portes sont toutes jumelées,
+    ce qui amène une longue suite de portes au rez-de-chaussée (fig. 2.5.1). Sur d’autres bâtiments,
+    on retrouve 2 portes jumelées sur un côté de la façade et une porte simple à l’autre extrémité.
+    Finalement, il est également possible de retrouver les 3 portes séparées et divisées par des fenêtres.
+    Cette grande variation dans la disposition des portes favorise le non-alignement vertical des fenêtres
+    des étages avec les ouvertures du rez-de-chaussée. Cependant, les alignements verticaux sont réguliers
+    pour les 2 étages supérieurs. Il est possible de retrouver des triplex avec escalier intérieur jumelés.
+    La ligne de lot agit alors comme axe de symétrie (fig. 2.5.1).
+  - >-
+    Couronnement — Le couronnement du bâtiment est composé d’une corniche moulurée en bois avec modillons
+    ou consoles. Il est également possible de retrouver des corniches de briques ainsi que des fausses
+    mansardes.
+  ouvertures:
+  - >-
+    Les fenêtres sont à guillotine ou à battants avec imposte. Leurs proportions sont de 1 largeur =
+    ½ hauteur.
+  - Les portes sont simples ou jumelées et possèdent une imposte.
+  - >-
+    Les encadrements des ouvertures sont exprimés par la présence d’un linteau droit en brique ou en
+    pierre ou d’une platebande en brique en forme d’arc surbaissé. Les bâtiments revêtus de pierres
+    à bossages possèdent des encadrements complets en pierre de taille.
+  description:
+  - >-
+    Le triplex avec escalier intérieur est un bâtiment de trois étages avec toit plat, généralement
+    implanté sans marge de recul avant. Bien que la majorité des logements possèdent leur propre escalier
+    d’accès, il est fréquent d’observer des bâtiments où les deux logements des étages supérieurs partagent
+    le même escalier.
+  contexte:
+  - >-
+    Ce type d’habitation est, en fait, une variante plus dense du duplex avec escalier intérieur. Il
+    est principalement présent dans les secteurs lotis à la fin de la période d’industrialisation (1825-1875)
+    et au début de la période de création des infrastructures municipales (1875-1945). À cette époque,
+    la construction avec marge de recul n’est pas encore généralisée et on retrouve un escalier intérieur
+    pour accéder aux logements.
+  sous_variantes: &id001
+  - >-
+    Variante 1 — Le triplex avec escalier intérieur à plus de trois logements : Bien que ce type de
+    bâtiment soit en majorité un édifice à 3 logements superposés, il est possible qu’il possède plus
+    de 3 logements notamment en fonction de sa largeur ou de sa position relative (par exemple, sur
+    un coin de rue). Les logements situés aux étages supérieurs partagent alors leur escalier d’accès
+    (fig. 2.5.2).
+  - >-
+    Variante 2 — Le triplex avec escalier intérieur situé en coin de rue : Lorsque situés sur un coin
+    de rue, les triplex avec escalier intérieur possèdent généralement un coin tronqué. On peut alors
+    trouver sur le mur d’angle des balcons aux étages et une porte au rez-dechaussée. La corniche de
+    ces bâtiments est continue sur les 2 façades. Les fenêtres de la façade latérale sont disposées
+    en alignement seulement pour les 2 étages supérieurs (fig. 2.5.3).
+  - >-
+    Variante 3 — Le triplex avec escalier intérieur et porte cochère : Finalement, le triplex avec escalier
+    intérieur est fréquemment implanté dans un tissu urbain sans ruelle. On retrouve alors une porte
+    cochère pour accéder à la cour arrière. Bien qu’il soit possible qu’un seul bâtiment possède sa
+    propre porte cochère, il est plus fréquent d’observer le partage de la porte cochère entre 2 bâtiments
+    jumelés. Une travée centrale est alors ajoutée à la composition architecturale. Celle-ci peut inclure
+    ou non des ouvertures aux étages supérieurs (fig. 2.5.4).
+profile_note: null
+variants: *id001
+example_addresses:
+- address: north side of rue Delisle, between avenue Atwater and rue Vinet
+  note: the study's illustration of the type in the synthèse du développement (SO0237)
+- address: rue Murray, between rues Ottawa and William
+  note: >-
+    the study's fiche example — two semi-detached triplexes with interior stair and doors assembled
+    at the centre (SO0085)
+- address: rue Sainte-Émilie, between rues Turgeon and Delinelle
+  note: the study's example of variante 3, the triplex with interior stair and porte cochère (SO0120)
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 2.5 — Le triplex avec escalier intérieur est un bâtiment de trois étages avec toit
+    plat, généralement implanté sans marge de r… © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  Three dwellings, three storeys, flat roof, no setback and no stair in the yard — the densest thing
+  the borough built before 1900, and a denser variant of the duplex with interior stair rather than
+  an ancestor of the triplex with exterior stair. Most dwellings have their own stair, but it is frequent
+  for the two upper dwellings to share one. Where the block has no ruelle, a porte cochère cuts through
+  to the back yard.
+origin_en: >-
+  The interior-stair triplex is the form the exterior-stair triplex displaced. Both are carried on this
+  site, and their canonical ids are siblings under <em>plex-family</em> precisely so that the swap can
+  be read as one event rather than two unrelated types.

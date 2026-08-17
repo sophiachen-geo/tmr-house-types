@@ -1,0 +1,115 @@
+id: sud-ouest
+name_en: Le Sud-Ouest (Montréal)
+name_fr: Arrondissement du Sud-Ouest
+borough_of: montreal          # Part 10a: the five boroughs render as siblings under one header
+sections: [borough-vernacular, historic-core]
+region: Montréal (île de Montréal), arrondissement du Sud-Ouest
+founded: 1825                 # the canal de Lachine opens and the farms start becoming a city
+settlement_mode: >-
+  five former villages and municipalities strung along a canal — Saint-Henri, Sainte-Cunégonde,
+  Côte-Saint-Paul, Saint-Gabriel and Griffintown — lotted separately, annexed to Montréal one by
+  one between 1887 and 1910, and filled with worker housing to whichever rules were in force when
+  each block was cut
+parent_place: null
+governing_instruments:
+  - kind: evaluation-cahier
+    title: >-
+      Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Sud-Ouest (2005), the
+      Sud-Ouest volume of the twenty-seven-cahier series prepared by the Division du patrimoine et
+      de la toponymie under Jean-François Gravel, worked January 2003 – May 2004 for the Plan
+      d'urbanisme adopted by the conseil municipal on 23 November 2004. It is this document, not
+      its filename, that fixes the arrondissement's code: every one of the 540 sector codes it
+      prints begins 22. It designates 15 secteurs de valeur patrimoniale exceptionnelle
+      (22.E.1–22.E.15), 25 secteurs de valeur patrimoniale intéressante (22.I.1–22.I.25), two
+      secteurs industriels d'intérêt (22.N.1–22.N.2), one secteur urbain d'intérêt (22.U.1), and
+      fourteen secteurs d'intérêt archéologique à fort potentiel (22.AP.1–22.AP.14).
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
+  - kind: typomorphological-study
+    title: >-
+      Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest — rapport de synthèse,
+      for the Direction de l'aménagement urbain et des services aux entreprises, Division
+      Urbanisme; 2005, mise à jour octobre 2013. It divides the borough into 5 aires de paysage and
+      65 unités de paysage and describes nineteen architectural types on a single fiche template.
+      This is the document the PIIA sends applicants to read.
+    year: 2013
+    url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  - kind: piia
+    title: >-
+      Règlement sur les plans d'implantation et d'intégration architecturale RCA07 22019, amended
+      by RCA08 22014, adopted at the séance of the conseil d'arrondissement of 21 May 2008 under
+      arts. 110.4, 145.15 and 145.16 of the Loi sur l'aménagement et l'urbanisme and art. 131 of
+      the Charte de la Ville de Montréal. Its Annexe B carries seven fascicules d'intervention —
+      Nouveaux bâtiments; Agrandissement d'un bâtiment existant; Transformations et remplacements
+      spécifiques; Immeubles à caractère patrimonial; Commerces de moyenne ou grande surface;
+      Aménagement des toits; Secteurs de surhauteur — and it is the fascicules, not the by-law
+      text, that carry the design criteria. The objective for new construction is typological:
+      « Le nouveau bâtiment doit s’inspirer des caractéristiques typomorphologiques de l’unité de
+      paysage dans lequel il se trouve et contribuer à l’évolution de son milieu d’insertion. »
+    year: 2008
+    url: https://ocpm.qc.ca/sites/default/files/pdf/P34/7c1.pdf
+  - kind: heritage-site-municipal
+    title: >-
+      Site du patrimoine de Côte-Saint-Paul — the one sector in the borough that carried a legal
+      status of its own at the time of the 2005 cahier, constituted under the Loi sur les biens
+      culturels and covering the église Saint-Paul and its presbytery, the former hôtel de ville
+      and the former pensionnat Notre-Dame-du-Rosaire. Recorded here as sector 22.E.15.
+    year: null
+    url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
+  - kind: inventory
+    title: >-
+      Inventaire du patrimoine bâti, art. 120 of the Loi sur le patrimoine culturel — the
+      obligation that took effect on 1 April 2021 and fell due on 1 April 2026, requiring every MRC
+      and agglomeration to inventory its pre-1940 buildings. Listing is not citation or classement,
+      but under art. 148.0.1 of the Loi sur l'aménagement et l'urbanisme an inventoried building
+      falls inside the demolition-control regime. Recorded as an instrument bearing on this
+      borough; the agglomeration-wide inventory is not encoded here.
+    year: 2021
+    url: https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-9.002
+typology_document:
+  title: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest, rapport de synthèse,
+    2005, mise à jour octobre 2013 — nineteen architectural types on one fiche template, of which
+    fifteen are residential
+  year: 2013
+  format: per-type-table
+  note: >-
+    The richest per-type source on this site, and the only one that divides every façade into a
+    socle / corps / couronnement triad. The fiche template is set out on printed p. 17:
+    A Identification; B Contexte de développement et lieux d'occurrence; C.1 Implantation;
+    C.2 Volumétrie; C.3 Matériaux de revêtement; C.4 Traitement de la façade; C.5 Ouvertures;
+    D Variantes. It maps one-to-one onto this site's five profile columns, and the type records
+    below were produced by a parser (sources/sud-ouest/parse.py) rather than transcribed, which is
+    why none of them is empty. 2005 team: Martin Dubois (chargé de projet), Patrick Marmen, Conrad
+    Gallant, Eva-Marie Neumann. 2013 update: Martin Dubois (chargé de projet), Agathe
+    Chiasson-Leblanc, Cindy Morin, Isabelle Bouchard; cartography Marie-Hélène Verdier.
+building_counts:
+  aires_de_paysage: 5
+  unites_de_paysage: 65
+  maisons_villageoises: 38
+  note: >-
+    The two territorial counts are the study's own and are corroborated by the PIIA: « L’arrondissement
+    compte 5 aires de paysage divisées en 65 unités de paysage distinctes. » The 38 is the only
+    building count the study publishes for any type — « On ne retrouve au total que 38 maisons de
+    cette typologie dans l’arrondissement du Sud-Ouest, ce qui lui donne une valeur de rareté » —
+    and it is carried on the maison villageoise record as count_in_place. No other type is counted.
+map_layer: null
+hero_photo:
+  file: assets/places/sud-ouest/escalier-exterieur-711-719-rue-du-couvent-commons.jpg
+  credit: >-
+    Curved exterior stair and wood galleries, 711-719 rue du Couvent, Saint-Henri. Photograph by
+    Jeangagnon, 4 June 2016, Wikimedia Commons, CC BY-SA 3.0.
+    https://commons.wikimedia.org/wiki/File:711-719_rue_du_Couvent.jpg — licence, author and file
+    URL read through the Commons API before download.
+summary_en: >-
+  The borough where the Montréal plex was made, and the one place on this site whose own planning
+  document says so in as many words. The Patri-Arch typo-morphological study reads the whole
+  territory as five landscape areas cut into sixty-five landscape units, and reads the buildings as
+  nineteen architectural types on one template — of which seven are plexes, defined in a single
+  line: « Ces immeubles possèdent de deux à six logements. » Its explanation of the
+  exterior stair is mechanical, not folkloric: the requirement to build behind a front setback,
+  imposed as Montréal began regulating residential construction around 1880, pushed the stair to
+  the upper dwellings out of the building and into the yard. The triplex with exterior stair
+  appears from 1900; the duplex and the multiplex follow. And the borough's design-review by-law
+  turns all of it into a rule — where two typological ensembles meet, a new building
+  « doit choisir clairement une des deux typologies ».

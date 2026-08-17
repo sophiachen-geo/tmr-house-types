@@ -1,0 +1,69 @@
+type_code,section,so_id,unite,caption
+1.1,identification,,4.7,"Maison villageoise typique au 727, rue Lacasse. La marge de recul avant est limitée et un accès latéral permet un accès à la cour arrière. UP4.7_Lacasse_727."
+1.1,implantation,,4.1,Maisons villageoises contiguës dont la marge de recul avant Maison villageoise jumelée dont la volumétrie est typique. La est un peu plus importante. UP4.1_St-Augustin_124-126. galerie occupe toute la largeur du bâtiment et la composition est symétrique. UP4.9_Ste-Margueritte_90-92 (2).
+1.1,materiaux,,4.1,La maison Clermont érigée vers 1870 présente des façades recouvertes de planche et de bardeau de bois ainsi qu’un toit revêtu de tôle. UP4.1_St-Augustin_110.
+1.1,variantes,,,Maison villageoise à deux étages et demi dont les façades sont Maison villageoise à 2.5 étages sans galerie avant. Le toit à revêtues de planches à clins. Elle a également conservé des deux versants est percé par deux lucarnes. ouvertures traditionnelles en bois. UP4.1_Rose-de-Lima_124 UP4.1_Ste-Émilie_3936. (2).
+1.1,variantes,,,Maison villageoise à toit en mansarde. On remarque le Modeste maison villageoise à toit en mansarde. UP4.1_Stpassage latéral donnant accès à la cour arrière. Augustin_96. UP4.1_Bourget_147.
+1.1,variantes,,,Maison villageoise avec lucarne secondaire dans l’unité Sur la rue du Couvent se trouve une petite série de quatre William-Parkin. UP3.19_Dunn_4908. maisons de cette variante. UP4.6_Couvent_751-747.
+1.1,variantes,,,Maison villageoise à toit plat sur la rue Bourassa. UP4.14_Bourassa_705-713.
+1.1,variantes,,,Maison villageoise à toit plat avec fausse mansarde. UP4.14_Vaillant_5097-5099.
+1.2,identification,,,Fig. 1.2.1 : Maison urbaine située sur la rue Coursol entre les
+1.2,identification,SO0243,,"Fig. 1.2.2 : Maison urbaine jumelée avec balcon et fenêtre en rues Vinet et du Dominion. SO0243. saillie, située sur la rue de Rushbrooke entre les rues Charlevoix et d’Hibernia. SO0210."
+1.2,variantes,SO0004,,"Fig. 1.2.4 : Variante isolée de la maison urbaine, avec balcon, Fig. 1.2.5 : Maison urbaine à trois alignements verticaux, 846, située sur la rue du Couvent entre les rues Saint-Antoine Ouest rue Agnès. SO0004. et Saint-Jacques. SO0010."
+1.3,identification,,3.12,"Maison « boomtown » typique située au 5975, rue Hamilton. Autre exemple représentatif situé au 6381, rue Hadley. UP3.12_Hamilton_5975. UP3.8_Hadley_6381."
+1.3,traitement,,,"Exemples de maisons « boomtown » plus ornées sur les rues Beaulieu et Hamilton, comprenant un parapet, des amortissements et des insertions en pierre. UP3.12_Hamilton_5798 et UP3.12_Beaulieu_5985."
+1.3,implantation,,3.16,Maison « boomtown » avec peu de marge de recul par rapport Maison implantée en fond de parcelle et bénéficiant d’une cour à la rue. UP3.16_D'Aragon_5944. avant profonde. UP3.16_Dumas_6599
+1.3,implantation,,3.16,Alignement de maisons « boomtown » sur la rue Hurteau. Implantation contigüe avec petite cour avant. UP3.16_Hurteau_5953. UP3.13_Lacroix_6884.
+1.3,volumetrie,,3.16,Exemple de maison « boomtown » avec galerie frontale. Maison surélevée avec garage au sous-sol. UP3.16_D'Aragon_6017. UP3.13_Lamont_6980.
+1.3,materiaux,,3.16,Maison recouverte de vinyle sur la rue Mazarin. UP3.16_Mazarin_6231.
+1.3,variantes,,,"Exemple de maison « boomtown » implantée en fond de Autre exemple en fond de parcelle, rue Dumas. parcelle. UP3.12_Beaulieu_6959. UP3.16_Dumas_6053."
+1.4,identification,,3.10,"Maison de vétérans typique, au 7034, rue Beaulieu. Maison de vétérans recouverte de brique et coiffée d’un toit en UP3.10_Beaulieu_7034. pavillon. UP3.5_Eadie_5996."
+1.4,traitement,,,Le pignon est souligné par une couleur différente. Façade légèrement asymétrique. UP3.7_Jolicoeur_1725. UP3.7_Jolicoeur_1466.
+1.4,volumetrie,,3.7,"Sur certains modèles, une galerie couverte par le Un petit porche constitue habituellement la seule saillie. prolongement du toit fait saillie. UP3.7_Angers_5980. UP3.7_Angers_6191."
+1.4,volumetrie,,3.7,Maison présentant une fenêtre en saillie ainsi qu’un parement Escalier et porche forment les seules saillies. de brique contemporaine. UP3.7_Holy_Cross_1555. UP3.8_Hadley_6951.
+1.4,materiaux,,3.7,"Cette maison présente plusieurs matériaux de parement sur une même façade : brique, tôle et pierre artificielle. UP3.7_Angers_6170."
+1.4,variantes,,,Maisons de vétérans jumelées. UP3.16_Dumas_6540-6550 et UP3.16_Hurteau_6065-6075.
+1.4,variantes,,,Maisons jumelées de type bungalow. UP2.7_Favard_2135La forme de la maison de vétérans a évolué vers celle du 2145. bungalow. UP3.8_Hadley_6945.
+1.5,identification,,,"Fig. 1.5.1 : Maisons de ville situées sur la rue Lacroix, entre les"
+1.5,identification,SO0344,,"Fig. 1.5.2 : Maisons de ville situées sur la rue Vinet, entre rues Allard et Springland. SO0344. l’avenue Lionel-Groulx et la rue Workman. SO0227."
+2.1,identification,,,"Fig. 2.1.1 : Duplex sans marge de recul, situé sur la rue Grand"
+2.1,identification,SO0182,,"Fig. 2.1.2 : Duplex sans marge de recul, situé sur la rue de Trunk, entre les rues Richmond et Shearer. SO0182. Liverpool, entre les rues de Paris et de Coleraine. SO0216."
+2.1,variantes,SO2497,,"Fig. 2.1.3 : Variante 1 : Duplex avec escalier intérieur de 4 Fig. 2.1.4 : Variante 2 : Duplex jumelé avec porte cochère logements dont la composition de la façade possède trois centrale, situé au 2628-2636, rue Saint-Charles, entre les rues portes jumelées. Il est à noter qu’une seule porte donne accès Charlevoix et D’Argenson. SO2497. aux deux logements de l’étage. Situé entre les rues Knox et Ryde. SO0191."
+2.1,variantes,SO0199,,"Fig. 2.1.5 : Variante 3, maison en rangée construite Fig. 2.1.6 : Variante 3, maisons en rangée construites individuellement, située sur la rue de Coleraine, entre les rues simultanément, situées sur la rue Saint-Antoine Ouest, à Charlevoix et d’Hibernia. SO0199. l’intersection de la rue du Couvent. SO0011."
+2.2,identification,SO0266,,"Fig. 2.2.1 : Duplex avec escalier extérieur, 1903-1905, rue Springland. SO0266."
+2.2,variantes,SO0395,,"Fig. 2.2.2 : Variante 1, duplex avec escalier extérieur Fig. 2.2.3 : Variante 2, duplex avec escalier extérieur à trois asymétrique, 6959, rue Jogues. SO0395. logements, situé sur la rue Eadie, à l’intersection de la rue Jacques-Hertel. SO0297."
+2.3,identification,,,"Fig. 2.3.1 : Duplex surélevé avec portes centrales, situé sur la"
+2.3,identification,SO0342,,"Fig. 2.3.2 : Duplex surélevé avec portes séparées, situé sur la rue Allard, à l’intersection de la rue Lacroix. SO0342. rue Springland, entre les rues Laurendeau et Hadley. SO0260."
+2.4,identification,SO0200,,"Fig. 2.4.1 : Duplex de trois étages sans marge de recul avant, situé sur la rue d’Hibernia, entre les rues de Coleraine et de Rozel, SO0200."
+2.4,traitement,,,"Fig. 2.4.2 : Duplex de trois étages avec marge de recul avant,"
+2.4,traitement,SO0690,,"Fig. 2.4.3 : Duplex de trois étages revêtu de pierre, situé sur la situé au 2225-2247, rue Quesnel. SO0690. rue Mullins, entre les rues Charlevoix et Ropery. SO0163."
+2.4,variantes,SO0247,,"Fig. 2.4.5 : Variante 1, duplex de trois étages avec porte Fig. 2.4.6 : Variante 1, duplex de trois étages avec porte cochère, situés au 6837-6843, rue Laurendeau, à l’intersection cochère et construits en série, situés sur la rue de la Montagne, de l’avenue Clifford. SO0247. entre les rues Ottawa et Wellington. SO0095."
+2.4,variantes,SO0178,,"Fig.2.4.7 : Variante 2, triplex avec toit en fausse mansarde et Fig. 2.4.8 : Variante 2, triplex avec toit en fausse mansarde et portes jumelées. portes séparées, situé sur la rue Mullins, à l’intersection de la rue Richmond. SO0178."
+2.5,identification,SO0085,,"Fig. 2.5.1 : Deux triplex jumelés avec escalier intérieur et portes assemblées au centre, situés sur la rue Murray, entre les rues William et Ottawa. SO0085."
+2.5,variantes,SO0021,,"Fig. 2.5.2 : Variante 1, triplex avec escalier intérieur et entrée Fig. 2.5.3 : Variante 2, triplex avec escalier intérieur avec coin commune pour les logements supérieurs (bâtiment jumelé) tronqué, situé sur la rue Saint-Philippe, entre les rues Saintsitué sur la rue Sainte-Émilie, entre les rues Turgeon et Antoine Ouest et Saint-Jacques. SO0021. Bourget. SO0119."
+2.5,variantes,SO0120,,"Fig. 2.5.4 : Variante 3, triplex avec escalier intérieur et porte cochère, situé sur la rue Sainte-Émilie, entre les rues Turgeon et Bourget. SO0120."
+2.6,identification,,,"Fig. 2.6.1 : Triplex avec escalier extérieur, situé au 872-880,"
+2.6,identification,SO0003,,"Fig. 2.6.2 : Triplex asymétrique, situé sur l’avenue Greene rue Agnès. SO0003. entre les rues Saint-Antoine Ouest et Saint-Jacques. SO0110."
+2.6,ouvertures,,,"Fig. 2.6.3 : Triplex symétrique, situé sur la rue York, à"
+2.6,ouvertures,SO0405,,"Fig. 2.6.4 : Triplex avec portes d’entrée du premier étage dans l’intersection de la rue De Roberval. SO0405. un alignement latéral, situé sur la rue du Square-Sir-GeorgeÉtienne-Cartier, entre les rues Notre-Dame Ouest et SainteÉmilie. SO0135."
+2.6,variantes,SO0409,,"Fig. 2.6.5 : Triplex avec escalier extérieur jumelé, situé du côté est de la rue Desnoyers, à l’intersection de la rue Cazelais. SO0409."
+2.7,identification,SO0138,,"Fig. 2.7.1 : Multiplex situé sur la rue Delinelle, entre les rues Notre-Dame Ouest et Depocas. SO0138."
+2.7,ouvertures,,,"Fig. 2.7.2 : Multiplex situé sur la rue de Rozel, entre les rues"
+2.7,ouvertures,SO0204,,"Fig. 2.7.3 : Multiplex avec porche en alcôve au premier étage, Butler et Charlevoix. SO0204. situé sur la rue Soulanges, entre les rues du Centre et Grand Trunk. SO0175."
+3.1,identification,SO0321,,"Fig. 3.1.1 : Maison d’appartements située au 6661-6667, rue Hurteau. SO0321."
+3.1,ouvertures,,,"Fig. 3.1.2 : Maison d’appartements située au 1701-1705, rue"
+3.1,ouvertures,SO0244,,"Fig. 3.1.3 : Maison d’appartements avec saillie couronnée d’un Allard. SO0244. pignon, située du côté ouest de la rue Beaulieu, entre les rues Raudot et Allard. SO0374."
+3.2,identification,,,"Fig. 3.2.1 : Conciergerie, située sur la rue Vinet, à l’intersection"
+3.2,identification,SO0225,,Fig. 3.2.2 : Conciergerie du boulevard des Trinitaires. de l’avenue Lionel-Groulx. SO0225.
+3.2,traitement,SO1071,,"Figure 3.2.3 : Conciergerie, 1960-1970, rue Le Ber. SO1071."
+3.3,identification,SO1084,,"Fig. 3.3.1 : Immeuble d’appartements, rue Dick-Irvin. SO1084."
+3.3,identification,SO3051,,"Fig. 3.3.2 : Immeuble d’appartements, Habitation Charlebois, 4450, rue Saint-Jacques. SO3051."
+4,identification,,,"Fig. 4.1.1 : Immeuble à vocation mixte. Édifice O.-Labelle,"
+4,identification,SO1706,,"Fig. 4.1.2 : Immeuble à vocation mixte. Coop du coin, 11242463-2473, rue du Centre, entre les rues Ropery et Charlevoix. 1130, rue Charlevoix et 2602-2612, rue de Châteauguay. SO1706. SO1679."
+4,variantes,SO3530,,"Figure 4.1.6 : Variante 1, multiplex transformé en immeuble à vocation mixte, 7005, rue Jogues. SO3530."
+5,identification,,,"Fig. 5.1.1 : Édifice de la banque Laurentienne, situé sur le"
+5,identification,SO3638,,"Fig. 5.1.2 : Bâtiment du boulevard Monk, entre les rues Allard boulevard Monk, à l’intersection de la rue du Parc-Garneau. et Springland. SO3638. SO3635."
+6,identification,,,"Fig. 6.1.1 : Merchants Manufacturing Co., 4000-4020, rue"
+6,identification,SO1606,,"Fig. 6.1.2 : Édifice de Postes Canada, 225, rue Bridge. Saint-Ambroise, entre les rues Saint-Augustin et Louis-Cyr. SO1606. SO1589."
+7,identification,SO1526,,"Fig. 7.1.1 : Marché Atwater, 110-154, avenue Atwater. SO1526."
+7,identification,SO1610,,"Fig. 7.1.2 : Grace Church, 625, rue Fortune. SO1610."

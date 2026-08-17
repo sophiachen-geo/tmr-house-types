@@ -1,0 +1,78 @@
+- id: ve-evaluation-2005
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+    développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine urbain :
+    arrondissement de Verdun », 2005 (ISBN 2-7647-0464-X; dépôt légal BNQ and BNC 2005). One of a series of
+    27 cahiers, one per arrondissement. Work carried out January 2003 – May 2004 under Jean-François Gravel,
+    chef de division, for the Plan d'urbanisme adopted by the conseil municipal on 23 November 2004;
+    direction Céline Topp. Built-heritage and historical research: Julie Boivin, Elizabeth Bonner,
+    Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre and Pierre-Paul Savignac, architects, with Denise
+    Caron, historian. Archaeology: Claire Mousseau with Françoise Duguay, François Bélanger, Anne-Marie
+    Balac and Christian Roy. Everything on this page marked as source text comes from this document.
+  url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+  used_for: [sectors, types, phases, prose, framework]
+- id: ve-memento-reglements
+  citation: >-
+    Héritage Montréal, Memento — « Règlements d'urbanisme, Ville de Montréal », the borough-by-borough index
+    of planning by-laws. For Verdun it gives: Règlement de zonage no 1700; Règlement de lotissement no 1751;
+    Règlement de construction no 1750; Règlement sur les certificats d'autorisation et d'occupation
+    RCA08 210004; Règlement régissant la démolition d'immeubles RCA21 210020. It lists no separate PIIA
+    by-law for Verdun, which is consistent with the PIIA living in chapter 9 of the zoning by-law.
+  url: https://memento.heritagemontreal.org/boite-a-outils/references-urbanisme-et-reglementation/reglements-durbanisme-ville-de-montreal/
+  used_for: [instruments]
+- id: ve-modernisation-piia
+  citation: >-
+    Ville de Montréal, « Modernisation de la réglementation d'urbanisme à Verdun » — the borough's own page
+    on projet de règlement RCA22 210015P1 (PIIA) and its companion RCA22 210014P (zoning, replacing
+    chapter 9). Notice of motion and adoption of the draft 6 December 2022; public notice 15 December 2022;
+    public consultation assembly 10 January 2023; adoption 7 February 2023. Distinguishes « un PIIA de
+    portée générale s'appliquant à l'ensemble du territoire » from « un PIIA de portée spécifique pour
+    certains secteurs », and adds « des objectifs et des critères relatifs au verdissement des terrains et
+    des toitures », universal accessibility, and the effect of rooftop additions on the surrounding fabric.
+  url: https://montreal.ca/articles/modernisation-de-la-reglementation-durbanisme-verdun-43082
+  used_for: [instruments]
+- id: ve-ccu-demolition
+  citation: >-
+    Ville de Montréal, « Comité consultatif d'urbanisme de Verdun » — records that following the adoption of
+    the Règlement régissant la démolition d'immeubles de l'arrondissement de Verdun (RCA21 210020) the CCU
+    members sit as the borough's comité de démolition.
+  url: https://montreal.ca/articles/comite-consultatif-durbanisme-de-verdun-10177
+  used_for: [instruments]
+- id: ve-tarifs-2020
+  citation: >-
+    Arrondissement de Verdun, Règlement sur les tarifs (exercice financier 2020), RCA19 210007, amended by
+    RCA20 210002. Its PIIA schedule carries a fee reserved for the study of a request to enlarge the roof
+    volume of a "wartime"-type house in order to add habitable space — $265 in the 2020 edition, $150 and
+    $153 in neighbouring editions. NOT RETRIEVED: the by-law text is indexed but the Ville's legacy
+    document tree at ville.montreal.qc.ca/pls/portal returns 404 for every path tried, the 311 information
+    bank now redirects in a loop, and web.archive.org is unreachable from this environment. The fee is
+    therefore stated in English on this site and no French is quoted for it. Replacing this with the primary
+    text is a Part 10b task.
+  url: null
+  used_for: [instruments, prose]
+- id: ve-mairesduquebec
+  citation: >-
+    Mairesduquebec.com, municipal-status record for Verdun (ville), 1.1.1875 – 1.1.2002: village de la
+    Rivière Saint-Pierre created 1 January 1875 by detachment from the paroisse Notre-Dame; renamed village
+    de Verdun 28 December 1876; ville de Verdun 14 March 1907; cité de Verdun 21 December 1912; annexed to
+    Montréal 1 January 2002. Used only to date the corporate history, where the 2005 cahier is internally
+    inconsistent — see ## notes.
+  url: http://www.mairesduquebec.com/mairesduquebec/munic.php?id=2974
+  used_for: [prose]
+- id: ve-legifrance-spr
+  citation: >-
+    Arrêté du 13 avril 2022 portant classement du site patrimonial remarquable de Verdun (Meuse, France),
+    JORF 16 April 2022. Cited only for the /glossary/ disambiguation: the French commune of Verdun has its
+    own heritage designation and is unrelated to the Montréal borough.
+  url: https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000045591708
+  used_for: [glossary]
+- id: ve-commons
+  citation: >-
+    Wikimedia Commons. Five photographs, each checked individually through the MediaWiki API
+    (action=query&prop=imageinfo&iiprop=url|extmetadata) before download, on 17 August 2026; author,
+    licence and file URL are written into each credit string. Categories used: Multiplexes (buildings),
+    Verdun (Montreal), Crawford-Park, 100 rue De Gaspé, 201 rue Corot, Boulevard LaSalle. Category:External
+    staircases was examined and is not usable — it is a worldwide fire-escape category with no Canadian
+    subcategory and no Montréal content.
+  url: https://commons.wikimedia.org/wiki/Category:Verdun_(Montreal)
+  used_for: [photos]

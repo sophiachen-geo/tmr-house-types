@@ -1,0 +1,104 @@
+id: villeray-saint-michel-parc-extension.plex-milieu-20e
+place: villeray-saint-michel-parc-extension
+page: 67
+phase: p4
+phase_confidence: verified
+name_en: Plex of the mid-20th century
+name_fr: Plex du milieu du 20e siècle
+source_ref: "Règlement 01-283-124, Annexe F, fiche 2.2"
+source_generation: >-
+  By-law Annexe F, fiche 2.2, pp. 2.2.1 to 2.2.5, transcribed verbatim
+sectors: [14.I.3]
+canonical:
+  - plex-family
+  - duplex-exterior-stair
+  - triplex-exterior-stair
+styles:
+  - minimal-traditional
+  - stripped-classicism
+tenure_plan: mixed
+storeys: 3
+roof: {form: flat, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - clay-brick
+  - stone
+roofing: null
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+variants:
+  - code: A
+    name_fr: Plex avec escalier intérieur
+    summary_fr: "Ce plex présente une volumétrie de deux étages. L’escalier permettant l’accès au logement de l’étage est situé à l’intérieur."
+  - code: B
+    name_fr: Plex avec usage commercial au rez-de-chaussée
+    summary_fr: "Ce plex présente un rez-de-chaussée à usage commercial situé près du sol. Il y a une transition dans le traitement architectural entre les usages commerciaux et résidentiels. Lorsqu’implanté sur un coin de rue, le volume est souvent tronqué sur le coin, et de grandes ouvertures sont situées près de l’intersection."
+profile:
+  siting_landscape:
+    - Generally sited contiguously or semi-detached, with a shallow to medium front margin.
+    - Sometimes built in series, so runs of very uniform appearance are not rare on certain streets.
+  massing:
+    - Two or three storeys, a rectangular plan, a flat roof — the L-plan light court of the earlier fiche is gone.
+    - The ground floor is slightly raised above the street.
+  articulation:
+    - The façade composition is generally symmetrical, with the dwelling doors centred.
+    - Projections punctuate the façade, above all balconies at every level; the curved stair up to the storey remains an architectural characteristic of the type.
+    - A marquise may cover the top-floor balcony.
+    - These buildings carry little ornament. A stone door architrave, sometimes glass-block insertions or stone ornaments.
+    - The parapet is generally straight and often crowned by a projecting eave — the period's signature, in the by-law's own reading.
+  openings:
+    - Windows aligned vertically.
+  materials:
+    - Cladding generally composed of sections of brick or of stone — the combination of two claddings on one façade is what the fiche calls typical of the period.
+profile_fr:
+  contexte:
+    - "Après la Seconde Guerre mondiale, Villeray connaît un boom domiciliaire significatif, avec la construction de nombreux plex. Les caractéristiques architecturales des plex de cette période évoluent par rapport à leurs prédécesseurs : les façades deviennent plus simples et présentent moins de travail d’artisan. À cette époque, il est fréquent de combiner deux parements, soit de la pierre et de la brique, sur une même façade. Un élément assez typique de cette époque est l’avant-toit qui couronne le haut du parapet."
+  implantation:
+    - "Les bâtiments sont généralement implantés de manière contiguë ou jumelée, et leur marge avant est d’une profondeur faible à moyenne. Ces plex étaient parfois construits en série et il n’est pas rare de trouver des ensembles d’apparence très uniforme sur certaines rues."
+  volumetrie:
+    - "Les bâtiments ont deux ou trois étages, un plan rectangulaire et un toit plat. Le rez-de-chaussée est légèrement surélevé par rapport à la rue."
+  traitement_des_facades:
+    - "La composition de la façade est généralement symétrique : les portes des logements sont centrées et les fenêtres sont alignées verticalement."
+    - "La façade est ponctuée de saillies, notamment des balcons à tous les étages. L’escalier courbe permettant l’accès à l’étage est une caractéristique architecturale de cette typologie. Un auvent peut recouvrir le balcon du dernier étage."
+    - "Ces bâtiments présentent peu d’ornementation. Le parement est généralement composé de sections de brique ou de pierre. Il y a un chambranle de porte en pierre et, parfois, des insertions de blocs de verre ou d’ornements en pierre. Le parapet est généralement droit et souvent couronné d’un avant-toit."
+  sous_variantes:
+    - "A — PLEX AVEC ESCALIER INTÉRIEUR. Ce plex présente une volumétrie de deux étages. L’escalier permettant l’accès au logement de l’étage est situé à l’intérieur."
+    - "B — PLEX AVEC USAGE COMMERCIAL AU REZ-DE-CHAUSSÉE. Ce plex présente un rez-de-chaussée à usage commercial situé près du sol. Il y a une transition dans le traitement architectural entre les usages commerciaux et résidentiels. Lorsqu’implanté sur un coin de rue, le volume est souvent tronqué sur le coin, et de grandes ouvertures sont situées près de l’intersection."
+profile_note: >-
+  The middle term of the plex sequence, and the one that shows what the borough thinks changed. The
+  envelope, the siting, the balconies and the curved exterior stair all survive from fiche 2.1; what
+  goes is « le travail d'artisan » — the brick bond patterns, the worked lintels and sills, the
+  pedimented parapet. What arrives is a straight parapet under a projecting eave, glass block, and
+  the two-cladding façade of brick and stone together, which the fiche says is frequent in this
+  period. The variant set shrinks from five to two, and the two that remain are the two that recur
+  across all three plex fiches: the interior-stair version and the ground-floor shop. Note that the
+  curved exterior stair is described as « une caractéristique architecturale de cette typologie »
+  here, where fiche 2.1 called it « une caractéristique architecturale <em>importante</em> » — the
+  by-law's own quiet demotion.
+photos:
+  - file: null
+    credit: >-
+      Règlement 01-283-124, Annexe F, pp. 2.2.2 and 2.2.4–2.2.5 — elevation drawings of the typologie
+      de base and of variants A and B. © Ville de Montréal. Not reproduced. No freely-licensed
+      photograph identified as a mid-century plex in this borough was found on Wikimedia Commons in
+      this pass, and the photograph used on fiche 2.1 is not offered here, because the distinction
+      between the two fiches is precisely the ornament that photograph shows.
+    kind: placeholder
+    licence: permission required
+    source_url: https://portail-m4s.s3.montreal.ca/pdf/R%C3%A8glement%2001-283-124%20-%20Fiches%20typologies.pdf
+blurb_en: >-
+  The post-war plex: the same two or three storeys of stacked flats on the same narrow lot, still
+  with a door per dwelling, balconies at every level and a curved stair to the upper one — but the
+  craftsmanship gone. A straight parapet under a projecting eave instead of a pedimented one, a
+  stone door surround instead of worked brick, and a façade combining two claddings, brick and
+  stone, which is what the by-law says marks the period.
+origin_en: >-
+  Villeray's post-war housing boom is recorded twice in this record and the two records disagree
+  about nothing: the Évaluation cahier says the borough filled with « des blocs comptant quelques
+  appartements, des maisons de vétérans et différents "plex" », and this fiche is the plex half of
+  that sentence. Read against fiche 2.1 it is the clearest before-and-after pair anywhere in this
+  part — same type, same street pattern, one generation apart, with the difference stated as a loss
+  of artisan work rather than as a change of form.

@@ -1,0 +1,238 @@
+# Transcribed from Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement de Verdun »
+# (2005), §3.2.2 A « Les secteurs de valeur patrimoniale exceptionnelle », pp. 25–29. The codes are
+# the document's own and are read from inside the PDF, not from its filename: the cahier is published
+# as 24_evaluation_patrimoine_ver.pdf but every code inside it begins 21. summary_fr is the source
+# text verbatim, with the hyphenation lost to the two-column PDF extraction restored.
+#
+# Only the seven exceptional-value sectors (nine records, since 21.E.1 is printed in three lettered
+# parts) are encoded here. The cahier also carries 21.I.1–21.I.10 (valeur intéressante), 21.U.1
+# (ensemble urbain d'intérêt, île des Sœurs) and 21.AP.1–21.AP.2 (secteurs d'intérêt archéologique à
+# fort potentiel: île des Sœurs, zone côtière). Those are Part 10b — see ## notes for what they say.
+- id: coeur-institutionnel-et-commercant
+  code: 21.E.1A
+  name_fr: Le cœur institutionnel et commerçant
+  value: exceptional
+  summary_en: The intersection of rue Wellington and rue de l'Église is Verdun's institutional and commercial
+    heart. It holds the église Notre-Dame-des-Sept-Douleurs, the académie Saint-Joseph, the Chalmers United
+    Church, St. Clement's Anglican Church, the former city hall and the branches of the main banking institutions.
+    The sector therefore contains an ensemble of major buildings with majestic stone façades, worked brick
+    cladding, inserted artwork and large windows. Several of these buildings are the work of architects well
+    known across the metropolitan region.
+  summary_fr: L'intersection des rues Wellington et de l'Église constitue le cœur institutionnel et commerçant
+    de Verdun. On y retrouve l'église Notre-Dame-des-Sept-Douleurs, l'académie Saint-Joseph, l'église Unie
+    Chalmers, l'église anglicane St. Clement, l'ancien hôtel de ville et les succursales des principales institutions
+    bancaires. Le secteur abrite ainsi un ensemble de bâtiments majeurs avec des façades en pierre majestueuses,
+    du parement de brique ouvragé, des insertions d'art et de vastes fenêtres. Plusieurs de ces immeubles
+    sont des œuvres d'architectes connus de la région métropolitaine.
+  streets:
+  - rue Wellington
+  - rue de l'Église
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 25
+  note: The two photo captions on this page are « l'église et le presbytère de Notre-Dame-des-Sept-Douleurs »
+    and « La résidence LaSalle, toujours occupée par les Frères du Sacré-Cœur ». The sector is institutional
+    and commercial; the housing of 21.E.1B sits above the shops.
+- id: rue-wellington
+  code: 21.E.1B
+  name_fr: La rue Wellington
+  value: exceptional
+  summary_en: Along its whole length rue Wellington is a major axis of Verdun's commercial life. It is lined
+    with an ensemble of generally three-storey buildings, occupied at ground level by shops and on the upper
+    floors by dwellings. Access to the commercial spaces is level with the street. The shopfronts are tall
+    and carry a transom, and the commercial storey is set off from the residential storeys by an elaborate
+    cornice. Because the buildings are built right up to the property line, an original typology developed
+    in order to give the dwellings alcove balconies. The façades are generally of brick with insertions of
+    worked stone at the lintels, jambs and sills.
+  summary_fr: Sur toute sa longueur, la rue Wellington constitue un axe majeur de la vie commerçante de Verdun.
+    On y retrouve un ensemble de bâtiments généralement de trois étages, occupés au rez-de-chaussée par des
+    commerces et aux étages par des logements. L'accès aux espaces commerciaux est de plain-pied. Les vitrines
+    commerciales sont hautes et dotées d'un tympan, et l'étage commercial est démarqué des étages résidentiels
+    par une corniche élaborée. Les immeubles étant construits à la limite de la propriété, une typologie
+    originale s'est développée pour doter les logements de balcons en alcôve. Les façades sont généralement
+    en brique avec des insertions de pierre travaillée aux linteaux, jambages et allèges.
+  streets:
+  - rue Wellington
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 26
+  note: >-
+    The decisive sentence for this site is « une typologie originale s'est développée pour doter les
+    logements de balcons en alcôve » — a balcony recessed into the wall plane rather than projecting
+    from it, invented because building to the property line left nowhere to project into. The cahier
+    calls it an original typology in so many words; it is the one clearly Verdun-specific residential
+    invention the document names. The same alcove balcony recurs in 21.I.5 and 21.I.6 on rue de Verdun.
+- id: rue-de-leglise
+  code: 21.E.1C
+  name_fr: La rue de l'Église
+  value: exceptional
+  summary_en: As one of Verdun's founding routes, rue de l'Église holds the oldest commercial buildings. Fifty
+    feet wide, with buildings on both sides erected right on the property line, the street projects a strongly
+    urban image. The buildings that line it show a great variety of characteristics, making up an eclectic
+    composition. The façade claddings are brick or stone, and the façades are generally ornamented. The general
+    height of the buildings is three storeys and the ground floors are at ground level.
+  summary_fr: Comme tracé fondateur de Verdun, la rue de l'Église compte les plus anciennes constructions
+    commerciales. D'une largeur de cinquante pieds et avec des constructions de part et d'autre érigées à
+    la limite de la propriété, cette rue projette une image très urbaine. Les bâtiments qui la bordent présentent
+    une grande variété de caractéristiques, créant une composition éclectique. Les parements de façade sont
+    la brique ou la pierre, et les façades sont généralement ornementées. La hauteur générale des bâtiments
+    est de trois étages et les rez-de-chaussée sont au niveau du sol.
+  streets:
+  - rue de l'Église
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 26
+  note: Rue de l'Église is one of the two tracés fondateurs the cahier identifies for Verdun — « le chemin
+    de la côte Saint-Paul (chemin du Pavillon, puis rue de l'Église) »; the other is « le chemin de la rivière
+    Saint-Pierre ou chemin de Lachine (Lower Lachine Road, puis boulevard LaSalle) ».
+- id: avenue-desmarchais
+  code: 21.E.2
+  name_fr: L'avenue Desmarchais
+  value: exceptional
+  summary_en: Avenue Desmarchais presents an exceptional and distinctive environment. Its broad landscaped
+    median helps create a more open atmosphere. On either side are two-storey dwellings of various typologies,
+    notably ensembles of two semi-detached duplexes or of three-dwelling buildings in which the largest dwelling
+    is on the ground floor. The whole has a fine homogeneity. The level of the ground floor is much the same
+    along the entire avenue. The buildings are clad in brick with tall vertical windows ornamented with stained
+    glass, often combined in groups of two or three. Deep balconies with refined woodwork adorn the façades.
+  summary_fr: L'avenue Desmarchais présente un environnement exceptionnel et particulier. Son large terre-plein
+    paysagé contribue à créer une atmosphère plus dégagée. De chaque côté, on trouve des habitations de deux
+    étages de diverses typologies, notamment des ensembles de deux duplex jumelés ou à trois logements dont
+    le plus vaste est au rez-de-chaussée. L'ensemble présente une belle homogénéité. Le niveau du rez-de-chaussée
+    est sensiblement uniforme sur toute l'avenue. Les bâtiments sont à parement de brique avec de hautes
+    fenêtres verticales et ornées de vitraux, souvent combinées en groupes de deux ou trois. Des balcons
+    profonds aux boiseries raffinées ornent les façades.
+  streets:
+  - avenue Desmarchais
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 26
+  note: >-
+    The page's photo caption reads « 21.E.2 Duplex de l'avenue Desmarchais ». Note what the sector text
+    does not say — nothing about stairs. The exterior stair that defines the northern half of Verdun is
+    absent from both descriptions of exceptional-value residential fabric; see the type record « Deux
+    duplex jumelés ou à trois logements ».
+- id: voisinage-moffat
+  code: 21.E.3
+  name_fr: Le voisinage Moffat
+  value: exceptional
+  summary_en: This sector is exceptional by reason of its great uniformity of typology and of state of conservation.
+    Here too the buildings are clad in brick with tall vertical windows ornamented with stained glass, often
+    combined in groups of two or three. Deep balconies with refined woodwork adorn the façades.
+  summary_fr: Ce secteur est exceptionnel en raison de sa grande uniformité de typologie et d'état de conservation.
+    Les bâtiments sont, ici aussi, à parement de brique avec de hautes fenêtres verticales et ornées de vitraux,
+    souvent combinées en groupes de deux ou trois. Des balcons profonds, aux boiseries raffinées, ornent
+    les façades.
+  streets:
+  - rue Moffat
+  - rue Manning
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 27
+  note: The two streets are named only in the photo captions — « 21.E.3 Ensemble résidentiel, rue Manning »
+    and « 21.E.3 Ensemble résidentiel, rue Moffat ». The fiche is the shortest of the nine and works entirely
+    by back-reference — « ici aussi » — to avenue Desmarchais; the two sectors carry one building description
+    between them.
+- id: hopital-douglas
+  code: 21.E.4
+  name_fr: L'hôpital Douglas
+  value: exceptional
+  summary_en: Founded in 1881, the "Protestant Lunatic Asylum" forms a vast island of greenery within the
+    urban fabric that surrounds it. The campus also counts nearly 30 buildings, among them the pavillon Perry,
+    the salle Douglas (built in 1912 and restored in 2001) and the pavillon Dobell, built in 1916.
+  summary_fr: Fondé en 1881, le « Protestant Lunatic Asylum » constitue un vaste îlot de verdure dans le tissu
+    urbain qui l'entoure. Ce campus compte aussi près de 30 immeubles, dont le pavillon Perry, la salle Douglas
+    (construite en 1912 et restaurée en 2001) et le pavillon Dobell, construit en 1916.
+  streets:
+  - boulevard LaSalle
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 27
+  note: An institutional campus; no residential type record attaches to it. The cahier's list of immeubles
+    de valeur patrimoniale exceptionnelle gives its address as 6875, boulevard LaSalle — « Protestant Hospital
+    for the Insane ». Elsewhere the cahier records that the institution acquired the Hadley farms in 1887 and
+    later a Greenshields farm.
+- id: voisinage-crawford
+  code: 21.E.5
+  name_fr: Le voisinage Crawford
+  value: exceptional
+  summary_en: A few years before the Second World War the government enacted the "National Housing Act". New
+    housing typologies took shape within that framework, and in particular the mass-produced single-family
+    dwelling. The voisinage Crawford offers an exceptional example of this new kind of urban intervention,
+    made up of one-and-a-half-storey buildings clad in brick. These buildings were built on the basis of prize-winning
+    architectural plans. The homogeneity of the heights, the materials, the roof pitches, the mode of siting
+    and the landscaping contributes to the quality of the ensemble. Here the orthogonal street grid is abandoned.
+  summary_fr: Quelques années avant la Seconde Guerre mondiale, le gouvernement promulgue le « National Housing
+    Act ». De nouvelles typologies d'habitation prendront forme dans ce cadre, et plus particulièrement l'habitation
+    unifamiliale de masse. Le voisinage Crawford offre un exemple exceptionnel de ce nouveau type d'intervention
+    urbaine, constitué d'immeubles d'un étage et demi recouverts d'un parement de brique. Ces immeubles ont
+    été construits sur la base de plans d'architecture primés. L'homogénéité des hauteurs, des matériaux,
+    des pentes de toit, du mode d'implantation et du paysagement contribue à la qualité de l'ensemble. On
+    abandonne ici la trame de rues orthogonale.
+  streets:
+  - rue Fayolle
+  - rue Truman
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 28
+  note: >-
+    The two streets come from the photo captions — « 21.E.5 Le développement Crawford Park, rue Fayolle »
+    and « rue Truman ». The cahier repeats the whole description almost word for word at 21.I.9, « Un projet
+    "National Housing Act" », for a second NHA scheme built « suivant les mêmes typologies que dans le secteur
+    Crawford » but « inscrit dans la trame de rues orthogonale de la ville » and laid out around a park; and
+    it records at 21.I.10 that « la typologie "War Time" dans un projet intégré décrite précédemment s'est
+    aussi implantée dans ce secteur, sur des terrains lotis préalablement selon une trame conventionnelle ».
+    Three occurrences of one form, and the cahier distinguishes them by street layout, not by house.
+- id: ile-des-soeurs
+  code: 21.E.6
+  name_fr: L'île des Sœurs
+  value: exceptional
+  summary_en: The urban planning of this sector of île des Sœurs was worked out in collaboration with the
+    internationally renowned architect Ludwig Mies van der Rohe. Three residential towers by the architect
+    are also found there, as well as the Esso company's filling station. Van der Rohe is also the author,
+    in Montréal, of the Westmount Square complex and of the Saidye Bronfman Centre. The urban planning of
+    île des Sœurs rests on building tall so as to free up larger areas of ground (parks, community spaces
+    and so on), on public development of the shoreline, on a separation between pedestrian and automobile
+    circulation, and on an orientation of the buildings that allows views through to the river. It is these
+    urban elements that characterise the sector.
+  summary_fr: La planification urbaine de ce secteur de l'île des Sœurs a été élaborée en collaboration avec
+    l'architecte de réputation internationale Ludwig Mies van der Rohe. On y retrouve aussi trois tours d'habitation
+    de l'architecte ainsi que la station d'essence de la pétrolière Esso. Van der Rohe est aussi l'auteur,
+    à Montréal, du complexe Westmount Square et du Centre Saidye Bronfman. La planification urbaine de l'île
+    des Sœurs repose sur la construction en hauteur dégageant de plus grands espaces au sol (parcs, espaces
+    communautaires, etc.), l'aménagement public de la berge, une séparation entre la circulation piétonne
+    et la circulation automobile, et une orientation des bâtiments permettant les percées visuelles sur le
+    fleuve. Ce sont ces éléments urbains qui caractérisent ce secteur.
+  streets:
+  - rue Corot
+  - rue De Gaspé
+  - rue Berlioz
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 28
+  note: >-
+    The three towers and the filling station are named with their addresses in the cahier's own list of
+    immeubles de valeur patrimoniale exceptionnelle: « 201, rue Corot — Habitations multiples – Mies van
+    der Rohe »; « 100 et 200, rue De Gaspé — Habitations multiples – Mies van der Rohe »; « 201, rue Berlioz
+    — Station-service Esso – Mies van der Rohe ». The document spells the name two ways: the body text of
+    this fiche and the immeubles list give « Mies van der Rohe », while the photo captions on this page and
+    the §3.1 text give « Mies van de Rohe ». The correct form is used in the records here and the source's
+    slip is recorded rather than reproduced. The cahier also carries a separate ensemble urbain d'intérêt,
+    21.U.1 L'île des Sœurs, for the later development « dans le prolongement du plan d'implantation original ».
+- id: secteur-de-laqueduc
+  code: 21.E.7
+  name_fr: Le secteur de l'aqueduc
+  value: exceptional
+  summary_en: 'In Verdun the aqueduct sector takes in the essential part of the canal itself. The land occupied
+    today by the plant was originally Verdun''s. The aqueduct canal sector forms part of a larger sector that
+    also overlaps the boroughs of LaSalle and Le Sud-Ouest. In 1852 the design of a new water-supply scheme
+    was entrusted to the engineer Thomas C. Keefer. That scheme included the digging of a 2.4 km canal bringing
+    water drawn upstream of the Lachine rapids to the Pavillon des roues, which stood where the Atwater filtration
+    plant is now. Today, at the ends of the canal — widened twice — stand the pumping station built in 1923
+    and the filtration plant ordered by the municipal council after the typhoid epidemic of 1910. Montréal''s
+    aqueduct system is a formidable work of engineering that bears witness to the history of technological
+    advance and to the management of public-health and fire-fighting problems. On that count it deserves recognition
+    as exceptional heritage.'
+  summary_fr: À Verdun, le secteur de l'aqueduc comprend l'essentiel du canal lui-même. Le territoire occupé
+    aujourd'hui par l'usine était à l'origine verdunois. Le secteur du canal de l'aqueduc fait partie d'un
+    secteur plus grand qui chevauche aussi les arrondissements de LaSalle et du Sud-Ouest. En 1852, on confie
+    la conception d'un nouveau plan d'approvisionnement en eau à l'ingénieur Thomas C. Keefer. Ce plan comprend
+    le creusage d'un canal de 2,4 km qui amène l'eau puisée en amont des rapides de Lachine au Pavillon des
+    roues, qui était situé à l'emplacement de l'actuelle usine de filtration Atwater. Aujourd'hui, aux extrémités
+    du canal, élargi à deux reprises, on retrouve la station de pompage construite en 1923 et l'usine de filtration
+    commandée par le conseil municipal à la suite de l'épidémie de typhoïde de 1910. Le système d'aqueduc
+    de Montréal constitue une formidable œuvre d'ingénierie qui témoigne de l'histoire des avancements technologiques
+    et de la gestion des problématiques de santé publique et de lutte contre les incendies. À ce titre, il
+    mérite une reconnaissance comme patrimoine exceptionnel.
+  streets: []
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), §3.2.2 A, p. 29
+  note: >-
+    Infrastructure, not housing, but it is the reason Verdun has the shape it has: « Le canal de l'aqueduc
+    délimite le territoire final de la ville de Verdun. Des terres concédées à l'origine en bordure du fleuve
+    et qui débordaient au-delà du tracé actuel de l'aqueduc, seule la portion au sud dudit canal demeurera
+    partie de la ville constituée. » The sector is shared with LaSalle and Le Sud-Ouest, so the same ground
+    will carry a 22.E.n code in the Sud-Ouest cahier.

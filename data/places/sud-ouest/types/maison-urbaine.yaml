@@ -1,0 +1,197 @@
+# Written by sources/sud-ouest/encode_types.py — edit that file, not this one.
+# profile_fr is verbatim Patri-Arch; the English profile, blurb and origin are ours.
+id: sud-ouest.maison-urbaine
+place: sud-ouest
+page: 49
+phase: p3
+phase_confidence: verified
+name_en: Urban house
+name_fr: La maison urbaine
+courant: 1. La maison unifamiliale
+source_ref: >-
+  Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre 2013),
+  type 1.2 — La maison urbaine, printed p. 49
+source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+source_generation: >-
+  Parsed from the study's own fiche by sources/sud-ouest/parse.py and written by sources/sud-ouest/encode_types.py.
+  profile_fr is the source text verbatim, section by section; C.4 is split into Patri-Arch's socle /
+  corps / couronnement triad and each entry is labelled with the division it belongs to. The English
+  profile is ours.
+sectors:
+- 22.E.4
+- 22.E.5
+- 22.E.11
+- AIRE-1
+canonical:
+- faubourg-house-flat-roof
+styles:
+- victorian-eclectic
+- second-empire
+tenure_plan: single-family
+storeys: 2
+roof:
+  form: false-mansard
+  pitch_deg: null
+window_proportion: vertical-2to1
+principal_cladding:
+- clay-brick
+- cut-stone
+- stone-rusticated
+roofing: slate or sheet metal on the false mansard
+garage: none
+lot_width_m: null
+setback_front_m: 3.0
+setback_side_m: 0
+front_yard_green_pct: null
+is_residential: true
+profile:
+  siting_landscape:
+  - >-
+    Party-wall, as the name says. Front setback generally 2 to 4 m; sometimes under 2 m, but the façades
+    are invariably in alignment.
+  - >-
+    The front yard is often carefully kept and separated from the public realm by a low wrought-iron
+    fence or a hedge.
+  massing:
+  - An elongated rectangular plan, two storeys.
+  - The upper storey sits under a low-pitched or flat roof fronted by a false mansard.
+  - The ground floor is raised five to ten risers above grade, and the stair up to it is outside.
+  - >-
+    An oriel is possible on the ground floor or across both levels; the front door is sometimes in a
+    projecting tambour, under a covered porch, or in a recess.
+  articulation:
+  - >-
+    Two vertical alignments of openings: the first the door with a balcony or window over it, the second
+    windows only. Where there is an oriel, it belongs to the second alignment, sometimes with a balcony
+    above it.
+  - >-
+    The raised ground floor is marked by a hard horizontal break at the socle, made with a change of
+    cladding, with foundation stones set slightly proud, or with a band course between foundation and
+    ground floor.
+  - >-
+    Ornament is better than the borough average — this is the single-family house built where a location,
+    a park or an owner's choice justified nobler materials.
+  openings:
+  - >-
+    Sizes and proportions vary. On the ground floor either a single window of one width to half a height,
+    or paired windows of varying proportion.
+  - Casements with transoms, or sash without, dominate.
+  - Upstairs the dormers bring smaller windows, square or slightly vertical.
+  - Doors single or double, generally with a transom.
+  materials:
+  - Rusticated stone at the socle.
+  - Brick and cut or rusticated stone for the body — the two dominant claddings.
+  - False mansards clad in slate shingle or sheet metal.
+profile_fr:
+  implantation:
+  - >-
+    Comme son nom l’indique, la maison urbaine est généralement mitoyenne. La maison urbaine est implantée
+    avec une marge de recul avant qui varie généralement entre 2 et 4 mètres. Bien que la marge avant
+    puisse parfois être inférieure à 2 mètres, les façades sont invariablement implantées en alignement.
+    La cour avant, dont l’aménagement est souvent soigné, est séparée de l’espace public par une clôture
+    basse en fer forgé ou une haie.
+  volumetrie:
+  - >-
+    Avec un plan de forme rectangulaire allongé, la maison urbaine possède 2 étages. L’étage supérieur
+    est généralement construit sous un toit à faible pente ou un toit plat orné d’une fausse mansarde
+    en façade. Le rez-de-chaussée est surélevé de 5 à 10 contremarches par rapport au niveau du sol.
+    L’escalier d’accès au rez-de-chaussée est extérieur. Il est possible de retrouver un oriel au rez-de-chaussée
+    ou sur les 2 niveaux. La porte d’entrée est parfois située dans un tambour en saillie, sous un porche
+    couvert ou sous un balcon.
+  materiaux:
+  - >-
+    Le socle du bâtiment est revêtu de pierres à bossages. Pour le corps, la brique et la pierre de
+    taille ou à bossages sont les deux matériaux de revêtement dominants. Les fausses mansardes sont
+    revêtues de bardeaux d’ardoise ou de tôle.
+  traitement_des_facades:
+  - >-
+    Socle — La surélévation des rez-de-chaussée est accompagnée d’une démarcation franche du socle du
+    bâtiment. Cette démarcation horizontale dans la façade se manifeste par l’utilisation d’un matériau
+    de revêtement différent ainsi que par la disposition des pierres de fondation légèrement en saillie
+    ou par la présence de bandeau horizontal entre la fondation et le rez-de-chaussée.
+  - >-
+    Corps — Le corps de la façade est composé de deux alignements verticaux des ouvertures. Le premier
+    alignement est composé de la porte au rez-de-chaussée et d’un balcon ou d’une fenêtre à l’étage.
+    Le second alignement est composé uniquement de fenêtres. S’il est présent, l’oriel se retrouve généralement
+    dans ce second alignement. Un balcon est parfois situé au-dessus de l’oriel.
+  - >-
+    Couronnement — Pour le couronnement, une corniche de bois à modillons ou à consoles orne la base
+    de la fausse mansarde. La forme des lucarnes est variable. La lucarne peut être située dans le plan
+    du mur à demi encastrée dans la fausse mansarde ou être entièrement comprise dans la pente de la
+    fausse mansarde.
+  ouvertures:
+  - >-
+    La dimension et les proportions des ouvertures sont variables. Au rez-de-chaussée, on peut retrouver
+    une fenêtre simple dont les proportions sont de 1 largeur = ½ hauteur ou des fenêtres jumelées aux
+    proportions variables. Les fenêtres à battants avec imposte ou à guillotine sans imposte sont dominantes.
+    À l’étage, les lucarnes amènent généralement la présence de fenêtres aux dimensions plus petites
+    de proportion carrée ou légèrement verticale.
+  - Les portes peuvent être doubles ou simples et possèdent généralement une imposte.
+  - >-
+    L’encadrement des ouvertures est exprimé par la présence d’un linteau formé de briques en soldat
+    sur les bâtiments revêtus de briques et par la présence d’un chambranle en pierre de taille sur
+    les bâtiments revêtus de pierres à bossages.
+  description:
+  - >-
+    La maison urbaine est une habitation unifamiliale implantée avec une marge de recul avant. Elle
+    possède 2 étages et son rez-de-chaussée est surélevé par rapport au niveau du sol. L’ornementation
+    de cette maison est généralement plus soignée que la moyenne. La façade est habituellement couronnée
+    d’une fausse mansarde. Des fenêtres en saillie sur 1 ou 2 niveaux ainsi que des tambours sont des
+    éléments architecturaux fréquents. La maison urbaine est généralement construite en courte série
+    ou à l’unité.
+  contexte:
+  - >-
+    Dans l’ensemble de l’arrondissement du Sud-Ouest, on retrouve principalement des bâtiments résidentiels
+    modestes, souvent à forte densité. Cependant, pour des raisons de localisation, de la proximité
+    d’un parc ou tout simplement de choix de construction, certains secteurs ont vu apparaître des maisons
+    unifamiliales plus ornementées et construites avec des matériaux plus nobles (pierres à bossages
+    ou pierres de taille). Ces constructions sont habituellement des maisons contiguës que l’on voit
+    apparaître durant la période dite de construction des infrastructures municipales (1875 à 1945).
+profile_note: >-
+  Two of the Évaluation cahier's fifteen exceptional sectors describe this type directly, and their
+  words are the best short description of it anywhere in the municipal record. Sector 22.E.5 Coursol:
+  « À proximité de l’église Sainte-Cunégonde, le magnifique alignement de petites maisons victoriennes
+  unifamiliales en série de deux étages au décor très élaboré de la rue Coursol suit la courbure de
+  la rue et le rend d’autant plus pittoresque. C’est le point fort de ce secteur résidentiel de la bourgeoisie
+  industrielle de l’ancienne municipalité de Sainte-Cunégonde. » Sector 22.E.4 Place Richmond, for the
+  three-storey relative of the same form: « La place regroupe un bel ensemble de maisons unifamiliales
+  de trois étages en brique, au décor sobre et élégant et avec toits mansards, lucarnes et escaliers
+  extérieurs. L’ensemble est d’une grande cohérence. » Note what the second one says: single-family,
+  three storeys, and exterior stairs — the stair that this borough's own typology treats as the mark
+  of the plex, on a house that holds one household.
+example_addresses:
+- address: rue Coursol
+  note: >-
+    sector 22.E.5, the borough's finest run of the type — « le magnifique alignement de petites maisons
+    victoriennes unifamiliales en série de deux étages au décor très élaboré de la rue Coursol suit
+    la courbure de la rue et le rend d’autant plus pittoresque »
+- address: rue de Rushbrooke
+  note: >-
+    the study's example of the semi-detached urban house with balcony and projecting window (SO0243);
+    the sector 22.E.11 fiche calls the street's mix of types its defining character
+- address: rue Saint-Antoine Ouest, at rue Vinet
+  note: >-
+    the belles séries of two- and three-storey stone buildings with false mansards, small exterior stairs
+    and front yards that sector 22.E.5 records beside the rue Coursol houses
+conservation: []
+photos:
+- file: null
+  kind: placeholder
+  licence: permission required
+  source_url: https://ocpm.qc.ca/sites/default/files/pdf/P81/3.5_etude_typomorphologique_sud-ouest.pdf
+  credit: >-
+    Patri-Arch, Étude typomorphologique de l'arrondissement du Sud-Ouest (2005, mise à jour octobre
+    2013), fiche 1.2 — La maison urbaine est une habitation unifamiliale implantée avec une marge de
+    recul avant. Elle possède 2 étages et son … © Patri-Arch; usage rights ceded to the Ville de Montréal.
+    Not reproduced.
+blurb_en: >-
+  The single-family house built where the borough could afford ornament. Two storeys over a ground floor
+  raised five to ten risers, a false mansard across the front, an oriel often enough, rusticated stone
+  at the base and brick or cut stone above. It is contemporary with the plexes and built to the same
+  street rules — setback, alignment, low iron fence — but holds one household where its neighbours hold
+  two or three.
+origin_en: >-
+  The Montréal faubourg house with a flat roof and a false mansard, which this site already carries
+  at the Plateau and in Ville-Marie. In the Sud-Ouest it is the exception rather than the rule: the
+  study introduces it by saying the borough is otherwise made of modest, often high-density residential
+  buildings.

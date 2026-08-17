@@ -1,0 +1,172 @@
+# Transcribed from Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement de
+# Mercier–Hochelaga-Maisonneuve » (2005), § 3.2.2 A, « Les secteurs de valeur patrimoniale
+# exceptionnelle ». The codes are the document's own. THE ARRONDISSEMENT NUMBER IS 27, read from
+# inside the cahier; the file is published as 14_evaluation_patrimoine_mercier.pdf and the filename
+# proves nothing — a stray « 14.AP.1 » that appears on the archaeological synthesis map belongs to
+# the neighbouring Villeray–Saint-Michel–Parc-Extension, not to this borough.
+#
+# Only the five E sectors are encoded here. The same document also carries 27.I.1–6 (valeur
+# intéressante: Hochelaga, Maisonneuve, Longue-Pointe, Notre-Dame-des-Victoires, Tétreaultville,
+# Place de Léry), 27.U.1–5 (ensembles urbains d'intérêt: maisons de vétérans, and four bungalow
+# developments of 1950–1955), 27.N.1–2 (ensembles industriels: secteur du port, rue Notre-Dame Est)
+# and 27.AP.1–3 / 27.A.1–2 (archéologie). Those are Part 10b work; the codes are recorded here so the
+# enumeration is not lost.
+#
+# summary_fr is the source text verbatim. Figure captions set inside the running text of the
+# two-column layout ("27.E.1 La rue Sainte-Catherine Est vue du parc Dézéry", "27.E.2 La perspective
+# de l'avenue Morgan", "27.E.3 Le boulevard Pie-IX", "27.E.3 Le 1833, boulevard Pie-IX") have been
+# removed; nothing else has been altered.
+
+- id: coeur-du-village-hochelaga
+  code: 27.E.1
+  name_fr: Le cœur du village d'Hochelaga
+  value: exceptional
+  summary_en: >-
+    This sector corresponds to the historic heart of the village of Hochelaga, with parc Dézéry at its
+    centre. A first chapel was built there in 1833; the site went on to hold a town hall, the police and
+    fire services, public baths, a public market and finally a park. The deep-water port and the railway
+    lines along rue Notre-Dame are the real engines of the quarter's development: they drew in industry
+    and workers' housing, and that housing settled first on rues Moreau, Dézéry and Saint-Germain. Around
+    1890 the village's links with the adjoining quartier Sainte-Marie were improved by cutting rue
+    Sainte-Catherine through. Between 1972 and 1975 the demolitions for an east–west expressway, together
+    with the laying out of the linear park, largely amputated the original village and changed the
+    park's appearance. Even so, parc Dézéry is in itself a historic place, and the surrounding streets
+    contain some of the oldest buildings in Hochelaga.
+  summary_fr: >-
+    Ce secteur correspond au cœur historique du village d'Hochelaga et le parc Dézéry en est le centre.
+    En 1833, on y construit une première chapelle, puis ce site sera occupé par un hôtel de ville, les
+    services de police et de pompiers, des bains publics, un marché public et enfin un parc. Le port en
+    eau profonde et les voies ferrées le long de la rue Notre-Dame sont les véritables moteurs de
+    développement du quartier. Ils attirent des industries et des habitations ouvrières. Celles-ci
+    s'implantent d'abord sur les rues Moreau, Dézéry et Saint-Germain. Vers 1890, le village d'Hochelaga
+    voit ses liens avec le quartier Sainte-Marie, situé juste à côté, améliorés par le percement de la
+    rue Sainte-Catherine. Entre 1972 et 1975, les démolitions en vue de l'aménagement d'une autoroute
+    est-ouest ainsi que l'aménagement du parc linéaire ont largement amputé le village original et changé
+    l'aspect du parc. Malgré tout, le parc Dézéry est en soi un lieu historique et les rues avoisinantes
+    comprennent certains des bâtiments les plus anciens d'Hochelaga.
+  streets:
+    - rue Moreau
+    - rue Dézéry
+    - rue Saint-Germain
+    - rue Sainte-Catherine Est
+    - rue Notre-Dame Est
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Mercier–Hochelaga-Maisonneuve (2005), § 3.2.2 A
+  note: >-
+    The three streets the fiche names as the first ground of workers' housing — Moreau, Dézéry and
+    Saint-Germain — are the same three that carry the borough's two documented nineteenth-century
+    workers' housing records: the Hudon mill's company row on Saint-Germain, and the plex alignments on
+    Moreau and Dézéry. The 1972–1975 demolitions for the never-built east–west expressway removed more
+    than 1,000 dwellings along rue Notre-Dame borough-wide, per the same document's chapter 2.
+
+- id: maisonneuve
+  code: 27.E.2
+  name_fr: Maisonneuve
+  value: exceptional
+  summary_en: >-
+    This sector takes in the greater part of Maisonneuve, including Viauville (between rues Sicard and
+    Viau). Maisonneuve was founded in 1883 by large landowners, financiers and industrialists who took a
+    dim view of Hochelaga's annexation to Montréal. They therefore decided to create out of whole cloth a
+    new municipality intended to become a paradise of industry and to attract a working population. This
+    sector gathers the most eloquent built evidence of the cité-modèle of Maisonneuve: in particular the
+    perspective of avenue Morgan, the square ornamented with a work by the sculptor Alfred Laliberté, the
+    Maisonneuve market and public bath, and the three-storey workers' housing along tree-lined streets.
+  summary_fr: >-
+    Ce secteur comprend la plus grande partie de Maisonneuve, dont Viauville (entre les rues Sicard et
+    Viau). Maisonneuve a été fondé en 1883 par des grands propriétaires terriens, financiers et
+    industriels qui voyaient d'un mauvais œil l'annexion d'Hochelaga à Montréal. Ils décident donc de
+    créer de toute pièce une nouvelle municipalité appelée à devenir un paradis de l'industrie et à
+    attirer une population ouvrière. Ce secteur regroupe les plus éloquents témoignages bâtis de la
+    cité-modèle de Maisonneuve : notamment la perspective de l'avenue Morgan, la place ornée d'une œuvre
+    du sculpteur Alfred Laliberté, le marché et le bain Maisonneuve, ainsi que les habitations ouvrières
+    de trois étages le long de rues bordées d'arbres.
+  streets:
+    - avenue Morgan
+    - rue Sicard
+    - rue Viau
+    - rue Ontario Est
+    - rue Sainte-Catherine Est
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Mercier–Hochelaga-Maisonneuve (2005), § 3.2.2 A
+  note: >-
+    The document's phrase is « cité-modèle » — a model CITY, said of the municipality. It is not
+    « maison-modèle », and neither this fiche nor any other part of the cahier documents a model house
+    for Maisonneuve. The housing clause is the whole of what the fiche says about dwellings: « les
+    habitations ouvrières de trois étages le long de rues bordées d'arbres ». Most of the built evidence
+    it lists — avenue Morgan, the Laliberté sculpture, the market and the bath — was placed under
+    provincial classement in 2022 as the Site patrimonial de l'Ancienne-Cité-de-Maisonneuve.
+
+- id: boulevard-pie-ix
+  code: 27.E.3
+  name_fr: Boulevard Pie-IX
+  value: exceptional
+  summary_en: >-
+    Pie-IX was one of Maisonneuve's major traffic axes; it was even foreseen that it would eventually
+    link the river to the rivière des Prairies. The subdivision along this boulevard favoured rich
+    constructions on larger lots than those found in the surrounding area. Even though the tree-lined
+    central allée has disappeared, several buildings still bear witness to the splendour this
+    thoroughfare once had.
+  summary_fr: >-
+    Pie-IX était un axe de circulation majeur de Maisonneuve. On prévoyait même qu'à terme, il relierait
+    le fleuve à la rivière des Prairies. Le lotissement le long de ce boulevard privilégiait de riches
+    constructions sur des terrains plus grands que ce que l'on retrouve dans les environs. Même si
+    l'allée centrale bordée d'arbres a disparu, plusieurs bâtiments témoignent encore du faste qu'avait
+    autrefois cette voie.
+  streets:
+    - boulevard Pie-IX
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Mercier–Hochelaga-Maisonneuve (2005), § 3.2.2 A
+  note: >-
+    This is the borough's one documented sector of large lots and prosperous houses, and the counterpart
+    to the plex streets: the same city, laid out at a different grain. The lost « allée centrale bordée
+    d'arbres » is the Park and Boulevard Movement half of Maisonneuve's 1910 planning ideas, and it is
+    the piece that did not survive; the avenue Morgan terre-plein, which did, is the surviving example.
+
+- id: saint-jean-de-dieu
+  code: 27.E.4
+  name_fr: Saint-Jean-de-Dieu
+  value: exceptional
+  summary_en: >-
+    It was in 1874 that the Sœurs de la Providence had a first asylum built on this site. It was
+    destroyed by fire in 1890 and a new hospital was built from 1895 to 1901 to the plans of the
+    architect Hippolyte Bergeron. Onto this first building, which still survives, several pavilions were
+    gradually grafted in 1926, 1935 and 1963, forming the immense institutional complex known today, the
+    largest in the borough.
+  summary_fr: >-
+    C'est en 1874 que les Sœurs de la Providence font construire sur ce site un premier asile. Il est
+    détruit par le feu en 1890 et un nouvel hôpital est bâti de 1895 à 1901 selon les plans de
+    l'architecte Hippolyte Bergeron. À ce premier immeuble, qui subsiste toujours, se greffent
+    graduellement plusieurs pavillons en 1926, 1935 et 1963, formant l'immense complexe institutionnel
+    que l'on connaît aujourd'hui, le plus important de l'arrondissement.
+  streets: []
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Mercier–Hochelaga-Maisonneuve (2005), § 3.2.2 A
+  note: >-
+    An institutional complex, not a residential sector; no type record attaches to it. The municipality
+    of Saint-Jean-de-Dieu was the hospital's own territory, and it was not fully annexed to Montréal
+    until 1963. The cahier's archaeological chapter dates the opening a year later than this fiche
+    does — « L'hospice Saint-Jean-de-Dieu ouvre ses portes en 1875 » against « c'est en 1874 que … font
+    construire » — the difference between commissioning and opening; both readings are the document's own.
+
+- id: parc-olympique
+  code: 27.E.5
+  name_fr: Parc olympique
+  value: exceptional
+  summary_en: >-
+    Montréal's largest sports complex was built to host the 1976 Olympic Games. It includes, among other
+    things, the Olympic stadium and its tower, a true icon of Montréal. The stadium quickly established
+    itself as the place of choice for holding all of the metropolis's large-scale events: professional
+    sport, rock concerts, exhibitions and great gatherings. The velodrome with its concrete vault and the
+    stadium's leaning tower are genuine technological feats.
+  summary_fr: >-
+    Le plus grand complexe sportif de Montréal a été construit pour accueillir les Jeux olympiques de
+    1976. Il comprend entre autres le stade olympique et sa tour, véritable icône de Montréal. Le stade
+    s'est vite imposé comme lieu de prédilection pour la tenue de tous les événements à grand déploiement
+    de la métropole : sport professionnel, concerts rock, expositions et grands rassemblements. Le
+    vélodrome avec sa voûte de béton et la tour penchée du stade sont de véritables prouesses
+    technologiques.
+  streets:
+    - avenue Pierre-De Coubertin
+  source: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Mercier–Hochelaga-Maisonneuve (2005), § 3.2.2 A
+  note: >-
+    Not residential. It is kept because the 2005 document numbers it among the five sectors of
+    exceptional value, and because it stands on the ground Maisonneuve had reserved for its own grand
+    park: the cahier records that the projected parc Maisonneuve was to have carried a racetrack, an
+    amphitheatre, an art gallery, a museum, a botanical garden and a zoo, and that « ce n'est que
+    beaucoup plus tard que certains de ces projets se matérialiseront ».

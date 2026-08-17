@@ -1,0 +1,15 @@
+# Phases follow chapter 2, « Historique », of the Ville de Montréal Évaluation du patrimoine urbain
+# (2005), with dates taken from that chapter and from the RPCQ fiches for the Site patrimonial de
+# l'Ancienne-Cité-de-Maisonneuve (id 232824) and the Château Dufresne (id 92740).
+- {id: p1, label: 1670–1845, start: 1670, end: 1845, colour_key: p1,
+   title_en: Longue-Pointe — the côtes, the redoubt and the village}
+- {id: p2, label: 1845–1883, start: 1845, end: 1883, colour_key: p2,
+   title_en: Hochelaga industrialises and is annexed}
+- {id: p3, label: 1883–1918, start: 1883, end: 1918, colour_key: p3,
+   title_en: The cité de Maisonneuve}
+- {id: p4, label: 1918–1945, start: 1918, end: 1945, colour_key: p4,
+   title_en: A Montréal quartier, building east and north}
+- {id: p5, label: 1945–1976, start: 1945, end: 1976, colour_key: p5,
+   title_en: Suburban Mercier — veterans' houses, bungalows, the Olympic Park}
+- {id: p6, label: 1976–2022, start: 1976, end: 2022, colour_key: p1,
+   title_en: Demolition, reconstruction, and a provincial classement}

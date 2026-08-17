@@ -1,0 +1,119 @@
+id: verdun.plex-escalier-exterieur
+place: verdun
+phase: p3
+display_order: 1
+name_en: Three-storey plex with exterior stair
+name_fr: L'immeuble de trois étages avec escalier extérieur
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Verdun (2005), sector fiches 21.I.2, 21.I.5 and 21.I.6"
+source_generation: sector characterisation, three fiches read together
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+canonical: [triplex-exterior-stair]
+styles: [faubourg-vernacular]
+style_label: Montréal faubourg vernacular
+tenure_plan: triplex
+storeys: '3'
+roof: {form: flat, pitch_deg: 0}
+roofing: null
+window_proportion: vertical
+principal_cladding: [clay-brick, stone]
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: 0
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+  - Dense continuous street frontage on lots of conventional width served by back lanes; 21.I.6 records
+    lanes laid out in an "H" and lots of more restricted depth than the Montréal standard.
+  - The 1900–1920 wave filled the ground the dike had made buildable, working outward from the water plant
+    and Vieux-Verdun.
+  massing:
+  - Three storeys, one dwelling to a floor, flat roofed, with the stair to the upper doors climbing the
+    outside of the building. 21.I.5 records the same form at two storeys as well.
+  articulation:
+  - Elaborate cornices and worked masonry detail; alcoves recessed into the façade composition rather than
+    balconies projecting from it.
+  - The cahier's verdict on the whole group is one sentence — « Ces constructions sont typiquement montréalaises. »
+  openings:
+  - Vertical windows carrying stained glass.
+  materials:
+  - Brick, with stone façades on a minority of buildings.
+profile_fr:
+  description:
+  - « Constitué généralement d'immeubles de trois étages avec escalier extérieur pour l'accès aux étages,
+    il s'est développé au cours de la vague de 1900 à 1920. On y observe surtout des bâtiments en brique
+    avec des corniches élaborées et des détails de maçonnerie. Les fenêtres sont verticales et possèdent
+    des vitraux. Les façades comportent souvent des alcôves dans la composition. Ces constructions sont
+    typiquement montréalaises. » (21.I.2, le voisinage Nord)
+  - « Principalement constitué d'immeubles de trois étages avec escalier extérieur pour l'accès aux étages,
+    il s'est développé à partir du début du XXe siècle sur un lotissement de largeur conventionnelle mais
+    de profondeur plus restreinte et comprenant des ruelles en « H ». Le secteur est dense; il s'agit en
+    général de bâtiments en brique avec des corniches élaborées et des détails de maçonnerie. Quelques immeubles
+    ont des façades de pierre. » (21.I.6, le secteur des Avenues)
+  volumetrie:
+  - « Le cadre bâti, assez hétérogène, est constitué d'immeubles de deux ou trois étages avec escalier extérieur
+    pour l'accès aux étages; il s'est développé au cours de la vague de 1900 à 1920. » (21.I.5)
+  implantation:
+  - « … érigés sur des lots de largeur conventionnelle, assez profonds et dotés de ruelles. » (21.I.5)
+  ouvertures:
+  - « Les fenêtres sont verticales et comportent des vitraux. » (21.I.5, 21.I.6)
+profile_note: >-
+  The Évaluation is a sector characterisation, not a type table, so this record is assembled rather than
+  transcribed. Every column is read out of three sector fiches that describe the same building in the same
+  words — 21.I.2 (le voisinage Nord), 21.I.5 (le secteur Rielle et de Verdun) and 21.I.6 (le secteur des
+  Avenues) — plus 21.I.1, which calls the same fabric « le cadre bâti le plus ancien de Verdun … d'une
+  agréable uniformité ». All four are secteurs de valeur intéressante, so `sectors` is left null rather
+  than pointing at an exceptional-value code the type does not belong to; the ten 21.I sectors are Part 10b.
+  Lot width, setback and dwelling count are not given anywhere in the cahier and are left null; "triplex"
+  is entered as the tenure plan because the fiches say three storeys with one access per storey, not because
+  the document uses the word. The cahier never uses "plex", "duplex avec escalier extérieur" or "triplex"
+  at all.
+example_addresses: null
+related_buildings: null
+photos:
+- file: assets/places/verdun/boulevard-lasalle-hickson-commons.jpg
+  kind: single
+  credit: >-
+    Boulevard LaSalle at rue Hickson, Verdun — a continuous brick frontage of plexes with straight iron
+    stairs climbing to the upper doors, elaborate cornices, and the water plant's neighbourhood behind.
+    Photograph by Denis Tremblay for Parcours riverain – Ville de Montréal, CC BY 2.0. Licence:
+    https://creativecommons.org/licenses/by/2.0. File:
+    https://commons.wikimedia.org/wiki/File:BoulevardLasalleVerdun.jpg
+  source_url: https://commons.wikimedia.org/wiki/File:BoulevardLasalleVerdun.jpg
+  licence: CC BY 2.0
+  match_confidence: address
+  note: >-
+    The camera is at rue Hickson, which fiche 21.I.2 names as the boundary of le voisinage Nord — « Ce
+    secteur situé entre l'usine d'alimentation d'eau, la rue Hickson et le Vieux-Verdun ». The buildings
+    in frame are the ones that fiche describes.
+- file: assets/places/verdun/plex-3857-boulevard-lasalle-commons.jpg
+  kind: single
+  credit: >-
+    3857 boulevard LaSalle, Verdun — brick and greystone plexes with both the straight and the curving
+    exterior stair, balconies at each level. Photograph by Matias Garabedian, CC BY-SA 2.0. Licence:
+    https://creativecommons.org/licenses/by-sa/2.0. File:
+    https://commons.wikimedia.org/wiki/File:Verdun_(9155880752).jpg
+  source_url: https://commons.wikimedia.org/wiki/File:Verdun_(9155880752).jpg
+  licence: CC BY-SA 2.0
+  match_confidence: address
+  note: >-
+    The Commons description gives the centre building as 3857 boulevard LaSalle and the file carries
+    coordinates 45.465385 / -73.565431. It is one of only two files in Category:Multiplexes (buildings)
+    that are in Québec.
+blurb_en: >-
+  Three flats stacked behind a brick front, one to a floor, each reached by its own door and the upper
+  two by a stair climbing the outside. Built through the 1900–1920 wave on lanes laid out in an H, it is
+  what most of northern Verdun is made of, and the cahier disposes of it in five words: typically
+  Montréal.
+origin_en: >-
+  Verdun's plex is the Montréal plex, arriving late and all at once. The 2005 cahier dates the fabric to
+  « la vague de 1900 à 1920 » in three separate sector fiches and links it directly to the dike: residential
+  development « prend son envol au début du XXe siècle, après la mise en place de la digue protégeant le
+  territoire des fortes inondations printanières ». The mechanism that puts the stair outside is not
+  explained here — for that see the shared explainer at /topics/escalier-exterieur/ and the Sud-Ouest
+  synthèse, which traces it to the compulsory front setback. What Verdun adds is the counter-case: the
+  cahier's fiche 21.I.7 records that south of avenue Desmarchais « il y a peu d'escaliers extérieurs, mais
+  la présence des balcons avant s'affirme ». One borough, one form, and a line across it where the stair
+  goes back indoors.
+phase_confidence: verified
