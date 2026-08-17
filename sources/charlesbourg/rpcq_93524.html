@@ -1,0 +1,3274 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial de Charlesbourg -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93524&type=bien"
+              addthis:title="Site patrimonial de Charlesbourg"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial de Charlesbourg</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Arrondissement du Trait-Carré</li>
+  
+    <li>Arrondissement historique de Charlesbourg</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Capitale-Nationale</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Québec</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine agricole</li>
+  
+    <li>Patrimoine commémoratif</li>
+  
+    <li>Patrimoine industriel</li>
+  
+    <li>Patrimoine institutionnel et civil</li>
+  
+    <li>Patrimoine religieux (Culte)</li>
+  
+    <li>Patrimoine religieux (Mission curiale)</li>
+  
+    <li>Patrimoine religieux (Mission éducative)</li>
+  
+    <li>Patrimoine religieux (Vie quotidienne)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Tradition religieuse</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Christianisme (Catholicisme (rite latin))</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Non applicable</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=per&id=93524&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=per&id=93524&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=immo&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=immo&id=93524&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(149)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92700&type=bien">
+            Église Saint-Charles-Borromée
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=105567&type=bien">
+            Ancien collège des Frères maristes
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=105911&type=bien">
+            Ancien couvent des Soeurs du Bon-Pasteur
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=111635&type=bien">
+            Bibliothèque Paul-Aimé-Paiement
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=immo&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=immo&id=93524&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=pla&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=pla&id=93524&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Plaques commémoratives associées</span>&nbsp;(5)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=105906&type=bien">
+            Plaque de Jacques-Ferdinand Verret
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=99153&type=bien">
+            Plaque de l'église Saint-Charles-Borromée
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=105905&type=bien">
+            Plaque de la maison Jacques-Bédard
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=199496&type=bien">
+            Plaque de la mise en lumière de l'église de Saint-Charles-Borromée
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=pla&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=pla&id=93524&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=grp&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Groupes associés</span>');" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=grp&id=93524&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Groupes associés</span>&nbsp;(3)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7388&type=pge">
+            Compagnie de Jésus (1625 &ndash; )
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8297&type=pge">
+            Soeurs du Bon-Pasteur (1850 &ndash; )
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=10667&type=pge">
+            Frères maristes des écoles (1885 &ndash; )
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=grp&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=grp&id=93524&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Groupes associés</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=per&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=per&id=93524&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=8281&type=pge">
+            Talon, Jean (1626 &ndash; 1694)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=per&id=93524&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=56CE63AA9904D3810DF53549F620326D?type=per&id=93524&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93524_213754.JPG?id=213754" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_213754.JPG?id=213754" 
+           data-grandformat="document/rpcq_bien_93524_213754.JPG?id=213754" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2013-10-09" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="" 
+           data-id="213754" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="213754"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue aérienne" src="document/rpcq_bien_93524_213754.JPG?id=213754&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue vers l&#039;église de Saint-Charles-Borromée" class="galleryImage"
+           href="document/rpcq_bien_93524_206144.JPG?id=206144" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_206144.JPG?id=206144" 
+           data-grandformat="document/rpcq_bien_93524_206144.JPG?id=206144" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2013-10-04" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Émilie Deschênes" 
+           data-id="206144" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="206144"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue vers l&#039;église de Saint-Charles-Borromée" src="document/rpcq_bien_93524_206144.JPG?id=206144&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue vers le moulin des Jésuites" class="galleryImage"
+           href="document/rpcq_bien_93524_206148.JPG?id=206148" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_206148.JPG?id=206148" 
+           data-grandformat="document/rpcq_bien_93524_206148.JPG?id=206148" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2013-10-04" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Émilie Deschênes" 
+           data-id="206148" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="206148"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue vers le moulin des Jésuites" src="document/rpcq_bien_93524_206148.JPG?id=206148&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue du parc de la Commune" class="galleryImage"
+           href="document/rpcq_bien_93524_206147.JPG?id=206147" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_206147.JPG?id=206147" 
+           data-grandformat="document/rpcq_bien_93524_206147.JPG?id=206147" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2013-10-04" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Émilie Deschênes" 
+           data-id="206147" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="206147"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue du parc de la Commune" src="document/rpcq_bien_93524_206147.JPG?id=206147&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue vers les maisons sises au 8060-8062, Trait-Carré Est et 8080-8082, Trait-Carré Est" class="galleryImage"
+           href="document/rpcq_bien_93524_206150.JPG?id=206150" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_206150.JPG?id=206150" 
+           data-grandformat="document/rpcq_bien_93524_206150.JPG?id=206150" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2013-10-04" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Émilie Deschênes" 
+           data-id="206150" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="206150"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue vers les maisons sises au 8060-8062, Trait-Carré Est et 8080-8082, Trait-Carré Est" src="document/rpcq_bien_93524_206150.JPG?id=206150&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue vers le 8195, Trait-Carré Ouest" class="galleryImage"
+           href="document/rpcq_bien_93524_206146.JPG?id=206146" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_206146.JPG?id=206146" 
+           data-grandformat="document/rpcq_bien_93524_206146.JPG?id=206146" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2013-10-04" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Émilie Deschênes" 
+           data-id="206146" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="206146"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue vers le 8195, Trait-Carré Ouest" src="document/rpcq_bien_93524_206146.JPG?id=206146&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue vers une ruelle privée du Trait-Carré Ouest" class="galleryImage"
+           href="document/rpcq_bien_93524_206145.JPG?id=206145" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_206145.JPG?id=206145" 
+           data-grandformat="document/rpcq_bien_93524_206145.JPG?id=206145" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Émilie Deschênes, 2013-10-04" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Émilie Deschênes" 
+           data-id="206145" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="206145"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue vers une ruelle privée du Trait-Carré Ouest" src="document/rpcq_bien_93524_206145.JPG?id=206145&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de Charlesbourg. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93524_368530.JPG?id=368530" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93524_368530.JPG?id=368530" 
+           data-grandformat="document/rpcq_bien_93524_368530.JPG?id=368530" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2024-04-08" 
+           data-description="" 
+           data-annee="2024" 
+           data-auteur="" 
+           data-id="368530" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="368530"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de Charlesbourg. Vue aérienne" src="document/rpcq_bien_93524_368530.JPG?id=368530&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 46.86102777, -71.26986111];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Charlesbourg est un ancien noyau villageois aménagé à partir de 1665. Ce territoire, d'une superficie de 24 hectares, est structuré selon un plan radial. Il englobe un carré central d'environ 8,5 hectares (25 arpents), délimité par Le Trait-Carré Est et Le Trait-Carré Ouest, et des lots de forme trapézoïdale qui rayonnent à partir de ce dernier. Deux parcours directeurs, la 1re Avenue et le boulevard Louis-XIV, le traversent et se croisent en son centre. D'autres voies de circulation suivent le tracé des anciennes parcelles : l'avenue Paul-Comtois, le chemin Samuel et quelques chemins privés.<br/><br/>Ce territoire inclut près de 138 bâtiments principaux. Le centre du site patrimonial est formé d'un noyau paroissial de tradition catholique comprenant l'église de Saint-Charles-Borromée, le presbytère et le parc du Sacré-Coeur marquant le lieu de l'ancienne église et de l'ancien cimetière. Autour de cet ensemble se trouvent aussi des bâtiments institutionnels dont l'ancien couvent des Soeurs du Bon-Pasteur, la salle Pierre-Garon (ancienne salle paroissiale), l'ancien collège des Frères maristes (aujourd'hui intégré à la bibliothèque), le centre Odilon-Gauthier et la bibliothèque Paul-Aimé-Paiement. L'intérieur du carré central comprend également le parc de la Commune, ainsi que quelques résidences et commerces. Les lots rayonnants englobent d'anciennes maisons de ferme (certaines remontant au XVIIIe siècle) et des dépendances agricoles, des résidences du XIXe et du début du XXe siècles ainsi que quelques commerces. Le moulin des Jésuites est érigé en périphérie, du côté est du boulevard Henri-Bourassa. <br/><br/>Le site est aménagé sur la première terrasse qui surplombe la rivière Saint-Charles, dans l'arrondissement municipal de Charlesbourg de la ville de Québec.<br/><br/>Ce territoire est déclaré site patrimonial. Il compte un immeuble patrimonial classé, soit l'église de Saint-Charles-Borromée. Deux sites inscrits à l'Inventaire des sites archéologiques du Québec sont associés au lieu.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Déclaration</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Gouvernement du Québec
+          
+        
+      </td>
+      <td>
+        1965-11-17
+        
+      </td>
+    </tr>
+     
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Transfert de responsabilité</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                    <li>Exercice de certains pouvoirs par la municipalité (Québec), 2016-12-09<br><span >Prise d'effet</span>&nbsp;: 2017-06-09</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+        
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Charlesbourg présente un intérêt pour sa valeur historique. L'endroit correspond à un ancien bourg dont l'établissement a été planifié par les Jésuites. En 1665, ceux-ci entreprennent le peuplement de leur seigneurie de Notre-Dame-des-Anges, concédée en 1626. Les Jésuites adoptent une forme de lotissement en plan radial. Le développement du village de Charlesbourg est favorisé par la présence d'un noyau paroissial central. Le moulin des Jésuites ainsi que quelques maisons de ferme sont construits au cours du XVIIIe siècle. Le centre du bourg se densifie durant le XIXe siècle et accueille plusieurs institutions. Le village conserve son caractère rural jusqu'au milieu du XXe siècle, alors que l'étalement urbain de la ville de Québec atteint Charlesbourg. Le site patrimonial de Charlesbourg rappelle la création et le développement du premier village en étoile implanté en Nouvelle-France.<br/><br/>Le site patrimonial de Charlesbourg présente aussi un intérêt pour sa valeur urbanistique. Il se distingue par l'organisation unique de son territoire. Le plan radial employé par les Jésuites comprend un carré central de 8,5 hectares et des terres trapézoïdales rayonnantes. Deux parcours directeurs tracés au XVIIe siècle se croisent au centre du bourg. Cet espace est occupé par un noyau institutionnel dominé par l'église. En périphérie, la forme de certains lots et le tracé de quelques voies de circulation témoignent de l'organisation spatiale originelle. L'implantation des bâtiments reflète les différentes phases de développement du site patrimonial.<br/><br/>Le site patrimonial de Charlesbourg présente en outre un intérêt pour sa valeur paysagère. Le bourg est situé sur une terrasse surplombant la vallée de la rivière Saint- Charles, un emplacement qui favorise la présence de plusieurs percées visuelles et de vastes panoramas. Le paysage charlesbourgeois est dominé par les deux clochers de l'église de Saint-Charles-Borromée. Ces points de repère signalent la position du centre religieux et institutionnel. Le site patrimonial comprend aussi deux parcs publics qui forment d'importants espaces verts au coeur du noyau villageois. Les arbres matures qui ponctuent le territoire contribuent également à enrichir son paysage.<br/><br/>Le site patrimonial de Charlesbourg présente également un intérêt pour sa valeur architecturale. Le cadre bâti résume près de trois siècles d'architecture. Le moulin des Jésuites et quelques maisons du XVIIIe siècle représentent l'architecture d'inspiration française. Plusieurs habitations sont typiques des maisons traditionnelles québécoises du XIXe siècle. D'autres constituent de beaux exemples d'influence Second Empire, style qui a aussi marqué l'architecture institutionnelle. L'église de Saint-Charles-Borromée, construite de 1828 à 1830 indique pour sa part l'apport néoclassique dans l'architecture religieuse du XIXe siècle. Des bâtiments de type cubique et « Boomtown » témoignent par ailleurs de la popularité de ces styles au début du XXe siècle. Par ailleurs, le site patrimonial comporte des bâtiments secondaires qui sont caractéristiques des dépendances agricoles des XIXe et XXe siècles.<br/><br/>Le site patrimonial de Charlesbourg présente en outre un intérêt pour sa valeur archéologique. Le territoire contient des vestiges qui révèlent ses origines et son évolution. Des fouilles archéologiques ont notamment permis de mettre au jour les fondations du premier presbytère et du mur entourant l'ancien cimetière ainsi que ceux d'un pieu daté du XVIIe siècle appartenant vraisemblablement à la clôture de la commune, et d'anciennes canalisations de bois sous le Trait-Carré. En 2007, les fondations de l'église de 1695 ont été dégagées. Des sépultures ont également été découvertes. Le patrimoine archéologique du territoire reflète quelque 350 ans d'occupation.<br/><br/>Source : Ministère de la Culture et des Communications du Québec, 2016.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments caractéristiques du site patrimonial de Charlesbourg liés à ses valeurs historique, urbanistique, paysagère, architecturale et archéologique comprennent, notamment :<br/>- sa situation sur la première terrasse surplombant la rivière Saint-Charles, dans l'arrondissement municipal de Charlesbourg de la ville de Québec;<br/>- son périmètre irrégulier et sa superficie de 24 hectares; <br/>- la déclivité du terrain allant du nord vers le sud;<br/>- la présence de deux anciens parcours se croisant au centre du site patrimonial,  le boulevard Louis-XIV et la 1re Avenue;<br/>- l'organisation spatiale du territoire selon un plan radial composé de trois carrés imbriqués, soit la réserve, la commune (délimitée par Le Trait-Carré Est et Ouest) et la ceinture; <br/>- les éléments témoignant du plan radial, dont les lots de forme trapézoïdale ainsi que le tracé de l'avenue Paul-Comtois, du chemin Samuel et des chemins privés suivant l'orientation des parcelles;<br/>- la présence d'un ensemble institutionnel formé de l'église de Saint-Charles-Borromée, du presbytère et de sa grange à dîme, de l'ancien couvent des Soeurs du Bon-Pasteur, de la salle paroissiale, de l'ancien collège des frères Maristes, de la bibliothèque Paul-Aimé Paiement et du centre Odilon-Gauthier;<br/>- la présence d'espaces verts, dont le parc du Sacré-Coeur correspondant à l'emplacement de l'ancienne église et de l'ancien cimetière, ainsi que le parc de la Commune évoquant l'ancien lieu de pâturage; <br/>- les arbres matures; <br/>- la présence d'éléments liés au passé agricole du territoire, dont les maisons de ferme des XVIIIe et XIXe siècles souvent orientées vers le sud, les dépendances agricoles, le moulin des Jésuites et les parties de terrain non construites surtout situées au nord-ouest du carré central; <br/>- les composantes villageoises, dont les bâtiments implantés en bordure des voies publiques datant principalement des XIXe et XXe siècles (comprenant des résidences, des commerces et des édifices institutionnels);<br/>- l'ancien moulin des Jésuites témoignant de l'architecture d'inspiration française, dont la maçonnerie en pierre, le toit à deux versants droits à forte pente en bardeaux de cèdre et les ouvertures disposées asymétriquement;<br/>- les maisons d'inspiration française en pierre ou en bois, dont le carré bas et peu exhaussé du sol, l'élévation d'un étage et demi ainsi que le toit à versants droits à forte pente;<br/>- les maisons québécoises d'inspiration néoclassique en bois ou en pierre, dont l'élévation d'un étage et demi ou de deux étages, le toit à deux versants à larmier débordants, les ouvertures disposées symétriquement et les galeries couvertes;<br/>- les maisons d'influence Second Empire en bois ou en brique, dont l'élévation d'un ou de deux étages et demi, le toit mansardé et l'ornementation parfois élaborée;<br/>- les maisons de type cubique, dont le plan carré, l'élévation de deux étages ou de deux étages et demi et le toit en pavillon;<br/>- les maisons de type « Boomtown », dont le volume cubique, l'élévation de deux étages, le toit plat ou à faible pente et le parapet au sommet de la façade;<br/>- les maisons de type cottage vernaculaire, dont le plan carré ou rectangulaire, l'élévation d'un étage et demi ou de deux étages, le toit à deux versants droits,  la façade parfois aménagée dans le mur pignon et les larmiers sans coyau; <br/>- les résidences d'après-guerre, dont le plan rectangulaire ou carré, l'élévation d'un étage, le toit à pavillon ou à croupes à profil bas, ainsi que le parement mixte en brique et en pierre artificielle;<br/>- les bâtiments institutionnels témoignant d'influences stylistiques, dont l'église de Saint-Charles-Borromée d'influence néoclassique, ainsi que le presbytère, l'ancien couvent des Soeurs du Bon-Pasteur et l'ancien collège des frères Maristes d'influence Second Empire;<br/>- les sites archéologiques connus, incluant les vestiges du premier presbytère, du mur entourant l'ancien cimetière, d'un pieu appartenant vraisemblablement à la clôture de la commune, d'une petite dépendance (glacière ou caveau à légumes), de canalisations de bois, de la première église en pierre et des bassins de retenue des eaux du moulin.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de Charlesbourg est situé dans l'une des plus anciennes seigneuries de la Nouvelle-France, celle de Notre-Dame-des-Anges, concédée aux Jésuites en 1626 par le vice-roi Henri de Lévis, duc de Ventadour (1596-1651). Au cours des années suivantes, seules les censives bordant la rivière Saint-Charles et la rivière Lairet sont concédées.<br/><br/>En 1665, les Jésuites entreprennent le peuplement de l'intérieur de leur fief. Ils délimitent un bourg sur la première terrasse surplombant la rivière Saint-Charles en accord avec l'édit royal de 1663, qui ordonne aux habitants de se regrouper en bourg ou en bourgade afin de faciliter la défense de la colonie, de centraliser les services et surtout de corriger l'étalement rural causé par le système de lotissement en rang. Pour ce faire, ils adoptent une forme d'établissement encore jamais employée en Nouvelle-France, le plan radial. <br/><br/>L'aménagement du village se caractérise par l'emboîtement de trois espaces carrés, soit la réserve, la commune et la ceinture. Une réserve de 1,7 hectare (5 arpents), destinée à l'établissement d'une église, d'un presbytère et d'un cimetière, constitue le centre du village. Cette réserve est entourée d'un pâturage commun pour les bêtes. La commune est ceinturée d'une clôture et d'un chemin appelé Le Trait-Carré (tracé vraisemblablement en 1692), d'où rayonnent 40 terres de formes trapézoïdales formant un grand carré. La règle du tiers est imposée, selon laquelle l'occupant est tenu de construire sa résidence dans le premier tiers des terres concédées s'aboutant au Trait-Carré. Entre le 22 au 28 février 1665, près de trente lots sont concédés par les Jésuites. La création de ce village en étoile, qui prend le nom de Charlesbourg, est considérée par plusieurs comme l'un des premiers gestes de planification urbaine en Amérique française. <br/><br/>La paroisse de Saint-Charles-Borromée, dont le noyau est situé à l'intérieur du carré central, est érigée canoniquement en 1693. À la fin du XVIIe siècle, le bourg comprend une vingtaine d'habitations, un moulin à vent au nord du Trait-Carré (aujourd'hui disparu), ainsi qu'un cimetière aménagé au sud de la chapelle. Quatre voies de communication se croisent au centre du bourg : le chemin de Québec et celui de Saint-Pierre et Saint-Claude, dans un axe nord-sud (1re Avenue), ainsi que le chemin de Saint-Joseph et celui de Bourg-Royal, dans un axe est-ouest (boulevard Louis-XIV). En 1709, une ordonnance met fin à l'usage de la commune. Les terres ne sont toutefois pas immédiatement morcelées et le droit de pâturage est maintenu pendant plusieurs années. Le moulin à vent est remplacé par un moulin à eau en 1742. <br/><br/>Charlesbourg conserve son caractère essentiellement agricole jusqu'au milieu du XXe siècle. Toutefois, son centre se densifie au XIXe siècle. Quelques résidences luxueuses, des fabriques artisanales et de petits commerces s'implantent entre les maisons de ferme. La majorité des bâtiments bordent le Trait-Carré. Le bourg prend également un visage institutionnel. En plus de l'église actuelle qui est construite entre 1827 et 1830 selon les plans de Thomas Baillairgé (1791-1859), un nouveau presbytère (1875), le couvent des Soeurs du Bon-Pasteur (1883), une nouvelle sacristie (1887), le collège des frères Maristes (1904) et la salle paroissiale (1925) sont érigés. La cité de Charlesbourg, anciennement municipalité de village (1914), est constituée en 1949.<br/><br/>Dans les années 1950 et 1960, l'étalement urbain de Québec atteint Charlesbourg et les fermes sont loties. Néanmoins, le plan radial et le tracé de la commune demeurent bien visibles.<br/><br/>Le site patrimonial de Charlesbourg est déclaré en 1965. De nos jours, il constitue un pôle culturel de la ville de Québec et renferme des fonctions institutionnelles, résidentielles et commerciales.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Capitale-Nationale
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Québec
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Québec
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Arrondissement municipal</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Charlesbourg
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        46° 51' 39.7"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -71° 16' 11.5"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableauDesaligne">
+  <h3><span class="libelle_definition" rel="tooltip" title="<span >Code alphanumérique propre à l'archéologie qui sert à désigner les sites archéologiques au Québec et au Canada en fonction de leur position géographique</span>"><span >Code Borden</span></span></h3>
+
+  <table>
+    <colgroup>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+    </colgroup>
+    
+      
+        
+        
+        
+          <tr>
+        
+        <td>CfEt-15</td>
+      
+        
+        
+        
+        <td>CfEt-7</td>
+      
+      
+        <td>&nbsp;</td>
+        
+          <td>&nbsp;</td>
+          
+        
+      
+      </tr>
+    
+  </table>
+</div>
+
+
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+              <h2 class="titreBoite" id="documents"><span >Documents</span></h2>
+            
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+<ul>
+<li>
+<strong>
+
+  
+    <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir document')), this.innerHTML.trim());" href="document/rpcq_bien_93524_247012.PDF?id=247012" target="_blank">Site patrimonial de Charlesbourg. Plan de conservation</a>
+  
+  
+
+</strong>
+<br/>
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+        Sylvain Lizotte 
+        2016, 
+        
+        &#169; 
+            
+            
+                Ministère de la Culture et des Communications
+            
+        
+      
+      
+    
+  
+  
+
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>AUGERON, Mickaël, dir., Dominique GUILLEMET, dir., Alain ROY, dir. et Marc ST-HILAIRE, dir. <I>Les traces de la Nouvelle-France au Québec et en Poitou-Charentes</I>. Québec, Les Presses de l'Université Laval, 2008. 308 p.</li>
+      
+    
+      <li>BÉDARD, Michel. « Contribution à l'histoire des communes : le cas de la seigneurie Notre-Dame-des-Anges de 1665 à 1735 ». <I>Le Charlesbourgeois</I>. Vol. XI, no 4 (1994), p. 3-19.</li>
+      
+    
+      <li>DUFRESNE, Michel. « Arrondissement historique de Charlesbourg ». Commission des biens culturels du Québec. <I>Les chemins de la mémoire. Monuments et sites historiques du Québec. Tome I</I>. Québec, Les Publications du Québec, 1990, p. 237-241.</li>
+      
+    
+      <li>GIROUX-ALLAIRE, Ruth. « Charlesbourg, des basses terres au plateau laurentien ». <I>Le Charlesbourgeois</I>.  No 84 (2004), p. 3-23.</li>
+      
+    
+      <li>LACHANCE, Johanne. « Le Trait-Carré d'hier à aujourd'hui ». <I>Le Charlesbourgeois</I>. Vol. X, no 2 (1993), p. 3-15.</li>
+      
+    
+      <li>LEFEBVRE, Jean-Pierre. « La petite histoire de Charlesbourg ». <I>Le Charlesbourgeois</I>.  No 79 (2003), p. 3-11.</li>
+      
+    
+      <li>LÉGARÉ, Denyse. <I>Étude de caractérisation de l'arrondissement historique de Charlesbourg</I>. Québec, Commission des biens culturels du Québec, 2005. 42 p.</li>
+      
+    
+      <li>LIZOTTE, Sylvain, dir. <I>Plan de conservation du site patrimonial de Charlesbourg</I>. Québec, Ministère de la Culture et des Communications, 2016. 110 p.</li>
+      
+        <ul>
+          
+            <li>Le document intitulé <i>Site patrimonial de Charlesbourg. Plan de conservation</i> dans la section <a href="#documents">Documents</a> en fait partie.</li>
+          
+        </ul>
+      
+    
+      <li>MALOUIN, Reine. <I>Charlesbourg 1660-1949</I>. Québec, Éditions La Liberté, 1972. 223 p.</li>
+      
+    
+      <li>NOPPEN, Luc. « Le Vieux-Charlesbourg ». <I>Le Charlesbourgeois</I>.  No 49 (1996), p. 3-8.</li>
+      
+    
+      <li>VILLENEUVE, Cécile. <I>Charlesbourg, son histoire</I>. Charlesbourg, 2000. s.p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1327089254" async></script></body>
+</html>

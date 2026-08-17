@@ -1,0 +1,2785 @@
+Mise à jour de l'inventaire du
+patrimoine bâti de l'île d'Orléans
+Rapport de synthèse
+
+
+
+
+                      Août 2014
+Crédits et remerciements
+
+  Cette étude a été réalisée par                            Chargé de projet,
+                                                                      projet, coordination et révision
+       la firme de consultants en                           Martin Dubois
+       patrimoine et architecture
+     Patri-Arch dans le cadre de                            Suivi du projet à la MRC de l'Île
+                                                                                        l'Île-
+                                                                                          Île-d'Orléans
+    l’Entente de développement                              Marie-Andrée Thiffault, architecte
+     culturel intervenue entre le
+Centre local de développement                               Suivi du projet au ministère de la Culture et des
+              de l’Île-d’Orléans, la                        Communications
+        Municipalité régionale de                           Geneviève Dion
+   comté de l'Île-d'Orléans et le
+  ministère de la Culture et des                            Recherches, travaux sur le terrain et saisie des
+   Communications du Québec.                                données, évaluation
+                                                            Élyse Levasseur
+                                                            Maryse Vaillancourt
+                                                            Catherine Vallières
+
+
+
+
+Remerciements
+L’équipe de Patri-Arch tient à remercier Marie-Andrée Thiffault et Geneviève Dion pour leur
+collaboration tout au long du projet. Nous tenons à remercier également le personnel de la MRC
+et du CLD de l’Île-d’Orléans ainsi que celui du ministère de la Culture et des Communications,
+notamment Sylvain Lizotte, Isabelle Jacques et Josée Perreault, pour leur aide précieuse. Enfin,
+nos remerciements s’adressent aux résidents de l’Île d’Orléans rencontrés lors de nos visites et
+qui ont été très généreux de leur temps et de leurs connaissances.
+
+
+Droits d’auteur et conditions d’utilisation
+Patri-Arch cède à la MRC de l’Île-d’Orléans les droits d’utilisation pour l’ensemble des textes, des
+photographies et des illustrations réalisés dans le cadre de ce mandat. La MRC de l’Île-d’Orléans
+s’engage pour sa part à ce que toutes les dispositions relatives au respect des droits d’auteur des
+documents qu’elle utilise soient respectées. Advenant l’utilisation pour des fins de publications
+(impressions ou web) de textes, photographies et illustrations réalisés par Patri-Arch dans le cadre
+du présent mandat, la mention « © Patri-Arch » doit se retrouver en tout temps dans les crédits
+associés aux textes et dans la légende accompagnant chacune des photographies et illustrations.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                              PATRI•ARCH
+Rapport de synthèse
+Table des matières
+CRÉDITS ET REMERCIEMENTS
+           REMERCIEMENTS ................................................................
+                         ................................ ................................................................
+                                                          ................................ ......................................
+                                                                                           ................................ ...... 3
+TABLE DES MATIÈRES ................................................................
+                   ................................ ................................................................
+                                                    ................................ ...............................................
+                                                                                     ................................ ............... 5
+INTRODUCTION ................................................................
+             ................................ ................................................................
+                                              ................................ ......................................................
+                                                                               ................................ ...................... 6
+MÉTHODOLOGIE ................................................................
+             ................................................................................................
+                                             ................................ .....................................................
+                                                                              ................................ ..................... 8
+   Étape 1 : Démarrage du projet et travaux préparatoires .............................................................................................. 8
+   Étape 2 : Travaux sur le terrain....................................................................................................................................... 8
+   Étape 3 : Recherches documentaires sommaires........................................................................................................ 11
+   Étape 4 : Intégration des données dans le système PIMIQ ......................................................................................... 12
+   Étape 5 : Évaluation et hiéarchisation patrimoniales................................................................................................... 15
+   Étape 6 : Rapport de synthèse ...................................................................................................................................... 24
+   Produits livrés................................................................................................................................................................. 24
+LES COURANTS ARCHITECTURAUX
+             ARCHITECTURAUX ................................................................
+                            ................................ ..............................................................
+                                                             ................................ .............................. 25
+   La maison d'inspiration française ................................................................................................................................. 26
+   La maison traditionnelle québécoise d'influence néoclassique.................................................................................. 28
+   Le style Second Empire et la maison à mansarde ....................................................................................................... 30
+   Le cottage Regency........................................................................................................................................................ 32
+   L’éclectisme victorien .................................................................................................................................................... 34
+   Le cottage vernaculaire américain ................................................................................................................................ 35
+   La maison cubique ........................................................................................................................................................ 38
+   La maison Boomtown.................................................................................................................................................... 39
+   L’architecture Arts & Crafts ........................................................................................................................................... 42
+   Le régionalisme québécois ........................................................................................................................................... 43
+   Le modernisme .............................................................................................................................................................. 46
+DIAGNOSTIC GÉNÉRAL ................................................................
+                   ................................ ................................................................
+                                                    ................................ ............................................
+                                                                                     ................................ ............ 47
+   Composition de l’inventaire .......................................................................................................................................... 47
+   Valeur patrimoniale ....................................................................................................................................................... 48
+   État physique.................................................................................................................................................................. 49
+   État d’authenticité .......................................................................................................................................................... 49
+BIBLIOGRAPHIE................................................................
+             ................................ ................................................................
+                                              ................................ .....................................................
+                                                                               ................................ ..................... 51
+ANNEXE 1: LISTE DES CODES DE RUES
+
+ANNEXE 2: LISTE DES BIENS INVENTORIÉS
+                          INVENTORIÉS
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                                                                           PATRI•ARCH
+Rapport de synthèse
+    Introduction
+
+    Depuis le décret du 11 mars 1970, l’île d’Orléans est officiellement reconnue comme l’un des
+    lieux d’établissement pionnier des immigrants français en Nouvelle-France. Le site patrimonial
+    de l’île-d’Orléans, anciennement appelé arrondissement historique, est aussi le symbole de leur
+    enracinement durable en Amérique du Nord. Le but de cette mesure de protection légale est de
+    préserver et de mettre en valeur le caractère traditionnel de l’île, son visage façonné par plus de
+    trois siècles d’histoire, son bâti ancien d'une richesse exceptionnelle et la beauté de ses
+    paysages culturels. Six villages anciens, Sainte-Famille, Sainte-Pétronille, Saint-François, Saint-
+    Jean, Saint-Laurent et Saint-Pierre se partagent le territoire de l’île d’Orléans découvert en 1535
+    par Jacques Cartier. Dès le 17e siècle, les colons ont peuplé cette île verdoyante qui offre de
+    généreuses terres aux agriculteurs ainsi qu’un paysage bucolique. Chacun de ces villages se
+    distingue par leur évolution, que ce soit l’agriculture, la villégiature ou la navigation. Ces
+    fonctions ont laissé des traces tangibles dans l’architecture et le paysage orléanais.
+
+
+    Le site patrimonial de l’Île-d’Orléans comprend plusieurs sites archéologiques préhistoriques,
+    amérindiens et euro-québécois. Il compterait quelques 800 bâtiments patrimoniaux, dont
+    plusieurs maisons, des immeubles religieux ainsi que des dépendances agricoles1. L’inventaire
+    du patrimoine bâti faisant l’objet de la présente mise à jour, qui compte un peu plus de 600
+    bâtiments, est le plus volumineux. Ce dernier est mis à jour environ à tous les dix ans depuis
+    1970. C’est dans ce contexte que s’inscrit la révision actuelle de l’inventaire qui s’inscrit dans le
+    cadre    de    l’Entente     de    développement         culturel    intervenue      entre     le   Centre     local    de
+    développement (CLD) de l’Île d’Orléans, la Municipalité régionale de comté (MRC) de l’Île
+    d’Orléans et le ministère de la Culture et des Communications (MCC).
+
+
+    OBJECTIFS DU PROJET
+    La mise à jour de l’inventaire du patrimoine bâti de l’île d’Orléans permet de répondre à trois
+    principaux objectifs :
+
+
+             Fournir aux intervenants de l’île d’Orléans et du MCC une vue d’ensemble actualisée du
+             patrimoine bâti de l’île et de ses principales caractéristiques;
+
+
+
+
+    1.   L’ensemble des bâtiments patrimoniaux sont répartis à travers trois inventaires, soit bâti (le présent inventaire
+         surtout composé de résidences mais aussi de quelques presbytères, écoles et bâtiments commerciaux), religieux
+         (églises, chapelles et croix de chemin) et agricole (granges-étables et autres dépendances agricoles).
+
+
+
+6   PATRI•ARCH                                           MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                          Rapport de synthèse
+         Établir l’état de conservation des différents bâtiments ainsi que leur niveau d’intérêt
+         patrimonial;
+         Compléter et bonifier l’information sur les biens inventoriés qui, jusqu’ici, n’ont été
+         décrits que de façon sommaire et ajouter des biens qui auraient été oubliés dans les
+         inventaires précédents.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS               PATRI•ARCH   7
+Rapport de synthèse
+    Méthodologie
+    Nous relatons ici la méthodologie employée et les principales étapes de ces travaux
+    d’inventaire.
+
+
+    PHASE 1 : COLLECTE DE DONNÉES
+    Étape 1 : Démarrage du projet et travaux préparatoires
+    Cette première étape consistait à mettre en place les principaux outils qui étaient nécessaires à
+    la bonne suite des travaux et à s’entendre de façon définitive sur les objectifs, la méthodologie
+    et le cheminement du projet. Une rencontre de démarrage entre la MRC de l'Île-d'Orléans et le
+    chargé de projet de Patri-Arch a été réalisée afin de mettre au point les aspects techniques et
+    scientifiques de l’étude.
+
+
+    Environ 600 bâtiments avaient déjà été identifiés dans des inventaires précédents qui ont été
+    mis à la disposition de l’équipe de travail. Quelques bâtiments ont été ajoutés à la liste initiale
+    alors que d’autres ont été supprimés en raison de leur disparition (démolition, incendie, etc.).
+    C’est également durant cette étape qu'ont été planifiés les travaux sur le terrain et les
+    recherches documentaires afin d’optimiser les déplacements sur le territoire. Ainsi, les listes,
+    les cartes et autres outils nécessaires à la bonne suite des travaux ont été préparés.
+
+
+    Étape 2 : Travaux sur le terrain
+    Cette deuxième étape consistait à relever sur le terrain, pour l’ensemble des adresses
+    identifiées, les diverses informations à insérer dans la fiche d’inventaire du patrimoine bâti,
+    c’est-à-dire essentiellement les coordonnées d’identification physique (adresse, dénomination)
+    les caractéristiques architecturales (traits architecturaux dominants, matériaux de recouvrement
+    extérieur, ouvertures, ornementation), les informations relatives aux relations entre le bâtiment
+    et son environnement paysager ainsi que l’état de conservation du bâtiment. La description des
+    bâtiments ne concernanait que leur aspect extérieur. Aucune visite, ni analyse des composantes
+    intérieures des bâtiments n'a été effectuée.
+
+
+    L’essentiel du travail sur le terrain s’est échelonné des mois d'octobre à décembre 2013. Les
+    travaux ont repris au mois de mai 2014, pour les maisons qui faisaient l’objet de travaux à
+    l'automne, cachées par une végétation dense ou inaccesibles en raison du couvert de neige. De
+    façon parallèle, les biens inventoriés ont fait l’objet d’un relevé photographique des façades
+    visibles de la voie publique et, dans certains cas, de détails architecturaux d’intérêt.
+
+
+    De deux à six photographies de chaque bien ont été prises en bonne résolution. Les
+    photographies ont ensuite été classées, identifiées et archivées pour faciliter leur utilisation. Un
+
+
+
+8   PATRI•ARCH                                  MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+système d’identification des photographies numériques a été élaboré. En voici les principales
+lignes :
+
+
+1 – L’année de la prise de la photographie
+2013
+
+2 – Le code de la municipalité
+Code géographique est attribué à chacune des 6 municipalités :
+
+
+Sainte-Famille : 20010
+Sainte-Pétronille : 20030
+Saint-François-de-l'Île-d'Orléans : 20005
+Saint-Jean-de-l'Île-d'Orléans : 20015
+Saint-Laurent-de-l'Île-d'Orléans : 20020
+Saint-Pierre-de-l'Île-d'Orléans : 20025
+
+
+
+3 – Le nom de la voie publique
+Code de 4 lettres désignant la voie publique :
+Ex :
+ROYA               chemin Royal                          GALE             avenue du Galendart
+FERL               chemin Ferland                        EGLI             chemin de l'Église
+
+
+La liste des codes de rues est présentée en annexe 2 du présent rapport.
+
+
+4 – Le numéro civique
+Toujours à quatre chiffres. Dans les cas où le numéro civique se compose de moins de quatre
+chiffres, des 0 ont été placés en premier lieu. Dans les cas où il y a plus d’un numéro civique
+sur un bâtiment, seul le plus petit a été inscrit.
+
+
+5 – Le numéro de la prise de vue
+Le devis photographique s’élabore comme suit :
+
+       1.     Vue frontale de la façade principale
+       2.     Vue d’angle 1 ‒ angle façade principale et façade latérale gauche
+       3.     Vue frontale de la façade latérale gauche
+       4.     Vue d’angle 2 ‒ angle façade latérale gauche et façade arrière
+       5.     Vue frontale de la façade arrière
+       6.     Vue d’angle 3 ‒ angle façade arrière et façade latérale droite
+       7.     Vue frontale de la façade latérale droite
+       8.     Vue d’angle 4 ‒ angle façade latérale droite et façade principale
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                         PATRI•ARCH   9
+Rapport de synthèse
+                                                             5
+                           4                                                                            6
+
+
+
+
+                       3                                                                                    7
+                                                    Bien architectural
+
+
+
+
+                           2
+                                                                                                    8
+
+          9.      Détail                                     1
+
+          10.     Édifices annexes
+          11.     Cour arrière et stationnements
+          12.     Enseignes et affichages
+          13.     Le site dans son environnement : Vue d’ensemble à l’approche du site
+
+     6 – Le numéro séquentiel
+     Ce numéro séquentiel (01, 02, 03, etc…) est nécessaire s'il y a plus d’une photographie pour la
+     même prise de vue d’un même bâtiment (ex. deux fois la façade principale). Facultatif.
+
+     7 – Exemple
+     2013_20010_ROYA_3805_01_02
+     Du terrain fait en 2013, deuxième photographie de la façade principale du 3805, chemin Royal
+     à Sainte-Famille.
+
+
+
+
+10   PATRI•ARCH                                    MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                    Rapport de synthèse
+Étape 3 : Recherches documentaires sommaires
+L’inventaire ne comprennait pas de recherches ni d’analyses historiques poussées concernant
+les bâtiments de l’inventaire. Nous avons tout de même survolé quelques sources secondaires
+pour y extraire certaines données historiques. Ces recherches sommaires avaient pour but de
+dater ou de situer la période de construction du bien patrimonial, de statuer sur des
+associations avec des personnages ou des événements importants et de dresser une synthèse
+de l’évolution physique du bien. Le cas échéant, des recherches plus poussées pourront être
+réalisées dans des phases ultérieures, en priorisant certains biens. C’est donc dire que les
+fiches de plusieurs ces bâtiments sont restées vierges à l’item des données historiques sauf
+pour l’année de construction.
+
+
+Les anciens inventaires, dont ceux de 1980, 1989 et de 2005, ont également été consultés.
+Cette étape a permis aussi de retracer de l’iconographie ancienne reliée à ces biens et de
+connaître l’évolution des bâtiments au cours des dernières décennies. Les photos de 2005 étant
+déjà dans PIMIQ, seules les photos tirées des inventaires de 1980 et 1989 ont été numérisées et
+intégrées à la base de données sans toutefois qu'elles soient diffusées au grand public. Aucune
+autre photographie ancienne n’a été insérée dans la fiche pour les raisons de droits d'auteurs.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS               PATRI•ARCH   11
+Rapport de synthèse
+     PHASE 2 : VERSEMENT DANS LA BASE DE DONNÉES
+     Étape 4 : Intégration des données dans le système PIMIQ
+     Cette quatrième étape consistait à inclure dans la base de données PIMIQ, pour tous les biens
+     inventoriés, l’ensemble des données administratives, les photographies, ainsi que les données
+     alphanumériques de l’inventaire recueillies sur le terrain. PIMIQ (patrimoine immobilier,
+     mobilier et immatériel au Québec) est une base de données évolutive élaborée et gérée par le
+     ministère de la Culture et des Communications. Avant leur intégration dans la fiche, les
+     photographies numériques ont été traitées et redimensionnées selon les normes du Ministère.
+     Ces photographies ont été identifiées, classées, indexées et archivées sur DVD en haute
+     résolution pour leur utilisation ultérieure. Toutes les fiches existaient déjà dans le système et
+     possédaient déjà des données spatiales (région administrative, MRC, municipalité, adresse,
+     cadastre, coordonnées GPS, etc.).
+
+
+     Le contenu de la fiche d’inventaire du patrimoine bâti, rattachée à la base de données PIMIQ,
+     reprend les items suivants :
+
+        •   Données    architecturales :   style    architectural,      catégorie      fonctionnelle,       matériaux
+            principaux de recouvrement extérieurs (murs et toiture), ouvertures (type de portes et
+            fenêtres, lucarnes, matériaux), ornementation.
+
+        •   Données historiques : date ou période de construction connue ou estimée, personnages
+            ou événements liés, synthèse historique s’il y a lieu.
+
+        •   Évaluation sommaire de l’état de conservation des principales composantes bâties
+            (toitures, fondations, murs extérieurs, ouvertures, cheminée).
+
+        •   Photographies    du     bâtiment,   incluant       l’iconographie       ancienne       des     inventaires
+            précédents, le cas échéant.
+
+     Pour l’évaluation de l’état de conservation et d’authenticité, nous nous sommes servis des
+     définitions fournies par le MCC et destinées au système PIMIQ :
+
+
+     État physique
+     L’état physique désigne l’état matériel actuel (au moment de l’inventaire ou de l’inspection) du
+     bien immobilier. Cela renvoie à l’entretien du bâtiment. Le système PIMIQ permet de porter un
+     constat général sur l’état physique du bien et de porter un constat sur ses différentes
+     composantes.
+
+
+
+
+12   PATRI•ARCH                                    MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                    Rapport de synthèse
+État physique général
+
+
+  État physique                                                Définition générale
+Excellent                 Le bien immobilier ne présente aucune altération visible et il est dans un
+                          parfait état d’entretien.
+
+Bon                       Le    bien    immobilier       présente         des   altérations   mineures,     facilement
+                          réversibles et localisées. Il peut s’agir de peinture qui s’écaille, de mastic à
+                          refaire sur les fenêtres ou de maçonnerie à rejointoyer partiellement.
+
+                          Dans son ensemble, cependant, le bien est dans un bon état d’entretien.
+
+Passable                  Le bien immobilier présente des altérations majeures, qui nécessitent des
+                          interventions importantes. Il peut s’agit de couverture en tôle à remplacer,
+                          de parement de bois à changer ou encore d’une maçonnerie à rejointoyer
+                          en entier.
+
+                          Ces interventions majeures ne touchent cependant pas l’ensemble du
+                          bâtiment et sont plutôt localisées.
+
+                          Le    bien    peut     également       présenter       une   accumulation       d’altérations
+                          mineures, ce qui nécessite une intervention d’ensemble.
+
+Mauvais                   Le bien immobilier présente des altérations majeures sur la plupart de ses
+                          composantes (fondation, parement, ouverture, toiture).
+
+
+État physique des composantes
+
+
+  État physique                                Définition pour les différentes
+                                                                   différentes composantes
+Excellent                 La composante ne présente aucune altération visible.
+
+Bon                       La composante présente une altération mineure, comme de la peinture qui
+                          s’écaille à quelques endroits sur un parement de bois. Cette altération
+                          peut cependant être corrigée facilement par une intervention                              de
+                          préservation.
+
+Passable                  La composante présente une altération majeure, comme une maçonnerie
+                          dont il faudrait refaire l’ensemble des joints ou encore une galerie dont il
+                          faudrait remplacer certaines sections et refaire la peinture en entier. Dans
+                          son ensemble, cependant, la composante n’a pas besoin d’être remplacée
+                          et peut être restaurée.
+
+Mauvais                   La composante présente une altération majeure, comme une couverture en
+                          tôle qui a atteint la fin de sa durée de vie ou encore des fenêtres
+                          traditionnelles en bois qui doivent être changées. La composante ne peut
+                          être restaurée et doit être remplacée.
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                      PATRI•ARCH   13
+Rapport de synthèse
+     État d’authenticité
+     L’état d’authenticité renvoie à l’apparence d’origine du bien immobilier. Cela permet de juger si
+     l’état actuel reflète encore l’état d’origine du bâtiment.
+
+
+      État d’authenticité                                   Définition générale
+     Excellent               Le bien immobilier a conservé une apparence cohérente avec son époque
+                             de construction, selon les documents disponibles.
+
+     Bon                     Le bien immobilier a subi des modifications mineures, comme le
+                             remplacement d’un parement en planche verticale par un parement en
+                             planche horizontale ou encore le remplacement d’une couverture en
+                             bardeau de cèdre par une couverture en tôle à la canadienne. Le bien
+                             peut également avoir été doté d’un agrandissement ancien et bien
+                             intégré à l’ensemble.
+
+                             Cette   modification    est    cependant        cohérente       avec     l’époque       de
+                             construction du bien.
+
+     Passable                Le bien immobilier a subi une modification majeure en ce qui a trait à
+                             l’une des ses composantes principales (volume, parement, ouvertures,
+                             toiture). Il peut s’agir du remplacement d’un parement de bois par un
+                             parement     en   vinyle,     l’agrandissement        des     ouvertures       lors     de
+                             l’installation de fenêtre contemporaine ou l’ajout d’un volume de
+                             grandes dimensions mal intégré à l’ensemble.
+
+                             Cette modification est difficilement réversible et n’est pas cohérente
+                             avec l’époque de construction du bien.
+
+     Mauvais                 Le bien immobilier présente des altérations majeures sur la plupart de
+                             ses composantes (fondation, parement, ouverture, toiture).
+
+                             Ces modifications sont difficilement réversibles et                     ne sont pas
+                             cohérentes avec l’époque de construction du bien.
+
+
+
+
+14   PATRI•ARCH                                  MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                  Rapport de synthèse
+PHASE 3 : ÉVALUATION PATRIMONIALE ET SYNTHÈSE
+Étape 5 : Évaluation et hiéarchisation patrimoniales
+Cette cinquième étape consistait à évaluer l’intérêt patrimonial de chacun des biens inventoriés,
+ce qui n’avait jamais été fait de façon systématique dans les inventaires précédents.
+
+
+L’évaluation du patrimoine bâti a pris en compte de plusieurs critères touchant autant l’état
+physique, l’état d’authenticité, la valeur intrinsèque du bâtiment (âge, usage, architecture) et la
+qualité du milieu environnant. Ainsi, l’évaluation patrimoniale s'est faite non pas seulement en
+vertu de l’ancienneté et de critères esthétiques, mais selon une grille d’analyse comportant une
+échelle de critères plus complète. Pour bien dégager le potentiel patrimonial des biens
+inventoriés, voici les critères et sous-critères qui ont été pris en compte :
+
+      Critère                Sous-
+                             Sous-critère                                          Définition
+ Intérêt              Ancienneté relative ou           Ce critère permet d’évaluer l’ancienneté d’un bâtiment
+ historique           absolue                          par rapport aux 400 ans d’histoire du Québec
+                                                       (ancienneté absolue) ou par rapport à une échelle plus
+                                                       restreinte (ancienneté relative), dont l’ancienneté d’un
+                                                       bâtiment par rapport à l’histoire d’une région ou
+                                                       d’une municipalité.
+
+                                                       Par exemple, un bâtiment moderne pourrait avoir un
+                                                       intérêt historique lié à son ancienneté relative par
+                                                       rapport aux autres bâtiments modernes similaires.
+
+                      Association à un                 Ce critère permet de souligner les liens qui associent
+                      personnage ou à un               directement un bâtiment à un personnage (ex. :
+                      groupe                           architecte) ou à un groupe (ex. : compagnie) s’étant
+                                                       distingué dans l’histoire.
+
+                                                       Par exemple, on pourrait associer un bâtiment à son
+                                                       architecte, à un individu célèbre qui l’aurait occupé, à
+                                                       un artiste dont l’une des œuvres y serait associée
+                                                       (ex. : les œuvres du 1%), etc.
+
+                      Importance dans                  Ce critère permet d’évaluer la place et l’importance
+                      l’histoire locale,               d’un      bâtiment        comme        témoin    d’événements
+                      régionale ou nationale           importants         dans   l’histoire   locale,   régionale   ou
+                                                       nationale. Cela se traduit notamment par l’association
+                                                       du bâtiment à un ou plusieurs faits historiques
+                                                       marquants ou au rôle qu’il a pu jouer dans le
+                                                       développement de son milieu.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                    PATRI•ARCH    15
+Rapport de synthèse
+      Intérêt          Association à une      Ce critère renvoie à un bien immobilier pouvant
+      ethnologique     pratique ou à une      témoigner d’une pratique, d’une technique ou d’un
+      (authenticité)   technique              mode de vie traditionnel. Le bâtiment sera donc
+                       traditionnelle         évalué        en    fonction       de    la    conservation         de
+                                              caractéristiques pouvant témoigner de cette pratique,
+                                              technique ou mode de vie.
+
+                       Association à une      Ce critère renvoie à un bâtiment dont la fonction est
+                       utilisation            représentative       d’une      utilisation     traditionnelle      du
+                       traditionnelle du      territoire ou d’un mode d’établissement particulier
+                       territoire ou à un     dans sa région.
+                       mode d’établissement
+                                              Par exemple, il serait possible d’associer un moulin à
+                                              scie à l’exploitation forestière dans une région
+                                              particulièrement            reconnue          pour       ce       type
+                                              d’utilisation/exploitation du territoire. De la même
+                                              manière, ce critère pourrait permettre d’évaluer la
+                                              valeur patrimoniale d’une grange située dans une
+                                              région où l’exploitation agricole et le patrimoine qui
+                                              en découle sont très importants.
+
+      Intérêt          Point de repère        Ce critère permet de déterminer si le bâtiment
+      paysager                                constitue un point de repère significatif dans le
+                                              paysage urbain ou rural. Cela se traduit notamment
+                                              par une situation particulière dans son environnement
+                                              (ex. : tête d’îlot, retrait important par rapport à la rue)
+                                              ou      par   des    traits    architecturaux        remarquables,
+                                              susceptibles de faciliter l’orientation d’un observateur
+                                              (ex. : tour, clocher, saillie importante).
+
+                       Présence d’attributs   Ce      critère    permet     de   tenir      compte     d’éléments
+                       particuliers           paysagers particuliers qui participent à l’intérêt du
+                                              bien culturel.
+
+                                              Par exemple, il peut d’agir d’arbres matures bordant
+                                              une allée, d’un panorama sur un plan d’eau, d’un
+                                              ensemble de bâtiments agricoles remarquables, etc.
+
+                       Association à un       Ce critère permet d’évaluer la contribution d’un
+                       paysage culturel ou    bâtiment à un paysage culturel emblématique.
+                       représentatif d’un
+                                              Par     exemple,      un      phare     contribue      de     manière
+                       paysage culturel
+                                              significative à la qualité d’un paysage maritime, un
+                                              ensemble de ferme participe au paysage agricole d’un
+                                              lieu.
+
+
+
+16   PATRI•ARCH                               MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                               Rapport de synthèse
+ Intérêt              Rareté relative ou               Ce critère renvoie à la survivance du type de bâtiment
+ artistique et        absolue                          dans lequel s’inscrit le bien immobilier inventorié. Une
+ architectural                                         valeur élevée de rareté absolue sera accordée à un
+                                                       bâtiment dont il ne subsiste que très peu de
+                                                       représentants du même type architectural à l’échelle
+                                                       du Québec.
+
+                                                       La rareté relative réfère quant à elle à la rareté d’un
+                                                       type de bâtiment dans un secteur géographique plus
+                                                       restreint ou une période historique moins vaste.
+
+                      Présence d’attributs             Ce critère permet d’évaluer le caractère unique et/ou
+                      particuliers                     innovateur de l’architecture. Le bâtiment inventorié
+                                                       sera     donc        noté    en      fonction   des    éléments
+                                                       architecturaux distinctifs et des innovations, aussi
+                                                       bien stylistiques que techniques, qu’il permet de
+                                                       mettre de l’avant. Il peut s’agir d’un matériau
+                                                       particulier ou peu courant (ardoise, cuivre, bardeaux
+                                                       découpés), d’un ornement rare ou particulièrement
+                                                       élaboré, d’une technique de construction innovatrice
+                                                       (ex. : grange octogonale).
+
+                      Situation dans la                Ce critère permet de situer le bien immobilier
+                      production courante              inventorié         par   rapport    aux   bâtiments    similaires
+                                                       construits à la même époque. On pourra notamment
+                                                       déterminer si le bien est représentatif du style
+                                                       privilégié à l’époque de sa construction, s’il témoigne
+                                                       d’innovations formelles ou techniques ou si, au
+                                                       contraire, il se positionne en décalage avec les goûts
+                                                       et les techniques de construction de son temps.
+
+                      Situation dans l’œuvre           Ce critère permet de positionner le bâtiment dans le
+                      du concepteur                    corpus de son maître d’œuvre (architecte, ingénieur,
+                                                       constructeur). Cela permet d’évaluer le niveau de
+                                                       maturité technique, esthétique ou stylistique du
+                                                       concepteur au moment de la réalisation du bâtiment.
+                                                       Il est alors         possible      de déterminer si le bien
+                                                       immobilier inventorié constitue une pièce maitresse
+                                                       ou unique dans l’œuvre de son concepteur, s’il est
+                                                       précurseur d’un changement dans son style ou s’il est
+                                                       simplement représentatif de son travail.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                      PATRI•ARCH    17
+Rapport de synthèse
+      Valeur           Pérennité de l’usage      Ce critère permet de déterminer si le bâtiment a
+      d’usage                                    conservé son usage d’origine ou si, au contraire, il a
+                                                 changé de vocation(s) au fil du temps.
+
+                                                 Ce critère permet également évaluer la capacité du
+                                                 bâtiment à accueillir un nouvel usage sans avoir à être
+                                                 modifié de manière importante. Ainsi, la pérennité de
+                                                 l’usage     d’un       bâtiment     renvoie     aussi    bien     à   la
+                                                 préservation de sa fonction d’origine qu’à sa capacité
+                                                 à    demeurer       fonctionnel       dans     l’avenir,     tout     en
+                                                 conservant ses caractéristiques patrimoniales.
+
+
+     La pondération
+
+     Pour chacun des 5 critères, le bâtiment se voit attribuer la cote A, B, C, D ou E s’il répond à l’un
+     ou à l’autre des énoncés cités dans le tableau qui suit. Ces cotes ont été inscrites dans PIMIQ
+     dans la case « note » suivant chaque critère, sans toutefois coter chaque sous-critère.
+
+
+      Intérêt          A        Le bâtiment est parmi les plus anciens de l’Île d’Orléans. À titre
+      historique                indicatif, les bâtiments construits avant 1800 sont considérés comme
+                                des bâtiments ayant une ancienneté exceptionnelle (ex. : maison du
+                                Régime français).
+
+                                Le bâtiment est associé à un événement, à un personnage ou à une
+                                thématique lié à l’histoire nationale du Québec ou du Canada (ex. :
+                                résidence de Félix Leclerc, maison d’Horatio-Walker).
+
+                       B        Le bâtiment possède une excellente ancienneté. À titre indicatif, les
+                                bâtiments construits entre 1800 et 1850 sont considérés comme très
+                                anciens.
+
+                                Le bâtiment est associé à un événement, à un personnage ou à une
+                                thématique lié à l’histoire régionale (ex. : résidence du seigneur ou
+                                d’un politicien, presbytère d’une paroisse-mère, etc.).
+
+                       C        Le bâtiment possède une ancienneté appréciable. À titre indicatif, les
+                                bâtiments construits entre 1850 et 1900 sont considérés comme des
+                                bâtiments ayant une bonne valeur d’âge.
+
+                                Le bâtiment est associé à un événement, à un personnage ou à une
+                                thématique lié à l’histoire locale (ex. : résidence du bedeau, marchand
+                                général, école de rang, etc.) ou est représentatif d’une thématique
+                                historique    particulière     (ex. :    importante       exploitation       agricole,
+                                chalouperie, maison de villégiature de Sainte-Pétronille).
+
+
+
+18   PATRI•ARCH                                   MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                   Rapport de synthèse
+                       D          Le bâtiment possède une certaine ancienneté sans nécessairement se
+                                  démarquer à cet égard. À titre indicatif, les bâtiments construits entre
+                                  1900 et 1950 sont considérés comme des bâtiments traditionnels
+                                  ayant une valeur d’âge moyenne.
+                                  Le bâtiment n’est pas associé à un événement ou à un personnage
+                                  d’importance, mais il est représentatif de la production courante de
+                                  son époque (ex. : maisons vernaculaires américaines).
+
+                       E          Le bâtiment est relativement récent. À titre indicatif, les bâtiments
+                                  construits entre 1950 et aujourd’hui sont considérés comme des
+                                  bâtiments ayant une faible valeur d’âge. Ils peuvent toutefois se
+                                  démarquer à d’autres égards, notamment au niveau de leur
+                                  architecture (patrimoine moderne).
+                                  Le bâtiment n’est pas typique ou représentatif d’une période de
+                                  construction ou de développement donnée (ex. : bungalow dans un
+                                  quartier ancien, bâtiment récent atypique dans un environnement
+                                  ancien et homogène).
+                                  Le bâtiment n’est pas associé à un événement ou à un personnage
+                                  d’importance et n’est pas représentatif d’une thématique historique
+                                  ou architecturale particulière (ex. : résidence anonyme difficilement
+                                  associable à un style).
+
+ Intérêt               A          Le bâtiment est exactement dans son état d’origine, est dans un état
+ ethnologique                     complet ou a conservé l’ensemble de ses composantes architecturales
+                                  en raison d’un entretien constant ou d’une restauration adéquate.
+ (authenticité)
+                                  Le bâtiment n’a subi aucune intervention depuis sa construction et
+                                  est en bonne condition physique.
+
+                       B          Le    bâtiment        a    conservé      l’essentiel   de   ses   composantes
+                                  architecturales,       mais     peut    avoir   subi   quelques   modifications
+                                  réversibles mineures qui n’affectent pas l’intégrité de l’ensemble.
+                                  Le bâtiment a subi peu d’intervention depuis sa construction et est en
+                                  bonne condition physique.
+
+                       C          Le bâtiment a conservé la plupart de ses composantes essentielles,
+                                  mais peut avoir subi quelques modifications réversibles qui affectent
+                                  peu l’intégrité de l’ensemble.
+                                  Le bâtiment a subi des transformations harmonieuses ou normales
+                                  (agrandissement bien intégré, adaptation à un courant architectural
+                                  ancien, changement de fenêtres en conservant un modèle compatible,
+                                  apports valables ou transformations qui ont amélioré l’état initial).
+                                  Le bâtiment n’a subi aucune intervention depuis sa construction, mais
+                                  est en mauvaise condition physique.
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                PATRI•ARCH   19
+Rapport de synthèse
+                  D   Le bâtiment a connu bon nombre de transformations réversibles ou
+                      mineures (ex. : changements de portes, de fenêtres sans modifier
+                      l’ouverture, remplacement de matériaux de revêtement des murs et
+                      de la toiture, remplacement de garde-corps sur galeries ou balcons,
+                      etc.) qui affectent l’intégrité du bâtiment sans toutefois modifier de
+                      façon importante le gabarit, la composition et la lecture de
+                      l’ensemble.
+
+                      Le bâtiment n’a subi qu’une intervention irréversible tout en
+                      conservant intact le reste de ses éléments architecturaux (ex. :
+                      bâtiment ancien avec agrandissement contemporain, une seule
+                      ouverture agrandie).
+
+                  E   Le bâtiment a connu des transformations irréversibles ou majeures
+                      qui altèrent sa valeur patrimoniale (ex. : modifications de la forme ou
+                      de la disposition des ouvertures, modification de la volumétrie ou de
+                      la forme du toit, agrandissement peu harmonieux, suppression de
+                      galeries et de composantes ornementales importantes, etc.).
+
+                      Le bâtiment a subi des transformations réversibles généralisées qui
+                      dénaturent le bâtiment au point de le rendre méconnaissable.
+
+      Intérêt     A   Le bâtiment est situé dans un environnement exceptionnel en raison
+      paysager        de la qualité paysagère du lieu.
+
+                      Le bâtiment est mis en valeur par sa situation relative, soit parce qu’il
+                      est situé sur une place publique importante, dans l’axe d’une
+                      perspective de grand intérêt ou au sommet d’un promontoire.
+
+                      Le bâtiment est un point de repère incontournable dans le paysage ou
+                      a un rayonnement très important sur son voisinage.
+
+                  B   Le bâtiment est situé dans un environnement intéressant ou dans un
+                      ensemble homogène.
+
+                      Le bâtiment est implanté sur une parcelle aménagée qui le met en
+                      valeur.
+
+                      Le bâtiment est un point de repère dans le quartier ou a un
+                      rayonnement important sur son voisinage.
+
+                  C   Le bâtiment est mis en valeur par sa situation, soit parce qu’il est
+                      situé sur une rue prestigieuse, un parcours fondateur ou un axe de
+                      circulation majeur, soit parce qu’il est situé aux abords du fleuve,
+                      d’un parc ou d’une place publique.
+
+                      Le bâtiment possède une implantation particulière d’intérêt ou est
+                      implanté sur un terrain bien aménagé.
+
+
+
+20   PATRI•ARCH                       MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                       Rapport de synthèse
+                       D          Le bâtiment est situé dans un environnement aux particularités
+                                  paysagères communes.
+
+                                  Le bâtiment est implanté sur une parcelle dont l’aménagement est
+                                  standard (terrain de banlieue, bâtiment mitoyen ne possédant qu’une
+                                  cour arrière).
+
+                                  Le bâtiment se confond dans le quartier ou dans son voisinage, sans
+                                  se démarquer.
+
+                                  Le bâtiment est implanté sur un parcours fondateur, mais son
+                                  aménagement paysager ou son environnement immédiat laisse à
+                                  désirer.
+
+                       E          Le bâtiment est situé dans un environnement déstructuré, de
+                                  mauvaise qualité ou altérant sa visibilité et sa mise en valeur.
+
+                                  Le bâtiment est implanté sur une parcelle dont l’aménagement laisse
+                                  à désirer (peu ou pas de végétation, espaces de stationnement
+                                  omniprésents).
+
+                                  Le bâtiment est en totale rupture dans son quartier ou son voisinage
+                                  et nuit à son environnement.
+
+ Intérêt               A          Le bâtiment possède une architecture unique à l’échelle de l’île
+ artistique et                    d’Orléans (ex. : domaine Portheus, église de Sainte-Famille, manoir
+ architectural                    Mauvide-Genest).
+
+                                  Le bâtiment est une œuvre représentative d’un architecte de
+                                  renommée nationale ou internationale.
+
+                       B          Le bâtiment possède des éléments architecturaux distinctifs ou est
+                                  parmi les exemples les plus achevés et complets d’un courant
+                                  architectural (ex. : cottage Régency, maison traditionnelle québécoise
+                                  particulièrement élaborée, maison Second Empire).
+
+                                  Le bâtiment est une œuvre représentative d’un architecte de
+                                  renommée régionale ou locale (ex. : Blatter, Staveley, Baillairgé).
+
+                       C          Le bâtiment possède une architecture représentative à l’échelle de
+                                  l’île d’Orléans sans pour autant être un modèle unique (ex. : maison à
+                                  mansarde, maison traditionnelle québécoise modeste, architecture
+                                  vernaculaire américaine).
+
+                                  Le bâtiment présente un souci du détail ou témoigne d’un savoir-
+                                  faire traditionnel sans toutefois se démarquer au point de vue de son
+                                  ornementation ou de ses composantes stylistiques.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                         PATRI•ARCH   21
+Rapport de synthèse
+                       D        Le bâtiment possède une architecture commune à l’échelle de l’île
+                                d’Orléans et se retrouve en plusieurs exemplaires (ex. : maisons
+                                cubiques), mais certaines caractéristiques sont manquantes ou mal
+                                préservées.
+
+                       E        Le bâtiment possède une architecture discordante dans un milieu
+                                plutôt homogène (ex. : bungalow dans un village, bâtiment à gabarit
+                                hors normes).
+
+                                Le bâtiment ne possède aucun élément architectural d’intérêt ou est
+                                un exemple architectural de piètre qualité.
+
+      Valeur           A        Le bâtiment possède un usage rare ou unique à l’échelle de l’île
+      d’usage                   d’Orléans (ex. : église, chapelle de procession).
+
+                                Le bâtiment est le dernier exemplaire qui témoigne d’un usage ancien
+                                ou révolu (ex. : moulin à vent).
+
+                       B        Le bâtiment possède un usage relativement rare ou spécialisé à
+                                l’échelle de l’île d’Orléans (ex. : presbytère, couvent, école de rang,
+                                etc.).
+
+                                Le bâtiment figure parmi les derniers exemplaires qui témoignent
+                                d’un usage ancien ou révolu (ex. : ancienne forge, chantier maritime).
+
+                       C        Le bâtiment possède un usage relativement courant à l’échelle de l’île
+                                d’Orléans et conserve sa fonction d’origine (ex. : résidence, immeuble
+                                commercial).
+
+                       D        Le   bâtiment   a   subi    un     changement         d’usage      sans     trop    de
+                                modifications apparentes (ex. : maison transformée en commerce).
+
+                       E        Le bâtiment a perdu sa fonction d’origine et son usage actuel est peu
+                                ou n’est pas compatible avec son architecture (ex. : résidence
+                                transformée en garage ou entrepôt).
+
+                                Le bâtiment est vacant et ne possède aucun usage.
+
+
+     Au final, la valeur patrimoniale globale devrait refléter la moyenne des cotes accordées pour
+     chacun des 5 critères. Ceci n’est pas un exercice mathématique ; il faut prendre en compte que
+     les critères n’ont pas tous la même importance ou portée. Cette note générale est inscrite dans
+     PIMIQ à l’endroit indiqué (A à E).
+
+
+     A = Exceptionnelle
+     B = Supérieure
+     C = Bonne
+     D = Moyenne
+     E = Faible
+
+
+22   PATRI•ARCH                                  MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                  Rapport de synthèse
+Valeur exceptionnelle : Valeur à l’échelle nationale, c’est-à-dire que la valeur patrimoniale
+dépasse largement l’échelle locale ou régionale. Il s’agit d’éléments rares, d’équipements
+spécialisés qui sont des points de repère dans le paysage ou qui ont joué un rôle historique
+majeur dans le développement d’un lieu. Ayant habituellement déjà une valeur patrimoniale
+reconnue par le milieu, plusiuers des bâtiments de valeur exceptionnelle sont classés
+immeubles patrimoniaux en vertu de la Loi sur le patrimoine culturel.
+
+
+Valeur supérieure : Valeur forte à l’échelle locale ou régionale, au-dessus de la moyenne des
+bâtiments patrimoniaux recensés. Il s’agit d’éléments qui se démarquent sur plusieurs critères
+et qui sont bien préservés dans l’ensemble. Leur valeur patrimoniale est habituellement
+reconnue dans le milieu ou évidente pour le non initié. Il peut s’agir d’une maison ancestrale en
+pierre ayant conservé ses principaux attributs, d’une maison bourgeoise richement ornée, d’un
+presbytère.
+
+
+Valeur bonne : Valeur qui rejoint un nombre important de propriétés qui sont dans la moyenne,
+c’est-à-dire qui possèdent des attributs intéressants ou significatifs qui permettent de statuer
+sur leur ancienneté, leur intérêt architectural (ex. : style) et leur appartenance à un paysage
+donné ou un ensemble architectural sans nécessairement se démarquer de façon importante. Il
+peut s’agir de maisons de styles courants (néoclassique québécoise, mansardée, vernaculaire)
+qui ont préservé plusieurs de leurs caractéristiques, mais qui peuvent avoir subi quelques
+interventions réversibles (ex. : bardeau d’asphalte sur le toit, fenêtres changées).
+
+
+Valeur moyenne : Valeur habituellement attribuée à des maisons ou bâtiments qui ont subi un
+nombre important de transformations réversibles qui brouillent un peu l’ancienneté, l’intérêt
+architectural (ex. : style) et l’appartenance à un paysage ou situé dans un environnement
+quelconque. Le potentiel patrimonial est toutefois encore important à la condition d’effectuer
+des travaux de mise en valeur.
+
+
+Valeur faible : Valeur habituellement attribuée à des maisons ou bâtiments qui ont subi un
+nombre important de transformations irréversibles qui brouillent l’ancienneté et l’intérêt
+architectural, qui sont abandonnées ou dont la nouvelle fonction est incompatible avec
+l’architecture d’origine. Cela n’empêche pas que le bâtiment puisse posséder un bon potentiel
+de mise en valeur si des travaux adéquats étaient effectués.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                PATRI•ARCH   23
+Rapport de synthèse
+     Étape 6 : Rapport de synthèse
+     Cette étape a été consacrée à la rédaction du présent rapport synthèse qui comprend une
+     présentation des principaux courants architecturaux ainsi qu’un diagnostic de l’état actuel du
+     patrimoine bâti du site patrimonial de l'Île-d'Orléans. Ces constats touchent l’état physique du
+     parc immobilier ancien et leur état d’authenticité en général. De plus, des statistiques sur la
+     valeur patrimoniale des biens sont contenues dans cette section.
+
+
+
+     Produits livrés
+     Les outils suivants ont été déposés à la MRC de l'Île-d'Orléans :
+
+
+            Un rapport de synthèse en version numérique (word et pdf) et en version imprimée et
+            reliée (3 copies), comprenant la méthodologie employée, la présentation des principaux
+            courants architecturaux ainsi qu’un diagnostic général en plus de différentes annexes ;
+            Les photographies numériques originales en haute résolution archivées sur des DVD ;
+            Les photographies numériques des inventaires de 1980 et 1989 en version numérique
+            archivées sur DVD;
+            Les fiches PIMIQ disponibles en ligne.
+
+
+
+
+24   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+Les courants architecturaux
+Également désignée par l’appellation « style » ou « typologie formelle », le courant architectural
+se définit comme un ensemble de règles ou de caractères formels qui permettent de classer des
+bâtiments dans une catégorie. Les courants architecturaux sont surtout reconnaissables par
+leur volume général et plus particulièrement par la forme du toit qui témoigne de l’évolution
+des techniques de construction, ainsi que par le type d’ornements et de saillies issus de
+diverses influences architecturales.
+
+D’abord d’esprit français, l’architecture traditionnelle québécoise a ensuite été influencée par le
+néoclassicisme britannique. Il en a résulté, au 19e siècle, un modèle de maison dite québécoise
+d’influence néoclassique, qui est à la fois une synthèse des influences françaises et anglaises et
+le fruit d’une adaptation au climat. Par la suite, le style Second Empire a fait son apparition,
+suivi des modes américaines. La fin du 19e siècle a été particulièrement faste par rapport à la
+diversité des influences stylistiques. Au 20e siècle, les courants industriels ou artisanaux, ainsi
+que la modernité internationale ont largement contribué à la définition de l’architecture des
+villes et des banlieues. À travers ces métissages culturels, les Québécois ont su créer une
+architecture originale adaptée aux milieux ruraux, villageois, de villégiature ou suburbains.
+
+La plupart des bâtiments inventoriés du site patrimonial de l'Île-d'Orléans peut être reliée aux
+courants architecturaux québécois présentés ici, ou du moins s’y apparenter. Notons que
+l’architecture de l'île d'Orléans est parfois métissée et qu’un bâtiment peut parfois être à cheval
+entre deux courants architecturaux. C’est pourquoi on parle plutôt d’influences stylistiques ou
+d’emprunts d’éléments à une typologie donnée plutôt qu’à des styles « purs ».
+
+Les courants architecturaux les plus fréquemment rencontrés dans l’architecture domestique,
+sur le territoire du site patrimonial de l'Île-d'Orléans sont les suivants :
+
+    •    La maison d'inspiration française
+    •    La maison traditionnelle québécoise d’influence néoclassique
+    •    Le style Second Empire et la maison à mansarde
+    •    Le cottage Regency
+    •    L’éclectisme victorien
+    •    Le cottage vernaculaire américain
+    •    La maison cubique
+    •    La maison Boomtown
+    •    L'architecture Arts & Crafts
+    •    Le régionalisme québécois
+    •    Le modernisme
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                 PATRI•ARCH    25
+Rapport de synthèse
+     La maison d'inspiration française
+     Une architecture traditionnelle s’élabore dès les premières années du Régime français afin de
+     répondre aux besoins pressants de la jeune colonie en bâtiments de toutes sortes : maisons,
+     chapelles, églises, moulins. Originaires des milieux ruraux de France, les colons ainsi que les
+     gens de métier – charpentiers, maçons, menuisiers – apportent au pays leur savoir-faire
+     traditionnel en matière de construction. Cette architecture « sans architecte » se modifie
+     rapidement après les premières expériences décevantes du début du 17e siècle afin de
+     s’adapter à la disponibilité des matériaux et aux conditions climatiques du pays. Ainsi,
+     l’architecture traditionnelle québécoise recourt généralement à la pierre et au bois comme
+     matériaux de construction en raison de leur abondance sur le territoire. Le climat rigoureux
+     entraîne pour sa part une multiplication des souches de cheminées sur la maison tandis que le
+     nombre des ouvertures est réduit le plus possible afin d’éviter les pertes de chaleur. À la fin du
+     Régime français, l’apparition de lucarnes pour éclairer les combles témoigne par ailleurs d’une
+     nouvelle façon d’habiter la maison. On retrouve les demeures de cette période dans toutes les
+     municipalités de l'Île-d'Orléans et elles sont relativement abondantes.
+
+
+     Principaux éléments caractéristiques :
+     •   Corps de logis rectangulaire bas ne présentant pas ou peu de fondations;
+     •   Le volume d’origine a souvent été agrandi sur la longueur de la maison;
+     •   Toiture à deux versants droits ou à croupes à pente forte, supérieure à 45 degrés,
+         recouverte le plus fréquemment de bardeau de cèdre;
+     •   Carré en pierre, portant un certain fruit, souvent revêtu de crépi ou de bois;
+     •   Cheminée en pierre massive située au centre de la maison;
+     •   Composition asymétrique de la façade;
+     •   Ouvertures peu nombreuses, fenêtres à double battant à petits carreaux, munis de volets
+         fonctionnels;
+     •   Ornementation réduite à sa plus simple expression limitée aux encadrements, linteaux,
+         chambranles et épis.
+
+
+
+
+26   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+ Maison    qui   est   l’exemple   type   de   la   maison        Maison qui est une variante de la maison d’inspiration
+ d’inspiration française sise au 3463, chemin Royal à             française avec toit à croupes située au 1347, chemin
+ Sainte-Famille.                                                  Royal à Saint-Jean.
+
+
+
+
+  Maison en pierre recouverte de crépi sise au 4657,              Maison en pierre avec pignon en bois située au 313,
+  chemin Royal à Sainte-Famille.                                  chemin Royal à Saint-Pierre.
+
+
+
+
+ Maison d’inspiration française revêtue de bois sise au           Maison d’inspiration française située au 960, chemin
+ 155A, chemin Royal à Saint-François.                             Royal à Saint-Laurent.
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                      PATRI•ARCH    27
+Rapport de synthèse
+     La maison traditionnelle québécoise d'influence néoclassique
+     La Conquête britannique (1760) a d’abord une incidence limitée sur l’architecture québécoise.
+     En effet, les gens de métier demeurent en place et leurs traditions françaises perdurent pendant
+     plusieurs décennies après l’arrivée des Anglais. Au début du 19e siècle, l’architecture
+     traditionnelle est toutefois confrontée à l’architecture classique anglaise qui apparaît au pays
+     avec l’arrivée des ingénieurs militaires et des architectes britanniques, de même qu’avec la
+     diffusion de traités d’architecture. L’architecture d’esprit français puise librement à ce nouvel
+     apport stylistique et elle aboutit à une synthèse originale connue sous le nom de maison
+     traditionnelle québécoise.
+
+     L’amalgame de l’architecture d’esprit français avec l’architecture néoclassique anglaise aura
+     pour aboutissement la mise en forme d’un type d’habitation répondant à des contraintes
+     fonctionnelles, économiques et climatiques variant plus ou moins fortement en fonction du lieu
+     d’érection et du statut social de ses occupants. Ainsi, la maison traditionnelle québécoise
+     connaît plusieurs variantes : du petit corps de logis dépouillé et implanté en milieu rural, elle
+     peut prendre la forme d’une habitation villageoise plus développée et ornementée. La maison
+     traditionnelle québécoise d'influence néoclassique est très bien représentée à l’île d’Orléans.
+
+     Malgré sa versatilité, la maison traditionnelle québécoise possède des caractéristiques
+     récurrentes qui permettent d’en définir le style.
+
+
+     Principaux éléments caractéristiques :
+     • Volume généralement de 1 étage et demi, parfois de 2 étages et demi, formé d’un carré en
+         bois pièce sur pièce (ou parfois en brique ou en pierre), le plus souvent légèrement
+         exhaussé du sol, d’où la présence d’une galerie et d’un escalier;
+     •   Toiture à deux versants à pente moyenne (environ 45 degrés) recouverte de tôle
+         traditionnelle ou de bardeaux de cèdre qui se prolonge souvent au-delà des murs avant et
+         arrière grâce à des larmiers incurvés protégeant ainsi une galerie aménagée en façade;
+     •   Composition symétrique de la façade;
+     •   Toit indépendant en apprentis - aussi appelé auvent ou garde soleil - installé afin de
+         recouvrir la galerie lorsque les versants de la toiture sont droits;
+     •   Cuisine d'été parfois présente dans le prolongement longitudinal ou transversal de la
+         maison et reproduisant à plus petite échelle les caractéristiques du corps de logis principal;
+     •   Parement généralement en bois (planches de bois posées à l'horizontale ou à la verticale
+         ainsi que le bardeau de cèdre), mais parfois en maçonnerie de pierre ou de brique;
+     •   Souches de cheminée généralement dans le prolongement du mur pignon;
+     •   Ouvertures nombreuses, dont des fenêtres à double battant à grands carreaux;
+     •   Lucarnes à fronton ou à pignon permettant d'éclairer les combles;
+     •   Ornementation généralement sobre composée de chambranles et planches cornières. Les
+         variantes plus cossues proposent des décors plus éclectiques (aisseliers, corniches,
+         balustrades, boiseries ornementales, etc.).
+
+
+28   PATRI•ARCH                                  MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                  Rapport de synthèse
+  Maison      traditionnelle    québécoise      d’influence       Maison     traditionnelle   québécoise     entièrement
+  néoclassique située au 178, chemin Royal à Saint-               construite en pierre sise au 130, chemin Ferland à
+  François.                                                       Saint-Laurent.
+
+
+
+
+  Maison traditionnelle québécoise caractérisée par sa            Maison     traditionnelle   québécoise     d’influence
+  façade principale en brique et sa balustrade en fonte           nécolassique sise au 1, chemin du Bout-de-l’Île à
+  située au 3994, chemin Royal à Sainte-Famille.                  Sainte-Pétronille.
+
+
+
+
+  Maison traditionnelle québécoise revêtue de bardeaux            Variante à deux étages et demi en pierre de la maison
+  de cèdre découpés située au 1233, chemin Royal à                traditionnelle québécoise d’influence nécolassique
+  Saint-Pierre.                                                   sise au 1936, chemin Royal à Saint-Jean.
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                       PATRI•ARCH   29
+Rapport de synthèse
+     Le style Second Empire et la maison à mansarde
+     L’architecture Second Empire fait son apparition au Québec dans le dernier quart du 19e siècle.
+     Elle prend sa source dans l’architecture développée à Paris sous le règne de Napoléon III (1852-
+     1870). D’abord réservé à l’architecture monumentale, dont les bâtiments institutionnels et les
+     maisons      bourgeoises, le style Second     Empire est popularisé plus tardivement dans
+     l’architecture domestique des villages québécois.
+
+
+     C’est la forme de la toiture qui caractérise le bâtiment de style Second Empire. Dite à la Mansart
+     ou à toit brisé, la toiture des bâtiments Second Empire se caractérise par la présence d’un
+     terrasson (portion supérieure dont l’inclinaison est peu prononcée) et d’un brisis (portion
+     inférieure dont l’inclinaison est presque verticale). Par ailleurs, les bâtiments conçus à partir de
+     ce style architectural ont généralement un rez-de-chaussée surhaussé et présentent une façade
+     dont l’ordonnance des ouvertures est symétrique. Le style Second Empire se distingue souvent
+     par la présence d’un avant-corps central, lequel est parfois traité à la manière d’une tourelle
+     couronnée d’une terrasse faîtière. Lorsqu’il y a présence de lucarnes sur la toiture, celles-ci
+     sont parfois cintrées. À cela s’ajoutent les baies et les portes à arc surbaissé, dont la riche
+     ornementation est souvent associée à ce style architectural.
+
+
+     Largement inspirée de l’architecture résidentielle bourgeoise de style Second Empire, la maison
+     à mansarde constitue une version populaire et modeste. En effet, de cette architecture
+     monumentale, la maison à mansarde conserve la toiture typique composée d’un terrasson et
+     d’un brisis à deux ou quatre versants (eaux), dont la forme particulière présente le net avantage
+     de dégager complètement l’espace des combles et de procurer ainsi à la maison un second
+     étage entièrement habitable. De plus, la silhouette qui résulte de ce style architectural procure
+     une élégance appréciée des villageois. Ce courant est bien présent à l’île d’Orléans.
+
+
+     Principaux éléments caractéristiques :
+     •   Corps de logis rectangulaire à deux étages légèrement exhaussé du sol, charpente en bois;
+     •   Toiture brisée, à la Mansart, à deux versants ou à quatre versants, constituée de brisis et
+         de terrassons et recouverte de tôle traditionnelle;
+     •   Composition symétrique de la façade;
+     •   Galerie couverte d’un auvent indépendant sur une ou plusieurs façades;
+     •   Parement de planches de bois ou de brique, parfois en pierre de taille;
+     •   Ouvertures caractérisées par des fenêtres à battants à grands carreaux ou à guillotine et
+         des lucarnes dans le brisis;
+     •   Ornementation généralement sobre composée de chambranles, planches cornières et
+         corniche sous le brisis. Les variantes plus cossues proposent des décors plus éclectiques.
+
+
+
+
+30   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+  Exemple typique de la maison à mansarde à 2                      Maison à mansarde à 4 versants dotée d’un parement
+  versants situé au 1404, chemin Royal à Saint-Laurent.            de brique en façade et sise au 1778, chemin Royal à
+                                                                   Saint-Jean.
+
+
+
+
+ L'ancien presbytère de Sainte-Famille est un bon                  Maison mansardée à 4 versants dotée d’un parement
+ exemple de style Second Empire avec un parement de                de brique et d’une galerie sur 2 côtés située au 163,
+ brique et une ornementation très élaborée.                        chemin du Bout-de-l’île à Sainte-Pétronille.
+
+
+
+
+  Maison à mansarde à 4 versants avec tourelle centrale            Maison à mansarde à 2 versants munie d’une façade
+  sise au 398, chemin Royal à Saint-François.                      bien symétrique sise au 1501, chemin Royal à Saint-
+                                                                   Pierre.
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                           PATRI•ARCH   31
+Rapport de synthèse
+     Le cottage Regency
+     Apparu en Angleterre sous le règne du Prince de Galles au début du 19e siècle, le cottage
+     Régence (ou Regency) a été introduit au Québec par les Britanniques. Issu du courant
+     romantique, ce style architectural a été adopté par plusieurs citadins désireux de posséder une
+     maison de villégiature. Destiné à occuper un terrain vaste et boisé, le cottage Régence arbore
+     une architecture en communion avec son environnement.
+
+
+     Parmi ses principales caractéristiques, on note le profil bas de la toiture à quatre versants dont
+     les avant-toits se prolongent au-delà des murs et recouvrent une galerie ceinturant le carré de
+     la maison. La présence de portes-fenêtres, de lucarnes rampantes et de supports de galerie de
+     treillages est également fréquente.
+
+
+     Ce type d’architecture demeure relativement rare dans le site patrimonial de l'Île-d'Orléans et
+     particulièrement présent dans la municipalité de Sainte-Pétronille.
+
+
+     Principaux éléments caractéristiques :
+     •   Plan de forme plutôt carrée;
+     •   Toit à quatre versants à profil bas et étendu dont l'avant-toit est parfois recourbé;
+         revêtement de toiture en bardeau de cèdre ou en tôle traditionelle;
+     •   Un ou deux niveaux d'occupation;
+     •   Composition symétrique des ouvertures;
+     •   Bâtiment entouré d'une galerie protégée par les avants-toits;
+     •   Murs revêtus de brique, de pierre ou de bois;
+     •   Cheminée centrale;
+     •   Fenêtres habituellement à battants et à grands carreaux, parfois sous la forme de portes-
+         fenêtres;
+     •   Lucarnes rampantes, à croupe ou à pignon;
+     •   Ornementation sobre insipirée des éléments classiques comme les entablements et les
+         frontons.
+
+
+
+
+32   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+ Cottage Régency caractérisé par son toit recourbé qui             Cottage Régency doté d’un revêtement en brique et
+ protège une généreuse galerie sis au 128, chemin du               d’une galerie situé au 12, chemin de l’Église à Sainte-
+ Bout-de-l’Île à Sainte-Pétronille.                                Pétronille.
+
+
+
+
+ Résidence présentant quelques caractéristiques du                 Cottage Régency agrandi vers la droite et situé au
+ cottage Régency sise au 1585, chemin Royal à Saint-               142, chemin du Bout-de-l’Île à Sainte-Pétronille.
+ Laurent.
+
+
+
+
+ Cottage Régency sis au 39, chemin du Bout-de-l’Île à             Variante à 2 étages du cottage Régency située au 12,
+ Sainte-Pétronille.                                               rue Gagnon à Sainte-Pétronille.
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                        PATRI•ARCH    33
+Rapport de synthèse
+     L’éclectisme victorien
+     L’architecture québécoise débouche, vers la fin du 19e siècle, sur un éclectisme qui vise d’abord
+     à produire des effets inédits et pittoresques sans souci de cohérence, un peu en réaction aux
+     compositions rigides du classicisme. Cette pratique artistique est fondée sur l’exploitation et la
+     conciliation des styles du passé. L’éclectisme est cette tendance à puiser librement dans des
+     styles anciens les éléments les plus divers, non pas pour les reproduire, mais pour créer un
+     style nouveau en les fusionnant. L’éclectisme permet ainsi la combinaison de plusieurs styles
+     ou éléments appartenant à des époques et des pays différents afin de créer des compositions
+     très élaborées et souvent marquées par une surcharge décorative, ce qui est différent des styles
+     historiques qui n’appliquent qu’un langage à la fois sur un même bâtiment.
+
+
+     La mécanisation des techniques de construction, autour des années 1880, a grandement
+     contribué à accroître le nombre d’ornements sur les façades, en diminuant le coût et le temps
+     d’exécution de chacun. Au Québec, le mouvement éclectique en architecture s’est étendu entre
+     1880 et 1920 environ. L’architecture éclectique est souvent dite victorienne en raison de son
+     apparition durant le règne de la reine Victoria en Grande-Bretagne (1837-1901). Pour ce
+     courant stylistique, chaque œuvre est unique en soi et les architectes s’appliquent à créer des
+     bâtiments personnalisés.
+
+
+     Le site patrimonial de l'Île-d'Orléans comporte peu d’exemples architecturaux issus de
+     l’éclectisme victorien. On retrouve tout de même quelques rares résidences à la composition
+     unique ainsi que des exemples de styles communs (maison cubique, maison traditionnelle
+     québécoise, etc.) qui sont ornés d’un décor très élaboré qui rappelle l’architecture victorienne.
+
+     Principaux éléments caractéristiques :
+     •   Plan asymétrique (absence de plan typique), volume très articulé, nombreuses saillies et
+         avancées;
+     •   Toitures irrégulières, composées de pignons ou de tourelles, souvent percées de lucarnes;
+     •   Présence de galeries, de balcons couverts et ornementés qui se prolongent souvent sur plus
+         d’une façade;
+     •   Amalgame de plusieurs matériaux et couleurs sur un même immeuble (brique, pierre,
+         bardeaux décoratifs ou polychromes, etc.);
+     •   Absence d’ouvertures typiques, variété de types d’ouvertures sur un même bâtiment,
+         présence de fenêtres en baie (bow window, oriel);
+     •   Ornements variés (fronton néoclassique, boiseries ornementales, mâts, épis, consoles,
+         encorbellements, etc.).
+
+
+
+
+34   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+ Résidence éclectique possédant une diversité de styles           Résidence   éclectique   s’apparentant   à   la   maison
+ amalgamés dans une composition symétrique, sise au               cubique mais possédant une ornementation singulière
+ 4204, chemin Royal à Sainte-Famille.                             située au 1276, chemin Royal à Saint-Laurent.
+
+
+
+
+ Cottage vernaculaire américain à l’ornementation en              Maison cubique aux airs éclectiques en raison de son
+ bois très élaborée sis au 45, chemin du Bout-de-l’Île            ornementation soignée et son oriel en coin sise au 20,
+ à Sainte-Pétronille.                                             avenue Orléans à Sainte-Pétronille.
+
+
+
+
+ Maison qui, par son mélange de matériaux et sa                   Maison s’apparentant à l’architecture éclectique.en
+ forme singulière, s’apparente à l’architecture éclec-            raison de sa tourelle située au 14, rue Orléans à
+ tique sise au 4135, chemin Royal à Sainte-Famille.               Sainte-Pétronille.
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                        PATRI•ARCH    35
+Rapport de synthèse
+     Le cottage vernaculaire américain
+     L’architecture vernaculaire américaine ne se distingue pas d’un point de vue stylistique,
+     puisqu’elle reprend souvent les formes du siècle précédent en les simplifiant. Elle innove
+     toutefois en ce qui a trait aux matériaux et aux éléments architecturaux, d’une part avec
+     l’usinage de certains matériaux de construction, tels les poutres et les planches et, d’autre part,
+     avec la standardisation et la distribution par catalogues d’éléments tels les portes et les
+     fenêtres. De façon générale, la volumétrie de l’architecture vernaculaire américaine – et par le
+     fait même de l’architecture domestique – est simplifiée à l’extrême, se résumant souvent à une
+     boîte carrée dont l’austérité est atténuée par des éléments décoratifs (planches cornières,
+     chambranles, aisseliers, piliers ouvragés). La standardisation des matériaux et des éléments
+     architecturaux, de même que l’introduction de la charpente claire, également appelée Balloon
+     Frame, accélèreront de façon considérable le processus de construction tout en permettant une
+     meilleure adaptation du plan-type aux besoins et aux moyens des clients.
+
+
+     Le cottage vernaculaire américain est le type le plus varié et le plus courant dans la première
+     moitié du 20e siècle. Il se distingue de la maison traditionnelle québécoise par un volume qui
+     s’élève sur 1 étage et demi ou 2 étages, conférant ainsi plus de verticalité à la demeure, ainsi
+     que par une toiture à deux versants droits inclinée à 45 degrés, sans larmier recourbé. On
+     retrouve dans cette architecture le même souci de rigueur quant à la symétrie de la façade et à
+     son ordonnance.
+
+
+     Ce courant se divise en plusieurs sous-courants, qui se déclinent eux-mêmes en divers
+     modèles. Dans les principales variantes, notons le cottage avec toit à demi croupes et le cottage
+     avec lucarne-pignon. Mais dans ces cas, les autres caractéristiques demeurent les mêmes que
+     pour le cottage à deux versants droits inspiré du modèle traditionnel québécois.
+
+
+     Ce courant est peu représenté dans le site patrimonial, mais il est présent dans la majorité des
+     municipalités en quelques exemplaires.
+
+
+     Principaux éléments caractéristiques :
+     •   Volumétrie rectangulaire dénotant une simplification des formes;
+     •   Carré en madriers de bois d’un étage et demi avec toiture à deux versants droit d’une
+         inclinaison de 45 degrés ou à demi-croupes. Aussi, le modèle de deux étages à toit à 2
+         versants à faible pente est également répandu;
+     •   Toiture généralement couverte de tôle traditionnelle;
+     •   Galerie couverte d’un auvent indépendant souvent présente;
+     •   Revêtements légers (planches de bois, bardeaux d’amiante-ciment, crépi);
+     •   Portes et fenêtres à battants avec imposte ou à guillotine, usinées;
+     •   Éléments d’ornementation qui puisent aux répertoires de l’architecture du 19e siècle et qui
+         sont standardisés (chambranles, planches cornières, aisseliers, frontons).
+
+
+
+36   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+ Cottage vernaculaire américain typique à toit à 2                 Cottage vernaculaire américain doté d’une grande
+ versants à la composition symétrique situé au 30, rue             lucarne continue sur son toit à 2 versants sis au 4119,
+ de l’Église à Saint-Jean.                                         chemin Royal à Sainte-Famille.
+
+
+
+
+ Cottage vernaculaire américain doté d’une lucarne-                Variante du cottage vernaculaire américain avec
+ pignon situé au 182, chemin du Bout-de-l’île à                    pignon en façade et toiture à demi-croupes sise au
+ Sainte-Pétronille.                                                33, chemin de l’Église à Sainte-Pétronille.
+
+
+
+
+ Variante du cottage vernaculaire américain à 2 étages             Variante du cottage vernaculaire américain à 2 étages
+ située au 1266, chemin Royal à Saint-Jean.                        sise au 1309, chemin Royal à Saint-Laurent.
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                          PATRI•ARCH   37
+Rapport de synthèse
+     La maison cubique
+     Le phénomène de la standardisation des matériaux, de la mécanisation du travail et de la
+     diffusion à grande échelle de modèles par le biais de catalogues et de revues spécialisées, dans
+     l’ensemble de l’Amérique du Nord, a donné naissance à un nouveau type d’architecture dès la
+     fin du 19e siècle. Fortement stimulée par l’accessibilité simplifiée aux plans et aux matériaux,
+     de même que par la baisse des coûts de construction découlant de la standardisation,
+     l’industrialisation contribue à la croissance rapide des agglomérations urbaines suite à
+     l’explosion démographique. Ce phénomène se répercutera ensuite dans les milieux ruraux.
+
+
+     La maison cubique est un modèle architectural provenant des États-Unis. Conçu par l’architecte
+     Frank Kidder en 1891, ce modèle strictement résidentiel est communément appelé le Four
+     Square house. Son intérêt réside dans les dimensions de son espace habitable. En effet, le plan
+     carré, qui superpose deux étages entiers coiffés d’un toit en pavillon à faibles pentes, confère à
+     la maison cubique des dimensions dignes des maisons bourgeoises. La maison cubique
+     possède généralement une lucarne sur le versant avant. De plus, il n’est pas rare d’observer sur
+     certains modèles les influences du mouvement pittoresque sur le décor extérieur (aisseliers,
+     boiseries ornementales, corniches). Mais de manière générale, l’ornementation de la maison
+     cubique est sobre et peut varier en fonction des goûts et des moyens financiers des premiers
+     occupants.
+
+
+     La maison cubique est assez peu représentée dans le site patrimonial de l’Île-d’Orléans.
+
+
+     Principaux éléments
+                éléments caractéristiques :
+     •   Volumétrie cubique, plan carré de deux étages légèrement surhaussé du sol;
+     •   Toit en pavillon (quatre versants) à faibles pentes, revêtu de tôle traditionnelle, ou parfois
+         toit plat;
+     •   Revêtement extérieur en brique ou en matériau léger (planches de bois, bardeaux de cèdre,
+         tôle embossée, tuiles d’amiante-ciment);
+     •   Galerie couverte d’un auvent indépendant, aménagée en façade avant avec parfois un
+         balcon à l’étage;
+     •   Distribution régulière des ouvertures;
+     •   Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine;
+     •   Lucarnes à croupe, à pignon, triangulaire ou en appentis, parfois remplacées par des
+         pignons;
+     •   Ornementation variable selon le statut social du propriétaire.
+
+
+
+
+38   PATRI•ARCH                                   MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                   Rapport de synthèse
+ Maison cubique située au 157, chemin Royal à Saint-              Maison cubique sise au 201, chemin Royal à Saint-
+ Pierre.                                                          François.
+
+
+
+
+ Maison cubique en brique située au 1634, chemin                  Maison cubique située au 1969, chemin Royal à Saint-
+ Royal à Saint-Jean.                                              Pierre.
+
+
+
+
+ Maison cubique située au 3492, chemin Royal à                      Maison cubique sise au 3332, chemin Royal à Sainte-
+ Sainte-Jean.                                                       Famille.
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                    PATRI•ARCH     39
+Rapport de synthèse
+     La maison Boomtown
+     L’introduction des charpentes à claire-voie qualifiée d’American Boomtown coïncide avec la
+     croissance rapide des villes américaines et de leur essor démographique important. Cette
+     architecture se développe surtout après la crise économique de 1870 aux États-Unis. Elle
+     constitue alors une option de construction à la fois économique et rapide dans les villes-
+     champignons à forte croissance industrielle. L’architecture Boomtown constitue un courant
+     propre à l’architecture domestique et commerciale. Elle coexiste d’abord avec les maisons de
+     tradition québécoise et à mansarde avant de les supplanter au tournant du 20e siècle. Sur le
+     territoire du site patrimonial de l'Île-d'Orléans, on retrouve quelques exemplaires de maisons
+     Boomtown dans toutes les municipalités.
+
+
+     L’architecture Boomtown se caractérise par sa volumétrie : les résidences s’élèvent sur deux
+     étages et sont coiffées d’un toit plat ou à faible pente vers l’arrière. Les ouvertures sont
+     habituellement disposées avec régularité et symétrie. Les saillies sont souvent constituées
+     d’une grande galerie, courant sur toute la façade principale, et d’un balcon à l’étage, sur le tiers
+     central de l’auvent indépendant, protégeant ainsi la galerie. Il n’est pas rare de retrouver un
+     commerce au rez-de-chaussée avec un logement à l’étage.
+
+
+     Principaux
+     Principaux éléments caractéristiques :
+     • Volume cubique ou rectangulaire de deux étages, peu dégagé du sol;
+     • Toiture plate ou à faible pente vers l’arrière;
+     • Saillies peu présentes à l’exception d’une galerie protégée d’un auvent, parfois avec un
+        balcon à l’étage;
+     • Parement de planches de bois ou de brique;
+     • Distribution régulière des ouvertures, composition généralement symétrique;
+     • Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine;
+     • Ornementation concentrée dans la partie supérieure de la façade : corniche à modillons ou à
+        consoles, parapet en gradins ou jeux de briques. Autres éléments d’ornementation discrets :
+        chambranles, planches cornières, platebandes en brique, etc.
+
+
+
+
+40   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+ Résidence caractéristique des maisons Boomtown                   Maison Boomtown se démarquant par son imposant
+ avec son parapet en gradins sise au 504, chemin                  parapet sise au 3717, chemin Royal à Sainte-Famille.
+ Royal à Saint-François.                                          L'annexe latérale est un ajout récent.
+
+
+
+
+ Résidence unifamiliale caractéristique des maisons               Maison Boomtown sise au 2269, chemin Royal à
+ Boomtown avec son parapet et sa galerie en façade                Saint-Pierre.
+ sise au 1913, chemin Royal à Saint-François.
+
+
+
+
+ Maison     Boomtown      caractérisée   par   son   décor        Maison Boomtown avec rez-de-chaussée commercial
+ d'inspiration néoclassique située au 1649, chemin                située au 148, chemin du Bout-de-l’Île à Sainte-
+ Royal à Saint-Laurent.                                           Pétronille.
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                    PATRI•ARCH    41
+Rapport de synthèse
+     L’architecture Arts & Crafts
+     En réaction à l’industrialisation qui bat son plein au tournant du 19e siècle en Angleterre, des
+     mouvements d’idée font leur apparition. Le mouvement Arts and Crafts (arts et métiers), dont le
+     programme déborde largement le domaine de l’architecture, trouve ses origines dans les
+     théories mises de l’avant par Richard Owen, William Morris et John Ruskin. Ce courant propose
+     de s’inspirer de l’artisanat et de l’habitation de la campagne anglaise afin de créer une
+     architecture qui s’inscrive dans la tradition nationale. Le mouvement valorise le retour au travail
+     manuel contre la standardisation des articles produits en série, l’usage de matériaux
+     traditionnels tels que la pierre et le bois ainsi que le recours aux savoir-faire locaux. Le
+     mouvement connaît une certaine diffusion en Angleterre à travers les réalisations d’architectes
+     tels que Philip Webb.
+
+     Le mouvement gagne ensuite les États-Unis. Les différentes tendances sont rapidement
+     popularisées par les catalogues et les revues de plans distribués à grande échelle à travers
+     l’Amérique du Nord. Mais si les réalisations du mouvement sont largement diffusées, son
+     idéologie, quant à elle, demeure méconnue, voire mal comprise. Ainsi, en Amérique, le
+     mouvement Arts and Crafts devient essentiellement un mouvement stylistique, sans portée
+     sociale. Les architectes conçoivent, par exemple, des résidences avec de fausses structures à
+     colombages ainsi que des toitures recouvertes de tuiles d’ardoise comme en Angleterre en
+     dépit du fait qu’elles ne s’inscrivent pas dans une tradition nationale. L’architecture issue du
+     courant Arts and Crafts, qui est uniquement destinée à l’architecture domestique et de
+     villégiature, est diversifiée et est composée de volumes simples, distribués librement dans le
+     plan. Recouverts de toitures imposantes aux multiples pentes, ces volumes sont caractérisés
+     par une fenestration variée et abondante. Un des traits distinctifs de l’architecture de ce style
+     est sans doute l’expression de la charpente qui se traduit généralement par le prolongement
+     des chevrons sous le débordement de la toiture.
+
+     Il existe peu d’exemples de ce style dans le site patrimonial de l'Île-d'Orléans et ils sont
+     principalement situés à Sainte-Pétronille.
+
+
+     Principaux
+     Principaux éléments caractéristiques :
+     • Volume plus ou moins imposant au plan articulé;
+     • Toiture de formes variées à versants ou à demi-croupes parfois de longueurs inégales, dont
+        le larmier déborde souvent largement des façades;
+     • Espaces extérieurs protégés (perrons, galeries, terrasses);
+     • Utilisation de matériaux naturels et traditionnels (pierre, brique, stuc, bardeaux de cèdre,
+        planches de bois), parfois combinés entre eux;
+     • Ouvertures nombreuses et diversifées, présence de fenêtres jumelées et de lucarne à
+        croupe, en appentis ou triangulaire;
+     • Ornements souvent limités aux éléments de la charpente (colombage, chevrons apparents,
+        supports de galerie);
+     • Chaque cas est unique et possède ses propres caractéristiques.
+
+42   PATRI•ARCH                                   MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                   Rapport de synthèse
+ Maison      d’Horatio-Walker,       un    bel    exemple         Studio d’Horatio-Walker qui représente la version
+ d’architecture Arts & Crafts, située au 11, chemin               anglaise de l’architecture Arts & Crafts, sis au 13,
+ Horatio-Walker à Sainte-Pétronille.                              chemin Horatio-Walker à Sainte-Pétronille.
+
+
+
+
+ Maison    unifamiliale   qui   se   démarque    par   son        Maison avec certains éléments d’esprit Arts & Crafts
+ imposant toit percé de lucarnes en appentis, sise au             (lucarne, galerie) située au 145, chemin du Bout-de-
+ 217, chemin du Bout-de-l’île à Sainte-Pétronille.                l’Île à Sainte-Pétronille.
+
+
+
+
+ Grande demeure d’esprit Arts & Crafts située au 35,              Les annexes arrière de cette maison située au 228,
+ chemin de l’Église à Sainte-Pétronille.                          chemin du Bout-de-l’île à Sainte-Pétronille sont
+                                                                  d’esprit Arts & Crafts.
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                        PATRI•ARCH   43
+Rapport de synthèse
+     LE RÉGIONALISME QUÉBÉCOIS
+
+
+
+
+     Le régionalisme québécois
+     Le Québec possède une version du courant Arts and Crafts qui lui est propre, soit le
+     régionalisme québécois. Ce courant architectural prend naissance à partir de 1910 et se
+     termine à la fin de la Deuxième Guerre mondiale. Il partage plusieurs points communs avec le
+     mouvement anglais. Comme ce dernier qui prône un retour à l’usage des traditions artisanales
+     et à l’architecture locale, notamment celle des maisons de campagne anglaises du 18e siècle, le
+     régionalisme québécois puise son inspiration dans le bâti hérité du Régime français. Amorcé
+     avec les recherches des professeurs d’architecture de McGill Percy Erskine Nobbs et Ramsay
+     Traquair, qui désirent voir apparaître un style authentiquement régional, diffusé par leurs
+     élèves ensuite devenus architectes, le régionalisme québécois connaît son apogée dans la
+     province surtout durant les années 1930 et 1940. Ce courant architectural profite notamment
+     de la quête identitaire amorcée par le nationalisme québécois à partir des années 1920 qui en
+     est venu à glorifier la période de la Nouvelle-France afin de redonner aux Canadiens-français
+     un passé dont ils pouvaient être fiers.
+
+
+     Avec le régionalisme québécois, on assiste ainsi à des constructions sorties tout droit du
+     vocabulaire utilitaire des bâtiments du Régime français : toiture haute à deux versants
+     recouverte de bardeaux en bois, murs coupe-feu, recouvrement de pierre, de stuc (pour imiter
+     la chaux) ou de bois. Ce courant réintroduit littéralement l’architecture traditionnelle et celle
+     des maisons rurales québécoises, anglaises et normandes, afin d’en produire des copies les
+     plus fidèles possible. Avec le gouvernement traditionaliste de Maurice Duplessis qui prône un
+     retour aux racines du peuple canadien-français, rural et catholique, le courant régionaliste y
+     trouve un terreau fertile où s’épanouir. Le notaire et historien de l’art Gérard Morisset, l’abbé
+     architecte Jean-Thomas Nadeau et l’anthropologue folkloriste Marius Barbeau préconisent
+     également dans leurs travaux la redécouverte des traditions. On ne retrouve que quelques cas
+     de régionalisme québécois dans l’inventaire, surtout situé à Sainte-Pétronille, car cette
+     architecture s’allie bien à celle de la villégiature. Ces maisons peuvent souvent se confondre
+     avec des constructions plus anciennes vue l’intention de les imiter.
+
+
+     Principaux
+     Principaux éléments caractéristiques :
+     • Volume rectangulaire plus ou moins imposant pourvu d’annexes;
+     • Haute toiture en pente aux versants généralement droits ou légèrement recourbés
+        recouverts de bardeau de bois ou d’asphalte;
+     • Espaces extérieurs protégés (perrons, galeries);
+     • Cheminées à l’aspect massif;
+     • Revêtement de bois (bardeaux ou planches) ou d’amiante-ciment;
+     • Fenêtres à guillotine ou à battants munies de carreaux et lucarnes à pignon de bonnes
+        dimensions;
+     • Ornements souvent limités aux encadrements d’ouvertures (chambranles, faux volets).
+
+
+
+
+44   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+  Maison de style régionaliste québécois (1939), sise au           Grande maison de style régionaliste (vers 1940), sise
+  181, chemin du Bout-de-l’Île à Sainte-Pétronille.                au 2260-2266, chemin Royal à Saint-Jean.
+
+
+
+
+  Maison de style régionaliste québécois (1945), située            Maison d’esprit régionaliste québécois (1944), sise au
+  au 117, chemin du Bout-de-l’Île à Sainte-Pétronille.             226, chemin Royal à Saint-Laurent.
+
+
+
+
+  Maison aux accents Arts & Crafts et régionaliste                 Maison de style régionaliste québécois (1945), sise au
+  (1940), située au 121, chemin du Bout-de-l’Île à                 123, chemin du Bout-de-l’Île à Sainte-Pétronille.
+  Sainte-Pétronille.
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                       PATRI•ARCH    45
+Rapport de synthèse
+     Le modernisme
+     Né à la fois du mouvement moderne européen (Art nouveau, École du Bauhaus) et de
+     l’architecture rationaliste américaine (École de Chicago), le modernisme se situe en complète
+     rupture avec l’héritage du passé, ce qu’aucun autre style n’avait pu accomplir jusque-là. Il
+     s’agit d’une architecture qui est entièrement de son temps, qui ne nie pas l’industrialisation et
+     la standardisation, cherchant plutôt à tirer profit de la technologie.
+
+
+     L’architecture moderne se veut pratique et fonctionnaliste : la forme doit répondre à la fonction
+     du bâtiment. Il s’agit d’une architecture qui mise sur la simplicité et la sobriété, qui rejette
+     l’ornementation et qui recherche la pureté et le dépouillement. Issue de l’industrialisation et de
+     la préfabrication, l’architecture moderne se démarque par l’utilisation de nouvelles techniques
+     et de nouveaux matériaux tels que l’aluminium, le béton, l’acier et les grandes surfaces de
+     verre, qui sont réellement mis à l’avant-scène.
+
+
+     Le modernisme se divise en plusieurs courants plus ou moins fidèles au mouvement qui les a
+     vus naître. À l’île d’Orléans, nous n’avons répertorié qu’une résidence issue de l’architecture
+     moderne.
+
+
+     Principaux éléments caractéristiques
+                         caractéristiques :
+     •   Volumétrie simple et dépouillée d’ornements;
+     •   Plans libres qui créent des formes très variées;
+     •   Toits plats ou de formes sculpturales;
+     •   Matériaux modernes tels que le béton et l’acier, alors que l’expressivité des matériaux
+         remplace les éléments d’ornementation.
+     •   Grandes surfaces vitrées dont des fenêtres en bandeau horizontal;
+
+
+
+
+      La maison Paul-Brunet située au 37, chemin de
+      l'Église témoigne de l'architecture moderne. Son
+      architecture s’inspire notamment d'un paquebot.
+
+
+
+
+46   PATRI•ARCH                                   MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                   Rapport de synthèse
+Diagnostic général
+Les pages qui suivent énoncent quelques constats généraux concernant la mise à jour de
+l’inventaire du patrimoine bâti de l’île d’Orléans.
+
+
+Composition de l’inventaire
+Ajouts :
+28 bâtiments ont été ajoutés à l’inventaire. Il s’agit pour la plupart de bâtiments datant de la
+première moitié du 20e siècle et qui n’avaient pas été considérés dans les inventaires
+précédents en raison de leur faible valeur d’ancienneté. Avec le temps, ces bâtiments ont acquis
+une valeur patrimoniale, encore plutôt faible, mais qui mérite tout de même d’être considérée.
+À noter que trois bâtiments anciens provenant de l’extérieur de l’île et qui ont été déménagé
+dans les années 1990 et 2000 à Saint-François (151 et 155-A, chemin Royal) et à Saint-Jean
+(2752, chemin Royal) ont aussi été ajoutés à l’inventaire. Malgré leur déplacement, la valeur
+patrimoniale       de    ces     maisons,       reposant      sur     leur    ancienneté,   leurs    caractéristiques
+architecturales ainsi que leur authenticité, justifiait leur intégration dans l’inventaire.
+
+
+Suppressions
+Suppressions :
+Il s’agit essentiellement de bâtiments qui ont été incendiés (9) ou démolis (10) depuis le
+premier inventaire de 1970. Au nombre de 19, la plupart de ces biens n’existent plus dans la
+base de données PIMIQ. Ils peuvent toutefois être retracés dans les inventaires antérieurs.
+
+
+Répartition :
+Au total, en considérant les ajouts et les suppressions, 659 bâtiments font maintenant partie de
+l’inventaire. Leur répartition par municipalité et par valeur patrimoniale est présentée dans le
+tableau 1 ci-bas.
+
+
+Tableau 1
+
+municipalité                          A            B            C            D         E        total     supprimé
+Sainte-Famille                        6           11           40            26        2            85        6
+Sainte-Pétronille                     1           17           64            36        0        118
+                                                                                                118           5
+Saint-François                        7           11           25            18        0            61        2
+Saint-Jean                            5           32           90            51        1        179
+                                                                                                179           4
+Saint-Laurent                         5           10           77            36        3        131
+                                                                                                131           2
+Saint-Pierre                          3           14           55            10        3            85        0
+total
+total                                27           95           351           177
+                                                                             177       9        659          19
+
+Valeur patrimoniale : A = exceptionnelle; B = supérieure; C = bonne; D = moyenne; E = faible
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                                   PATRI•ARCH    47
+Rapport de synthèse
+     Valeur patrimoniale
+     Valeur exceptionnelle : 27 bâtiments (4 %) ont été considérés comme possédant une valeur
+     patrimoniale exceptionnelle, ce qui comprend les 13 bâtiments déjà classés immeubles
+     patrimoniaux. Ces bâtiments ont une valeur à l’échelle nationale, c’est-à-dire que la valeur
+     patrimoniale dépasse largement l’échelle de l’île d’Orléans. Il s’agit pour la plupart de maisons
+     du Régime français particulièrement bien préservées qui jouent un rôle important dans l’intérêt
+     historique, architectural et paysager du site patrimonial de l’Île-d’Orléans.
+
+
+     Valeur supérieure : 95 bâtiments de l’inventaire (15 %) sont de valeur patrimoniale supérieure.
+     Cette valeur forte à l’échelle locale ou régionale tient souvent en grande partie à l’ancienneté et
+     au degré d’authenticité de ces bâtiments. En effet, plusieurs d’entre eux sont des maisons du
+     début du 19e siècle qui se démarquent par leur architecture ancienne et qui sont
+     particulièrement bien préservées.
+
+
+     Valeur bonne : 351 bâtiments de l’inventaire (53,5 %) ont reçu une valeur patrimoniale bonne.
+     Cet imposant groupe est majoritairement composé de maisons traditionnelles du 19e siècle qui
+     ont subi des altérations mineures et réversibles. Elles possèdent des attributs intéressants ou
+     significatifs qui permettent de statuer sur leur ancienneté, leur intérêt architectural et leur
+     appartenance au paysage de l’île d’Orléans.
+
+
+     Valeur moyenne : 177 bâtiments (26 %) sont de valeur patrimoniale moyenne. Ces bâtiments
+     sont plus récents (20e siècle) ou ont généralement subi davantage de modifications (réversibles
+     ou irréversibles) tout en conservant un bon potentiel de mise en valeur. Ils sont susceptibles
+     d’acquérir de la valeur dans le futur.
+
+
+     Valeur faible : 9 bâtiments (1,5 %) de l’inventaire se sont vus attribuer une valeur faible en
+     raison des nombreuses et importantes altérations qu’ils ont subies avec les années. Ils sont
+     pour certains tellement modifiés que la lisibilité de leur ancienneté et de leur architecture
+     d’origine est complètement brouillée. Par conséquent, leur potentiel de mise en valeur est
+     compromis.
+
+     Il est important de mentionner que la valeur patrimoniale attribuée aux biens inventoriés est
+     une donnée susceptible d’évoluer dans le temps, selon la nature des interventions. Un bâtiment
+     de grande valeur patrimoniale pourrait, à la suite de travaux malencontreux ou d’un incendie,
+     perdre une bonne part de sa valeur. A l’inverse, un bâtiment altéré par le passé pourrait
+     reprendre de la valeur à la suite de travaux, advenant que des composantes plus respectueuses
+     de l’aspect d’origine soient reconstituées ou réinstallées.
+
+
+     En somme, ce bilan est très positif car les bâtiments de valeur patrimoniale faible sont rares et
+     le corpus de l’inventaire du patrimoine bâti de l’île d’Orléans conserve toute sa pertinence et
+     son intérêt patrimonial.
+
+
+48   PATRI•ARCH                                 MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                 Rapport de synthèse
+État physique
+En général, les bâtiments inventoriés sont dans un excellent état physique et il y a peu de
+corrélation entre l’âge des bâtiments et leur degré de dégradation. Cela signifie que,
+généralement, les propriétaires entretiennent bien leur bâtiment, quel que soit leur ancienneté.
+Le programme financier d’aide à la restauration, qui soutient les propriétaires à entretenir leur
+bâtiment, est un facteur déterminant dans le bon état général du patrimoine bâti.
+
+
+Dans les rares cas où l’état physique n’est pas satisfaisant, les principaux problèmes rencontrés
+concernent essentiellement l’entretien déficient. Seuls quelques cas isolés, dont l’ancien moulin
+à vent de Sainte-Famille, sont en péril en raison de leur état de dégradation avancé. En général,
+les problèmes d’entretien semblent plus importants du côté des bâtiments secondaires ou
+agricoles qui ne faisaient pas partie du présent inventaire mais qui sont répertoriés dans
+l’inventaire des bâtiments agricoles.
+
+
+État d’authenticité
+La grande majorité des bâtiments inventoriés ont connu leur part de transformations. Nous
+classons ces transformations en deux catégories. Il y a d’abord les transformations réversibles
+qui constituent bien souvent des remplacements de matériaux, de portes et de fenêtres lorsque
+ceux-ci ont atteint la fin de leur vie utile. Il s’agit essentiellement d’interventions d’entretien,
+normales dans la vie d’un bâtiment. Même si ces interventions ne respectent pas toujours les
+modèles et les matériaux traditionnels, il s’agit d’interventions légères et réversibles où un
+retour à des composantes traditionnelles demeure toujours possible. En second lieu, il y a les
+transformations majeures et irréversibles qui causent de véritables dommages au cadre bâti
+existant. Il peut s’agir par exemple d’une allonge mal intégrée, du percement de nouvelles
+ouvertures, de l’agrandissement d’ouvertures existantes, de la suppression d’une galerie ou de
+la disparition d’éléments d’ornementation. Ces interventions nuisent à la composition générale
+et font disparaître des éléments importants de l’architecture traditionnelle. Dans ces cas, il y a
+perte d’authenticité.
+
+
+Règle générale, les transformations de la première catégorie ne causent pas de préjudices
+importants et plusieurs bâtiments de l’inventaire peuvent avoir été affecté par de telles
+interventions à des degrés divers sans que leur potentiel patrimonial en ait trop souffert. Les
+transformations majeures de la deuxième catégorie sont beaucoup plus dommageables. En
+général, les rares bâtiments qui ont subi plusieurs interventions irréversibles se sont vus
+attribuer une valeur patrimoniale faible, car leur authenticité était trop affectée.
+
+
+Il faut noter toutefois que plusieurs interventions réalisées au fil des siècles, comme
+l’agrandissement ou le prolongement de maisons, le remplacement de toit à deux versants par
+un toit mansardé, l’ajout de lucarnes ou l’ajout d’annexes sont considérés comme des apports
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                  PATRI•ARCH    49
+Rapport de synthèse
+     valables malgré leur irréversibilité, car elles témoignent de l’évolution dans la manière
+     d’habiter. D’ailleurs, ces modifications ont été réalisées selon des techniques anciennes et avec
+     des matériaux traditionnels, ce qui les rend souvent imperceptibles.
+
+
+     Fait à noter, la consultation des photographies des bâtiments dans les anciens inventaires a
+     permis de constater une belle amélioration générale dans l’état d’authenticité des bâtiments. En
+     effet, plusieurs bâtiments qui avaient été dénaturés dans les années 1950 et 1960, avant la
+     création de l’arrondissement historique de l’île d’Orléans, ont été restaurés avec des matériaux
+     et des techniques plus adéquats, leur redonnant toute leur valeur patrimoniale.
+
+
+
+
+50   PATRI•ARCH                                MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS
+                                                                                                Rapport de synthèse
+Bibliographie
+ABC de l’arrondissement historique de l’Île d’Orléans : prenez l’île sous votre aile. Québec,
+Commission des biens culturels, ministère de la Culture et des Communications et MRC de l’Île-
+d’Orléans, s.d.
+
+AUDET, Bernard. Avoir feu et lieu dans l’île d’Orléans au XVIIe siècle. Québec, Les Presses de
+l’Université Laval, 1990.
+
+BOURQUE, Hélène, Donald DION et Brigitte OSTIGUY. L’île d’Orléans, un enchantement. Québec,
+Les Éditions du Chien Rouge, 1999.
+
+Collectif. « Dossier île d’Orléans : le goût de l’île », Continuité, no 73, été 1997, p. 17-51.
+
+Collectif. « L’île d’Orléans : un écrin à découvrir », Cap-aux-Diamants, vol. 5, no 1, printemps
+1989.
+
+COMMISSION DES BIENS CULTURELS DU QUÉBEC. « L’île d’Orléans : une réflexion s’impose »,
+dans Patrimoine, vol. 2, no 2, été 1996.
+
+DEMERS, Madeleine. Préservation du paysage de l’île d’Orléans [Document inédit]. Québec,
+Commission des biens culturels du Québec, 1998.
+
+DORION, Henri. L’île d’Orléans, terre d’harmonie, de mémoire et de fidélité. s.d.
+
+FAURE, Isabelle. L’île d’Orléans, une île en péril ou l’analyse critique du système de gestion du
+patrimoine de l’île d’Orléans [Document inédit]. Québec, Commission des biens culturels du
+Québec, 1996.
+
+LAFRAMBOISE, Yves. La maison au Québec : de la colonie française au XXe siècle. Montréal, Les
+Éditions de l’Homme, 2001.
+
+LAROCHELLE, Pierre et Claude DUBÉ. Le génie du lieu à l’île d’Orléans. Québec, École
+d’architecture de l’Université Laval, 1993.
+
+LÉGARÉ, Denyse et Chantal Prud’Homme. Patrimoine et paysages agricoles de l’île d’Orléans.
+Québec, La Commission des biens culturels du Québec, 2006.
+
+LESSARD, Michel. L’île d’Orléans. Aux sources du peuple québécois et de l’Amérique française.
+Montréal, Les Éditions de l’Homme, 1998.
+
+RURALYS. Parcours d’interprétation des paysages de l’île d’Orléans. 2006.
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS                    PATRI•ARCH   51
+Rapport de synthèse
+Annexe 1 : Liste des codes de rues
+
+                         Sainte-Famille (20010)
+Mitan (route du)                        MITA
+Royal (chemin)                          ROYA
+                        Sainte-Pétronille (20030)
+Bout-de-l'Île (chemin du)               BOUT
+Église (chemin de l')                   EGLI
+Gagnon (rue)                            GAGN
+Horatio-Walker (rue)                    HWAL
+Laflamme (rue)                          LAFL
+Orléans (avenue)                        ORLE
+Quai (rue du)                           QUAI
+            Saint-François-de-l’Île-d’Orléans (20015)
+D'Argentenay (route)                    ARGE
+Maître-Chantre (chemin du)              MACH
+Moulin (chemin du)                      MOUL
+Royal (chemin)                          ROYA
+              Saint-Jean-de-l’Île-d’Orléans (20015)
+Côtes (chemin des)                      COTE
+Église (rue de l')                      EGLI
+Lafleur (chemin)                        LAFL
+Martineau (chemin)                      MART
+Mitan (route du)                        MITA
+Royal (chemin)                          ROYA
+            Saint-Laurent-de-l’Île-d’Orléans (20020)
+Canton (côte du)                        CANT
+Ferland (chemin)                        FERL
+Gosselin (côte)                         GOSS
+Leclerc (côte)                          LECL
+Royal (chemin)                          ROYA
+Thivierge (côte)                        THIV
+             Saint-Pierre-de-l’Île-d’Orléans (20025)
+Couvent (avenue)                        COUV
+Galendart (avenue du)                   GALE
+Monseigneur-D'Esgly (avenue)            MSG
+Plante (avenue)                         PLAN
+Pont (côte du)                          PONT
+Royal (chemmin)                         ROYA
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS   PATRI•ARCH
+Rapport de synthèse
+Annexe 2 : Listes des biens inventoriés
+
+
+
+
+MISE À JOUR DE L'INVENTAIRE DU PATRIMOINE BÂTI 1 MRC DE L'ÎLE-D'ORLÉANS   PATRI•ARCH
+Rapport de synthèse
+                   (avant 2015)
+
+
+
+
+                                    (après 2015)
+                    No civique
+
+
+
+
+                                     No civique
+                                                                                                    Date estimée
+
+
+
+
+                                                                                          No inv.
+Municipalité                                       Rue (avant 2015)   Rue (après 2015)              de           Statut        Commentaire
+                                                                                                    construction
+
+Sainte-Famille     1015                     Mitan (route du)          Mitan (route du)   119        v. 1870
+Sainte-Famille     3019             2009    Royal (chemin)            Royal (chemin)     84         1777
+Sainte-Famille     3070             2026    Royal (chemin)            Royal (chemin)     85         1740
+Sainte-Famille     3121             2041    Royal (chemin)            Royal (chemin)     85a        1839
+Sainte-Famille     3154             2066    Royal (chemin)            Royal (chemin)     86         v. 1700
+Sainte-Famille     3176             2074    Royal (chemin)            Royal (chemin)     87         1860
+Sainte-Famille     3204             2086    Royal (chemin)            Royal (chemin)     88         1777
+Sainte-Famille     3230             2098    Royal (chemin)            Royal (chemin)     89         1890
+Sainte-Famille     3276             2108    Royal (chemin)            Royal (chemin)     90         v. 1867
+Sainte-Famille     3290             2124    Royal (chemin)            Royal (chemin)     91         1880
+Sainte-Famille     3332             2146    Royal (chemin)            Royal (chemin)                1920         Ajout
+Sainte-Famille     3429                     Royal (chemin)                               92                      Suppression   Maison incendiée en 1987
+Sainte-Famille     3463             2209    Royal (chemin)            Royal (chemin)     93         1750
+Sainte-Famille     3484             2218    Royal (chemin)            Royal (chemin)     94         1828
+Sainte-Famille   3544-3546        2262-2264 Royal (chemin)            Royal (chemin)     96         1800
+Sainte-Famille     3550             2266    Royal (chemin)            Royal (chemin)     97         1915
+Sainte-Famille     3580             2278    Royal (chemin)            Royal (chemin)     98         1900
+Sainte-Famille     3598             2286    Royal (chemin)            Royal (chemin)     99         1777
+Sainte-Famille     3613             2309    Royal (chemin)            Royal (chemin)     100        1923
+Sainte-Famille     3660             2320    Royal (chemin)            Royal (chemin)     101        1809
+Sainte-Famille     3676             2330    Royal (chemin)            Royal (chemin)     102        1920
+Sainte-Famille     3702             2344    Royal (chemin)            Royal (chemin)     103        1877
+Sainte-Famille     3717             2355    Royal (chemin)            Royal (chemin)                1935         Ajout
+                                                                                                                               Anc. moulin à vent de Sainte-
+Sainte-Famille    3717 A            2355           Royal (chemin)     Royal (chemin)     104 v. 1700
+                                                                                                                               Famille
+Sainte-Famille   3740-3742        2360-2362 Royal (chemin)            Royal (chemin)      105 1691
+Sainte-Famille     3745             2373    Royal (chemin)            Royal (chemin)      106 1877
+Sainte-Famille     3749             2377    Royal (chemin)            Royal (chemin)      107 1892
+Sainte-Famille     3754             2374    Royal (chemin)            Royal (chemin)      108 1664
+Sainte-Famille     3766             2380    Royal (chemin)            Royal (chemin)     108A 1902
+Sainte-Famille     3805        2419    Royal (chemin)   Royal (chemin)   109 1900
+Sainte-Famille     3811        2425    Royal (chemin)   Royal (chemin)   110 1877
+Sainte-Famille     3824        2424    Royal (chemin)   Royal (chemin)   111 1890
+Sainte-Famille   3836-3838   2428-2430 Royal (chemin)   Royal (chemin)   112 1888
+Sainte-Famille     3854        2432    Royal (chemin)   Royal (chemin)   113 1677
+Sainte-Famille     3863        2447    Royal (chemin)   Royal (chemin)   114 1840                      Ancienne scierie
+Sainte-Famille     3868        2452    Royal (chemin)   Royal (chemin)   115 1850
+Sainte-Famille     3878        2462    Royal (chemin)   Royal (chemin)   116 v. 1750                   Ancienne forge
+Sainte-Famille     3879        2461    Royal (chemin)   Royal (chemin)   116a 1900
+Sainte-Famille   3884-3886   2470-2472 Royal (chemin)   Royal (chemin)   117 1822
+Sainte-Famille   3885-3889     2471    Royal (chemin)   Royal (chemin)   118 v. 1890
+Sainte-Famille     3900                Royal (chemin)                    120a            Suppression   Maison démolie
+Sainte-Famille     3906                Royal (chemin)                    120             Suppression   Maison incendiée en 1987
+                                                                                                       Presbytère, maison de nos
+Sainte-Famille     3907        2485    Royal (chemin)   Royal (chemin)   121 1888
+                                                                                                       Aieux
+                                                                                                       École primaire de Sainte-
+Sainte-Famille     3912        2482    Royal (chemin)   Royal (chemin)         v. 1880   Ajout
+                                                                                                       Famille
+Sainte-Famille     3918        2486    Royal (chemin)   Royal (chemin)   122   1850
+Sainte-Famille     3920        2492    Royal (chemin)   Royal (chemin)   123   1930
+Sainte-Famille     3925        2489    Royal (chemin)   Royal (chemin)   124   1890
+Sainte-Famille     3927                Royal (chemin)                    125             Suppression   Maison démolie
+Sainte-Famille     3930        2508    Royal (chemin)   Royal (chemin)   126 1877
+Sainte-Famille     3934        2512    Royal (chemin)   Royal (chemin)   127 1889
+Sainte-Famille     3948        2528    Royal (chemin)   Royal (chemin)   128 v. 1875
+Sainte-Famille     3952        2544    Royal (chemin)   Royal (chemin)   129 1890
+Sainte-Famille     3954        2546    Royal (chemin)   Royal (chemin)       v. 1950     Ajout
+Sainte-Famille     3963        2531    Royal (chemin)   Royal (chemin)   130 1863
+Sainte-Famille     3967        2551    Royal (chemin)   Royal (chemin)   133 1890
+Sainte-Famille     3968                Royal (chemin)                    132             Suppression   Maison démolie
+Sainte-Famille     3974        2532    Royal (chemin)   Royal (chemin)   131 1691
+Sainte-Famille     3981        2561    Royal (chemin)   Royal (chemin)   134 1877
+Sainte-Famille     3985        2569    Royal (chemin)   Royal (chemin)   135 1915
+Sainte-Famille   3986-3988   2566-2568 Royal (chemin)   Royal (chemin)   136 1915
+Sainte-Famille     3994        2576    Royal (chemin)   Royal (chemin)   137 v. 1870
+Sainte-Famille   4004   2584   Royal (chemin)   Royal (chemin)   138 v. 1880
+Sainte-Famille   4013   2595   Royal (chemin)   Royal (chemin)   139 1777
+Sainte-Famille   4034   2608   Royal (chemin)   Royal (chemin)   140 v. 1750                 Maison Turcotte
+Sainte-Famille   4052   2616   Royal (chemin)   Royal (chemin)   141 1917
+Sainte-Famille   4068   2622   Royal (chemin)   Royal (chemin)   142 1700
+Sainte-Famille   4092   2632   Royal (chemin)   Royal (chemin)   143 v. 1860
+Sainte-Famille   4110   2640   Royal (chemin)   Royal (chemin)   144 1822
+Sainte-Famille   4119   2639   Royal (chemin)   Royal (chemin)   145 1930
+Sainte-Famille   4129   2647   Royal (chemin)   Royal (chemin)   146 1790
+Sainte-Famille   4135   2657   Royal (chemin)   Royal (chemin)   146a 1897
+Sainte-Famille   4161   2677   Royal (chemin)   Royal (chemin)   148 1650
+Sainte-Famille   4164          Royal (chemin)                    147           Suppression   Maison démolie
+Sainte-Famille   4179   2689   Royal (chemin)   Royal (chemin)   149 1755
+Sainte-Famille   4191   2699   Royal (chemin)   Royal (chemin)   150 1877
+Sainte-Famille   4204   2704   Royal (chemin)   Royal (chemin)   151 1919
+Sainte-Famille   4249   2731   Royal (chemin)   Royal (chemin)   152 1825
+Sainte-Famille   4266   2738   Royal (chemin)   Royal (chemin)   153 1925
+Sainte-Famille   4311   2759   Royal (chemin)   Royal (chemin)   154 v. 1850
+Sainte-Famille   4350   2776   Royal (chemin)   Royal (chemin)   155 1900
+Sainte-Famille   4366   2794   Royal (chemin)   Royal (chemin)   155a 1935
+Sainte-Famille   4377   2793   Royal (chemin)   Royal (chemin)   156 1777
+Sainte-Famille   4403   2817   Royal (chemin)   Royal (chemin)   157 1690      IP classé     Maison Gagnon
+Sainte-Famille   4411   2821   Royal (chemin)   Royal (chemin)   157a 1920
+Sainte-Famille   4417   2831   Royal (chemin)   Royal (chemin)   158 1750      IP classé     Maison Morisset
+Sainte-Famille   4451   2851   Royal (chemin)   Royal (chemin)   159 1900
+Sainte-Famille   4466   2848   Royal (chemin)   Royal (chemin)   160 1805
+Sainte-Famille   4487   2871   Royal (chemin)   Royal (chemin)   161 1917
+Sainte-Famille   4606   2912   Royal (chemin)   Royal (chemin)   162 1927
+Sainte-Famille   4657   2939   Royal (chemin)   Royal (chemin)   163 1670
+Sainte-Famille   4700   2958   Royal (chemin)   Royal (chemin)   164 1668      IP classé     Maison Drouin
+                    No civique
+
+
+
+
+                                 No civique
+                                                                                                       Date estimée
+
+
+
+
+                                                                                             No inv.
+                     (avant
+
+
+
+
+                                  (après
+                      2015)
+
+
+
+
+                                   2015)
+Municipalité                                  Rue (avant 2015)            Rue (après 2015)             de           Statut        Commentaire
+                                                                                                       construction
+Sainte-Pétronille      1           8701       Bout-de-l'Île (chemin du)   Royal (chemin)     607 1889
+Sainte-Pétronille      10          8696       Bout-de-l'Île (chemin du)   Royal (chemin)     606 1860
+Sainte-Pétronille      11          8695       Bout-de-l'Île (chemin du)   Royal (chemin)     605                    Suppression   Maison démolie
+Sainte-Pétronille      20          8684       Bout-de-l'Île (chemin du)   Royal (chemin)     604 1814
+Sainte-Pétronille      22          8678       Bout-de-l'Île (chemin du)   Royal (chemin)     603 1879
+Sainte-Pétronille      25          8675       Bout-de-l'Île (chemin du)   Royal (chemin)     602 1840                             Vieille école
+Sainte-Pétronille    29-31                    Bout-de-l'Île (chemin du)                      609                    Suppression   Maison démolie
+Sainte-Pétronille      33          8661       Bout-de-l'Île (chemin du)   Royal (chemin)     601 v. 1830
+Sainte-Pétronille      39          8649       Bout-de-l'Île (chemin du)   Royal (chemin)     608 1890
+Sainte-Pétronille      42          8620       Bout-de-l'Île (chemin du)   Royal (chemin)     599 1890
+Sainte-Pétronille      43          8621       Bout-de-l'Île (chemin du)   Royal (chemin)     600 1851
+Sainte-Pétronille      44          8606       Bout-de-l'Île (chemin du)   Royal (chemin)     598 1885
+Sainte-Pétronille      45          8601       Bout-de-l'Île (chemin du)   Royal (chemin)     595 1900
+Sainte-Pétronille      46          8596       Bout-de-l'Île (chemin du)   Royal (chemin)     594 1852
+Sainte-Pétronille      49          8597       Bout-de-l'Île (chemin du)   Royal (chemin)     593 1920
+Sainte-Pétronille      52          8588       Bout-de-l'Île (chemin du)   Royal (chemin)     598a 1921
+Sainte-Pétronille      57          8565       Bout-de-l'Île (chemin du)   Royal (chemin)     592 1915
+Sainte-Pétronille      74          8524       Bout-de-l'Île (chemin du)   Royal (chemin)     591 1919
+Sainte-Pétronille      78          8518       Bout-de-l'Île (chemin du)   Royal (chemin)     590 1919
+Sainte-Pétronille      81          8505       Bout-de-l'Île (chemin du)   Royal (chemin)     611 1834
+Sainte-Pétronille      82          8500       Bout-de-l'Île (chemin du)   Royal (chemin)     588 v. 1825
+Sainte-Pétronille      85          8497       Bout-de-l'Île (chemin du)   Royal (chemin)     589 v. 1789
+Sainte-Pétronille      86          8500       Bout-de-l'Île (chemin du)   Royal (chemin)     587 1825
+Sainte-Pétronille      87          8493       Bout-de-l'Île (chemin du)   Royal (chemin)     589a 1940
+Sainte-Pétronille      91          8485       Bout-de-l'Île (chemin du)   Royal (chemin)     586 v. 1900
+Sainte-Pétronille      93          8451       Bout-de-l'Île (chemin du)   Royal (chemin)     585 1889
+Sainte-Pétronille     100          8438       Bout-de-l'Île (chemin du)   Royal (chemin)     583 1890
+Sainte-Pétronille     101          8439       Bout-de-l'Île (chemin du)   Royal (chemin)     582a 1912
+                                                                                                                                  Centre comm. Raoul-
+Sainte-Pétronille     104          8436       Bout-de-l'Île (chemin du)   Royal (chemin)                            Ajout
+                                                                                                                                  Dandurand
+Sainte-Pétronille     106          8434       Bout-de-l'Île (chemin du)   Royal (chemin)     582 1925
+Sainte-Pétronille     108          8430       Bout-de-l'Île (chemin du)   Royal (chemin)     581 1915
+Sainte-Pétronille     110          8426       Bout-de-l'Île (chemin du)   Royal (chemin)     580 1910
+Sainte-Pétronille     111          8421       Bout-de-l'Île (chemin du)   Royal (chemin)     579a 1925
+Sainte-Pétronille     113          8417       Bout-de-l'Île (chemin du)   Royal (chemin)          1948              Ajout
+Sainte-Pétronille     115          8413       Bout-de-l'Île (chemin du)   Royal (chemin)          1925              Ajout
+Sainte-Pétronille      117      8403   Bout-de-l'Île (chemin du)   Royal (chemin)   579 1945
+Sainte-Pétronille      121      8383   Bout-de-l'Île (chemin du)   Royal (chemin)       1940      Ajout
+Sainte-Pétronille      123      8379   Bout-de-l'Île (chemin du)   Royal (chemin)   578 1945
+Sainte-Pétronille      128      8374   Bout-de-l'Île (chemin du)   Royal (chemin)   577 1865
+Sainte-Pétronille      133      8367   Bout-de-l'Île (chemin du)   Royal (chemin)   575 1912
+Sainte-Pétronille      133             Bout-de-l'Île (chemin du)                    576           Suppression   Maison démolie
+Sainte-Pétronille      134      8370   Bout-de-l'Île (chemin du)   Royal (chemin)   572 1789
+Sainte-Pétronille      134      8370   Bout-de-l'Île (chemin du)   Royal (chemin)   574 v. 1890
+Sainte-Pétronille      135      8365   Bout-de-l'Île (chemin du)   Royal (chemin)   573 v. 1875
+Sainte-Pétronille      142      8356   Bout-de-l'Île (chemin du)   Royal (chemin)   560 1858
+Sainte-Pétronille      143      8359   Bout-de-l'Île (chemin du)   Royal (chemin)   571 v. 1700
+Sainte-Pétronille      144      8350   Bout-de-l'Île (chemin du)   Royal (chemin)   568 v. 1900
+Sainte-Pétronille      145      8355   Bout-de-l'Île (chemin du)   Royal (chemin)   570 1930
+Sainte-Pétronille      146      8352   Bout-de-l'Île (chemin du)   Royal (chemin)   569 1837
+Sainte-Pétronille      147      8351   Bout-de-l'Île (chemin du)   Royal (chemin)   567 1855
+Sainte-Pétronille      148      8340   Bout-de-l'Île (chemin du)   Royal (chemin)       v. 1900   Ajout
+Sainte-Pétronille      149      8347   Bout-de-l'Île (chemin du)   Royal (chemin)   562 1838
+Sainte-Pétronille      150      8330   Bout-de-l'Île (chemin du)   Royal (chemin)   561 1779
+Sainte-Pétronille      153      8333   Bout-de-l'Île (chemin du)   Royal (chemin)   559 v. 1870
+Sainte-Pétronille      155      8335   Bout-de-l'Île (chemin du)   Royal (chemin)   558 v. 1870
+Sainte-Pétronille   158-158-A   8316   Bout-de-l'Île (chemin du)   Royal (chemin)   555 1890
+Sainte-Pétronille      159      8323   Bout-de-l'Île (chemin du)   Royal (chemin)   556 1929
+Sainte-Pétronille      161      8313   Bout-de-l'Île (chemin du)   Royal (chemin)   554 1839
+Sainte-Pétronille      163      8303   Bout-de-l'Île (chemin du)   Royal (chemin)   553 1897
+Sainte-Pétronille      164      8306   Bout-de-l'Île (chemin du)   Royal (chemin)   552 1889
+                                                                                                                Maison démolie et
+Sainte-Pétronille     166              Bout-de-l'Île (chemin du)                    551b          Suppression
+                                                                                                                reconstruite
+Sainte-Pétronille     168       8298   Bout-de-l'Île (chemin du)   Royal (chemin)   551a 1890
+Sainte-Pétronille     170       8294   Bout-de-l'Île (chemin du)   Royal (chemin)   551 1889
+Sainte-Pétronille     172       8290   Bout-de-l'Île (chemin du)   Royal (chemin)   550 v. 1880
+Sainte-Pétronille     174       8286   Bout-de-l'Île (chemin du)   Royal (chemin)   549 1878
+Sainte-Pétronille     176       8282   Bout-de-l'Île (chemin du)   Royal (chemin)   543 v. 1870
+Sainte-Pétronille     178       8278   Bout-de-l'Île (chemin du)   Royal (chemin)   542 1879
+Sainte-Pétronille     181       8263   Bout-de-l'Île (chemin du)   Royal (chemin)        1939     Ajout
+Sainte-Pétronille     182       8266   Bout-de-l'Île (chemin du)   Royal (chemin)   610 1870
+Sainte-Pétronille     186       8262   Bout-de-l'Île (chemin du)   Royal (chemin)   540 1870
+Sainte-Pétronille     188       8262   Bout-de-l'Île (chemin du)   Royal (chemin)   539 1870
+Sainte-Pétronille     189       8253   Bout-de-l'Île (chemin du)   Royal (chemin)   537 1889
+Sainte-Pétronille     190       8258   Bout-de-l'Île (chemin du)   Royal (chemin)   538 1889
+Sainte-Pétronille   194   8254   Bout-de-l'Île (chemin du)   Royal (chemin)          541   1904
+Sainte-Pétronille   195   8249   Bout-de-l'Île (chemin du)   Royal (chemin)          536   1889
+Sainte-Pétronille   200   8240   Bout-de-l'Île (chemin du)   Royal (chemin)          535   1890
+Sainte-Pétronille   201   8241   Bout-de-l'Île (chemin du)   Royal (chemin)          523   1885
+Sainte-Pétronille   205   8233   Bout-de-l'Île (chemin du)   Royal (chemin)          514   1889
+Sainte-Pétronille   215   8229   Bout-de-l'Île (chemin du)   Royal (chemin)          512   1900
+                                                                                                           Rés. d'été sénateur Raoul-
+Sainte-Pétronille   216   8220   Bout-de-l'Île (chemin du)   Royal (chemin)          513 1889
+                                                                                                           Dandurand
+Sainte-Pétronille   217   8225   Bout-de-l'Île (chemin du)   Royal (chemin)          511 1900
+Sainte-Pétronille   222   8210   Bout-de-l'Île (chemin du)   Royal (chemin)          510 1905
+Sainte-Pétronille   224   8206   Bout-de-l'Île (chemin du)   Royal (chemin)          509 1889
+Sainte-Pétronille   228   8202   Bout-de-l'Île (chemin du)   Royal (chemin)          508 v. 1880
+Sainte-Pétronille   229   8205   Bout-de-l'Île (chemin du)   Royal (chemin)          507 1839
+Sainte-Pétronille   234   8194   Bout-de-l'Île (chemin du)   Royal (chemin)          506 1814
+Sainte-Pétronille   237   8189   Bout-de-l'Île (chemin du)   Royal (chemin)          505 1910
+Sainte-Pétronille   253   8169   Bout-de-l'Île (chemin du)   Royal (chemin)          612 v. 1900           Portheus
+Sainte-Pétronille    2           Église (chemin de l')       Église (chemin de l')       1940      Ajout
+Sainte-Pétronille    10          Église (chemin de l')       Église (chemin de l')   584 1900
+Sainte-Pétronille    12          Église (chemin de l')       Église (chemin de l')   547 v. 1875
+Sainte-Pétronille   21           Église (chemin de l')       Église (chemin de l')   546 v. 1890           Presbytère de Sainte-Pétronille
+Sainte-Pétronille   22           Église (chemin de l')       Église (chemin de l')   545 1873
+Sainte-Pétronille   23           Église (chemin de l')       Église (chemin de l')   545a 1917
+Sainte-Pétronille   33           Église (chemin de l')       Église (chemin de l')   544 1920
+Sainte-Pétronille   35           Église (chemin de l')       Église (chemin de l')   557 v. 1900
+Sainte-Pétronille   37           Église (chemin de l')       Église (chemin de l')        1936     Ajout   Maison Paul-Brunet
+Sainte-Pétronille   45           Église (chemin de l')       Église (chemin de l')   548 1865
+Sainte-Pétronille   6      8     Gagnon (rue)                Gagnon (rue)            526 1900
+Sainte-Pétronille   7            Gagnon (rue)                Gagnon (rue)            525 1940
+Sainte-Pétronille   9            Gagnon (rue)                Gagnon (rue)            524 1884
+Sainte-Pétronille   11           Gagnon (rue)                Gagnon (rue)            526a 1913
+Sainte-Pétronille   12           Gagnon (rue)                Gagnon (rue)            528 v. 1900
+Sainte-Pétronille   13           Gagnon (rue)                Gagnon (rue)            527 1940
+Sainte-Pétronille   17           Gagnon (rue)                Gagnon (rue)            529 1860
+Sainte-Pétronille   5            Horatio-Walker (rue)        Horatio-Walker (rue)    563 1817
+Sainte-Pétronille   7            Horatio-Walker (rue)        Horatio-Walker (rue)    564 1920
+Sainte-Pétronille   11           Horatio-Walker (rue)        Horatio-Walker (rue)    565 1890              Maison Horatio-Walker
+Sainte-Pétronille   13           Horatio-Walker (rue)        Horatio-Walker (rue)    566 1890              Ancien studio Horatio-Walker
+Sainte-Pétronille   2        Laflamme (rue)     Laflamme (rue)     530   1889
+Sainte-Pétronille   4        Laflamme (rue)     Laflamme (rue)     531   1940
+Sainte-Pétronille   6        Laflamme (rue)     Laflamme (rue)     532   1905
+Sainte-Pétronille   7        Laflamme (rue)     Laflamme (rue)     533   1890
+Sainte-Pétronille   8        Laflamme (rue)     Laflamme (rue)     534   1874
+Sainte-Pétronille   14       Orléans (avenue)   Orléans (avenue)   596   1930
+Sainte-Pétronille   20       Orléans (avenue)   Orléans (avenue)   597   1915
+Sainte-Pétronille   3    5   Quai (rue du)      Quai (rue du)      515   1889
+Sainte-Pétronille   8        Quai (rue du)      Quai (rue du)      516   1887
+Sainte-Pétronille   10       Quai (rue du)      Quai (rue du)      517   1910
+Sainte-Pétronille   14       Quai (rue du)      Quai (rue du)      519   1814
+Sainte-Pétronille   16       Quai (rue du)      Quai (rue du)      518   1878
+Sainte-Pétronille   18       Quai (rue du)      Quai (rue du)      520   v. 1880
+Sainte-Pétronille   20       Quai (rue du)      Quai (rue du)      521   1890
+Sainte-Pétronille   22       Quai (rue du)      Quai (rue du)      522             Suppression   Bâtiment incendié en 1996
+                  (avant 2015)
+
+
+
+
+                                   (après 2015)
+                   No civique
+
+
+
+
+                                    No civique
+                                                                                                           Date estimée
+
+
+
+
+                                                                                                 No inv.
+Municipalité                                      Rue (avant 2015)       Rue (après 2015)                  de           Statut      Commentaire
+                                                                                                           construction
+
+                                                                                                                                    Domaine de la Pointe-
+Saint-François     334              334           D'Argentenay (route)   D'Argentenay (route)    193 v. 1900
+                                                                                                                                    d'Argentenay
+Saint-François    636              636            D'Argentenay (route)   D'Argentenay (route)    192       v. 1909
+Saint-François    844              844            D'Argentenay (route)   D'Argentenay (route)    191       v. 1918
+Saint-François    916              916            D'Argentenay (route)   D'Argentenay (route)    190       v. 1805                  Maison Omer-Picard
+Saint-François    1000             1000           D'Argentenay (route)   D'Argentenay (route)    189       1690                     Maison Émile-Picard
+Saint-François    1428             1428           D'Argentenay (route)   D'Argentenay (route)    188       1671                     Maison Guérard
+Saint-François    1532             1532           D'Argentenay (route)   D'Argentenay (route)    187       1902
+Saint-François     102              102           Maître-Chantre (chemin) Maître-Chantre (chemin) 185 v. 1700           IP classé   Maison Imbeau
+Saint-François     369              369    Moulin (chemin du)            Moulin (chemin du)      186       1690
+Saint-François     105             3013    Royal (chemin)                Royal (chemin)          165       1890
+Saint-François     109             3027    Royal (chemin)                Royal (chemin)          167       1900
+Saint-François     110             3024    Royal (chemin)                Royal (chemin)          166       1780
+Saint-François     123             3057    Royal (chemin)                Royal (chemin)          168       1905
+Saint-François     127             3077    Royal (chemin)                Royal (chemin)          169       1790
+Saint-François     135             3095    Royal (chemin)                Royal (chemin)          170       1782         IP classé   Maison Louis-Asselin
+Saint-François     137             3010    Royal (chemin)                Royal (chemin)          171       1673         IP classé   Maison Chrétien
+Saint-François   148-150         3126-3128 Royal (chemin)                Royal (chemin)          172       1877
+                                                                                                                                    Maison déménagée en 1996.
+Saint-François     151             3133           Royal (chemin)         Royal (chemin)                    1752         Ajout
+                                                                                                                                    Maison Roy-Larivière
+Saint-François     152             3136           Royal (chemin)         Royal (chemin)         173 v. 1750             IP classé   Maison Roberge
+Saint-François    155 A            3147           Royal (chemin)         Royal (chemin)              v. 1750            Ajout       Maison déménagée
+Saint-François     156             3176           Royal (chemin)         Royal (chemin)         173a 1903
+Saint-François     170             3222           Royal (chemin)         Royal (chemin)         177 1890                            Maison Dompierre
+Saint-François     171             3197           Royal (chemin)         Royal (chemin)         174 v. 1860                         Maison Pierre-Labbé
+Saint-François     173             3201           Royal (chemin)         Royal (chemin)         175 v. 1830
+Saint-François     177             3209           Royal (chemin)         Royal (chemin)              1900               Ajout
+Saint-François     178             3234           Royal (chemin)         Royal (chemin)         179 1840
+Saint-François     181             3219           Royal (chemin)         Royal (chemin)         176 1895
+Saint-François   189     3227   Royal (chemin)          Royal (chemin)            178 v. 1870
+Saint-François   194     3254   Royal (chemin)          Royal (chemin)            180 1876
+Saint-François   198     3262   Royal (chemin)          Royal (chemin)            182 1890
+Saint-François   199     3255   Royal (chemin)          Royal (chemin)            181 1882
+Saint-François   201     3259   Royal (chemin)          Royal (chemin)            182a 1890
+Saint-François   210     3284   Royal (chemin)          Royal (chemin)            183 1890
+Saint-François   218     3300   Royal (chemin)          Royal (chemin)            184 1870
+Saint-François   339     505    Lemelin (rue)           Lemelin (rue)             194 1890      IP classé     École de fabrique
+Saint-François   341     3501   Royal (chemin)          Royal (chemin)            195 1867                    Presbytère de Saint-François
+                                                                                                              Anc. bureau de poste et
+Saint-François   345     3511   Royal (chemin)          Royal (chemin)            197 1690
+                                                                                                              magasin général
+Saint-François   350     3492   Royal (chemin)          Royal (chemin)            196 1835
+Saint-François   351     3523   Royal (chemin)          Royal (chemin)            198 1898
+Saint-François   353     3527   Royal (chemin)          Royal (chemin)            200 1890
+Saint-François   361     3563   Royal (chemin)          Royal (chemin)            201 1882
+Saint-François   368     3532   Royal (chemin)          Royal (chemin)            199 1890
+Saint-François   373     3607   Royal (chemin)          Royal (chemin)            202 1890
+Saint-François   377            Royal (chemin)          Royal (chemin)                v. 1950   Ajout         Mairie de Saint-François
+Saint-François   393     3649   Royal (chemin)          Royal (chemin)            204 v. 1900
+Saint-François   398     3630   Royal (chemin)          Royal (chemin)            203 1905
+Saint-François   405      98    IMBEAULT (chemin)       IMBEAULT (chemin)         205 1695
+Saint-François   410            Royal (chemin)                                    206           Suppression   Maison incendiée
+Saint-François   419     3705   Royal (chemin)          Royal (chemin)            207 1915
+Saint-François   427     98     Jean-Sébastien (chemin) Jean-Sébastien (chemin)   208 1682
+Saint-François    443    3749   Royal (chemin)          Royal (chemin)            210 1890
+Saint-François    444    3738   Lemelin (rue)           Lemelin (rue)             209 v. 1920
+Saint-François    451     98    Royal (chemin)          Campagnard (chemin)       212 1734
+Saint-François    453    3789   Royal (chemin)          Royal (chemin)            213 1927
+Saint-François   454 A   3756   Royal (chemin)          Royal (chemin)            211 v. 1900
+Saint-François    462    3792   Royal (chemin)          Royal (chemin)                v. 1929   Ajout         Ancienne école
+Saint-François    466    3802   Royal (chemin)          Royal (chemin)            214 1944
+Saint-François    470    3822   Royal (chemin)          Royal (chemin)            215 1910
+Saint-François   478   3840   Royal (chemin)   Royal (chemin)   216 v. 1910
+Saint-François   494   3866   Royal (chemin)   Royal (chemin)   217 1930
+Saint-François   501   3881   Royal (chemin)   Royal (chemin)   218 1910
+Saint-François   504   3886   Royal (chemin)   Royal (chemin)       v. 1925   Ajout
+Saint-François   507   3897   Royal (chemin)   Royal (chemin)   219           Suppression   Maison incendiée
+Saint-François   511   554    Royal (chemin)   Royal (chemin)   220 v. 1911
+               (avant 2015)
+
+
+
+
+                              (après 2015)
+                No civique
+
+
+
+
+                               No civique
+                                                                                                  Date estimée
+
+
+
+
+                                                                                        No inv.
+Municipalité                                 Rue (avant 2015)     Rue (après 2015)                de           Statut   Commentaire
+                                                                                                  construction
+
+Saint-Jean      8 à 10         8 à 10        Côtes (chemin des)   Côtes (chemin des)        1955               Ajout    École de Saint-Jean
+Saint-Jean        16             16          Côtes (chemin des)   Côtes (chemin des)   276 1890
+Saint-Jean        26             26          Côtes (chemin des)   Côtes (chemin des)   277 1890
+Saint-Jean     28 à 36        28 à 36        Côtes (chemin des)   Côtes (chemin des)   288 v. 1870
+Saint-Jean        40             40          Côtes (chemin des)   Côtes (chemin des)   297 1912
+Saint-Jean        54             54          Côtes (chemin des)   Côtes (chemin des)   324 1927
+Saint-Jean        8              8           Église (rue de l')   Église (rue de l')   278 1881
+Saint-Jean        10             10          Église (rue de l')   Église (rue de l')   279 v. 1860
+Saint-Jean        16             16          Église (rue de l')   Église (rue de l')   280 1890
+Saint-Jean        20             20          Église (rue de l')   Église (rue de l')   281 v. 1800
+Saint-Jean        22             22          Église (rue de l')   Église (rue de l')   282 1890
+Saint-Jean        30             30          Église (rue de l')   Église (rue de l')   283 1846
+Saint-Jean        38             38          Église (rue de l')   Église (rue de l')   284 1856                         Ancienne grange-étable
+Saint-Jean        88             88          Lafleur (chemin)     Lafleur (chemin)     372 1902                         Ancienne école
+Saint-Jean       105            105          Lafleur (chemin)     Lafleur (chemin)     370 v. 1860
+Saint-Jean       111            111          Lafleur (chemin)     Lafleur (chemin)     369a v. 1950
+Saint-Jean       115            115          Lafleur (chemin)     Lafleur (chemin)     369 1830
+Saint-Jean       129            129          Lafleur (chemin)     Lafleur (chemin)     368a 1929
+Saint-Jean       132            132          Lafleur (chemin)     Lafleur (chemin)     368 1815
+Saint-Jean       186            186          Lafleur (côte)       Lafleur (côte)       371 v. 1790
+Saint-Jean       188            188          Lafleur (côte)       Lafleur (côte)       374 v. 1900
+Saint-Jean        19             19          Martineau (chemin)   Martineau (chemin)   230 1693
+Saint-Jean        21             21          Mitan (route du)     Mitan (route du)     274 1900
+Saint-Jean        24             24          Mitan (route du)     Mitan (route du)     273 1875
+Saint-Jean        31             31          Mitan (route du)     Mitan (route du)     275 1885
+Saint-Jean       121           5532          Royal (chemin)       Royal (chemin)       385 1905
+Saint-Jean       175           5508          Royal (chemin)       Royal (chemin)       384 1830
+Saint-Jean       205           5500          Royal (chemin)       Royal (chemin)       383 1948
+Saint-Jean       211           5490          Royal (chemin)       Royal (chemin)       382 1840
+Saint-Jean       271           5450          Royal (chemin)       Royal (chemin)       381 1890
+Saint-Jean    271 A      5450    Royal (chemin)   Royal (chemin)   381a v. 1900
+Saint-Jean     341       5426    Royal (chemin)   Royal (chemin)   380 1728
+Saint-Jean     367       5422    Royal (chemin)   Royal (chemin)   379 1856
+Saint-Jean     443       5398    Royal (chemin)   Royal (chemin)   378 1860
+Saint-Jean     471       5370    Royal (chemin)   Royal (chemin)   377 v. 1900
+Saint-Jean   497-499   5362-5364 Royal (chemin)   Royal (chemin)   376 1790
+Saint-Jean     505       5356    Royal (chemin)   Royal (chemin)   375 1860
+Saint-Jean     577       5314    Royal (chemin)   Royal (chemin)   373 1880
+Saint-Jean   670-672   5275-5279 Royal (chemin)   Royal (chemin)   367 1837
+Saint-Jean     700       5267    Royal (chemin)   Royal (chemin)   366 1830
+Saint-Jean     725       5232    Royal (chemin)   Royal (chemin)   365 1902
+Saint-Jean     740       5237    Royal (chemin)   Royal (chemin)   364 1890
+Saint-Jean     771       5198    Royal (chemin)   Royal (chemin)   363 v. 1750
+Saint-Jean     849       5166    Royal (chemin)   Royal (chemin)   362 v. 1890
+Saint-Jean     865       5154    Royal (chemin)   Royal (chemin)   361 1890
+Saint-Jean     899       5138    Royal (chemin)   Royal (chemin)   360 1689                     Maison Gaudias-Turcotte
+Saint-Jean     967       5074    Royal (chemin)   Royal (chemin)   359 1831
+Saint-Jean     969       5066    Royal (chemin)   Royal (chemin)   358 1800
+Saint-Jean     976               Royal (chemin)                    356            Suppression   Maison incendiée
+Saint-Jean     977       5058    Royal (chemin)   Royal (chemin)   357 1875
+Saint-Jean     995       5026    Royal (chemin)   Royal (chemin)   355 1920
+Saint-Jean    1023       4998    Royal (chemin)   Royal (chemin)   354 1900
+Saint-Jean    1084       4977    Royal (chemin)   Royal (chemin)   353 1830
+Saint-Jean    1123       4954    Royal (chemin)   Royal (chemin)   352 1878
+Saint-Jean    1139       4946    Royal (chemin)   Royal (chemin)   351 1850
+Saint-Jean    1143       4912    Royal (chemin)   Royal (chemin)   350 1831
+Saint-Jean    1199       4874    Royal (chemin)   Royal (chemin)   348 v. 1700
+Saint-Jean    1229       4870    Royal (chemin)   Royal (chemin)   347 v. 1870
+Saint-Jean    1231       4936    Royal (chemin)   Royal (chemin)   349 1671
+Saint-Jean    1247       4862    Royal (chemin)   Royal (chemin)   346 1835
+Saint-Jean    1260       4859    Royal (chemin)   Royal (chemin)   345 1815
+Saint-Jean    1266       4855    Royal (chemin)   Royal (chemin)   344a 1890
+Saint-Jean    1281       4854    Royal (chemin)   Royal (chemin)   344 1840
+Saint-Jean    1295       4846    Royal (chemin)   Royal (chemin)   343 1870
+Saint-Jean     1347        4822    Royal (chemin)   Royal (chemin)   342 1668
+Saint-Jean     1451        4818    Royal (chemin)   Royal (chemin)   341 1734        IP classé     Manoir Mauvide-Genest
+Saint-Jean     1456        4831    Royal (chemin)   Royal (chemin)        v. 1903    Ajout
+Saint-Jean     1473        1473    Blais (côte)     Blais (côte)     334 1781                      Maison Antoine-Fontaine
+Saint-Jean     1479        4782    Royal (chemin)   Royal (chemin)   332 1881
+Saint-Jean     1483        4810    Royal (chemin)   Royal (chemin)   340 1938
+Saint-Jean     1485        4804    Royal (chemin)   Royal (chemin)   339 1860
+Saint-Jean     1487        4806    Royal (chemin)   Royal (chemin)   339a 1860
+Saint-Jean     1515        4802    Royal (chemin)   Royal (chemin)   338 1820
+Saint-Jean     1520                Royal (chemin)                    337a            Suppression   Maison démolie
+Saint-Jean     1521        4798    Royal (chemin)   Royal (chemin)   337 1845
+Saint-Jean     1537        4794    Royal (chemin)   Royal (chemin)   336 1825
+Saint-Jean     1538                Royal (chemin)                                    Suppression   Maison démolie
+Saint-Jean     1547        4790    Royal (chemin)   Royal (chemin)   335   1860
+Saint-Jean     1571        4778    Royal (chemin)   Royal (chemin)   331   1821
+Saint-Jean     1592        4781    Royal (chemin)   Royal (chemin)   330   1863
+Saint-Jean     1609        4748    Royal (chemin)   Royal (chemin)   333   1891
+Saint-Jean     1611        1615    Royal (chemin)   Royal (chemin)   329   1875
+Saint-Jean     1633        4742    Royal (chemin)   Royal (chemin)   328   1850
+Saint-Jean     1634        4753    Royal (chemin)   Royal (chemin)   325   v. 1930
+Saint-Jean     1639        4738    Royal (chemin)   Royal (chemin)   327   1870
+Saint-Jean     1639                Royal (chemin)                    326             Suppression   Maison incendiée
+Saint-Jean     1669        4722    Royal (chemin)   Royal (chemin)   322   1838
+Saint-Jean     1675        4726    Royal (chemin)   Royal (chemin)   323   1809                    Maison Pépin-dit-Lachance
+Saint-Jean     1685        4718    Royal (chemin)   Royal (chemin)   320   1850
+Saint-Jean     1686        4741    Royal (chemin)   Royal (chemin)   321   1871
+Saint-Jean     1701        4714    Royal (chemin)   Royal (chemin)   319   1829
+Saint-Jean   1704-1710   4733-4735 Royal (chemin)   Royal (chemin)   318   1820
+Saint-Jean     1715        4710    Royal (chemin)   Royal (chemin)   317   1830
+Saint-Jean   1730-1732   4721-4723 Royal (chemin)   Royal (chemin)   316   v. 1900
+Saint-Jean   1733-1737   4706-4708 Royal (chemin)   Royal (chemin)   315   1831
+Saint-Jean   1742-1746   4711-4713 Royal (chemin)   Royal (chemin)   314   1880
+Saint-Jean     1747        4704    Royal (chemin)   Royal (chemin)   313   1855
+Saint-Jean     1763        4698    Royal (chemin)   Royal (chemin)   312   1866
+Saint-Jean     1764        4707    Royal (chemin)   Royal (chemin)   311 1875
+Saint-Jean     1778        4703    Royal (chemin)   Royal (chemin)   310 1871
+Saint-Jean     1786        4699    Royal (chemin)   Royal (chemin)   308 1841
+Saint-Jean     1791        4694    Royal (chemin)   Royal (chemin)   309 1868
+Saint-Jean     1794        4695    Royal (chemin)   Royal (chemin)   307 1841
+Saint-Jean     1804        4691    Royal (chemin)   Royal (chemin)   305 1891
+Saint-Jean     1811        4686    Royal (chemin)   Royal (chemin)   306 1900
+Saint-Jean   1820-1822   4683-4685 Royal (chemin)   Royal (chemin)   303 1915
+Saint-Jean     1827        4682    Royal (chemin)   Royal (chemin)   304 1841
+Saint-Jean     1834        4675    Royal (chemin)   Royal (chemin)   301 1891
+Saint-Jean     1840        4671    Royal (chemin)   Royal (chemin)   300 v. 1860
+Saint-Jean   1845-1849     4672    Royal (chemin)   Royal (chemin)   302 1886
+Saint-Jean   1848-1850   4667-4669 Royal (chemin)   Royal (chemin)   298 v. 1890
+Saint-Jean     1851        4666    Royal (chemin)   Royal (chemin)   299 1890
+Saint-Jean   1852-1854     4663-   Royal (chemin)   Royal (chemin)   296 1880
+Saint-Jean     1865        4658    Royal (chemin)   Royal (chemin)   294 1841
+Saint-Jean     1866        4659    Royal (chemin)   Royal (chemin)   295 1877
+Saint-Jean     1883        4654    Royal (chemin)   Royal (chemin)   293 1835
+Saint-Jean     1891        4650    Royal (chemin)   Royal (chemin)   292 1840
+Saint-Jean     1894        4645    Royal (chemin)   Royal (chemin)   291 1841
+Saint-Jean     1905        4642    Royal (chemin)   Royal (chemin)   289 1862
+Saint-Jean     1908        4641    Royal (chemin)   Royal (chemin)   290 1846
+Saint-Jean     1913        4638    Royal (chemin)   Royal (chemin)   289a 1900
+Saint-Jean     1921        4634    Royal (chemin)   Royal (chemin)   287 1861
+Saint-Jean     1936        4631    Royal (chemin)   Royal (chemin)   286 1840
+Saint-Jean     2001        4624    Royal (chemin)   Royal (chemin)   285 1879      Presbytère de Saint-Jean
+Saint-Jean     2089        4622    Royal (chemin)   Royal (chemin)   272 v. 1860
+Saint-Jean     2090        4619    Royal (chemin)   Royal (chemin)   271 1850
+Saint-Jean     2097        4618    Royal (chemin)   Royal (chemin)   270 1790
+Saint-Jean     2111        4614    Royal (chemin)   Royal (chemin)   269 1881
+Saint-Jean     2112        4615    Royal (chemin)   Royal (chemin)   268 1866
+Saint-Jean   2121-2123   4610-4612 Royal (chemin)   Royal (chemin)   267 1861
+Saint-Jean     2128        4611    Royal (chemin)   Royal (chemin)   266 1875
+Saint-Jean     2135        4598    Royal (chemin)   Royal (chemin)   265 1900
+Saint-Jean     2145        4594    Royal (chemin)   Royal (chemin)   264  1876
+Saint-Jean     2159        4590    Royal (chemin)   Royal (chemin)   263  1841
+Saint-Jean     2185        4586    Royal (chemin)   Royal (chemin)   262  1866
+Saint-Jean     2188        4591    Royal (chemin)   Royal (chemin)   260  1865
+Saint-Jean     2201        4582    Royal (chemin)   Royal (chemin)   261  1861
+Saint-Jean     2208        4587    Royal (chemin)   Royal (chemin)   259  1875
+Saint-Jean   2214-2218   4583-4579 Royal (chemin)   Royal (chemin)   257  1892
+Saint-Jean     2219        4574    Royal (chemin)   Royal (chemin)   258  1830
+Saint-Jean     2259        4570    Royal (chemin)   Royal (chemin)   256  v. 1930
+Saint-Jean   2260-2264   45754563 Royal (chemin)    Royal (chemin)        v. 1920   Ajout
+Saint-Jean   2262-2268   4571-4567 Royal (chemin)   Royal (chemin)   255a v. 1940
+Saint-Jean     2281        4564    Royal (chemin)   Royal (chemin)   255 1866
+Saint-Jean     2284        4555    Royal (chemin)   Royal (chemin)   254 1791
+Saint-Jean     2339        4538    Royal (chemin)   Royal (chemin)   253 1780
+Saint-Jean     2395        4528    Royal (chemin)   Royal (chemin)   252 1841
+Saint-Jean     2411        4522    Royal (chemin)   Royal (chemin)   251 1870
+Saint-Jean     2437        4502    Royal (chemin)   Royal (chemin)   250 1900
+Saint-Jean     2460        4487    Royal (chemin)   Royal (chemin)   249 1910
+Saint-Jean     2500        4467    Royal (chemin)   Royal (chemin)   248 1841
+Saint-Jean     2632        4423    Royal (chemin)   Royal (chemin)   247 1919
+Saint-Jean     2658        4416    Royal (chemin)   Royal (chemin)   246 1815
+Saint-Jean     2695        4402    Royal (chemin)   Royal (chemin)   245 1831
+Saint-Jean     2729        4399    Royal (chemin)   Royal (chemin)   244a v. 1900
+Saint-Jean     2752        4383    Royal (chemin)   Royal (chemin)        1790      Ajout   Maison déménagée
+Saint-Jean     2774        4371    Royal (chemin)   Royal (chemin)   244 1892
+Saint-Jean     2810        4351    Royal (chemin)   Royal (chemin)   243 1840
+Saint-Jean     2845        4342    Royal (chemin)   Royal (chemin)   242 1892
+Saint-Jean     2887        4332    Royal (chemin)   Royal (chemin)        v. 1900   Ajout
+Saint-Jean     2967        4312    Royal (chemin)   Royal (chemin)   241 v. 1900
+Saint-Jean     2999        4308    Royal (chemin)   Royal (chemin)   240 1840
+Saint-Jean     3022        4303    Royal (chemin)   Royal (chemin)   239 1877
+Saint-Jean     3041        4226    Royal (chemin)   Royal (chemin)        v. 1900   Ajout
+Saint-Jean     3070        4243    Royal (chemin)   Royal (chemin)   238 v. 1890
+Saint-Jean     3152        4219    Royal (chemin)   Royal (chemin)   237 1881
+Saint-Jean   3188   4207   Royal (chemin)   Royal (chemin)   236 1881
+Saint-Jean   3216   4199   Royal (chemin)   Royal (chemin)   235 1677
+Saint-Jean   3246   4181   Royal (chemin)   Royal (chemin)   233 1867
+Saint-Jean   3248   4177   Royal (chemin)   Royal (chemin)   234 1867
+                                                                                        Bâtiment agricole transformé
+Saint-Jean   3328   4153   Royal (chemin)   Royal (chemin)   232 1715
+Saint-Jean   3404   4141   Royal (chemin)   Royal (chemin)   231 1691
+                                                                            IP classé   Maison Hébert-Dit-Lecompte
+Saint-Jean   3444   4121   Royal (chemin)   Royal (chemin)        1910      Ajout
+Saint-Jean   3492   4117   Royal (chemin)   Royal (chemin)   229a v. 1920
+Saint-Jean   3517   4110   Royal (chemin)   Royal (chemin)   229 1890                   Ancienne école
+Saint-Jean   3540   4099   Royal (chemin)   Royal (chemin)   228 1891
+Saint-Jean   3627   4094   Royal (chemin)   Royal (chemin)   227 1890
+Saint-Jean   3631   4086   Royal (chemin)   Royal (chemin)   226 1906
+Saint-Jean   3673   4082   Royal (chemin)   Royal (chemin)   225 1830
+Saint-Jean   3693   4078   Royal (chemin)   Royal (chemin)   224 1890
+Saint-Jean   3709   4072   Royal (chemin)   Royal (chemin)   223 v. 1750
+Saint-Jean   3801   4060   Royal (chemin)   Royal (chemin)   222 1856
+Saint-Jean   3845   4052   Royal (chemin)   Royal (chemin)   221 1905
+                (avant 2015)
+
+
+
+
+                               (après 2015)
+                 No civique
+
+
+
+
+                                No civique
+                                                                                              Date estimée
+
+
+
+
+                                                                                    No inv.
+Municipalité                                  Rue (avant 2015)   Rue (après 2015)             de           Statut      Commentaire
+                                                                                              construction
+
+Saint-Laurent    150            150           Canton (côte du)   Canton (côte du)   490 1859
+                                                                                                                       anciennement 3369, chemin
+Saint-Laurent    130            130           Ferland (chemin)   Ferland (chemin)   504 v. 1850
+                                                                                                                       Royal
+Saint-Laurent    70             70            Gosselin (côte)    Gosselin (côte)    489       1849
+Saint-Laurent   1578           1578           Leclerc (côte)     Leclerc (côte)     466       v. 1700
+Saint-Laurent   190            6052           Royal (chemin)     Royal (chemin)     386       1689
+Saint-Laurent   226            6080           Royal (chemin)     Royal (chemin)     387       1944
+Saint-Laurent   290            6108           Royal (chemin)     Royal (chemin)     388       1789
+Saint-Laurent   318            6132           Royal (chemin)     Royal (chemin)     389       1850
+Saint-Laurent   352            6152           Royal (chemin)     Royal (chemin)     390       v. 1800
+Saint-Laurent   384            6164           Royal (chemin)     Royal (chemin)     391       1689
+Saint-Laurent   408            6176           Royal (chemin)     Royal (chemin)     392       v. 1800
+Saint-Laurent   412            6188           Royal (chemin)     Royal (chemin)     393       1875
+Saint-Laurent   444            6192           Royal (chemin)     Royal (chemin)     394       1910
+Saint-Laurent   470            6200           Royal (chemin)     Royal (chemin)     395       1740
+Saint-Laurent   502            6212           Royal (chemin)     Royal (chemin)     396       v. 1880
+Saint-Laurent   509            6225           Royal (chemin)     Royal (chemin)     397       1839
+Saint-Laurent   556            6248           Royal (chemin)     Royal (chemin)     398       1700
+Saint-Laurent   604            6320           Royal (chemin)     Royal (chemin)     399       1890
+Saint-Laurent   636            6336           Royal (chemin)     Royal (chemin)     400       1890
+Saint-Laurent   652            6364           Royal (chemin)     Royal (chemin)     401       1858
+Saint-Laurent   730            6424           Royal (chemin)     Royal (chemin)     402       v. 1700
+                                                                                                                       Moulin seigneurial de Saint-
+Saint-Laurent    754           6436           Royal (chemin)     Royal (chemin)     403 v. 1700
+                                                                                                                       Laurent
+Saint-Laurent    756           6460           Royal (chemin)     Royal (chemin)     404       1860
+Saint-Laurent    816           6492           Royal (chemin)     Royal (chemin)     405       1880
+Saint-Laurent    870           6510           Royal (chemin)     Royal (chemin)     406       1920
+Saint-Laurent    890           6526           Royal (chemin)     Royal (chemin)     407       1897
+Saint-Laurent    960           6558           Royal (chemin)     Royal (chemin)     408       1789         IP classé   Maison Louis-Pouliotte
+Saint-Laurent    970           6566           Royal (chemin)     Royal (chemin)     409       1890
+Saint-Laurent     1012        6602    Royal (chemin)   Royal (chemin)   410 1875
+Saint-Laurent     1032        6630    Royal (chemin)   Royal (chemin)   411 1826
+Saint-Laurent     1033        6625    Royal (chemin)   Royal (chemin)        1884     Ajout
+Saint-Laurent     1044        6638    Royal (chemin)   Royal (chemin)   412 1938
+Saint-Laurent     1082        6658    Royal (chemin)   Royal (chemin)   413 1880
+Saint-Laurent     1114        6678    Royal (chemin)   Royal (chemin)   415 v. 1880
+Saint-Laurent     1114                Royal (chemin)                    414           Suppression   Maison incendiée en 1983
+Saint-Laurent     1136        6690    Royal (chemin)   Royal (chemin)   416 1889
+Saint-Laurent     1139        6699    Royal (chemin)   Royal (chemin)   417 1926
+Saint-Laurent     1143        6703    Royal (chemin)   Royal (chemin)   418 1889
+Saint-Laurent     1155        6707    Royal (chemin)   Royal (chemin)   419 1850
+Saint-Laurent     1158        6700    Royal (chemin)   Royal (chemin)   420 1889
+Saint-Laurent   1172-1174   6702-6704 Royal (chemin)   Royal (chemin)   421 1739
+Saint-Laurent     1194        6710    Royal (chemin)   Royal (chemin)   422 1789
+Saint-Laurent     1207        6731    Royal (chemin)   Royal (chemin)   423 1900
+Saint-Laurent     1217        6741    Royal (chemin)   Royal (chemin)   424 1900
+Saint-Laurent     1222        6734    Royal (chemin)   Royal (chemin)   425 1789
+Saint-Laurent     1231        6751    Royal (chemin)   Royal (chemin)   426 1889
+Saint-Laurent   1237-1239   6761-6763 Royal (chemin)   Royal (chemin)   427 1854
+Saint-Laurent     1244        6758    Royal (chemin)   Royal (chemin)   428 1890
+Saint-Laurent   1253-1255   6773-6771 Royal (chemin)   Royal (chemin)   429 1889
+Saint-Laurent   1270-1272   6772-6778 Royal (chemin)   Royal (chemin)   430 1900
+Saint-Laurent     1276        6790    Royal (chemin)   Royal (chemin)   430a 1926
+Saint-Laurent     1286        6794    Royal (chemin)   Royal (chemin)   431 1864
+Saint-Laurent     1308        6802    Royal (chemin)   Royal (chemin)   432 v. 1920
+Saint-Laurent     1309        6815    Royal (chemin)   Royal (chemin)   433 1889
+Saint-Laurent     1312        6814    Royal (chemin)   Royal (chemin)   434 1839
+Saint-Laurent     1317        6827    Royal (chemin)   Royal (chemin)   435 1789
+Saint-Laurent   1322-1324   6818-6820 Royal (chemin)   Royal (chemin)   436 1889
+Saint-Laurent     1329        6831    Royal (chemin)   Royal (chemin)   437 1819
+Saint-Laurent     1337        6839    Royal (chemin)   Royal (chemin)   438 1829
+Saint-Laurent     1356        6856    Royal (chemin)   Royal (chemin)   439 v. 1700
+Saint-Laurent     1376        6874    Royal (chemin)   Royal (chemin)   440 1789
+Saint-Laurent     1391        6893    Royal (chemin)   Royal (chemin)   440a 1927
+Saint-Laurent   1395-1397     6899    Royal (chemin)   Royal (chemin)   441   1880
+Saint-Laurent   1403-1405   6905-6907 Royal (chemin)   Royal (chemin)   442   1897
+Saint-Laurent     1404        6910    Royal (chemin)   Royal (chemin)   443   1915
+Saint-Laurent     1419        6917    Royal (chemin)   Royal (chemin)   444   1915
+Saint-Laurent     1425        6921    Royal (chemin)   Royal (chemin)   445   1850
+Saint-Laurent     1428        6936    Royal (chemin)   Royal (chemin)   446   1890
+Saint-Laurent     1437        6925    Royal (chemin)   Royal (chemin)   447   1890
+Saint-Laurent     1441        6933    Royal (chemin)   Royal (chemin)   448   1790
+Saint-Laurent     1443        6937    Royal (chemin)   Royal (chemin)   449   1834              Maison Leclair
+Saint-Laurent     1449        6945    Royal (chemin)   Royal (chemin)   450   1894
+Saint-Laurent   1456-1458     6954    Royal (chemin)   Royal (chemin)   451   1832
+Saint-Laurent     1461        6953    Royal (chemin)   Royal (chemin)   452   1860
+Saint-Laurent     1462        6958    Royal (chemin)   Royal (chemin)   453   1810
+Saint-Laurent     1468        6966    Royal (chemin)   Royal (chemin)   454   1890
+Saint-Laurent     1469        6961    Royal (chemin)   Royal (chemin)   455   1780
+Saint-Laurent     1475        6969    Royal (chemin)   Royal (chemin)   456   v. 1900
+Saint-Laurent     1476        6970    Royal (chemin)   Royal (chemin)   457   1827
+Saint-Laurent     1481        6973    Royal (chemin)   Royal (chemin)   458   1917
+                                                                                                Ancien bât. secondaire
+Saint-Laurent     1483        6975    Royal (chemin)   Royal (chemin)         v. 1925   Ajout
+                                                                                                converti
+Saint-Laurent     1484       6974    Royal (chemin)    Royal (chemin)       1946        Ajout
+Saint-Laurent     1486       6978    Royal (chemin)    Royal (chemin)   459 1853
+Saint-Laurent     1487       6977    Royal (chemin)    Royal (chemin)       1941        Ajout
+Saint-Laurent     1492       6982    Royal (chemin)    Royal (chemin)   460 1789
+Saint-Laurent     1494       6986    Royal (chemin)    Royal (chemin)   461 1857
+Saint-Laurent     1495       6981    Royal (chemin)    Royal (chemin)       1880        Ajout   Couvent de Saint-Laurent
+                          6990-6990-
+Saint-Laurent   1496-1502            Royal (chemin)    Royal (chemin)   462 1889
+                               3
+Saint-Laurent     1506       6994    Royal (chemin)    Royal (chemin)   463 1667
+Saint-Laurent     1510       7006    Royal (chemin)    Royal (chemin)       1890        Ajout
+Saint-Laurent     1532        7014    Royal (chemin)   Royal (chemin)   464 1850                Presbytère de Saint-Laurent
+Saint-Laurent   1573-1575   7027-7029 Royal (chemin)   Royal (chemin)   465 1869
+Saint-Laurent     1584        7038    Royal (chemin)   Royal (chemin)   468 1839
+Saint-Laurent     1585        7039    Royal (chemin)      Royal (chemin)          470a v. 1900
+Saint-Laurent     1592        7042    Royal (chemin)      Royal (chemin)          469 1859
+Saint-Laurent    1592 A       7042    Royal (chemin)      Royal (chemin)          470 v. 1900
+Saint-Laurent     1593        7043    Royal (chemin)      Royal (chemin)          471 1839                     Anc. chalouperie transformée
+Saint-Laurent     1606        7052    Royal (chemin)      Royal (chemin)               1930      Ajout
+Saint-Laurent     1613        7075    Royal (chemin)      Royal (chemin)           472 1877
+Saint-Laurent     1617        7083    Royal (chemin)      Royal (chemin)           473 1889
+Saint-Laurent     1618        7080    Royal (chemin)      Royal (chemin)           474 v. 1890
+Saint-Laurent     1619        7095    Royal (chemin)      Royal (chemin)          474a 1939
+Saint-Laurent     1621        7091    Royal (chemin)      Royal (chemin)               1934      Ajout
+Saint-Laurent     1623        7087    Royal (chemin)      Royal (chemin)           475 1889
+Saint-Laurent     1625        7099    Royal (chemin)      Royal (chemin)           476 1789
+Saint-Laurent     1628        7090    Royal (chemin)      Royal (chemin)           477 1888
+Saint-Laurent     1631        7017    Royal (chemin)      Royal (chemin)           478 1875
+Saint-Laurent     1640        7114    Royal (chemin)      Royal (chemin)           479 1899
+Saint-Laurent     1643        7111    Royal (chemin)      Royal (chemin)           480 1839
+Saint-Laurent     1649        7119    Royal (chemin)      Royal (chemin)          480a 1900
+Saint-Laurent     1653        7123    Royal (chemin)      Royal (chemin)          480b 1900
+Saint-Laurent     1657        7127    Royal (chemin)      Royal (chemin)           481 1836
+Saint-Laurent     1659        7131    Royal (chemin)      Royal (chemin)           482 1850
+Saint-Laurent     1663        7135    Royal (chemin)      Royal (chemin)           483 1839
+Saint-Laurent     1667        7139    Royal (chemin)      Royal (chemin)           484 1864
+Saint-Laurent     1669        7143    Royal (chemin)      Royal (chemin)           485 1838
+                                      de la Chalouperie   de la Chalouperie
+Saint-Laurent     1671         92                                                 486 v. 1900
+                                      (chemin)            (chemin)
+Saint-Laurent     1901        7249    Royal (chemin)      Royal (chemin)          487 1889
+Saint-Laurent     1977         60     Royal (chemin)      des Chalands (chemin)   488 1850
+Saint-Laurent   2280-2284   7358-7360 Royal (chemin)      Royal (chemin)          491   1905
+Saint-Laurent     2323        7393    Royal (chemin)      Royal (chemin)          492   1890
+Saint-Laurent     2369        7409    Royal (chemin)      Royal (chemin)          493   1740
+Saint-Laurent     2387        7417    Royal (chemin)      Royal (chemin)          494   1700     IP classé     Maison Gendreau
+Saint-Laurent     2491        7449    Royal (chemin)                              495            Suppression   Maison incendiée en 1990
+Saint-Laurent   2566   7462   Royal (chemin)     Royal (chemin)     496   1850
+Saint-Laurent   2626   7472   Royal (chemin)     Royal (chemin)     497   1884
+Saint-Laurent   2747   7493   Royal (chemin)     Royal (chemin)     498   1900
+Saint-Laurent   2776   7492   Royal (chemin)     Royal (chemin)     499   1850      Ancienne école d'en haut
+Saint-Laurent   2805   7497   Royal (chemin)     Royal (chemin)     500   1885
+Saint-Laurent   2889   7509   Royal (chemin)     Royal (chemin)     501   1922
+Saint-Laurent   3018   7548   Royal (chemin)     Royal (chemin)     502   v. 1850
+Saint-Laurent   3167   7557   Royal (chemin)     Royal (chemin)     503   1851
+Saint-Laurent   1580   1580   Thivierge (côte)   Thivierge (côte)   467   1910
+                (avant 2015)
+
+
+
+
+                                (après 2015)
+                 No civique
+
+
+
+
+                                 No civique
+                                                                                                         Date estimée
+
+
+
+
+                                                                                               No inv.
+Municipalité                                   Rue (avant 2015)        Rue (après 2015)                  de           Statut      Commentaire
+                                                                                                         construction
+
+Saint-Pierre    1220            1220           Couvent (avenue du)     Couvent (avenue du)     31        1889
+Saint-Pierre    1242            1242           Couvent (avenue du)     Couvent (avenue du)     32        1889                     Ancien couvent
+Saint-Pierre     306             306           Galendart (avenue du)   Galendart (avenue du)   53        v. 1800
+                                        Monseigneur-D'Esgly            Monseigneur-D'Esgly
+Saint-Pierre    1247            1247                                                           33        v. 1800                  Ancien presbytère
+                                        (avenue)                       (avenue)
+Saint-Pierre     437             437    Plante (avenue)                Plante (avenue)         21        1679
+Saint-Pierre     480             480    Pont (côte du)                 Pont (côte du)          11        v. 1850
+Saint-Pierre     157             1009   Royal (chemin)                 Royal (chemin)          1a        v. 1920
+Saint-Pierre     168             1010   Royal (chemin)                 Royal (chemin)           1        1875
+Saint-Pierre     221             1047   Royal (chemin)                 Royal (chemin)           2        1680
+Saint-Pierre     285             1067   Royal (chemin)                 Royal (chemin)           3        v. 1890
+Saint-Pierre     313             1073   Royal (chemin)                 Royal (chemin)           4        v. 1700      IP classé   Maison Leclerc
+Saint-Pierre     391             1101   Royal (chemin)                 Royal (chemin)           5        v. 1700
+Saint-Pierre   421-423         113-1115 Royal (chemin)                 Royal (chemin)           6        v. 1850
+Saint-Pierre     437             1121   Royal (chemin)                 Royal (chemin)           7        1880
+Saint-Pierre     495             1141   Royal (chemin)                 Royal (chemin)           8        1900
+Saint-Pierre     501             1145   Royal (chemin)                 Royal (chemin)           9        1909
+Saint-Pierre     563             1177   Royal (chemin)                 Royal (chemin)          10        v. 1750
+Saint-Pierre     733             1233   Royal (chemin)                 Royal (chemin)          12        1835
+Saint-Pierre     767             1247   Royal (chemin)                 Royal (chemin)          13        1830
+Saint-Pierre     819             1259   Royal (chemin)                 Royal (chemin)          14        v. 1850
+Saint-Pierre     883             1273   Royal (chemin)                 Royal (chemin)          15        v. 1760
+Saint-Pierre     894             1280   Royal (chemin)                 Royal (chemin)          16        1830
+Saint-Pierre    1013             1309   Royal (chemin)                 Royal (chemin)          17        1890
+Saint-Pierre    1032             1320   Royal (chemin)                 Royal (chemin)          18        1890
+Saint-Pierre    1045             1325   Royal (chemin)                 Royal (chemin)          19        1890
+Saint-Pierre    1071             1335   Royal (chemin)                 Royal (chemin)          20        v. 1750
+Saint-Pierre    1123             1363   Royal (chemin)                 Royal (chemin)          22        1889
+Saint-Pierre    1181             1381   Royal (chemin)                 Royal (chemin)          23        v. 1890
+Saint-Pierre     1188                Royal (chemin)                    25             Suppression   Maison démolie
+Saint-Pierre     1190        1394    Royal (chemin)   Royal (chemin)   24   1789
+Saint-Pierre     1194        1398    Royal (chemin)   Royal (chemin)   26   1804
+Saint-Pierre     1202        1404    Royal (chemin)   Royal (chemin)   27   1689
+Saint-Pierre     1213        1407    Royal (chemin)   Royal (chemin)   28   1817
+Saint-Pierre     1222        1418    Royal (chemin)   Royal (chemin)   29   1889
+Saint-Pierre     1233        1433    Royal (chemin)   Royal (chemin)   30   1904
+Saint-Pierre     1248        1440    Royal (chemin)   Royal (chemin)   34   1869
+Saint-Pierre     1250        1442    Royal (chemin)   Royal (chemin)   35   v. 1860
+Saint-Pierre     1271        1449    Royal (chemin)   Royal (chemin)   36   v. 1875
+Saint-Pierre     1279        1459    Royal (chemin)   Royal (chemin)   37   1829
+Saint-Pierre   1282-1284   1456-1458 Royal (chemin)   Royal (chemin)   38   1900
+Saint-Pierre     1291        1463    Royal (chemin)   Royal (chemin)   39   1859
+Saint-Pierre     1300        1462    Royal (chemin)   Royal (chemin)        1955      Ajout         École des Feux Follets 1
+Saint-Pierre     1333        1483    Royal (chemin)   Royal (chemin)   40   1880
+Saint-Pierre     1379        1511    Royal (chemin)   Royal (chemin)   41   v. 1750
+Saint-Pierre     1384        1500    Royal (chemin)   Royal (chemin)   42   1873
+Saint-Pierre   1420-1422   1534-1536 Royal (chemin)   Royal (chemin)   43   1915
+Saint-Pierre     1447        1549    Royal (chemin)   Royal (chemin)   44   1760
+Saint-Pierre     1463        1553    Royal (chemin)   Royal (chemin)   45   1790
+Saint-Pierre     1501        1571    Royal (chemin)   Royal (chemin)   46   1895
+Saint-Pierre     1551        1623    Royal (chemin)   Royal (chemin)   47   1889
+Saint-Pierre     1578        1624    Royal (chemin)   Royal (chemin)   48   1829
+Saint-Pierre     1588        1628    Royal (chemin)   Royal (chemin)   49   1770
+Saint-Pierre     1589        1631    Royal (chemin)   Royal (chemin)   50   1890
+Saint-Pierre     1622        1648    Royal (chemin)   Royal (chemin)   51   1749
+Saint-Pierre     1640        1656    Royal (chemin)   Royal (chemin)   52   v. 1870
+Saint-Pierre     1693        1679    Royal (chemin)   Royal (chemin)   54   1734
+Saint-Pierre     1731        1687    Royal (chemin)   Royal (chemin)   55   1915
+Saint-Pierre     1738        1706    Royal (chemin)   Royal (chemin)   56   1864
+Saint-Pierre   1775-1777   1709-1713 Royal (chemin)   Royal (chemin)   57   v. 1890
+Saint-Pierre     1797        1719    Royal (chemin)   Royal (chemin)   58   1782
+Saint-Pierre     1835        1729    Royal (chemin)   Royal (chemin)   59   1780
+Saint-Pierre     1871        1739    Royal (chemin)   Royal (chemin)   60   1789
+Saint-Pierre   1919   1757   Royal (chemin)   Royal (chemin)   61    1879
+Saint-Pierre   1939   1771   Royal (chemin)   Royal (chemin)   62    1844
+Saint-Pierre   1952   1952   Royal (chemin)   Royal (chemin)   65    1710
+Saint-Pierre   1958   1788   Royal (chemin)   Royal (chemin)   64    1890
+Saint-Pierre   1963   1789   Royal (chemin)   Royal (chemin)   63    1680
+Saint-Pierre   1969   1785   Royal (chemin)   Royal (chemin)   66    1916
+Saint-Pierre   2017   1809   Royal (chemin)   Royal (chemin)   67    v. 1860
+Saint-Pierre   2047   1811   Royal (chemin)   Royal (chemin)   68    v. 1880
+Saint-Pierre   2085   1815   Royal (chemin)   Royal (chemin)   69    1890
+Saint-Pierre   2109   1829   Royal (chemin)   Royal (chemin)   70    1930
+Saint-Pierre   2165   1857   Royal (chemin)   Royal (chemin)   71    1880
+Saint-Pierre   2205   1865   Royal (chemin)   Royal (chemin)   72    1700      Maison Steinbach
+Saint-Pierre   2239   1879   Royal (chemin)   Royal (chemin)   73    1872
+Saint-Pierre   2269   1889   Royal (chemin)   Royal (chemin)   73a   1914
+Saint-Pierre   2294   1900   Royal (chemin)   Royal (chemin)   74    1899
+Saint-Pierre   2307   1891   Royal (chemin)   Royal (chemin)   75    1842
+Saint-Pierre   2379   1897   Royal (chemin)   Royal (chemin)   76    v. 1860
+Saint-Pierre   2491   1923   Royal (chemin)   Royal (chemin)   77    v. 1880
+Saint-Pierre   2511   1927   Royal (chemin)   Royal (chemin)   78    1880
+Saint-Pierre   2541   1931   Royal (chemin)   Royal (chemin)   79    1855
+Saint-Pierre   2583   1947   Royal (chemin)   Royal (chemin)   80    1829
+Saint-Pierre   2625   1959   Royal (chemin)   Royal (chemin)   81    1859
+Saint-Pierre   2687   1991   Royal (chemin)   Royal (chemin)   82    v. 1860
+Saint-Pierre   2705   1997   Royal (chemin)   Royal (chemin)   83    1839
+

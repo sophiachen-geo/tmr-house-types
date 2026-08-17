@@ -1,0 +1,4059 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Site patrimonial de l'Île-d'Orléans -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93521&type=bien"
+              addthis:title="Site patrimonial de l'Île-d'Orléans"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Site patrimonial de l'Île-d'Orléans</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Arrondissement historique de l'Île-d'Orléans</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Capitale-Nationale</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Saint-François-de-l'Île-d'Orléans</li>
+  
+    <li>Saint-Jean-de-l'Île-d'Orléans</li>
+  
+    <li>Saint-Laurent-de-l'Île-d'Orléans</li>
+  
+    <li>Saint-Pierre-de-l'Île-d'Orléans</li>
+  
+    <li>Sainte-Famille</li>
+  
+    <li>Sainte-Pétronille</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine agricole</li>
+  
+    <li>Patrimoine autochtone (Patrimoine des Premières Nations)</li>
+  
+    <li>Patrimoine commémoratif</li>
+  
+    <li>Patrimoine de la villégiature</li>
+  
+    <li>Patrimoine funéraire</li>
+  
+    <li>Patrimoine institutionnel et civil</li>
+  
+    <li>Patrimoine maritime et fluvial</li>
+  
+    <li>Patrimoine religieux (Culte)</li>
+  
+    <li>Patrimoine religieux (Mission curiale)</li>
+  
+    <li>Patrimoine religieux (Vie quotidienne)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Tradition religieuse</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Christianisme (Catholicisme (rite latin))</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Non applicable</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=per&id=93521&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=per&id=93521&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=immo&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=immo&id=93521&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(3492)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92675&type=bien">
+            Ancienne église de Saint-Pierre
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92557&type=bien">
+            Chalouperie Godbout
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92945&type=bien">
+            Chapelle de procession de Sainte-Famille
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=92871&type=bien">
+            École de fabrique de Saint-François
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=immo&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=immo&id=93521&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=mob&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine mobilier associé</span>');" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=mob&id=93521&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine mobilier associé</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=107974&type=bien">
+            Centaurella
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=mob&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=mob&id=93521&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine mobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=pla&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=pla&id=93521&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Plaques commémoratives associées</span>&nbsp;(21)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Comprend</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=107832&type=bien">
+            Plaque d'Antoine Drapeau et Charlotte Joly
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=240225&type=bien">
+            Plaque d’Antoine Fortier et Marie-Magdeleine Cadieu
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=239943&type=bien">
+            Plaque d’Antoine Pépin dit Lachance et Marie Teste
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=111726&type=bien">
+            Plaque de Gabriel Gosselin
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=pla&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=pla&id=93521&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Plaques commémoratives associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=eve&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Événements associés</span>');" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=eve&id=93521&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Événements associés</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=27605&type=pge">
+            Fêtes du tricentenaire de l'île d'Orléans (1979)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Contexte afférent</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=eve&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=eve&id=93521&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Événements associés</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=per&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=per&id=93521&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(6)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7238&type=pge">
+            Barbeau, Marius (1883 &ndash; 1969)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7335&type=pge">
+            Cartier, Jacques (vers 1491 &ndash; 1557)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7697&type=pge">
+            Leclerc, Félix (1914 &ndash; 1988)
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=7939&type=pge">
+            Roy, Pierre-Georges (1870 &ndash; 1953)
+            
+          </a>
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=per&id=93521&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=F416BA92E50325EACF0576FA1E6A3D58?type=per&id=93521&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93521_376261.JPG?id=376261" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_376261.JPG?id=376261" 
+           data-grandformat="document/rpcq_bien_93521_376261.JPG?id=376261" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2017-06-10" 
+           data-description="" 
+           data-annee="2017" 
+           data-auteur="" 
+           data-id="376261" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="376261"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" src="document/rpcq_bien_93521_376261.JPG?id=376261&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93521_368540.JPG?id=368540" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_368540.JPG?id=368540" 
+           data-grandformat="document/rpcq_bien_93521_368540.JPG?id=368540" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2017-06-10" 
+           data-description="" 
+           data-annee="2017" 
+           data-auteur="" 
+           data-id="368540" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="368540"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" src="document/rpcq_bien_93521_368540.JPG?id=368540&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Rive nord" class="galleryImage"
+           href="document/rpcq_bien_93521_266541.JPG?id=266541" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_266541.JPG?id=266541" 
+           data-grandformat="document/rpcq_bien_93521_266541.JPG?id=266541" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="Pierre Lahoud, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Pierre Lahoud" 
+           data-id="266541" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="266541"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Rive nord" src="document/rpcq_bien_93521_266541.JPG?id=266541&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne vers l&#039;est" class="galleryImage"
+           href="document/rpcq_bien_93521_266542.JPG?id=266542" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_266542.JPG?id=266542" 
+           data-grandformat="document/rpcq_bien_93521_266542.JPG?id=266542" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="Pierre Lahoud, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Pierre Lahoud" 
+           data-id="266542" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="266542"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne vers l&#039;est" src="document/rpcq_bien_93521_266542.JPG?id=266542&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne vers l&#039;est" class="galleryImage"
+           href="document/rpcq_bien_93521_266543.JPG?id=266543" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_266543.JPG?id=266543" 
+           data-grandformat="document/rpcq_bien_93521_266543.JPG?id=266543" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="Pierre Lahoud, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Pierre Lahoud" 
+           data-id="266543" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="266543"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne vers l&#039;est" src="document/rpcq_bien_93521_266543.JPG?id=266543&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Rive nord" class="galleryImage"
+           href="document/rpcq_bien_93521_266544.JPG?id=266544" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_266544.JPG?id=266544" 
+           data-grandformat="document/rpcq_bien_93521_266544.JPG?id=266544" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="Pierre Lahoud, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Pierre Lahoud" 
+           data-id="266544" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="266544"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Rive nord" src="document/rpcq_bien_93521_266544.JPG?id=266544&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Champs en culture" class="galleryImage"
+           href="document/rpcq_bien_93521_266545.JPG?id=266545" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_266545.JPG?id=266545" 
+           data-grandformat="document/rpcq_bien_93521_266545.JPG?id=266545" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="Pierre Lahoud, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Pierre Lahoud" 
+           data-id="266545" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="266545"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Champs en culture" src="document/rpcq_bien_93521_266545.JPG?id=266545&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93521_266540.JPG?id=266540" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_266540.JPG?id=266540" 
+           data-grandformat="document/rpcq_bien_93521_266540.JPG?id=266540" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="Pierre Lahoud, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Pierre Lahoud" 
+           data-id="266540" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="266540"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" src="document/rpcq_bien_93521_266540.JPG?id=266540&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93521_214046.JPG?id=214046" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_214046.JPG?id=214046" 
+           data-grandformat="document/rpcq_bien_93521_214046.JPG?id=214046" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="" 
+           data-id="214046" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="214046"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" src="document/rpcq_bien_93521_214046.JPG?id=214046&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_93521_12933.JPG?id=12933" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_93521_12933.JPG?id=12933" 
+           data-grandformat="document/rpcq_bien_93521_12933.JPG?id=12933" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2004" 
+           data-description="" 
+           data-annee="2004" 
+           data-auteur="" 
+           data-id="12933" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="12933"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Site patrimonial de l&#039;Île-d&#039;Orléans. Vue aérienne" src="document/rpcq_bien_93521_12933.JPG?id=12933&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 46.86511111, -71.10391666];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de l'Île-d'Orléans est un territoire à caractère rural couvrant la totalité de cette île, d'une longueur approximative de 34 km et d'une largeur maximale de 8 km. Une crête centrale, couverte en majeure partie de forêt, relie les pointes formant ses extrémités. Son relief est marqué par une série de terrasses qui s'étagent depuis les rives. Le lotissement régulier rythme le paysage. Vue du ciel, l'île apparaît comme une succession de terres rectangulaires étroites et allongées, qui sont disposées de part et d'autre d'une ligne longitudinale et qui ont front sur le fleuve Saint-Laurent. Maisons anciennes, dépendances agricoles, résidences de villégiature, constructions contemporaines, noyaux villageois, anses, milieux humides côtiers, bois et escarpements animent ce paysage.<br/><br/>L'île d'Orléans est située en aval de la ville de Québec, dans l'estuaire du fleuve Saint-Laurent. Elle est historiquement ceinturée par le chemin Royal, qui relie ses six municipalités. Quatre routes la traversent dans sa largeur.<br/><br/>L'agriculture, qui constitue l'activité dominante de l'île d'un point de vue historique, a créé un paysage rural diversifié, marqué par les productions laitières, maraîchères et fruitières ainsi que les érablières. De nos jours, l'agriculture conserve sa prédominance. Ainsi, près de 95 % du territoire est consacré à cette activité, qui permet la préservation des paysages ruraux de l'île d'Orléans.<br/><br/>Ce territoire déclaré site patrimonial compte quelque 3 600 bâtiments, parmi lesquels 19 sont classés immeubles patrimoniaux. Il s'agit, à Saint-Pierre-de-l'Île-d'Orléans, de l'ancienne église de Saint-Pierre et de la maison Leclerc, à Saint-Laurent-de- l'Île-d'Orléans, de la chalouperie Godbout, de la maison Gendreau et de la maison Louis-Pouliotte, à Saint-Jean-de-l'Île-d'Orléans, de l'église de Saint-Jean, du manoir Mauvide-Genest et de la maison Hébert-Dit-Lecompte, à Saint-François-de-l'Île-d'Orléans, de l'église de Saint-François, de l'école de fabrique de Saint-François, de la maison Chrétien, de la maison Imbeau, de la maison Louis-Asselin et de la maison Roberge, à Sainte-Famille, de l'église de Sainte-Famille, de la chapelle de procession de Sainte-Famille, de la maison Morisset, de la maison Gagnon et de la maison Drouin.<br/><br/>Le site patrimonial de l'Île-d'Orléans comprend également plusieurs sites archéologiques autochtones et euroquébécois qui sont inscrits à l'Inventaire des sites archéologiques du Québec (ISAQ).</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Déclaration</th>
+      <td>Site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Gouvernement du Québec
+          
+        
+      </td>
+      <td>
+        1970-03-11
+        
+      </td>
+    </tr>
+     
+        
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de l'Île-d'Orléans présente un intérêt pour sa valeur historique. L'île est longtemps fréquentée par les Autochtones, puis elle est explorée par le navigateur Jacques Cartier en 1535 ainsi que par Samuel de Champlain en 1603. Concédée en seigneurie en 1636, elle accueille ses premiers colons dès 1648, ce qui en fait l'un des premiers foyers de peuplement de la vallée du Saint-Laurent. Pendant le XVIIe siècle, l'île est la terre d'accueil de quelque 300 familles originaires de France. Ses premiers habitants s'adonnent principalement à l'agriculture. Cette activité deviendra plus tard marchande, puis industrielle. Au XIXe siècle, diverses activités maritimes se concentrent sur la rive sud de l'île. Quelques secteurs deviennent aussi des stations de villégiature. De nos jours, ce haut lieu des familles souches francophones attire de nombreux visiteurs, et l'agriculture demeure l'activité dominante.<br/><br/>Le site patrimonial présente un intérêt pour sa valeur paysagère, historiquement issue du développement lié à son caractère insulaire et rural. Le dynamisme de ce paysage est créé par la disposition des villages tournés vers le fleuve, la richesse de son cadre naturel et l'alternance entre les terres agricoles, les noyaux villageois et les secteurs de villégiature. De plus, le lotissement porte les traces du régime seigneurial. Celui-ci se reflète dans la géométrie des lots, étroits et allongés, orientés perpendiculairement au fleuve. D'autres éléments illustrent l'ancienneté du paysage. Ainsi, le chemin Royal, qui ceinture l'île depuis 1744, scinde les concessions initiales. Les noyaux villageois, plus denses, et les secteurs de villégiature respectent de façon générale l'alignement originel. Témoin de plus de quatre siècles d'occupation, le paysage de l'île conserve ainsi la marque de transformations découlant des relations entretenues entre les habitants et leur milieu.<br/><br/>Le site patrimonial présente un intérêt pour sa valeur architecturale. Celle-ci se démarque notamment par son ancienneté et sa variété. L'île présente l'une des plus fortes concentrations de demeures rurales d'esprit français du XVIIIe siècle en Amérique, auxquelles s'ajoutent plusieurs dépendances agricoles datant des XIXe et XXe siècles. Elle compte aussi plusieurs résidences d'inspiration néoclassique et d'autres de facture plus éclectique. L'île possède également un riche patrimoine religieux : quatre églises catholiques, un temple anglican, des presbytères, cinq chapelles de procession et de nombreuses croix de chemin. L'île comporte enfin un important patrimoine architectural maritime.<br/><br/>Le site patrimonial présente un intérêt pour sa valeur emblématique et identitaire. Terre de légendes, muse des artistes, l'île fait partie de l'imaginaire collectif des Québécois. Des érudits ont présenté l'île comme un microcosme du Québec rural traditionnel. Pour les Québécoises et les Québécois d'aujourd'hui, l'île est la représentation par excellence de la ruralité du territoire et ils s'y reconnaissent. Tel un pèlerinage, le « tour de l'Île », mis en chanson par Félix Leclerc, constitue un retour aux sources et une immersion dans le terroir québécois.<br/><br/>Le site patrimonial présente en outre un intérêt pour sa valeur archéologique. Les interventions archéologiques effectuées sur le territoire ont permis de documenter certains aspects de son occupation autochtone et euroquébécoise à travers le temps. Des traces de présence autochtone datant de diverses périodes ont été mises au jour dans différents secteurs de l'île. L'occupation euroquébécoise de l'île depuis le XVIIe siècle a également laissé des témoins importants. Le site présente également un important potentiel archéologique. Certains secteurs auraient été propices aux établissements autochtones. Les activités pratiquées par les populations d'origine européenne ont certainement laissé de nombreuses traces dans le sol.<br/><br/>Source : Ministère de la Culture et des Communications, 2017.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les éléments clés du site patrimonial de l'Île-d'Orléans liés à ses valeurs historique, paysagère, architecturale et emblématique comprennent, entre autres :<br/>- sa situation stratégique dans le haut estuaire du fleuve Saint-Laurent;<br/>- la présence de sites archéologiques autochtones et euroquébécois connus et son potentiel de recherche archéologique;<br/>- le caractère rural de l'île, dont les terrasses, les boisés, les vergers, les cultures, les pâturages et le bâti;<br/>- son caractère insulaire, dont les panoramas sur le fleuve Saint-Laurent et les rives, les terres orientées perpendiculairement au fleuve, le pont, les quais, les jetées, les havres, les baies et les plages;<br/>- les parcours, dont le chemin de pourtour, les trois routes transversales et les voies empruntant d'anciens chemins agricoles;<br/>- le lotissement portant les traces du régime seigneurial, dont les terres agricoles en rectangles étroits et allongés divisées au centre de l'île par une ligne longitudinale, les clôtures souvent de perches et les arbres délimitant les propriétés, le bâti généralement implanté en retrait de la route;<br/>- les six noyaux villageois organisés en fonction des activités maritimes et agricoles, dont l'alignement et l'orientation des bâtiments en fonction de la voie publique et du fleuve ainsi que leur implantation près de la route sur des parcelles généralement plus petites;<br/>- les zones de transition aux abords des villages, dont l'orientation des bâtiments en fonction de la voie publique et du fleuve, près de la route sur des parcelles assez petites ou en retrait de la route sur des parcelles plus grandes;<br/>- les secteurs de villégiature sur la bande riveraine;<br/>- la concentration de maisons québécoises d'esprit français en pierre ou en bois, caractérisées par un corps de logis peu dégagé du sol, un plan carré ou rectangulaire, un toit aigu aux versants droits et des ouvertures en nombre restreint distribuées de manière asymétrique;<br/>- la présence de maisons québécoises d'inspiration néoclassique en pierre, en brique ou en bois, caractérisées par un corps de logis dégagé du sol, un plan rectangulaire, un toit aux versants retroussés aux larmiers saillants, une fenestration abondante et régulière ainsi qu'une façade symétrique pourvue d'une galerie;<br/>- la présence de maisons de villégiature de facture éclectique (styles Regency, Second Empire ou victorien), caractérisées par un corps de logis dégagé du sol, un toit mansardé ou aux versants retroussés, des fenêtres à battants, à guillotine et à plusieurs meneaux, des parements en bois et en brique ainsi qu'une ornementation élaborée;<br/>- la présence d'églises catholiques du Régime français et du XIXe siècle, caractérisées par un corps de bâtiment en pierre, un plan en croix latine ou « à la récollet », un toit aigu, un clocher en façade, une sacristie et un décor intérieur en bois; <br/>- la présence d'une église anglicane en bois; <br/>- les presbytères d'inspiration néoclassique, caractérisés par un corps de logis allongé, un toit aux versants retroussés aux larmiers saillants, une composition symétrique de la façade et une fenestration régulière;<br/>- les presbytères d'influence Second Empire, caractérisés par un carré massif et dégagé du sol, un toit mansardé à quatre versants et une ornementation élaborée;<br/>- la présence de calvaires, de croix de chemin et de chapelles de procession caractérisées par un plan allongé, des dimensions réduites, une ornementation sobre et un clocher disposé sur le faîte du toit en façade;<br/>- les témoins des activités de villégiature, dont des plages aménagées, des quais et le terrain de golf de Sainte-Pétronille;<br/>- les témoins des activités maritimes, dont des maisons de pilote, des chalouperies et d'anciens chantiers maritimes;<br/>- les témoins des activités agricoles, dont d'anciens moulins, des granges et des fours à pain.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Le site patrimonial de l'Île-d'Orléans est l'un des premiers foyers de peuplement de la vallée du Saint-Laurent. Par l'émigration de sa population, dès 1680, l'île est le berceau de nombreuses familles de la francophonie d'Amérique. Les quelque 300 familles originaires de France qui s'y sont établies au XVIIe siècle comptent de nos jours plus de 100 000 descendants en Amérique du Nord.<br/><br/>Avant la venue des Européens, l'île d'Orléans est longtemps fréquentée par les Autochtones. Leur présence remonte à environ 5 000 ans. <br/><br/>En 1535, l'île est explorée par le navigateur Jacques Cartier (1491-1557), qui la nomme « Île de Bacchus ». L'année suivante, lors d'un second débarquement, Cartier la rebaptise de manière à rendre hommage au duc d'Orléans (Henri II, 1519-1559). Samuel de Champlain (1574-1635) visite l'île d'Orléans dès son premier voyage dans la vallée du Saint-Laurent en 1603.<br/><br/>En 1636, l'île est concédée en seigneurie à la Compagnie de Beaupré par la Compagnie de la Nouvelle-France (Compagnie des Cent-Associés). Les premiers colons s'y établissent dès 1648. Les Hurons-Wendat occupent l'anse du Fort de 1651 à 1656. Ils quitteront l'île à la suite d'une attaque iroquoise en 1656. À partir de 1665, le peuplement de l'île est rendu plus sécuritaire par la présence du régiment de Carignan-Salières dans la colonie.<br/><br/>En 1661, la paroisse de l'Île est fondée. Une église est érigée huit ans plus tard, dans le secteur qui deviendra Sainte-Famille. En 1679, les paroisses Saint-François, Saint-Pierre et Saint-Paul (cette dernière est renommée Saint-Laurent en 1698) sont détachées de la paroisse de l'Île, qui devient la paroisse La Sainte-Famille. La mission Saint-Jean est ouverte l'année suivante.<br/><br/>À la suite de la Grande Paix de 1701, la colonisation de l'île s'intensifie. En 1748, la seigneurie est divisée en deux parties comprenant neuf arrière-fiefs. Construit à partir de 1734, le manoir Mauvide-Genest rappelle l'époque seigneuriale. Les insulaires pratiquent l'agriculture et construisent des demeures ainsi que plusieurs dépendances. Le chemin Royal ceinture l'île à partir de 1744, alors que des parcours nord-sud sont aménagés, dont la route du Mitan en 1830.<br/><br/>Le développement de l'île est toutefois freiné par le siège de Québec en 1759. Plusieurs bâtiments et exploitations de la partie occidentale sont alors mis à sac par les Britanniques, qui établissent aussi un camp en retrait de la pointe de Beaulieu.<br/><br/>Dès le XVIIIe siècle, la navigation s'effectue principalement dans le chenal au sud de l'île d'Orléans. Sur la rive sud se concentrent les maisons de pilotes, les chalouperies et les chantiers de construction navale.<br/><br/>Pendant le XIXe siècle, différents facteurs bouleversent l'économie traditionnelle de l'île. Les cultures spécialisées apparaissent afin d'approvisionner le marché de Québec. Quelques secteurs, comme celui de Sainte-Pétronille qui sera érigé en paroisse en 1870, deviennent aussi des stations de villégiature. À compter de 1855, un traversier assure la liaison entre Québec et Sainte-Pétronille. Des plages sont aménagées ainsi qu'un terrain de golf, considéré comme l'un des plus anciens en Amérique du Nord.<br/><br/>En 1935, le pont de l'Île-d'Orléans est construit. Le gouvernement adopte alors la Loi concernant l'Île d'Orléans afin de protéger l'île. Mais les contacts avec les rives se multiplient et l'agriculture passe à la phase industrielle. Soumise au phénomène croissant de l'étalement urbain, l'île devient de plus en plus populeuse. Avec le temps, le tourisme et le commerce s'ajoutent à l'agriculture comme activités économiques principales. Malgré les changements, elle continue de faire partie de l'imaginaire collectif des Québécois. Elle a été la muse de plusieurs artistes.<br/><br/>En 1970, le site patrimonial de l'Île-d'Orléans est déclaré. De nos jours, l'île demeure un lieu symbolique qui conserve son caractère rural et attire de nombreux visiteurs.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Capitale-Nationale
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        L'Île-d'Orléans
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Saint-François-de-l'Île-d'Orléans
+      </li>
+    
+      <li>
+        
+        Saint-Jean-de-l'Île-d'Orléans
+      </li>
+    
+      <li>
+        
+        Saint-Laurent-de-l'Île-d'Orléans
+      </li>
+    
+      <li>
+        
+        Saint-Pierre-de-l'Île-d'Orléans
+      </li>
+    
+      <li>
+        
+        Sainte-Famille
+      </li>
+    
+      <li>
+        
+        Sainte-Pétronille
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Lieux-dits</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Saint-François
+      </li>
+    
+      <li>
+        
+        Saint-François-d'Orléans
+      </li>
+    
+      <li>
+        
+        Saint-Jean
+      </li>
+    
+      <li>
+        
+        Saint-Jean-d'Orléans
+      </li>
+    
+      <li>
+        
+        Saint-Laurent-L'Ile-d'Orléans
+      </li>
+    
+      <li>
+        
+        Saint-Pierre-Ile-d'Orléans
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        46° 51' 54.4"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -71° 6' 14.1"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableauDesaligne">
+  <h3><span class="libelle_definition" rel="tooltip" title="<span >Code alphanumérique propre à l'archéologie qui sert à désigner les sites archéologiques au Québec et au Canada en fonction de leur position géographique</span>"><span >Code Borden</span></span></h3>
+
+  <table>
+    <colgroup>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+      <col width="25%"/>
+    </colgroup>
+    
+      
+        
+        
+        
+          <tr>
+        
+        <td>CfEq-2</td>
+      
+        
+        
+        
+        <td>CfEq-5</td>
+      
+        
+        
+        
+        <td>CfEr-1</td>
+      
+        
+        
+        
+        <td>CfEr-10(en réservation)</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEr-11(en réservation)</td>
+      
+        
+        
+        
+        <td>CfEr-12(en réservation)</td>
+      
+        
+        
+        
+        <td>CfEr-13(en réservation)</td>
+      
+        
+        
+        
+        <td>CfEr-14(en réservation)</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEr-18</td>
+      
+        
+        
+        
+        <td>CfEr-2</td>
+      
+        
+        
+        
+        <td>CfEr-3</td>
+      
+        
+        
+        
+        <td>CfEr-6</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEr-7(en réservation)</td>
+      
+        
+        
+        
+        <td>CfEr-8</td>
+      
+        
+        
+        
+        <td>CfEr-9</td>
+      
+        
+        
+        
+        <td>CfEs-1</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEs-10</td>
+      
+        
+        
+        
+        <td>CfEs-11</td>
+      
+        
+        
+        
+        <td>CfEs-12</td>
+      
+        
+        
+        
+        <td>CfEs-13</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEs-14</td>
+      
+        
+        
+        
+        <td>CfEs-15</td>
+      
+        
+        
+        
+        <td>CfEs-16</td>
+      
+        
+        
+        
+        <td>CfEs-2</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEs-25</td>
+      
+        
+        
+        
+        <td>CfEs-33 (en réservation)</td>
+      
+        
+        
+        
+        <td>CfEs-5</td>
+      
+        
+        
+        
+        <td>CfEs-6</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CfEs-7</td>
+      
+        
+        
+        
+        <td>CfEs-8</td>
+      
+        
+        
+        
+        <td>CfEs-9</td>
+      
+        
+        
+        
+        <td>CgEq-13</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CgEq-26</td>
+      
+        
+        
+        
+        <td>CgEq-3</td>
+      
+        
+        
+        
+        <td>CgEq-36</td>
+      
+        
+        
+        
+        <td>CgEr-16</td>
+      
+        
+        
+          </tr>
+        
+        
+          <tr>
+        
+        <td>CgEr-2</td>
+      
+        
+        
+        
+        <td>CgEr-9</td>
+      
+      
+        <td>&nbsp;</td>
+        
+          <td>&nbsp;</td>
+          
+        
+      
+      </tr>
+    
+  </table>
+</div>
+
+
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+              <h2 class="titreBoite" id="documents"><span >Documents</span></h2>
+            
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+<ul>
+<li>
+<strong>
+
+  
+    <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir document')), this.innerHTML.trim());" href="document/rpcq_bien_93521_267012.PDF?id=267012" target="_blank">Site patrimonial de l'Île-d'Orléans. Plan de conservation</a>
+  
+  
+
+</strong>
+<br/>
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+        &#169; 
+            
+            
+                Ministère de la Culture et des Communications
+            
+        
+        
+          
+            2017
+          
+        
+      
+    
+  
+  
+
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+<ul>
+<li>
+<strong>
+
+  
+    <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir document')), this.innerHTML.trim());" href="document/rpcq_bien_93521_267013.PDF?id=267013" target="_blank">Site patrimonial de l'Île-d'Orléans. Dépliant</a>
+  
+  
+
+</strong>
+<br/>
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+        &#169; 
+            
+            
+                Ministère de la Culture et des Communications
+            
+        
+        
+          
+            2017
+          
+        
+      
+    
+  
+  
+
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+<ul>
+<li>
+<strong>
+
+  
+    <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir document')), this.innerHTML.trim());" href="document/rpcq_bien_93521_344296.PDF?id=344296" target="_blank">Site patrimonial de l'Île-d'Orléans. Feuillet pour les citoyens</a>
+  
+  
+
+</strong>
+<br/>
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+        &#169; 
+            
+            
+                
+            
+        
+        
+          
+        
+      
+    
+  
+  
+
+
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Liens Internet</span>&nbsp;:</h3>
+  <ul>
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir rÃ©fÃ©rence')), this.innerHTML.trim());" href="http://www.iledorleans.com/" target="_blank">iledorleans.com</a></li>
+    
+  </ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>AUGERON, Mickaël, dir., Dominique GUILLEMET, dir., Alain ROY, dir. et Marc ST-HILAIRE, dir. <I>Les traces de la Nouvelle-France au Québec et en Poitou-Charentes</I>. Québec, Les Presses de l'Université Laval, 2008. 308 p.</li>
+      
+    
+      <li>BOURQUE, Hélène, Donald DION et Brigitte OSTIGUY. <I>L'île d'Orléans, un enchantement</I>. Québec, Les éditions du chien rouge, 1999. 45 p.</li>
+      
+    
+      <li>CHASSÉ, Béatrice, Bernard GENEST, Pierre LAHOUD, Guy-André ROY et Henri-Paul THIBAULT. « Arrondissement historique de l'Île d'Orléans ». Commission des biens culturels du Québec. <I>Les chemins de la mémoire. Monuments et sites historiques du Québec. Tome I</I>. Québec, Les Publications du Québec, 1990, p. 261-265.</li>
+      
+    
+      <li>DUBÉ, Claude et Pierre LAROCHELLE. <I>Le génie du lieu à l'île d'Orléans. Étude des caractères formels essentiels du milieu bâti comme structure héritée</I>. s.l. Municipalité régionale de comté de l'Île d'Orléans, 1993. 176 p.</li>
+      
+    
+      <li>FAURE, Isabelle. <I>Projet pilote d'analyse paysagère de l'arrondissement historique de l'île d'Orléans. Volet 1 : L'Île d'Orléans, une île en péril ou l'analyse critique du système de gestion du patrimoine de l'Île d'Orléans</I>. Québec, Commission des Biens Culturels du Québec, 1996. s.p.</li>
+      
+    
+      <li>HOUDE, Sylvie. <I>L'île d'Orléans comme lieu symbolique</I>. Mémoire de maîtrise, Université Laval, 1982. 127 p.</li>
+      
+    
+      <li>LESSARD, Michel. <I>L'île d'Orléans : aux sources du peuple québécois et de l'Amérique française</I>. Montréal, Éditions de l'Homme, 1998. 415 p.</li>
+      
+    
+      <li>LIZOTTE, Sylvain, dir. <I>Plan de conservation du site patrimonial de l'Île-d'Orléans</I>. Québec, Ministère de la Culture et des Communications, 2017. 119 p.</li>
+      
+        <ul>
+          
+            <li>Le document intitulé <i>Site patrimonial de l'Île-d'Orléans. Plan de conservation</i> dans la section <a href="#documents">Documents</a> en fait partie.</li>
+          
+        </ul>
+      
+    
+      <li>MORENCY, Richard et al. <I>Île d'Orléans, arrondissement historique : sommaire de la première phase des études du milieu en vue de sa sauvegarde et de sa mise en valeur</I>. Québec, Ministère des Affaires culturelles, 1977. 52 p.</li>
+      
+    
+      <li>ROY, Guy-André et Andrée RUEL. <I>Le patrimoine religieux de l'île d'Orléans</I>. Cahiers du patrimoine, 16. Québec, Ministère des Affaires culturelles, 1982. 313 p.</li>
+      
+    
+      <li>ROY, Pierre-Georges. <I>L'Île d'Orléans</I>. Québec, Librairie Garneau / Éditeur officiel du Québec, 1976. 571 p.</li>
+      
+    
+      <li>s.a. <I>L'ABC de l'arrondissement historique de l'Île-d'Orléans</I>. Québec, Commission des biens culturels du Québec / Ministère de la culture et des communications / MRC de l'Île-d'Orléans, 2003. s.p.</li>
+      
+    
+      <li>s.a. <I>Le site patrimonial de l'Île-d'Orléans. Un territoire rural et insulaire exceptionnel</I>. Québec, Ministère de la Culture et des Communications, 2017. s.p.</li>
+      
+        <ul>
+          
+            <li>Le document intitulé <i>Site patrimonial de l'Île-d'Orléans. Dépliant</i> dans la section <a href="#documents">Documents</a> en fait partie.</li>
+          
+        </ul>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1100633112" async></script></body>
+</html>
