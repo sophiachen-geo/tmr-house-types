@@ -1,0 +1,92 @@
+id: ile-orleans.modernisme
+page: 46
+phase: p5
+phase_confidence: verified
+place: ile-orleans
+name_en: Modernism
+name_fr: Le modernisme
+source_ref: MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 46
+source_generation: Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf),
+  "Principaux éléments caractéristiques"
+source_url: https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf
+courant: courant architectural (MRC de L'Île-d'Orléans inventory, 11 courants)
+sectors: null
+municipalities: null
+canonical:
+- modern-detached-house
+styles:
+- international-style
+tenure_plan: single-family
+storeys: null
+roof:
+  form: flat-or-low-slope
+  pitch_deg: null
+window_proportion: horizontal
+principal_cladding:
+- concrete
+- steel
+- glass
+roofing: flat or sculptural
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+count_in_place: 1
+period_label: null
+profile:
+  siting_landscape:
+  - '"À l''île d''Orléans, nous n''avons répertorié qu''une résidence issue de l''architecture moderne." One house,
+    out of 659.'
+  - 'The inventory names it: the maison Paul-Brunet, 37 chemin de l''Église, "témoigne de l''architecture moderne.
+    Son architecture s''inspire notamment d''un paquebot."'
+  massing:
+  - Simple volume, stripped of ornament.
+  - Free plans producing very varied forms.
+  - Flat roofs, or roofs of sculptural form.
+  articulation:
+  - 'No applied ornament: "l''expressivité des matériaux remplace les éléments d''ornementation".'
+  openings:
+  - Large glazed surfaces, including horizontal ribbon windows.
+  materials:
+  - Modern materials — concrete and steel.
+profile_fr:
+  elements_caracteristiques:
+  - Volumétrie simple et dépouillée d’ornements
+  - Plans libres qui créent des formes très variées
+  - Toits plats ou de formes sculpturales
+  - Matériaux modernes tels que le béton et l’acier, alors que l’expressivité des matériaux remplace les éléments
+    d’ornementation.
+  - Grandes surfaces vitrées dont des fenêtres en bandeau horizontal
+  repartition:
+  - À l’île d’Orléans, nous n’avons répertorié qu’une résidence issue de l’architecture moderne.
+profile_note: 'The one courant of the eleven with a known population of exactly one: the synthesis states « À l''île
+  d''Orléans, nous n''avons répertorié qu''une résidence issue de l''architecture moderne. » The English columns above
+  translate the five bullets on p. 46; there is no five-column table behind them beyond that. The brief provisionally
+  filed this courant under the postwar slab-and-tower form pending the parse; the parse rules that out, since the
+  island''s single example is a detached house. It carries the detached modern house form instead, added for it and
+  for the other single-family modern records that had been filed under the slab.'
+example_addresses: null
+related_buildings:
+- name: Maison Paul-Brunet, 37 chemin de l'Église — the only modern house in the inventory; the caption on p. 46 gives
+    no municipality, and none is inferred here
+  url: null
+conservation: null
+blurb_en: 'The island''s single modern house. The courant is a real one — free plan, flat or sculptural roof, concrete
+  and steel, ribbon glazing, no ornament at all because the materials are the ornament — but on Île d''Orléans the
+  inventory found exactly one example of it, and even that one is a ship: the maison Paul-Brunet at 37 chemin de l''Église,
+  modelled on an ocean liner.'
+origin_en: Born of the European modern movement (Art nouveau, the Bauhaus) and American rationalism (the Chicago School),
+  modernism breaks with inherited form more completely than any style before it — practical and functionalist, sober,
+  refusing ornament, and putting aluminium, concrete, steel and large sheets of glass at the front of the design.
+  It divides into several currents more or less faithful to the movement that produced them. Almost none of that reached
+  this island.
+photos:
+- file: null
+  kind: placeholder
+  credit: 'MRC de L''Île-d''Orléans / Patri-Arch, rapport de synthèse, p. 46 — one captioned example, printed inline
+    below the characteristics list: the maison Paul-Brunet at 37 chemin de l''Église. © Patri-Arch; rights ceded to
+    the MRC de L''Île-d''Orléans. Not reproduced here.'
+  source_url: https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf
+  licence: permission required
+  match_confidence: address

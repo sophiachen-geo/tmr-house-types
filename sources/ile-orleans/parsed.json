@@ -1,0 +1,532 @@
+{
+ "pdf_pages": 79,
+ "courants": [
+  {
+   "slug": "maison-inspiration-francaise",
+   "page": 26,
+   "photo_page": 27,
+   "title_found": "La maison d'inspiration française",
+   "title_expected": "La maison d'inspiration française",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Corps de logis rectangulaire bas ne présentant pas ou peu de fondations",
+    "Le volume d’origine a souvent été agrandi sur la longueur de la maison",
+    "Toiture à deux versants droits ou à croupes à pente forte, supérieure à 45 degrés, recouverte le plus fréquemment de bardeau de cèdre",
+    "Carré en pierre, portant un certain fruit, souvent revêtu de crépi ou de bois",
+    "Cheminée en pierre massive située au centre de la maison",
+    "Composition asymétrique de la façade",
+    "Ouvertures peu nombreuses, fenêtres à double battant à petits carreaux, munis de volets fonctionnels",
+    "Ornementation réduite à sa plus simple expression limitée aux encadrements, linteaux, chambranles et épis."
+   ],
+   "distribution": "On retrouve les demeures de cette période dans toutes les municipalités de l'Île-d'Orléans et elles sont relativement abondantes.",
+   "example_addresses": [
+    {
+     "address": "3463 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "4657 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "155A chemin Royal",
+     "municipality": "Saint-François"
+    },
+    {
+     "address": "1347 chemin Royal",
+     "municipality": "Saint-Jean"
+    },
+    {
+     "address": "313 chemin Royal",
+     "municipality": "Saint-Pierre"
+    },
+    {
+     "address": "960 chemin Royal",
+     "municipality": "Saint-Laurent"
+    }
+   ]
+  },
+  {
+   "slug": "maison-traditionnelle-quebecoise",
+   "page": 28,
+   "photo_page": 29,
+   "title_found": "La maison traditionnelle québécoise d'influence néoclassique",
+   "title_expected": "La maison traditionnelle québécoise d'influence néoclassique",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volume généralement de 1 étage et demi, parfois de 2 étages et demi, formé d’un carré en bois pièce sur pièce (ou parfois en brique ou en pierre), le plus souvent légèrement exhaussé du sol, d’où la présence d’une galerie et d’un escalier",
+    "Toiture à deux versants à pente moyenne (environ 45 degrés) recouverte de tôle traditionnelle ou de bardeaux de cèdre qui se prolonge souvent au-delà des murs avant et arrière grâce à des larmiers incurvés protégeant ainsi une galerie aménagée en façade",
+    "Composition symétrique de la façade",
+    "Toit indépendant en apprentis - aussi appelé auvent ou garde soleil - installé afin de recouvrir la galerie lorsque les versants de la toiture sont droits",
+    "Cuisine d'été parfois présente dans le prolongement longitudinal ou transversal de la maison et reproduisant à plus petite échelle les caractéristiques du corps de logis principal",
+    "Parement généralement en bois (planches de bois posées à l'horizontale ou à la verticale ainsi que le bardeau de cèdre), mais parfois en maçonnerie de pierre ou de brique",
+    "Souches de cheminée généralement dans le prolongement du mur pignon",
+    "Ouvertures nombreuses, dont des fenêtres à double battant à grands carreaux",
+    "Lucarnes à fronton ou à pignon permettant d'éclairer les combles",
+    "Ornementation généralement sobre composée de chambranles et planches cornières. Les variantes plus cossues proposent des décors plus éclectiques (aisseliers, corniches, balustrades, boiseries ornementales, etc.)."
+   ],
+   "distribution": "La maison traditionnelle québécoise d'influence néoclassique est très bien représentée à l’île d’Orléans.",
+   "example_addresses": [
+    {
+     "address": "178 chemin Royal",
+     "municipality": "Saint-François"
+    },
+    {
+     "address": "3994 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "1233 chemin Royal",
+     "municipality": "Saint-Pierre"
+    },
+    {
+     "address": "130 chemin Ferland",
+     "municipality": "Saint-Laurent"
+    },
+    {
+     "address": "1 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "1936 chemin Royal",
+     "municipality": "Saint-Jean"
+    }
+   ]
+  },
+  {
+   "slug": "second-empire-maison-mansardee",
+   "page": 30,
+   "photo_page": 31,
+   "title_found": "Le style Second Empire et la maison à mansarde",
+   "title_expected": "Le style Second Empire et la maison à mansarde",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Corps de logis rectangulaire à deux étages légèrement exhaussé du sol, charpente en bois",
+    "Toiture brisée, à la Mansart, à deux versants ou à quatre versants, constituée de brisis et de terrassons et recouverte de tôle traditionnelle",
+    "Composition symétrique de la façade",
+    "Galerie couverte d’un auvent indépendant sur une ou plusieurs façades",
+    "Parement de planches de bois ou de brique, parfois en pierre de taille",
+    "Ouvertures caractérisées par des fenêtres à battants à grands carreaux ou à guillotine et des lucarnes dans le brisis",
+    "Ornementation généralement sobre composée de chambranles, planches cornières et corniche sous le brisis. Les variantes plus cossues proposent des décors plus éclectiques."
+   ],
+   "distribution": "Ce courant est bien présent à l’île d’Orléans.",
+   "example_addresses": [
+    {
+     "address": "1404 chemin Royal",
+     "municipality": "Saint-Laurent"
+    },
+    {
+     "address": "398 chemin Royal",
+     "municipality": "Saint-François"
+    },
+    {
+     "address": "1778 chemin Royal",
+     "municipality": "Saint-Jean"
+    },
+    {
+     "address": "163 chemin du Bout-de-l’île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "1501 chemin Royal",
+     "municipality": "Saint-Pierre"
+    }
+   ]
+  },
+  {
+   "slug": "cottage-regency",
+   "page": 32,
+   "photo_page": 33,
+   "title_found": "Le cottage Regency",
+   "title_expected": "Le cottage Regency",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Plan de forme plutôt carrée",
+    "Toit à quatre versants à profil bas et étendu dont l'avant-toit est parfois recourbé; revêtement de toiture en bardeau de cèdre ou en tôle traditionelle",
+    "Un ou deux niveaux d'occupation",
+    "Composition symétrique des ouvertures",
+    "Bâtiment entouré d'une galerie protégée par les avants-toits",
+    "Murs revêtus de brique, de pierre ou de bois",
+    "Cheminée centrale",
+    "Fenêtres habituellement à battants et à grands carreaux, parfois sous la forme de portes-fenêtres",
+    "Lucarnes rampantes, à croupe ou à pignon",
+    "Ornementation sobre insipirée des éléments classiques comme les entablements et les frontons."
+   ],
+   "distribution": "Ce type d’architecture demeure relativement rare dans le site patrimonial de l'Île-d'Orléans et particulièrement présent dans la municipalité de Sainte-Pétronille.",
+   "example_addresses": [
+    {
+     "address": "128 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "1585 chemin Royal",
+     "municipality": "Saint-Laurent"
+    },
+    {
+     "address": "39 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "12 chemin de l’Église",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "142 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "12 rue Gagnon",
+     "municipality": "Sainte-Pétronille"
+    }
+   ]
+  },
+  {
+   "slug": "eclectisme-victorien",
+   "page": 34,
+   "photo_page": 35,
+   "title_found": "L’éclectisme victorien",
+   "title_expected": "L'éclectisme victorien",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Plan asymétrique (absence de plan typique), volume très articulé, nombreuses saillies et avancées",
+    "Toitures irrégulières, composées de pignons ou de tourelles, souvent percées de lucarnes",
+    "Présence de galeries, de balcons couverts et ornementés qui se prolongent souvent sur plus d’une façade",
+    "Amalgame de plusieurs matériaux et couleurs sur un même immeuble (brique, pierre, bardeaux décoratifs ou polychromes, etc.)",
+    "Absence d’ouvertures typiques, variété de types d’ouvertures sur un même bâtiment, présence de fenêtres en baie (bow window, oriel)",
+    "Ornements variés (fronton néoclassique, boiseries ornementales, mâts, épis, consoles, encorbellements, etc.)."
+   ],
+   "distribution": "Le site patrimonial de l'Île-d'Orléans comporte peu d’exemples architecturaux issus de l’éclectisme victorien.",
+   "example_addresses": [
+    {
+     "address": "4204 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "45 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "4135 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "1276 chemin Royal",
+     "municipality": "Saint-Laurent"
+    },
+    {
+     "address": "20 avenue Orléans",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "14 rue Orléans",
+     "municipality": "Sainte-Pétronille"
+    }
+   ]
+  },
+  {
+   "slug": "cottage-vernaculaire-americain",
+   "page": 36,
+   "photo_page": 37,
+   "title_found": "Le cottage vernaculaire américain",
+   "title_expected": "Le cottage vernaculaire américain",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volumétrie rectangulaire dénotant une simplification des formes",
+    "Carré en madriers de bois d’un étage et demi avec toiture à deux versants droit d’une inclinaison de 45 degrés ou à demi-croupes. Aussi, le modèle de deux étages à toit à 2 versants à faible pente est également répandu",
+    "Toiture généralement couverte de tôle traditionnelle",
+    "Galerie couverte d’un auvent indépendant souvent présente",
+    "Revêtements légers (planches de bois, bardeaux d’amiante-ciment, crépi)",
+    "Portes et fenêtres à battants avec imposte ou à guillotine, usinées",
+    "Éléments d’ornementation qui puisent aux répertoires de l’architecture du 19e siècle et qui sont standardisés (chambranles, planches cornières, aisseliers, frontons)."
+   ],
+   "distribution": "Ce courant est peu représenté dans le site patrimonial, mais il est présent dans la majorité des municipalités en quelques exemplaires.",
+   "example_addresses": [
+    {
+     "address": "30 rue de l’Église",
+     "municipality": "Saint-Jean"
+    },
+    {
+     "address": "182 chemin du Bout-de-l’île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "1266 chemin Royal",
+     "municipality": "Saint-Jean"
+    },
+    {
+     "address": "4119 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "33 chemin de l’Église",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "1309 chemin Royal",
+     "municipality": "Saint-Laurent"
+    }
+   ]
+  },
+  {
+   "slug": "maison-cubique",
+   "page": 38,
+   "photo_page": 39,
+   "title_found": "La maison cubique",
+   "title_expected": "La maison cubique",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volumétrie cubique, plan carré de deux étages légèrement surhaussé du sol",
+    "Toit en pavillon (quatre versants) à faibles pentes, revêtu de tôle traditionnelle, ou parfois toit plat",
+    "Revêtement extérieur en brique ou en matériau léger (planches de bois, bardeaux de cèdre, tôle embossée, tuiles d’amiante-ciment)",
+    "Galerie couverte d’un auvent indépendant, aménagée en façade avant avec parfois un balcon à l’étage",
+    "Distribution régulière des ouvertures",
+    "Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine",
+    "Lucarnes à croupe, à pignon, triangulaire ou en appentis, parfois remplacées par des pignons",
+    "Ornementation variable selon le statut social du propriétaire."
+   ],
+   "distribution": "La maison cubique est assez peu représentée dans le site patrimonial de l’Île-d’Orléans.",
+   "example_addresses": [
+    {
+     "address": "157 chemin Royal",
+     "municipality": "Saint-Pierre"
+    },
+    {
+     "address": "1634 chemin Royal",
+     "municipality": "Saint-Jean"
+    },
+    {
+     "address": "3492 chemin Royal",
+     "municipality": "Sainte-Jean"
+    },
+    {
+     "address": "201 chemin Royal",
+     "municipality": "Saint-François"
+    },
+    {
+     "address": "1969 chemin Royal",
+     "municipality": "Saint-Pierre"
+    },
+    {
+     "address": "3332 chemin Royal",
+     "municipality": "Sainte-Famille"
+    }
+   ]
+  },
+  {
+   "slug": "maison-boomtown",
+   "page": 40,
+   "photo_page": 41,
+   "title_found": "La maison Boomtown",
+   "title_expected": "La maison Boomtown",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volume cubique ou rectangulaire de deux étages, peu dégagé du sol",
+    "Toiture plate ou à faible pente vers l’arrière",
+    "Saillies peu présentes à l’exception d’une galerie protégée d’un auvent, parfois avec un balcon à l’étage",
+    "Parement de planches de bois ou de brique",
+    "Distribution régulière des ouvertures, composition généralement symétrique",
+    "Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine",
+    "Ornementation concentrée dans la partie supérieure de la façade : corniche à modillons ou à consoles, parapet en gradins ou jeux de briques. Autres éléments d’ornementation discrets : chambranles, planches cornières, platebandes en brique, etc."
+   ],
+   "distribution": "Sur le territoire du site patrimonial de l'Île-d'Orléans, on retrouve quelques exemplaires de maisons Boomtown dans toutes les municipalités.",
+   "example_addresses": [
+    {
+     "address": "504 chemin Royal",
+     "municipality": "Saint-François"
+    },
+    {
+     "address": "1913 chemin Royal",
+     "municipality": "Saint-François"
+    },
+    {
+     "address": "1649 chemin Royal",
+     "municipality": "Saint-Laurent"
+    },
+    {
+     "address": "3717 chemin Royal",
+     "municipality": "Sainte-Famille"
+    },
+    {
+     "address": "2269 chemin Royal",
+     "municipality": "Saint-Pierre"
+    },
+    {
+     "address": "148 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    }
+   ]
+  },
+  {
+   "slug": "arts-and-crafts",
+   "page": 42,
+   "photo_page": 43,
+   "title_found": "L’architecture Arts & Crafts",
+   "title_expected": "L'architecture Arts & Crafts",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volume plus ou moins imposant au plan articulé",
+    "Toiture de formes variées à versants ou à demi-croupes parfois de longueurs inégales, dont le larmier déborde souvent largement des façades",
+    "Espaces extérieurs protégés (perrons, galeries, terrasses)",
+    "Utilisation de matériaux naturels et traditionnels (pierre, brique, stuc, bardeaux de cèdre, planches de bois), parfois combinés entre eux",
+    "Ouvertures nombreuses et diversifées, présence de fenêtres jumelées et de lucarne à croupe, en appentis ou triangulaire",
+    "Ornements souvent limités aux éléments de la charpente (colombage, chevrons apparents, supports de galerie)",
+    "Chaque cas est unique et possède ses propres caractéristiques."
+   ],
+   "distribution": "Il existe peu d’exemples de ce style dans le site patrimonial de l'Île-d'Orléans et ils sont principalement situés à Sainte-Pétronille.",
+   "example_addresses": [
+    {
+     "address": "11 chemin Horatio-Walker",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "217 chemin du Bout-de-l’île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "35 chemin de l’Église",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "13 chemin Horatio-Walker",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "145 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "228 chemin du Bout-de-l’île",
+     "municipality": "Sainte-Pétronille"
+    }
+   ]
+  },
+  {
+   "slug": "regionalisme-quebecois",
+   "page": 44,
+   "photo_page": 45,
+   "title_found": "Le régionalisme québécois",
+   "title_expected": "Le régionalisme québécois",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volume rectangulaire plus ou moins imposant pourvu d’annexes",
+    "Haute toiture en pente aux versants généralement droits ou légèrement recourbés recouverts de bardeau de bois ou d’asphalte",
+    "Espaces extérieurs protégés (perrons, galeries)",
+    "Cheminées à l’aspect massif",
+    "Revêtement de bois (bardeaux ou planches) ou d’amiante-ciment",
+    "Fenêtres à guillotine ou à battants munies de carreaux et lucarnes à pignon de bonnes dimensions",
+    "Ornements souvent limités aux encadrements d’ouvertures (chambranles, faux volets)."
+   ],
+   "distribution": "On ne retrouve que quelques cas de régionalisme québécois dans l’inventaire, surtout situé à Sainte-Pétronille, car cette architecture s’allie bien à celle de la villégiature.",
+   "example_addresses": [
+    {
+     "address": "181 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "117 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "121 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    },
+    {
+     "address": "2260-2266 chemin Royal",
+     "municipality": "Saint-Jean"
+    },
+    {
+     "address": "226 chemin Royal",
+     "municipality": "Saint-Laurent"
+    },
+    {
+     "address": "123 chemin du Bout-de-l’Île",
+     "municipality": "Sainte-Pétronille"
+    }
+   ]
+  },
+  {
+   "slug": "modernisme",
+   "page": 46,
+   "photo_page": null,
+   "title_found": "Le modernisme",
+   "title_expected": "Le modernisme",
+   "title_matches": true,
+   "elements_caracteristiques": [
+    "Volumétrie simple et dépouillée d’ornements",
+    "Plans libres qui créent des formes très variées",
+    "Toits plats ou de formes sculpturales",
+    "Matériaux modernes tels que le béton et l’acier, alors que l’expressivité des matériaux remplace les éléments d’ornementation.",
+    "Grandes surfaces vitrées dont des fenêtres en bandeau horizontal"
+   ],
+   "distribution": "À l’île d’Orléans, nous n’avons répertorié qu’une résidence issue de l’architecture moderne.",
+   "example_addresses": []
+  }
+ ],
+ "diagnostic": {
+  "by_municipality": {
+   "Sainte-Famille": {
+    "A": 6,
+    "B": 11,
+    "C": 40,
+    "D": 26,
+    "E": 2,
+    "total": 85,
+    "supprime": 6
+   },
+   "Sainte-Pétronille": {
+    "A": 1,
+    "B": 17,
+    "C": 64,
+    "D": 36,
+    "E": 0,
+    "total": 118,
+    "supprime": 5
+   },
+   "Saint-François": {
+    "A": 7,
+    "B": 11,
+    "C": 25,
+    "D": 18,
+    "E": 0,
+    "total": 61,
+    "supprime": 2
+   },
+   "Saint-Jean": {
+    "A": 5,
+    "B": 32,
+    "C": 90,
+    "D": 51,
+    "E": 1,
+    "total": 179,
+    "supprime": 4
+   },
+   "Saint-Laurent": {
+    "A": 5,
+    "B": 10,
+    "C": 77,
+    "D": 36,
+    "E": 3,
+    "total": 131,
+    "supprime": 2
+   },
+   "Saint-Pierre": {
+    "A": 3,
+    "B": 14,
+    "C": 55,
+    "D": 10,
+    "E": 3,
+    "total": 85,
+    "supprime": 0
+   }
+  },
+  "counts": {
+   "A": 27,
+   "B": 95,
+   "C": 351,
+   "D": 177,
+   "E": 9,
+   "total": 659,
+   "supprime": 19
+  }
+ }
+}

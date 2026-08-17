@@ -1,0 +1,147 @@
+id: ile-orleans
+name_en: Île d'Orléans
+name_fr: Site patrimonial de l'Île-d'Orléans
+sections: [rural-seigneurial]
+region: Capitale-Nationale (MRC de L'Île-d'Orléans)
+founded: 1636                                    # island conceded en seigneurie to the Compagnie de Beaupré; first colonists 1648
+settlement_mode: seigneurial côtes and rangs around a ring road, six parishes, market agriculture
+municipalities:
+  - Sainte-Pétronille
+  - Saint-Laurent-de-l'Île-d'Orléans
+  - Saint-Jean-de-l'Île-d'Orléans
+  - Saint-François-de-l'Île-d'Orléans
+  - Sainte-Famille
+  - Saint-Pierre-de-l'Île-d'Orléans
+governing_instruments:
+  - kind: site-patrimonial-declare
+    title: >-
+      Site patrimonial de l'Île-d'Orléans, déclaré par le gouvernement du Québec le 11 mars 1970
+      (formerly Arrondissement historique de l'Île-d'Orléans). The island is roughly 34 km long and
+      up to 8 km wide; RPCQ: "Ce territoire déclaré site patrimonial compte quelque 3 600 bâtiments,
+      parmi lesquels 19 sont classés immeubles patrimoniaux." Near 95 % of the territory is
+      agricultural. Authorisations under arts. 64–65 of the Loi sur le patrimoine culturel.
+    year: 1970
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93521&type=bien
+  - kind: conservation-plan
+    title: >-
+      MCC, Plan de conservation du site patrimonial de l'Île-d'Orléans (119 p.; dir. Sylvain
+      Lizotte). Orientations, not norms; municipalities may transpose them into PIIA under the Loi
+      sur l'aménagement et l'urbanisme. Three orientations govern every kind of intervention —
+      « préserver les valeurs patrimoniales du site patrimonial », « privilégier le traitement
+      minimal » and « assurer la continuité à travers les changements » — followed by 239 numbered
+      orientations, the last of which are grouped by unité de paysage (pp. 87–90). The PDF's own
+      metadata carries a 2017 creation date; the plan is commonly cited as 2017.
+    year: 2017
+    url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_orlean.pdf
+  - kind: relaxation-measures
+    title: >-
+      MCC, "Des gestes concrets pour aider les citoyens du site patrimonial de l'Île-d'Orléans"
+      (announced 22 August 2019): asphalt shingle permitted on houses OUTSIDE the village sectors
+      that carry a cote of C, D or E in the inventory AND already have an asphalt-shingle or other
+      non-traditional roof; traditional windows may be replaced by thermally glazed wood windows of
+      the same form and dimensions; dark cladding with light architectural details allowed for
+      non-inventoried buildings and new construction, though in village sectors the palette must
+      harmonise with the dominant colours; patio doors permitted on rear elevations; new
+      construction in the banlieue sectors reduced from more than fifty orientations to nine;
+      attached garages permitted subject to alignment and visual continuity. A table de concertation
+      was to be active from January 2020.
+    year: 2019
+    url: https://www.patrimoine-culturel.gouv.qc.ca/document/rpcq_bien_93521_344296.PDF?id=344296
+  - kind: subsidy
+    title: >-
+      Programme d'aide à la restauration patrimoniale. The 2019 measures document states the figure
+      directly: "Le ministère de la Culture et des Communications et la MRC de l'Île-d'Orléans ont
+      annoncé une aide de 3 M$ pour les propriétaires de bâtiments patrimoniaux", extending the
+      programme to 2023–2024, with aid up to 50 % of eligible expenses and up to 70 % for the
+      restoration of traditional roofs. The $2,405,000 / $515,000 split reported second-hand is NOT
+      what the ministry's own document says, and is not published here.
+    year: 2019
+    url: https://www.patrimoine-culturel.gouv.qc.ca/document/rpcq_bien_93521_344296.PDF?id=344296
+  - kind: inventory
+    title: >-
+      MRC de L'Île-d'Orléans / Patri-Arch, "Mise à jour de l'inventaire du patrimoine bâti de l'île
+      d'Orléans", rapport de synthèse, 79 p. (cover "Août 2014"; fieldwork October–December 2013 and
+      May 2014; the file served in 2025 is named …maj2025.pdf and its PDF ModDate is 20 June 2025).
+      Project lead Martin Dubois; fieldwork and evaluation by Élyse Levasseur, Maryse Vaillancourt
+      and Catherine Vallières. Eleven courants architecturaux, pp. 26–46; cote A–E; a quantitative
+      diagnostic, pp. 47–50. Separate inventories cover religious heritage, agricultural heritage
+      and Boomtown/flat-roof houses. A consolidated "Inventaire du patrimoine immobilier" dated
+      3 March 2026 answers art. 120 of the 2021 amendments to the LPC.
+    year: 2014
+    url: https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf
+grading:
+  system: >-
+    Five-level global value (cote) assigned by the MRC inventory across five criteria — intérêt
+    historique; intérêt ethnologique (authenticité); intérêt paysager; intérêt artistique et
+    architectural; valeur d'usage. Each criterion is separately rated A–E and recorded in PIMIQ,
+    and the report is explicit that the overall cote is a weighted judgement rather than an
+    average: "Au final, la valeur patrimoniale globale devrait refléter la moyenne des cotes
+    accordées pour chacun des 5 critères. Ceci n'est pas un exercice mathématique ; il faut prendre
+    en compte que les critères n'ont pas tous la même importance ou portée." The cote carries legal
+    weight since 2019, because the asphalt-shingle relaxation applies only to C, D and E buildings
+    outside the village sectors that already have a non-traditional roof.
+  criteria_fr:
+    - "Intérêt historique — ancienneté relative ou absolue; association à un personnage ou à un groupe; importance dans l'histoire locale, régionale ou nationale"
+    - "Intérêt ethnologique (authenticité) — association à une pratique ou à une technique traditionnelle; association à une utilisation traditionnelle du territoire ou à un mode d'établissement"
+    - "Intérêt paysager — point de repère; présence d'attributs particuliers; association à un paysage culturel ou représentatif d'un paysage culturel"
+    - "Intérêt artistique et architectural — rareté relative ou absolue; présence d'attributs particuliers; situation dans la production courante; situation dans l'œuvre du concepteur"
+    - "Valeur d'usage — pérennité de l'usage"
+  categories:
+    - {code: "A", label_fr: Exceptionnelle, count: 27,
+       note: "4 % of the inventory, including the 13 buildings already classed immeubles at the time of the survey. National-level value. \"Il s'agit pour la plupart de maisons du Régime français particulièrement bien préservées.\" Historical-interest anchor: avant 1800."}
+    - {code: "B", label_fr: Supérieure, count: 95,
+       note: "15 %. Strong value at the local or regional scale, resting largely on age and authenticity; many are early-19th-century houses. Historical-interest anchor: 1800–1850."}
+    - {code: "C", label_fr: Bonne, count: 351,
+       note: "53.5 % — over half the inventory. Mostly 19th-century traditional houses with minor, reversible alterations. Historical-interest anchor: 1850–1900."}
+    - {code: "D", label_fr: Moyenne, count: 177,
+       note: "26 %. More recent (20th-century) or more heavily modified, but with good potential for enhancement. Historical-interest anchor: 1900–1950."}
+    - {code: "E", label_fr: Faible, count: 9,
+       note: "1.5 % — the rarest grade. Numerous irreversible alterations have blurred the legibility of age and original architecture. Historical-interest anchor: 1950–aujourd'hui."}
+  note: >-
+    Counts are the inventory's own Tableau 1 (p. 47), parsed by sources/ile-orleans/parse.py:
+    659 buildings after 28 additions and 19 deletions (9 fires, 10 demolitions since the 1970
+    inventory). By municipality — Saint-Jean 179, Saint-Laurent 131, Sainte-Pétronille 118,
+    Sainte-Famille 85, Saint-Pierre 85, Saint-François 61. The report reads the distribution as a
+    good result: "les bâtiments de valeur patrimoniale faible sont rares". It also warns that the
+    cote is not fixed — a building can lose value through bad work or a fire, and regain it through
+    restoration.
+building_counts:
+  in_perimeter: 3600            # RPCQ, all buildings inside the declared site
+  rpcq_associated_records: 3492
+  classed_immeubles: 19
+  inventoried_built_heritage: 659   # MRC inventory, Tableau 1, p. 47 — the parsed figure
+  classed_at_survey: 13             # buildings already classed when the 2013–14 survey was evaluated
+  note: >-
+    Four figures, four scopes. Never publish a single "number of buildings". The 3,600 is
+    everything inside the perimeter; 3,492 is the count of RPCQ records associated with the site;
+    659 is the built-heritage inventory alone, which excludes the separate religious, agricultural
+    and Boomtown inventories; 19 is the number of classed immeubles patrimoniaux today, of which
+    13 were classed when the survey was evaluated.
+typology_document:
+  title: MRC de L'Île-d'Orléans / Patri-Arch, Mise à jour de l'inventaire du patrimoine bâti — rapport de synthèse (11 courants architecturaux, pp. 26–46)
+  year: 2014
+  format: per-type-table
+  note: >-
+    The RPCQ fiche groups the housing into only three families — maisons québécoises d'esprit
+    français (pierre/bois), maisons québécoises d'inspiration néoclassique, and maisons de
+    villégiature de facture éclectique (Regency, Second Empire, victorien). The eleven-courant
+    inventory is the finer instrument and is what this site encodes; the RPCQ's three families are
+    recorded as a coarser parallel reading in /methods/. The inventory itself warns against reading
+    the eleven as pure categories: "l'architecture de l'île d'Orléans est parfois métissée et …
+    un bâtiment peut parfois être à cheval entre deux courants architecturaux."
+map_layer: null
+hero_photo:
+  file: assets/places/ile-orleans/ferme-saint-pierre-commons.jpg
+  credit: >-
+    A farm at Saint-Pierre-de-l'Île-d'Orléans inside the declared site — the secteur agroforestier,
+    which the plan de conservation says covers close to 95 % of the island. Photograph by
+    Marc-Lautenbacher, CC BY-SA 4.0. Licence: https://creativecommons.org/licenses/by-sa/4.0.
+    File: https://commons.wikimedia.org/wiki/File:Arrondissement_historique_de_l%27%C3%8Ele-d%27Orl%C3%A9ans,_Ferme_%C3%A0_Saint-Pierre_de_l%27%C3%8Ele-d%27Orl%C3%A9ans.jpg
+summary_en: >-
+  An island of six parishes strung along a single ring road, declared a heritage site in 1970 and
+  farmed continuously since 1648 — about 95 % of it is still agricultural. Its housing is the
+  clearest surviving sequence of the Québec rural canon anywhere: the low stone house of French
+  inspiration with its steep eaveless roof; the neoclassical Québec house raised on a cellar with
+  curved eaves reaching out over a gallery; the mansard; the Regency cottage of the Sainte-Pétronille
+  villégiature; then the 20th-century American vernacular, cubique and Boomtown arriving by
+  catalogue. The nineteen classed houses are its spine, and the cote A–E its working instrument.

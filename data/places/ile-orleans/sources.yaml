@@ -1,0 +1,88 @@
+- id: io-inventaire-synthese
+  citation: >-
+    MRC de L'Île-d'Orléans / Patri-Arch, « Mise à jour de l'inventaire du patrimoine bâti de l'île
+    d'Orléans — Rapport de synthèse », 79 p. Cover date "Août 2014"; fieldwork October–December 2013
+    with a return visit in May 2014; project lead Martin Dubois, with Élyse Levasseur, Maryse
+    Vaillancourt and Catherine Vallières; produced under the Entente de développement culturel
+    between the CLD de l'Île-d'Orléans, the MRC and the ministère de la Culture et des
+    Communications. Served in 2025 as rapport_synthese_io_050919_maj2025.pdf, PDF ModDate 20 June
+    2025. https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf —
+    downloaded 17 August 2026, sha-256 d3308d23…65f241.
+  used_for: >-
+    All eleven type records: the courant names, the page anchors, the verbatim « Principaux éléments
+    caractéristiques » lists, the distribution sentence in each block, and the example addresses
+    printed in the facing photo plates. Also the five evaluation criteria and their A–E anchors
+    (pp. 15–23), the cote definitions (p. 23), and the quantitative diagnostic (pp. 47–50) that
+    fills the grading counts. Parsed by sources/ile-orleans/parse.py into parsed.json; the type
+    records are emitted from that by sources/ile-orleans/emit_types.py, so no French is retyped.
+
+- id: io-pc-2017
+  citation: >-
+    Ministère de la Culture et des Communications, « Plan de conservation du site patrimonial de
+    l'Île-d'Orléans », 119 p., sous la direction de Sylvain Lizotte. PDF metadata dates the file to
+    September 2017. https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_orlean.pdf — downloaded
+    17 August 2026, sha-256 7348dc3e…9c2870.
+  used_for: >-
+    The five unités de paysage (pp. 49–57), their descriptions, their « en bref » summaries quoted
+    as summary_fr, and the « orientations particulières s'appliquant à certains secteurs » (pp.
+    87–90) quoted verbatim as characteristics_fr. Also the three orientations governing every kind
+    of intervention (p. 69), the cadre bâti section's attribution of the neoclassical house to the
+    village sectors and of the Regency cottage to villégiature, and the village front-setback
+    figures.
+
+- id: io-mesures-2019
+  citation: >-
+    Ministère de la Culture et des Communications, « Des gestes concrets pour aider les citoyens du
+    site patrimonial de l'Île-d'Orléans », 4 p., announced 22 August 2019 (PDF produced February
+    2020). https://www.patrimoine-culturel.gouv.qc.ca/document/rpcq_bien_93521_344296.PDF?id=344296
+    — downloaded 17 August 2026, sha-256 4a423900…675a299.
+  used_for: >-
+    The 2019 relaxation measures and their exact conditions — the asphalt-shingle rule for C/D/E
+    buildings outside the village sectors that already carry a non-traditional roof; thermally
+    glazed wood windows; dark cladding; patio doors; the reduction of banlieue orientations to
+    nine; attached garages. Also the $3M subsidy figure, which corrects the second-hand
+    $2,405,000 / $515,000 figures, and the document's own list of the five unités de paysage.
+
+- id: io-rpcq-93521
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Site patrimonial de l'Île-d'Orléans »
+    (id 93521), déclaration 11 mars 1970.
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93521&type=bien
+    — retrieved 17 August 2026.
+  used_for: >-
+    The 3,600 buildings inside the perimeter, the 3,492 associated records, the 19 classed
+    immeubles and their names and municipalities, the 95 % agricultural figure, the island's
+    dimensions, the historical anchors used in the phase essays, and the RPCQ's own coarser
+    three-family reading of the housing.
+
+- id: io-rpcq-batiments
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, individual fiches retrieved 17 August 2026:
+    manoir Mauvide-Genest (92670), maison Drouin (102270), maison Gendreau (92491), maison
+    Louis-Pouliotte (92490), maison Morisset (92475), maison Gagnon (92667). Also consulted and
+    rejected as not being on the island: maison Joseph-Canac-Dit-Marquis (92660, Québec), maison
+    Canac-Marquis (235048, Saint-André, Bas-Saint-Laurent), maison Ferland (206873, Sorel-Tracy).
+  used_for: >-
+    Every RPCQ id published in related_buildings, with its classement date and the fiche's own
+    description. Ids that could not be confirmed for this island are not published — see notes.
+
+- id: io-inventaire-2026
+  citation: >-
+    MRC de L'Île-d'Orléans, « Inventaire du patrimoine immobilier », 44 p., adopted list dated
+    3 March 2026 (PDF CreationDate 10 March 2026), answering art. 120 of the 2021 amendments to the
+    Loi sur le patrimoine culturel.
+    https://mrc.iledorleans.com/stock/fra/inventaire-du-patrimoine-immobilier_3-mars-2026.pdf —
+    downloaded 17 August 2026, sha-256 c810f69d…43a1da.
+  used_for: >-
+    Held as the current statutory inventory alongside the 2014 synthesis. Not the source of any
+    type record; recorded so the two documents are not confused with one another.
+
+- id: io-commons
+  citation: >-
+    Wikimedia Commons, files individually checked through the MediaWiki API
+    (action=query&prop=imageinfo&iiprop=extmetadata) on 17 August 2026 before any download.
+  used_for: >-
+    The four photographs in assets/places/ile-orleans/. Each credit line carries the author, the
+    licence and the file URL. No photograph from the MRC, Patri-Arch, the RPCQ or a municipality
+    has been copied into this repository; those are recorded as photos[] with file null and
+    licence "permission required".

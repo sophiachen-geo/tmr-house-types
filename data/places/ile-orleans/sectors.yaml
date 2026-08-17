@@ -1,0 +1,167 @@
+# The five unités de paysage of the Plan de conservation du site patrimonial de l'Île-d'Orléans,
+# pp. 49–57. The plan's own definition: "Les unités de paysage sont des portions de territoire
+# caractérisées par une organisation récurrente de composantes naturelles et historiques qui leur
+# sont propres." They are not zoning; they are the frame the ministry uses to group its
+# orientations, and since 2019 they also decide where the asphalt-shingle relaxation applies.
+#
+# summary_fr is the plan's own "en bref" wording where it has one; characteristics_fr is the
+# plan's "orientations particulières s'appliquant à certains secteurs (unités de paysage)",
+# pp. 87–90, quoted verbatim with the plan's numbering.
+
+- id: agroforestier
+  code: UP-1
+  name_fr: Secteur agroforestier
+  value: unite-de-paysage
+  summary_en: >-
+    The dominant condition, and the oldest — the plan says this unit alone occupies close to 95 %
+    of the island. A succession of very large parcels running from the shore of the St Lawrence to
+    the wooded crest at the centre, called the Mitan, with the chemin Royal as their central road.
+    How far a house stands back from that road dates it: the Régime-français houses sit near the
+    river and reach the chemin Royal by long montées, while later building lines up on either side
+    of the road itself. Farmsteads are pavilion groups of five or six buildings and sometimes more,
+    with the house set in front of the rest and the grange-étable as the functional pillar. This is
+    where the 2019 relaxation measures apply to buildings rated C, D or E.
+  summary_fr: >-
+    « Le chemin Royal est la voie centrale du secteur agroforestier dont les parcelles sont
+    généralement utilisées comme champs pour l'agriculture et réserve de bois dans la partie
+    centrale de l'île. La distance séparant le parcours directeur et les bâtiments est tributaire
+    de leur époque de construction. Les bâtiments les plus anciens sont souvent éloignés de la voie
+    publique. Le système parcellaire du secteur agroforestier est caractérisé par des parcelles
+    rectangulaires très longues. »
+  characteristics_fr:
+    - "196. Maintenir la faible densité du cadre bâti du secteur agroforestier."
+    - "197. Favoriser la préservation des grands espaces ouverts en culture."
+    - "198. En cas de morcellement d'une propriété agricole, favoriser des aménagements permettant de maintenir une lecture d'ensemble du système parcellaire ancien composé de terres étroites et allongées."
+    - "199. Éviter les aménagements paysagers de type urbain tels que les murets en blocs de béton, les surfaces en pavé de béton et les surfaces asphaltées."
+    - "200. Favoriser l'installation de clôtures rustiques et de grands arbres feuillus plutôt que des haies de cèdres afin de délimiter les terrains et les chemins d'accès."
+    - "201. Favoriser l'implantation de la maison individuelle à l'avant-plan des bâtiments domestiques et agricoles, selon les caractéristiques du milieu d'insertion."
+    - "202. Favoriser l'installation d'éoliennes domestiques dans les secteurs non visibles depuis le chemin Royal, la route du Mitan et la route des Prêtres."
+    - "203. Privilégier des aménagements atténuant les impacts visuels des équipements agricoles, comme les fosses à lisier et à fumier."
+    - "204. Ne pas favoriser la plantation de haies de cèdres."
+    - "205. Pour les haies brise-vent, favoriser l'utilisation de feuillus disposés sur les lignes de lot historiques."
+  source: "Plan de conservation 2017, pp. 49–50 (description) and p. 88 (orientations 196–205)"
+
+- id: villageois
+  code: UP-2
+  name_fr: Secteur villageois
+  value: unite-de-paysage
+  summary_en: >-
+    The six village cores, spaced roughly evenly around the ring road, each a concentration of
+    detached houses around a church, a school and a convent. Their parcels are subdivisions of the
+    first agricultural lots, so density is higher and the built fabric tightens; front setbacks run
+    from 1 to 10 m and most houses sit at about 5 m, pushed toward one side boundary to keep access
+    to the rear. Every building obeys one of two rules — the ridge is either parallel to the road
+    or perpendicular to the lot line. The six differ: the northern villages (Saint-Pierre,
+    Sainte-Famille) are organised around an institutional core with working farms inside the
+    village; the southern ones (Saint-Laurent, Saint-Jean) face the river; Sainte-Pétronille is
+    built of 19th-century villas along the shore; Saint-François is thin. The 2019 relaxation
+    measures do NOT apply here, and new colour choices must harmonise with the sector's dominant
+    palette.
+  summary_fr: >-
+    « Le chemin Royal est la voie centrale de ce type d'unité de paysage. Les terrains sont
+    généralement de petites dimensions et sont destinés à l'implantation de maisons individuelles,
+    ce qui entraîne une plus forte densité d'occupation du sol que dans les secteurs agroforestiers
+    et les abords de village. L'organisation du secteur villageois est linéaire. Les bâtiments sont
+    généralement implantés en bordure de la voie publique ou à faible distance de celle-ci. »
+  characteristics_fr:
+    - "206. Favoriser la préservation des liens visuels entre les composantes des ensembles institutionnels, dont l'église, le presbytère et le cimetière."
+    - "207. Privilégier un traitement différent pour les espaces publics et les propriétés privées, notamment à proximité des bâtiments commerciaux. La différence de traitement pourrait se manifester par des aménagements qui témoignent de la nature publique du lieu."
+    - "208. Privilégier des aménagements de qualité pour mettre en valeur les espaces publics."
+    - "209. Favoriser l'aménagement de stationnements dans les cours latérales et arrière plutôt que dans la cour avant des commerces, des institutions et des maisons individuelles. Prévoir des aménagements pour atténuer l'effet visuel des stationnements."
+    - "210. Favoriser la protection des arbres adultes isolés et des alignements, et privilégier leur remplacement par des essences forestières indigènes lors d'interventions de coupe, lorsque la situation le permet et que le remplacement ne compromet pas une percée visuelle ou un panorama."
+    - "211. Favoriser une nouvelle construction contribuant à la continuité visuelle du cadre bâti."
+    - "212. Favoriser le maintien du volume dominant de la maison individuelle sur les bâtiments domestiques."
+    - "213. Favoriser une implantation cohérente des bâtiments domestiques, selon les caractéristiques du milieu d'insertion."
+    - "214. Ne pas favoriser l'installation d'écrans visuels (clôtures, haies) en marge avant des maisons individuelles."
+    - "215. Privilégier les clôtures en bois ou en métal, basses et ajourées, s'inspirant des clôtures traditionnelles du secteur villageois. Pour les clôtures en bois, favoriser l'application de peinture ou de teinture opaque de couleur claire (blanc, crème, amande)."
+    - "216. Favoriser l'enfouissement des réseaux électriques et de télécommunication, sans nuire au patrimoine archéologique."
+    - "217. Minimiser l'effet visuel du mobilier d'utilité publique comme les boitiers techniques, notamment par le choix de leur emplacement et par des aménagements paysagers d'apparence soignée."
+  source: "Plan de conservation 2017, pp. 51–54 (description) and pp. 88–89 (orientations 206–217)"
+
+- id: villegiature
+  code: UP-3
+  name_fr: Secteur de villégiature
+  value: unite-de-paysage
+  summary_en: >-
+    Concentrations of detached houses along the river, built from the 19th century for summer
+    occupation, mostly at the two ends of the island where the land is least suited to farming —
+    chiefly Sainte-Pétronille, with more at Saint-François and along the south shore. The ferry
+    from Québec, running from 1855, made Sainte-Pétronille one of the region's principal resorts;
+    beaches, a golf course and summer hotels followed, and the parish was erected in 1870. After
+    the bridge of 1935 small chalets went up on tight lots between the chemin Royal and the
+    foreshore through the 1940s, 1950s and 1960s. Unlike the village sectors, the buildings here
+    face the river rather than the road, which is why galleries and verandas sit on the river
+    elevation. This is where the Regency cottages and the Arts and Crafts houses are concentrated.
+  summary_fr: >-
+    « Les secteurs de villégiature sont des concentrations de maisons individuelles situées en
+    bordure du fleuve et destinées, originalement, à une occupation saisonnière. Les secteurs de
+    villégiature sont accessibles directement par le chemin Royal ou par un chemin privé. Ils sont
+    souvent situés à l'extérieur du périmètre d'urbanisation, notamment au fond des terres
+    agricoles. »
+  characteristics_fr:
+    - "218. Favoriser des aménagements sobres et discrets pour les espaces publics adjacents au rivage."
+    - "219. Favoriser la préservation de l'aspect naturel des abords du fleuve Saint-Laurent."
+    - "220. Favoriser la protection des arbres adultes isolés et des alignements, et privilégier leur remplacement par des essences forestières indigènes lors d'interventions de coupe, lorsque la situation le permet et que le remplacement ne compromet pas une percée visuelle ou un panorama."
+    - "221. Favoriser le maintien du volume dominant de la maison individuelle sur les bâtiments domestiques."
+    - "222. Favoriser une implantation cohérente des bâtiments domestiques, selon les caractéristiques du milieu d'insertion."
+    - "223. Favoriser une nouvelle construction contribuant à la continuité visuelle du cadre bâti."
+    - "224. Ne pas favoriser l'installation d'écrans visuels (clôtures, haies) en marge avant des maisons individuelles. Favoriser des écrans visuels compatibles avec l'environnement immédiat de la propriété."
+  source: "Plan de conservation 2017, pp. 54–56 (description) and p. 89 (orientations 218–224)"
+
+- id: abords-de-village
+  code: UP-4
+  name_fr: Abords de village
+  value: unite-de-paysage
+  summary_en: >-
+    The transition zones between the agroforestier and villageois units, developed mostly in the
+    20th century. Parcels of varying size on both sides of the chemin Royal carry buildings of
+    mixed use and mixed siting. They resemble the village sectors, but the plan draws the
+    distinction precisely: lower density, a wider range of functions, larger lots, and houses set
+    further back from the road. This is the unit whose character is defined by what it lies
+    between, which is why its orientations are the shortest set in the plan and all concern
+    coherence of insertion.
+  summary_fr: >-
+    « Les abords de village sont des zones de transition entre les secteurs agroforestiers et
+    villageois. Ils se composent de parcelles plus ou moins grandes situées de part et d'autre du
+    chemin Royal et sur lesquelles sont érigés des bâtiments présentant une diversité d'usages et
+    d'implantations. Malgré certaines ressemblances avec les secteurs villageois, les abords de
+    village possèdent habituellement une densité d'occupation du sol plus faible et une plus grande
+    variété de fonctions, les terrains sont souvent plus grands et les maisons, plus éloignées de
+    la route. »
+  characteristics_fr:
+    - "225. Favoriser un développement cohérent des abords de village grâce à l'insertion de nouveaux bâtiments et de mobilier urbain."
+    - "226. Favoriser la protection des arbres adultes isolés et des alignements, et privilégier leur remplacement par des essences forestières indigènes lors d'interventions de coupe, lorsque la situation le permet et que le remplacement ne compromet pas une percée visuelle ou un panorama."
+    - "227. Favoriser le maintien du volume dominant de la maison individuelle sur les bâtiments domestiques et agricoles."
+    - "228. Favoriser une implantation cohérente des bâtiments domestiques et des bâtiments agricoles, selon les caractéristiques du milieu d'insertion."
+    - "229. Ne pas favoriser l'installation d'écrans visuels (clôtures, haies) en marge avant des maisons individuelles. Favoriser des écrans visuels compatibles avec l'environnement immédiat de la propriété."
+  source: "Plan de conservation 2017, p. 56 (description) and pp. 89–90 (orientations 225–229)"
+
+- id: banlieue
+  code: UP-5
+  name_fr: Secteur de banlieue
+  value: unite-de-paysage
+  summary_en: >-
+    Residential estates laid out on subdivided farmland from the middle of the 20th century, near
+    the bridge — Sainte-Pétronille, Saint-Pierre and Saint-Laurent. The plan is unusually direct
+    about them: they break the siting logic that had held until then. Where the agroforestier,
+    villageois and villégiature units place a building according to the space it occupies, the
+    suburban house is set by regular front and side setbacks, and the plan states plainly that
+    these sectors "ne sont pas liés au passé rural et villageois de l'île d'Orléans". Most are
+    dominated by detached houses; the crossroads of the chemin Royal, the côte du Pont and the
+    route Prévost forms a sub-sector of shops and services, including the caisse Desjardins.
+  summary_fr: >-
+    « Ces banlieues se distinguent par leur ensemble cohérent de bungalows et de cottages entourés
+    d'arbres. Elles sont situées à proximité de la voie principale et formées de parcours
+    habituellement pavés. Le sous-secteur de l'entrée de l'île compte des bâtiments commerciaux et
+    de services. »
+  characteristics_fr:
+    - "230. Favoriser des aménagements paysagers, comme des bandes végétales, en bordure des secteurs de banlieue."
+    - "231. Favoriser le maintien du volume dominant de la maison individuelle sur les bâtiments domestiques."
+    - "232. Favoriser une implantation cohérente des bâtiments domestiques, selon les caractéristiques du milieu d'insertion."
+  note: >-
+    The plan carries a sixth, nested set of orientations (233–239) for the "sous-secteur de
+    l'entrée de l'île d'Orléans" — requalifying the island's entrance, framing the public road,
+    minimising the visual effect of parking, wires and storage, harmonising signage, respecting
+    natural drainage and planting indigenous species. The 2019 relaxation measures reduced the
+    orientations applying to new construction in the banlieue sectors from more than fifty to nine.
+  source: "Plan de conservation 2017, pp. 56–57 (description) and p. 90 (orientations 230–232, and 233–239 for the entrance sub-sector)"

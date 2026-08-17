@@ -269,3 +269,10 @@
     and the Ville de Québec thésaurus nest all three under one parent. This id carries the parent
     reading so both are visible; the child forms carry the shapes.
   members: []
+- id: modern-detached-house
+  name_en: Detached modern house — free plan, flat or sculptural roof, ribbon or large glazed openings
+  definition_en: >-
+    The modern movement applied to a house rather than to a block: a free plan throwing off varied
+    volumes, a flat or sculptural roof, wide or ribbon glazing, and materials left expressive in
+    place of ornament. Distinct from the slab and the tower, which are collective buildings.
+  members: []

@@ -1,0 +1,3544 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+
+<!--[if lt IE 7]> <html lang="fr-ca" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="fr-ca" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="fr-ca" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="fr-ca" class="lt-ie10 ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr-ca" > <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>
+    
+      
+        Maison Morisset -
+      
+      
+    
+    Répertoire du patrimoine culturel du Québec
+  </title>
+  
+
+
+
+<link href="codeCSS/rpcq.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="script/fancybox2/jquery.fancybox-1.3.4.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="screen">
+<link href="codeCSS/jquery-ui.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="all">
+<link href="codeCSS/video/video-js.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/video/videojs-panorama.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+<link href="codeCSS/pannellum.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 9]>
+  <script src="script/html5shiv.js"></script>
+  <script src="script/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link href="script/mediaelement/mediaelementplayer.min.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css">
+
+<link href="codeCSS/rpcq_print.css?dateDeploiement=2026-04-22%2009:13" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+
+
+
+
+  <link rel="icon" type="image/gif" href="images/favicon.gif" />
+  <link rel="shortcut icon" href="images/favicon.ico" /> 
+
+  
+
+
+<script type="text/javascript">var sofiChargementPageComplete = 'false';</script>
+<script type="text/javascript" src="script/sofi_social.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+ 
+  
+
+ 
+ 
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46276435-1', 'gouv.qc.ca');
+  ga('require', 'linkid', 'linkid.js');
+    
+        ga("set", "contentGroup2", "Fiche détaillée d'un bien immobilier");
+        ga("set", "contentGroup3", "Fiche détaillée d'un bien immobilier");
+    
+  ga('send', 'pageview');
+ 
+</script>
+
+
+<script type="text/javascript">
+  function envoyerSuiviClics(categorie, action, libelle) {
+  libelle = libelle.replace(/<(.|\n)*?>/g, '');
+  
+  
+      ga('send', 'event', categorie, action, libelle);
+  
+  }
+  function resizeGoogleMap() {
+      //ne rien faire, est surchargÃ© dans bloc_carte.jsp
+      //mais ne pas enleve, requis pour empÃ©cher une erreur de javascript lorsqu'il n'y a pas d'onglet carte.
+  }
+</script>
+
+</head>
+
+<body>
+
+    
+
+<div class="contpiv">
+    <div id="piv">
+        <a href="https://www.quebec.ca/" ><img src="images/logo_login.png" border="0" style="margin-left:20px;float:left;margin-top:10px;"></a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide1" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:medium; text-decoration:none;font-weight: bold;">Ministère de la Culture et des Communications</a>
+        <br>
+        <a href="https://www.quebec.ca/" id="proprieteVide2" style="margin-left:64px; margin-top: 200px;color:white;font-family:Trebuchet MS,Verdana,Geneva,Arial,Helvetica,sans-serif;
+            font-size:small; text-decoration:none;">Répertoire du patrimoine culturel du Québec</a>
+    </div>
+ </div>
+
+    <div class="corps">
+        
+
+<SCRIPT language="Javascript">
+
+var modif_motCle = 2;
+
+function changement_motCle() {
+        modif_motCle = 5;
+}
+
+function envoi_motCle() {
+        if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+          document.getElementById('motCle').value = "";  
+        }
+}
+
+</SCRIPT>
+
+<div class="entete">
+<div class="recherche">
+  <!--sofi-html:form action="rechercheMotCle.do?methode=rechercher" transactionnel="false" styleId="rechercheFormulaire" id="rechercheMotCle"-->
+  <form action="rechercheMotCle.do" method="GET" id="rechercheMotCle" onsubmit="envoi_motCle();">
+  <p class="searchbox">
+      
+      <input type="hidden" name="methode" id="methode" value="rechercher" />
+      <label for="motCle" class="visuallyhidden">Rechercher</label>
+      <!-- Avant recherche -->
+      
+        <input onclick="this.value='';this.placeholder='';" onchange="changement_motCle();" onkeyup="changement_motCle();" type="text"  name="motCle" id="motCle" placeholder="Rechercher"  value="Rechercher" style="background: #FFFFFF; color: #000000; box-shadow: none;" />
+      
+      <!-- AprÃ¨s recherche -->
+      
+      <label for="type" class="visuallyhidden">Section</label>
+      <select name="type" class="selectionSection" id="type">
+        
+        
+          
+            
+            
+              <option value="REP">Tout le Répertoire</option>
+            
+          
+        
+          
+            
+            
+              <option value="PROTVAL">Patrimoine protégé et valorisé</option>
+            
+          
+        
+          
+            
+            
+              <option value="IMMOB">Patrimoine immobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="MOB">Patrimoine mobilier</option>
+            
+          
+        
+          
+            
+            
+              <option value="PGE">Événements, groupes et personnes</option>
+            
+          
+        
+          
+            
+            
+              <option value="EPI">Patrimoine immateriel</option>
+            
+          
+        
+          
+            
+            
+              <option value="PLAQUE">Plaques commémoratives</option>
+            
+          
+        
+      </select>
+      <input type="hidden" name="reset" value="1"/>
+      <button class="searchBtn" type="submit" onclick="envoyerSuiviClics(decodeURIComponent(escape('Recherche mot clÃ©')), decodeURIComponent(escape('Recherche mot clÃ©')), '');envoi_motCle();" onkeydown="envoi_motCle();">
+          <img src="images/fleche_chercher.png" alt="pimiq.libelle.rpcq.entete.bouton.texte"  />
+      </button>
+    </p>
+  </form>
+  <!--/sofi-html:form-->
+  <!-- 2013-05-09 : Mis en commentaire par Alexandre BÃ©lec pour cacher le lien Recherche avancÃ©e -->
+  <!--<p class="rechercheAvance">
+    <a href="recherche.do?methode=acceder" onclick="javascript:window.location = 'recherche.do?methode=acceder&type=' + $('#type').val() + '&motCle=' + $('#motCle').val();return false;">
+        Recherche avancée
+    </a>
+  </p>-->
+</div>
+
+
+
+  <p class="titre"><a href="accueil.do?methode=afficher">Répertoire du<span>patrimoine</span>culturel du Québec</a></p>
+
+
+
+</div>
+
+<div class="zoneNavigationPrincipale">
+<ul class="navigationPrincipale">
+
+
+
+
+
+  
+  
+  
+  
+
+  <li class="first active">
+      <a href="accueil.do?methode=afficher" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Accueil');" class="">
+          Accueil
+      </a>
+  </li>
+  <li class="doubleline">
+      <a href="rechercheProtege.do?methode=acceder" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Recherche avanc&eacute;e');" class="">
+          Recherche<br>avancée
+      </a>
+  </li>
+  <li  class="doubleline">
+      <a href="redirection.do?go=faq" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', 'Foire aux questions');" class="">
+          Foire<br>aux questions
+      </a>
+  </li>
+  <li class="last">
+      <a href="redirection.do?go=about" onclick="envoyerSuiviClics('Accueil', 'Ouvrir Menu', '&Agrave; propos');" class="">
+          À propos
+      </a>
+  </li>
+</ul>
+</div>
+        
+
+
+
+
+</script>
+<div class="wrapper">
+  <div class="conteneur">	
+    
+
+
+<ul class="filAriane">
+
+
+  
+    
+    
+      <li><a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fil d\'Ariane')), decodeURIComponent(escape('Ouvrir page')), $(this).html().trim());" href="accueil.do?methode=afficher">
+         <span>Accueil</span></a> <span class="hideAriane">&gt;</span>
+      </li>
+    
+  
+
+
+  
+    
+      <li class="actif">
+        <strong>
+          
+        Fiche de l'élément
+        </strong>
+      </li>
+    
+    
+  
+
+</ul>
+    <article>
+      <div class="registreImprimerPartager">
+        
+          <p>
+            <span class="inscritRegistreFiche" rel="tooltip" ><img src="images/inscrit.png" alt="">Inscrit au Registre du patrimoine culturel</span>
+          </p>
+        
+        
+        <ul>
+          
+            <li class="btnImprimer actif">
+              <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Imprimer')), $('#titreFiche').html());" href="javascript:window.print()" class="btn" rel="tooltip" title="Impression de la fiche de l'&eacute;l&eacute;ment sans la liste compl&egrave;te de ses &eacute;l&eacute;ments associ&eacute;s"><span class="printIcon"></span>Imprimer</a>
+            </li>
+          
+          <li class="btnPartage actif">
+            <a href="#" class="addthis_button btn" 
+              addthis:url="https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92475&type=bien"
+              addthis:title="Maison Morisset"
+            ><span class="partageIcon"></span>Partager</a>
+          </li>
+        </ul>
+      </div>
+      <h1 id="titreFiche">Maison Morisset</h1>
+
+      <div class="cols">
+        <div class="colLeft">
+          
+
+
+
+
+
+
+  
+    
+      
+        
+      
+      
+      
+    
+
+    <section class="description specialType">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+  
+  <h2><span >Type</span>&nbsp;:</h2>
+  <p>Patrimoine immobilier</p>
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Autre(s) nom(s)</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>4417, chemin Royal (adresse avant novembre 2015)</li>
+  
+    <li>La Brimbale</li>
+  
+    <li>Maison Baucher-Dit-Morency</li>
+  
+    <li>Maison Beauché-Dit-Morency</li>
+  
+    <li>Maison Beaucher-Dit-Morency</li>
+  
+    <li>Maison Morency-Demers</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Région administrative</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Capitale-Nationale</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Municipalité</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Sainte-Famille</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Date</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>avant 1699 (Construction)</li>
+  
+    <li>avant 1727 (Agrandissement)</li>
+  
+    <li>vers 1962 (Restauration)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Période</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Le Régime français (1534 à 1760)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Thématique</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Patrimoine de la Nouvelle-France</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+    
+      
+      
+      
+        
+      
+    
+
+    <section class="description">
+      
+          
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+<h2><span >Usage</span>&nbsp;:</h2>
+<div class="aReduire">
+<ul>
+  
+    <li>Fonction résidentielle (Maisons rurales et urbaines)</li>
+  
+</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+    </section>
+  
+
+
+                       
+          
+
+
+
+
+
+
+
+  <div class="spacer">
+    
+      
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+        
+      <div class="registreImprimerPartager">
+      
+      
+        <ul>
+        <li>
+        
+        <!--<a class="btn btn_print_associated" href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=inv&id=92475&typeElement=BIEN&methode=imprimer" rel="tooltip" 
+          title="Impression de la liste complète des éléments associés">
+          <span class="printIcon" ></span>Imprimer
+        </a>-->
+          <a class="btn btn_print_associated" href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=inv&id=92475&typeElement=BIEN&methode=imprimer" rel="tooltip"
+             title="Impression de la liste compl&egrave;te de tous les &eacute;l&eacute;ments associ&eacute;s"
+             align="center">            
+              <img src="images/fiche/pdf.gif">
+          </a>
+        
+        </li>
+        </ul>
+      
+      
+      <h2 class="sectionTitle">Éléments associés</h2>
+      </div>
+  </div>
+ 
+  
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=immo&id=92475&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" data-href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=immo&id=92475&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Patrimoine immobilier associé</span>&nbsp;(1)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+  <h4><span >Fait partie de</span>&nbsp;:</h4>
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=93521&type=bien">
+            Site patrimonial de l'Île-d'Orléans
+            
+          </a>
+          
+            
+            <img src="images/inscrit_ico.png" rel="tooltip" title="Inscrit au Registre du patrimoine culturel" alt="Inscrit au Registre du patrimoine culturel">
+          
+          
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=immo&id=92475&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=immo&id=92475&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Patrimoine immobilier associé</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <a href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=per&id=92475&typeElement=BIEN&methode=afficher" rel="lightbox" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" data-href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=per&id=92475&typeElement=BIEN&methode=afficher&style=ajax">
+        
+          <span >Personnes associées</span>&nbsp;(5)
+        </a>
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=14073&type=pge">
+            Morisset, Jean (1641 &ndash; 1699)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Résident(e), Propriétaire, Promoteur(-trice) / instigateur(-trice)</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=14074&type=pge">
+            Morisset, Jeancien (1687 &ndash; 1727)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Résident(e), Propriétaire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=14075&type=pge">
+            Beaucher dit Morency, Joseph (1734 &ndash; 1803)
+            
+          </a>
+          
+          
+            - <span class="spanLien">Résident(e), Propriétaire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+    <li>
+      
+        
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Ouvrir Ã©lÃ©ment associÃ©')), this.innerHTML.trim());"  href="detail.do?methode=consulter&id=14076&type=pge">
+            Howard, Suzanne
+            
+          </a>
+          
+          
+            - <span class="spanLien">Résident(e), Propriétaire</span>
+            
+          
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+          <p><a href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=per&id=92475&typeElement=BIEN&methode=afficher" rel="lightbox" data-href="lightBox.do;jsessionid=59BD21F067B31D57B43E8EE5EAA69B5D?type=per&id=92475&typeElement=BIEN&methode=afficher&style=ajax" onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment')), decodeURIComponent(escape('Afficher liste Ã©lÃ©ments associÃ©s')), '<span >Personnes associées</span>');" class="voirTout"><span >Voir la liste</span></a></p> 
+      </div>
+    </section>
+  
+    
+    
+    <section class="boite">
+      <h3 class="titreBoite">
+        
+          <span >Inventaires associés</span>&nbsp;(1)
+        
+      </h3>
+      <div class="contenuBoite">
+        
+          
+          
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+
+
+
+
+
+
+
+
+<ul>
+  
+    <li>
+      
+        
+          <a onclick="envoyerSuiviClics(decodeURIComponent(escape('Fiche d\'Ã©lÃ©ment ')), decodeURIComponent(escape('Ouvrir fiche d\'inventaire')), $(this).text().trim());" href="detailInventaire.do?methode=consulter&id=453&type=inv">
+          <span>Inventaire du patrimoine bâti de l'île d'Orléans&nbsp;(2013)</span>
+          </a>
+        
+        
+      
+      
+
+      
+    </li>
+  
+</ul>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+        
+           
+      </div>
+    </section>
+  
+
+
+    
+        </div>
+        <div class="colRight">
+          
+
+
+
+
+
+
+
+
+  <section class="onglets" id="onglets">
+  
+    
+    
+      
+
+      
+        
+          
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletImage" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Images</span>">
+
+        
+          <div class="visionneuse">
+          <h2 class="titreContenuOnglet"><span  class="font2">Images</span></h2>
+            <div class="roulette">
+              <ul>
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset" class="galleryImage"
+           href="document/rpcq_bien_92475_354789.JPG?id=354789" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_354789.JPG?id=354789" 
+           data-grandformat="document/rpcq_bien_92475_354789.JPG?id=354789" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Julien Renaud-Belleville, 2022-06-21" 
+           data-description="" 
+           data-annee="2022" 
+           data-auteur="Julien Renaud-Belleville" 
+           data-id="354789" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="354789"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset" src="document/rpcq_bien_92475_354789.JPG?id=354789&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset. Vue d&#039;angle" class="galleryImage"
+           href="document/rpcq_bien_92475_354698.JPG?id=354698" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_354698.JPG?id=354698" 
+           data-grandformat="document/rpcq_bien_92475_354698.JPG?id=354698" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Julien Renaud-Belleville, 2022-06-21" 
+           data-description="vue d'angle des fa&ccedil;ades arri&egrave;re et droite" 
+           data-annee="2022" 
+           data-auteur="Julien Renaud-Belleville" 
+           data-id="354698" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="354698"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset. Vue d&#039;angle" src="document/rpcq_bien_92475_354698.JPG?id=354698&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset. Vue avant" class="galleryImage"
+           href="document/rpcq_bien_92475_362621.JPG?id=362621" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_362621.JPG?id=362621" 
+           data-grandformat="document/rpcq_bien_92475_362621.JPG?id=362621" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Julien Renaud-Belleville, 2022-06-21" 
+           data-description="" 
+           data-annee="2022" 
+           data-auteur="Julien Renaud-Belleville" 
+           data-id="362621" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="362621"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset. Vue avant" src="document/rpcq_bien_92475_362621.JPG?id=362621&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset. Vue arrière" class="galleryImage"
+           href="document/rpcq_bien_92475_354700.JPG?id=354700" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_354700.JPG?id=354700" 
+           data-grandformat="document/rpcq_bien_92475_354700.JPG?id=354700" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Julien Renaud-Belleville, 2022-06-21" 
+           data-description="vue arri&egrave;re de la maison Morisset" 
+           data-annee="2022" 
+           data-auteur="Julien Renaud-Belleville" 
+           data-id="354700" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="354700"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset. Vue arrière" src="document/rpcq_bien_92475_354700.JPG?id=354700&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset" class="galleryImage"
+           href="document/rpcq_bien_92475_212749.JPG?id=212749" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_212749.JPG?id=212749" 
+           data-grandformat="document/rpcq_bien_92475_212749.JPG?id=212749" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="MRC de l'Île d'Orléans" 
+           data-liendetenteur="" 
+           data-copyright="Patri-Arch, 2013" 
+           data-description="" 
+           data-annee="2013" 
+           data-auteur="Patri-Arch" 
+           data-id="212749" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="212749"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset" src="document/rpcq_bien_92475_212749.JPG?id=212749&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset. Vue aérienne" class="galleryImage"
+           href="document/rpcq_bien_92475_9007.JPG?id=9007" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_9007.JPG?id=9007" 
+           data-grandformat="document/rpcq_bien_92475_9007.JPG?id=9007" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Pierre Lahoud" 
+           data-liendetenteur="" 
+           data-copyright="2004" 
+           data-description="" 
+           data-annee="2004" 
+           data-auteur="" 
+           data-id="9007" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="9007"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset. Vue aérienne" src="document/rpcq_bien_92475_9007.JPG?id=9007&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+                  
+                  
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+  
+    
+    
+    <li><a data-titre="Maison Morisset. Vue latérale" class="galleryImage"
+           href="document/rpcq_bien_92475_354699.JPG?id=354699" 
+           data-accessibilite="" 
+           data-type="image" 
+           data-presentation="document/rpcq_bien_92475_354699.JPG?id=354699" 
+           data-grandformat="document/rpcq_bien_92475_354699.JPG?id=354699" 
+           data-licence="©" 
+           data-lienlicence="" 
+           data-detenteur="Ministère de la Culture et des Communications" 
+           data-liendetenteur="" 
+           data-copyright="Julien Renaud-Belleville, 2022-06-21" 
+           data-description="vue de la fa&ccedil;ade droite de la maison Morisset" 
+           data-annee="2022" 
+           data-auteur="Julien Renaud-Belleville" 
+           data-id="354699" 
+           data-transcription=""
+           data-multiples="false"
+           data-class-fancybox="354699"
+           data-tooltip="<span >Afficher la transcription</span>"
+           data-tooltip-multiples="<span >Afficher le contenu</span>"
+           data-flagtousdroitsreserves ="true">
+           <img alt="Maison Morisset. Vue latérale" src="document/rpcq_bien_92475_354699.JPG?id=354699&streamid=vignette">
+        </a>
+        
+        
+           
+    </li>
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+                
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+      </div>
+    
+    
+  
+    
+      
+
+      
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      <script> </script>
+
+      
+      <div class="contenuOnglet contenuOngletCarte" data-categorie="Fiche d'élément" data-action="Ouvrir onglet" data-libelle="<span >Carte</span>">
+
+        
+        
+          <h2 class="titreContenuOnglet"><span >Carte</span></h2>
+          
+            
+            
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+<div id="CartePoints" style="width: 585px; height: 350px">
+</div>
+
+<script type="text/javascript">
+        
+        
+        var ongletChargee = false;
+        var mymap = null;
+        var bounds = null
+        function chargerCarte() {  
+            if(!ongletChargee) {
+                ongletChargee = true;
+                
+                mymap = L.map('CartePoints').setView([46.89022222, -71.14447222], 15);
+                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+                    maxZoom: 18,
+                    id: 'mapbox/streets-v11',
+                    tileSize: 512,
+                    zoomOffset: -1,
+                    accessToken: 'pk.REDACTED-MAPBOX-TOKEN'
+                }).addTo(mymap);
+             
+        // Avec une seule coordonnee, on ne marque qu'un marker
+        
+            var locations = [];
+            
+              var marker =[ 46.99460805, -70.92567888];
+              L.marker(marker).addTo(mymap);
+              locations.push(marker);
+            
+              mymap.fitBounds(locations);
+              mymap.setZoom(15);
+        
+        // Avec plusieurs coordonnees, on crÃ©er un polygone
+        
+        }
+    }
+    /** Cette fonction sert recentrer la carte sur le marker avec un zoom automatique */
+    function resizeGoogleMap() {
+      map.fitBounds(bounds);
+  
+      
+      map.setZoom(15);
+      
+      
+      return false;
+    }
+            
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+          
+        
+        
+      </div>
+    
+    
+  
+    
+    
+    
+    
+        
+        
+        
+        
+    
+  </section>
+
+
+  
+          
+
+
+
+
+
+
+  
+  
+  
+    <div class="spacer accordeon" data-ouvert="2" data-hidebutton="1"/>
+  
+  
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Description</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>La maison Morisset est une ancienne maison de ferme d'esprit français construite avant 1699 et agrandie avant 1727. Cette habitation de pierre allongée et basse, peu dégagée du sol, est coiffée d'un toit aigu à deux versants, retroussé sur un côté. La demeure est située dans la municipalité de Sainte-Famille.<br/><br/>Ce bien est classé immeuble patrimonial. La protection s'applique à l'extérieur et à l'intérieur de l'immeuble, ainsi qu'au terrain. <br/><br/>La maison Morisset est comprise dans le site patrimonial de l'Île-d'Orléans.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  
+    <h3 class="label"><span >Plan au sol</span>&nbsp;:</h3>
+    <p>Rectangulaire</p>
+  
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  
+    <h3 class="label"><span >Nombre d'étages</span>&nbsp;:</h3>
+    <p>1 ½</p>
+  
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  
+    <h3 class="label"><span >Groupement</span>&nbsp;:</h3>
+    <p>Détaché</p>
+  
+</div>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Structure</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Maçonnerie en pierre
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Saillies</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Cheminée
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Toit</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Forme : À deux versants droits retroussés<br/>Matériau : Bois, bardeaux
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Porte principale</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        bois, à panneaux
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Fenêtre(s)</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Rectangulaire, À battants, à petits carreaux
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Lucarne(s)</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        À pignon
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Éléments architecturaux</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Chambranle
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Statuts</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+<table>
+  <colgroup>
+    <col width="20%"/>
+    <col width="32%"/>
+    <col width="31%"/>
+    <col width="17%"/>
+  </colgroup>
+  <thead>
+    <tr>
+      <th><span >Statut</span></th>
+      <th><span >Catégorie</span></th>
+      <th><span >Autorité</span></th>
+      <th><span >Date</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <th>Classement</th>
+      <td>Immeuble patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Ministre de la Culture et des Communications
+          
+        
+      </td>
+      <td>
+        1962-06-07
+        
+      </td>
+    </tr>
+    
+      <tr>
+        <td colspan="4" class="anterieur">
+          <div class="miniTirroir">
+            <h4 class="titreMiniTirroir" tabindex="0"><span >Catégories de conservation</span></h4>
+            <div class="contenuMiniTirroir">
+              <ul>
+                
+                    <li>1 - Extérieur exceptionnel</li>
+                
+                    <li>4 - Intérieur exceptionnel</li>
+                
+                    <li>9 - Terrain notable</li>
+                
+                    <li>12 - Potentiel archéologique significatif</li>
+                
+              </ul>
+            </div>
+          </div>
+        </td>
+      </tr>
+     
+        
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+    
+    <tr>
+      <th>Déclaration</th>
+      <td>Situé dans un site patrimonial</td>
+      <td>
+        
+          
+          
+          
+          
+            Gouvernement du Québec
+          
+        
+      </td>
+      <td>
+        
+        
+      </td>
+    </tr>
+     
+        
+    
+    <tr class="separateur_status"><td colspan="4"><span>&nbsp;</span></td></tr>
+        
+  </tbody>
+</table>
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Valeur patrimoniale</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>La maison Morisset présente un intérêt patrimonial pour sa valeur architecturale. La demeure est représentative de la maison de ferme d'esprit français. Ce type d'habitation est caractérisé, entre autres, par un carré bas et peu dégagé du sol, un toit aigu à deux versants, des ouvertures disposées asymétriquement et des fenêtres à petits carreaux. La cheminée centrale constitue un élément présent dans de nombreuses demeures anciennes de la région de Québec et des régions avoisinantes. La maison Morisset a été construite en deux étapes, comme c'est souvent le cas. Les poutres du plafond de la partie plus ancienne sont équarries à la hache et demeurent apparentes, tandis que les plafonds de la partie plus récente sont à caissons. Cette maison conserve plusieurs de ses planchers de bois d'origine. Par ailleurs, elle se distingue par ses murs pignons entièrement en pierre. Ainsi, la maison Morisset témoigne, d'une part, du savoir et du savoir-faire des maçons et charpentiers de la Nouvelle-France et, d'autre part, de modifications couramment apportées aux habitations rurales remontant à cette époque.<br/><br/>La maison Morisset présente aussi un intérêt patrimonial pour sa valeur ethnologique. La demeure a conservé, en effet, certains éléments qui contribuent à retracer les modes de vie aux XVIIe et XVIIIe siècles, notamment un escalier de meunier (sans contremarches et dont l'inclinaison est presque verticale) donnant accès aux combles, des armoires encastrées, un âtre comprenant un four à pain ainsi que deux potences, l'une en fer forgé et l'autre en bois. La petite fenêtre à l'est du mur nord indiquerait l'emplacement d'une ancienne laiterie intérieure. L'âtre est conçu à la fois pour chauffer la maisonnée et pour la cuisson des aliments. Le four à pain, dont l'ouverture est percée dans l'une des parois latérales du foyer, est assez vaste pour cuire une vingtaine de miches à la fois. Il donnait ainsi la possibilité de faire une seule fournée par semaine. La potence fixe en fer, reliée à la paroi de la cheminée, servait à suspendre les chaudrons directement au-dessus du feu; celle à pivot en bois, aussi appelée brimbale, permettait de les garder au chaud près du feu et de les retirer plus facilement. Tous ces éléments témoignent donc de pratiques courantes de la vie rurale d'autrefois, aujourd'hui tombées en désuétude.<br/><br/>La maison Morisset présente en outre un intérêt patrimonial pour sa valeur historique. L'habitation témoigne de l'établissement des premiers colons à l'île d'Orléans. L'île est concédée en seigneurie en 1636 et accueille ses premiers colons dès 1648. Selon toute vraisemblance, la première partie de la maison aurait été construite avant 1699 par Jean Morisset (1641-1699), puis agrandie avant 1727 par son fils Jeancien (1687-1727). La demeure appartient à la famille Morisset jusqu'en 1758, moment où Joseph Beaucher dit Morency (1734-1803) en prend possession. Des membres de la famille Morency en sont ensuite propriétaires durant près de deux cents ans.<br/><br/>Source : Ministère de la Culture et des Communications du Québec, 2006.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Éléments caractéristiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>Les caractéristiques de la maison Morisset liées à ses valeurs architecturale et historique comprennent, notamment :<br/>- sa situation en milieu rural, loin de la voie publique;<br/>- l'orientation de la façade principale vers le sud; <br/>- le volume de la maison, dont le plan rectangulaire allongé, le carré bas et peu dégagé du sol, l'élévation d'un étage et demi ainsi que le toit aigu à deux versants, l'un étant légèrement retroussé;<br/>- les matériaux, dont la maçonnerie de pierre incluant celle des pignons, la cheminée centrale en pierre, la couverture en bardeaux de cèdre et les chambranles en bois;<br/>- les ouvertures, dont leur petit nombre et leur disposition asymétrique, les fenêtres à battants et à 24 petits carreaux, les trois lucarnes de la façade avant, la lucarne de la façade arrière, la petite fenêtre à quatre carreaux du pignon ouest et celle à l'est du mur nord;<br/>- les éléments de la charpente du toit, dont les croix de Saint-André visibles dans les combles;<br/>- les éléments intérieurs, dont les planchers en bois, les poutres en bois équarries à la hache (apparentes au plafond de la partie plus ancienne) ainsi que le plafond à caissons de la partie plus récente;<br/>- l'âtre comportant un four à pain, une potence en bois et une potence en fer;<br/>- l'escalier de meunier et les armoires encastrées.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Informations historiques</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+    
+
+
+
+<p>La maison Morisset figure parmi les plus anciennes demeures qui subsistent à l'île d'Orléans. Concédée en seigneurie en 1636, l'île accueille ses premiers colons dès 1648. Parmi ceux-ci se trouve Jean Morisset (1641-1699), qui acquiert une terre à Sainte-Famille en 1666. C'est là qu'il construit, avant 1699, la maison qui porte aujourd'hui son nom.<br/><br/>Jean Morisset et son épouse s'installent donc dans cette maison vers la fin du XVIIe siècle et y élèvent leurs quatorze enfants. L'un d'eux, Jeancien (1687-1727), prend possession de l'ensemble des propriétés de son père après la mort de ce dernier, en 1699, en rachetant les parts d'héritage de ses frères et soeurs sur une longue période. Il aurait ensuite agrandi la maison afin d'aménager une chambre pour sa mère. L'inventaire après décès, réalisé à la suite de la mort de Jeancien en 1727, indique en effet qu'elle comporte deux parties, l'une de 21 pieds sur 18 pieds et l'autre de 15 pieds sur 18 pieds, mesures françaises.<br/><br/>La maison demeure la propriété des Morisset jusqu'en 1758. Joseph Beaucher dit Morency (1734-1803) l'acquiert alors, et ses descendants l'habiteront durant plus de 200 ans. <br/><br/>En 1962, la peintre Suzanne Howard et son conjoint Jean-Antoine Demers achètent la demeure et la restaurent.<br/> <br/>La maison Morisset est classée avec son terrain, circonstances et dépendances en 1962.</p>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Emplacement</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Region administrative</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Capitale-Nationale
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >MRC</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        L'Île-d'Orléans
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Municipalité</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        Sainte-Famille
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Adresse</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        2831, chemin Royal
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Latitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        46° 59' 40.589"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Longitude</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+        -70° 55' 32.444"
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+    
+
+
+
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Désignation cadastrale</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>
+        
+          <span >Lot</span> 
+        
+        6 185 894 Ptie
+      </li>
+    
+  </ul>
+</div>
+<!--
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Rï¿½fï¿½rences multimï¿½dias&nbsp;:</h3>
+	<ul>
+		<li>il y a 3 vidï¿½os dans cette page.</li>
+		<li>il y a 3 audios dans cette page.</li>
+	</ul>
+</div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+        <section class="boite">
+          
+            
+            
+              <h2 class="titreBoite"><span >Références</span></h2>
+            
+          
+          <div class="contenuBoite">
+            
+              
+              
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+
+
+
+<div class="fauxTableau">
+  <h3 class="label"><span >Notices bibliographiques</span>&nbsp;:</h3>
+  <ul>
+    
+      <li>BERGERON, Michel. « Maison Morency-Demers ». Commission des biens culturels du Québec. <I>Les chemins de la mémoire. Monuments et sites historiques du Québec. Tome I</I>. Québec, Les Publications du Québec, 1990, p. 270.</li>
+      
+    
+      <li>Commission des biens culturels du Québec. <I>Répertoire des motifs des biens classés et reconnus (document interne)</I>. Québec, 2003. s.p.</li>
+      
+    
+      <li>DÉCARIE-AUDET, Louise, Nicole GENÊT et Luce VERMETTE. <I>Les objets familiers de nos ancêtres</I>. Montréal, Les Éditions de l'Homme, 1974. 304 p.</li>
+      
+    
+      <li>LAFRAMBOISE, Yves. <I>Belles maisons québécoises</I>. Montréal, Les Éditions de L'Homme, 2007. 191 p.</li>
+      
+    
+      <li>LAVALLÉE, Denis et René PRONOVOST. <I>La Maison Morisset : La Brimbale : monographie</I>. Sainte-Famille, 2007. 36 p.</li>
+      
+    
+      <li>LESSARD, Michel. <I>L'île d'Orléans : aux sources du peuple québécois et de l'Amérique française</I>. Montréal, Éditions de l'Homme, 1998. 415 p.</li>
+      
+    
+  </ul>
+</div>
+
+  
+<div class="fauxTableau referenceCaches">
+    <h3 class="label">Multim&eacute;dias disponibles en ligne&nbsp;:</h3>
+	<ul>
+		<li class="nombreImage"></li>
+		<li class="nombreVideo"></li>
+    <li class="nombreAudio"></li>
+	</ul>
+</div>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+            
+            
+            <p class="toRight"><a href="#"><span >Haut de la page</span></a></p>
+          </div>
+        </section>
+      
+  </div>
+
+        </div>
+      </div>
+      
+    </article>
+  </div>	
+</div>
+
+        
+<div class="footer">
+<ul><li class="premier"><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=plan">Plan du site</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=joindre">Nous joindre</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=credits">Crédits</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" href="redirection.do?go=copyright">Droits d'auteur</a></li>
+<li><a onclick="envoyerSuiviClics('Bas de page', 'Ouvrir lien', this.innerHTML);" class="last" href="redirection.do?go=accessibilite">Accessibilité</a></li>
+</ul>
+</div>
+
+    </div>
+    
+
+    
+   
+  
+
+
+<script type="text/javascript" src="script/jquery-1.8.3.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/rpcq.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery.cookie.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_ajax.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_fenetre.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/fancybox2/jquery.fancybox-1.3.4.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/sofi_menu.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/html5shiv-printshiv.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/video-js/video.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/three.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-panorama.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/image_panoramique/pannellum.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/videos/videojs-pannellum-plugin.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+
+<script type="text/javascript" src="script/mediaelement/mediaelement-and-player.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/jquery/jquery-ui-1.9.0.custom.min.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="script/buttons.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+<script type="text/javascript" src="script/detail/detail.js?dateDeploiement=2026-04-22 09:13">
+</script>
+
+
+<script type="text/javascript">stLight.options({publisher: "59b5f824-9561-43e8-bf21-d9e1c6e776b0"}); $(window).bind('load',function(e){
+    $('#btnPartage').addClass('actif')
+    $('#partage .stButton')
+      .attr({
+        'tabindex':'0',
+        'role':'button'
+      })
+      .bind('keydown',function(e){
+        if(e.type == 'keydown' && (e.keyCode == 13 || e.keyCode == 32)){
+          $(this).trigger('click');
+        }
+      });
+    $('#partage .stButton').each(function(i,el){
+      el = $(el);
+      label = el.parent().attr('displaytext');
+      el.children('span').html($('<span class="visuallyhidden">'+label+'</span>'));
+    })
+})</script>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, "ui_click":true, "ui_language":'fr', "ui_offset_top":5, "ui_offset_left":-10, "services_compact":"facebook, twitter, linkedin,delicious, google_plusone_share, pinterest"};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-507824d31b0a0b4a"></script>
+<!-- AddThis Button END -->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+ 
+  <div id="piv_bas">
+  <a href="https://www.quebec.ca/"><img src="images/quebw1.gif" alt="Gouvernement du Qu&eacute;bec" width="105" height="32" /></a>
+  <p>
+    <a href="http://www.droitauteur.gouv.qc.ca/copyright.php" title="Droits de propri&eacute;t&eacute; intellectuelle">
+    &copy; Gouvernement du Qu&eacute;bec,&nbsp;2024
+    </a>
+  </p> 
+</div>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1914105544" async></script></body>
+</html>

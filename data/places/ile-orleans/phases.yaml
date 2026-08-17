@@ -1,0 +1,9 @@
+# Anchors are in prose.md under ## phase:pN. Dates from the RPCQ fiche 93521 (Informations
+# historiques) unless noted; the 1935 bridge and the 1970 declaration are in both the RPCQ and
+# the plan de conservation.
+- {id: p1, label: 1636–1760, start: 1636, end: 1760, title_en: Seigneurie and the six parishes, colour_key: p1}
+- {id: p2, label: 1760–1840, start: 1760, end: 1840, title_en: After the Conquest — the neoclassical Québec house, colour_key: p2}
+- {id: p3, label: 1840–1900, start: 1840, end: 1900, title_en: Chemin Royal, the mansard, and villégiature at Sainte-Pétronille, colour_key: p3}
+- {id: p4, label: 1900–1935, start: 1900, end: 1935, title_en: Catalogue types — vernaculaire américain, cubique, Boomtown, Arts and Crafts, colour_key: p4}
+- {id: p5, label: 1935–1970, start: 1935, end: 1970, title_en: The bridge, régionalisme and modernisme, colour_key: p5}
+- {id: p6, label: 1970–2026, start: 1970, end: 2026, title_en: The declared site, colour_key: p6}
