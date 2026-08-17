@@ -1,0 +1,56 @@
+- id: sadb-evaluation-2005
+  citation: "Ville de Montréal, Évaluation du patrimoine urbain : arrondissement de L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue, Service de la mise en valeur du territoire et du patrimoine, Direction du développement urbain, Division du patrimoine et de la toponymie, 2005 (ISBN 2-7647-0444-5). Work carried out January 2003 – May 2004 for the Plan d'urbanisme adopted by the conseil municipal on 23 November 2004. Project team for the built-heritage evaluation and historical research: Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre and Pierre-Paul Savignac, architects, and Denise Caron, historian."
+  url: "http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/13_evaluation_patrimoine_lile.pdf"
+  used_for: [sectors, types, phases, prose]
+- id: sadb-rpcq-92666
+  citation: "RPCQ, Maison Simon-Fraser (id 92666), a.k.a. maison Thomas-Moore; 153, rue Sainte-Anne; construction après 1790 – avant 1810, agrandissement vers 1850 – vers 1890, réaménagement intérieur 1892–1893, restauration 1962; classée immeuble patrimonial par le ministre 1962-01-24. Source : Ministère de la Culture et des Communications du Québec, 2004."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=92666"
+  used_for: [instruments, types, prose]
+- id: sadb-rpcq-200694
+  citation: "RPCQ, Maison Michel-Robillard (id 200694), a.k.a. Braerob Farm; 20345, chemin Sainte-Marie; construction vers 1797, incendies 1940 et 2012; citée immeuble patrimonial par la Municipalité de Sainte-Anne-de-Bellevue 2014-07-14, avis de motion de citation 2014-05-12. The valeur patrimoniale and éléments caractéristiques blocks reproduce the town's by-law text in quotation marks. Source : Municipalité de Sainte-Anne-de-Bellevue, 2014."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=200694"
+  used_for: [instruments, types, prose]
+- id: sadb-rpcq-179473
+  citation: "RPCQ, Église de Sainte-Anne-de-Bellevue (id 179473); 1, rue de l'Église; construction 1853–1859; constructeurs Félix Barbeau ( – après 1847) and John Lewis Forbes (1807–1856); statut « Inventorié — -- », from the Inventaire des lieux de culte du Québec (2003–2004), numéro 2003-06-094. An inventory entry, not a protection."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=179473"
+  used_for: [instruments, protection, prose]
+- id: sadb-rpcq-179475
+  citation: "RPCQ, Presbytère de Sainte-Anne-de-Bellevue (id 179475); 1, rue de l'Église; construction 1890– ; architecte Henri-Maurice Perrault (1828–1903); statut « Inventorié — -- », from the Inventaire des lieux de culte du Québec (2003–2004). An inventory entry, not a protection."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=179475"
+  used_for: [instruments, protection, prose]
+- id: sadb-rpcq-municipality-search
+  citation: "RPCQ, recherche « Patrimoine immobilier » filtered on municipalité officielle = Sainte-Anne-de-Bellevue, run 17 August 2026: eleven records — maison Michel-Robillard (200694), maison Simon-Fraser (92666), église de Sainte-Anne-de-Bellevue (179473), église Saint George's (179468), église Union Church-Sainte-Anne-de-Bellevue (179480), monument de la Sainte-Vierge (179477), monument de Saint-Joseph-à-l'Enfant-Jésus (179478), presbytère de Sainte-Anne-de-Bellevue (179475), presbytère Saint George's (179470) and two salles communautaires (179476, 179482). The same search restricted to catégorie de bien « Site patrimonial » returns « Aucun résultat », while the identical search on the whole Montréal administrative region returns forty site records, none of them here."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/rechercheImmobilier.do?methode=acceder"
+  used_for: [protection]
+- id: sadb-reglement-863
+  citation: "Ville de Sainte-Anne-de-Bellevue, Règlement 863 — Plan d'urbanisme. Avis de motion and adoption of the draft 2024-09-16; adoption 2024-11-11; the published PDF is watermarked « Pour consultation seulement » and its « Entrée en vigueur » line reads « XX ». Carte 7, « Secteurs d'intérêt patrimonial et archéologique », legend « Immeubles qui présentent une protection particulière en vertu de la Loi sur le patrimoine culturel : A Maison Simon-Fraser (classée en 1962) · B Maison Michel-Robillard (citée en 2014) »; carte dated 15 octobre 2024, marked PRÉLIMINAIRE."
+  url: "https://ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/R%C3%A8glements%20d'urbanisme/12%20nov/R863_PU_ADOPTE_site_web.pdf"
+  used_for: [protection, instruments, prose, sectors]
+- id: sadb-reglement-798
+  citation: "Ville de Sainte-Anne-de-Bellevue, Règlement 798 relatif aux plans d'implantation et d'intégration architecturale (PIIA), codification administrative V.07 du 2025-12-04; avis de motion 1er mai 2017, assemblée publique de consultation 25 mai 2017; regroups the earlier PIIA by-laws 651, 697, 698 and 699. Chapitre IV, « Objectifs et critères applicables au patrimoine bâti et archéologique », art. 19."
+  url: "https://ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/R%C3%A8glements/Urbanisme/2026/R798_PIIA_-_(ADM-7).pdf"
+  used_for: [instruments, protection]
+- id: sadb-reglements-liste
+  citation: "Ville de Sainte-Anne-de-Bellevue, « Règlements municipaux », the town's complete published by-law list, read 17 August 2026. It contains no by-law citing a site patrimonial and no heritage citation by-law of any kind; the heritage instruments in force are the PIIA (798), the demolition by-law (846), the plan d'urbanisme (863) and the zoning (874)."
+  url: "https://ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-municipaux2"
+  used_for: [protection, instruments]
+- id: sadb-visiter-village
+  citation: "Ville de Sainte-Anne-de-Bellevue, tourism site visiter.sadb.qc.ca, fiche « Village Patrimonial », listed as an activity at 109 rue Sainte-Anne: « Aux rues Sainte-Anne et de l'Église qui structurent le secteur, se greffent quelques rues résidentielles dotées d'une architecture villageoise représentative de la fin du 19e et du début du 20e siècle. » The page claims no legal status of any kind."
+  url: "https://visiter.sadb.qc.ca/fiches_partenaires/village-patrimonial/"
+  used_for: [prose, protection]
+- id: sadb-toponymie
+  citation: "Commission de toponymie du Québec, fiche « Sainte-Anne-de-Bellevue (Ville) », no de séquence 388472: parish of Saint-Louis-du-Bout-de-l'Île founded 1677, renamed Sainte-Anne-du-Bout-de-l'Île in 1714; post office 1835; municipality created 1845 as Bout-de-l'Isle; parish municipality abolished 1847, re-established 1855; renamed Sainte-Anne-de-Bellevue in 1878 (municipality) and 1879 (post office); village municipality created 1878 reaches ville status from 1895 and annexes the parish municipality in 1964; Baie-d'Urfé detached from Sainte-Anne-de-Bellevue in 1911; merged into the new ville de Montréal 1 January 2002, reconstituted 1 January 2006."
+  url: "https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=388472"
+  used_for: [phases, prose]
+- id: sadb-parcs-canada-canal
+  citation: "Parcs Canada, Lieu historique national du Canal-de-Sainte-Anne-de-Bellevue — « Plan directeur 2020 »: « Ouvert en 1843 à des fins commerciales, le canal de Sainte-Anne-de-Bellevue est une part importante du système »; « En 1987, la Commission des lieux et monuments historiques du Canada (CLMHC) recommande la désignation du canal »; the 2020 plan replaces the 2005 plan. Government of Canada news release, 16 December 2020, records the tabling of the plan in Parliament on that date."
+  url: "https://parcs.canada.ca/lhn-nhs/qc/annedebellevue/gestion-management/gestion-management/plan-2020"
+  used_for: [instruments, phases, prose]
+- id: sadb-commons
+  citation: "Wikimedia Commons, files from the Parcours riverain – Ville de Montréal Flickr stream (flickr user 93016341@N07), photographs by Anne-Marie Dufour and Denis Tremblay of the Ville de Montréal. Licence CC BY 2.0; the Commons FlickreviewR 2 licence review is recorded as passed on each file page (review date 2024-04-30 for the files used here). Verified through the Commons API on 17 August 2026 and each file opened and inspected before publication."
+  url: "https://commons.wikimedia.org/wiki/Category:Files_from_Parcours_riverain_-_Ville_de_Montr%C3%A9al_Flickr_stream"
+  used_for: [photos]
+- id: sadb-grand-repertoire
+  citation: "Ville de Montréal, Grand répertoire du patrimoine bâti de Montréal, fiche de zone 1225 (the village core). NOT RETRIEVED: the Ville's heritage databases — the Grand répertoire, Le patrimoine du Vieux-Montréal en détail and the Inventaire des propriétés municipales d'intérêt patrimonial — were offline at the time of the crawl, the Ville's page stating that access « sera à nouveau disponible dans le courant de l'année 2026 »."
+  url: "http://patrimoine.ville.montreal.qc.ca/inventaire/fiche_zone.php?id=1225"
+  used_for: [unretrieved]

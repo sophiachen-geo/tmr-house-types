@@ -1,0 +1,63 @@
+id: sainte-anne-de-bellevue.maison-ouvriere-garden-city-press
+place: sainte-anne-de-bellevue
+phase: p3
+phase_confidence: verified
+name_en: Garden City Press workers' house
+name_fr: La maison ouvrière de l'ensemble Garden City Press
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue
+  (2005), ensemble urbain 1.U.1 and historique p. 21
+source_generation: sector fiche (2005)
+sectors:
+- 1.U.1
+canonical: []
+styles: []
+style_label: null
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built near the printing works, on streets, parks and urban infrastructure laid out in the same year, with
+    gardens between them.
+  massing: []
+  articulation: []
+  openings: []
+  materials: []
+profile_note: 'The cahier grades the ensemble and not the houses. Its fiche describes the works, the former
+  gardens and « les ensembles résidentiels » as one demonstration of J.-J. Harpell''s thinking, and says nothing
+  whatever about the dwellings'' storey count, plan, roof, cladding or openings; its historique adds only that
+  twenty-five were built in 1918 for the workers. The single-family reading of tenure follows the historique''s
+  own statement of purpose — « Harpell veut aider ses employés à acquérir une propriété » — and is the only
+  attribute here that is not stated outright. This record exists so that a garden-city workers'' quarter of 1918
+  on the island of Montréal is not silently omitted for want of a fiche; the description belongs to a later part.'
+blurb_en: 'Twenty-five houses built in 1918 for the workers of the Garden City Press, on streets, parks and
+  services laid out at the same time — a garden-city quarter on Ebenezer Howard''s model at the far end of the
+  island of Montréal, graded an ensemble urbain d''intérêt in 2005. What the houses look like is not recorded in
+  any source this project has read, and nothing is invented here to fill the gap.'
+origin_en: J.-J. Harpell brought the Garden City Press to Sainte-Anne-de-Bellevue in 1918, a printer of school
+  textbooks and educational material for workers, choosing the site for the two railways that crossed it and
+  allowed fast shipping across Canada. He was influenced by the theories of the Briton Ebenezer Howard, who
+  proposed garden cities as the cure for urban insalubrity; in that spirit he set out to help his employees buy
+  their own homes and paid attention to the land around the plant. In 1918 streets, parks and urban
+  infrastructure were laid out and twenty-five houses built near the printing works. During the Depression he
+  hired unemployed men to plant trees and commissioned Frederick Todd to make a luxurious Japanese garden with a
+  pond facing the works, of which nothing survives today. In 1945 he transferred control of the firm to a
+  workers' cooperative.
+photos:
+- file: null
+  credit: 'pending: photograph on site — avenue Garden City and rue du Pacifique (sector 1.U.1). The Commons
+    holdings for this ensemble cover the printing works itself (Ancienne imprimerie Harpell, 1 rue du Pacifique)
+    and the Harpell gardens, but not the houses, and a photograph of the factory would misrepresent a housing
+    record.'
+  kind: placeholder
+display_order: 2

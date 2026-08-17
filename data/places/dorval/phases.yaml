@@ -1,0 +1,30 @@
+- id: p1
+  label: 1663–1760
+  start: 1663
+  end: 1760
+  title_en: Seigneurial côte and the Sulpician mission
+  colour_key: p1
+- id: p2
+  label: 1760–1855
+  start: 1760
+  end: 1855
+  title_en: A farming shore on one road
+  colour_key: p2
+- id: p3
+  label: 1855–1941
+  start: 1855
+  end: 1941
+  title_en: The railway, the villégiature and the village
+  colour_key: p3
+- id: p4
+  label: 1941–2002
+  start: 1941
+  end: 2002
+  title_en: The airport and the bungalow suburb
+  colour_key: p4
+- id: p5
+  label: 2002–2026
+  start: 2002
+  end: 2026
+  title_en: Borough, demerger, and design review instead of protection
+  colour_key: p5

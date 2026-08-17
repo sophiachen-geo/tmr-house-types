@@ -1,0 +1,129 @@
+id: dorval
+name_en: Dorval
+name_fr: Cité de Dorval
+sections: [historic-core]
+region: Agglomération de Montréal (ouest de l'île)
+founded: 1667                     # Sulpician mission on the shore, first named Gentilly
+settlement_mode: >-
+  a seigneurial côte lotted perpendicular to lac Saint-Louis and strung along one founding road,
+  the chemin du Bord-du-Lac; a village that grew at the Martin/Bord-du-Lac crossroads; a
+  villégiature shore of chalets and villas after the railway of 1855; and, after the airport of
+  1941, a bungalow suburb laid over the farm lots
+# The 2005 Évaluation cahier codes this territory 7 and files it as 07 — a rare case in the
+# twenty-seven-cahier series where the printed code and the filename agree. The 2016 Plan
+# d'urbanisme patrimoine map has not been checked for Dorval, which by then was no longer a
+# Montréal borough at all, so code_2016 stays null rather than being assumed.
+evaluation_codes: {code_2005: 7, code_2016: null, file_prefix: "07"}
+protection: none-at-ensemble-scale
+governing_instruments:
+  - kind: evaluation-cahier
+    title: >-
+      Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Dorval–L'Île-Dorval
+      (2005, ISBN 2-7647-0450-X). Prepared by the Division du patrimoine et de la toponymie under
+      Jean-François Gravel, work carried out January 2003 – May 2004 for the Plan d'urbanisme
+      adopted by the conseil municipal on 23 November 2004; team for the built evaluation and
+      historical research Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine,
+      Christiane Lefebvre and Pierre-Paul Savignac, architects, with the historian Denise Caron.
+      It designates six secteurs de valeur patrimoniale exceptionnelle (7.E.1–7.E.6), five secteurs
+      de valeur patrimoniale intéressante (7.I.1–7.I.5), eight ensembles urbains d'intérêt
+      (7.U.1–7.U.8), three secteurs d'intérêt archéologique à fort potentiel (7.AP.1–7.AP.3) and
+      two secteurs d'intérêt archéologique (7.A.1–7.A.2), and lists the immeubles of exceptional
+      and interesting value by address. It is a characterisation study, not a protective
+      instrument, and it is the source of every sector row below.
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/07_evaluation_patrimoine_dorval.pdf
+  - kind: PIIA
+    title: >-
+      Cité de Dorval, Règlement sur les plans d'implantation et d'intégration architecturale (PIIA)
+      RCM-60I-2024, December 2024, administrative codification amended by RCM-60A-22 on
+      16 December 2025 — the successor to RCM-60C-2015. Chapter 03, sub-chapter "Bâtiments
+      d'intérêt patrimonial", article 59, lists thirty-two immeubles by address as "identifiés
+      comme étant patrimoniaux en raison de leur qualité architecturale ou historique, ou de la
+      qualité exceptionnelle du site sur lequel ils sont implantés", and articles 57–58 set out
+      which works on those lots are and are not reviewable. This is design review over named
+      buildings; it confers no status under the Loi sur le patrimoine culturel.
+    year: 2024
+    url: https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/rcm-60i-2024-piia-cod-a-jour-au-2025-12-16-fr-reduit.pdf
+  - kind: demolition
+    title: "Cité de Dorval, Règlement RCM-97-2023 concernant la démolition d'immeubles"
+    year: 2023
+    url: https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/reglement-rcm-97-2023-demolition-immeubles-final-fr.pdf
+  - kind: heritage-study
+    title: >-
+      LEMAYMICHAUD + Réal Paul architecte inc., « Expertise historique et étude patrimoniale —
+      12, avenue Dahlia, Dorval » (offre de service OSM-1297-2405-01), commissioned by the Cité de
+      Dorval for the Quatre-Vents property of 1803. Its section « Analyse du cadre légal de
+      protection » is the plainest statement of Dorval's position: « Au niveau fédéral, il n'existe
+      aucune reconnaissance pour le 12, avenue Dahlia »; provincially the property's three related
+      records are inventoriés only, and the study restates that « un bâtiment inventorié ne relève
+      pas de l'autorité du Gouvernement du Québec ni du ministère de la Culture et des
+      Communications »; municipally it appears only in the 2005 cahier and in the PIIA list.
+    year: 2024
+    url: https://www.ville.dorval.qc.ca/storage/app/media/actualites/2025/20240815_lm_rpa_12_ave_dahlia_etude_patrimoniale_finale-fr.pdf
+  - kind: none-at-ensemble-scale
+    title: >-
+      No ensemble-scale protection, and none at building scale either. A search of the RPCQ's
+      « Patrimoine protégé et valorisé » section — the part of the Répertoire that lists everything
+      carrying a statut under the Loi sur le patrimoine culturel — for "Dorval" returns
+      « Résultat de la recherche (0) »; the identical search for "Senneville" returns four, so the
+      query works and the zero is a real zero. No site patrimonial déclaré, no site patrimonial
+      cité, no classement, no citation. What Dorval has instead is a characterisation study (2005),
+      a design-review by-law over thirty-two named addresses (2024) and a demolition by-law (2023).
+      The 2005 cahier's own arrondissement-specific recommendation was that the Ville should still
+      « évaluer l'intérêt pan-montréalais des secteurs et des bâtiments d'intérêt patrimonial
+      exceptionnel en vue de procéder à la création de sites du patrimoine et à la citation de
+      bâtiments en vertu de la Loi sur les biens culturels du Québec », and it named eleven
+      candidates. Twenty-one years later none of them has been cited.
+    year: null
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/rechercheMotCle.do?methode=rechercher&motCle=Dorval&type=PROTVAL&reset=1
+typology_document:
+  title: >-
+    Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Dorval–L'Île-Dorval
+    (2005), sections 3.2.2 A–F
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    The cahier grades territory and lists buildings; it publishes no per-type table and no fiche
+    for any house type. Everything below that reads as a type therefore rests on sector paragraphs
+    and on the named addresses in the immeubles lists, and every column the cahier does not state
+    is null with a profile_note. Dorval carries no type record of its own: the forms the cahier
+    describes — the villégiature villa on the shore and the postwar bungalow behind it — are the
+    shared West Island records, and the village core's small houses are described by the cahier
+    only as « anciens chalets » and « petites maisons unifamiliales » without a single dimension.
+map_layer: null
+building_counts:
+  exceptional_immeubles_2005: 22
+  piia_listed_addresses_2024: 32
+  protected_under_lpc: 0
+  note: >-
+    Three counts of three different things, none of them a count of heritage buildings on the
+    ground. 22 is the number of entries in the 2005 cahier's list D, « Les immeubles de valeur
+    patrimoniale exceptionnelle » (17 habitations, 2 édifices de culte, 1 couvent, 1 immeuble
+    commercial, 1 golf club — the Royal Montreal Golf Club is counted once although it appears
+    under two headings). 32 is the number of addresses in article 59 of the 2024 PIIA, a partly
+    overlapping but differently drawn list that adds churches and a round cafeteria and drops
+    several of the cahier's houses. 0 is the number of Dorval elements carrying any statut under
+    the Loi sur le patrimoine culturel.
+hero_photo:
+  file: assets/places/dorval/1850-chemin-bord-du-lac-musee-dorval-commons.jpg
+  credit: >-
+    The Musée d'histoire et du patrimoine de Dorval, 1850 chemin du Bord-du-Lac — the former
+    stables of the Forest and Stream Club, « bâtiment construit en 1874 par Alfred S. Brown,
+    magasinier de la compagnie de chemin de fer Grand Tronc et directeur de la Banque de Montréal »
+    (Société des musées du Québec), restored and enlarged to hold the museum, which opened in 2002.
+    Grey cut stone, steep gables with carved bargeboards, pointed-arch openings and three gabled
+    dormers. Photograph « Parcours riverain — Ville de Montréal » (photo: Anne-Marie Dufour),
+    19 November 2010, CC BY 2.0. Licence https://creativecommons.org/licenses/by/2.0.
+    File: https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_Dorval,_1850,_chemin_du_Bord-du-Lac_(Dorval)_(8535036734).jpg
+summary_en: >-
+  A lakeshore côte where every layer is still legible along one road. The Sulpicians put a mission
+  on this shore in 1667 and called it Gentilly, then La Présentation de la Vierge Marie; Jean-
+  Baptiste Bouchard dit Dorval took the land in 1691 and left his name; farming held the territory
+  until the twentieth century. The Grand Trunk reached Dorval in 1855 and brought wealthy
+  anglophone Montrealers, who built chalets and villas along the water and founded a yacht club,
+  a golf club and the Forest and Stream Club. The village incorporated in 1892, became a town in
+  1903 and a city in 1956; the airport of 1941 turned the rest of the farmland into a bungalow
+  suburb and took the population from under 3,000 in the 1940s to more than 20,000 by 1971. Dorval
+  was a Montréal borough from 2002 and a reconstituted cité from 2006. Nothing here is protected
+  under the Loi sur le patrimoine culturel — not a building, not a sector — and the whole weight
+  of conservation rests on a design-review by-law over thirty-two addresses.

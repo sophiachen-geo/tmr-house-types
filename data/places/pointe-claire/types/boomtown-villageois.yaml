@@ -1,0 +1,126 @@
+id: pointe-claire.boomtown-villageois
+place: pointe-claire
+phase: p3
+phase_confidence: verified
+name_en: Village Boomtown house, two storeys, flat or low-pitch roof behind a crown
+name_fr: L'architecture Boomtown
+source_ref: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 03 — Architecture villageoise"
+source_generation: >-
+  Form-based code, chapter 3, transcribed verbatim: the style paragraph, the gabarit rule of the same
+  chapter, and the seven numbered notes on the facing page that apply across all the village styles.
+sectors: [UP1, UP2, UP4, UP5, UP6, UP8, UP10]
+canonical:
+  - boomtown-false-front
+  - flat-roof-house-false-mansard-2st
+styles:
+  - boomtown
+tenure_plan: mixed
+storeys: "2"
+roof: {form: flat-or-low-slope, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - brick
+  - wood-clapboard
+  - roughcast
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - "The dominant style of the village core and of both village entrances: the Code names it as the architectural style of units UP1, UP2, UP4, UP5, UP6, UP8 and UP10 — seven of the ten."
+    - "In UP1 and UP2 the setbacks are nil to narrow, front and side, and the coverage is about 50 %; in UP5 the front margin is « très faible » and the coverage about 40 %; in UP8 the front margin is deep and the coverage about 30 %. The same style, sited three different ways."
+  massing:
+    - Cubic volume, two storeys, flat roof or one of low pitch.
+    - "The Code's general gabarit rule for the two-storey case: a carré of two storeys, with a ground floor and a first floor that occupy the whole footprint, under a flat roof or one of at least two slopes whose pitch is under 9/12."
+  articulation:
+    - "A façade with few projections, apart from the gallery under its awning."
+    - "The ornament is confined to the crown: a moulded cornice, a parapet, or a pattern in the brick."
+    - "The Code adds that a bandeau or a crown is present on every heritage building in the village, whatever the style, and that this is what unifies the frontages."
+    - "Architectural details are generally sober; the principal ones are railings of simple vertical members and shutters matching the style of the building."
+  openings:
+    - "Vertical openings, regularly distributed — generally sash windows."
+  materials:
+    - "The Code's rule for the whole village: brick and darker colours are typical of the chemin du Bord-du-Lac, while the other sectors often have clapboard or roughcast in light colours."
+    - "Unit by unit: brick, wood clapboard and roughcast in earthy and dark tones in UP1 and UP2; roughcast, wood clapboard and marine tones in UP5; light colours and earthy tones in UP6; brick and wood clapboard in varied colours in UP10."
+profile_fr:
+  description:
+    - "L'architecture Boomtown, apparue au début du 20e siècle, est caractérisée par son volume cubique, ses deux étages et son toit plat ou à faible pente. Les ouvertures verticales sont distribuées de manière régulière (généralement des fenêtres à guillotine). On note une façade avec peu de saillies, à l'exception de la galerie couverte d'un auvent. L'ornementation se limite au couronnement par une corniche moulurée, un parapet ou un jeu de brique."
+  contexte:
+    - "Après l'incendie de 1900, deux styles principaux créent une certaine homogénéité."
+  volumetrie:
+    - "les bâtiments dont le carré fait deux étages de hauteur, comprenant un rez-de-chaussée et un premier étage qui occupent la totalité du périmètre d'implantation, avec un toit plat ou un toit à au moins deux versants dont la pente est inférieure à 9/12"
+  ornementation:
+    - "Un bandeau ou un couronnement est présent sur l'ensemble des bâtiments patrimoniaux. Malgré les styles différents, ce détail participe à unifier les façades et à préserver le cachet villageois."
+    - "La corniche moulurée, le parapet, la fausse mansarde ou le jeu de brique est présent sur les bâtiments à toit plat ou à faible pente."
+    - "Les détails architecturaux sont généralement sobres. Les principaux sont les garde-corps composés d'éléments verticaux simples et les volets de fenêtre s'apparentant au style du bâtiment."
+  ouvertures:
+    - "Les ouvertures sont dans l'ensemble des styles existants distribuées de manière régulière et à la verticale."
+  materiaux:
+    - "Les matériaux et coloris varient quelque peu. La brique et des couleurs plus foncées sont typiques du chemin Bord-du-Lac alors que les autres secteurs ont souvent des déclins ou du crépi de couleurs claires."
+variants:
+  - code: null
+    name_fr: Boomtown avec ornementations victoriennes
+    summary_fr: >-
+      The Code illustrates a fourth figure beside the three styles and captions it « Boomtown avec
+      ornementations victoriennes ». It gives no separate description, so nothing is transcribed for
+      it beyond the name; it is recorded because the Code prints it as a distinct thing.
+profile_note: >-
+  Everything in the French column is verbatim from by-law PC-2880: the style paragraph of chapter 3,
+  the two-storey clause of the same chapter's gabarit rule, and the numbered notes 1, 5, 6 and 7 on
+  the facing page, which the Code states for all village styles rather than for this one. The Code
+  gives no roof pitch in degrees — the 9/12 threshold in the gabarit rule is a maximum for the
+  two-storey case, not a measured pitch — no lot width, no setback in metres, no roofing material and
+  no rule about garages, so those cells are empty. Two cautions. First, this is a form-based code: its
+  statements are prescriptions for what should be built in the village as much as descriptions of what
+  stands there, and the per-unit rows in the siting and materials columns are drawn from the unités
+  paysagères tables, which are explicitly prescriptive. Second, the Code dates the style to "le début
+  du 20e siècle" and ties its arrival to the village fire, whose year it gives as 1900 twice and 1901
+  once; the phase is p3 on the 1900 reading.
+photos:
+  - file: assets/places/pointe-claire/avenue-cartier-commons.jpg
+    credit: >-
+      Avenue Cartier, Pointe-Claire — two-storey clapboard houses close on the street with two-level
+      galleries on turned posts and sawn brackets, regular vertical openings and low or flat roofs.
+      Photograph by Denis Tremblay for « Parcours riverain - Ville de Montréal », 18 October 2012, via
+      Wikimedia Commons, CC BY 2.0.
+      https://commons.wikimedia.org/wiki/File:Avenue_Cartier_(Pointe-Claire)_(8738646295).jpg
+    kind: single
+    licence: CC BY 2.0
+    source_url: https://commons.wikimedia.org/wiki/File:Avenue_Cartier_(Pointe-Claire)_(8738646295).jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form and on street. Avenue Cartier runs through units UP2 and UP10, both of which the
+      Code gives Boomtown as an architectural style; which end of the avenue the photograph shows is
+      not established, and no civic number or date is known for any building in it. The buildings
+      carry the type's stated attributes — two storeys, cubic volume, low or flat roof, regular
+      vertical openings, a covered gallery as the only real projection — but their galleries are more
+      emphatic than the Code's "peu de saillies" implies, which is worth seeing rather than
+      explaining away.
+  - file: null
+    credit: >-
+      Ville de Pointe-Claire, Code villageois PC-2880, chapitre 03, the figures captioned « Boomtown »
+      and « Boomtown avec ornementations victoriennes ». The by-law's own illustrations of the type.
+      © Ville de Pointe-Claire. Not reproduced — permission required.
+    kind: placeholder
+    licence: permission required
+    source_url: https://www.pointe-claire.ca/assets/images/Documents/PC-2880_Code-Villageois_2025-10-03-1.pdf
+blurb_en: >-
+  Two storeys in a cubic volume under a flat or barely sloping roof, regular vertical openings that
+  are usually sashes, a front kept free of projections except for the gallery under its awning, and
+  all the ornament gathered at the top in a moulded cornice, a parapet or a pattern laid in the brick.
+  It is the style the Code villageois names for seven of its ten landscape units, which makes it the
+  ordinary building of Pointe-Claire's village.
+origin_en: >-
+  The Code ties it to a rebuilding. The traditional Québec architecture of the oldest sectors, it
+  says, recalls the village as it was up to the fire; after the fire, two styles produce a certain
+  homogeneity, and the Boomtown, "apparue au début du 20e siècle", is the first of them. That is the
+  whole of the origin story the source gives, and it is worth noticing what kind of document gives it:
+  not an inventory, not a conservation plan, but a zoning by-law written on form-based principles,
+  which had to describe the village's architecture in order to prescribe more of it. The same form
+  under the same name is carded on this site at Charlesbourg, where a ministerial plan de conservation
+  files it as one of three sub-variants of the maison vernaculaire industrielle — and the Code
+  villageois lists « vernaculaire industriel » as a separate style of units UP5 and UP8, alongside the
+  Boomtown rather than above it.

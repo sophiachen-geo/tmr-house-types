@@ -1,0 +1,220 @@
+ 
+ Site patrimonial du Complexe-de-La-Maison-Alcan -
+ Répertoire du patrimoine culturel du Québec
+ Ministère de la Culture et des Communications 
+ Répertoire du patrimoine culturel du Québec 
+var modif_motCle = 2;
+function changement_motCle() {
+ modif_motCle = 5;
+}
+function envoi_motCle() {
+ if (document.getElementById('motCle').value == 'Rechercher' && modif_motCle != 5) {
+ document.getElementById('motCle').value = ""; 
+ }
+}
+ Rechercher 
+ Section 
+ Tout le Répertoire 
+ Patrimoine protégé et valorisé 
+ Patrimoine immobilier 
+ Patrimoine mobilier 
+ Événements, groupes et personnes 
+ Patrimoine immateriel 
+ Plaques commémoratives 
+ Recherche avancée
+-->
+ Répertoire du patrimoine culturel du Québec 
+ Accueil
+ Recherche
+avancée
+ Foire
+aux questions
+ À propos
+ Accueil > 
+ Fiche de l'élément
+ Inscrit au Registre du patrimoine culturel 
+ Imprimer 
+ Partager 
+ Site patrimonial du Complexe-de-La-Maison-Alcan
+ Type  :
+ Patrimoine immobilier
+ Région administrative  :
+ Montréal
+ Municipalité  :
+ Montréal
+ Date  :
+ 1981 – 1983 (Construction)
+ Période  :
+ Le Québec contemporain (après 1960)
+ Thématique  :
+ Patrimoine religieux (Culte)
+ Tradition religieuse  :
+ Christianisme (Protestantisme (Église indépendante ou autre))
+ Usage  :
+ Non applicable
+ Imprimer
+ -->
+ Éléments associés
+ Patrimoine immobilier associé ');" data-href="lightBox.do;jsessionid=73D0BA07A06268EDD271A09214C0D259?type=immo&id=204071&typeElement=BIEN&methode=afficher&style=ajax">
+ Patrimoine immobilier associé  (4)
+ Fait partie de  : 
+ Édifice du Mount Royal Club
+ Édifice du Mount Stephen Club
+ Comprend  : 
+ La Maison-Alcan
+ Ancienne église Emmanuel Congregational
+ Patrimoine immobilier associé ');" class="voirTout"> Voir la liste 
+ Groupes associés ');" data-href="lightBox.do;jsessionid=73D0BA07A06268EDD271A09214C0D259?type=grp&id=204071&typeElement=BIEN&methode=afficher&style=ajax">
+ Groupes associés  (2)
+ Groupe Arcop
+ - Architecte / concepteur(-trice) 
+ Compagnie Alcan (1925 – )
+ - Occupant(e) 
+ Groupes associés ');" class="voirTout"> Voir la liste 
+ Images ">
+ Images 
+ Afficher la transcription "
+ data-tooltip-multiples=" Afficher le contenu "
+ data-flagtousdroitsreserves ="true">
+ Carte ">
+ Carte 
+ Description 
+ Le site patrimonial du Complexe-de-La-Maison-Alcan est un ensemble administratif se composant de La Maison-Alcan et de l'ancienne église Emmanuel Congregational, ainsi que d'espaces publics extérieurs.
+La Maison-Alcan proprement dite est d'abord constituée de cinq immeubles adjacents construits entre 1872 et 1928, en bordure de la rue Sherbrooke Ouest, soit la maison Lord-Atholstan, la maison Béique, l'hôtel Berkeley, la maison Holland et la maison Klinkhoff. La Maison-Alcan comprend aussi l'édifice Davis, construit de 1981 à 1983 derrière les cinq autres bâtiments, et un atrium implanté entre l'édifice Davis et les bâtiments anciens de la rue Sherbrooke Ouest. Les quatre anciennes résidences présentent des élévations de trois ou quatre étages; elles sont coiffées de toits en fausse mansarde, à l'exception de la maison Lord-Atholstan qui est dotée d'un toit plat. Ces quatre bâtiments sont de pierres de taille lisse ou à bossage. Ils sont notamment dotés de fenêtres en saillie. L'hôtel Berkeley s'élève sur dix étages et est surmonté d'un toit plat. Les deux étages inférieurs sont parés de pierres de taille et les autres de briques. L'édifice Davis, pour sa part, présente un plan irrégulier et une élévation de huit étages terminée par un toit plat. La structure en béton armé est couverte d'aluminium de couleur bronze.
+L'ancienne église Emmanuel Congregational, construite en 1906, présente un plan rectangulaire et un parement de briques. Elle se caractérise par son portique composé de colonnes d'ordre ionique et d'un fronton. Les espaces publics extérieurs comptent une cour permettant de faire un lien entre deux rues.
+Le site patrimonial du Complexe-de-La-Maison-Alcan est compris dans un îlot urbain encadré par le boulevard De Maisonneuve et les rues Stanley, Sherbrooke Ouest et Drummond, dans l'arrondissement Ville-Marie de la ville de Montréal.
+Le site patrimonial du Complexe-de-La-Maison-Alcan est classé. De plus, La Maison-Alcan est classée immeuble patrimonial. La Maison-Alcan bénéficie en outre d'une aire de protection. La maison Lord-Atholstan est aussi classée immeuble patrimonial. Des parties du site patrimonial du Complexe-de-La-Maison-Alcan se situent dans les aires de protection de l'édifice du Mount Royal Club et de l'édifice du Mount Stephen Club, deux immeubles patrimoniaux classés.
+ Haut de la page 
+ Statuts 
+ Statut 
+ Catégorie 
+ Autorité 
+ Date 
+ Classement 
+ Site patrimonial
+ Ministre de la Culture et des Communications
+ 2017-02-23
+ Prise d'effet  : 2015-11-09
+ Catégories de conservation 
+ 2 - Extérieur supérieur
+ 8 - Terrain supérieur
+ Transfert de responsabilité 
+ Exercice de certains pouvoirs par la municipalité (Montréal), 2017-09-21
+ Prise d'effet  : 2018-09-21
+ Statuts antérieurs 
+ Avis d'intention de classement prorogé, 2016-11-03
+ Avis d'intention de classement, 2015-11-02
+ Proposition de statut national, 2015-08-10
+ Délimitation 
+ Situé dans une aire de protection
+ Ministre de la Culture et des Communications
+ 2017-02-23
+ Transfert de responsabilité 
+ Exercice de certains pouvoirs par la municipalité (Montréal), 2017-09-21
+ Prise d'effet  : 2018-09-21
+ Statuts antérieurs 
+ Avis d'intention de délimitation, 2016-11-03
+ Avis d'intention de délimitation échu, 2015-11-02
+ Haut de la page 
+ Valeur patrimoniale 
+ Le site patrimonial du Complexe-de-La-Maison-Alcan présente un intérêt pour sa valeur historique. L'ensemble, qui comprend des bâtiments érigés sur une période s'étalant de 1872 à 1983 et ayant servi à différentes fonctions, témoigne de l'évolution de ce secteur de la ville de Montréal depuis le XIXe siècle. Les bâtiments les plus anciens du complexe sont quatre résidences. La maison Holland et sa voisine, la maison Klinkhoff, sont érigées respectivement en 1872 et en 1873. La maison Béique date de 1893 et la maison Lord-Atholstan est bâtie de 1894 à 1895. Un lieu de culte, l'ancienne église Emmanuel Congregational, est édifié en 1906. L'hôtel Berkeley, conçu comme immeuble d'appartements en 1928, devient dès 1930 un établissement hôtelier. Ces bâtiments sont intégrés dans le projet de La Maison-Alcan, édifié de 1981 à 1983 par la firme d'architecte ARCOP pour servir de siège social à la compagnie Alcan. Cette dernière désire ainsi affirmer sa volonté de demeurer au Québec étant donné l'importance historique et commerciale de ses activités dans la province. Ce complexe administratif, qui constitue un exemple novateur d'intégration architecturale, est considéré comme un jalon important dans l'histoire de la conservation du patrimoine bâti au Québec. Par ailleurs, les bâtiments du site sont associés à des institutions et à des personnages importants, dont le sénateur Frédéric-Liguori Béique, l'éditeur de journaux Hugh Graham (lord Atholstan), l'Armée du Salut et la société Alcan, devenue Rio Tinto.
+Le site patrimonial présente aussi un intérêt pour sa valeur architecturale. Les bâtiments qui composent le complexe, d'époques et de styles différents, illustrent l'évolution de l'architecture à Montréal et au Québec depuis la fin du XIXe siècle. Les maisons Lord-Atholstan, Béique, Holland et Klinkhoff sont représentatives des résidences individuelles attachées construites pour la bourgeoisie, dans la seconde moitié du XIXe siècle, dans ce secteur de la ville de Montréal. L'ancienne église Emmanuel Congregational rappelle la popularité des formes inspirées des temples antiques pour la conception des lieux de culte, en particulier pour les communautés chrétiennes non conformistes. L'hôtel Berkeley présente pour sa part la composition tripartite des premiers gratte-ciel, où l'ornementation est concentrée au niveau de la rue et dans les étages supérieurs. La construction plus récente, soit l'édifice Davis, dotée d'un parement d'aluminium, évoque la spécialisation de l'entreprise qui l'a fait ériger. En outre, certains bâtiments sont associés à des architectes de renom.
+Le site patrimonial présente également un intérêt pour ses valeurs urbanistique et paysagère. Cet ensemble est un des premiers et des plus achevés exemples de densification urbaine réussie dans le centre-ville de Montréal au début des années 1980. Rompant avec les pratiques de l'époque, le complexe prend comme base les bâtiments existants, plutôt que de les remplacer, et intègre de nouveaux volumes derrière le front bâti de la rue Sherbrooke Ouest, qui devient un point de repère à l'échelle du site. Respectueuses de l'échelle des bâtiments déjà existants, les nouvelles constructions sont intégrées de manière harmonieuse à l'ensemble et servent à sa mise en valeur. Des espaces publics, des éléments architecturaux classiques, des aménagements paysagers et d'autres éléments de design urbain intégrés créent des espaces de repos et de déambulation pour les piétons qui y découvre des percées visuelles significatives et contribuent à unifier les diverses composantes du complexe. La cour assure un meilleur ensoleillement pour les occupants des bureaux en plus de leur offrir des vues de qualité. Enfin, les bâtiments et les aménagements témoignent de l'évolution d'un îlot urbain au coeur de la métropole québécoise, depuis le milieu du XIXe siècle jusqu'à nos jours. 
+Source : Ministère de la Culture et des Communications du Québec, 2017.
+ Haut de la page 
+ Éléments caractéristiques 
+ Les éléments caractéristiques du site patrimonial du Complexe-de-La-Maison-Alcan liés à ses valeurs historique, architecturale, urbanistique et paysagère comprennent, notamment : 
+- l'implantation sur un îlot urbain encadré par les rues Stanley, Sherbrooke Ouest et Drummond et par le boulevard De Maisonneuve, dans l'arrondissement Ville-Marie;
+- la présence de quatre anciennes maisons individuelles attachées bourgeoises (les maisons Lord-Atholstan, Béique, Holland et Klinkhoff), d'un ancien lieu de culte (l'église Emmanuel Congregational), d'un ancien établissement hôtelier (l'hôtel Berkeley) et d'un bâtiment administratif (l'édifice Davis);
+- les caractéristiques de la maison Lord-Atholstan, dont son plan rectangulaire, l'élévation de trois étages sur un soubassement dégagé, le toit plat ceinturé d'une balustrade de pierres, le parement de pierres de taille, le porche dans-oeuvre doté de colonnes cannelées, les baies en saillie, les fenêtres rectangulaires, les ouvertures ovales, l'ornementation de pierres d'inspiration classique et l'escalier de pierres;
+- les caractéristiques de la maison Béique, dont son plan rectangulaire, son élévation de trois étages sur un soubassement dégagé, le toit en fausse mansarde au brisis couvert d'ardoise, la baie en saillie couronnée d'un toit à pans coupés, le parement de pierres de taille, le portail d'inspiration classique, les fenêtres rectangulaires, la lucarne à fronton, les oeil-de-boeuf, l'ornementation inspirée du vocabulaire classique et l'escalier de pierres; 
+- les caractéristiques des maisons Holland et Klinkhoff, dont leur composition similaire mais inversée par effet de miroir, les plans rectangulaires, les élévations à quatre étages, le toit en fausse mansarde, les parements de pierres à bossage, les baies en saillie à pans coupés, les portails, les fenêtres à arc surbaissé, les lucarnes cintrées, l'ornementation de pierres d'inspiration classique ainsi que les escaliers de pierres dotés de garde-corps métalliques;
+- les caractéristiques de l'hôtel Berkeley, dont son plan rectangulaire, l'élévation de dix étages, le toit plat, le parement de pierres de taille des deux étages inférieurs, le parement en brique rouge et brune des autres étages, le porche dans-¿uvre marqué par une arcade triple, les fenêtres rectangulaires (celles de la partie centrale des étages supérieurs inscrites dans trois grandes baies à arc surbaissé), les saillies en brique évoquant des pilastres et l'ornementation sobre concentrée sur le couronnement du bâtiment;
+- les caractéristiques de l'ancienne église Emmanuel Congregational, dont son plan rectangulaire, l'élévation équivalente à trois étages, le toit à deux versants à faible pente, le portique doté de six colonnes cannelées d'ordre ionique portant un entablement et un fronton, le parement en brique couleur chamois, les éléments ornementaux en pierre artificielle (entablement, fronton, colonnes et chambranles des portes), les fenêtres rectangulaires de dimensions variées, et l'ornementation sobre inspirée de l'architecture classique;
+- les caractéristiques de l'édifice Davis, dont son plan irrégulier aux angles tronqués, son élévation de huit étages, le parement en aluminium couleur bronze, les portails disposés en retrait des élévations et les fenêtres disposées en bandeaux;
+- l'atrium aménagé entre l'édifice Davis et les bâtiments ayant leur front sur la rue Sherbrooke Ouest, notamment la paroi vitrée à deux versants couvrant cet espace;
+- la cour établissant un lien entre les rues Stanley et Drummond, dont les allées rectilignes, l'aménagement circulaire et la végétation.
+ Haut de la page 
+ Informations historiques 
+ Le site patrimonial du Complexe-de-La-Maison-Alcan correspond à un projet réalisé de 1981 à 1983 par la firme d'architectes ARCOP pour la société Alcan, à l'initiative de son président, David Culver. L'ensemble occupe une large part d'un îlot urbain du centre-ville de Montréal délimité par le boulevard De Maisonneuve et les rues Sherbrooke Ouest, Drummond et Stanley. Sur cet îlot s'élèvent alors déjà plusieurs bâtiments. Plutôt que de les démolir pour laisser toute la place à un nouvel édifice, les bâtiments adjacents de la rue Sherbrooke Ouest (à l'exception de la maison Klinkhoff) sont acquis en 1981 par la société Alcan et intégrés au projet.
+Ces cinq bâtiments ont été construits entre 1872 et 1928. Le plus ancien est la maison Holland, érigée en 1872 selon les plans de l'architecte William Tutin Thomas (1829-1892). Sa voisine, la maison Klinkhoff, est bâtie en 1873. Son concepteur est inconnu, mais sa composition est similaire à celle de la maison Holland, bien qu'inversée par effet de miroir. Les deux demeures sont des maisons individuelles attachées typiques des maisons en rangée construites dans ce secteur occupé par la bourgeoisie anglophone de Montréal dans la seconde moitié du XIXe siècle. La maison Béique date pour sa part de 1893 et est l'oeuvre de l'architecte Charles H. Chaussé (1862-1921). Sa voisine, qui occupe le terrain à l'angle des rues Sherbrooke Ouest et Stanley, est la maison Lord-Atholstan, un bâtiment d'influence beaux-arts érigé en 1894 et 1895 selon les plans des architectes Alexander Francis Dunlop (1842-1923) et John Charles Allison Heriot (1862-1921). Cette maison sera reconnue en 1974, puis classée en 2012. Au centre de ce groupe de maisons s'élève l'hôtel Berkeley, conçu initialement, en 1928, comme immeuble d'appartements par les architectes Harold Lawson et Harold Robert Little, mais transformé dès 1930 en établissement hôtelier. 
+Pour étendre davantage son projet, Alcan s'associe à l'Armée du Salut, propriétaire de l'ancienne église Emmanuel Congregational, qui s'élève aussi sur l'îlot et dont la façade donne sur la rue Drummond. L'ancien lieu de culte, érigé selon les plans des architectes Charles Jewett Saxe (1870-1943) et John Smith Archibald (1872-1934) en 1906, pour la communauté congrégationaliste, est connu sous le nom de La Citadelle après son acquisition par l'Armée du Salut. Dès la fin des années 1970, l'organisme envisage de détruire ce bâtiment pour élever une tour de bureaux, mais l'opposition est vive. Le projet d'Alcan offre une solution à l'Armée du Salut, qui cède une partie de son terrain à Alcan. L'entente prévoit la restauration de l'ancien lieu de culte.
+Six bâtiments sont donc restaurés et intégrés dans le complexe, pour lequel sont aussi érigés deux nouvelles constructions : l'édifice Davis et la tour de l'Armée du Salut (hors du site patrimonial). Des espaces publics, des éléments architecturaux classiques, des aménagements paysagers et d'autres éléments de design urbain sont ajoutés pour unifier les différentes parties du complexe. À la fin des travaux, la société Alcan quitte ses bureaux de la Place Ville-Marie et emménage dans les locaux de son nouveau siège social. La tour et l'ancienne église sont louées à l'Armée du Salut. 
+Le projet reçoit de nombreux prix et est salué comme un exemple novateur d'intégration architecturale. Le complexe de La Maison-Alcan est par la suite considéré comme un exemple de densification urbaine réussie et comme un jalon important dans l'histoire de la conservation du patrimoine bâti au Québec et au Canada.
+Le site patrimonial du Complexe-de-La-Maison-Alcan est classé en 2017. Au même moment, La Maison-Alcan - y compris certains intérieurs - est classée comme immeuble patrimonial. Une aire de protection est aussi délimitée.
+ Haut de la page 
+ Emplacement 
+ Region administrative  :
+ Montréal
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ MRC  :
+ Montréal
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Municipalité  :
+ Montréal
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Arrondissement municipal  :
+ Ville-Marie
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Adresse  :
+ rue Drummond
+ rue Sherbrooke Ouest
+ rue Stanley
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Latitude  :
+ 45° 30' 1.66"
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Longitude  :
+ -73° 34' 37.082"
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Désignation cadastrale  :
+ Lot 
+ 1 338 858
+ Lot 
+ 1 338 859
+ Lot 
+ 1 338 860
+ Lot 
+ 1 515 239 Ptie
+ Rï¿½fï¿½rences multimï¿½dias :
+ il y a 3 vidï¿½os dans cette page.
+ il y a 3 audios dans cette page.
+-->
+ Haut de la page 
+ Documents 
+ Site patrimonial du Complexe-de-La-Maison-Alcan. Plan de conservation 
+ © 
+ Haut de la page 
+ Références 
+ Notices bibliographiques  :
+ s.a. Plan de conservation du site patrimonial du Complexe-de-La-Maison-Alcan et de La Maison-Alcan . Québec, Ministère de la Culture et des Communications, 2020. 73 p.
+ Multimédias disponibles en ligne :
+ Haut de la page 
+ Plan du site 
+ Nous joindre 
+ Crédits 
+ Droits d'auteur 
+ Accessibilité 
+ © Gouvernement du Québec, 2024
+ 

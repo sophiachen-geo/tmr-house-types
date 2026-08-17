@@ -1,0 +1,118 @@
+id: ville-marie.maison-magasin-entrepot
+place: ville-marie
+phase: p3
+phase_confidence: verified
+display_order: 3
+name_en: Maison-magasin and warehouse with dwellings above
+name_fr: Magasin-entrepôt
+source_ref: 'RPCQ id 93528 (MCC); Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005)'
+source_generation: >-
+  RPCQ fiche 93528, section « Éléments caractéristiques » (fiche source: Ministère de la Culture et
+  des Communications du Québec, 2004), read 17 August 2026; with the cahier's sector fiches 24.E.38,
+  24.E.40 and 24.E.42 and its historical chapter, printed pp. 34–35.
+sectors: ['SITE-93528', '24.E.38', '24.E.40', '24.E.42']
+canonical:
+- maison-magasin-entrepot
+styles:
+- victorian-eclectic
+style_label: null
+tenure_plan: mixed
+storeys: null
+roof:
+  form: flat
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- cut-stone
+- montreal-greystone
+- clay-brick-red
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built to the street line in a continuous run, party-walled, on the blocks between rue de la
+    Commune and rue Saint-Paul and along rues des Récollets, Sainte-Hélène, Saint-Pierre and
+    Le Moyne.
+  - 'Two-faced by design where the block runs through: the cahier records a relatively plain
+    elevation on the goods-handling side and a far more elaborate one on the commercial side, on
+    rue Saint-Paul.'
+  massing:
+  - Flat roof.
+  - Thick, projecting and often very ornamented cornice.
+  articulation:
+  - Heavy projecting cornice as the crowning element.
+  - Ornament concentrated on the commercial elevation; showrooms for retail selling behind the
+    ground-floor bays in the sector of the Bourses.
+  openings:
+  - Wide bays (« larges baies »).
+  materials:
+  - Mixed structure of timber, cast iron and stone.
+  - Red brick.
+  - Grey limestone on the older runs, in a site where grey limestone predominates until 1850 and a
+    wide variety of stone types after it.
+profile_fr:
+  elements_caracteristiques:
+  - >-
+    « L’empreinte de l’architecture éclectique du XIXe siècle, visible notamment dans les bâtiments
+    commerciaux, industriels, institutionnels et les édifices à bureaux, reconnaissables à leur
+    structure mixte de bois, de fonte et de pierres, leurs larges baies, leur toit plat, leur
+    corniche épaisse, débordante et souvent très ornementée et l’emploi de la brique rouge. »
+  traitement_des_facades:
+  - >-
+    « Plusieurs de ces bâtiments ont une façade relativement sobre du côté où se fait la
+    manutention des marchandises, tandis que la facture architecturale est plus élaborée du côté
+    commercial, sur la rue Saint-Paul. »
+profile_note: >-
+  Storeys, roof pitch, roofing, window proportion, lot width, setbacks and green front yard are null
+  because neither source states them. Note also what the two sources are doing: the RPCQ describes
+  this as a commercial, industrial and institutional family — « les bâtiments commerciaux,
+  industriels, institutionnels et les édifices à bureaux » — and the residential content of the type
+  is a fact of its second life, not of its first. It is carried on a residential site because the
+  conversion of these buildings to dwellings is what repopulated Vieux-Montréal, and because the
+  cahier says so. Tenure plan is recorded as mixed for the same reason.
+related_buildings:
+- name: Les Cours Le Royer — the first of the conversions, which the cahier calls « le premier jalon
+    d’un repeuplement du Vieux-Montréal ». The cahier gives no date for the conversion itself.
+  url: null
+- name: Corn Exchange and Merchants' Exchange, 1860s, still standing though long out of use — cahier
+    sector 24.E.38
+  url: null
+- name: 'Magasins-entrepôts of rue Saint-Pierre, seen from the place D’Youville — cahier sector
+    24.E.40'
+  url: null
+blurb_en: >-
+  The building that made the port quarter and then, a century later, repopulated it. A mixed
+  structure of timber, cast iron and stone; wide bays; a flat roof; a thick, projecting, often very
+  ornamented cornice; red brick. In the runs between rue de la Commune and rue Saint-Paul it is
+  frankly two-faced — sober where the goods came in, elaborate where they were sold. From the 1970s
+  these are the buildings that were recycled into dwellings, which is how a quarter with a few
+  hundred residents in the 1950s came to hold several thousand.
+origin_en: >-
+  Montréal became the undisputed metropolis of Canada in the second half of the 19th century, at the
+  centre of a road, maritime and transcontinental rail network, and the old town turned into a
+  financial and administrative city — the shop window of Canadian capitalism, in the RPCQ's phrase.
+  Offices, banks, insurance head offices, warehouses and courthouses went up with great stylistic
+  eclecticism. Then the fall: after 1945 Montréal lost the metropolitan role to Toronto, the economic
+  centre moved north-west, and by the 1950s, the cahier records, retail had practically vanished
+  from the old town and its residents numbered only a few hundred. Serious proposals for an
+  expressway through Vieux-Montréal followed, and the protests against them led to the Québec
+  government decreeing the quarter an arrondissement historique in 1964. Survival then meant new
+  uses for empty floors, and the cahier states the mechanism plainly: <em>« On y a recyclé plusieurs
+  de ces bâtiments en condos, dont le premier exemple est celui des Cours Le Royer, posant ainsi le
+  premier jalon d'un repeuplement du Vieux-Montréal. »</em> The loft conversions of rue Saint-Paul
+  and the faubourg des Récollets follow the same line.
+photos:
+- file: assets/places/ville-marie/magasin-entrepot-jean-leclaire-commons.jpg
+  credit: >-
+    Magasin-entrepôt Jean-Leclaire, 28-30 rue Saint-Paul Est with its secondary façade at 29 rue de
+    la Commune Est, and its neighbours — grey stone, wide bays in regular tiers, flat roofs and
+    heavy cornices, with commercial ground floors. Photograph by Jeangagnon, 19 May 2014, Wikimedia
+    Commons, CC BY-SA 3.0.
+    https://commons.wikimedia.org/wiki/File:Magasin-entrepot_Jean-Leclaire.JPG — licence, author and
+    file URL read through the Commons API before download; the photograph was opened and checked
+    against its description.
+  kind: single

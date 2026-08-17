@@ -1,0 +1,116 @@
+id: ville-marie.maison-de-pierre-regime-francais
+place: ville-marie
+phase: p1
+phase_confidence: verified
+display_order: 1
+name_en: French-regime stone house
+name_fr: Maison de pierre du Régime français
+source_ref: 'RPCQ id 93528 (MCC); Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005)'
+source_generation: >-
+  RPCQ fiche 93528, sections « Valeur patrimoniale » and « Éléments caractéristiques » (fiche
+  source: Ministère de la Culture et des Communications du Québec, 2004), read 17 August 2026;
+  cross-read against the cahier's sector fiches 24.E.41, 24.E.45 and 24.E.46.
+sectors: ['SITE-93528', '24.E.41', '24.E.45', '24.E.46']
+canonical:
+- french-urban-house-stone
+styles:
+- french-regime
+style_label: null
+tenure_plan: single-family
+storeys: '1–2'
+roof:
+  form: gabled-or-hipped
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- fieldstone
+- stone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built to the street line inside the walled town, on the narrow lots of Dollier de Casson's 1672
+    tracé; the RPCQ's characteristic elements list the alignment of buildings on the public way, the
+    high density of ground occupation and party-wall construction as the site's defining relation.
+  - Interior courts and courettes in some sectors, reached from the street.
+  - The surviving concentration is in sector 24.E.45, the quartier Bonsecours, which the cahier says
+    is the one part of Vieux-Montréal that kept its residential vocation after 1850.
+  massing:
+  - Generally low — one or two storeys.
+  - Two-slope or hipped roof of medium pitch.
+  - Chimneys carried up in the plane of the gable walls, and firebreak walls between houses.
+  articulation:
+  - Not stated by either source beyond the masonry itself. The RPCQ describes this family in one
+    sentence and does not treat its ornament.
+  openings:
+  - Wooden casement windows with small panes.
+  materials:
+  - Rubble masonry of roughly squared stone.
+  - Grey limestone predominates in the site as a whole until 1850, after which a wide variety of
+    stone types appears.
+profile_fr:
+  elements_caracteristiques:
+  - >-
+    « La présence de bâtiments du Régime français présentant des structures généralement basses (un
+    ou deux étages), des toitures à deux versants ou à croupes de pente moyenne, des murs de
+    moellons grossièrement équarris, des cheminées dans la continuité des murs pignons, des murs
+    coupe-feu et des fenêtres en bois à battants et à petits carreaux. »
+  - >-
+    « L’utilisation de matériaux traditionnels marquée par une prédominance de la pierre calcaire
+    grise jusqu’en 1850, puis par une grande variété de types de pierre. »
+  description:
+  - >-
+    « Les immeubles les plus anciens - habitations et édifices conventuels - qui datent de l’époque
+    de la Nouvelle-France présentent une maçonnerie en pierre et des toits à pignon. »
+profile_note: >-
+  Roof pitch in degrees, roofing material, window proportion, lot width, setbacks and green front
+  yard are all null because neither source states them. The RPCQ gives the roof only as « de pente
+  moyenne » and the windows only as « à battants et à petits carreaux », with no dimension attached
+  to either; the 2005 cahier characterises sectors, not buildings, and prints no dimensional table
+  at all. There is no per-type document for Ville-Marie, and there will not be one until the plan de
+  conservation for the site patrimonial is produced — this record is a reconstruction from a site
+  fiche's statement of value, and its five columns carry only what that fiche and the cahier say.
+related_buildings:
+- name: Vieux Séminaire de Saint-Sulpice (1684–1687), the oldest building in Vieux-Montréal, with
+    the presbytère de Notre-Dame of 1848–1852 — cahier sector 24.E.41
+  url: null
+- name: Hôpital général (1693–1694), the second-oldest building in the arrondissement historique —
+    cahier sector 24.E.40
+  url: null
+- name: Château Ramezay (1705, rebuilt after a fire and enlarged fifty years later by the Compagnie
+    des Indes), classed monument historique — cahier sector 24.E.44
+  url: null
+- name: 'Maison Brossard-Gauvin, rue Saint-Louis — one of only two surviving wooden faubourg houses
+    of its period; the cahier''s text dates it 1750 and its own caption 1743-1758'
+  url: null
+blurb_en: >-
+  The oldest domestic form on this site and the one that recurs in six places: low walls of roughly
+  squared rubble, a two-slope or hipped roof of medium pitch, chimneys rising in the plane of the
+  gable walls, firebreak walls between neighbours, and small-paned wooden casements. In
+  Vieux-Montréal it is an urban house — built to the street line, party-walled, on a narrow lot —
+  rather than the freestanding rural house of the Île d'Orléans or the côtes.
+origin_en: >-
+  Ville-Marie was founded in 1642 as a missionary settlement and became the bridgehead of the fur
+  trade. The Sulpicians became seigneurs of the island in 1663, and their superior François Dollier
+  de Casson traced the first streets in 1672 with the notary-surveyor Bénigne Basset Des Lauriers:
+  three streets parallel to the river and seven perpendicular to it. Between 1685 and 1800 the town
+  was walled, and the wall fixed its form. The intendants' ordonnances then fixed the relation
+  between street and building, including the alignment of construction; stone became the preferred
+  material for new building, which is why so little of the wooden town survives. The form is the
+  same one recorded on this site at Île d'Orléans, Charlesbourg, Québec, Terrebonne and Lachine —
+  the same walls, the same roof, the same chimneys — with the difference that here it is packed
+  against its neighbours.
+photos:
+- file: assets/places/ville-marie/maison-du-calvet-rue-saint-paul-commons.jpg
+  credit: >-
+    Maison Du Calvet, rue Saint-Paul at rue Bonsecours, Vieux-Montréal — rubble stone walls, a
+    steep two-slope roof, chimneys carried up in the plane of the gable walls and firebreak walls
+    stepping above the roof. Photograph by Mathieu BROSSAIS, 7 August 2008, Wikimedia Commons,
+    CC BY 4.0. https://commons.wikimedia.org/wiki/File:Maison_Du_Calvet_%C3%A0_Montr%C3%A9al.jpg —
+    licence, author and file URL read through the Commons API before download; the photograph was
+    opened and checked against its description.
+  kind: single

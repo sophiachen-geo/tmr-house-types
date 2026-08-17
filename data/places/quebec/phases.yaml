@@ -1,6 +1,36 @@
-- {id: p1, label: 1608–1760, start: 1608, end: 1760, title_en: French regime — the stone town and the rural house, colour_key: p1}
-- {id: p2, label: 1760–1840, start: 1760, end: 1840, title_en: British regime — transition, Palladian and neoclassical, colour_key: p2}
-- {id: p3, label: 1820–1880, start: 1820, end: 1880, title_en: Regency villégiature and the Québécois synthesis, colour_key: p3}
-- {id: p4, label: 1840–1890, start: 1840, end: 1890, title_en: The faubourgs and the great fires, colour_key: p4}
-- {id: p5, label: 1875–1930, start: 1875, end: 1930, title_en: Industrial vernacular — Boomtown, plex, cubique, colour_key: p5}
-- {id: p6, label: 1920–1970, start: 1920, end: 1970, title_en: Apartment blocks, modernism and the suburban belt, colour_key: p6}
+- id: p1
+  label: 1608–1760
+  start: 1608
+  end: 1760
+  title_en: French regime — the stone town and the rural house
+  colour_key: p1
+- id: p2
+  label: 1760–1840
+  start: 1760
+  end: 1840
+  title_en: British regime — transition, Palladian and neoclassical
+  colour_key: p2
+- id: p3
+  label: 1820–1880
+  start: 1820
+  end: 1880
+  title_en: Regency villégiature and the Québécois synthesis
+  colour_key: p3
+- id: p4
+  label: 1840–1890
+  start: 1840
+  end: 1890
+  title_en: The faubourgs and the great fires
+  colour_key: p4
+- id: p5
+  label: 1875–1930
+  start: 1875
+  end: 1930
+  title_en: Industrial vernacular — Boomtown, plex, cubique
+  colour_key: p5
+- id: p6
+  label: 1920–1970
+  start: 1920
+  end: 1970
+  title_en: Apartment blocks, modernism and the suburban belt
+  colour_key: p6

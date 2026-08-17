@@ -1,0 +1,251 @@
+# Shared type record — Part 11a. Lives once here and is materialised into every place in
+# `places`. Do not set `id` or `place`; both are derived per place by build.py.
+places:
+- baie-durfe
+- dorval
+- lachine
+- pointe-claire
+- sainte-anne-de-bellevue
+- senneville
+phase: p4
+phase_confidence: verified
+display_order: 5
+name_en: Postwar bungalow
+name_fr: Le bungalow d'après-guerre
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain (2005), § 1.2.2 « Les ensembles urbains
+  d'intérêt » et secteurs 7.U.1 à 7.U.8 (Dorval), 5.U.2 et 5.U.3 (Pointe-Claire), 19.U.2 (Lachine), 2.U.2
+  et 2.U.4 (Pierrefonds-Senneville) et 2.E.4 (Senneville), avec le § 2 Historique de l'arrondissement de
+  Beaconsfield–Baie-D'Urfé"
+source_generation: five sector-characterisation cahiers of the same 2005 series, read together; the series
+  created a category, Ensembles urbains d'intérêt, expressly to catch postwar suburban housing, and that
+  category is the only per-type writing any West Island source does
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/07_evaluation_patrimoine_dorval.pdf
+canonical:
+- one-storey-ranch-low-roof
+styles:
+- minimal-traditional
+style_label: Minimal Traditional
+tenure_plan: single-family
+storeys: '1'
+roof: {form: hipped, pitch_deg: null}
+roofing: null
+window_proportion: horizontal
+principal_cladding:
+- clay-brick
+- artificial-stone
+- wood-clapboard
+garage: integrated-or-carport
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+  - Detached on its own lot, set back from the street with side margins, and with parking in the front
+    yard — the Lachine cahier's description of the same wave, and the one place any West Island source
+    describes the siting rule rather than the building.
+  - Cul-de-sac and crescent street patterns recur, sometimes with a planted median down a wide avenue,
+    and Dorval's cahier ties the effect of every one of these sectors to mature trees on the properties
+    rather than to the houses.
+  - Built in small series from a short catalogue of models. Dorval's 7.U.5 is praised for using « un nombre
+    relativement restreint de modèles » while letting the materials vary house to house; Lachine's 19.U.2
+    calls the catalogue of types on its territory « particulièrement impressionnant ». In Lachine the
+    dominant form of that catalogue is not this one but the taller contractor's box known locally as the
+    maison « Gameroff », which carries its own record on that page; what belongs here is the alignment of
+    Californian-inspired bungalows the cahier singles out at the end of the 51e Avenue.
+  massing:
+  - One storey, plain-pied. The Dorval cahier repeats the phrase « bungalows de type plain-pied, toit pavillon,
+    brique » for two separate sectors, 7.U.1 and 7.U.4, and treats it as the norm for the municipality
+    from the 1940s–50s onward.
+  - A hipped roof is the commonest form. Lachine records more variety in the same years — pitched, hipped,
+    or hipped combined with a false mansard.
+  - Split-level versions appear in the same wave and the same decade; Dorval's 7.U.5 dates a whole quadrilateral
+    of them to the 1950s.
+  articulation:
+  - Almost none, and what there is varies within a single street rather than between streets. Dorval's
+    Model Homes are described as houses that look alike until you look closely, at which point the window
+    types, the roofs, the use of artificial stone and clapboard and the handling of the brick are all
+    different.
+  openings:
+  - Not described by any West Island source beyond the note that window types differ between otherwise
+    identical Dorval houses.
+  materials:
+  - Brick dominant, with artificial stone and clapboard used as accent — the three materials Dorval's cahier
+    names on avenue Dahlia.
+  - Red brick at Pointe-Claire's Magil project, built 1953–55.
+profile_fr:
+  description:
+  - >-
+      « Ce petit secteur adjacent au parc Dorval, près de l'extrémité est de l'arrondissement, se
+      caractérise par l'uniformité du bâti : bungalows de type plain-pied, toit pavillon, brique comme
+      matériau dominant, garage, rue en cul-de-sac, aménagement paysager relativement simple. L'époque
+      approximative de construction serait les années 1950. » (7.U.1)
+  - « Cette rue résidentielle est bordée de bungalows qui se ressemblent mais qui, en y regardant de près,
+    affichent certaines différences dans le type de fenêtres, de toiture, l'emploi de pierre artificielle
+    et de planche à clin, ou encore dans le traitement de la brique. Ce projet qui a débuté en 1951 comprenait
+    28 unités de logement réparties entre 12 bungalows détachés et 16 semi-détachés; il incluait aussi
+    les deux édifices d'appartements situés au coin du chemin du Bord-du-Lac. » (7.U.2, Dorval Model Homes
+    – avenue Dalhia)
+  - « Ce développement résidentiel est semblable à celui du secteur 7.U.1 – rue en cul-de-sac, bungalows
+    similaires de type plain-pied, toit pavillon, brique, carport, terrain bien aménagé et présence d'arbres
+    matures. La construction remonte approximativement aux années 1950. » (7.U.4, place Décary)
+  - « L'ambiance de ce secteur est celle d'une banlieue de type californien des années 1950, avec ses bungalows
+    bas intégrant un carport. » (7.U.6, avenues Claude et Allard)
+  - « Les bâtiments de ce secteur précèdent ceux de la période des années 1940-1950, où la construction
+    de bungalows devient la norme à Dorval. » (7.I.1)
+  - « Ce secteur de Lakeside Heights se compose de maisonnettes d'un étage et demi et de bungalows en brique
+    rouge construits entre 1953 et 1955. Il présente des qualités d'ensemble remarquables avec un couvert
+    végétal à maturité et des maisons typiques des constructions d'après-guerre, peu transformées. » (5.U.2,
+    projet Magil)
+  - « Ce secteur est composé de maisons construites autour de 1947 sur le modèle des maisons de la Wartime
+    Housing Limited. … Aujourd'hui, même s'il y reste bien peu de ces maisons de vétérans, le secteur continue
+    de se démarquer par le tracé particulier des rues et le lotissement. » (5.U.3, secteur des vétérans)
+  - « Ce vaste secteur est très homogène et regroupe une grande variété d'habitations unifamiliales détachées
+    d'un ou deux étages construites en petites séries, implantées avec marges de recul sur les côtés et
+    en retrait de la rue, et possédant un espace de stationnement en cour avant. Elles ont le plus souvent
+    un plan carré ou rectangulaire, une volumétrie simple, un revêtement de brique avec éléments de décor
+    en bois et des formes de toit variables (en pente, pavillon, ou combinaison pavillon fausse mansarde).
+    Ces habitations sont issues de l'urbanisation massive des années 1950-1970. » (19.U.2, Victoria – Sir-George-Simpson)
+  - « Notons toutefois l'intérêt particulier que présente la 51e Avenue, qui se termine, à l'intersection
+    de la rue Sherbrooke, par un alignement de bungalows d'inspiration californienne particulièrement bien
+    conservés. » (19.U.2)
+  - « Bien que la plupart des édifices les plus imposants ont été construits en fonction d'une utilisation
+    saisonnière, le secteur comprend aussi des résidences de l'après-guerre et des demeures contemporaines
+    qui lui donnent un caractère suburbain mais qui poursuivent la tradition d'intégration du bâti au paysage. »
+    (2.E.4, grandes propriétés de Senneville)
+  - « On y trouve une grande variété de bungalows d'intérêt architectural (des petites séries et des exemplaires
+    uniques) en excellente condition. La végétation mature, les grandes marges de recul avant bien paysagées
+    des propriétés et l'absence de trottoirs contribuent à la grande homogénéité du secteur. » (2.U.2, Belvédère
+    — in the Pierrefonds half of that arrondissement, not in Senneville)
+  contexte:
+  - « Le Plan d'urbanisme reconnaît l'intérêt de certains développements résidentiels d'après-guerre, qui
+    composent une part importante du patrimoine des anciennes banlieues, en créant une catégorie appelée
+    Ensembles urbains d'intérêt. On y retrouve, entre autres, des ensembles homogènes de bungalows, des
+    secteurs de maisons qui adoptent le modèle développé par la Wartime Housing Limited ou des exemples
+    des premières coopératives d'habitation. Leur repérage est exploratoire … » (the same paragraph in
+    all twenty-seven cahiers)
+  - « Dans les années 1950-1960, grâce à la construction de l'autoroute Métropolitaine et au boom démographique
+    de l'après-guerre, le développement de cette banlieue essentiellement résidentielle s'accélère et l'urbanisation
+    gagne alors le nord de la voie ferrée. Même si le caractère rural disparaît, les rues bordées d'arbres
+    maintiennent une apparence champêtre. » (§ 2, Historique)
+conservation:
+- This is the only wave in the West Island whose recognition is explicitly experimental. The 2005 series
+  says its own identification of these sectors « est exploratoire » and aims to link them to conservation
+  concerns « pour une première fois ».
+- >-
+    Where the cahiers return to it, they say the same thing twice - the value lies in the plan, the
+    planting and the consistency of the materials rather than in any individual house, and
+    personalisation is what erodes it. Lachine's 19.U.2 records that practically every building in its
+    sector has been modified, and lists how: raising, building to the lot line, added upper storeys or a
+    garage, changed cladding, changed openings, changed roof form.
+- >-
+    Pointe-Claire's veterans' sector is the sharpest case: the cahier says few of the wartime houses are
+    left and that what still marks the sector is the street layout and the subdivision, not the
+    buildings.
+profile_note: >-
+  Better evidenced than the other four shared records, and still not evidenced everywhere. The 2005
+  Ville de Montréal series created a category — Ensembles urbains d'intérêt — expressly to catch postwar
+  suburban housing, and Dorval's cahier alone gives it eight sectors with real building description, so
+  the columns here are unusually well supported for a place with no typology document. But the support
+  is not even across the six places, and that is the thing to know before trusting this record.
+  Dorval and Pointe-Claire are described in detail. Lachine is well described too, but most of what its
+  sector 19.U.2 describes is the one- or two-storey contractor's box that Lachine's own page records as
+  the maison « Gameroff »; only the Californian bungalow alignment at the 51e Avenue is unambiguously
+  this type, and that is what is claimed here. Senneville is attested by one clause in
+  sector 2.E.4, which records postwar houses inside the estate belt and says they continue its tradition
+  of setting buildings into the landscape — no bungalow sector of its own is named, and the well
+  described bungalow sector in the same cahier, 2.U.2 Belvédère, is in the Pierrefonds half of that
+  arrondissement and not in Senneville. Baie-D'Urfé is attested only by its cahier's historique, which
+  dates the acceleration of its suburban growth to the 1950s–60s and to the Métropolitaine, and names no
+  postwar sector; the postwar ensembles in that cahier, 4.U.1 Devon-York with its « bâtiments de
+  l'après-guerre … rappelant le "ranch" californien », 4.U.2 Sunny Acres and 4.U.3 Lakeview-Morgan, are
+  introduced under a paragraph about the territory of Beaconsfield. Sainte-Anne-de-Bellevue is the one
+  membership no retrieved source attests at all: its cahier, once found, names no postwar sector and its
+  single ensemble urbain d'intérêt, 1.U.1, is the Garden City Press ensemble of J.-J. Harpell, which is
+  not this type. It is kept in `places` because the record is the shared West Island postwar record and
+  because a later source may supply what this one does not, and it is flagged here rather than asserted
+  quietly. Fields left null and why: `roofing` — no source names a roof covering anywhere in the six
+  places; `roof.pitch_deg` — « toit pavillon » with no figure; `lot_width_m`, `setback_front_m`,
+  `setback_side_m`, `front_yard_green_pct` — the cahiers describe setbacks, front-yard parking and
+  landscaping at length and measure none of it; `sectors` — a shared record cannot carry sector codes
+  that exist in only one of its places, and here they would run 7.U.x, 5.U.x, 19.U.x and 2.U.x at once.
+  `window_proportion: horizontal` is the weakest entry in the record: it is read from the form and from
+  the Dorval note that window types vary between otherwise identical houses, not from any stated
+  proportion, and it should be the first field to correct. `styles: [minimal-traditional]` is a
+  classification made here, not a style any West Island source names; the nearest a source comes is
+  Dorval's « banlieue de type californien » and Lachine's « bungalows d'inspiration californienne ».
+example_addresses:
+- address: Avenue Dahlia, Dorval
+  municipality: Dorval
+  note: Dorval Model Homes, begun 1951 — 28 dwellings in 12 detached and 16 semi-detached bungalows, plus
+    two apartment buildings at the corner of chemin du Bord-du-Lac. The cahier spells the street Dalhia
+    in its sector heading; the street is avenue Dahlia.
+- address: Rue McNicoll, avenue Sévigny and croissant Kernan, Dorval
+  municipality: Dorval
+  note: Sector 7.U.1 — plain-pied bungalows, hipped roofs, brick, garage, cul-de-sac, about the 1950s.
+- address: Place Décary, Dorval
+  municipality: Dorval
+  note: Sector 7.U.4 — the same again with a carport instead of a garage.
+- address: Avenues Claude and Allard, Dorval
+  municipality: Dorval
+  note: Sector 7.U.6 — low bungalows with an integrated carport, a planted median down both wide avenues,
+    described by the cahier as a Californian suburb of the 1950s.
+- address: Windward Crescent, Pointe-Claire
+  municipality: Pointe-Claire
+  note: Projet Magil, Lakeside Heights, red-brick bungalows and one-and-a-half-storey maisonnettes built
+    1953–55; the cahier's own illustration is no. 105.
+- address: 51e Avenue at rue Sherbrooke, Lachine
+  municipality: Lachine
+  note: The alignment of Californian-inspired bungalows the cahier singles out as particularly well preserved,
+    with the 53e Avenue north of rue Victoria and the 56e Avenue.
+related_buildings:
+- name: Maison « Gameroff », Lachine — the local contractor's name that became the name of the dominant
+    postwar type in sector 19.U.2
+  url: null
+- name: Wartime Housing Limited model, Pointe-Claire sector 5.U.3 — houses of about 1947 on the wartime
+    plan, of which the cahier says few survive
+  url: null
+photos:
+- file: null
+  kind: placeholder
+  credit: >-
+    The only photographs of West Island postwar bungalows located during this research are the 2005
+    Ville de Montréal évaluation cahiers' own — Dorval, p. 30–31, captioned « 7.U.1 165, rue McNicoll »,
+    « 7.U.2 1, avenue Dalhia », « 7.U.3 70, avenue des Lilas », « 7.U.4 Vue d'ensemble » and « 7.U.6
+    Avenue Claude »; Pointe-Claire, p. 34, « 5.U.2 Le 105 de l'avenue de Windward Crescent »; Lachine,
+    p. 40, « 19.U.2 La 53e Avenue » and « 19.U.2 Une maison "Gameroff" typique au 3, 40e avenue ». ©
+    Ville de Montréal; not reproduced here. Wikimedia Commons was searched for a freely licensed
+    photograph of a postwar bungalow in any of the six places and none was found. The one candidate that
+    looked promising by its address — « Quatre-Vents, 12, avenue Dahlia (Dorval) », on the Model Homes
+    street itself — was downloaded and inspected and is not a bungalow at all but a two-and-a-half-storey
+    stuccoed house with a tiled coping and an arcaded loggia, so it was rejected. The Cité de Dorval's own
+    heritage study of that address (LEMAYMICHAUD + Réal Paul architecte, « Expertise historique et étude
+    patrimoniale, 12, avenue Dahlia, Dorval ») confirms the rejection and dates the house to 1803, enlarged
+    1874–85 in a neo-Gothic manner and wholly remade 1927–37 into the Italianate it wears now — one of the
+    first stone houses in the district, standing on the street the bungalows were later built along, and
+    not one of them. The same study independently repeats the cahier's figures for the 1951 project - 28
+    dwellings, 12 detached and 16 semi-detached bungalows, and two apartment buildings.
+  licence: permission required
+  source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/07_evaluation_patrimoine_dorval.pdf
+  match_confidence: none
+blurb_en: >-
+  One storey, hipped roof, brick with artificial stone and clapboard for variety, a carport or a garage,
+  a cul-de-sac and mature trees. Built from a short catalogue of models across all six West Island places
+  from the late 1940s, and the only twentieth-century housing the 2005 evaluation series took seriously
+  enough to invent a category for.
+origin_en: >-
+  The wave arrives at different moments and for different reasons. At Dorval it is the airport: the
+  aerodrome opened in 1941, air traffic grew fast after the war, the rest of the territory was opened to
+  subdivision and the population went from under 3,000 in the 1940s to more than 20,000 by 1971. At
+  Pointe-Claire it is a straight housing shortage — a veterans' sector on the Wartime Housing Limited
+  model about 1947, then the Magil project of 1953–55. At Lachine it is what the cahier calls « l'urbanisation
+  massive des années 1950-1970 », running east across the last open ground and producing a catalogue of
+  contractors' types so consistent that the dominant one is still known locally by its builder's name. At
+  Baie-D'Urfé it is the Métropolitaine and the demographic boom together, pushing settlement north across
+  the railway for the first time. What the 2005 cahiers do with all of it is the interesting part. The
+  series invented a category, Ensembles urbains d'intérêt, to hold postwar suburbs, said openly that the
+  exercise was exploratory, and then valued these places for their street layouts, their planting and the
+  consistency of their materials rather than for their architecture — while recording, in the same
+  paragraphs, that almost every house had already been raised, extended, re-clad or re-roofed. It is the
+  one wave on these six pages that the source treats as heritage-in-progress rather than as heritage.

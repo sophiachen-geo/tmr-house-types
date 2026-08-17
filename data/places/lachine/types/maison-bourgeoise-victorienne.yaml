@@ -1,0 +1,89 @@
+id: lachine.maison-bourgeoise-victorienne
+place: lachine
+phase: p3
+phase_confidence: provisional
+name_en: Bourgeois brick house in the Victorian taste
+name_fr: Maison bourgeoise en brique au goût victorien
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), sectors 19.I.2, 19.I.6, 19.I.7"
+source_generation: >-
+  Sector characterisation. Three separate sector paragraphs name the same class of house; the record
+  is their intersection and nothing more.
+sectors: ["19.I.2", "19.I.6", "19.I.7"]
+canonical:
+  - queen-anne-irregular-2-5st
+  - maison-cossue-ornamented
+styles:
+  - victorian-eclectic
+  - queen-anne
+tenure_plan: single-family
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding:
+  - brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - "On the boulevard Saint-Joseph between the 18th and 34th Avenues, where the cahier says the finest examples stand."
+    - "On the chemin de LaSalle and rue McLaughlin, in a sector the cahier reads as having a village atmosphere produced by low density and regular siting, with back gardens giving directly onto Lac Saint-Louis and open views between the buildings."
+    - "In the Saint-Antoine – Remembrance sector, where mature vegetation harmonises a mix of domestic and institutional building."
+  massing:
+    - "The cahier gives no storey count. In Saint-Antoine – Remembrance it speaks of « belles séries d'habitations à la volumétrie plus ou moins complexe » — runs of houses of more or less complex massing — and that is the whole of what it says about volume."
+    - "Semi-detached as well as detached: « de belles maisons en brique jumelées d'inspiration victorienne »."
+  articulation:
+    - "The word the cahier repeats is « cossues » — opulent — set against the modest small-gabarit architecture around them."
+  openings:
+    - The cahier states nothing about the openings of this type.
+  materials:
+    - "Brick, in all three sectors."
+profile_fr:
+  description:
+    - "Entre la 18e et la 34e Avenue, le boulevard Saint-Joseph regroupe de beaux exemples de maisons bourgeoises en brique au goût victorien"
+    - "Ce secteur comprend en outre de belles maisons en brique jumelées d'inspiration victorienne et de belles séries d'habitations à la volumétrie plus ou moins complexe."
+    - "L'architecture, de petit gabarit, est modeste, mais on trouve aussi des maisons d'inspiration victorienne plus cossues."
+profile_note: >-
+  This is a thin record and it is thin because the source is. The cahier names the type three times in
+  three sectors and never describes it: no storeys, no roof, no openings, no ornament, no dates, no
+  addresses. Only the material — brick — and the two attributes "victorian-inspired" and "opulent" are
+  stated, plus the observation that some are semi-detached and that the massing of the runs is more or
+  less complex. Every other column is null. The canonical forms and the styles are this site's reading
+  of those words and of the photograph below; the cahier attributes no style and this record should be
+  revisited if a per-building inventory of Lachine ever becomes available.
+photos:
+  - file: assets/places/lachine/rue-mclaughlin-commons.jpg
+    credit: >-
+      Rue McLaughlin, Lachine — sector 19.I.7, where the cahier notes modest small-gabarit
+      architecture alongside "des maisons d'inspiration victorienne plus cossues". In the frame: a
+      red-brick house with a round corner turret under a conical slate roof, gabled and dormered
+      neighbours, and a lower stuccoed house with a columned porch. Photograph by Anne-Marie Dufour
+      for « Parcours riverain - Ville de Montréal », 12 November 2010, via Wikimedia Commons, CC BY
+      2.0.
+      https://commons.wikimedia.org/wiki/File:Rue_McLaughlin_(Lachine)_(8551544881).jpg
+    kind: single
+    licence: CC BY 2.0
+    source_url: https://commons.wikimedia.org/wiki/File:Rue_McLaughlin_(Lachine)_(8551544881).jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on street and on form. The photograph is of rue McLaughlin, which is named in the
+      description of sector 19.I.7, and the corner turret, irregular plan and asymmetrical front are
+      what put the record under the Queen Anne canonical form. No civic number, date or architect is
+      known for any building in the frame, and none is claimed.
+blurb_en: >-
+  The house of the people who did well out of the canal and the works: brick, opulent, Victorian in
+  taste, detached or semi-detached, standing among much plainer neighbours on the boulevard Saint-
+  Joseph, on the chemin de LaSalle and in the Saint-Antoine sector. The cahier calls it out three
+  times and describes it none of them.
+origin_en: >-
+  The firms that came to the canal at the end of the 19th century employed more than labourers.
+  "Outre les ouvriers," the cahier says, "les entreprises emploient des gens de métiers spécialisés
+  ainsi que des professionnels qui éliront domicile surtout dans le secteur ouest de Lachine" —
+  skilled tradesmen and professionals, who chose the west end. What they built there is the beginning
+  of the gradient this page is really about: worker housing east of the institutional core, bourgeois
+  houses in the middle, and beyond the 32nd Avenue the summer-resort houses of Summerlea on their
+  large treed lots, which belong to the shared West Island record for the villa anglaise de
+  villégiature rather than here.

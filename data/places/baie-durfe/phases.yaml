@@ -1,0 +1,39 @@
+# The shared West Island skeleton (Part 11a §2.2), adjusted for Baie-D'Urfé: p2 runs to the Grand
+# Trunk rather than to a village or a canal, because neither ever happened here — the town has no
+# village core, and its founding act as a municipality is a detachment from Sainte-Anne-de-Bellevue
+# in 1911, inside p3.
+#
+# Written in block style on purpose. The skeleton as printed in the brief uses YAML flow mappings —
+# {id: p5, label: 2002–2026, ..., title_en: Merger, demerger, and inventory, colour_key: p5} — and
+# inside a flow mapping a comma is a separator, so that title silently parses as title_en "Merger"
+# plus two null-valued keys. build.py does not catch it because title_en is still a string.
+- id: p1
+  label: 1663–1760
+  start: 1663
+  end: 1760
+  title_en: "Sulpician concessions on the chemin du Roy"
+  colour_key: p1
+- id: p2
+  label: 1760–1855
+  start: 1760
+  end: 1855
+  title_en: "Farms on the shore, and the Anglo-Saxon retrofit"
+  colour_key: p2
+- id: p3
+  label: 1855–1930
+  start: 1855
+  end: 1930
+  title_en: "The railway, the summer villas and the charter of 1911"
+  colour_key: p3
+- id: p4
+  label: 1930–2002
+  start: 1930
+  end: 2002
+  title_en: "The population quintuples, and the merger"
+  colour_key: p4
+- id: p5
+  label: 2002–2026
+  start: 2002
+  end: 2026
+  title_en: "Merger, demerger, and inventory"
+  colour_key: p5

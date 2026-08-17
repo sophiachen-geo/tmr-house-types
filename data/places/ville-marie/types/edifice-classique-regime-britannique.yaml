@@ -1,0 +1,121 @@
+id: ville-marie.edifice-classique-regime-britannique
+place: ville-marie
+phase: p2
+phase_confidence: verified
+display_order: 2
+name_en: Classical house of the British regime
+name_fr: Édifice d’inspiration classique du Régime britannique
+source_ref: 'RPCQ id 93528 (MCC); Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005)'
+source_generation: >-
+  RPCQ fiche 93528, sections « Valeur patrimoniale » and « Éléments caractéristiques » (fiche
+  source: Ministère de la Culture et des Communications du Québec, 2004), read 17 August 2026;
+  cross-read against the cahier's sector fiches 24.E.36, 24.E.39 and 24.E.43.
+sectors: ['SITE-93528', '24.E.36', '24.E.39', '24.E.43']
+canonical:
+- maison-cossue-ornamented
+styles:
+- palladien
+- neoclassical-quebec
+style_label: null
+tenure_plan: row
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- cut-stone
+- montreal-greystone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built on the public alignment, at high density, party-walled, like everything else inside the
+    old town; the RPCQ lists the setting-back of certain administrative and public buildings as the
+    exception that proves it.
+  - The Plan des commissaires of 1804 gave the quarter a terrace along the river, an enlarged
+    Champ-de-Mars and wider streets, and the three principal arteries bounding the site — rues de la
+    Commune, Saint-Antoine and McGill — descend from it.
+  massing:
+  - Not stated. The RPCQ says only that the site's gauges are heterogeneous and very variable,
+    particularly in height.
+  articulation:
+  - Symmetrical composition of the façade.
+  - The classical orders recalled — Doric, Ionic, Corinthian.
+  - Pediments and quoined angles.
+  openings:
+  - Not stated by either source for this family.
+  - The RPCQ does record, as a characteristic of the site, the relation between lot and street
+    "manifested by steps, carriage doors, railings, rights of way and several entrances — one on
+    each façade giving on the street".
+  materials:
+  - Cut stone (pierre de taille).
+  - Grey limestone predominant until 1850, then a wide variety of stone types.
+profile_fr:
+  elements_caracteristiques:
+  - >-
+    « La forte proportion de bâtiments du Régime britannique d’inspiration classique se distinguant
+    par l’emploi de la pierre de taille, la composition symétrique des façades, le rappel des ordres
+    classiques (dorique, ionique, corinthien), les frontons et les chaînages d’angle. »
+  - >-
+    « L’utilisation de matériaux traditionnels marquée par une prédominance de la pierre calcaire
+    grise jusqu’en 1850, puis par une grande variété de types de pierre. »
+  - >-
+    « La relation entre le lot et la rue se manifestant par la présence de marches, de portes
+    cochères, de grilles, de servitudes de passage et de plusieurs entrées, à savoir une sur chaque
+    façade donnant sur la rue. »
+  description:
+  - >-
+    « Les nombreux édifices d’inspiration classique du Régime britannique sont caractérisés, entre
+    autres, par la pierre calcaire grise. »
+profile_note: >-
+  Storeys, roof form and pitch, roofing, window proportion, lot width, setbacks and green front yard
+  are null because neither source states them. The RPCQ's sentence on this family is a sentence
+  about façades — stone, symmetry, orders, pediments, quoins — and says nothing about section or
+  roof; the site's massing it describes only as heterogeneous. Tenure plan is given as row because
+  the RPCQ's characteristic elements record party-wall construction and alignment on the street as
+  general to the site, not because either source classes this family by plan. This is a
+  reconstruction from a site fiche, not a type record from a typology document.
+related_buildings:
+- name: Banque de Montréal head office, rue Saint-Jacques, neoclassical, inaugurated 1847 — cahier
+    sector 24.E.37
+  url: null
+- name: Ancienne-Douane (1836–1838), John Ostell, 150 rue Saint-Paul, enlarged 1881–1882 — cahier
+    sector 24.E.39
+  url: null
+- name: Premier palais de justice de Montréal (1851–1857), néoclassique, with its 1905 annex —
+    cahier sector 24.E.43
+  url: null
+blurb_en: >-
+  What the British regime built when the walls came down: cut grey limestone, a symmetrical street
+  front, an order recalled rather than reproduced, a pediment, quoined angles. The RPCQ treats it as
+  the most numerous family in the site — « la forte proportion de bâtiments du Régime britannique
+  d'inspiration classique » — and, because a site fiche describes a landscape rather than a house,
+  it describes the family entirely in terms of the façade.
+origin_en: >-
+  From 1800 Montréal became the principal city of the two Canadas. The political upheavals of the
+  18th century, the Conquest and American independence among them, drove population growth and
+  immigration, and dynamic import-export merchants replaced the magnates of the fur trade. The
+  RPCQ's account of the change is architectural in one line: <em>« Les maisons en bois des artisans
+  font place aux résidences et édifices en pierre d'inspiration néoclassique. »</em> The
+  fortifications were demolished between 1801 and 1817 and three commissioners were appointed to
+  plan the freed ground; their terrace along the river, enlarged Champ-de-Mars and wider streets are
+  still the frame of the quarter. Grey limestone stayed the predominant material until 1850. The
+  two great fires of 9 and 10 July 1852, which destroyed some 1 200 dwellings and left about 10 000
+  people homeless, ended wooden construction in the city outright and made stone the rule rather
+  than the preference.
+photos:
+- file: assets/places/ville-marie/maison-papineau-rue-bonsecours-commons.jpg
+  credit: >-
+    Maison Papineau, 440 rue de Bonsecours, Vieux-Montréal — a symmetrically composed street front
+    with quoined angles, a carriage arch and a dormered roof. Photograph by Jeangagnon, 24 July
+    2011, Wikimedia Commons, CC BY-SA 3.0.
+    https://commons.wikimedia.org/wiki/File:Maison_Papineau_01.jpg — licence, author and file URL
+    read through the Commons API before download; the photograph was opened and checked against its
+    description. Shown as an example of the classical street front the RPCQ describes, not as a
+    building either source attributes to this family by name.
+  kind: single

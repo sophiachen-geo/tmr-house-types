@@ -1,0 +1,161 @@
+# The five sectors the 2005 cahier defines that fall inside Baie-D'Urfé, out of the fifteen it
+# defines for the merged arrondissement of Beaconsfield–Baie d'Urfé. summary_fr is the cahier's own
+# paragraph, transcribed whole from sources/west-island/baie-durfe/03_beaconsfield-baie-durfe.txt
+# (pp. 29–35). The cahier does not tabulate which sector belongs to which of the two former
+# municipalities; the assignment here is made from addresses, and is checkable: every address the
+# cahier names in these five sectors also appears in the Ville de Baie-D'Urfé's own annexe C
+# inventory (règlement 1108, 2025), while the sectors left out — Le Bocage/The Grove, Centennial,
+# Thompson Point, Beaurepaire, Jasper-Pilon, Gables Court, Maplebrook, Devon-York, Lakeview-Morgan —
+# name only Beaconsfield addresses.
+#
+# Two of the cahier's postwar sectors are left out and the reason is worth stating, because both
+# would otherwise be the natural evidence for a postwar-bungalow record here. 4.U.1 Devon-York
+# ("suites de bâtiments de l'après-guerre en bonne condition rappelant le « ranch » californien") is
+# bounded by the rues Windsor and Church, neither of which appears in Baie-D'Urfé's own inventory.
+# 4.U.3 Lakeview-Morgan ("petites séries de maisons de ville datant de l'après-guerre, peut-être
+# construites pour des vétérans") is named for two streets the cahier elsewhere calls Baie-D'Urfé
+# roads but is located "entre les rues Victoria et Surrey", and the boundary could not be resolved
+# from any document this project read. Both are therefore recorded here as unresolved rather than
+# claimed. Baie-D'Urfé's own postwar evidence is 4.U.2 Sunny Acres, which règlement 1108 confirms in
+# the town's own words, plus the cahier's historique.
+#
+# The arrondissement number printed inside the volume is 4; the file the Ville publishes is
+# 03_evaluation_patrimoine_bbu.pdf. Both are stored on the place record.
+#
+# None of these sectors is a protected territory. "exceptional" and "interesting" are the cahier's
+# evaluation vocabulary and carry no statutory effect. The town's 2025 plan d'urbanisme carries
+# three of them forward in its own words and drops Oakridge from the exceptional class.
+
+- id: oakridge
+  code: 4.E.4
+  code_eval2005: 4.E.4
+  name_fr: Secteur Oakridge
+  value: exceptional
+  summary_en: >-
+    Two adjoining properties on one of the highest points in the town, with a view over the lake,
+    now marooned in recent housing: a large bourgeois villa by the architect Edward Maxwell at 211
+    rue Oakridge beside an old farmhouse with outbuildings at 20-22 rue Picardy.
+  summary_fr: >-
+    Sur l'un des points les plus élevés du territoire, avec vue sur lac, se trouvent deux propriétés
+    contiguës formant une unité de paysage noyée dans un développement résidentiel récent. La grande
+    villa bourgeoise du 211, rue Oakridge, de l'architecte Edward Maxwell, jouxte une ancienne maison
+    de ferme accompagnée de bâtiments secondaires implantés sur la grande propriété du 20-22, rue
+    Picardy. Cet ensemble pourrait avoir été habité et exploité par l'architecte gentleman farmer.
+  streets: ["rue Oakridge", "rue Picardy"]
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Beaconsfield–Baie d'Urfé (2005), p. 29"
+  note: >-
+    The town's 2025 plan d'urbanisme does not carry this sector forward among the sectors of
+    exceptional value; its own list names only the hôtel de ville / parc Fritz group there. Both
+    addresses remain in the town's annexe C inventory — 211 rue Oakridge graded Supérieure, 20 rue
+    Picardy graded Supérieure. The Commons photograph of 211 rue Oakridge is captioned « Ferme
+    Maxwelton », a name the cahier does not use.
+
+- id: hotel-de-ville-fritz-farm
+  code: 4.E.5
+  code_eval2005: 4.E.5
+  name_fr: Secteur Hôtel de ville – Fritz Farm
+  value: exceptional
+  summary_en: >-
+    The town's one sector of exceptional value, on both sides of the chemin du Lakeshore: the former
+    town hall, renovated and enlarged in 1913 by the Maxwell brothers, closing the view down rue
+    Morgan, and across the road the large villa on the site of the old Fritz farm with a small
+    village house next to it.
+  summary_fr: >-
+    Situé de part et d'autre du chemin du Lakeshore, ce secteur comprend l'ancien hôtel de ville de
+    Baie-d'Urfé, bâtiment rénové et agrandi en 1913 par les architectes Maxwell. Du côté du lac
+    Saint-Louis, il ferme la perspective de la rue Morgan, l'un des plus anciens tracés de
+    Baie-d'Urfé. Le secteur comprend, au sud du chemin, la grande villa implantée sur le site de
+    l'ancienne ferme Fritz, propriété d'un gentleman farmer (une petite maison villageoise lui est
+    contiguë). Les bâtiments, respectivement à vocation civique et domestique, rappellent
+    l'engouement de la haute bourgeoisie montréalaise pour Baie-d'Urfé et ses pratiques de gentleman
+    farmer.
+  streets: ["chemin du Lakeshore", "rue Morgan"]
+  source: "Évaluation 2005, pp. 29–30; the photo caption gives the town hall's address as 20410 chemin Lakeshore"
+  note: >-
+    The 2025 plan d'urbanisme carries this sector forward as the town's single secteur de valeur
+    exceptionnelle, adds the riverside park and the parc Fritz with its community centre to it, and
+    says plainly why it is safe: « La pérennité du secteur de valeur exceptionnelle et de ses trois
+    bâtiments patrimoniaux qui regroupe le parc Fritz et le site de l'hôtel de ville est assurée du
+    fait qu'il est entièrement propriété municipale. » Ownership, not designation.
+
+- id: chemin-du-lakeshore
+  code: 4.I.1
+  code_eval2005: 4.I.1
+  name_fr: Chemin du Lakeshore
+  value: interesting
+  summary_en: >-
+    The densest concentration of heritage buildings in the arrondissement, and the fullest
+    description of a house type anywhere in this town's sources — old farmhouses, bourgeois houses
+    and summer villas of the late nineteenth and early twentieth centuries, standing far back from a
+    winding road with no sidewalks, among mature trees, and under heavy demolition pressure from the
+    lake views.
+  summary_fr: >-
+    Le chemin du Lakeshore regroupe la plus grande densité de bâtiments d'intérêt patrimonial de
+    l'arrondissement. Son parcours comprend d'anciennes maisons de ferme, des maisons bourgeoises et
+    des villas d'été de la fin du XIXe siècle et du début du XXe siècle qui nous sont parvenues avec
+    des degrés d'authenticité divers. Un grand nombre d'entre elles, bien que passablement modifiées,
+    ont conservé les caractéristiques essentielles de leur architecture d'origine. Ces immeubles plus
+    anciens s'insèrent dans une majorité de constructions allant de la seconde moitié du XXe siècle à
+    nos jours et dont l'intérêt est variable.
+  streets: ["chemin du Lakeshore", "rue Lakeview", "rue Sunny Acres", "avenue Woodland"]
+  source: "Évaluation 2005, p. 31"
+  note: >-
+    The cahier's own list of what makes the road remarkable, and of what is destroying it, is worth
+    quoting whole: « l'ancienneté de son tracé sinueux, qui se conforme à la géographie des rives du
+    lac Saint-Louis et qui génère des points de vue, perspectives et alignements divers; la cohérence
+    de son ensemble regroupant plusieurs immeubles patrimoniaux; les modes d'implantation de ceux-ci,
+    avec grandes marges de recul de la voie publique; son caractère champêtre attribuable à la
+    végétation mature, à la grande qualité des aménagements qui le bordent et à l'absence de
+    trottoirs. Les vues exceptionnelles qu'il offre sur le lac Saint-Louis attisent la spéculation
+    immobilière. Cette pression explique en grande partie l'hétérogénéité du secteur, causée par le
+    morcellement des lots et leur densification, la démolition de bâtiments à des fins de
+    construction ou leur rénovation en maisons unifamiliales de très grand gabarit qui brisent
+    l'harmonie de l'ensemble. » The 2025 plan d'urbanisme carries the sector forward, over the whole
+    length of the road, as a secteur de valeur intéressante.
+
+- id: oxford
+  code: 4.I.7
+  code_eval2005: 4.I.7
+  name_fr: Secteur Oxford
+  value: interesting
+  summary_en: >-
+    One street of the early-twentieth-century "candelabra" plan called Old College Green, next to
+    Macdonald College across the Sainte-Anne-de-Bellevue line: town houses of heritage interest, some
+    of which recall the campus architecture and were probably built by or for its teaching staff.
+  summary_fr: >-
+    Des trois rues constituant la forme urbaine en « chandelier » appelée Old College Green (datant
+    du début du XXe siècle), seule la rue Oxford a conservé un ensemble de valeurs historiques,
+    architecturales et paysagères justifiant sa constitution en secteur intéressant. Dans les années
+    1950, les rues Oxford et Cambridge et l'avenue St. Andrew étaient, avec le chemin du Lakeshore et
+    les rues Morgan et Lakeview, les seules voies carrossables de Baie-d'Urfé. Ce secteur jouxte le
+    MacDonald College de Sainte-Anne-de-Bellevue. La rue Oxford, à la frontière de l'arrondissement,
+    regroupe des maisons citadines d'intérêt patrimonial dont certaines, rappelant l'architecture du
+    campus, ont probablement été construites par ou pour le corps professoral du collège. La rue
+    Oxford donne sur un petit cimetière aux qualités paysagères remarquables.
+  streets: ["rue Oxford", "rue Cambridge", "avenue St. Andrew"]
+  source: "Évaluation 2005, p. 34"
+  note: >-
+    That sentence about the 1950s is the single best measure of how little of this town existed
+    before the war: six drivable streets. The town's own history records that the population
+    quintupled in the 1950s.
+
+- id: sunny-acres
+  code: 4.U.2
+  code_eval2005: 4.U.2
+  name_fr: Sunny Acres
+  value: urban-ensemble
+  summary_en: >-
+    A thin band of ground crossing the south of the territory whose winding course alternates
+    junctions and pocket parks. The cahier is explicit that the interest is in the views and the
+    planting rather than in the buildings.
+  summary_fr: >-
+    La forme urbaine de cette mince bande de terrain traversant la portion sud du territoire est très
+    particulière. Son parcours sinueux déploie, en alternance, des carrefours et des petits parcs. La
+    variété des points de vue ainsi créée et la végétation exceptionnelle, plus que l'architecture
+    des bâtiments, en font un secteur d'intérêt.
+  streets: ["rue Sunny Acres"]
+  source: "Évaluation 2005, p. 35"
+  note: >-
+    The 2025 plan d'urbanisme confirms the assignment to Baie-D'Urfé and restates it in the town's
+    own words: « Le secteur de la rue Sunny Acres, par son homogénéité et son ambiance, est considéré
+    comme un ensemble urbain d'intérêt qui illustre l'évolution des formes résidentielles locales. »

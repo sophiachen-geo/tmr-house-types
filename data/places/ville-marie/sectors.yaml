@@ -1,0 +1,1033 @@
+# Eighty-nine rows: the 87 sectors the 2005 cahier grades in this arrondissement (67 E + 19 I +
+# 1 U), the provincial declaration that lies across twelve of them, and one cross-boundary
+# reference row for Milton-Parc, which is not in this borough at all. The names are transcribed from the headings printed inside the cahier (printed
+# pp. 42-92) and the codes are read from inside the document, never from the filename: every code
+# it prints begins 24. See prose notes for the 24-vs-25 collision.
+#
+# 67 secteurs de valeur patrimoniale exceptionnelle, 24.E.1-24.E.67 -> value: exceptional
+# 19 secteurs de valeur patrimoniale interessante, 24.I.1-24.I.19  -> value: interesting
+#  1 ensemble urbain d'interet, 24.U.1                             -> value: urban-ensemble
+# The two ensembles industriels d'interet (24.N.1 le secteur du quai Bickerdike, 24.N.2 le secteur
+# du port de Montreal) and the six secteurs d'interet archeologique a fort potentiel (24.AP.1-6)
+# are NOT rows here: this site's sector vocabulary has no value for an ensemble industriel, and no
+# AP fiche was transcribed for this place. Both sets are counted in place.yaml building_counts.
+#
+# The first row is not a cahier sector. The site patrimonial de Montreal is a provincial
+# declaration lying across sectors 24.E.36-24.E.47, and it is recorded as a sector and not as a
+# place of its own under the Part 9 promotion rule: see the row's own note.
+
+- id: site-patrimonial-de-montreal
+  code: SITE-93528
+  name_fr: Site patrimonial de Montréal (Vieux-Montréal)
+  value: declared-site
+
+  summary_en: >-
+    QUARTIER FEATURE — VIEUX-MONTRÉAL, AND THE PROMOTION RULE'S FIRST NEGATIVE CASE. A provincially
+    declared site, not a sector of the cahier: about 1 400 m east–west by 800 m north–south, roughly
+    one square kilometre, holding 557 édifices et vestiges built between the 17th and the 20th
+    century, bounded by rue Saint-Antoine north, the fleuve Saint-Laurent south, the faubourg Québec
+    with rues Saint-Hubert and Saint-André east and the faubourg des Récollets with rues McGill, De
+    Longueuil and des Sœurs-Grises west, taking in the pointe à Callière sector and the Vieux-Port.
+    Declared 1964-01-08; re-declared with enlarged limits 1995-04-26 to take in the old
+    fortifications, which the RPCQ statuts table treats as the operative status with 1964 as the
+    statut antérieur; a transfert de responsabilité to the Ville de Montréal registered 2017-09-21,
+    in effect 2018-09-21. In the 2005 cahier the same territory is covered by twelve sectors,
+    24.E.36 to 24.E.47, each of which has its own row below.
+
+  summary_fr: >-
+    « Le site est caractérisé par la densité de sa trame, les dimensions imposantes des bâtiments et
+    la diversité des fonctions qui s’y retrouvent. Il compte 557 édifices et vestiges construits à
+    différents moments entre le XVIIe siècle et le XXe siècle. Entrepôts, bâtiments religieux,
+    édifices à bureaux, banques, sièges sociaux de compagnies, palais de justice et autres édifices
+    institutionnels forment un paysage architectural diversifié, rendu harmonieux par l’omniprésence
+    de la pierre calcaire grise. »
+
+  characteristics_fr:
+  - >-
+    « Les immeubles les plus anciens - habitations et édifices conventuels - qui datent de l’époque
+    de la Nouvelle-France présentent une maçonnerie en pierre et des toits à pignon. »
+  - >-
+    « Les nombreux édifices d’inspiration classique du Régime britannique sont caractérisés, entre
+    autres, par la pierre calcaire grise. »
+  - >-
+    « L’architecture éclectique du XIXe siècle s’observe dans les édifices à bureaux, banques, sièges
+    sociaux de compagnies d’assurances et palais de justice. »
+  - >-
+    « Le site compte enfin quelques bâtiments d’intérêt du XXe siècle, notamment des édifices art
+    déco, rationalistes et fonctionnalistes. »
+  - >-
+    « L’utilisation de matériaux traditionnels marquée par une prédominance de la pierre calcaire
+    grise jusqu’en 1850, puis par une grande variété de types de pierre. »
+  - >-
+    « La relation entre le lot et la rue se manifestant par la présence de marches, de portes
+    cochères, de grilles, de servitudes de passage et de plusieurs entrées, à savoir une sur chaque
+    façade donnant sur la rue. »
+  plan_de_conservation: "plan de conservation NOT RETRIEVED — and, on the evidence, not published"
+
+  note: >-
+    Vieux-Montréal stays a sector on this site and is not promoted to a place of its own. It meets
+    the shape of the Part 9 rule — a declared site inside a borough, exactly like Charlesbourg — but
+    it fails the rule's condition, which is that a distinct per-type source must exist for it. The
+    ministerial plan de conservation was not retrieved and appears not to exist: the Conseil du
+    patrimoine culturel's own page for the site carries no plan, no règlement and no directive, and
+    the MCC's former plans-de-conservation index now redirects to a generic landing page. Without it
+    there is no per-type document, and a Vieux-Montréal place page would only repeat this borough's.
+    This is the first negative case the rule has produced, and it is the case that shows the rule
+    discriminates rather than promoting everything that carries a status.
+
+  source: 'RPCQ id 93528, ministère de la Culture et des Communications (fiche source: 2004); statuts table read 17 August 2026'
+
+
+- id: 24-e-1-le-parc-du-mont-royal
+  code: 24.E.1
+  name_fr: 'Le parc du Mont-Royal'
+  value: exceptional
+  summary_en: >-
+    The mountain park, on one of the three summits of Mount Royal, inside the arrondissement
+    historique et naturel du mont Royal. The cahier records Frederick Law Olmsted chosen in 1874 to
+    design it and the park inaugurated in 1876, his plan only partly built; the maison
+    Josea-Bonen-Smith of 1858, the cross of 1924, the 1931–32 chalet by Aristide
+    Beaugrand-Champagne, the lac aux Castors dug 1937–38 to Frederick Todd's plans with its 1955–58
+    pavilion by Hazen Sise and Guy Desbarats, and the voie Camillien-Houde of 1958 that finally let
+    cars in.
+  summary_fr: >-
+    « Le secteur du parc du Mont-Royal est un site naturel exceptionnel possédant quelques bâtiments
+    qui s’y sont implantés de façon libre. »
+  streets: [voie Camillien-Houde, chemin Remembrance]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-2-trafalgar
+  code: 24.E.2
+  name_fr: 'Trafalgar'
+  value: exceptional
+  summary_en: >-
+    An almost entirely residential pocket in a hollow either side of the chemin de la
+    Côte-des-Neiges, developed late — the Côte-des-Neiges tramway of 1906 gave it its first push and
+    small residential ensembles followed between 1930 and 1960. The block between chemin McDougall
+    and the chemin de la Côte-des-Neiges holds two large freestanding conciergeries of 1929, the
+    Trafalgar and the Gleneagles, with the Sparrow and Thompson houses between them. The cahier
+    reads the whole sector as the natural continuation of Westmount, in street grid, massing and
+    siting alike.
+  summary_fr: >-
+    « Ce secteur est le prolongement naturel de Westmount, tant par la trame des rues que par la
+    volumétrie et l’implantation des constructions. »
+  streets: [chemin de la Côte-des-Neiges, chemin McDougall, avenue Highland, croissant Blueridge]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-3-lhopital-general
+  code: 24.E.3
+  name_fr: 'L’Hôpital général'
+  value: exceptional
+  summary_en: >-
+    The Montréal General Hospital and the streets around it on the south flank of the mountain,
+    developed 1850–1915. The cahier names the maison J.-Henry-Birks of 1898 by Edward Maxwell, the
+    former residence at 1597 avenue des Pins Ouest and the maison David-R.-Brown of 1912 at 1570
+    avenue des Pins, and singles out the contiguous house, since subdivided into flats, as one of
+    the dominant architectural types — which is what separates this sector from the Mille carré doré
+    just east of it: density.
+  summary_fr: >-
+    « Ce secteur, développé entre 1850 et 1915, se détache du « mille carré doré », situé plus à
+    l’est, surtout en raison de la densité de son paysage bâti. »
+  streets: [avenue des Pins Ouest, avenue Cedar, avenue du Docteur-Penfield]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-4-le-fort-de-la-montagne
+  code: 24.E.4
+  name_fr: 'Le Fort de la Montagne'
+  value: exceptional
+  summary_en: >-
+    The Sulpician domain, in two parts the cahier letters itself: 24.E.4a is the classed site
+    historique of the Domaine des Messieurs de Saint-Sulpice with the east and west towers, remains
+    of the older fort de la Montagne, and 24.E.4b the properties of the Sœurs de la Congrégation de
+    Notre-Dame south of rue Sherbrooke either side of avenue Atwater. Also here: the Grand Séminaire
+    of 1854 by John Ostell, the Collège de Montréal of 1867–71 by Henri-Maurice Perreault, the école
+    normale Jacques-Cartier of 1913 by J.-Omer Marchand, and the former couvent des Petites Filles
+    de Saint-Joseph of 1910 at 2333 rue Sherbrooke Ouest by Alfred-Hector Lapierre.
+  summary_fr: >-
+    « L’ensemble du domaine et des tours de la montagne a reçu le statut de site historique classé
+    par le gouvernement provincial et de lieu historique national par le gouvernement fédéral. »
+  streets: [rue Sherbrooke Ouest, avenue Atwater]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-5-lavenue-atwater
+  code: 24.E.5
+  name_fr: 'L’avenue Atwater'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-6-le-seminaire-de-philosophie
+  code: 24.E.6
+  name_fr: 'Le Séminaire de philosophie'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-7-le-village-lincoln
+  code: 24.E.7
+  name_fr: 'Le Village Lincoln'
+  value: exceptional
+  summary_en: >-
+    The sector whose row houses this page uses to illustrate the greystone terrace. John Ostell's
+    1842 master plan turned development north-west and let rues Sainte-Catherine and Sherbrooke be
+    extended; rues Chomedey and Lambert-Closse were cut about 1880 and most lots built between 1890
+    and 1929. The cahier names six remarkable row houses at 1419–1441 rue Pierce, built in 1889–1890
+    by the architect Robert Findlay — also known as the maisons en rangée William D. Stroud,
+    restored in 1997.
+  summary_fr: >-
+    « Bien que le territoire soit très dense, la présence de plusieurs maisons d’intérêt patrimonial
+    ainsi que de belles rangées de maisons traditionnelles rendent le secteur exceptionnel. »
+  streets: [rue Pierce, rue Chomedey, rue Lambert-Closse, boulevard De Maisonneuve Ouest]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-8-la-rue-sainte-catherine-entre-guy-et-atwater
+  code: 24.E.8
+  name_fr: 'La rue Sainte-Catherine entre Guy et Atwater'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-9-le-village-shaughnessy
+  code: 24.E.9
+  name_fr: 'Le Village Shaughnessy'
+  value: exceptional
+  summary_en: >-
+    QUARTIER FEATURE — VILLAGE SHAUGHNESSY. A residential quarter, the cahier says, apart from the
+    Montreal Children's Hospital of 1912 at its west end and the Canadian Centre for Architecture. A
+    few large bourgeois villas went up on what was then rue Dorchester in the 19th century, of which
+    the maison Shaughnessy — carefully restored and incorporated into the CCA complex towards the
+    end of the 1980s — is the survivor. Between 1870 and 1910 the surrounding streets filled with
+    middle-class single-family row houses, and the cahier's description of them is the closest thing
+    this borough has to a type record: two and a half storeys, stone or sometimes brick on the
+    principal façade, mostly Second Empire in inspiration, with good maisons de rapport of the 1920s
+    among them. The quarter is marketed today as the « Quartier des Grands Jardins ».
+  summary_fr: >-
+    « Entre 1870 et 1910, de nombreuses maisons unifamiliales en rangée destinées à la classe
+    moyenne ont été construites sur les rues avoisinantes; ce sont généralement des maisons de deux
+    étages et demi, avec revêtement de pierre ou parfois de brique sur la façade principale. La
+    plupart d’entre elles sont d’inspiration Second Empire. On retrouve aussi dans le secteur de
+    bons exemples de maisons de rapport érigées dans les années 1920. »
+  streets: [rue Baile, rue du Fort, rue Seymour, boulevard René-Lévesque Ouest]
+  note: >-
+    Protection: none at ensemble scale. The maison Shaughnessy itself was classed in November 1973,
+    two months after the Van Horne demolition, and the CCA was built around it; the terraces that
+    make the quarter are covered only by the borough's PIIA. The renaming to « Quartier des Grands
+    Jardins » is the Ville's programme de particularisation, not a heritage status.
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-10-le-couvent-des-s-urs-grises
+  code: 24.E.10
+  name_fr: 'Le Couvent des Sœurs Grises'
+  value: exceptional
+  summary_en: >-
+    One of the great conventual ensembles of Montréal: the couvent des Sœurs Grises, the aile
+    Saint-Mathieu and the chapelle de l'Invention-de-la-Sainte-Croix, designed by Victor Bourgeau
+    and built between 1869 and 1888, with the 1890 bell tower by Perrault et Mesnard. The chapel was
+    classed a monument historique in November 1974 and the ensemble declared a site historique in
+    January 1976.
+  streets: [rue Guy, boulevard René-Lévesque Ouest, rue Saint-Mathieu]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-11-rue-du-souvenir
+  code: 24.E.11
+  name_fr: 'Rue du Souvenir'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-12-le-haut-de-la-falaise
+  code: 24.E.12
+  name_fr: 'Le haut de la falaise'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-13-le-secteur-guy-drummond-nord-entre-les-rues-sherbrooke-et-sain
+  code: 24.E.13
+  name_fr: 'Le secteur Guy-Drummond nord (entre les rues Sherbrooke et Sainte-Catherine)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-14-la-rue-sainte-catherine-entre-les-rues-stanley-et-guy
+  code: 24.E.14
+  name_fr: 'La rue Sainte-Catherine (entre les rues Stanley et Guy)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-15-la-rue-de-la-montagne-et-le-boulevard-rene-levesque-ouest
+  code: 24.E.15
+  name_fr: 'La rue de la Montagne et le boulevard René-Lévesque Ouest'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-16-ilot-overdale
+  code: 24.E.16
+  name_fr: 'Îlot Overdale'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-17-secteur-lusignan-et-versailles
+  code: 24.E.17
+  name_fr: 'Secteur Lusignan et Versailles'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-18-le-square-dorchester-et-la-place-du-canada
+  code: 24.E.18
+  name_fr: 'Le square Dorchester et la place du Canada'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-19-la-rue-sainte-catherine-de-stanley-au-square-phillips
+  code: 24.E.19
+  name_fr: 'La rue Sainte-Catherine de Stanley au square Phillips'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-20-la-rue-sainte-catherine-du-square-phillips-a-jeanne-mance
+  code: 24.E.20
+  name_fr: 'La rue Sainte-Catherine du square Phillips à Jeanne-Mance'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-21-les-rues-jeanne-mance-et-saint-urbain-au-sud-de-sherbrooke
+  code: 24.E.21
+  name_fr: 'Les rues Jeanne-Mance et Saint-Urbain au sud de Sherbrooke'
+  value: exceptional
+  summary_en: >-
+    The cahier calls this some of the most interesting late-19th-century residential architecture in
+    downtown Montréal: the rue Jeanne-Mance houses built 1886–1897, whose façades were classed in
+    1975, with further residential ensembles on rues Saint-Urbain and De Bleury. Also here the
+    Institut de technologie de Montréal of 1909–10 by Saxe and Archibald, now UQAM's Pavillon des
+    Arts, the church of St John the Evangelist (Darling and Thomas, 1877–79) and the Bell building
+    by Carmichael (1915–23).
+  summary_fr: >-
+    « Cette zone comprend quelques-uns des plus intéressants témoins de l’architecture résidentielle
+    de la fin du XIXe siècle au centre-ville de Montréal. »
+  streets: [rue Jeanne-Mance, rue Saint-Urbain, rue De Bleury]
+  note: >-
+    The sector stops at rue Sherbrooke — its own name says so. North of Sherbrooke the same fabric
+    continues as Milton Park, and that is in another borough and another cahier: see the 25.E.12 row
+    below.
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-22-beaver-hall-paper-hill
+  code: 24.E.22
+  name_fr: 'Beaver Hall, Paper Hill'
+  value: exceptional
+  summary_en: >-
+    Laid out in regular lots from about 1840 around St Patrick's church of 1843–47, and filled with
+    contiguous houses and institutions for the Irish Catholic population. At the start of the 20th
+    century it became the centre of the Montréal printing trade — hence Paper Hill — and buildings
+    of at least five storeys, usually brick-faced, replaced the dwellings: the J.-C. Wilson paper
+    works, the Southam building, the Desbarats' Building built for The Gazette, the Unity Building,
+    the Read and the Crane.
+  streets: [côte du Beaver Hall, boulevard René-Lévesque Ouest]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-23-gare-centrale-place-ville-marie
+  code: 24.E.23
+  name_fr: 'Gare Centrale – Place Ville-Marie'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-24-le-complexe-desjardins-et-la-place-des-arts
+  code: 24.E.24
+  name_fr: 'Le Complexe Desjardins et la Place des Arts'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-25-griffintown
+  code: 24.E.25
+  name_fr: 'Griffintown'
+  value: exceptional
+  summary_en: >-
+    Between rue McGill and the autoroute Bonaventure either side of rue William. Farmland with a few
+    wooden houses and artisans' shops until the end of the 18th century; urbanised after the
+    fortifications came down between 1804 and 1817 and then densely settled by a working population.
+    The maison Abner-Bagg at 682 rue William and the Buchanan and Penn warehouses are the cahier's
+    examples of the first half of the 19th century. From the middle of that century industry
+    replaced the dwellings, and the CN elevated line of 1933 and the Bonaventure expressway of 1965
+    cut the sector off from everything around it.
+  streets: [rue William, rue McGill, rue Ottawa]
+  note: >-
+    The other half of Griffintown is in Le Sud-Ouest, where it is sector 22.E.1's north bank and the
+    aire de paysage 5 of the Patri-Arch study. One quarter, two boroughs, two cahiers, two code
+    prefixes.
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-26-lhopital-royal-victoria
+  code: 24.E.26
+  name_fr: 'L’Hôpital Royal Victoria'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-27-campus-mcgill
+  code: 24.E.27
+  name_fr: 'Campus McGill'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-28-le-croissant-redpath
+  code: 24.E.28
+  name_fr: 'Le Croissant Redpath'
+  value: exceptional
+  summary_en: >-
+    A single building campaign of the 1920s and 1930s inside the arrondissement naturel et
+    historique du mont Royal, with great stylistic coherence: large bourgeois residences of English
+    inspiration, mostly three storeys under a two-slope roof, faced in clay brick or stone, on a
+    cul-de-sac among mature trees, still in residential use.
+  streets: [croissant Redpath]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-29-le-mille-carre-dore
+  code: 24.E.29
+  name_fr: 'Le Mille carré doré'
+  value: exceptional
+  summary_en: >-
+    QUARTIER FEATURE — LE MILLE CARRÉ DORÉ. PROTECTION: NONE AT ENSEMBLE SCALE. This is the richest
+    domestic architecture on the island of Montréal and it has no ensemble designation. The cahier
+    grades it exceptionnelle and dates its urbanisation 1860–1935; Héritage Montréal dates the
+    quarter's golden age 1840–1930 and its buildings principally 1850–1930. The cahier describes a
+    residential sector of bourgeois houses often set in gardens with outbuildings, remarkable both
+    for the architectural quality of the buildings and for the clearance it gives the mountain,
+    holding freestanding single-family residences, luxurious row houses and rich apartment
+    buildings, some of the villas now occupied by offices, embassies, consulates and trade
+    delegations. Héritage Montréal: the Square Mile heritage ensemble "does not have a designation
+    or specific strategy to protect and promote its heritage over current urban development
+    considerations, such as urban planning parameters or building standards", and adds that the
+    interiors, gardens and ancillary buildings enjoy no recognition at all. Only the part north of
+    avenue du Docteur-Penfield falls inside the site patrimonial du Mont-Royal; six blocks of it are
+    the classed Complexe-de-La-Maison-Alcan. Attrition, as English Wikipedia states it citing
+    Rémillard and Merrett's Mansions of the Golden Square Mile (1987): "By 1983, only 30% of the
+    mansions in the northern half of the Square Mile had survived demolition; and only 5% survived
+    south of Sherbrooke Street." Héritage Montréal's own page puts it more cautiously — "Only about
+    30% of the bourgeois homes survived, north of Sherbrooke Street" — and gives neither the year
+    nor the 5%. Risk flag: Héritage Montréal records that McGill plans to close several of the large
+    residences it owns here under the Master Plan approved by its Board of Governors in 2019, which
+    states that they are no longer suitable for the University's institutional needs.
+  summary_fr: >-
+    « Compris dans l’arrondissement historique et naturel du mont Royal, ce secteur résidentiel est
+    urbanisé entre 1860 et 1935. C’est un quartier de résidences bourgeoises souvent entourées de
+    jardins et de dépendances. Il demeure relativement homogène et est particulièrement intéressant
+    tant en raison de la qualité architecturale des bâtiments qui le composent que par le dégagement
+    qu’il assure à la montagne. On y voit notamment des résidences unifamiliales isolées, de
+    luxueuses maisons en rangée et de riches immeubles de logements. »
+  streets: [rue Peel, rue Redpath, avenue du Docteur-Penfield, rue Drummond, rue Stanley, avenue des Pins Ouest]
+  plan_de_conservation: "protection: none-at-ensemble-scale"
+  note: >-
+    Rough bounds, as commonly given and not as any instrument defines them, because no instrument
+    defines them: boulevard René-Lévesque (formerly Dorchester) south, avenue des Pins north, rue
+    University east, rues Guy / chemin de la Côte-des-Neiges west. The one sharpest comparison in
+    this project: 2.7 hectares on a point in Pointe-Claire carry a municipal citation, and this does
+    not. Designation tracks legibility and local politics, not architectural quality.
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-30-le-mille-carre-dore-sud
+  code: 24.E.30
+  name_fr: 'Le Mille carré doré Sud'
+  value: exceptional
+  summary_en: >-
+    The southern half of the Mille carré doré, and — the cahier says so itself — outside the
+    arrondissement historique et naturel du mont Royal. Slightly less homogeneous than the part
+    north of rue Sherbrooke, but with substantially the same characteristics as 24.E.29. This is the
+    half where, on Rémillard and Merrett's figures as cited by English Wikipedia, only 5% of the
+    mansions survived to 1983. The cahier's own illustration is the maison Slessor of 1890 at 1538
+    avenue du Docteur-Penfield.
+  summary_fr: >-
+    « Ce secteur est constitué de la portion sud du mille carré doré et ne fait pas partie de
+    l’arrondissement historique et naturel du mont Royal. Le niveau d’homogénéité est un peu moindre
+    qu’au nord de la rue Sherbrooke, mais les caractéristiques générales de la zone sont
+    sensiblement les mêmes que celles du secteur 24.E.29. »
+  streets: [rue Sherbrooke Ouest, avenue du Docteur-Penfield, rue Stanley, rue Drummond]
+  plan_de_conservation: "protection: none-at-ensemble-scale"
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-31-les-impasses
+  code: 24.E.31
+  name_fr: 'Les Impasses'
+  value: exceptional
+  summary_en: >-
+    Single-family houses built from 1900 to the end of the 1920s on large lots originally cut for
+    villas, grouped into ensembles of contiguous two- or three-storey houses around a court or a
+    pedestrian way. The cahier reads the arrangement round these impasses and semi-private gardens
+    as what gives the street its character, and names avenues Summerhill, de Seaforth and Selkirk
+    alongside rues Redpath and Simpson and avenue du Musée.
+  streets: [rue Redpath, rue Simpson, avenue du Musée, avenue Summerhill, avenue de Seaforth, avenue Selkirk]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-32-les-terres-redpath-sud
+  code: 24.E.32
+  name_fr: 'Les terres Redpath sud'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-33-le-domaine-mctavish
+  code: 24.E.33
+  name_fr: 'Le Domaine McTavish'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-34-la-rue-sherbrooke-ouest-datwater-a-peel
+  code: 24.E.34
+  name_fr: 'La rue Sherbrooke Ouest (d’Atwater à Peel)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-35-la-rue-sherbrooke-ouest-campus-mcgill
+  code: 24.E.35
+  name_fr: 'La rue Sherbrooke Ouest (campus McGill)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-36-la-rue-mcgill
+  code: 24.E.36
+  name_fr: 'La rue McGill'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The straight street cut by the Plan des commissaires when the walls came down at
+    the very start of the 1800s, separating the old town from the faubourg next to it; a
+    metropolitan artery by the early 20th century, with ten-storey office buildings and the great
+    colonnade of the new custom house. The 18th-century fortified town and the successive stages of
+    the 19th-century city are both still legible in the built fabric.
+  streets: [rue McGill]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-37-la-rue-saint-jacques
+  code: 24.E.37
+  name_fr: 'La rue Saint-Jacques'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The financial centre of Canada at the start of the 20th century, recorded in its
+    banks and office buildings: the neoclassical head office of the Banque de Montréal inaugurated
+    in 1847, the more modest but very refined buildings of the 1860s and 1870s such as the Banque
+    Molson, the Montreal Star and then Gazette buildings with offices on Saint-Jacques and presses
+    on Saint-Antoine, the contemporary Centre de commerce mondial crossed by the ruelle des
+    Fortifications, and east of the place d'Armes the La Presse buildings and the French-Canadian
+    banking houses of about 1870.
+  streets: [rue Saint-Jacques, ruelle des Fortifications]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-38-le-secteur-des-bourses
+  code: 24.E.38
+  name_fr: 'Le secteur des Bourses'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The exchange district: the Corn Exchange and Merchants' Exchange of the 1860s
+    still standing though long out of use, the former Montreal Stock Exchange of 1903–04 and the
+    Board of Trade rebuilt at the start of the 20th century after the fire of 1901. On the west
+    side, along rues des Récollets, Sainte-Hélène, Saint-Pierre and Le Moyne, mainly
+    magasins-entrepôts with showrooms for retail selling. Rebuilding on the Récollets site was so
+    intense that almost nothing before 1850 survives; the fabric barely changed after 1873, which is
+    why the western part is so homogeneous. One residence of 1812 remains.
+  streets: [rue Saint-Sacrement, rue des Récollets, rue Sainte-Hélène, rue Saint-Pierre, rue Le Moyne]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-39-le-c-ur-de-ville-marie-et-louest-de-la-rue-saint-paul
+  code: 24.E.39
+  name_fr: 'Le cœur de Ville-Marie et l’ouest de la rue Saint-Paul'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The first public square of the town, its commercial centre in the 17th and 18th
+    centuries, still legible in the street pattern. On the place Royale stands the Ancienne-Douane
+    of 1836–38 by John Ostell, enlarged 1881–82, now joined to the main building of the Musée
+    d'archéologie et d'histoire de Montréal, Pointe-à-Callière, by an underground archaeological
+    crypt over the city's founding site. On the west side of rue Saint-Paul most buildings are
+    commercial and late-19th-century; after a fire in 1901 many were rebuilt at the very start of
+    the 20th century and are recognisable by their form and their brick façades.
+  streets: [rue Saint-Paul Ouest, place Royale, place D’Youville]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-40-la-pointe-a-calliere-et-la-place-dyouville
+  code: 24.E.40
+  name_fr: 'La pointe à Callière et la place D’Youville'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The point between the Petite Rivière and the St Lawrence where Maisonneuve's
+    colonists settled at the founding of Montréal in 1642. The cahier reads the place D'Youville and
+    the pointe à Callière as a concentration of traces of everything Vieux-Montréal has been, from
+    the street pattern and the standing fabric to the vestiges, artefacts and commemorative works.
+    The Hôpital général of 1693–94 is the second-oldest building in the arrondissement historique
+    after the Vieux Séminaire de Saint-Sulpice; warehouses typical of the first half of the 19th
+    century record the port's first expansion.
+  streets: [place D’Youville, rue Saint-Pierre, rue de la Commune Ouest]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-41-la-place-darmes
+  code: 24.E.41
+  name_fr: 'La place d’Armes'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The place d'Armes and everything round it, holding buildings from every period
+    of the city's history. On the south side the classed site historique and monument historique of
+    the Vieux Séminaire de Saint-Sulpice — two distinct buildings, the seminary of 1684–87, the
+    oldest building in Vieux-Montréal, and the presbytery of Notre-Dame of 1848–52 — and beside them
+    the néogothique basilique Notre-Dame, begun in 1824.
+  streets: [place d’Armes, rue Notre-Dame Ouest, rue Saint-Sulpice]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-42-le-secteur-des-magasins-entrepots
+  code: 24.E.42
+  name_fr: 'Le secteur des magasins-entrepôts'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The magasins-entrepôts, and the sector this page's warehouse type is drawn from.
+    The landscape is dominated by large commercial buildings of the 1850s to 1880s; the run between
+    rue de la Commune and rue Saint-Paul carries the marks of the port's rapid growth, and several
+    of them are deliberately two-faced — a relatively plain elevation on the handling side, a far
+    more elaborate one on the commercial side, on rue Saint-Paul. Commercial and residential
+    buildings of the first half of the 19th century survive among them.
+  summary_fr: >-
+    « Plusieurs de ces bâtiments ont une façade relativement sobre du côté où se fait la manutention
+    des marchandises, tandis que la facture architecturale est plus élaborée du côté commercial, sur
+    la rue Saint-Paul. »
+  streets: [rue de la Commune, rue Saint-Paul, rue Notre-Dame]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-43-le-secteur-administratif
+  code: 24.E.43
+  name_fr: 'Le secteur administratif'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The municipal and judicial centre, monumental buildings from 1850 to the
+    present: the hôtel de ville built 1872–78 and rebuilt behind its outer walls in 1922 after a
+    fire; across the place Vauquelin the first palais de justice of 1851–57, neoclassical, with its
+    1905 annex; the édifice Ernest-Cormier of 1921–26; the annexe de l'hôtel de ville of 1912–13 by
+    Marchand et Haskell; and the modern courthouse of 1965–71. The 1672 line of rue Notre-Dame and
+    the vestiges of the fortifications on the Champ-de-Mars esplanade are both here, and the line of
+    the walls is picked out in the paving at several points in Vieux-Montréal.
+  streets: [rue Notre-Dame Est, rue Gosford, Champ-de-Mars, place Vauquelin]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-44-la-place-jacques-cartier
+  code: 24.E.44
+  name_fr: 'La place Jacques-Cartier'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. Occupied at first by large residences and their gardens, of which the classed
+    château Ramezay — built in 1705 for the governor Claude de Ramezay, rebuilt after a fire and
+    enlarged fifty years later by the Compagnie des Indes — is the demonstration. The Marché Neuf
+    stalls went up in 1808 on the strip between rues Saint-Charles and de la Fabrique, and the
+    Nelson column with them; the two streets disappeared and the square took its present name after
+    the marché Bonsecours opened in 1847. The buildings round it now are essentially 19th-century
+    houses and hotels. The cahier notes that the area around rue Sainte-Thérèse is one of the only
+    places where traces of the fur trade can still be found.
+  streets: [place Jacques-Cartier, rue Sainte-Thérèse, rue Notre-Dame Est]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-45-le-quartier-bonsecours
+  code: 24.E.45
+  name_fr: 'Le quartier Bonsecours'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. Largely rebuilt in the 19th century, and the one part of Vieux-Montréal that
+    kept its residential vocation after 1850 — which is why the domestic types on this page survive
+    here at all. The faubourg Bonsecours began outside the palisades and was later taken inside the
+    fortified perimeter. The chapelle Notre-Dame-de-Bon-Secours was built in 1771 and much altered
+    afterwards; a few houses of the second half of the 18th century still stand and are the oldest
+    evidence of the sector's residential use.
+  summary_fr: >-
+    « Ce secteur largement reconstruit au XIXe siècle se distingue du reste du Vieux-Montréal par le
+    fait qu’il a conservé sa vocation résidentielle, même après 1850. »
+  streets: [rue Saint-Paul Est, rue Bonsecours, rue de la Commune Est]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-46-le-faubourg-saint-louis
+  code: 24.E.46
+  name_fr: 'Le faubourg Saint-Louis'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. A few houses separated from the fortified enceinte by a small pond, under the
+    citadel hill that was levelled between 1819 and 1829. The maison Brossard-Gauvin on rue
+    Saint-Louis is one of only two surviving examples of the wooden houses built in the faubourgs at
+    that period. The other houses of rues Saint-Louis and du Champ-de-Mars are later but give the
+    sector its intimate character, and with a few more imposing buildings it reads as a gateway into
+    Vieux-Montréal.
+  streets: [rue Saint-Louis, rue du Champ-de-Mars]
+  note: >-
+    The cahier contradicts itself on the maison Brossard-Gauvin: the running text dates it 1750, the
+    photograph caption on the same page reads « Maison Brossard-Gauvin (1743-1758), 433-435, rue
+    Saint-Louis ». Both are recorded; neither is resolved here.
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-47-le-vieux-port
+  code: 24.E.47
+  name_fr: 'Le Vieux-Port'
+  value: exceptional
+  summary_en: >-
+    VIEUX-MONTRÉAL. The oldest part of the port, from the entrance of the canal de Lachine to the
+    Tour de l'Horloge, recently converted to recreation and tourism and — the cahier says so
+    explicitly — included in the arrondissement historique du Vieux-Montréal. Though the port's
+    history goes back to the city's origins, its standing fabric is essentially early-19th-century
+    and from the great works of the early 20th. First improvements 1830; the seaway deepened to
+    sixteen feet in 1853; permanent quays and sheds from about 1881; grain elevators that made
+    Montréal one of the six largest ports in the world; decline after the St Lawrence Seaway opened
+    in 1959, then landscaping as promenade and green space.
+  summary_fr: >-
+    « Cette zone récemment transformée à des fins récréotouristiques est incluse dans
+    l’arrondissement historique du Vieux-Montréal. »
+  streets: [rue de la Commune, quai de l’Horloge, bassin Bonsecours]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-48-lile-sainte-helene
+  code: 24.E.48
+  name_fr: 'L’île Sainte-Hélène'
+  value: exceptional
+  summary_en: >-
+    Not Vieux-Montréal and not residential, despite sitting next in the sequence: the island held by
+    the LeMoyne family, briefly by the French military in 1760 and bought by the British in 1818,
+    with the fort of 1820–24 and the powder magazine of 1822 still standing; a park by Frederick G.
+    Todd laid out 1936–39; the tour de Lévis built 1936–49; and, from Expo 67, Buckminster Fuller's
+    geodesic dome and Calder's Le Stabile. The cahier says of it that the sector « mériterait sans
+    contredit le statut de site du patrimoine » — a recommendation, not a status.
+  streets: [chemin Tour-de-l’Isle]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-49-lile-notre-dame
+  code: 24.E.49
+  name_fr: 'L’île Notre-Dame'
+  value: exceptional
+  summary_en: >-
+    Made from nothing between 1963 and 1967 out of fill excavated from the métro and the
+    Louis-Hippolyte-Lafontaine bridge-tunnel. It carries the Canada, France and Québec pavilions of
+    Expo 67 — the last two renovated as the Casino de Montréal — and the rowing basin built for the
+    1976 Olympics.
+  streets: [chemin des Îles]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-50-la-cite-du-havre
+  code: 24.E.50
+  name_fr: 'La Cité du Havre'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-51-le-boulevard-saint-laurent-et-la-rue-sainte-catherine-est
+  code: 24.E.51
+  name_fr: 'Le boulevard Saint-Laurent et la rue Sainte-Catherine Est'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-52-la-rue-sherbrooke-est-entre-saint-laurent-et-amherst
+  code: 24.E.52
+  name_fr: 'La rue Sherbrooke Est (entre Saint-Laurent et Amherst)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-53-la-terrasse-saint-denis
+  code: 24.E.53
+  name_fr: 'La terrasse Saint-Denis'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-54-la-rue-saint-denis-de-la-rue-ontario-est-a-la-rue-sainte-cathe
+  code: 24.E.54
+  name_fr: 'La rue Saint-Denis (de la rue Ontario Est à la rue Sainte-Catherine Est)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-55-la-rue-saint-denis-du-boulevard-rene-levesque-est-a-lavenue-vi
+  code: 24.E.55
+  name_fr: 'La rue Saint-Denis (du boulevard René-Lévesque Est à l’avenue Viger)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-56-le-square-viger
+  code: 24.E.56
+  name_fr: 'Le square Viger'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-57-la-rue-saint-hubert-entre-la-rue-de-la-gauchetiere-est-et-lave
+  code: 24.E.57
+  name_fr: 'La rue Saint-Hubert (entre la rue De La Gauchetière Est et l’avenue Viger)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-58-centre-hospitalier-jacques-viger
+  code: 24.E.58
+  name_fr: 'Centre hospitalier Jacques-Viger'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-59-la-rue-saint-hubert-entre-le-boulevard-rene-levesque-est-et-la
+  code: 24.E.59
+  name_fr: 'La rue Saint-Hubert (entre le boulevard René-Lévesque Est et la rue Sainte-Catherine Est)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-60-la-rue-saint-hubert-entre-la-rue-sherbrooke-est-et-la-rue-sain
+  code: 24.E.60
+  name_fr: 'La rue Saint-Hubert (entre la rue Sherbrooke Est et la rue Sainte-Catherine Est)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-61-la-rue-sherbrooke-est-entre-la-rue-amherst-et-lavenue-des-erab
+  code: 24.E.61
+  name_fr: 'La rue Sherbrooke Est (entre la rue Amherst et l’avenue des Érables)'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-62-la-rue-sainte-catherine-est-et-lensemble-saint-pierre-apotre
+  code: 24.E.62
+  name_fr: 'La rue Sainte-Catherine Est et l’ensemble Saint-Pierre-Apôtre'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-63-la-rue-sherbrooke-est-a-lest-de-lavenue-des-erables
+  code: 24.E.63
+  name_fr: 'La rue Sherbrooke Est à l’est de l’avenue des Érables'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-64-macdonalds-tobacco-factory
+  code: 24.E.64
+  name_fr: 'MacDonald’s Tobacco Factory'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-65-sainte-catherine-et-fullum
+  code: 24.E.65
+  name_fr: 'Sainte-Catherine et Fullum'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-66-la-prison-des-patriotes
+  code: 24.E.66
+  name_fr: 'La prison des Patriotes'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-e-67-la-brasserie-molson
+  code: 24.E.67
+  name_fr: 'La brasserie Molson'
+  value: exceptional
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 A'
+
+- id: 24-i-1-rene-levesque-et-hotel-de-ville
+  code: 24.I.1
+  name_fr: 'René-Lévesque et Hôtel-de-Ville'
+  value: interesting
+  summary_en: >-
+    In the original town outside the walls, around the new Chinese Hospital and on the edge of
+    downtown and UQAM: several residential alignments of high quality, with newer residential
+    building fitted into the original fabric. Along the René-Lévesque axis, cut through in 1955 to
+    ease east–west traffic, a heavier gauge of building shelters the residential quarters behind it
+    — mostly three-storey brick buildings with or without a porte cochère. The quarter has few
+    ruelles.
+  summary_fr: >-
+    « Ceux-ci sont principalement constitués d’immeubles de trois étages en brique avec ou sans
+    porte cochère. Le quartier compte peu de ruelles. »
+  streets: [boulevard René-Lévesque Est, rue de l’Hôtel-de-Ville]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-2-viger-et-sanguinet
+  code: 24.I.2
+  name_fr: 'Viger et Sanguinet'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-3-berri-et-rene-levesque
+  code: 24.I.3
+  name_fr: 'Berri et René-Lévesque'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-4-saint-andre-et-ontario
+  code: 24.I.4
+  name_fr: 'Saint-André et Ontario'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-5-le-square-viger
+  code: 24.I.5
+  name_fr: 'Le square Viger'
+  value: interesting
+  summary_en: >-
+    Built at the end of the 19th century north of the square Viger along rue Saint-Hubert: fine
+    brick houses with false cornices, much altered since. Blocks without ruelles and buildings at
+    the street line; those on rue De La Gauchetière have a front yard arranged to let the ground
+    floor sit clear of the ground.
+  streets: [square Viger, rue Saint-Hubert, rue De La Gauchetière Est]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-6-montcalm-et-rene-levesque
+  code: 24.I.6
+  name_fr: 'Montcalm et René-Lévesque'
+  value: interesting
+  summary_en: >-
+    West of the site historique of Saint-Pierre-Apôtre, a quarter of buildings faced in stone or
+    brick with elaborate cornices, portes cochères and exterior stairs, which the cahier says
+    recalls the first faubourg quarters. Lotted without ruelles, with rear-yard annexes now
+    demolished; deep lots and front yards.
+  summary_fr: >-
+    « On se retrouve dans un agréable quartier aux bâtiments parés de pierre ou de brique, avec
+    corniches élaborées, portes cochères et escaliers extérieurs. […] Le lotissement s’est fait sans
+    ruelle et comportait des annexes en fond de cour, aujourd’hui démolies. »
+  streets: [rue Montcalm, boulevard René-Lévesque Est]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-7-plessis-et-rene-levesque
+  code: 24.I.7
+  name_fr: 'Plessis et René-Lévesque'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-8-laxe-rene-levesque
+  code: 24.I.8
+  name_fr: 'L’axe René-Lévesque'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-9-le-secteur-plessis-et-logan
+  code: 24.I.9
+  name_fr: 'Le secteur Plessis et Logan'
+  value: interesting
+  summary_en: >-
+    At the heart of the « terrasses Ontario », a working-class quarter that developed and survived.
+    Built essentially on the old lotting, without ruelles but on very deep lots, so the built fabric
+    carries a range of dwelling typologies; some industrial buildings still record how close work
+    was to home. Brick is the principal facing and the porte cochère is, in the cahier's phrase, à
+    l'honneur. A few faubourg houses with gable roofs survive.
+  summary_fr: >-
+    « Construit essentiellement sur le lotissement ancien, sans ruelle, mais pourvu de terrains très
+    profonds, le cadre bâti offre une gamme de typologies d’habitation. […] La brique est le
+    parement principal et la porte cochère est à l’honneur. »
+  streets: [rue Plessis, rue Logan]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-10-le-secteur-de-la-visitation-et-ontario
+  code: 24.I.10
+  name_fr: 'Le secteur de la Visitation et Ontario'
+  value: interesting
+  summary_en: >-
+    Between rue Ontario and rue Sherbrooke, on the slope, streets lined with triplexes with exterior
+    stairs and balconies — brick, ornamented, vertical windows — which the cahier calls the ordinary
+    production of the beginning of the century. It singles out the residential ensemble at 2082–2116
+    rue de la Visitation and neighbouring groups on rues Beaudry, de la Visitation and Panet.
+  summary_fr: >-
+    « Construits en brique, avec ornementation et fenêtres verticales, ces immeubles représentent la
+    production courante du début du siècle. »
+  streets: [rue de la Visitation, rue Beaudry, rue Panet]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-11-la-rue-ontario-de-saint-hubert-a-de-lorimier
+  code: 24.I.11
+  name_fr: 'La rue Ontario (de Saint-Hubert à De Lorimier)'
+  value: interesting
+  summary_en: >-
+    QUARTIER FEATURE — CENTRE-SUD. At the heart of the « terrasses Ontario », the commercial and
+    civic street that structures the life of the quarter, punctuated by institutions: the marché
+    Saint-Jacques, the fire station at the corner of rue Beaudry, the église Sacré-Cœur (1876, then
+    1886–87), the église Sainte-Marguerite-Marie (1921–25), and set back from the street the école
+    Plessis and the Bain Généreux. The commercial function has kept a good continuity of commercial
+    buildings with dwellings above; the architecture varies in height, storeys, crowning and
+    materials. East of the Jacques-Cartier bridge the fabric is more broken up but still carries
+    fine residential ensembles. Centre-Sud / Sainte-Marie as a quarter is not a sector: it is spread
+    across most of the 24.I series, from 24.I.1 to 24.I.19, plus the eastern E sectors.
+  summary_fr: >-
+    « Au cœur des « terrasses Ontario », cette rue commerciale et civique structure la vie du
+    quartier. […] La fonction commerciale a maintenu une bonne continuité d’immeubles commerciaux
+    avec fonction résidentielle aux étages. L’architecture des bâtiments est variée, tant par la
+    hauteur, le nombre d’étages et le choix des couronnements ou des matériaux. »
+  streets: [rue Ontario Est, rue Beaudry, rue Montcalm, avenue De Lorimier]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-12-le-secteur-de-bordeaux-et-de-rouen
+  code: 24.I.12
+  name_fr: 'Le secteur de Bordeaux et de Rouen'
+  value: interesting
+  summary_en: >-
+    Between rues Ontario and Sherbrooke, on the slope: another very homogeneous ensemble of the
+    beginning of the century, brick, two or three storeys, with exterior stairs on the front yard,
+    housing the workers of the neighbouring factories and shops.
+  summary_fr: >-
+    « Les bâtiments sont en brique et ont une hauteur de deux ou trois étages, avec des escaliers
+    extérieurs sur la cour avant. Ces immeubles logent les ouvriers qui œuvrent dans les usines et
+    commerces avoisinants. »
+  streets: [rue de Bordeaux, rue de Rouen]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-13-le-secteur-dorion-et-sainte-catherine
+  code: 24.I.13
+  name_fr: 'Le secteur Dorion et Sainte-Catherine'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-14-lavenue-de-lorimier
+  code: 24.I.14
+  name_fr: 'L’avenue De Lorimier'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-15-le-secteur-poupart-et-champagne
+  code: 24.I.15
+  name_fr: 'Le secteur Poupart et Champagne'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-16-le-secteur-fullum-et-la-fontaine
+  code: 24.I.16
+  name_fr: 'Le secteur Fullum et La Fontaine'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-17-le-secteur-fullum-et-hochelaga
+  code: 24.I.17
+  name_fr: 'Le secteur Fullum et Hochelaga'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-18-le-secteur-bercy-et-hogan
+  code: 24.I.18
+  name_fr: 'Le secteur Bercy et Hogan'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-i-19-le-secteur-wurtele
+  code: 24.I.19
+  name_fr: 'Le secteur Wurtele'
+  value: interesting
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 B'
+
+- id: 24-u-1-les-habitations-jeanne-mance
+  code: 24.U.1
+  name_fr: 'Les Habitations Jeanne-Mance'
+  value: urban-ensemble
+  summary_en: >-
+    The one ensemble urbain d'intérêt in the borough. Recorded here from the cahier's code list and
+    its caption; the fiche text for section C was not transcribed for this part.
+  streets: [rue Ontario Est, boulevard Saint-Laurent]
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005), section 3.2.2 C'
+
+- id: milton-park-mont-sainte-famille-plateau
+  code: 25.E.12
+  name_fr: 'Mont Sainte-Famille — le quartier Milton Park (arrondissement du Plateau-Mont-Royal)'
+  value: exceptional
+  summary_en: >-
+    QUARTIER FEATURE — MILTON-PARC. NOT A SECTOR OF VILLE-MARIE. This row is a cross-boundary
+    pointer and it is the only one in the table: Milton Park lies north of rue Sherbrooke and is
+    therefore in Le Plateau-Mont-Royal, whose own 2005 cahier codes it 25.E.12 Mont Sainte-Famille.
+    It is carried here because the borough's own southern sector, 24.E.21, stops at Sherbrooke and
+    because the greystone terrace type on this page is one form running across the line — and
+    because 25 is the number the 2016 Plan d'urbanisme gives to Ville-Marie. The Plateau cahier
+    describes Milton Park between avenue des Pins and rue Sherbrooke as having gone through many
+    still-legible building campaigns, now mostly residential, with one dominant architectural type:
+    the contiguous one- or two-family building in grey stone or red sandstone, often elaborately
+    decorated, built between 1875 and 1900 and later subdivided into two or more dwellings, the
+    series on rues Prince-Arthur, Hutchison, Jeanne-Mance, Sainte-Famille and avenue du Parc being
+    the important thing about it. Héritage Montréal describes the same fabric as great architectural
+    diversity — large single-family Victorian homes cheek-by-jowl with duplexes, triplexes and
+    apartment houses — and bounds the neighbourhood by University and Sherbrooke streets, boulevard
+    Saint-Laurent and avenue des Pins. It is the counter-model to the Van Horne demolition and it is
+    set out in the notes at the foot of this page.
+  summary_fr: >-
+    « Le type architectural dominant est le bâtiment uni- ou bifamilial contigu en pierre grise ou
+    en grès rouge au décor souvent élaboré, construit entre 1875 et 1900 et subdivisé ultérieurement
+    en deux logements ou plus. L’effet d’ensemble de plusieurs séries de maisons de grand intérêt
+    architectural – rues Prince-Arthur, Hutchison, Jeanne-Mance, Sainte-Famille et avenue du Parc –
+    est une caractéristique importante de ce secteur. »
+  streets: [rue Prince-Arthur, rue Hutchison, rue Jeanne-Mance, rue Sainte-Famille, avenue du Parc]
+  note: >-
+    The brief for this part lists Milton-Parc among the quartiers Ville-Marie holds. It does not.
+    The Plateau-Mont-Royal cahier (file 11) prints 25.E.12 beside this quarter's name and puts
+    Milton Park inside its own sector, which the fiche says runs « entre l’avenue des Pins et la rue
+    Sherbrooke ». The tally at the head of this table therefore counts 89 rows: 87 cahier sectors of
+    this arrondissement, one provincial declaration lying across twelve of them, and this one, which
+    belongs to the borough next door and is counted with the exceptionnels because that is its grade
+    in the Plateau's cahier.
+  source: 'Ville de Montréal, Évaluation du patrimoine urbain — arrondissement du Plateau-Mont-Royal (2005), section 3.2.2 A, sector 25.E.12; with Héritage Montréal, Memento, « Milton Parc Neighbourhood »'

@@ -1,0 +1,119 @@
+id: ville-marie.greystone-terrace
+place: ville-marie
+phase: p4
+phase_confidence: verified
+display_order: 5
+name_en: Greystone terrace
+name_fr: Maison en rangée de pierre grise
+source_ref: 'RPCQ id 93528 (MCC); Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005)'
+source_generation: >-
+  Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005), sector fiches 24.E.9 and
+  24.E.7; Ville de Montréal, Évaluation du patrimoine urbain — Plateau-Mont-Royal (2005), sector
+  fiche 25.E.12, for the Milton Park half of the same form; Héritage Montréal, Memento,
+  « Milton Parc Neighbourhood », read 17 August 2026.
+sectors: ['24.E.9', '24.E.7', '25.E.12']
+canonical:
+- greystone-row-2-3st
+styles:
+- second-empire
+- victorian-eclectic
+- queen-anne
+style_label: null
+tenure_plan: row
+storeys: '2.5'
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- montreal-greystone
+- stone
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Contiguous, in series, on the streets around the villas rather than on the villa streets
+    themselves — the cahier is explicit that these were built for the middle class, on the streets
+    neighbouring the Shaughnessy villas.
+  - Very dense fabric in the Village Lincoln, where the cahier says it is the terraces and the
+    individual heritage houses together that make the sector exceptional.
+  massing:
+  - Two and a half storeys.
+  articulation:
+  - Not stated for the Village Shaughnessy terraces beyond their Second Empire inspiration.
+  - In the Milton Park half the Plateau cahier records decoration that is often elaborate, and
+    Héritage Montréal describes great architectural diversity, with large single-family Victorian
+    houses standing cheek by jowl with duplexes, triplexes and apartment houses.
+  openings:
+  - Not stated by any of the three sources.
+  materials:
+  - Stone, or sometimes brick, on the principal façade.
+  - In Milton Park, grey stone or red sandstone.
+profile_fr:
+  description:
+  - >-
+    « Entre 1870 et 1910, de nombreuses maisons unifamiliales en rangée destinées à la classe
+    moyenne ont été construites sur les rues avoisinantes; ce sont généralement des maisons de deux
+    étages et demi, avec revêtement de pierre ou parfois de brique sur la façade principale. La
+    plupart d’entre elles sont d’inspiration Second Empire. On retrouve aussi dans le secteur de
+    bons exemples de maisons de rapport érigées dans les années 1920. »
+  - >-
+    « Le type architectural dominant est le bâtiment uni- ou bifamilial contigu en pierre grise ou
+    en grès rouge au décor souvent élaboré, construit entre 1875 et 1900 et subdivisé ultérieurement
+    en deux logements ou plus. »
+profile_note: >-
+  Roof form and pitch, roofing, window proportion, articulation, lot width, setbacks and green front
+  yard are null because none of the three sources states them. The « inspiration Second Empire » the
+  cahier records for the Village Shaughnessy terraces is a style attribution, not a statement about
+  roof form, and it has not been converted into one here. One further thing this record makes
+  visible: two of its three sectors are in Ville-Marie and the third, Milton Park, is not — it is
+  25.E.12 in the Plateau-Mont-Royal cahier, north of rue Sherbrooke. The form runs across the
+  boundary; the documents stop at it. The same form is recorded on this site in Westmount, and the
+  cross-link on the canonical page is the useful one.
+related_buildings:
+- name: 'Maisons en rangée William D. Stroud, 1419–1441 rue Pierce — six row houses built 1889–1890
+    by the architect Robert Findlay, restored in 1997 (cahier sector 24.E.7)'
+  url: null
+- name: 'Maison Shaughnessy, boulevard René-Lévesque Ouest — the surviving villa of the quarter,
+    classed in November 1973 and incorporated into the Canadian Centre for Architecture towards the
+    end of the 1980s (cahier sector 24.E.9)'
+  url: null
+- name: 'Rue Jeanne-Mance houses, built 1886–1897, façades classed in 1975 (cahier sector 24.E.21)'
+  url: null
+- name: 'In Milton Park, the series the Plateau cahier names as the important thing about the
+    sector: rues Prince-Arthur, Hutchison, Jeanne-Mance, Sainte-Famille and avenue du Parc'
+  url: null
+blurb_en: >-
+  The middle-class counterpart to the mansion, and the form this project has already recorded in
+  Westmount: contiguous single-family houses in series, two and a half storeys, stone — sometimes
+  brick — on the principal façade, mostly Second Empire in inspiration, built between 1870 and 1910
+  on the streets around the Shaughnessy villas and between 1875 and 1900 in Milton Park north of
+  Sherbrooke. Many were later subdivided into two dwellings or more, which is why so much of this
+  stock now reads as plex without ever having been built as one.
+origin_en: >-
+  Two halves of one form, on either side of a borough boundary that did not exist when it was built.
+  South of Sherbrooke, the Village Shaughnessy: John Ostell's 1842 master plan turned development
+  north-west, rues Chomedey and Lambert-Closse were cut about 1880, and between 1870 and 1910 the
+  streets around the surviving villas filled with row houses for the middle class, with good maisons
+  de rapport of the 1920s among them. North of Sherbrooke, Milton Park, which the Plateau cahier
+  reads as the same building repeated — the contiguous one- or two-family house in grey stone or red
+  sandstone, 1875–1900, later subdivided. The two halves went in opposite directions after 1945.
+  Shaughnessy Village lost its villas one by one and was renamed a quartier; Milton Park was bought
+  up by a single developer, threatened with total demolition, and bought back by its residents. See
+  the notes at the foot of this page.
+photos:
+- file: assets/places/ville-marie/maisons-en-rangee-william-stroud-rue-pierce-commons.jpg
+  credit: >-
+    Rue Pierce seen from rue Sainte-Catherine — the maisons en rangée William D. Stroud, 1419 to
+    1441, built 1889–1890 by the architect Robert Findlay, in a run of contiguous houses with
+    gabled dormers, bays and front stairs. Photograph by Jeangagnon, 15 October 2012, Wikimedia
+    Commons, CC BY-SA 3.0.
+    https://commons.wikimedia.org/wiki/File:Maisons_en_rangee_William_D.-Stroud_12.jpg — licence,
+    author and file URL read through the Commons API before download; the photograph was opened and
+    checked against its description. The dating and attribution are the 2005 cahier's, fiche 24.E.7.
+  kind: single

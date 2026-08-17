@@ -1,0 +1,196 @@
+places:
+- dorval
+- senneville
+phase: p3
+phase_confidence: verified
+display_order: 3
+name_en: English summer villa on the lake shore
+name_fr: La villa anglaise de villégiature
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Dorval–L'Île-Dorval
+  (2005), § 2 et secteurs 7.E.3 à 7.E.6, 7.I.1 à 7.I.5, et arrondissement de Pierrefonds-Senneville (2005),
+  secteur 2.E.4 Grandes propriétés de Senneville; Parcs Canada, Répertoire des désignations patrimoniales
+  fédérales, arrondissement historique de Senneville, id 1973
+source_generation: two sector-characterisation cahiers read with one federal designation record; no source
+  publishes a per-type table for either place
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/07_evaluation_patrimoine_dorval.pdf
+canonical:
+- picturesque-villa-estate
+styles:
+- shingle-style
+- arts-and-crafts
+style_label: Shingle Style / Arts and Crafts
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: gabled-multi
+  pitch_deg: null
+roofing: cedar shingle
+window_proportion: null
+principal_cladding:
+- wood-shingle
+- fieldstone
+- cut-stone
+- stucco
+- clay-brick
+garage: detached
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+  - Free-standing on a large treed lot between the shore road and the water, set well back from the road
+    and, at Senneville, deliberately screened from it — Parks Canada records that the siting and planting
+    of most Senneville houses "prevents a view to the buildings from chemin Senneville".
+  - At Dorval the belt runs along the chemin du Bord-du-Lac, the old shore road, and out onto the points
+    that reach into lac Saint-Louis. Île Dorval was divided into 57 lots for summer houses in 1911 and
+    is still reachable only by ferry.
+  - Boat clubs, a yacht club, horse racing and golf belong to the same siting. The Dorval cahier treats
+    them as part of the phase, not as background.
+  massing:
+  - Two to two and a half storeys, informal in plan, with the volumes and roofs put together loosely rather
+    than symmetrically — the Senneville fiche says the houses « agencent des volumes nets et des toitures
+    importantes de façon plus ou moins complexe ».
+  - Large roofs carrying dormers, and deep verandahs across the front, often arcaded on heavy rubble piers.
+  - Smaller and plainer versions of the same idea line the same shore — the modest one-storey chalets
+    and cottages of Dorval's avenue Saint-Charles, avenues Roy and Lepage, boulevard Pine Beach and secteur
+    Ouest, many later converted to year-round houses.
+  articulation:
+  - Wide arched openings under the verandah roof, heavy stone piers, shingled wall planes carried unbroken
+    around corners.
+  openings:
+  - Grouped windows, often in twos and threes, in plain flat casings; no source gives a proportion.
+  materials:
+  - Wood shingle over the upper walls and the roof; rubble or cut stone below. The Senneville fiche lists
+    « revêtements de pierre taillée ou de moellons, brique, bois, stuc et toitures en bardeaux de cèdre
+    ».
+  - Fieldstone alone where the building is earlier or plainer — Dorval's chapelle St. Mark of 1898, built
+    « en pierre des champs » for the Protestant summer people, and the stone manor Alfred Brown called
+    Bel-Air.
+profile_fr:
+  description:
+  - « Souvent de style Arts and Crafts ou Shingle Style, les résidences agencent des volumes nets et des
+    toitures importantes de façon plus ou moins complexe avec leurs revêtements de pierre taillée ou de
+    moellons, brique, bois, stuc et toitures en bardeaux de cèdre qui témoignent « … [of a] sophisticated
+    nostalgia for a rustic way of life and for the rural craft industry » (Friedman, 2000). »
+  - « Le bâti y est pour la plupart implanté du côté du lac et éloigné du chemin. »
+  contexte:
+  - « À la fin du XIXe siècle, les rives du lac Saint-Louis dans l'ouest de l'île de Montréal deviennent
+    des lieux de villégiature attrayants pour la société bourgeoise montréalaise. Le village de Dorval
+    dessert les estivants et les agriculteurs qui s'y côtoient. » (§ 2)
+  - « La seconde phase de développement du territoire se concrétise avec la formation du village et le
+    développement en parallèle de la villégiature et des activités telles que la voile, les courses de
+    chevaux et le golf, sous l'impulsion de l'arrivée du train qui permet une plus grande mobilité entre
+    le centre-ville et la banlieue. » (§ 3.1)
+  - « … il ne reste plus rien de l'opulente résidence d'été appelée Ashburton, construite dans les années
+    1879, ni de la maison bâtie par la suite par l'industriel John Wilson McConnell, un magnifique manoir
+    de pierre qui a été détruit par un incendie en 1963. Par contre, il subsiste le pavillon d'entrée
+    et une résidence d'été entourée de magnifiques jardins. » (7.E.4)
+  - « Autrefois connue sous le nom de « Bel-Air », nom donné par l'architecte Alfred Brown à son manoir
+    de pierre de style anglais, cette propriété a été vendue après son décès à un club privé prestigieux
+    (le Forest and Stream Club), qui l'occupe toujours. » (7.E.5)
+  - « L'île n'est accessible que par traversier, ce qui a sans aucun doute contribué à préserver son caractère
+    bucolique évocateur des années 1920-1940, période où la majorité des chalets se sont construits. »
+    (7.E.6)
+conservation:
+- Senneville's villas fall inside a National Historic Site, which is a federal commemorative designation
+  and not a control on private alteration. Dorval's have no ensemble instrument of any kind.
+- Both cahiers name attrition as the live risk. Dorval's says speculation on shore land and the disappearance
+  of the great properties or of their lot patterns is a problem to be reckoned with, and that speculation
+  on old houses and their lots for large new houses works against the village character. The Senneville
+  fiche records « un morcellement des lots des grandes propriétés et à la densification rapide du territoire
+  ».
+- Two of the named Dorval villas are already gone — Ashburton, built about 1879, and the McConnell stone
+  manor that replaced it, burned in 1963.
+profile_note: 'The West Island has no per-type typology document, so this record is assembled from sector
+  paragraphs in two of the twenty-seven 2005 Ville de Montréal évaluation cahiers, plus the federal designation
+  record for Senneville. Fields left null and why: `window_proportion` — neither cahier nor Parks Canada
+  describes a window proportion anywhere in either place; `roof.pitch_deg` — no source gives a pitch;
+  `lot_width_m`, `setback_front_m`, `setback_side_m`, `front_yard_green_pct` — no source measures a lot
+  or a setback in the West Island, and although both sources insist on deep setbacks in words ("set well
+  back from the road", « éloigné du chemin »), a word is not a number; `sectors` — a shared record cannot
+  carry sector codes that exist in only one of its places. `garage: detached` is entered from the Senneville
+  fiche''s list of ancillary buildings, which includes a garage, and is weak for Dorval, where no source
+  mentions one. `storeys` is read off the photographs and off the phrase « volumes nets et toitures importantes
+  », not off a stated figure. On styles, this record departs from the Part 11 brief: the brief specifies
+  `[queen-anne, shingle-style]`, and `shingle-style` is well attested — Parks Canada names "the Shingle-style,
+  E.M. Angus house, ''Wanklyn''", and the Senneville fiche says « souvent de style Arts and Crafts ou
+  Shingle Style » — but no retrieved source names Queen Anne anywhere in Dorval or Senneville, so `queen-anne`
+  is dropped rather than asserted, and `arts-and-crafts` is carried in its place because both the Senneville
+  fiche and the Lachine cahier, for the same villégiature belt, name it explicitly. The styles Parks Canada
+  does name at Senneville besides Shingle — Neo-Gothic, Neo-Tudor and Château — have no id in this project''s
+  `styles.yaml` and are therefore recorded in prose only.'
+example_addresses:
+- address: 238, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: E.M. Angus house, "Wanklyn", 1898 and 1908; Parks Canada names it as the Shingle-style example
+    in the historic district. The Ville de Montréal cahier lists it as « Maison Edith-Angus-Wanklyh »
+    and the Commons photograph as « Maison Edith-Wanklyn » — three spellings, one house.
+- address: 900, chemin du Bord-du-Lac, Dorval
+  municipality: Dorval
+  note: Maison Beaurivage, listed by the Dorval cahier among the immeubles de valeur patrimoniale exceptionnelle
+    of sector 7.E.3. The cahier gives no date, architect or description for it.
+- address: 1800, chemin du Bord-du-Lac, Dorval
+  municipality: Dorval
+  note: Forest and Stream Club, formerly "Bel-Air", the English-style stone manor of the architect Alfred
+    Brown, with its entrance pavilion and its former stables — the stables now hold the Musée d'histoire
+    et du patrimoine de Dorval.
+- address: 940, chemin du Bord-du-Lac, Dorval
+  municipality: Dorval
+  note: Maison André-Legault-dit-Deslauriers, also called le Manoir, built about 1833 — the older shore
+    house the summer villas grew up beside.
+related_buildings:
+- name: Senneville Historic District National Historic Site of Canada (Parks Canada id 1973)
+  url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1973
+- name: Musée d'histoire et du patrimoine de Dorval, in the former Forest and Stream Club stables, 1850
+    chemin du Bord-du-Lac
+  url: null
+photos:
+- file: assets/shared_types/maison-wanklyn-senneville.jpg
+  kind: single
+  credit: « Maison Edith-Wanklyn, 238, chemin de Senneville (Senneville) », photo Anne-Marie Dufour, 2010-12-10,
+    Flickr stream *Parcours riverain — Ville de Montréal*; Wikimedia Commons, CC BY 2.0, Flickr licence
+    review passed (verified through the Commons API).
+  licence: CC BY 2.0
+  source_url: https://commons.wikimedia.org/wiki/File:Maison_Edith-Wanklyn,_238,_chemin_de_Senneville_(Senneville)_(8532650092).jpg
+  match_confidence: address
+  note: Inspected before use. The house Parks Canada names as the district's Shingle-style example, and
+    it holds up — continuous wood shingle over the whole upper wall and the roof slope, an unbroken gambrel
+    front, dormers set into it, and a deep verandah of round arches carried on rough rubble piers.
+  shows_place: senneville
+- file: assets/shared_types/maison-beaurivage-dorval.jpg
+  kind: single
+  credit: « Maison Beaurivage, 900, chemin du Bord-du-Lac (Dorval) », photo Anne-Marie Dufour, 2010-11-19,
+    Flickr stream *Parcours riverain — Ville de Montréal*; Wikimedia Commons, CC BY 2.0, Flickr licence
+    review passed (verified through the Commons API).
+  licence: CC BY 2.0
+  source_url: https://commons.wikimedia.org/wiki/File:Maison_Beaurivage,_900,_chemin_du_Bord-du-Lac_(Dorval)_(8535048106).jpg
+  match_confidence: address
+  note: Inspected before use, and included with a caveat. It is one of the four buildings the Dorval cahier
+    names as exceptional in sector 7.E.3, and it shows the shore-road villa on its stone base under a
+    shingled roof with dormers. But it is a stuccoed, half-timbered, early-twentieth-century house rather
+    than a Shingle Style one, and the cahier supplies no date, no architect and no description to check
+    it against. No freely licensed photograph of Dorval's lost great villas — Ashburton, or the McConnell
+    manor burned in 1963 — was found.
+  shows_place: dorval
+blurb_en: 'The summer house of anglophone Montréal on the western lake shore — free-standing in its own
+  grounds, set back and screened from the road, two to two and a half storeys of shingle over rubble stone,
+  big loose roofs and a deep arcaded verandah facing the water. The railway of 1855 made it possible;
+  sailing, golf and horse racing came with it; and at Dorval speculation on the shore has already taken
+  the two largest of them. One record, two municipalities: the photograph on this card is Senneville''s
+  Wanklyn house, and Dorval''s maison Beaurivage stands beside it on the type page.'
+origin_en: 'From the late nineteenth century the shores of lac Saint-Louis and the lac des Deux-Montagnes
+  became the summer address of bourgeois Montréal, and the train is what did it. At Dorval the village
+  fed both the summer people and the farmers at once, and the resort came with a whole apparatus — sailing,
+  horse racing, golf, a yacht club, a Protestant chapel of fieldstone built for the villégiateurs in 1898.
+  Île Dorval, bought in 1853 by Sir George Simpson of the Hudson''s Bay Company for a summer house in
+  the woods, was cut into fifty-seven lots in 1911, and about fifteen families were summering there by
+  the 1930s; it is still only reachable by boat. At Senneville the same impulse produced something denser
+  and grander, a dozen estates along one country road with their houses turned to the lake and hidden
+  from the chemin, and Parks Canada designated the whole of it. The two places show the same form at two
+  scales, and they show the same erosion: the Senneville fiche records the great lots being cut up and
+  the territory densifying, and Dorval''s records speculation on shore land, the disappearance of the
+  great properties and new houses of a size that breaks the street. Ashburton of about 1879 is gone. The
+  stone manor that J. W. McConnell built after it burned in 1963. What is left of that property is the
+  entrance pavilion and one summer house in its gardens.'

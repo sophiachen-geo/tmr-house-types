@@ -1,0 +1,271 @@
+- id: evaluation-patrimoine-urbain-ville-marie-2005
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+    développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine
+    urbain — arrondissement de Ville-Marie », 2005. Directed by Céline Topp; heritage analysis under
+    Jean-François Gravel, chef de division; worked January 2003 – May 2004 for the Plan d'urbanisme
+    adopted by the conseil municipal on 23 November 2004. Team for built heritage and historical
+    research: Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre
+    and Pierre-Paul Savignac, architects, with Denise Caron, historian; archaeology by Claire
+    Mousseau with Françoise Duguay, François Bélanger, Anne-Marie Balac and Christian Roy. One of 27
+    cahiers, one per arrondissement. ISBN 2-7647-0467-4; dépôt légal 2005. Retrieved 17 August 2026
+    from
+    http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/25_EVALUATION_PATRIMOINE_VILLE-MARIE.PDF
+    — the Ville URL was reachable on the day and no BAnQ fallback was needed; sha-256
+    7ba2fbe1ee144d3233bce80a5051631dd6eeabb3b438a0e1a66701abbc9ecc78; 15 100 221 bytes. Extracted
+    with pdftotext (both with and without -layout, because the cahier is set in two columns and the
+    -layout run interleaves them) to sources/ville-marie/25_ville-marie.txt,
+    25_vm_raw_full.txt and the per-sector split sources/ville-marie/sector_fiches.txt. The BAnQ copy
+    is at numerique.banq.qc.ca/patrimoine/details/52327/2316683.
+  used_for: >-
+    The arrondissement code, read from inside the document: every one of the sector codes it prints
+    begins 24, and the highest is 24.E.67. All 87 sector rows and their names, transcribed from the
+    headings printed on pp. 42–92 and normalised from the cahier's all-caps display type. The
+    sector summaries and every French quotation attributed to « the cahier ». The two fires of 9 and
+    10 July 1852, the ~1 200 dwellings destroyed, the ~10 000 people made homeless and the
+    consequent ban on wooden construction, printed p. 28. The porte-cochère mechanism and its
+    verbatim sentence, printed pp. 29–30. Les Cours Le Royer and « le premier jalon d'un
+    repeuplement du Vieux-Montréal », printed p. 34. The 1964 arrondissement historique decree as
+    the cahier narrates it, printed p. 34. Copyright: Ville de Montréal. No photograph from the
+    cahier is reproduced here; quoted French is quoted as quotation.
+
+- id: rpcq-93528-site-patrimonial-de-montreal
+  citation: >-
+    Ministère de la Culture et des Communications du Québec, Répertoire du patrimoine culturel du
+    Québec, fiche « Site patrimonial de Montréal », id 93528 (other names: Arrondissement historique
+    de Montréal; Arrondissement historique du Vieux-Montréal; Vieux-Montréal). Fiche source for the
+    statement of value and the characteristic elements: Ministère de la Culture et des
+    Communications du Québec, 2004. Retrieved 17 August 2026 from
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93528 —
+    sha-256 9fd3737e655d124e91e86aea88799ca58944f799b913c216cec24366a22fdb25; saved as
+    sources/ville-marie/rpcq_93528.html with a text rendering at
+    sources/ville-marie/txt/rpcq_93528.txt.
+  used_for: >-
+    The declared site's dimensions (about 1 400 m × 800 m), its 557 édifices et vestiges, its
+    boundaries and its inclusion of the pointe à Callière and the Vieux-Port. The statuts table:
+    déclaration 1995-04-26 as the operative status, déclaration 1964-01-08 as statut antérieur,
+    transfert de responsabilité to Montréal registered 2017-09-21 with effect 2018-09-21. The
+    architectural-value statement quoted in full on this page. The éléments caractéristiques that
+    supply three of the six type records — the French-regime house, the British-regime classical
+    house and the eclectic 19th-century commercial building — plus the materials line and the porte
+    cochère. Imagery: the RPCQ's photographs of this site are © Gouvernement du Québec and are not
+    reproduced; permission required.
+
+- id: rpcq-204071-complexe-maison-alcan
+  citation: >-
+    Ministère de la Culture et des Communications du Québec, Répertoire du patrimoine culturel du
+    Québec, fiche « Site patrimonial du Complexe-de-La-Maison-Alcan », id 204071. Retrieved
+    17 August 2026 from
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=204071&type=bien
+    — sha-256 abd46af3a8b6dd9298a70622ce6c450489e99833d636758eaaa28a0473e75ca3; saved as
+    sources/ville-marie/rpcq_204071.html with a text rendering at
+    sources/ville-marie/txt/rpcq_204071.txt.
+  used_for: >-
+    The one ensemble protection inside the Mille carré doré, and its exact shape: classement as a
+    site patrimonial by the ministre on 2017-02-23, effective 2015-11-09, after an avis d'intention
+    of 2015-11-02 prorogé 2016-11-03; conservation categories 2 and 8; an aire de protection; the
+    transfert de responsabilité to Montréal of 2017-09-21 effective 2018-09-21. The composition of
+    the complex — maison Lord-Atholstan, maison Béique, hôtel Berkeley, maison Holland, maison
+    Klinkhoff, 1872–1928, with the 1981–83 édifice Davis and the former Emmanuel Congregational
+    church of 1906. NOT used for the 2020 plan de conservation the brief attributes to this site:
+    that document could not be retrieved — see the negative-finding entry below.
+
+- id: plan-urbanisme-2016-patrimoine-ville-marie
+  citation: >-
+    Ville de Montréal, Plan d'urbanisme de Montréal, Partie II, Les documents d'arrondissements,
+    « Le patrimoine bâti — Arrondissement de Ville-Marie », map dated Janvier 2016, published as
+    200224_PATRIMOINE_25.PDF. Retrieved 17 August 2026 from
+    http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PLAN_URBANISME_FR/MEDIA/DOCUMENTS/200224_PATRIMOINE_25.PDF
+    — sha-256 30416e85ecc12a23cf8a04e3aeb0b1f6509b6d80bb284c2075c442fff893e50f; 994 866 bytes;
+    extracted to sources/ville-marie/plan_urbanisme_2016_patrimoine_25.txt.
+  used_for: >-
+    The second half of the code finding, verified directly rather than taken on report. The document
+    heads its list « Bâtiments d'intérêt patrimonial et architectural hors secteurs de valeur
+    exceptionnelle / 25 Arrondissement de Ville-Marie » — so the Plan d'urbanisme numbers this
+    arrondissement 25, the same number as the 2005 cahier's filename prefix. The map itself carries
+    the legend classes (site patrimonial cité, site patrimonial déclaré, grande propriété à caractère
+    institutionnel, secteur de valeur exceptionnelle, secteur de valeur intéressante, ensemble urbain
+    d'intérêt, ensemble industriel d'intérêt) but prints no sector codes at all, so it cannot be the
+    origin of any 25.E.n code for this territory.
+
+- id: evaluation-patrimoine-urbain-plateau-2005-crossref
+  citation: >-
+    Ville de Montréal, « Évaluation du patrimoine urbain — arrondissement du Plateau-Mont-Royal »,
+    2005, file 11_evaluation_patrimoine_plateau.pdf, already held in this repository at
+    sources/plateau-mont-royal/. Consulted 17 August 2026 for this place only as a cross-reference.
+  used_for: >-
+    Two findings. First, the collision: every sector code the Plateau volume prints begins 25 —
+    25.E.1 to 25.E.15, 25.I.1 to 25.I.3 — so the number the 2016 Plan d'urbanisme assigns to
+    Ville-Marie is, in the 2005 series, the Plateau's. Second, Milton Park: the Plateau's sector
+    25.E.12 « Mont Sainte-Famille » names « le quartier Milton Park » among its principal components
+    and describes it « entre l'avenue des Pins et la rue Sherbrooke », which places it outside
+    Ville-Marie. Its type sentence — the contiguous one- or two-family house in grey stone or red
+    sandstone, 1875–1900, later subdivided — is quoted on the greystone terrace record and on the
+    25.E.12 row of the sector table.
+
+- id: heritage-montreal-golden-square-mile
+  citation: >-
+    Héritage Montréal, Memento, « McGill and Golden Square Mile Houses »,
+    https://memento.heritagemontreal.org/en/site/mcgill-and-golden-square-mile-houses/ — retrieved
+    17 August 2026; sha-256 8dcc88096cafe5b160aa1ab237e21f3a3cf549eb782dcd3bb6678241655a5644; saved
+    as sources/ville-marie/hm_golden_square_mile_en.html.
+  used_for: >-
+    The protection finding, verbatim: the Square Mile heritage ensemble "does not have a designation
+    or specific strategy to protect and promote its heritage over current urban development
+    considerations, such as urban planning parameters or building standards", and the further point
+    that interiors, gardens and ancillary buildings enjoy no recognition even where the building is
+    classed, cited or inside the Mount Royal heritage site — which applies only to the portion north
+    of avenue du Docteur-Penfield. The dates 1840–1930 for the golden age and 1850–1930 for the
+    buildings. The McGill risk flag and the 2019 Master Plan. NOT the source of the 30 % / 5 %
+    attrition figures: this page says only "Only about 30% of the bourgeois homes survived, north of
+    Sherbrooke Street", with no year and no southern figure. The brief for this part attributes the
+    fuller quotation to Héritage Montréal; it is not there.
+
+- id: wikipedia-golden-square-mile
+  citation: >-
+    English Wikipedia, « Golden Square Mile », wikitext retrieved 17 August 2026 from
+    https://en.wikipedia.org/w/index.php?title=Golden_Square_Mile&action=raw — sha-256
+    c526314750bb6598e11b3e544d777f03693ee0aa0f3966c451d9a2430b470174; saved as
+    sources/ville-marie/wp_golden_square_mile.wikitext. A tertiary source, recorded because it is the
+    actual origin of two claims in circulation, and read in wikitext so that its own citations could
+    be checked.
+  used_for: >-
+    The attrition sentence quoted on the Mille carré doré rows and the mansion record — "By 1983,
+    only 30% of the mansions in the northern half of the Square Mile had survived demolition; and
+    only 5% survived south of Sherbrooke Street" — which the article footnotes to Rémillard,
+    François, and Brian Merrett, « Mansions of the Golden Square Mile », Meridian Press, 1987, ISBN
+    2-920417-25-8. That book was not obtained; the figures are published here as Wikipedia's
+    reporting of it and are attributed as such. Also the Charlie Lazarus origin claim for the word
+    « Golden », which the article states without a citation of its own, and the Smithers House
+    demolition of 1974/1977.
+
+- id: heritage-montreal-milton-parc
+  citation: >-
+    Héritage Montréal, Memento, « InspirAction #8: Milton Parc Neighbourhood »,
+    https://memento.heritagemontreal.org/en/site/milton-parc-neighbourhood/ — retrieved 17 August
+    2026; sha-256 e899fe28c8101e5d2e7a496f92bce0952d06ff581c22f92b881b1e740e156184; saved as
+    sources/ville-marie/hm_milton_parc_en.html.
+  used_for: >-
+    The Milton-Parc counter-model in the notes. Bounds — University and Sherbrooke streets,
+    boulevard Saint-Laurent, avenue des Pins; building dates 1875–1900; the architectural diversity
+    sentence. Concordia Estates Ltd buying 96 % of the properties through intermediaries between 1958
+    and 1968; the Milton Parc Citizens Committee formed November 1968; 255 properties demolished for
+    La Cité; the demonstration of 26 May 1972 and its 56 arrests; the sale of the remainder to
+    Paxmill; the Committee approaching Héritage Montréal in 1978. CMHC's purchase of the Paxmill
+    blocks for $5.5 million on 16 May 1979; the SPUM created with Héritage Montréal's help and the
+    SAMP created in 1980; the co-operative project of 1979–1982 built with Héritage Montréal and
+    Phyllis Lambert. This page dates the National Assembly's private bill to 23 June 1987, which the
+    Communauté Milton Parc's own account does not match — see the note on that discrepancy.
+
+- id: cca-captioning-milton-parc
+  citation: >-
+    Canadian Centre for Architecture, « Captioning Milton-Parc », in the CCA's online issue « What
+    you can do with the city »,
+    https://www.cca.qc.ca/en/articles/issues/12/what-you-can-do-with-the-city/52534/captioning-milton-parc
+    — read 17 August 2026.
+  used_for: >-
+    The verbatim figure quoted in the notes: "the Milton Parc housing project (1979-1982) renovated
+    over 135 historic buildings and 597 dwelling units within Milton Parc's 6-block radius." Also
+    CMHC's purchase of 723 residential units and 14 stores, the inauguration of the project in 1983,
+    and the demolition beginning in February 1972. The article names no enabling statute.
+
+- id: negative-communaute-milton-parc
+  citation: >-
+    NEGATIVE FINDING. Communauté Milton Parc, « À propos », https://miltonparc.org/a-propos/ —
+    attempted 17 August 2026 and again the same day with and without a browser user-agent, on both
+    the apex and www hosts: HTTP 500 every time, a 2 679-byte error page, saved as
+    sources/ville-marie/cmp_a_propos.html. web.archive.org was unreachable from this environment.
+  used_for: >-
+    Nothing directly. The figures in circulation attributed to this page — creation in December 1987
+    following private bill 224, published as chapter 144 of the 1987 annual statutes; 616 dwellings
+    in 146 residential and two commercial buildings; more than 1 000 residents now and more than
+    1 500 at creation; 16 member housing co-operatives and 6 housing societies — reached this page
+    only through a search-engine summary of it and are labelled in the notes as reported at second
+    hand and unverified. They contradict both Héritage Montréal (which dates the National Assembly's
+    passage of the private bill to 23 June 1987) and the brief for this part (fifteen co-ops), and
+    should be checked against the statute itself.
+
+- id: rpcq-196303-site-patrimonial-pointe-claire
+  citation: >-
+    Ministère de la Culture et des Communications du Québec, Répertoire du patrimoine culturel du
+    Québec, fiche « Site patrimonial de la pointe Claire », id 196303. Retrieved 17 August 2026 from
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=196303
+    — saved as sources/ville-marie/rpcq_196303.html. Consulted from this place only to check the
+    comparison made in the notes; Pointe-Claire is another place's record.
+  used_for: >-
+    Note (b), verified rather than repeated: the site forms an irregular polygon of about 2,7
+    hectares on a point in Lac Saint-Louis, holding the église Saint-Joachim, the presbytère, the
+    sacristan's house, the école Marguerite-Bourgeoys, the former couvent des Sœurs de la
+    Congrégation de Notre-Dame and a windmill; citation as a site patrimonial by the municipality of
+    Pointe-Claire on 2013-04-02, with an avis de motion de citation of 2012-12-03 as the prior
+    status.
+
+- id: heritage-montreal-van-horne-50
+  citation: >-
+    Héritage Montréal, « 50 years since the demolition of the Van Horne Mansion: measuring progress
+    and challenges for the city's heritage »,
+    https://blog.heritagemontreal.org/en/50-ans-de-la-demolition-de-la-maison-van-horne-mesurer-les-progres-et-les-defis-du-patrimoine-de-la-metropole/
+    — retrieved 17 August 2026; sha-256
+    dcadfa900903e1c1d796fb0bde8d938c2b97db18ec635ba9e2c4b00bd3f7032d.
+  used_for: >-
+    The two-step chain and its dates. The demolition permit issued by the Ville de Montréal on
+    7 September 1973; the interiors dismantled the same day and the house down the following day;
+    "One month after the demolition of the Van Horne Mansion, 23 citizens' groups joined forces to
+    found Sauvons Montréal"; Héritage Montréal founded in 1975. Also the house's own dates as this
+    source gives them — "built in 1870 and enlarged in 1890" — and the protections that followed:
+    the Shaughnessy house in November 1973; the Louis-Joseph Forget, Lord Atholstan, James Reid
+    Wilson and Ernest Cormier houses, the Grey Nuns chapel and the fort towers in 1974; the Mount
+    Royal and Mount Stephen clubs in 1975; the Grey Nuns motherhouse in 1976.
+
+- id: epcaf-van-horne
+  citation: >-
+    Martin Drouin, « Van Horne Mansion (1870-1973): a Demolition That Changed the History of
+    Heritage Preservation », Encyclopédie du patrimoine culturel de l'Amérique française,
+    https://www.ameriquefrancaise.org/en/articles/van-horne-mansion-1870-1973-demolition-changed-history-heritage-preservation
+    — retrieved 17 August 2026; sha-256
+    f223c26c2d671e9120c686bc50f42d6754dbd7413113ab2fd8d9ce14d1e9e84f.
+  used_for: >-
+    The corroborating account: the demolition on Saturday 8 September 1973 several hours after the
+    permit issued; the Society for the Preservation of Great Places and James MacLellan's failed
+    court challenge; the amendments to art. 426 of the Cities and Towns Act and art. 392 of the
+    Municipal Code that let a demolition permit be delayed up to a year; the four neighbouring
+    buildings recognised four months later. Also the two points on which it contradicts other
+    sources and is recorded as doing so: it says the architect of the 1870 house is unknown and only
+    often supposed to have been John W. Hopkins, and it says Sauvons Montréal began in October 1973
+    with about a dozen groups, growing to twenty and then over thirty — not twenty-three.
+
+- id: negative-plan-de-conservation-vieux-montreal
+  citation: >-
+    NEGATIVE FINDING, recorded as a source because the absence is load-bearing. Conseil du patrimoine
+    culturel du Québec, « Site patrimonial de Montréal »,
+    https://cpcq.gouv.qc.ca/patrimoine-culturel/sites-patriomoniaux/montreal/ — read 17 August 2026:
+    the page describes the site and links the RPCQ fiche, and carries no plan de conservation, no
+    règlement and no directive. The MCC's former plans-de-conservation index at
+    mcc.gouv.qc.ca/index.php?id=5074 now returns a generic Québec.ca landing page with no
+    plans-de-conservation list on it. Direct probes of the CPCQ upload pattern
+    (/app/uploads/2020/05/pc_montreal.pdf and variants) return 404.
+  used_for: >-
+    The finding that gates everything else about Vieux-Montréal on this site: no ministerial plan de
+    conservation was retrieved, and no post-2021 règlement or directive replacing it was found
+    either. This is why Vieux-Montréal stays a sector under the Part 9 promotion rule rather than
+    becoming a place, and why the type content here is reconstructed from a site fiche. It also means
+    the 2020 plan de conservation the brief attributes to the Complexe-de-La-Maison-Alcan could not
+    be verified: the URL that responds is an HTML error page served with a .pdf name.
+
+- id: commons-photographs-ville-marie
+  citation: >-
+    Wikimedia Commons, five photographs, each checked through the MediaWiki API
+    (action=query&prop=imageinfo&iiprop=extmetadata) for LicenseShortName, Artist, Credit and
+    ImageDescription before download, and each opened and looked at before publication: « Maison Du
+    Calvet à Montréal » by Mathieu BROSSAIS, 2008, CC BY 4.0; « Maison Papineau 01 » by Jeangagnon,
+    2011, CC BY-SA 3.0; « Magasin-entrepot Jean-Leclaire » by Jeangagnon, 2014, CC BY-SA 3.0;
+    « Maison Hugh Allan, dite Ravenscrag 16 » by Thomas1313, 2013, CC BY-SA 3.0; « Maisons en rangee
+    William D.-Stroud 12 » by Jeangagnon, 2012, CC BY-SA 3.0; and, as the page's hero, « Cours Le
+    Royer - 01 » by Jeangagnon, 2015, CC BY-SA 3.0.
+  used_for: >-
+    Five type photographs and the hero. Full credit, licence and file URL are carried on each
+    photograph. No RPCQ image and no image from the 2005 cahier is reproduced anywhere on this page:
+    RPCQ imagery for this site is © Gouvernement du Québec and the cahier's photographs are the
+    Ville de Montréal's and its named photographers'. The sixth type record, the workers' house with
+    carriage gate, carries a placeholder because no freely-licensed photograph of a Centre-Sud porte
+    cochère could be found whose description survived inspection.

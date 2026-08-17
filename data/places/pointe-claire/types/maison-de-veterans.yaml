@@ -1,0 +1,81 @@
+id: pointe-claire.maison-de-veterans
+place: pointe-claire
+phase: p4
+phase_confidence: verified
+name_en: Veterans' house on the Wartime Housing Limited model, c. 1947
+name_fr: La maison de vétérans sur le modèle de la Wartime Housing Limited
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), sector 5.U.3"
+source_generation: >-
+  Sector characterisation. The whole description of the ensemble urbain « Secteur des vétérans »,
+  transcribed; nothing added.
+sectors: ["5.U.3"]
+canonical:
+  - veterans-house-nha
+styles:
+  - wartime-housing
+tenure_plan: single-family
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: null
+principal_cladding: []
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - "North of the railway — the last part of the territory to be developed, opened after the Second World War once the shore was fully occupied."
+    - "What still distinguishes the sector, the cahier says, is « le tracé particulier des rues et le lotissement » — the street layout and the subdivision pattern, not the buildings."
+  massing:
+    - The cahier states nothing about the massing of these houses.
+  articulation:
+    - The cahier states nothing about their articulation.
+  openings:
+    - The cahier states nothing about their openings.
+  materials:
+    - The cahier states nothing about their materials.
+profile_fr:
+  description:
+    - "Ce secteur est composé de maisons construites autour de 1947 sur le modèle des maisons de la Wartime Housing Limited. Ce modèle est développé durant la Seconde Guerre mondiale pour répondre à la crise du logement qui sévit, mais il est adopté par la suite par plusieurs promoteurs qui cherchent à rejoindre un segment de marché désirant habiter une maison individuelle à prix abordable."
+    - "Aujourd'hui, même s'il y reste bien peu de ces maisons de vétérans, le secteur continue de se démarquer par le tracé particulier des rues et le lotissement."
+profile_note: >-
+  Four of the five columns are empty, and that is the record. The cahier describes this ensemble by
+  its provenance — houses built about 1947 on the Wartime Housing Limited model, a wartime answer to
+  the housing crisis afterwards taken up by promoters selling affordable detached houses — and by what
+  survives of it, which is the street plan and the lot pattern rather than the buildings: « il y reste
+  bien peu de ces maisons de vétérans ». It gives no storeys, no roof, no cladding, no openings and no
+  dimensions. The type is carded rather than left as a sector row, unlike the Vétérans ensemble at
+  Lachine, because here the source does name the model the houses were built to, and that model has a
+  canonical form and a documented description elsewhere on this site; the canonical page is where the
+  five columns can be read. The style attribution is the Wartime Housing programme itself.
+photos:
+  - file: null
+    credit: >-
+      No photograph. The cahier prints none for sector 5.U.3, and no free photograph of a
+      Pointe-Claire veterans' house was found on Wikimedia Commons. Since the cahier itself says few
+      of these houses survive, an unverified street photograph would be more likely to show a
+      replacement than the type.
+    kind: placeholder
+    licence: not applicable
+    source_url: http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/19_EVALUATION_PATRIMOINE_POINTE-CLAIRE.PDF
+    match_confidence: source
+    match_note: >-
+      Nothing is illustrated for this type because nothing verifiable was found. See the canonical
+      form's page for the documented description of the Wartime Housing house, and the Verdun record
+      for the one municipal fee schedule anywhere on this site that names the type by name.
+blurb_en: >-
+  Houses built about 1947 to the Wartime Housing Limited pattern, on the ground north of the railway
+  that was the last part of Pointe-Claire to be opened. The programme was a wartime answer to a
+  housing crisis; afterwards promoters took the model up for buyers who wanted an affordable detached
+  house of their own. Few of the houses are left. What is left is the street plan.
+origin_en: >-
+  Pointe-Claire's population went from 1,240 in 1925 to 8,753 in 1951 and 21,926 ten years after that,
+  and the veterans' sector is the front edge of that curve. The cahier sets it against the projet
+  Magil in Lakeside Heights, one-and-a-half-storey cottages and red brick bungalows of 1953–1955 that
+  it calls remarkable as an ensemble and little altered — the same postwar wave, ten years later,
+  and much better preserved. Between them they are why the sentence the cahier closes its assessment
+  with is worth quoting: « le tracé des rues et le lotissement de l'ancien quartier des vétérans de
+  même que les formes architecturales du projet Magil nous plongent dans les principes d'urbanisme
+  popularisés après la Seconde Guerre mondiale. »

@@ -1,0 +1,30 @@
+- id: p1
+  label: 1663–1760
+  start: 1663
+  end: 1760
+  title_en: Fief, fort and mill on the point
+  colour_key: p1
+- id: p2
+  label: 1760–1855
+  start: 1760
+  end: 1855
+  title_en: Farms on the lac des Deux-Montagnes, no village
+  colour_key: p2
+- id: p3
+  label: 1855–1930
+  start: 1855
+  end: 1930
+  title_en: The railway and the estate belt
+  colour_key: p3
+- id: p4
+  label: 1930–2001
+  start: 1930
+  end: 2001
+  title_en: Arboretum, veterans' housing and the postwar streets
+  colour_key: p4
+- id: p5
+  label: 2001–2026
+  start: 2001
+  end: 2026
+  title_en: Designation, merger, demerger
+  colour_key: p5

@@ -1,0 +1,36 @@
+- id: bdu-evaluation-2005
+  citation: "Ville de Montréal, Évaluation du patrimoine urbain : arrondissement de Beaconsfield–Baie d'Urfé, Service de la mise en valeur du territoire et du patrimoine, Direction du développement urbain, Division du patrimoine et de la toponymie, 2005 (ISBN 2-7647-0447-X). Work carried out January 2003 – May 2004 for the Plan d'urbanisme adopted by the conseil municipal on 23 November 2004."
+  url: "http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/03_evaluation_patrimoine_bbu.pdf"
+  used_for: [sectors, types, phases, prose]
+- id: bdu-rpcq-93440
+  citation: "RPCQ, Maison Rangé-Dit-Laviolette (id 93440), a.k.a. maison Lenoir; 20122, chemin Lakeshore; construction vers 1700; citée immeuble patrimonial par la Municipalité (Baie-D'Urfé) 2001-12-11; « La protection s'applique uniquement à l'enveloppe extérieure de la partie la plus ancienne de l'ensemble, soit la section est du bâtiment. » Source : Ville de Montréal, 2005. The fiche's own references are Beaupré et Michaud, architectes, Évaluation de l'intérêt patrimonial de l'édifice situé au 20 122, chemin Lakeshore, Baie d'Urfé, 2000, 19 p., and Inventaire patrimonial de la Ville de Baie d'Urfé, 2004."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93440"
+  used_for: [instruments, types, protection, prose]
+- id: bdu-rpcq-municipality-search
+  citation: "RPCQ, recherche « Patrimoine immobilier » filtered on municipalité officielle = Baie-D'Urfé, run 17 August 2026: one record, the maison Rangé-Dit-Laviolette (93440). The same search restricted to catégorie de bien « Site patrimonial » returns « Aucun résultat », while the identical search on the whole Montréal administrative region returns forty site records, none of them here."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/rechercheImmobilier.do?methode=acceder"
+  used_for: [protection]
+- id: bdu-reglement-1108
+  citation: "Ville de Baie-D'Urfé, Règlement numéro 1108 — Règlement sur le plan d'urbanisme. Avis de motion 11 mars 2025, adoption 17 juin 2025, entrée en vigueur 20 octobre 2025; signed Heidi Ektvedt, mairesse, and Marie-Hélène Brunet, greffière. Repeals règlement 1031. Section 2.2.3 « Le patrimoine bâti », section 2.2.3.1 « Politiques de protection et de mise en valeur », section 2.2.4 « Le patrimoine archéologique », annexe C « Inventaire du patrimoine bâti » (48 records)."
+  url: "https://www.baie-durfe.qc.ca/medias/fr/documents/R%C3%A8glement_1108_-_Plan_durbanisme_Final.pdf"
+  used_for: [protection, instruments, inventory, grading, sectors, prose]
+- id: bdu-reglements-liste
+  citation: "Ville de Baie-D'Urfé, « Règlements municipaux », urbanisme and règlements généraux categories, read 17 August 2026. The urbanisme list publishes 1108 (plan d'urbanisme, with annexes A–B), 1109 (permis et certificats), 1110 (zonage, with annexes 1–4) and 1111 (lotissement); no citation by-law of any kind appears, and the PIIA and demolition by-laws that règlement 1108 relies on are not published under a number in the list this project could read."
+  url: "https://www.baie-durfe.qc.ca/fr/nos-departements/reglements-municipaux/categories/urbanisme"
+  used_for: [protection, instruments]
+- id: bdu-town-history
+  citation: "Ville de Baie-D'Urfé, « History and Heritage — Part 1 » and « Part 2 »: « In 1663, the Sulpician Order acquired the Seigneury of the Island of Montreal »; « The Town Charter was granted in March 1911 »; « Mr. James Morgan, one of the Town founders, donated a lakefront property for the construction of a Town Hall »; « In October 1912, Mr. Morgan generously donated the white-frame farmhouse for conversion to a Town Hall »; « In the 1950s, Baie-D'Urfé experienced a growth rate which increased its population fivefold. » Neither page uses the phrase heritage village or village patrimonial."
+  url: "https://www.baie-durfe.qc.ca/en/the-town/page/history-and-heritage-part-1"
+  used_for: [phases, prose]
+- id: bdu-toponymie
+  citation: "Commission de toponymie du Québec, fiche « Baie-D'Urfé (Ville) », no de séquence 388456: the town was erected in 1911 under the name Baie-d'Urfée, its territory detached from the ville de Sainte-Anne-de-Bellevue; named for the abbé François-Saturnin Lascaris d'Urfé (1641–1701), Sulpician, in Canada from 1668 and first resident curé of Saint-Louis-du-Haut-de-l'Île or Saint-Louis-du-Bout-de-l'Isle in 1686, returning to France the following year; the misspelling Urfée was corrected only in 1960; the capitalised form Baie-D'Urfé is preferred « parce qu'elle tient compte de la présence de la particule patronymique »; a Nipissing community was settled at the baie d'Urfé on the pointe à Caron; merged into the new ville de Montréal 1 January 2002, reconstituted 1 January 2006."
+  url: "https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=388456"
+  used_for: [phases, prose]
+- id: bdu-beaupre-michaud
+  citation: "Beaupré et Michaud, architectes (Pierre Beaupré, Josette Michaud), Inventaire des bâtiments patrimoniaux du secteur Baie-d'Urfé de l'arrondissement Beaconsfield–Baie d'Urfé de la Ville de Montréal. Cahier 1 – Textes préliminaires, sommaire de l'inventaire et liste des bâtiments, rapport d'étape, Montréal, Ville de Montréal, 7 avril 2003; cited by the RPCQ in its completed form as Inventaire patrimonial de la Ville de Baie d'Urfé, 2004, s.p. NOT OBTAINED. The firm's own project list gives it as « Inventaire patrimonial de Baie d'Urfé, Arrondissement de Baie d'Urfé, 2003 » with no downloadable file; the town publishes no copy; no library or repository copy was found. Both the 2005 cahier's bibliography and the RPCQ fiche for the maison Rangé-Dit-Laviolette cite it, which is how its existence and authorship are confirmed here."
+  url: "https://bmaarchitectes.com/etudes-et-expertises/etudes-historiques-et-patrimoniales/"
+  used_for: [unretrieved]
+- id: bdu-commons
+  citation: "Wikimedia Commons, files from the Parcours riverain – Ville de Montréal Flickr stream (flickr user 93016341@N07), photographs by Anne-Marie Dufour of the Ville de Montréal. Licence CC BY 2.0, with the Commons licence review recorded as passed on each file page. Verified through the Commons API on 17 August 2026 and each file opened and inspected before publication."
+  url: "https://commons.wikimedia.org/wiki/Category:Files_from_Parcours_riverain_-_Ville_de_Montr%C3%A9al_Flickr_stream"
+  used_for: [photos]

@@ -1,5 +1,30 @@
-- {id: p1, label: 1925–1930, start: 1925, end: 1930, title_en: Foundation and the city built in 135 days, colour_key: p1}
-- {id: p2, label: 1930–1936, start: 1930, end: 1936, title_en: Depression — construction stops, 700 trees planted, colour_key: p2}
-- {id: p3, label: 1936–1941, start: 1936, end: 1941, title_en: Second phase — Barott houses, Saguenay Inn, colour_key: p3}
-- {id: p4, label: 1941–1950, start: 1941, end: 1950, title_en: War boom, Wartime Housing, Commission d'urbanisme, third phase, colour_key: p4}
-- {id: p5, label: 1950–1962, start: 1950, end: 1962, title_en: Resident-built houses inside the plan; company withdraws, colour_key: p5}
+- id: p1
+  label: 1925–1930
+  start: 1925
+  end: 1930
+  title_en: Foundation and the city built in 135 days
+  colour_key: p1
+- id: p2
+  label: 1930–1936
+  start: 1930
+  end: 1936
+  title_en: Depression — construction stops, 700 trees planted
+  colour_key: p2
+- id: p3
+  label: 1936–1941
+  start: 1936
+  end: 1941
+  title_en: Second phase — Barott houses, Saguenay Inn
+  colour_key: p3
+- id: p4
+  label: 1941–1950
+  start: 1941
+  end: 1950
+  title_en: War boom, Wartime Housing, Commission d'urbanisme, third phase
+  colour_key: p4
+- id: p5
+  label: 1950–1962
+  start: 1950
+  end: 1962
+  title_en: Resident-built houses inside the plan; company withdraws
+  colour_key: p5

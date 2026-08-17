@@ -1,0 +1,663 @@
+# Three documents, three geometries, and they barely overlap.
+#
+# SP-1 is the site patrimonial cité of 2013: 2.7 hectares at the tip of the point, protected under
+# the Loi sur le patrimoine culturel by the municipality's own by-law PC-2808.
+#
+# 5.E.x / 5.I.x / 5.U.x are the sectors of the Ville de Montréal's 2005 Évaluation du patrimoine
+# urbain for what was then the arrondissement de Pointe-Claire. They have no statutory force since
+# the 2006 demerger, and they cover the whole municipal territory rather than the village alone —
+# which is why they are the only description on this page of the garden suburbs, the Valois bay
+# resorts, the golf-club houses and the postwar quarters.
+#
+# UP1 to UP10 are the unités paysagères of the Code villageois (PC-2880), which is not a heritage
+# instrument at all but a form-based zoning code covering the village sector. Each carries a summary
+# table in the code — usages, typology, lots, coverage, setbacks, architectural style, storeys, roof,
+# architectural elements, materials and colours, particularities — and those tables are transcribed
+# verbatim into characteristics_fr. Because the Code is prescriptive as well as descriptive, its
+# style rows should be read as "what belongs here", not only as "what is here".
+#
+# The cited site sits at the south end of UP5; the Code's own annexe 1 shows the two boundaries
+# meeting rather than nesting.
+
+- id: site-patrimonial-cite
+  code: SP-1
+  name_fr: Site patrimonial de la pointe Claire (noyau institutionnel)
+  value: cited-site
+  streets: [avenue Sainte-Anne, avenue Saint-Joachim]
+  summary_en: >-
+    An irregular polygon of about 2.7 hectares at the end of a point of land running into Lac
+    Saint-Louis, including a presqu'île joined to it by a neck of ground. It holds the église
+    Saint-Joachim, the presbytery and the sexton's house; the école Marguerite-Bourgeoys and the
+    former convent of the Sœurs de la Congrégation de Notre-Dame; and, on the presqu'île beside the
+    convent, the windmill. Religious artworks and outbuildings complete the built fabric. The banks on
+    the church's south flank are semi-public, with a walk and small rest areas; behind the church a
+    wide lawn marks the former cemetery. The village street pattern inside the site is the circular
+    way round the church formed by the junction of avenues Sainte-Anne and Saint-Joachim. Bounded
+    north by the schoolyard, south and east by the lake, west by the residential fabric of the
+    village. Cadastrally: lots 2 526 380, part of 2 526 733, 2 527 910, 2 529 968, 2 529 970,
+    2 529 976 and 2 530 601.
+  summary_fr: >-
+    « Ce bien est cité site patrimonial. La protection s'applique aux terrains ainsi qu'à l'enveloppe
+    extérieure des constructions qui s'y élèvent. Le site patrimonial comprend un immeuble patrimonial
+    classé, le moulin à vent de Pointe-Claire. Un site inscrit à l'Inventaire des sites archéologiques
+    du Québec est associé au lieu. »
+  characteristics_fr:
+    - "la localisation sur une pointe avançant dans le lac Saint-Louis et sur une presqu'île où se trouvent le moulin et l'ancien couvent"
+    - "les contours naturels toujours perceptibles de la presqu'île et de la pointe Claire"
+    - "une bande riveraine dépourvue de constructions"
+    - "un relief plat"
+    - "des espaces gazonnés, des aires de repos et des feuillus matures de diverses essences"
+    - "l'ancien cimetière qui fournit un dégagement visuel sur le chevet de l'église Saint-Joachim et sur les maisons villageoises environnantes"
+    - "la localisation du presbytère tout près de l'église"
+    - "les perspectives visuelles sur la Rive-Sud, le mont Royal et la ville de Montréal"
+    - "son intégration à la trame villageoise"
+    - "son retrait par rapport à la rue principale (chemin Bord-du-Lac)"
+  note: >-
+    The by-law does more than protect appearances. Article 4 makes any subdivision, new construction,
+    alteration, restoration, repair or change of exterior appearance, new signage, street furniture,
+    landscaping, excavation, cut, fill or felling of a mature tree subject to conditions the council
+    may impose, on at least forty-five days' notice. Article 5 forbids demolition of all or part of
+    any building without council authorisation. Articles 7 and 8 name the buildings by name: the
+    windmill, the convent, the church and the presbytery as the religious and historic components,
+    and the maison dite « du bedeau » at 5 avenue Saint-Joachim and the école primaire
+    Marguerite-Bourgeoys as the others. Article 9 covers the ouvrages de génie — the avenues
+    Sainte-Anne and Saint-Joachim south of avenue Demers, the public car park, rest area and path west
+    of the church, and the underground infrastructure. Article 10 requires a visual-impact study for
+    any new building or extension; article 14 requires archaeological supervision of all excavation;
+    article 15 requires three public artworks to be kept in situ — the statue in front of the church,
+    the statue in front of the convent, and the cross near the windmill.
+  source: "RPCQ id 196303 (source: Ville de Pointe-Claire, 2013); Ville de Pointe-Claire, règlement PC-2808"
+
+# --- unités paysagères du Code villageois (PC-2880)
+- id: up1-noyau-villageois-centre
+  code: UP1
+  name_fr: Noyau villageois centre
+  value: unite-de-paysage
+  summary_en: >-
+    The heart of the village: dynamic and mixed, made of attached and detached buildings using the
+    full width of their lots, rich in different architectural styles but formally unified by the
+    gabarit of its buildings and by setbacks close to nil, which the Code says makes an agreeable
+    frontage for pedestrians.
+  summary_fr: >-
+    « Cette unité paysagère représente le cœur du village. Dynamique et mixte, elle est composée de
+    bâtiments contigus et détachés utilisant toute la largeur de leur lot. Riche de ses différents
+    styles architecturaux, elle offre une unité formelle par le gabarit de ses bâtiments et les marges
+    quasi nulles qui contribuent au front bâti agréable pour les piétons. »
+  characteristics_fr:
+    - "Usages : Commercial, service, résidentiel"
+    - "Typologie : Contiguë ou détachée et jumelée"
+    - "Lots : Étroits"
+    - "Taux d'implantation : Élevé (± 50 %)"
+    - "Marge avant : Nulle à étroite"
+    - "Marge latérale : Nulle ou étroite"
+    - "Style architectural : Boomtown"
+    - "Nombre d'étages : Front bâti : 2 ; En recul : 3"
+    - "Éléments architecturaux : Auvents, petits balcons"
+    - "Matériaux et coloris : Brique, déclin de bois, crépis ; teintes terreuses et foncées"
+    - "Particularités : Terrasses, dynamique"
+  note: "Bâtiment d'intérêt architectural named for this unit by amendment PC-2880-4 (3 October 2025): 321-323, chemin du Bord-du-Lac / Lakeshore."
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 04"
+
+- id: up2-entree-villageoise-nord
+  code: UP2
+  name_fr: Entrée villageoise nord
+  value: unite-de-paysage
+  summary_en: >-
+    The avenue Cartier approach marks the entry to the village. A built frontage on the east side with
+    single-family residential and commercial uses in its southern part, and the curling club to the
+    west. The Code is candid that irregular setbacks, poor use of the lots and the variation of
+    typologies all hurt the street frontage.
+  summary_fr: >-
+    « Par l'avenue Cartier, cette unité paysagère marque l'entrée au village de Pointe-Claire. […] Les
+    marges de reculs irrégulières, la faible optimisation des lots et la variation des typologies
+    affectent négativement le front bâti. »
+  characteristics_fr:
+    - "Usages : Commercial, résidentiel, service"
+    - "Typologie : Contiguë, détachée"
+    - "Lots : Étroits et profonds"
+    - "Taux d'implantation : Élevé (± 50 %)"
+    - "Marge avant : Nulle à étroite"
+    - "Marge latérale : Nulle à étroite"
+    - "Style architectural : Diversifié, Boomtown"
+    - "Nombre d'étages : Front bâti : 2 ; avec recul : 5"
+    - "Éléments architecturaux : Auvents, petits balcons, pare-soleil"
+    - "Matériaux et coloris : Brique, déclin de bois, crépis ; teintes terreuses et foncées"
+    - "Particularités : Le secteur marque l'entrée principale au cœur villageois."
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 05"
+
+- id: up3-entree-villageoise-ouest
+  code: UP3
+  name_fr: Entrée villageoise ouest
+  value: unite-de-paysage
+  summary_en: >-
+    The west gate of the village, and the one unit the fire spared. It is still characterised by
+    traditional Québec architecture, by the parc Antoine-Pilon and by its view of Lac Saint-Louis.
+    This is the sector where the shared West Island type — the maison de tradition québécoise — is
+    most legible on the ground.
+  summary_fr: >-
+    « Cette unité paysagère représente la porte d'entrée ouest du village de Pointe-Claire. Épargnée
+    par la déflagration de 1900, elle est toujours caractérisée par l'architecture traditionnelle
+    québécoise, le parc Antoine-Pilon et sa vue sur le lac Saint-Louis. »
+  characteristics_fr:
+    - "Usages : Résidentiel, hébergement"
+    - "Typologie : Détachée"
+    - "Lots : Étroits et peu profonds"
+    - "Taux d'implantation : Moyen (± 30 %)"
+    - "Marge avant : Faible"
+    - "Style architectural : Traditionnel québécois, Second Empire, à toit mansarde"
+    - "Nombre d'étages : 1 à 2 étages"
+    - "Toiture : Pente forte, mansarde"
+    - "Éléments architecturaux : Galeries, perrons, lucarnes"
+    - "Matériaux et coloris : Couleurs claires, teintes terreuses"
+    - "Particularités : Parc et vue sur le lac Saint-Louis"
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 06"
+
+- id: up4-entree-cartier
+  code: UP4
+  name_fr: Entrée Cartier
+  value: unite-de-paysage
+  summary_en: >-
+    One of the three main entrances, connecting the village to the region by the motorway network and
+    given over mostly to commerce. A few of the original party-wall buildings survive and form a
+    commercial frontage south of avenue Salisberry; the north and west of the unit are dominated by
+    large-gabarit buildings and by parking.
+  summary_fr: >-
+    « Quelques-uns des bâtiments mitoyens d'origine subsistent et forment un front commercial au sud
+    de l'avenue Salisberry. Le nord et l'ouest de cette unité paysagère sont dominés par des bâtiments
+    de grands gabarits et une place importante est donnée au stationnement. »
+  characteristics_fr:
+    - "Usages : Commercial, résidentiel"
+    - "Typologie : Contiguë"
+    - "Lots : Étroits et peu profonds"
+    - "Taux d'implantation : Élevé (± 50 %)"
+    - "Marge avant : Faible à moyenne"
+    - "Style architectural : Contemporain, Boomtown"
+    - "Nombre d'étages : Front bâti : 3 ; avec recul 5 étages"
+    - "Toiture : Toit plat"
+    - "Éléments architecturaux : Perrons, auvents"
+    - "Matériaux et coloris : Briques, teintes terreuses"
+    - "Particularités : Un style inspiré du village, mais propre à sa localisation"
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 07"
+
+- id: up5-noyau-villageois-sud
+  code: UP5
+  name_fr: Noyau villageois sud
+  value: unite-de-paysage
+  summary_en: >-
+    Residential in character and distinguished by narrow streets, shallow front setbacks framed by
+    two-storey buildings and small side yards. A repetition of galleries and balconies gives the
+    sector an impression of high density. This is where the village was founded, and its subsequent
+    growth has left a mixture of architectural styles — the longest style list of any unit.
+  summary_fr: >-
+    « Cette unité paysagère à caractère résidentiel se distingue par ses rues étroites, ses faibles
+    marges avant encadrées par des bâtiments de deux étages et de faibles marges de recul avant et
+    latérales. Une répétition des galeries et balcons offre une impression de grande densité au
+    secteur. Siège de la fondation du village, son évolution a laissé une mixité de styles
+    architecturaux. »
+  characteristics_fr:
+    - "Usages : Résidentiel unifamilial et bifamilial"
+    - "Typologie : Détachée"
+    - "Lots : Étroits et profonds"
+    - "Taux d'implantation : Moyen (± 40 %)"
+    - "Marge avant : Très faible"
+    - "Style architectural : Diversifié : Boomtown, Second Empire, Cubique, mansarde, vernaculaire industriel"
+    - "Nombre d'étages : 2 étages"
+    - "Éléments architecturaux : Galeries, balcons"
+    - "Matériaux et coloris : Crépis, déclins de bois, teintes marine"
+    - "Particularités : Alignement des balcons"
+  note: "The cited site patrimonial lies at the south end of this unit; one of the unit's stated intentions is « Améliorer le lien avec la pointe Claire et ses institutions »."
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 08"
+
+- id: up6-noyau-villageois-nord
+  code: UP6
+  name_fr: Noyau villageois nord
+  value: unite-de-paysage
+  summary_en: >-
+    Two distinct atmospheres in one unit: very quiet on avenue Saint-Joachim, where single- and
+    two-family housing prevails, and much busier on avenue Sainte-Anne with its shops. The sector
+    marks the transition between the heart of the village and avenue Lanthier.
+  summary_fr: >-
+    « Cette unité paysagère a deux ambiances distinctes : l'un très tranquille, découlant de la
+    prévalence de l'usage résidentiel unifamilial et bifamilial sur l'avenue Saint-Joachim et l'autre
+    beaucoup plus dynamique sur l'avenue Sainte-Anne avec ses commerces. »
+  characteristics_fr:
+    - "Usage : Résidentiel, service, commerce"
+    - "Typologie : Détachée ou contiguë"
+    - "Lots : Étroits et profonds"
+    - "Taux d'implantation : Moyen (± 40 %)"
+    - "Marge avant : Faible à moyenne"
+    - "Style architectural : Boomtown"
+    - "Nombre d'étages : 2 à 4"
+    - "Éléments architecturaux : Galeries et perrons"
+    - "Matériaux et coloris : Couleurs claires, teintes terreuses"
+    - "Particularités : Rez-de-chaussée surélevé"
+  note: >-
+    Bâtiments d'intérêt architectural named for this unit by amendment PC-2880-4 (3 October 2025):
+    46 avenue Sainte-Anne; 50 avenue Sainte-Anne; 27-33 avenue Saint-Joachim; 35-37 avenue
+    Saint-Joachim; 45 avenue Saint-Joachim.
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 09"
+
+- id: up7-secteur-lanthier
+  code: UP7
+  name_fr: Secteur Lanthier
+  value: unite-de-paysage
+  summary_en: >-
+    A unit in transformation, made of one-storey bungalows and buildings of four storeys and more.
+    Large front and side setbacks, and the golf course to the north, make for a weak street frontage
+    on avenue Lanthier, though the landscape is marked by vegetation and mature trees. This is where
+    Pointe-Claire's postwar bungalow — the shared West Island record — is named in a municipal
+    document.
+  summary_fr: >-
+    « Cette unité paysagère en transformation, est composée de bungalows d'un étage et de bâtiments de
+    quatre étages et plus. Les grandes marges avant et latérales, ainsi que la présence du golf au nord
+    offrent un encadrement plutôt faible sur l'avenue Lanthier. Le paysage est marqué toutefois par la
+    présence de végétation et d'arbres matures. »
+  characteristics_fr:
+    - "Usages : Résidentiel multifamilial"
+    - "Typologie : Bloc d'habitations"
+    - "Lots : Larges et profonds"
+    - "Taux d'implantation : Moyen (± 40 %)"
+    - "Marge avant : Moyenne"
+    - "Style architectural : Contemporain"
+    - "Nombre d'étages : 3 à 6 étages"
+    - "Toiture : Plate"
+    - "Éléments architecturaux : Balcons"
+    - "Matériaux et coloris : Brique, teintes foncées"
+    - "Particularités : Haute densité"
+  note: >-
+    Read the two together and the unit's direction is plain: the description records bungalows on the
+    ground, and the table prescribes three-to-six-storey contemporary blocks. The Code's stated
+    intentions for the unit are to optimise the use of the lots, unify the urban form and manage the
+    transition of density towards the village heart.
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 10"
+
+- id: up8-avenue-du-golf-sud
+  code: UP8
+  name_fr: Avenue du Golf sud
+  value: unite-de-paysage
+  summary_en: >-
+    A residential landscape unit of the turn of the century, made of two-storey single-family houses
+    with wide landscaped setbacks that compensate for the weak street frontage. Its built form is
+    homogeneous and its atmosphere coherent even though the architectural styles are diverse.
+  summary_fr: >-
+    « Cette unité de paysage à caractère résidentiel du début du siècle est composée de maisons
+    unifamiliales de deux étages avec de larges marges de recul aménagées qui compensent le faible
+    encadrement du front bâti. Par sa forme bâtie homogène, l'unité de paysage offre une ambiance
+    cohérente bien que les styles architecturaux soient diversifiés. »
+  characteristics_fr:
+    - "Usages : Résidentiel unifamilial"
+    - "Typologie : Détachée"
+    - "Lots : Larges et profonds"
+    - "Taux d'implantation : Moyen (± 30 %)"
+    - "Marge avant : Profonde"
+    - "Style architectural : Cubique, vernaculaire industriel, Boomtown"
+    - "Nombre d'étages : 2 étages"
+    - "Toiture : Pente faible, pavillon"
+    - "Éléments architecturaux : Galeries, balcons, lucarnes"
+    - "Matériaux et coloris : Variés"
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 11"
+
+- id: up9-avenue-du-golf-nord
+  code: UP9
+  name_fr: Avenue du Golf nord
+  value: unite-de-paysage
+  summary_en: >-
+    The country-suburb unit, and the most fully argued description in the whole Code. Large detached
+    single-family houses on very wide landscaped lots under an abundant tree canopy that, in the
+    Code's words, evokes the countryside. It attributes the sector directly to the British Arts and
+    Crafts movement — the picturesque approach, the valuing of the craftsman's work, the relation
+    between architecture and nature — arriving in Québec at the beginning of the 20th century in the
+    American stylistic adaptations that produced the Shingle and Craftsman houses. Because the houses
+    went up over a short period and the landscaping is continuous, the sector reads as strongly
+    homogeneous despite the diversity of its architectural interpretations; the Code adds that it is
+    less mature than it looks, having absorbed many alterations and later insertions.
+  summary_fr: >-
+    « L'approche pittoresque, la valorisation du travail des artisans et la relation entre
+    l'architecture et la nature, caractéristiques du mouvement britannique Arts and Crafts ont
+    clairement inspiré les bâtisseurs de ce secteur. Ce mouvement, qui prend de l'ampleur à la fin du
+    19e siècle, nous parvient vers le début du 20e siècle, dans des déclinaisons issues des
+    adaptations stylistiques américaines ayant donné naissance aux maisons de style Shingle et
+    Craftsman. »
+  characteristics_fr:
+    - "Usages : Résidentiel unifamilial"
+    - "Typologie : Détachée"
+    - "Lots : Très larges et profonds"
+    - "Taux d'implantation : Faible (± 20 %)"
+    - "Marge avant : Très profonde"
+    - "Style architectural : Shingle, Arts and Craft, Craftman"
+    - "Nombre d'étages : 2 étages"
+    - "Toiture : Pente forte, pavillon"
+    - "Éléments architecturaux : Galeries, balcons, lucarnes"
+    - "Matériaux et coloris : Brique, bardeau de cèdre, déclin ; couleurs terreuses"
+    - "Particularités : Secteur est très végétalisé"
+  note: >-
+    The Code's spelling of the style names is reproduced as printed, "Arts and Craft" and "Craftman"
+    included. This unit is the evidence for adding Pointe-Claire to the shared West Island record for
+    the villa anglaise de villégiature — see the place notes.
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 12"
+
+- id: up10-avenue-cartier-nord
+  code: UP10
+  name_fr: Avenue Cartier nord
+  value: unite-de-paysage
+  summary_en: >-
+    Two kinds of residential ensemble in one unit. North of avenue Sainte-Claire, the Villa St-Louis
+    residence and rows of attached houses aligned on the side streets; to the south, detached houses
+    of the same gabarit on a uniform parcel pattern, giving a regular rhythm of frontage accentuated
+    by a good alignment of balconies and galleries.
+  summary_fr: >-
+    « Cette unité paysagère résidentielle se caractérise par deux types d'ensembles résidentiels. Au
+    nord de l'avenue Sainte-Claire, on trouve la résidence « Villa St-Louis » et des maisons contiguës
+    alignées aux rues secondaires. Au sud, les résidences détachées de même gabarit sur un parcellaire
+    uniforme offrent un front bâti avec un rythme régulier accentué par un bon alignement des balcons
+    et galeries. »
+  characteristics_fr:
+    - "Usages : Résidentiel uni- ou bi-familial"
+    - "Typologie : Détachée"
+    - "Lots : Étroits et peu profonds"
+    - "Taux d'implantation : Moyen (± 35 %)"
+    - "Marge avant : Peu profonde à moyenne"
+    - "Style architectural : Boomtown, Cubique"
+    - "Nombre d'étages : 2"
+    - "Toiture : Plate, pavillon"
+    - "Éléments architecturaux : Galeries, balcons"
+    - "Matériaux et coloris : Brique, déclin de bois ; couleurs variées"
+    - "Particularités : Présence du golf à l'ouest"
+  source: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 13"
+
+# --- Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement de Pointe-Claire »
+# (2005), § 3.2.2. Made while Pointe-Claire was a borough; it has no statutory force since the
+# 2006 demerger, but it is the only survey of the whole territory and the only description that
+# exists of the garden suburbs, the Valois bay resorts and the postwar quarters. The cahier codes
+# the borough 5 and files the PDF as 19.
+
+- id: la-pointe
+  code: 5.E.1
+  name_fr: La Pointe
+  value: exceptional
+  streets: [avenue Saint-Joachim, avenue Sainte-Anne]
+  summary_en: >-
+    The same ground the city cited in 2013, described eight years earlier by the Ville de Montréal.
+    The cahier calls the mill one of the oldest vestiges of the settlement of the island, says it
+    served as the seigneurs' moulin banal until 1857, that the Congrégation de Notre-Dame acquired it
+    in 1866 and that it was restored in the 1950s and 1960s; nearby stands the second convent, which
+    Henri-Maurice Perreault designed for the sisters in 1867-1868 to replace the first convent of
+    1787. The present church of 1881-1885 it calls a replica of a first Bourgeau church begun in 1868
+    and destroyed by fire in 1881, and it records that the presbytery of 1848 was transformed in 1913
+    to plans by Théo Daoust. The wooden cross raised on the point in 1900, the « croix des missions »,
+    is one of the rare survivors on the island of Montréal and replaces an older one put up by the
+    sisters in the 19th century.
+  note: >-
+    Read against the RPCQ fiche and by-law PC-2808, this paragraph disagrees with them and with itself
+    — see the place notes. The mill: 1710 here, 1709-1710 in § 3.1 of the same cahier, 1709 on the
+    RPCQ building fiche. Its ownership: the sisters acquire it in 1866 here and in 1845 in the same
+    cahier's historique, while the RPCQ says only that the Sulpicians built it and leased it out. The
+    church: 1881-1885 here, 1882-1885 on the RPCQ fiche and in the by-law.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: le-village
+  code: 5.E.2
+  name_fr: Le village
+  value: exceptional
+  streets: [avenue Sainte-Anne, avenue Saint-Joachim, avenue Saint-Jean-Baptiste, chemin du Bord-du-Lac]
+  summary_en: >-
+    "Le véritable cœur historique de Pointe-Claire." A plan of 1767 already shows a small settlement
+    around the avenues Sainte-Anne, Saint-Joachim and Saint-Jean-Baptiste. In the 19th century it held
+    hotels, artisans' workshops and shops — every service the surrounding farmland and the summer
+    people beginning to come to the shores of Lac Saint-Louis needed. The fire of 1900, which
+    destroyed a good part of the village, is why so much of what stands is more recent; but the scale
+    and particular atmosphere of the streets, the cahier says, are "un véritable voyage dans le
+    temps".
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: bowling-green
+  code: 5.E.3
+  name_fr: Bowling Green
+  value: exceptional
+  streets: [avenue Bowling Green]
+  summary_en: >-
+    Designed by Frederick G. Todd for the Canadian Nursery Company in 1905. The cahier says Todd,
+    trained by the Olmsted firm, is a dominant figure in Canadian landscape architecture for having
+    helped introduce the garden-city idea, and that at the Bowling Green he set out to marry the
+    natural setting to the constraints of modern residential development. The houses stand round a
+    green — a private park meant for recreation — and approach the Arts and Crafts movement. Most are
+    well preserved, and the cahier asks that the configuration and layout of the park and the roads
+    and the views of the lake be preserved along with them.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: beaconsfield-golf-club
+  code: 5.E.4
+  name_fr: Beaconsfield Golf Club
+  value: exceptional
+  streets: [avenue du Golf]
+  summary_en: >-
+    The golf course founded in 1904 by a group of Westmounters, the club house rebuilt in 1930 after a
+    fire, and the houses lining the avenue du Golf. Most of those houses, the cahier says, are
+    influenced by the Arts and Crafts movement and were built by the founding members of the club —
+    and their designs had to be approved by a club committee and their cost had to exceed a
+    predetermined minimum. Those restrictions, it concludes, are what produced a harmonious ensemble
+    of natural and built landscape. It is the plainest statement anywhere in this part of the site
+    that a private covenant, not an instrument of the state, is what made a place look the way it
+    does.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: cedar-park
+  code: 5.E.5
+  name_fr: Cedar Park
+  value: exceptional
+  streets: [avenue Cedar]
+  summary_en: >-
+    Bought in 1893 by Otto Frederick Lilly to be subdivided, and the first true permanent residential
+    development in the parish of Pointe-Claire. Narrow deep lots along a straight street with a circus
+    on it, the heart of the community life to come; Lilly's pressure brought a railway station nearby.
+    Most of what stands dates from the early 20th century, and the avenue Cedar was planted with apple
+    trees by the promoter.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: parc-stewart
+  code: 5.E.6
+  name_fr: Parc Stewart
+  value: exceptional
+  streets: [chemin du Bord-du-Lac]
+  summary_en: >-
+    In 1915 Charles Wesley Maclean demolished the existing villa on the site, The Knoll, and built Mull
+    Hall to plans by the architect Robert Findlay. The Pères de Sainte-Croix bought it in 1940 for a
+    novitiate; May Beatrice Stewart bought it in 1950 and gave it with its grounds to the Ville de
+    Pointe-Claire. Restored in 1962 and now Stewart Hall, it testifies, the cahier says, to the way the
+    Montréal bourgeoisie lived at the beginning of the century. Findlay is one of the architects named
+    on the Senneville estate belt, which makes this house a direct link between the two ends of the
+    lakeshore.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: les-cimetieres
+  code: 5.E.7
+  name_fr: Les cimetières
+  value: exceptional
+  summary_en: >-
+    A large ensemble shared with the arrondissement de Beaconsfield–Baie-D'Urfé, holding three
+    distinct cemeteries: the Lakeview Memorial, created in 1914; the Eternal Gardens Cemetery; and the
+    Champ d'honneur national du Fonds du Souvenir, opened in 1930 for Canadian and allied service
+    personnel. Beyond its socio-historical interest the cahier calls the ensemble remarkable for its
+    careful planning, which turns the site's exceptional landscape qualities to account while
+    respecting its topography, streams, coulées and wild vegetation.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 A"
+
+- id: cartier-et-victoria
+  code: 5.I.1
+  name_fr: Cartier et Victoria
+  value: interesting
+  streets: [avenue Cartier, avenue Victoria]
+  summary_en: >-
+    The avenue Cartier — formerly du Grand Tronc — was for a time the main link between the
+    Pointe-Claire station and the village, so the sector grew quickly as a natural extension of the
+    village, with a similar subdivision pattern and a modest fabric evocative of the early 20th
+    century. With avenue Victoria it is among the oldest avenues in Pointe-Claire.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: pointe-claire-heights
+  code: 5.I.2
+  name_fr: Pointe-Claire Heights
+  value: interesting
+  streets: [avenue De Breslay]
+  summary_en: >-
+    First subdivision plan 1911; the First World War slowed building, and real development had to wait
+    for the 1920s and 1930s. Another natural extension of the village, with modest permanent houses,
+    like the Cartier and Victoria sector.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: le-quai
+  code: 5.I.3
+  name_fr: Le quai
+  value: interesting
+  summary_en: >-
+    Newer collective facilities, parks with remarkable views and the marina, on a strategic position on
+    the point beside the most exceptional sectors and buildings in Pointe-Claire. Older elements
+    survive: the quay built to ship out the limestone for the Victoria Bridge, and the Yacht Club,
+    founded in 1889.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: upper-bowling-green
+  code: 5.I.4
+  name_fr: Upper Bowling Green
+  value: interesting
+  streets: [avenue Condover]
+  summary_en: >-
+    Tied closely to the Bowling Green project. In 1905 the ground also belonged to the Canadian
+    Nursery Company, which grew trees and flowers on it; the business being unprofitable, the land was
+    subdivided in 1912 and built out as a continuation of the existing Bowling Green — curving
+    streets, large lots, and houses drawing on the Arts and Crafts movement. Most of these very
+    recognisable houses date from 1912–1930.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: brunet-et-dayton
+  code: 5.I.5
+  name_fr: Brunet et Dayton
+  value: interesting
+  streets: [avenue Brunet, avenue Dayton, avenue Julien]
+  summary_en: >-
+    Subdivided in 1911 by a French-Canadian company, Western Investment; the project did not take, and
+    the land was bought back by the Canadian Nursery Company, which kept the original plan. Straight
+    streets, but part of the same overall Bowling Green venture. The cahier singles out the junction
+    of avenue Julien and avenue Brunet for its harmony — the cubic volumes of the buildings, the
+    prominence of the galleries and the verandas — and notes that houses clad in green shingles
+    survive there.
+  note: >-
+    « les volumes cubiques des constructions, à l'importance des galeries et aux vérandas » is
+    independent corroboration, from a Ville de Montréal document of 2005, of the Cubique that by-law
+    PC-2880 would describe twenty years later.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: killarney-gardens
+  code: 5.I.6
+  name_fr: Killarney Gardens
+  value: interesting
+  streets: [avenue de Killarney Gardens]
+  summary_en: >-
+    Also developed by the Canadian Nursery Company and therefore part of the Bowling Green. Most of
+    the houses date from 1912–1930.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: claremont
+  code: 5.I.7
+  name_fr: Claremont
+  value: interesting
+  streets: [avenue Claremont]
+  summary_en: >-
+    The avenue was opened by Ben Goldstein in 1895, when the point still carried a farmhouse and a
+    lighthouse. Today, the cahier says, it has real quality from its tree cover and its fabric, which
+    dates mainly from the 1920s and 1930s.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: valois
+  code: 5.I.8
+  name_fr: Valois
+  value: interesting
+  streets: [chemin du Bord-du-Lac, avenue de l'Église]
+  summary_en: >-
+    In the 19th century the baie de Valois, near the station, looked to travellers like a perfect haven
+    for summer holidays, and the hôtel Château Saint-Louis and the Valois Country Club were built there
+    — both since demolished. A number of summer houses and permanent residences still testify to the
+    life of the French Canadians who lived at or visited the bay in the 1900s–1920s. The chemin du
+    Bord-du-Lac, with its open views of the bay, is now the thread joining the old residential enclaves
+    that survive between the modern apartment towers.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: valois-bay-heights
+  code: 5.I.9
+  name_fr: Valois Bay Heights
+  value: interesting
+  streets: [avenue Prince-Edward]
+  summary_en: >-
+    Subdivided by the Valois Bay Heights company in 1912–1913. Wooden second homes were built first;
+    towards 1920 infrastructure for a permanent population appeared — the Anglican Church of
+    Resurrection completed in 1926, the Valois Park School, then the Valois United Church. As a sign
+    that the houses were becoming permanent, the cahier notes, brick grew steadily more popular.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: lakeside
+  code: 5.I.10
+  name_fr: Lakeside
+  value: interesting
+  streets: [avenue Lakeside, avenue Hillside, avenue Hillcrest, avenue Coolbreeze, avenue Sunnyside, avenue Water's Edge]
+  summary_en: >-
+    The part of the baie de Valois that drew Anglo-British summer people, with a station of its own as
+    at Valois and infrastructure to match: the Maples Inn, the Lakeside Boat Club, the Valois Boating
+    Club. First subdivisions along avenue Lakeside in 1916, then avenues Hillside and Hillcrest; a
+    second sector called Lakeside Gardens — avenues Coolbreeze, Sunnyside and Water's Edge — was
+    subdivided a little later by the promoter George Marcil.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: lakeside-heights
+  code: 5.I.11
+  name_fr: Lakeside Heights
+  value: interesting
+  streets: [avenue Broadview, avenue Parkdale, avenue Coolbreeze]
+  summary_en: >-
+    Avenues Broadview, Parkdale and Coolbreeze, continuing the streets of the same names near the bay,
+    with a fabric of the 1920s and 1930s.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: sainte-jeanne-de-chantal
+  code: 5.I.12
+  name_fr: Sainte-Jeanne-de-Chantal
+  value: interesting
+  summary_en: >-
+    An institutional ensemble with a modern church replacing a first church of 1920, and teaching
+    establishments of the 1920s to 1940s. The cahier finds the siting of such an ensemble at the edge
+    of a municipal territory unusual, and reads it as confirmation that it was meant to serve the
+    people of Dorval next door as much as those of Valois.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 B"
+
+- id: parc-valois
+  code: 5.U.1
+  name_fr: Parc Valois
+  value: urban-ensemble
+  summary_en: >-
+    Teaching institutions, places of worship and a park built in the 1950s and 1960s, testifying to the
+    formidable demographic boom Pointe-Claire went through in those years — from 1,240 inhabitants in
+    1925 to 8,753 in 1951, 21,926 ten years later and 29,049 at the turn of the 21st century.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 C"
+
+- id: projet-magil
+  code: 5.U.2
+  name_fr: Projet Magil
+  value: urban-ensemble
+  streets: [avenue de Windward Crescent]
+  summary_en: >-
+    A part of Lakeside Heights made of one-and-a-half-storey cottages and red brick bungalows built
+    between 1953 and 1955. The cahier calls its ensemble qualities remarkable — a mature tree canopy
+    and houses typical of postwar construction, little altered. This is the direct evidence for
+    Pointe-Claire's membership of the shared West Island record for the postwar bungalow.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 C"
+
+- id: secteur-des-veterans
+  code: 5.U.3
+  name_fr: Secteur des vétérans
+  value: urban-ensemble
+  summary_en: >-
+    Houses built about 1947 on the model of the Wartime Housing Limited houses — a model developed
+    during the Second World War to answer the housing crisis and taken up afterwards by promoters
+    aiming at buyers who wanted an affordable single-family house. The cahier is blunt that few of the
+    veterans' houses are left, and that what still marks the sector out is the particular street layout
+    and the subdivision pattern rather than the buildings.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Pointe-Claire (2005), § 3.2.2 C"

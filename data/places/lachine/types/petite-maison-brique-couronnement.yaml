@@ -1,0 +1,91 @@
+id: lachine.petite-maison-brique-couronnement
+place: lachine
+phase: p3
+phase_confidence: provisional
+name_en: Small one-storey brick house, wider than deep, with a crown
+name_fr: Petite maison unifamiliale d'un étage en brique à couronnement
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), sector 19.I.1"
+source_generation: >-
+  Sector characterisation. One clause of the typological sentence inside the description of
+  Vieux-Lachine, transcribed and not extended.
+sectors: ["19.I.1"]
+canonical:
+  - shoebox-uniplex
+styles:
+  - faubourg-vernacular
+tenure_plan: single-family
+storeys: "1"
+roof: {form: flat, pitch_deg: null}
+window_proportion: null
+principal_cladding:
+  - brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - "In the orthogonal grid of Vieux-Lachine: regular rectangular blocks with no back lanes, and buildings sited variably — sometimes directly on the street line, sometimes set back far enough for an exterior stair or a short path to the front door."
+  massing:
+    - One storey, and small.
+    - "Wider than deep — the cahier's own words, « plus larges que profondes », and the point on which this type parts company with the Montréal shoebox it otherwise resembles."
+  articulation:
+    - Crowned. The cahier names the crown as the one architectural feature of the type, which implies a flat or barely sloping roof behind it.
+  openings:
+    - The cahier states nothing about the openings of this type.
+  materials:
+    - Brick.
+profile_fr:
+  description:
+    - "petites maisons unifamiliales d'un étage en brique, plus larges que profondes et avec des couronnements"
+  implantation:
+    - "La grille orthogonale du tissu urbain, avec ses îlots rectangulaires réguliers et sans ruelles, accueille un bâti qui s'installe selon des modes d'implantation variables, parfois directement sur la ligne de rue, parfois avec un recul pouvant accommoder des escaliers extérieurs ou une petite allée menant à la porte principale."
+profile_note: >-
+  The whole documented content of this type is one clause of one sentence in a sector description:
+  « petites maisons unifamiliales d'un étage en brique, plus larges que profondes et avec des
+  couronnements ». The cahier gives no date, no roof form in words, no window type, no ornament
+  beyond the crown, no lot dimension and no setback, so all of those are null. The phase is
+  provisional: the type sits inside a sector whose growth the cahier ties to the consolidation of
+  Lachine's industrial vocation, which is p3, but no year is printed for the houses themselves. The
+  style attribution is this site's reading and not the cahier's, which attributes none.
+  <strong>The canonical link needs a warning.</strong> The Montréal shoebox is defined by being narrow
+  and set end-on to the street, built to be built over later; Lachine's version is explicitly the
+  other way round — wider than deep. It is filed with the shoebox because it is the same one-storey,
+  flat-roofed, crowned, single-family small brick house, and because the divergence is the useful
+  thing to see.
+photos:
+  - file: assets/places/lachine/26e-avenue-commons.jpg
+    credit: >-
+      26e Avenue, Lachine — the faubourg fabric of sector 19.I.2, where the cahier says the suburb
+      character is felt best, "à l'architecture modeste en bois et en brique". The building in the
+      middle of the frame is a one-storey red-brick house, wider than deep, under a flat roof behind a
+      plain crown; at the left is a wood-clad village house with a bell-cast roof and gable dormers,
+      and at the right a two-storey brick house with a front gallery. Photograph by Anne-Marie Dufour
+      for « Parcours riverain - Ville de Montréal », 18 November 2010, via Wikimedia Commons, CC BY
+      2.0.
+      https://commons.wikimedia.org/wiki/File:26e_Avenue_(Lachine)_(8552634536).jpg
+    kind: single
+    licence: CC BY 2.0
+    source_url: https://commons.wikimedia.org/wiki/File:26e_Avenue_(Lachine)_(8552634536).jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form, not on address. The photograph is of the 26th Avenue, inside sector 19.I.2 and
+      not 19.I.1, and the cahier's typological sentence belongs to 19.I.1; but 19.I.2's own
+      description names the same modest brick-and-wood fabric, and the centre building carries the
+      three attributes the sentence gives — one storey, brick, wider than deep, crowned. Neither the
+      civic number nor the date of the building is known.
+blurb_en: >-
+  A small single-family house of one storey in brick, wider across the front than it is deep, finished
+  at the top with a crown. It is the plainest thing in the old town and the cahier gives it eleven
+  words; what those words describe is a house that is the mirror image of the Montréal shoebox, which
+  turns its narrow end to the street and grows upward. This one turns its long side to the street and
+  does not.
+origin_en: >-
+  It belongs to the dense grid of Vieux-Lachine, which grew along the boulevard Saint-Joseph and then
+  reached rue Saint-Louis and rue Victoria as the arrival of firms like Dominion Bridge consolidated
+  Lachine's industrial vocation. The cahier sets it in a list beside the wooden village houses, the
+  attached and terraced houses under mansards and false mansards, and the brick duplexes and
+  triplexes — four kinds of small dwelling on the same street grid, housing the workforce that the
+  canal and the factories drew in.

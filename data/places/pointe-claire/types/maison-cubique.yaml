@@ -1,0 +1,101 @@
+id: pointe-claire.maison-cubique
+place: pointe-claire
+phase: p3
+phase_confidence: provisional
+name_en: Cubique — massive symmetrical block, imposing gallery, low hipped roof
+name_fr: L'architecture de style Cubique
+source_ref: "Ville de Pointe-Claire, Code villageois PC-2880, chapitre 03 — Architecture villageoise"
+source_generation: >-
+  Form-based code, chapter 3, transcribed verbatim: the style sentence, plus the numbered notes on the
+  facing page that the Code states across all the village styles.
+sectors: [UP5, UP8, UP10]
+canonical:
+  - foursquare-hipped-2st
+styles:
+  - foursquare
+tenure_plan: single-family
+storeys: "2"
+roof: {form: hipped, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - brick
+  - wood-clapboard
+  - roughcast
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - "Named as an architectural style of three units: UP5, the noyau villageois sud, where the front margin is very shallow and coverage about 40 %; UP8, the avenue du Golf sud, where the margin is deep and coverage about 30 %; and UP10, the avenue Cartier nord, where the margin is shallow to medium and coverage about 35 %."
+    - "In UP8 the Code says the deep landscaped setbacks are what compensates for a weak street frontage, and that the built form is homogeneous even though the styles are diverse."
+  massing:
+    - A massive, symmetrical body.
+    - A hipped roof of shallow pitch.
+    - "Two storeys, on the strength of the unit tables — UP5, UP8 and UP10 all give « 2 étages » — rather than of the style sentence, which gives no storey count."
+  articulation:
+    - An imposing gallery. It is the one thing the Code's style sentence says about the front.
+    - "Across all village styles: a bandeau or crown on every heritage building; sober detail; railings of simple vertical members; shutters matching the style of the building."
+  openings:
+    - "Regularly distributed and vertical, which the Code states for every style in the village rather than for this one."
+    - "In UP8 and UP10 the unit tables add dormers and balconies to the galleries as the sector's architectural elements."
+  materials:
+    - "The village rule: brick and darker colours on the chemin du Bord-du-Lac, clapboard or roughcast in light colours elsewhere."
+    - "UP8 gives « Variés » and nothing more; UP10 gives brick and wood clapboard in varied colours; UP5 gives roughcast, wood clapboard and marine tones."
+profile_fr:
+  description:
+    - "L'architecture de style Cubique est définie par son corps massif et symétrique, sa galerie imposante et son toit en pavillon à pente faible."
+  contexte:
+    - "Après l'incendie de 1900, deux styles principaux créent une certaine homogénéité."
+  ornementation:
+    - "Un bandeau ou un couronnement est présent sur l'ensemble des bâtiments patrimoniaux. Malgré les styles différents, ce détail participe à unifier les façades et à préserver le cachet villageois."
+    - "Les détails architecturaux sont généralement sobres. Les principaux sont les garde-corps composés d'éléments verticaux simples et les volets de fenêtre s'apparentant au style du bâtiment."
+  ouvertures:
+    - "Les ouvertures sont dans l'ensemble des styles existants distribuées de manière régulière et à la verticale."
+  materiaux:
+    - "Les matériaux et coloris varient quelque peu. La brique et des couleurs plus foncées sont typiques du chemin Bord-du-Lac alors que les autres secteurs ont souvent des déclins ou du crépi de couleurs claires."
+  toiture:
+    - "Les toitures les plus typiques sont le toit plat et à faible pente pour les styles architecturaux plus récents."
+profile_note: >-
+  The Code devotes one sentence to this style — twenty-two words — and that sentence is the whole of
+  the description column. Everything else above is either a village-wide rule the Code states for all
+  styles at once, or a row from one of the three unité paysagère tables that name Cubique, and each
+  bullet says which. The Code gives no storey count for the style itself, no roof pitch in degrees, no
+  window type, no lot or setback dimension in metres, no roofing material and no garage rule, so those
+  cells are empty; the two storeys come from the unit tables. The phase is provisional: the Code
+  groups this style with the Boomtown as one of the two that rebuilt the village after the fire, which
+  it dates 1900 twice and 1901 once, but it gives no span for the Cubique itself.
+photos:
+  - file: null
+    credit: >-
+      Ville de Pointe-Claire, Code villageois PC-2880, chapitre 03, the figure captioned « Cubique ».
+      The by-law's own illustration of the type. © Ville de Pointe-Claire. Not reproduced — permission
+      required.
+    kind: placeholder
+    licence: permission required
+    source_url: https://www.pointe-claire.ca/assets/images/Documents/PC-2880_Code-Villageois_2025-10-03-1.pdf
+    match_confidence: source
+    match_note: >-
+      No free photograph identifiable as a Pointe-Claire Cubique was found. The Commons categories for
+      Pointe-Claire and for its buildings were searched, and the photographs of the village core, the
+      chemin du Bord-du-Lac, avenue Cartier, avenue Demers, Bowling Green and Cedar Park were all
+      opened and looked at; none shows a massive symmetrical two-storey block under a low hipped roof
+      clearly enough to caption as this type. The cell is left as a placeholder rather than filled
+      with a cubique from another town.
+blurb_en: >-
+  A massive, symmetrical two-storey block with an imposing gallery across the front, under a low
+  hipped roof. It is the second of the two styles the Code villageois says rebuilt Pointe-Claire after
+  the fire, and the Code describes it in a single sentence — which is exactly why it is worth carding:
+  the record shows what a form-based code does and does not bother to say about a house.
+origin_en: >-
+  The Cubique arrives with the Boomtown, after the fire that took much of the village at the turn of
+  the 20th century, and the Code sets the two side by side as the pair that "créent une certaine
+  homogénéité". It survives in three of the ten landscape units, and the company it keeps in each of
+  their style rows is worth reading: in UP5 it stands with Boomtown, Second Empire, mansard and
+  vernaculaire industriel; in UP8 with vernaculaire industriel and Boomtown; in UP10 with Boomtown
+  alone. Elsewhere on this site the same form is the maison cubique of Charlesbourg and the maison
+  cubique of Gatineau and of the Île d'Orléans — a form that half of Québec's sources treat as a
+  top-level type and the other half as a sub-variant of the industrial vernacular. Pointe-Claire's
+  Code, characteristically, does neither: it treats it as a style.

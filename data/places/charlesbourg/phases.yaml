@@ -1,8 +1,36 @@
-# Anchors are from the Plan de conservation 2016 "Historique" (printed pp. 18–22) and the CBCQ
-# Étude de caractérisation 2005, except where a phase note says otherwise.
-- {id: p1, label: 1626–1665, start: 1626, end: 1665, title_en: The Jesuit seigneurie de Notre-Dame-des-Anges, colour_key: p1}
-- {id: p2, label: 1665–1760, start: 1665, end: 1760, title_en: The radial bourg and the French-inspired farmhouse, colour_key: p2}
-- {id: p3, label: 1760–1875, start: 1760, end: 1875, title_en: The neoclassical village and Baillairgé's church, colour_key: p3}
-- {id: p4, label: 1875–1925, start: 1875, end: 1925, title_en: Mansards and the institutional build-out, colour_key: p4}
-- {id: p5, label: 1900–1945, start: 1900, end: 1945, title_en: Vernaculaire industriel, colour_key: p5}
-- {id: p6, label: 1945–2002, start: 1945, end: 2002, title_en: Suburbanisation, cité, merger, colour_key: p6}
+- id: p1
+  label: 1626–1665
+  start: 1626
+  end: 1665
+  title_en: The Jesuit seigneurie de Notre-Dame-des-Anges
+  colour_key: p1
+- id: p2
+  label: 1665–1760
+  start: 1665
+  end: 1760
+  title_en: The radial bourg and the French-inspired farmhouse
+  colour_key: p2
+- id: p3
+  label: 1760–1875
+  start: 1760
+  end: 1875
+  title_en: The neoclassical village and Baillairgé's church
+  colour_key: p3
+- id: p4
+  label: 1875–1925
+  start: 1875
+  end: 1925
+  title_en: Mansards and the institutional build-out
+  colour_key: p4
+- id: p5
+  label: 1900–1945
+  start: 1900
+  end: 1945
+  title_en: Vernaculaire industriel
+  colour_key: p5
+- id: p6
+  label: 1945–2002
+  start: 1945
+  end: 2002
+  title_en: Suburbanisation, cité, merger
+  colour_key: p6

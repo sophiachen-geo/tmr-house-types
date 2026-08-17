@@ -1,0 +1,115 @@
+id: lachine
+name_en: Lachine (borough of Montréal)
+name_fr: Arrondissement de Lachine
+sections: [historic-core, borough-vernacular]
+region: Ville de Montréal
+borough_of: montreal              # borough since 2002 — and, alone among the West Island cores, still one
+founded: 1667                     # La Salle is conceded the arrière-fief of the côte Saint-Sulpice
+settlement_mode: >-
+  fur-trade portage post at the head of the Lachine rapids, then a seigneurial côte along the lake,
+  then a canal-and-railway industrial town whose west end was a summer resort; annexed to Montréal
+  in 2002 and never reconstituted
+evaluation_codes: {code_2005: 19, code_2016: null, file_prefix: "09"}
+governing_instruments:
+  - kind: site-patrimonial-classe
+    title: >-
+      Site patrimonial Le Ber-Le Moyne, RPCQ id 93274 — "Classement, Site patrimonial, Ministre de la
+      Culture et des Communications, 2001-04-26", conservation categories 1 (Extérieur exceptionnel),
+      9 (Terrain notable) and 10 (Bien classé pour son intérêt archéologique). The fiche states the
+      reach of the protection in one line: « La protection s'applique à l'extérieur des bâtiments et
+      au terrain. » The site holds the maison Le Ber-Le Moyne and its contemporary stone dépendance,
+      both built 1669-1671, plus the pavillon Benoît-Verdickt of 1950; it is inscribed on the
+      Inventaire des sites archéologiques du Québec, and its excavated collection was classed as an
+      objet patrimonial at the same time.
+    year: 2001
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93274
+  - kind: transfer-of-powers
+    title: >-
+      RPCQ 93274 statut block, "Transfert de responsabilité — Exercice de certains pouvoirs par la
+      municipalité (Montréal), 2017-09-21, Prise d'effet : 2018-09-21". Authorisations for work inside
+      the classed site therefore issue from the Ville de Montréal, not from the ministère — the same
+      arrangement Charlesbourg has with the Ville de Québec, and dated to the same day as the transfer
+      covering the site patrimonial de Montréal.
+    year: 2018
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93274
+  - kind: national-historic-site
+    title: >-
+      Le Ber-Le Moyne, Lieu historique national du Canada — recorded on the RPCQ fiche as
+      "Désignation (Canada), Lieu historique national du Canada, Commission des lieux et monuments
+      historiques du Canada, 2002-11-01". The province classed the site in 2001 and the federal board
+      designated it the following year: two instruments over one 17th-century fur-trade post.
+    year: 2002
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93274
+  - kind: national-historic-site
+    title: >-
+      Lieu historique national du Canada du Canal-de-Lachine, designated 1929-05-17 under the Historic
+      Sites and Monuments Act; Parks Canada's Directory record gives construction dates 1821 to 1825
+      and a significant period 1821 to 1978, and describes "un canal de 14 kilomètres de longueur"
+      bypassing five kilometres of rapids between Lachine and the old port. Address of record: 711,
+      boulevard Saint-Joseph. See the notes for the three different opening dates and the two
+      different closing dates Parks Canada publishes for it.
+    year: 1929
+    url: https://www.pc.gc.ca/apps/dfhd/page_nhs_fra.aspx?id=627
+  - kind: characterisation-study
+    title: >-
+      Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement de Lachine » (2005,
+      ISBN 2-7647-0462-3). Fieldwork January 2003 – May 2004 by the Division du patrimoine et de la
+      toponymie under Jean-François Gravel, for the Plan d'urbanisme adopted 23 November 2004. Codes
+      the borough 19 and files it as 09: five sectors of exceptional value (19.E.1–19.E.5), eight of
+      interesting value (19.I.1–19.I.8), two ensembles urbains d'intérêt (19.U.1–19.U.2), one ensemble
+      industriel d'intérêt (19.N.1) and three secteurs d'intérêt archéologique à fort potentiel
+      (19.AP.1–19.AP.3). It is the source of every sector row and of most of the type content below.
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/09_evaluation_patrimoine_lac.pdf
+  - kind: PIIA
+    title: >-
+      Arrondissement de Lachine, Règlement numéro 2561 sur les plans d'implantation et d'intégration
+      architecturale — being replaced by Règlement numéro RCA25-19006, which "étend son application à
+      l'ensemble du territoire de l'arrondissement de Lachine" and adds a chapter for the Lachine-Est
+      écoquartier PPU. Public consultation assembly 23 September 2025; adoption with changes listed on
+      the borough council agenda of 1 October 2025. Only the agenda was retrieved, not the adopted
+      by-law text — the articles are therefore NOT verified here.
+    year: 2025
+    url: https://ville.montreal.qc.ca/documents/Adi_Public/CA_Lac/CA_Lac_ODJ_LPP_ORDI_2025-10-01_19h00_FR.pdf
+  - kind: zoning
+    title: >-
+      Arrondissement de Lachine, Règlement numéro 2710 sur le zonage — to be replaced and abrogated by
+      Règlement numéro RCA25-19005, aligned with the Plan particulier d'urbanisme (PPU) of the
+      écoquartier Lachine-Est and with the revised Plan d'urbanisme et de mobilité. Same agenda, same
+      caveat: number confirmed, text not retrieved.
+    year: 2025
+    url: https://ville.montreal.qc.ca/documents/Adi_Public/CA_Lac/CA_Lac_ODJ_LPP_ORDI_2025-10-01_19h00_FR.pdf
+typology_document:
+  title: >-
+    Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Lachine (2005),
+    § 3.2.2, sector descriptions 19.E.1–19.N.1
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    The cahier characterises sectors, not building types: there is no per-type table anywhere in it.
+    What it does have, and what almost no other cahier in this series has, is a compact typological
+    list inside the description of sector 19.I.1 — village houses in wood, attached and terraced
+    houses under mansards and false mansards, one-storey brick houses wider than deep with crowns,
+    and detached or continuous brick duplexes and triplexes — plus a named postwar contractor's type
+    in 19.U.2. The four records below are built from those sentences and from the sector paragraphs
+    that repeat them. Every column the cahier does not state is null and carries a profile_note.
+hero_photo:
+  file: assets/places/lachine/le-ber-le-moyne-maison-commons.jpg
+  credit: >-
+    The maison Le Ber-Le Moyne, 1, chemin du Musée — a fieldstone fur-trade post built 1669–1671 for
+    Charles Le Moyne and Jacques Le Ber, restored 1981–1985 to its 17th-century appearance, classed a
+    site patrimonial in 2001 and designated a national historic site in 2002. Photograph by Simon
+    Geissbuehler, 9 September 2018, Wikimedia Commons, CC BY-SA 4.0.
+    https://commons.wikimedia.org/wiki/File:Site_historique_et_arch%C3%A9ologique_Le_Ber-Le_Moyne,_main_structure.jpg
+map_layer: null
+summary_en: >-
+  The one place in this section that never left Montréal. Lachine begins as a portage stop at the head
+  of the rapides de Lachine, where the canoe routes from the pays d'en Haut had to stop; Le Moyne and
+  Le Ber built a stone trading post there in 1669–1671 that is still standing, and still the oldest
+  thing on the borough's ground. The canal of 1825 and the railway of 1847 turned the east end into an
+  industrial town of worker housing and the Dominion Bridge works, while the west end — Summerlea,
+  annexed in 1912 — filled with Shingle Style and Arts and Crafts summer houses on very large treed
+  lots. Between 1950 and 1970 the fields in between were laid out as dormitory quarters whose dominant
+  house type still carries a builder's name: the maison « Gameroff ». Merged into Montréal in 2002,
+  Lachine did not demerge in 2006, and it is a borough today while every one of its West Island
+  neighbours is a city again.

@@ -236,6 +236,18 @@ for pdir in sorted((DATA / "places").iterdir()):
     phases = load_yaml(pdir / "phases.yaml")
     for ph in phases:
         require(ph, ["id", "label", "start", "end", "title_en", "colour_key"], f"{pdir.name}/phases.yaml")
+        # A flow-style entry — {id: p5, title_en: Merger, demerger, and inventory, ...} — makes
+        # YAML read the commas inside the title as separators. The title is silently truncated at
+        # its first comma and the fragments become extra keys with null values. That was live from
+        # Part 1 and damaged 37 titles across 15 places before anything caught it, because every
+        # required key was still present. Any unexpected key here is that bug, so refuse it.
+        stray = [k for k, v in ph.items()
+                 if k not in {"id", "label", "start", "end", "title_en", "colour_key",
+                              "summary_en", "note", "confidence"}]
+        if stray:
+            fail(f"{pdir.name}/phases.yaml: phase '{ph['id']}' has unexpected key(s) {stray}. "
+                 f"An unquoted comma in a flow-style title splits it — quote the title, or write "
+                 f"the entry in block style.")
         ph["years"] = f"{ph['start']} – {ph['end']}"
         ph["types"] = []
         ph.setdefault("summary_en", "")
@@ -336,6 +348,11 @@ for pdir in sorted((DATA / "places").iterdir()):
         _t["id"] = f"{pl['id']}.{_slug}"
         _t["place"] = pl["id"]
         _t["shared_with"] = [p for p in _rec["places"] if p != pl["id"]]
+        # A shared record carries one photo per place it names, and the card shows photos[0].
+        # Without this, Baie-D'Urfé's card would illustrate its stone house with Lachine's.
+        # Photos tagged with the place they show are floated to the front for that place.
+        _t["photos"] = sorted(_t.get("photos") or [],
+                              key=lambda ph: ph.get("shows_place") != pl["id"])
         tqueue.append((f"shared_types/{_slug}.yaml → {pl['id']}", _slug, _t))
     for tctx, slug, t in sorted(tqueue, key=lambda x: x[1]):
         t.setdefault("shared_with", [])

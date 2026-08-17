@@ -1,0 +1,54 @@
+title_en: The town's own built-heritage inventory, annexe C of the 2025 plan d'urbanisme
+source: Ville de Baie-D'Urfé, règlement 1108 sur le plan d'urbanisme (avis de motion 11 mars 2025, adopted
+  17 juin 2025, in force 20 octobre 2025), annexe C « Inventaire du patrimoine bâti ». Transcribed
+  row for row from the by-law's own table, which prints four columns — Nom de la rue, Numéro civique,
+  Catégorie de bien, Valeur patrimoniale — and no description of any kind.
+note_en: >-
+  This is a list of addresses with grades attached, not a typology. Annexe C gives no date, no
+  storey count, no roof form, no material and no building name for a single one of its 48 records,
+  and this project has added nothing to it except two mechanical cross-references: whether the same
+  address appears in the 2005 cahier's list of « immeubles de valeur patrimoniale exceptionnelle »,
+  and whether it carries an RPCQ status. Both are in the published CSV. The comparison is worth
+  making. Thirty-nine distinct addresses are graded here; sixteen of them were on the 2005 list, and
+  twenty-three are new to it. One address travels the other way — 20658 chemin du Lakeshore, listed
+  as exceptional by the Ville de Montréal in 2005, is absent from the town's 2025 inventory, and
+  neither document explains why. Exactly one of the 48 records is protected: 20122 chemin Lakeshore,
+  the maison Rangé-Dit-Laviolette, citée in 2001, and the citation reaches only the outer envelope of
+  the oldest wing. The survey behind the grades is the agglomeration of Montréal's pre-1940 inventory
+  begun in 2024 under the 2021 Loi sur le patrimoine culturel, which the agglomeration must complete
+  by 1 April 2026.
+rows: 48
+streets: 9
+columns:
+- Valeur patrimoniale
+- Label (règlement 1108)
+- Records
+- Bâtiments principaux
+- Bâtiments secondaires
+categories:
+- code: Supérieure
+  label_fr: Valeur patrimoniale supérieure
+  count: 17
+  extra: [15, 2]
+- code: Forte
+  label_fr: Valeur patrimoniale forte
+  count: 12
+  extra: [11, 1]
+- code: Moyenne
+  label_fr: Valeur patrimoniale moyenne
+  count: 17
+  extra: [13, 4]
+- code: Faible
+  label_fr: Valeur patrimoniale faible
+  count: 2
+  extra: [2, 0]
+top_streets:
+- {name: chemin du Lakeshore, count: 32}
+- {name: rue Gay Cedars, count: 4}
+- {name: rue Oxford, count: 5}
+- {name: rue Saint-Andrew's, count: 2}
+- {name: rue Cambridge, count: 1}
+- {name: rue Picardy, count: 1}
+- {name: Place Wilson, count: 1}
+- {name: rue Oakridge, count: 1}
+- {name: rue Magnolia, count: 1}

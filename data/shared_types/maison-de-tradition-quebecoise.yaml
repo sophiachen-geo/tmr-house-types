@@ -1,0 +1,224 @@
+places:
+- pointe-claire
+- sainte-anne-de-bellevue
+phase: p2
+phase_confidence: provisional
+display_order: 2
+name_en: Traditional Québec house of the village core
+name_fr: La maison de tradition québécoise du noyau villageois
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue
+  (2005), secteurs 1.E.9, 1.E.10 et 1.I.3, et arrondissement de Pointe-Claire (2005), § 3.1 et secteur
+  5.E.2; Répertoire du patrimoine culturel du Québec, fiches 92666 (maison Simon-Fraser, classée) et 200694
+  (maison Michel-Robillard, citée)
+source_generation: two sector-characterisation cahiers of the 2005 Ville de Montréal series, read with
+  the two RPCQ statements of heritage value for the only two protected houses in Sainte-Anne-de-Bellevue;
+  no per-type table exists for either place
+source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/13_evaluation_patrimoine_lile.pdf
+canonical:
+- quebec-traditional-1-5st-gable
+styles:
+- neoclassical-quebec
+style_label: Québec neoclassical
+tenure_plan: single-family
+storeys: '1.5'
+roof:
+  form: gabled
+  pitch_deg: null
+roofing: cedar shingle on the classed Sainte-Anne house; sheet metal and asphalt shingle on the surviving
+  village fabric
+window_proportion: null
+principal_cladding:
+- roughcast
+- fieldstone
+- wood-clapboard
+garage: none
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+  - Both cores are small, tight and close to the water. Sainte-Anne's sits at the point of the island
+    beside the canal, gathered round the church, the former convent and the presbytery; Pointe-Claire's
+    stands around avenues Sainte-Anne, Saint-Joachim and Saint-Jean-Baptiste, an agglomeration already
+    drawn on a plan of 1767.
+  - Houses stand close to the street, or set back only slightly, along narrow streets. Both cahiers make
+    the lotting, the scale and the alignment — rather than any single building — the thing of value.
+  - The Sainte-Anne cahier is explicit that it is the combination that carries the interest, naming together
+    the quality of the institutional buildings, the subdivision and the shape of the lots, the modest
+    scale of the houses and the nearness of the canal.
+  massing:
+  - Modest. One and a half storeys, rectangular, under a steep two-slope roof — the cottages of Sainte-Anne's
+    rue Saint-Jean-Baptiste and the roughcast houses of Pointe-Claire's village streets. The taller two-storey
+    clapboard house of Sainte-Anne's îlot villageois is a neighbouring form and carries its own record
+    on that page.
+  - Ground floors sit low — the Sainte-Anne cahier names « la faible élévation des rez-de-chaussée » as
+    one of four things producing the effect of the ensemble on rue Saint-Jean-Baptiste.
+  - Dormers light the attic. At the classed Sainte-Anne house they run in two rows, large and small, an
+    arrangement the RPCQ fiche singles out; on the village streets there is usually one row.
+  - Where the roof slope is bell-cast the eave is carried out past the wall to shelter a gallery across
+    the front.
+  articulation:
+  - Sober. On the classed house the cornice returns as a pediment on the gable walls and a neo-Gothic
+    porch stands in front of the door, both nineteenth-century additions.
+  - Galleries, verandahs and turned or wrought railings across the front, added and re-added over the
+    life of these streets.
+  openings:
+  - Regular but not academic. The classed house's front entry was moved to the right side at some point
+    in the nineteenth century.
+  materials:
+  - Roughcast render is the norm on the Pointe-Claire village street. Clapboard runs alongside it in Sainte-Anne,
+    where the cahier says the îlot villageois houses are « généralement recouvertes de clin ».
+  - Rubble stone at the two protected Sainte-Anne houses, one of them with a stone spine wall in the basement.
+    Brick and stone on the commercial frontages of rue Sainte-Anne.
+  - Chimney stacks in the gable walls.
+profile_fr:
+  description:
+  - « Niché à la pointe de l'île près du canal, le village se regroupe autour de l'église, de l'ancien
+    couvent et du presbytère. La qualité des bâtiments institutionnels, le lotissement et la forme des
+    lots, l'échelle modeste des constructions résidentielles et la proximité du canal donnent au lieu
+    un cachet exceptionnel. Les maisons sont généralement recouvertes de clin, comptent deux étages et
+    sont construites près de la rue. » (1.E.9, l'îlot villageois)
+  - « Ces maisons ouvrières regroupées le long de rues étroites et construites avec un faible recul de
+    la rue forment un ensemble de cottages tout à fait caractéristique du patrimoine architectural de
+    Sainte-Anne-de-Bellevue. Les toits en pente abrupte, la présence de lucarnes, les dimensions généralement
+    modestes des bâtiments et la faible élévation des rez-de-chaussée contribuent à l'effet d'ensemble.
+    » (1.E.10, la rue Saint-Jean-Baptiste)
+  - « Englobant les habitations ouvrières, cette partie du village est un accompagnement fondamental de
+    « la rue Saint-Jean-Baptiste ». Reprenant les typologies et la forme des îlots, mais sans en avoir
+    la cohésion, cet ensemble constitue un secteur intéressant. » (1.I.3, le centre urbain)
+  - « Il s'agit du véritable cœur historique de Pointe-Claire. Un plan de 1767 montre déjà une petite
+    agglomération autour des avenues Sainte-Anne, Saint-Joachim et Saint-Jean-Baptiste. Au XIXe siècle,
+    on y retrouvait hôtels, ateliers d'artisans et boutiques, tous les services pour la campagne environnante
+    et les villégiateurs qui commencent à fréquenter les rives du lac Saint-Louis. L'incendie de 1900,
+    qui a détruit une bonne partie du village, explique les constructions plus récentes qu'on y voit aujourd'hui.
+    Malgré tout, l'échelle et l'atmosphère particulières des rues s'offrent comme un véritable voyage
+    dans le temps. » (5.E.2, le village)
+  - « À proximité, l'ancien village de Pointe-Claire conserve son échelle humaine avec des maisons modestes
+    alignées le long de rues étroites – un paysage urbain évocateur des modes de vie du début du siècle.
+    » (§ 3.1)
+  elements_caracteristiques:
+  - « La maison Simon-Fraser est une demeure d'inspiration française érigée entre 1790 et 1810. La résidence
+    en pierre de plan rectangulaire, à un étage et demi, est coiffée d'un toit aigu à deux versants légèrement
+    retroussés percé de deux rangées de lucarnes. »
+  - « … son corps de logis rectangulaire en moellons, le mur de refend en pierre au sous-sol, le toit
+    aigu à deux versants aux larmiers peu saillants couvert de bardeaux de cèdre, la charpente de la toiture
+    avec faîtage, sous-faîtage et entrait ainsi que les cheminées dans les murs pignons »
+  - « … ses caractéristiques témoignant des modifications apportées aux XIXe et XXe siècles, dont la corniche
+    formant fronton sur les murs pignons, le porche d'inspiration néogothique en façade, l'entrée latérale
+    droite, la galerie arrière, le toit légèrement retroussé, les deux rangées de lucarnes en façade,
+    grandes et petites, ornementées et couronnées d'un fronton à arc surbaissé »
+  - « Représentative à l'origine de la maison rurale d'inspiration urbaine, fréquente dans la région de
+    Montréal et les régions avoisinantes, elle possède un solage dégagé reflétant la présence d'une cave.
+    »
+conservation:
+- Neither village core carries an ensemble instrument. Pointe-Claire's 2013 municipal citation covers
+  the site patrimonial de la pointe — the institutional ground with the windmill, the church, the convent
+  and the presbytery — and stops at its edge; the village street fabric next door has nothing.
+- Sainte-Anne-de-Bellevue has no ensemble instrument at all. Two individual houses are protected - the
+  maison Simon-Fraser, classed by the minister in 1962, and the maison Michel-Robillard, cited by the
+  town in 2014. The church and the presbytery that anchor the advertised « village patrimonial » are inventoriés
+  only, which records and does not protect.
+- What both places do have is design review. Sainte-Anne's PIIA by-law 798 carries a chapter of objectives
+  and criteria for built and archaeological heritage — an instrument that governs how a permit is judged,
+  not one that designates a place.
+profile_note: 'Neither place has a per-type typology document — no inventory, no thesaurus, no per-type
+  table — so this record is built from sector paragraphs in two of the twenty-seven 2005 Ville de Montréal
+  cahiers, checked against the two RPCQ fiches for Sainte-Anne''s two protected houses. Fields left null
+  and why: `window_proportion` — no source describes a window proportion in either core; `roof.pitch_deg`
+  — the cahier says « toits en pente abrupte » and the RPCQ says « aigu », and neither gives a figure;
+  `lot_width_m`, `setback_front_m`, `setback_side_m`, `front_yard_green_pct` — both cahiers insist on
+  small setbacks and on lot shape in words (« construites près de la rue », « un faible recul de la rue
+  », « le lotissement et la forme des lots ») and neither measures anything; `sectors` — a shared record
+  cannot carry sector codes that exist in only one of its places, and these two number their sectors 1.E.x
+  and 5.E.x respectively. Two fields to distrust. `storeys` is given as 1.5–2 because the sources disagree
+  in a way that cannot be resolved - the Sainte-Anne cahier says of the village core « les maisons … comptent
+  deux étages », its next sector describes cottages of modest dimensions with steep roofs and dormers,
+  and the RPCQ describes the one classed house as « à un étage et demi », while that same fiche''s structured
+  data block reads « Nombre d''étages » 3 ½, contradicting its own description; the 3 ½ figure is treated
+  here as an error in the source. `principal_cladding` puts clapboard first because that is what the Sainte-Anne
+  cahier states and roughcast second because that is what the Pointe-Claire photograph shows; no document
+  counts what either core is actually built of. The phase is p2 and marked provisional - the type belongs
+  to the village of the British regime and the one classed example is dated 1790–1810, but much of what
+  stands today is later, since Pointe-Claire''s cahier says outright that the fire of 1900 destroyed a
+  good part of the village and explains the more recent buildings. The phrase Part 11''s brief attributes
+  to the Sainte-Anne core, « une architecture villageoise représentative de la fin du 19e et du début
+  du 20e siècle », is tourism copy from visiter.sadb.qc.ca and claims no status; it is treated here as
+  description, not as a typology source. The Grand répertoire du patrimoine bâti de Montréal, whose zone
+  fiche 1225 covers this core, was offline throughout and could not be read.'
+example_addresses:
+- address: 153, rue Sainte-Anne, Sainte-Anne-de-Bellevue
+  municipality: Sainte-Anne-de-Bellevue
+  note: Maison Simon-Fraser, built between 1790 and 1810 — for Peter Grant, not for Fraser, who bought
+    it in 1820. Classed by the minister in 1962; two flats from 1892–93; a Bank of Montreal branch from
+    1906 to 1954; restored in 1962 under the architect Percy Roy Wilson.
+- address: Rue Saint-Jean-Baptiste, Sainte-Anne-de-Bellevue
+  municipality: Sainte-Anne-de-Bellevue
+  note: Sector 1.E.10 — the workers' cottages the cahier calls « tout à fait caractéristique du patrimoine
+    architectural de Sainte-Anne-de-Bellevue ». It names no individual house in the sector.
+- address: 20345, chemin Sainte-Marie, Sainte-Anne-de-Bellevue
+  municipality: Sainte-Anne-de-Bellevue
+  note: Maison Michel-Robillard, also Braerob Farm, about 1797; burnt in 1940 and again in 2012; cited
+    by the town on 2014-07-14 — the only heritage citation Sainte-Anne has passed.
+- address: Avenues Sainte-Anne, Saint-Joachim and Saint-Jean-Baptiste, Pointe-Claire
+  municipality: Pointe-Claire
+  note: The three streets the 2005 cahier names as the village core, already drawn on a plan of 1767.
+    The cahier singles out no individual village house.
+related_buildings:
+- name: Maison Simon-Fraser, Sainte-Anne-de-Bellevue (RPCQ 92666, classée 1962)
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=92666
+- name: Maison Michel-Robillard / Braerob Farm, Sainte-Anne-de-Bellevue (RPCQ 200694, citée 2014)
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=200694
+- name: Église de Sainte-Anne-de-Bellevue (RPCQ 179473) — inventoriée only, which is not a protection
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=179473
+- name: Presbytère de Sainte-Anne-de-Bellevue (RPCQ 179475) — inventorié only, which is not a protection
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=179475
+photos:
+- file: assets/shared_types/noyau-villageois-sainte-anne-de-bellevue.jpg
+  kind: single
+  credit: « Noyau villageois de Sainte-Anne-de-Bellevue », photo Anne-Marie Dufour, 2010-11-10, Flickr
+    stream *Parcours riverain — Ville de Montréal*; Wikimedia Commons, CC BY 2.0, Flickr licence review
+    passed (verified through the Commons API).
+  licence: CC BY 2.0
+  source_url: https://commons.wikimedia.org/wiki/File:Noyau_villageois_de_Sainte-Anne-de-Bellevue_(8532480320).jpg
+  match_confidence: neighbourhood
+  note: Inspected before use. A village street rather than a named house — modest volumes under steep
+    two-slope roofs in sheet metal, a dormer, galleries under the eave, painted clapboard fronts and a
+    brick end wall, all standing hard on a narrow street with almost no setback. It is the cahier's «
+    faible recul de la rue », its « toits en pente abrupte » and its « clin », in one frame.
+  shows_place: sainte-anne-de-bellevue
+- file: assets/shared_types/noyau-villageois-pointe-claire.jpg
+  kind: single
+  credit: « Noyau villageois de Pointe-Claire », photo Anne-Marie Dufour, 2010-11-25, Flickr stream *Parcours
+    riverain — Ville de Montréal*; Wikimedia Commons, CC BY 2.0, Flickr licence review passed (verified
+    through the Commons API).
+  licence: CC BY 2.0
+  source_url: https://commons.wikimedia.org/wiki/File:Noyau_villageois_de_Pointe-Claire_(8533752297).jpg
+  match_confidence: neighbourhood
+  note: Inspected before use. Roughcast houses of one and a half to two storeys under steep two-slope
+    roofs with gable dormers, aligned along a narrow street and now given over to shops — the cahier's
+    « maisons modestes alignées le long de rues étroites », and its point that what survived the fire
+    of 1900 here is scale and alignment rather than any one building.
+  shows_place: pointe-claire
+blurb_en: 'The ordinary house of the two West Island village cores — modest, one and a half to two storeys,
+  rectangular, under a steep two-slope roof with dormers, standing close to a narrow street, in clapboard
+  at Sainte-Anne and roughcast at Pointe-Claire. Both places advertise a heritage village. Between them
+  they have three protected buildings and no protected ensemble. One record, two municipalities: the photograph
+  on this card is a Sainte-Anne street, and Pointe-Claire''s stands beside it on the type page.'
+origin_en: 'Pointe-Claire''s parish dates from 1698 and Sainte-Anne''s core grew around a mission that
+  took its present name in 1714, and both produced a small village around the church rather than a string
+  of farms along a côte. A plan of 1767 already shows Pointe-Claire''s clustered on the three avenues
+  it still occupies; by the nineteenth century it held hotels, artisans'' workshops and shops serving
+  the surrounding farms and the first summer people on the lake shore. Most of what stands there now is
+  younger than that, because a fire in 1900 took a good part of it — the cahier says so plainly, and then
+  argues that the value survived the fire anyway, in the width of the streets and the height of the houses.
+  Sainte-Anne''s core sits at the point of the island between the canal locks of 1843 and the railway
+  bridges, and the 2005 cahier separates it into two things worth naming - the îlot villageois round the
+  church, of two-storey clapboard houses built close to the street, and the workers'' cottages of rue
+  Saint-Jean-Baptiste, steep-roofed and dormered and low-floored, which it calls the most characteristic
+  thing in the town''s architectural heritage. One classed house, built between 1790 and 1810 for the
+  fur trader Peter Grant and bought by Simon Fraser in 1820, shows the whole arc in a single building:
+  a French-tradition rubble carré under a steep roof, then a bell-cast eave and two rows of ornamented
+  dormers added as taste changed, then two flats in 1892, then a bank counter from 1906 to 1954, then
+  a restoration in 1962 that kept the evidence of all of it.'

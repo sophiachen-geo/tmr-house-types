@@ -1,0 +1,153 @@
+id: ville-marie.greystone-mansion
+place: ville-marie
+phase: p4
+phase_confidence: verified
+display_order: 4
+name_en: Freestanding greystone mansion
+name_fr: Demeure bourgeoise isolée du Mille carré doré
+source_ref: 'RPCQ id 93528 (MCC); Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005)'
+source_generation: >-
+  Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005), sector fiches 24.E.29,
+  24.E.30, 24.E.28 and 24.E.3, and the historical chapter printed p. 30; with Héritage Montréal,
+  Memento, « McGill and Golden Square Mile Houses », read 17 August 2026. The RPCQ fiche 93528
+  covers the declared site only and does not reach this quarter.
+sectors: ['24.E.29', '24.E.30', '24.E.28', '24.E.31']
+canonical:
+- greystone-mansion-freestanding
+styles:
+- italianate
+- second-empire
+- romanesque
+- queen-anne
+- beaux-arts
+style_label: null
+tenure_plan: single-family
+storeys: null
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- montreal-greystone
+- cut-stone
+- clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Freestanding, often surrounded by gardens and outbuildings, on the south flank of the mountain.
+  - The cahier values the sector as much for what the houses leave open as for the houses — « le
+    dégagement qu'elle assure à la montagne ».
+  - Only the part north of avenue du Docteur-Penfield falls inside the site patrimonial du
+    Mont-Royal; sector 24.E.30, south of Sherbrooke, is explicitly outside it.
+  massing:
+  - Not stated for this sector. The neighbouring croissant Redpath, 24.E.28, is described as mostly
+    three storeys under a two-slope roof — that is the cahier's figure for that sector, not for this
+    one.
+  articulation:
+  - Not stated. The cahier calls the sector remarkable for « la qualité architecturale des bâtiments
+    qui le composent » without describing that architecture.
+  openings:
+  - Not stated.
+  materials:
+  - Not stated for the sector. The cahier's neighbouring fiche 24.E.28 gives clay brick or stone for
+    the Redpath crescent, and the site as a whole is characterised by grey limestone to 1850 and a
+    wide variety of stone types after it.
+profile_fr:
+  description:
+  - >-
+    « Compris dans l’arrondissement historique et naturel du mont Royal, ce secteur résidentiel est
+    urbanisé entre 1860 et 1935. C’est un quartier de résidences bourgeoises souvent entourées de
+    jardins et de dépendances. »
+  - >-
+    « On y retrouve un grand nombre de demeures bourgeoises exceptionnelles, dont certaines sont
+    classées monuments historiques. On y voit notamment des résidences unifamiliales isolées, de
+    luxueuses maisons en rangée et de riches immeubles de logements. »
+  - >-
+    « Certaines des villas sont aujourd’hui occupées par des bureaux, ambassades, consulats et
+    délégations commerciales. Cette zone est caractérisée par la présence de bâtiments d’influence
+    française et anglaise. »
+profile_note: >-
+  Storeys, roof, openings, articulation, materials, lot width, setbacks and green front yard are all
+  null, and the reason is the point of this record. Ville-Marie's own heritage document grades the
+  Mille carré doré exceptionnelle and then describes it in six sentences, none of which describes a
+  building: it gives the dates, the siting in gardens, the present institutional uses and the view
+  of the mountain. There is no per-type table, no inventory fiche and no plan de conservation for
+  this quarter, because it has no ensemble protection to generate one. The richest domestic
+  architecture on the island is also the worst documented at type level of anything on this site,
+  and the empty cells below are that fact rendered as data. Style list is the range of currents the
+  named examples carry, attributed building by building in the list of buildings, not a
+  characterisation either source makes of the sector.
+related_buildings:
+- name: 'Ravenscrag, 1025 avenue des Pins Ouest, built 1860–63 for Sir Hugh Allan; Italianate; now
+    part of McGill Medicine / the MUHC. Attribution of the design varies between sources and is not
+    resolved here.'
+  url: null
+- name: 'Maison William-Forrest-Angus (1894), 3674 rue Peel — the cahier''s own illustration of
+    sector 24.E.29'
+  url: null
+- name: 'Maison Slessor (1890), 1538 avenue du Docteur-Penfield — the cahier''s own illustration of
+    sector 24.E.30'
+  url: null
+- name: 'James Ross House, now Chancellor Day Hall, McGill Faculty of Law — one of the mansions
+    English Wikipedia names as surviving in McGill ownership'
+  url: null
+- name: 'La Maison-Alcan, rue Sherbrooke Ouest — the maison Lord-Atholstan, the maison Béique, the
+    hôtel Berkeley, the maison Holland and the maison Klinkhoff, built 1872–1928, with the 1981–83
+    édifice Davis behind. Classed as the site patrimonial du Complexe-de-La-Maison-Alcan, RPCQ
+    204071, on 2017-02-23 with effect from 2015-11-09.'
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=204071&type=bien
+- name: 'DEMOLISHED — Van Horne Mansion, corner of rues Sherbrooke and Stanley. Héritage Montréal
+    dates it « built in 1870 and enlarged in 1890 »; English Wikipedia says completed 1869 by John
+    William Hopkins and Daniel Berkley Wily; the Encyclopédie du patrimoine culturel de l''Amérique
+    française says the architect is unknown and only often supposed to be John W. Hopkins. Demolition
+    permit issued by the Ville de Montréal 1973-09-07; the house was levelled the following day,
+    1973-09-08.'
+  url: null
+- name: 'DEMOLISHED — the losses the Encyclopédie du patrimoine culturel de l''Amérique française
+    lists before Van Horne: Hugh Allan (1943), Ogilvie (1944), Workman (1952), R. G. Reid (1956),
+    Fred Molson (1957), Richard B. Angus (1957), Hector Mackenzie (1960).'
+  url: null
+- name: 'DEMOLISHED — Charles Francis Smithers House, rue Drummond, 1902, Robert Findlay. English
+    Wikipedia, citing Rémillard and Merrett, records the façade illegally demolished in 1974 and the
+    rest allowed down in 1977 after a negligible fine.'
+  url: null
+blurb_en: >-
+  The richest domestic architecture on the island of Montréal, and the least protected. A
+  freestanding house of two and a half or three storeys standing in its own garden with its own
+  outbuildings, on the slope between Sherbrooke and the mountain, built between about 1860 and 1935
+  in whichever revival was current — Italianate, Second Empire, Romanesque, Queen Anne, Beaux-Arts.
+  The Ville grades the two sectors that hold them exceptionnelle. Neither carries an ensemble
+  designation, and the columns below are empty because no document describes these houses as a type.
+origin_en: >-
+  The cahier's historical chapter puts it plainly: the north-west of the quartier Saint-Antoine,
+  part of it running up the flank of the mountain, went on attracting the great Montréal
+  bourgeoisie, which in the wake of the McTavishes and the McGills had sumptuous residences built by
+  well-known architects — <em>« On y compte les Allan, les Van Horne, les Forget »</em> — and the
+  sector would later be called the Square Mile. Héritage Montréal dates the golden age 1840–1930 and
+  the buildings principally 1850–1930, and describes a commercial aristocracy that controlled
+  two-thirds of the country's wealth. After the 1929 crash the families moved west to Westmount and
+  the Town of Mount Royal, apartment and office buildings were put up in their gardens, and the
+  quarter went, in Héritage Montréal's phrase, from golden age to urban decay in fifty years.
+  Attrition, as English Wikipedia states it citing Rémillard and Merrett's <em>Mansions of the
+  Golden Square Mile</em> (1987): <em>"By 1983, only 30% of the mansions in the northern half of the
+  Square Mile had survived demolition; and only 5% survived south of Sherbrooke Street."</em>
+  Héritage Montréal's own page carries a more cautious version — <em>"Only about 30% of the
+  bourgeois homes survived, north of Sherbrooke Street"</em> — with neither the year nor the 5%.
+  Whichever figure is right, the surviving stock is a remnant, and Héritage Montréal states that the
+  ensemble <em>"does not have a designation or specific strategy to protect and promote its heritage
+  over current urban development considerations"</em>.
+photos:
+- file: assets/places/ville-marie/ravenscrag-avenue-des-pins-commons.jpg
+  credit: >-
+    Ravenscrag, 835-1025 avenue des Pins Ouest — the Allan house, freestanding on its wooded ground
+    below the mountain, with the belvedere tower of its Italianate composition. Photograph by
+    Thomas1313, 7 August 2013, Wikimedia Commons, CC BY-SA 3.0.
+    https://commons.wikimedia.org/wiki/File:Maison_Hugh_Allan,_dite_Ravenscrag_16.jpg — licence,
+    author and file URL read through the Commons API before download; the photograph was opened and
+    checked against its description.
+  kind: single

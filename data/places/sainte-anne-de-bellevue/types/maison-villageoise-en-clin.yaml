@@ -1,0 +1,76 @@
+id: sainte-anne-de-bellevue.maison-villageoise-en-clin
+place: sainte-anne-de-bellevue
+phase: p3
+phase_confidence: provisional
+name_en: Two-storey clapboard village house of the îlot villageois
+name_fr: La maison villageoise en clin du noyau villageois
+source_ref: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue
+  (2005), secteur 1.E.9
+source_generation: sector fiche (2005)
+sectors:
+- 1.E.9
+canonical:
+- bourg-vernacular-house-small
+styles: []
+style_label: null
+tenure_plan: single-family
+storeys: '2'
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: null
+principal_cladding:
+- wood
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - Built close to the street — « construites près de la rue » — in the village core at the tip of the island,
+    beside the canal.
+  - Gathered around the institutional group of the church, the former convent and the presbytery.
+  - 'The cahier counts the lotting itself as part of what makes the sector exceptional: « le lotissement et la
+    forme des lots ».'
+  massing:
+  - Two storeys.
+  - Modest in scale — « l'échelle modeste des constructions résidentielles ».
+  articulation: []
+  openings: []
+  materials:
+  - Clapboard — « les maisons sont généralement recouvertes de clin ».
+profile_note: 'Everything above is the whole of what the 2005 sector fiche says about these houses; it gives no
+  roof form, no window type, no ornament, no material for the roof and no date, and none is inferred here. The
+  only dating statement this project could find for the residential streets of the core is on the town''s tourism
+  site, which calls them « une architecture villageoise représentative de la fin du 19e et du début du 20e siècle
+  » — a promotional page, which is why the phase is marked provisional. This record is deliberately kept separate
+  from the shared maison de tradition québécoise: that record rests on the workers'' cottages of sector 1.E.10,
+  which are one-and-a-half storeys under steep dormered roofs, while these are two-storey clapboard houses in the
+  church quarter.'
+blurb_en: The ordinary house of the village core beside the canal, and the thing the town means when it advertises
+  a « village patrimonial » — two storeys, clapboard, set close to the street on the old lots, in the group of
+  streets that runs from the church and the former convent down to the water. The sector is graded exceptional by
+  the Ville de Montréal's 2005 evaluation and protected by nothing but design review.
+origin_en: The village grew where the portage and then the locks made travellers stop. It was constituted a village
+  municipality in 1878 and became a ville in 1895, and by the early twentieth century the cahier describes a
+  denser urban centre beside the canal, with the older institutional group — church, presbytery, convent — cut off
+  from it by the railways laid from 1860 and by a twentieth-century highway. Sainte-Anne's shore had by then
+  become a resort for Montréal's anglophone bourgeoisie, and the campuses of Macdonald College and John Abbott
+  were changing who lived in the village.
+photos:
+- file: assets/places/sainte-anne-de-bellevue/noyau-villageois-commons.jpg
+  credit: 'A residential street in the noyau villageois of Sainte-Anne-de-Bellevue (2010), the core of sector
+    1.E.9 — graded of exceptional heritage value by the Ville de Montréal in 2005 and carrying no protection at
+    the scale of the ensemble. What is actually in frame is a mixed row, and the caption should say so: at the
+    left a two-storey painted-brick house at nos. 18 and 18A with a moulded and dentilled door surround; beside
+    it a one-and-a-half-storey clapboard house under a steep sheet-metal roof with a dormer and a gallery at no.
+    20; then a house with a bay window and a veranda, and more clapboard fronts beyond. The 2005 fiche describes
+    the sector''s houses as clapboard, two storeys and close to the street, and the photograph shows the
+    clapboard and the tight setback but a lower storey count on most of the row. Photograph by Anne-Marie Dufour
+    for the Parcours riverain – Ville de Montréal Flickr stream, CC BY 2.0; Commons licence review passed 30
+    April 2024.
+    https://commons.wikimedia.org/wiki/File:Noyau_villageois_de_Sainte-Anne-de-Bellevue_(8532480320).jpg'
+  kind: single
+display_order: 1

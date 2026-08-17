@@ -1,0 +1,2419 @@
+      Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+Pierrefonds — Senneville
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+
+
+
+
+               Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+Pierrefonds — Senneville
+Étude réalisée par le Service de la mise en valeur du territoire et du patrimoine
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+
+
+
+Cette analyse du patrimoine urbain a été réalisée par la Division du patrimoine et de la toponymie sous la direction de Jean-François Gravel,
+chef de division. Le travail a été effectué de janvier 2003 à mai 2004 dans le cadre de la préparation du Plan d’urbanisme de la Ville de
+Montréal, qui a été adopté par le Conseil municipal le 23 novembre 2004. L’équipe du projet comprend, pour l’évaluation du patrimoine bâti
+et la recherche historique, Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre et Pierre-Paul Savignac,
+architectes, et Denise Caron, historienne. La recherche et l’écriture pour le patrimoine archéologique ont été réalisées par Claire Mousseau,
+archéologue, avec la collaboration de Françoise Duguay, François Bélanger, Anne-Marie Balac et Christian Roy, également archéologues.
+De plus, Gisèle Trépanier, conseillère en aménagement, et Nicole Halpert, chargée de communication, ont participé à la révision des textes
+tandis que Ginette Bouchard, secrétaire d’unité administrative, a procédé à la saisie de texte. Finalement, nous tenons à remercier nos
+collaborateurs des directions de l’aménagement urbain et des services aux entreprises des arrondissements.
+
+
+
+Remerciements
+
+Rendus cartographiques :
+Division des politiques et du Plan d’urbanisme
+Révision linguistique :
+Sylvie Poulin
+Conception graphique et mise en page :
+Marie Violaine Lamarche
+Photographies :
+Ville de Montréal, Bibliothèque nationale du Québec, P. Fauteux, D. B Webster,
+Ministère de la Culture et des Communications du Québec
+
+
+
+Ce document fait partie d’une série de cahiers qui ont été réalisés pour chacun des 27 arrondissements de la Ville de Montréal. Les différents
+cahiers d’évaluation du patrimoine urbain peuvent être consultés sur notre site internet à l’adresse suivante : ville.montreal.qc.ca/patrimoine
+
+
+
+ISBN 2-7647-0445-3
+
+Dépôt légal – Bibliothèque nationale du Québec, 2005
+Dépôt légal – Bibliothèque nationale du Canada, 2005
+
+
+
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+   TABLE DES MATIÈRES
+ARRONDISSEMENT
+        de Pierrefonds-Senneville
+ 7           A VA N T- P R O P O S
+
+ 9   1.      CADRE MÉTHODOLOGIQUE
+
+ 9   1.1     Introduction
+ 9   1.2     Le cadre bâti d’intérêt patrimonial
+ 9   1.2.1   Approche, étapes et résultats
+11   1.2.2   Critères de sélection
+14   1.3     Les tracés fondateurs d’intérêt patrimonial
+14   1.4     Le patrimoine archéologique
+14   1.4.1   Le caractère spécifique de ce patrimoine
+16   1.4.2   La démarche générale d’acquisition de connaissances et de conservation
+17   1.4.3   L’approche méthodologique et l’identification du patrimoine
+             archéologique au Plan d’urbanisme
+19   1.5     Nouvelles perspectives
+
+21   2.      HISTORIQUE
+
+25   3.      É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+25   3.1     Mise en situation
+27   3.2     Résultat de l’analyse
+27   3.2.1   Les tracés fondateurs d’intérêt patrimonial
+28   3.2.2   Le cadre bâti d’intérêt patrimonial
+28           A Les secteurs de valeur patrimoniale exceptionnelle
+33           B    Les ensembles urbains d’intérêt
+35           C Les immeubles de valeur patrimoniale exceptionnelle
+36           D Les immeubles de valeur patrimoniale intéressante
+37           E    Les éléments particuliers du paysage
+                  Carte synthèse : Évaluation du patrimoine urbain
+41   3.2.3   Le patrimoine archéologique
+42           A Les secteurs d’intérêt archéologique à fort potentiel
+44           B    Les secteurs d’intérêt archéologique
+45           C Les sites archéologiques
+46           D Les biens culturels à statut
+                  Carte synthèse : Le patrimoine archéologique
+
+49   4.      R E C O M M A N D AT I O N S
+
+49   4.1     Générales à l’échelle de l’arrondissement
+50   4.2     Générales à l’échelle montréalaise
+51   4.3     Spécifiques à l’arrondissement
+
+53           BIBLIOGRAPHIE
+                              A VA N T- P R O P O S
+
+
+
+
+Le repérage du patrimoine urbain dont nous faisons             C’est la première fois que l’on entreprend un tel travail
+état ici a été réalisé dans le cadre de l’élaboration du       pour les 27 arrondissements de l’île, travail qui suppose
+Plan d’urbanisme de la Ville de Montréal, qui a été            non seulement l’examen de nouvelles thématiques et
+adopté par le Conseil municipal le 23 novembre 2004.           l’établissement de collaborations avec les arrondisse-
+                                                               ments de Montréal, mais aussi une harmonisation
+Le chapitre 2 de la première partie du Plan d’urbanisme        des visions et des représentations que les arrondisse-
+formule différentes orientations d’aménagement                 ments ont de leur patrimoine. Par exemple, dans
+pour Montréal et comprend une section sur le patri-            certains cas, seul le patrimoine du Régime français
+moine bâti, archéologique et naturel. Le repérage              était privilégié; ailleurs, on n’avait jamais considéré
+des secteurs et bâtiments d’intérêt patrimonial et des         que le parc immobilier plus récent puisse avoir une
+secteurs d’intérêt archéologique contribuera à atteindre       valeur patrimoniale. Ce repérage connexe au Plan
+l’objectif de conservation énoncé dans le Plan. Il a été       d’urbanisme constitue donc une chance unique de
+mené par la Division du patrimoine et de la topo-              faire converger des visions différentes et d’envisager
+nymie en collaboration avec la Division des politiques         le patrimoine de l’ensemble des arrondissements de
+et du Plan d’urbanisme du Service de la mise en                Montréal dans une perspective commune.
+valeur du territoire et du patrimoine, de janvier 2003
+à mai 2004. En ce qui a trait aux sites archéologiques
+recensés, la liste a été mise à jour en mars 2004.
+
+Préparés par la Division du patrimoine et de la topo-
+nymie, les « Cahiers d’arrondissement » présentent
+la méthodologie du travail de repérage, un bref his-
+torique de chacun des arrondissements, les résultats
+complets du repérage du patrimoine bâti et archéo-
+logique, la justification des choix des secteurs, des
+recommandations et une bibliographie. Ces cahiers,
+qui constituent un document d’appoint au Plan
+d’urbanisme, s’adressent d’abord aux citoyens et
+aux gestionnaires des arrondissements afin de les
+sensibiliser à l’importance de conserver le patrimoine
+de leur localité, ainsi que de les aider à mieux com-
+prendre le territoire et à développer des outils de
+gestion et de contrôle appropriés pour assurer la
+conservation de leur patrimoine urbain.
+
+
+
+
+                       ARRONDISSEMENT                                                                                 7
+                                   de Pierrefonds-Senneville
+1.
+1.1 Introduction
+                               CADRE MÉTHODOLOGIQUE
+
+
+
+                                                                1.2 Le cadre bâti d’intérêt patrimonial
+Le patrimoine urbain montréalais ne se limite pas à             1.2.1 Approche, étapes et résultats
+une addition de bâtiments individuels de grand intérêt.
+                                                                L’approche choisie pour la sélection des bâtiments et
+Il porte aussi l’empreinte des époques passées sous
+                                                                secteurs s’appuie sur le concept de paysage urbain
+forme de tracés de rues, de paysages, de constructions,
+                                                                développé par Kevin Lynch, selon lequel le territoire
+d’éléments naturels, de vestiges archéologiques ou
+                                                                se découvre à partir de l’intérieur et non à vol d’oiseau
+de vues exceptionnelles. Le patrimoine urbain forme
+                                                                (en plan), et se compose d’une succession de séquences
+l’environnement dans lequel nous vivons aujourd’hui
+                                                                visuelles expérimentées le long d’un parcours.
+et chacune de ses composantes entretient des relations
+complexes avec les autres. Ainsi, un bâtiment contribue         Cette approche, basée sur l’expérience spatiale, com-
+à la qualité et à l’identité d’un lieu, et inversement,         porte au moins deux implications. L’une marque notre
+certaines qualités qui lui sont extérieures rehaussent          préférence pour la considération des bâtiments
+son attrait. Par exemple, une église et une école               exceptionnels ou intéressants dans leur contexte
+donnant sur un parc ajoutent à son intérêt; un amé-             plutôt qu’en tant qu’objets isolés. L’autre est que les
+nagement paysager particulier, tel un écrin, peut con-          limites des secteurs sélectionnés sont déterminées
+tribuer à rehausser la valeur patrimoniale d’un bâtiment;       par le champ visuel. Ces limites ne sont donc pas
+une habitation plutôt modeste peut se trouver dans              arbitrairement placées au centre des rues mais bien
+un secteur qui présente de belles qualités d’ensemble           au fond des lots afin d’englober toutes les com-
+(homogénéité, couvert végétal, etc.) ; et des rues peu-         posantes du champ visuel.
+vent offrir des vues exceptionnelles sur un élément
+naturel ou construit. La nature multidimensionnelle             Même si elles sont réalisées pour tout le territoire de
+du patrimoine urbain fait qu’on ne peut considérer              la ville de Montréal, la sélection et la qualification des
+ses composantes isolément. Ainsi, l’ancienneté, le              bâtiments et secteurs patrimoniaux peuvent contribuer
+potentiel d’évocation historique, la qualité architec-          à faire ressortir la spécificité des arrondissements. En
+turale, l’harmonie et les qualités visuelles, la présence       effet, Montréal est composée de différents territoires
+d’éléments naturels, le tracé des rues, le potentiel ou         qui possèdent une identité et une histoire propres qui
+l’intérêt archéologique sont autant de facteurs que             méritent d’être reconnues. Nous avons pris le parti de
+nous avons pris en compte afin de jeter les bases d’une         choisir l’arrondissement comme échelle d’observation
+meilleure intégration du patrimoine aux probléma-               du territoire afin de dégager ces spécificités locales.
+tiques urbaines.                                                De la sorte, les arrondissements qui ont connu un
+                                                                développement plus récent sont également considérés
+La structure méthodologique comprend trois volets.              et les particularités de leur patrimoine sont reconnues.
+Le premier traite de l’approche et des critères employés
+pour le cadre bâti d’intérêt patrimonial, le second
+explique ce que nous entendons par la notion de tracés
+fondateurs d’intérêt patrimonial, et le troisième expose
+les critères utilisés pour le patrimoine archéologique.
+
+
+
+
+                       ARRONDISSEMENT                                                                                   9
+                                    de Pierrefonds-Senneville
+Si ce repérage fondé sur l’expérience spatiale prend           13) Préparation des cartes et listes finales.
+largement appui sur un travail d’observation sur le            14) Identification de quelques bâtiments et secteurs
+terrain, il n’aurait pu être achevé sans l’étude de                d’intérêt patrimonial exceptionnel qui se démar-
+sources documentaires. Bien qu’il ne s’agisse pas d’un             quent à l’échelle montréalaise (les incontournables).
+processus linéaire, voici les principales étapes suivies
+                                                               Tout au long des différentes étapes du projet, les résul-
+par la Division du patrimoine et de la toponymie :
+                                                               tats du travail ont été bonifiés par les connaissances
+1) Préparation de critères de sélection.                       des professionnels des arrondissements et de divers
+2) Rencontre avec chacun des 27 arrondissements pour           comités rattachés à la préparation du Plan d’urbanisme.
+    exposer la démarche et les critères de sélection.
+                                                               Les résultats du repérage du patrimoine urbain se
+3) Visite du territoire de chacun des arrondissements
+                                                               présentent sous forme de listes de bâtiments et de
+    avec les professionnels concernés.
+                                                               cartes définissant des secteurs d’intérêt. Il est important
+4) Recherche et étude de la documentation existante
+                                                               de comprendre que ces deux éléments ne peuvent
+    pour chacun des arrondissements :
+                                                               être dissociés l’un de l’autre – ils sont complémentaires.
+    – inventaires, études patrimoniales, études typo-
+                                                               Ainsi, on a inclus dans les listes tous les bâtiments
+      morphologiques, monographies, dépouillement
+                                                               exceptionnels de chacun des arrondissements, mais il
+      de périodiques, bases de données (Service des
+                                                               était impossible d’inscrire tous les bâtiments intéres-
+      immeubles, Communauté urbaine de Montréal,
+                                                               sants, étant donné leur trop grand nombre. Nous nous
+      Fondation du patrimoine religieux, etc.) ;
+                                                               sommes donc limités à nommer individuellement les
+    – cartographie ancienne et photos aériennes.
+                                                               bâtiments qualifiés d’intéressants qui se trouvaient
+5) Collecte d’informations thématiques :
+                                                               à l’extérieur de secteurs d’intérêt. Ces deux outils
+    – inventaires (les églises, les écoles, etc.),dépouille-
+                                                               doivent donc être interprétés en complémentarité.
+      ment de périodiques (le patrimoine moderne, etc.);
+    – consultation d’un expert en patrimoine industriel.       Le système d’identification des secteurs utilisé dans
+6) Élaboration d’un historique et d’une bibliographie          le document correspond à celui des cartes. Le premier
+    pour chacun des arrondissements.                           chiffre correspond au numéro d’arrondissement. Il est
+7) Analyse de la documentation et détermination                suivi de la lettre E pour les secteurs de valeur patri-
+    préliminaire des territoires et immeubles d’intérêt        moniale exceptionnelle, de la lettre I pour les secteurs
+    pour chacun des arrondissements.                           de valeur patrimoniale intéressante, de la lettre N
+8) Travail sur le terrain : repérage en voiture et à pied      pour les secteurs industriels d’intérêt ou par la lettre U
+    avec la collaboration de certains arrondissements.         pour les secteurs urbains d’intérêt. Le deuxième chiffre
+9) Photographies et report des données spatiales               correspond au numéro du secteur.
+    sur des cartes.
+10) Vérification de la cohérence du traitement des             L’échéancier de réalisation du Plan d’urbanisme,
+    secteurs d’intérêt qui chevauchent plusieurs               les ressources disponibles ainsi que l’état actuel des
+    arrondissements.                                           connaissances sur les différents bâtiments et lieux
+11) Catégorisation des secteurs et immeubles d’intérêt         d’intérêt ont été déterminants quant à la méthodologie
+    patrimonial (exceptionnels et intéressants).               adoptée. Ces contraintes inévitables ont constitué un
+12) Rédaction de courts textes résumant l’intérêt              défi de taille pour la production de ce document qui
+    patrimonial de chacun des secteurs sélectionnés.           est, malgré tout, une base solide à partir de laquelle
+                                                               on pourra amorcer une réflexion plus poussée sur la
+                                                               protection du patrimoine montréalais.
+
+
+
+
+10                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.2.2 Critères de sélection                                                 – Intéressants : ensembles comprenant plusieurs bâti-
+                                                                              ments et certaines caractéristiques environnementales
+LES SECTEURS D’INTÉRÊT PATRIMONIAL                                            qui présentent un intérêt patrimonial. Ce sont toutefois
+                                                                              des ensembles dont la trame urbaine peut avoir été
+Les secteurs d’intérêt patrimonial ont été sélectionnés
+                                                                              partiellement modifiée, qui ont pu connaître un
+sur la base des critères suivants1 :
+                                                                              certain nombre de perturbations et qui renferment
+– leur capacité de témoigner d’un thème ou d’un                               parfois des constructions peu intégrées à l’ensemble.
+  événement historique ;                                                      Certaines zones dont l’état est moins satisfaisant sur
+– leur qualité architecturale (forme, usage, technologie                      le plan architectural ou environnemental pourraient
+  constructive) ;                                                             présenter un intérêt si une action de mise en valeur
+– leur participation à la qualité de la vie urbaine                           était entreprise.
+  et du paysage.
+                                                                            Dans tous les cas, l’échelle de comparaison pour cette
+À titre d’exemple, on identifie le noyau originel                           qualification est l’arrondissement, c’est-à-dire que nous
+d’un village, un pôle d’activité lié à la concentration                     avons identifié les secteurs exceptionnels et intéres-
+d’équipements collectifs, un quartier ouvrier du début                      sants propres à l’arrondissement, ce qui fait ressortir
+du siècle, etc. Cette notion de patrimoine est englo-                       sa spécificité dans l’ensemble montréalais. Lorsqu’un
+bante et correspond aux nouvelles tendances                                 secteur se révèle avoir une importance à l’échelle
+véhiculées par les chartes internationales en matière                       montréalaise, on pourra recommander sa protection en
+de conservation.                                                            procédant à la constitution d’un site du patrimoine
+                                                                            en vertu de la Loi sur les biens culturels du Québec3.
+Tous les secteurs identifiés ont ensuite été qualifiés
+comme suit2 :
+
+– Exceptionnels: secteurs ayant conservé leurs qualités
+  au chapitre des aménagements urbains, des implan-
+  tations de bâtiments, de la géographie et des
+  paysages et qui regroupent des suites architecturales,
+  des alignements de bâtiments d’intérêt patrimonial,
+  des zones unifiées par une fonction ou une typologie
+  architecturale. Les ensembles de cette catégorie ont
+  subi relativement peu de perturbations et présentent
+  un caractère d’harmonie formelle et fonctionnelle.
+  De plus, ils sont souvent reconnus comme des
+  témoins historiques importants.
+
+
+
+
+1 Ces critères sont issus du document de travail Guide de gestion des       3 Conformément au document de travail Citation et constitution de sites
+  études patrimoniales préparé par la Division du patrimoine et de la         du patrimoine préparé par la Division du patrimoine et de la toponymie
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                de la Ville de Montréal en novembre 2003.
+2 Ces critères sont inspirés du Guide d’évaluation des biens culturels et
+  des districts historiques de la Ville d’Ottawa, 1987.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                     11
+                                              de Pierrefonds-Senneville
+LES IMMEUBLES D’INTÉRÊT PATRIMONIAL                                            turale ainsi qu’à son lien particulier avec la trame
+                                                                               urbaine. Les critères utilisés sont les suivants6 :
+Les immeubles d’intérêt patrimonial ont été sélectionnés
+sur la base des critères suivants4 :                                           – la valeur historique et sociale d’une industrie dans
+                                                                                 le développement de l’arrondissement, de la ville
+– leur capacité de témoigner d’un thème ou d’un                                  ou même de la province et du pays ;
+  événement historique ;                                                       – l’intégrité du complexe (ancienneté, évolution
+– leur qualité architecturale (forme, usage, technologie                         architecturale, évolution technologique) ;
+  constructive) ;                                                              – le procédé de production particulier;
+– leur participation à la qualité de la vie urbaine et du                      – le lien avec les voies de transport ;
+  paysage.                                                                     – le lien avec le développement des quartiers ouvriers ;
+Cette notion de patrimoine est englobante et corres-                           – l’insertion dans le paysage urbain.
+pond aux nouvelles tendances véhiculées par les
+chartes internationales en matière de conservation.                            Finalement, tous les immeubles d’intérêt patrimonial
+Outre l’architecture monumentale, elle inclut donc                             ont été qualifiés comme suit7 :
+l’architecture vernaculaire, le patrimoine moderne, le                         – Exceptionnel : un bâtiment ancien par rapport aux
+patrimoine industriel, etc.                                                      autres bâtiments de l’arrondissement construits aux
+Dans les cas du patrimoine moderne et du patrimoine                              mêmes fins et(ou) qui affiche des caractéristiques
+industriel, nous avons jugé utile d’utiliser des critères                        inhabituelles ou remarquables quant à son architecture
+spécifiquement adaptés à ces réalités.                                           (par rapport à des bâtiments comparables) et qui n’a
+                                                                                 pas subi de modifications extérieures importantes.
+Patrimoine moderne : Des bâtiments peuvent être                                  De plus, il sert souvent de point de repère ou est
+considérés comme faisant partie du patrimoine                                    reconnu comme un témoin historique important.
+moderne s’ils ont été construits entre 1930 et 1975                            – Intéressant: un bâtiment qui n’est pas nécessairement
+et qu’ils illustrent les caractéristiques de cette époque                        plus ancien que ceux construits aux mêmes fins dans
+relativement5 :                                                                  l’arrondissement, qui affiche certaines caractéristiques
+                                                                                 inhabituelles ou remarquables par rapport à des
+– aux conditions sociales, économiques et politiques
+                                                                                 bâtiments comparables mais dans une moindre
+  changeantes ;
+                                                                                 mesure que dans la catégorie précédente, et qui
+– aux progrès technologiques rapides ;
+                                                                                 peut avoir subi quelques modifications.
+– aux nouvelles façons d’exprimer les formes et de
+  répondre aux besoins fonctionnels.
+
+Patrimoine industriel : Le patrimoine industriel
+commande aussi une adaptation des critères en usage
+pour reconnaître sa spécificité, notamment quant à
+la primauté de la fonction sur l’esthétique architec-
+
+
+
+
+4 Ces critères sont issus du document de travail Guide de gestion des          6. Ces critères proviennent de l’Évaluation du patrimoine industriel : critères
+  études patrimoniales préparé par la Division du patrimoine et de la             généraux, document préparé par Archémi pour le compte de la Ville de
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                    Montréal en 2003.
+5. Ces critères sont issus du Plan du réseau des lieux historiques nationaux   7. Ces critères sont inspirés du Guide d’évaluation des biens culturels et des
+   du Canada : La commémoration du patrimoine bâti canadien de l’ère              districts historiques de la Ville d’Ottawa, 1987.
+   moderne préparé par Parcs Canada en 2001.
+
+
+
+12                                                                             Évaluation du patrimoine urbain
+                                                                               Ville de Montréal
+Comme dans le cas des secteurs d’intérêt patrimonial,                      Les ensembles industriels d’intérêt : Le Plan
+l’échelle de comparaison pour ce travail de qualification                  d’urbanisme signale l’importance du patrimoine indus-
+est l’arrondissement, c’est-à-dire que nous avons                          triel montréalais en créant une catégorie particulière
+identifié les bâtiments exceptionnels et intéressants                      – Ensembles industriels d’intérêt. Cette catégorie
+propres à l’arrondissement, ce qui fait ressortir sa                       est d’autant plus justifiée que le regard posé sur ces
+spécificité dans l’ensemble montréalais. Lorsqu’un                         sites est différent en raison de leur taille et de leur
+bâtiment se révèle avoir une importance à l’échelle                        complexité, de la primauté de leur fonction sur
+montréalaise, on pourra recommander sa protection                          l’esthétique architecturale ainsi que de leur lien par-
+par la citation en vertu de la Loi sur les biens culturels                 ticulier avec la trame urbaine.
+du Québec8.
+                                                                           De plus, les ensembles industriels d’intérêt offrent des
+                                                                           possibilités de mise en valeur nombreuses et variées. Il
+                                                                           peut s’agir autant de restauration que d’interprétation
+NOTIONS NOUVELLES                                                          du lieu. Cette diversité d’interventions possibles com-
+Les ensembles urbains d’intérêt : Le Plan d’urba-                          mande une excellente connaissance des lieux et
+nisme reconnaît l’intérêt de certains développements                       activités de production, laquelle est malheureusement
+résidentiels d’après-guerre, qui composent une part                        trop souvent embryonnaire actuellement. L’amélioration
+importante du patrimoine des anciennes banlieues,                          de cette connaissance est pourtant nécessaire pour
+en créant une catégorie appelée Ensembles urbains                          permettre des interventions éclairées et même inno-
+d’intérêt. On y retrouve, entre autres, des ensembles                      vatrices qui inscriront pleinement ce patrimoine dans
+homogènes de bungalows, des secteurs de maisons                            la vie urbaine contemporaine.
+qui adoptent le modèle développé par la Wartime                            Le critère qui préside à la sélection d’un ensemble
+Housing Limited ou des exemples des premières                              industriel d’intérêt est le regroupement particulièrement
+coopératives d’habitation. Leur repérage est exploratoire                  complexe de bâtiments industriels, structures de génie
+et vise à les intégrer au Plan en les reliant pour une                     civil, machines, instruments, outils et équipements divers
+première fois à des préoccupations de conservation du                      appartenant à une seule ou à plusieurs compagnies.
+patrimoine. Ces ensembles urbains d’intérêt ont été
+sélectionnés lorsqu’ils présentent les qualités suivantes:
+
+– ensemble représentatif des nouvelles façons
+  d’habiter qui sont apparues pendant la Seconde
+  Guerre mondiale;
+– ensemble représentatif du boom démographique
+  et du développement de la banlieue après la
+  Seconde Guerre mondiale;
+– projets d’ensemble présentant une certaine
+  homogénéité des caractéristiques architecturales.
+
+
+
+
+8 Conformément au document de travail Citation et constitution de sites
+  du patrimoine préparé par la Division du patrimoine et de la toponymie
+  de la Ville de Montréal en novembre 2003.
+
+
+
+
+                             ARRONDISSEMENT                                                                                       13
+                                              de Pierrefonds-Senneville
+                                                                Plusieurs de ces chemins se sont transformés en
+1.3 Les tracés fondateurs d’intérêt                             autoroutes et boulevards, d’autres ont conservé un
+            patrimonial                                         potentiel évocateur du Montréal rural ancien, et
+                                                                quelques-uns se sont fortement urbanisés.
+Sur l’île de Montréal, l’organisation du territoire
+remonte dans certains cas au XVIIe siècle. De cette             Parmi ces tracés fondateurs, nous avons sélectionné
+organisation naissent les voies de circulation qui sont         les tronçons qui présentent un intérêt patrimonial
+souvent les marques les plus anciennes du Montréal              parce qu’ils relient toujours des bâtiments parmi les
+agricole qui prévalait avant l’urbanisation. En effet,          plus anciens de Montréal ou qu’ils sont bordés de
+dès 1663, les sulpiciens deviennent seigneurs de l’île          bâtiments d’intérêt patrimonial. Ces tracés servent
+de Montréal. Ils planifient alors le territoire pour l’ouvrir   en quelque sorte de fil conducteur pour la com-
+à la colonisation. Pour cela, l’île est divisée en côtes –      préhension du territoire. Ils permettent, entre autres,
+chacune, dénommée par les sulpiciens, désigne un                d’expliquer la présence d’un paysage rural ou de
+ensemble de terres pouvant compter quelques                     bâtiments anciens d’intérêt patrimonial qui apparais-
+dizaines de concessions et représentant une unité de            sent autrement un peu perdus dans la trame urbaine
+territoire. Les terres individuelles sont des bandes            actuelle. En reliant différents éléments isolés, ces
+parallèles étroites et longues. Pour chaque côte est            tronçons leur confèrent une importance accrue.
+prévu l’emplacement d’un chemin. Cela donne une
+idée du mode d’occupation du sol du système
+seigneurial mis en place sous le Régime français.
+Le système des côtes constitue la structure de base
+                                                                1.4 Le patrimoine archéologique
+du peuplement de l’île sur laquelle s’appuiera tout             1.4.1 Le caractère spécifique de ce patrimoine
+développement postérieur.
+                                                                Le patrimoine archéologique est «... la partie de notre
+En raison de l’insularité de la seigneurie de Montréal          patrimoine matériel pour laquelle les méthodes de
+et de la présence du mont Royal, ce système de côtes            l’archéologie fournissent les connaissances de base. Le
+présente toutefois une organisation originale. En               patrimoine archéologique englobe toutes les traces de
+effet, si dans la vallée du Saint-Laurent les côtes             l’existence humaine et concerne les lieux où se sont
+intérieures sont parallèles au fleuve, ce n’est pas             exercées les activités humaines, quelles qu’elles soient,
+nécessairement le cas à Montréal. C’est ainsi que, sur          les structures et les vestiges abandonnés de toutes
+l’ensemble de l’île, le réseau routier qui dessert ces          sortes, en surface, en sous-sol ou sous les eaux, ainsi
+côtes présente une configuration propre. Ce réseau              que le matériel qui leur est associé. Le patrimoine
+primitif, clairement illustré sur la carte de Jobin de          archéologique est une richesse culturelle fragile et non
+1834, montre l’ensemble des tracés fondateurs qui               renouvelable».9
+serviront par la suite d’épine dorsale au développe-
+ment des quartiers. Grâce à cette carte, on comprend
+bien la structure du réseau des chemins à son
+apogée, à l’époque où l’île de Montréal était encore
+très fortement rurale.
+
+                                                                9 Extrait de la Charte pour la protection et la gestion du patrimoine
+                                                                  archéologique, ICAHM, ICOMOS International, 1990.
+
+
+
+
+14                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La notion de patrimoine archéologique se rattache                 À L’ÉCHELLE DE L’ÎLE DE MONTRÉAL
+d’abord à un lieu physique, le site archéologique, qui
+                                                                  L’archipel de Montréal comprend trois nappes d’eau
+correspond à tout espace dont le sous-sol recèle des
+                                                                  importantes, trois canaux d’écoulement, une vingtaine
+vestiges d’occupation ancienne – ouvrages et cons-
+                                                                  de rapides, trois cents îles (dont deux majeures,
+tructions de tous types, objets témoins et tout autre
+                                                                  Montréal et Jésus) et plus de mille kilomètres de
+élément matériel issu de l’action humaine. Le caractère
+                                                                  rives. Montréal est également le point de rencontre
+enfoui des sites archéologiques fait que, contrairement
+                                                                  de trois grandes voies fluviales – le Saint-Laurent qui
+à d’autres catégories de biens patrimoniaux, ce
+                                                                  donne accès à l’Atlantique et aux Grands Lacs, le
+patrimoine constitue une ressource dont il est difficile
+                                                                  Richelieu d’où il est possible d’atteindre l’Hudson et
+de dresser rapidement un inventaire exhaustif. De
+                                                                  l’État de New York, ainsi que l’Outaouais qui ouvre la
+nombreux sites, de natures diverses et de toutes
+                                                                  porte vers l’ouest et le nord. L’importance de l’île de
+époques, restent ainsi à découvrir sur le territoire de
+                                                                  Montréal pour les Amérindiens s’explique tout parti-
+l’île de Montréal. Toute tentative de cerner la réalité du
+                                                                  culièrement par cette localisation à la confluence et à
+patrimoine archéologique ne pourra donc constituer
+                                                                  proximité de plusieurs cours d’eau. Ces axes hydro-
+qu’un exercice partiel de mise à jour des connaissances
+                                                                  graphiques sont les routes traditionnelles de commerce
+acquises. Cette part d’inconnu explique l’extrême vul-
+nérabilité de ce patrimoine et les difficultés particulières      au cours de la préhistoire et au début de la période
+d’en assurer la protection face aux exigences modernes            historique. De plus, l’île de Montréal, la plus grande
+du développement urbain.                                          de l’archipel, comporte des terrasses de quinze,
+                                                                  trente et cinquante mètres d’élévation ou même
+Un second aspect important a trait au patrimoine                  plus, en référence au mont Royal. Ces terres ont pu
+archéologique en tant qu’objet de connaissance.                   accueillir des populations humaines depuis 8 000 ans
+L’archéologie constitue une discipline dont une des               avant aujourd’hui, si l’on se fie aux premières décou-
+missions est l’étude des sociétés passées par l’inter-            vertes archéologiques effectuées dans la vallée du
+médiaire des vestiges matériels que ces sociétés ont              Saint-Laurent.
+laissés derrière elles. Il s’agit, de plus, de la seule
+discipline qui traite dans le temps et l’espace de                La plus ancienne manifestation humaine recensée sur
+l’évolution de l’ensemble des sociétés humaines. Sa               l’île de Montréal date de la fin de la période archaïque,
+                                                                  entre 5 000 et 4 000 ans avant aujourd’hui. Cette
+contribution est unique notamment en ce qui con-
+cerne la longue trajectoire suivie par l’humanité avant           occupation par les Amérindiens, au cours des périodes
+l’apparition de l’écriture. L’archéologie s’intéresse à           préhistorique et de contact, est un volet unique du
+                                                                  passé de l’île de Montréal.
+toutes les sociétés, sans égard à leur origine ou à
+leur forme d’organisation, qu’elles soient, comme en              Pour la période historique, la documentation et les
+Amérique, de souche autochtone, européenne ou autre.              cartes anciennes fournissent des éléments interpré-
+                                                                  tatifs valables, à partir des premières chroniques du
+                                                                  XVIe siècle jusqu’à nos jours. Elles sont cependant
+                                                                  souvent muettes sur les différents aspects des modes
+                                                                  de vie de certaines époques et de certains groupes et
+                                                                  individus, de même que sur l’emplacement exact et
+                                                                  l’organisation spatiale de plusieurs lieux d’exploita-
+                                                                  tion et d’habitation, comme les avant-postes de Ville-
+                                                                  Marie. Elles se taisent parfois volontairement et, en
+
+
+
+
+                        ARRONDISSEMENT                                                                                  15
+                                      de Pierrefonds-Senneville
+d’autres occasions, ne font état que des préoccupa-             En milieu urbain ou aménagé de longue date, la
+tions des classes dirigeantes, des autorités, de l’élite.       démarche suivie consiste, au moyen de l’analyse
+L’archéologie pare à ces lacunes car elle étudie les            des cartes anciennes, des documents d’archives, des
+traces concrètes laissées par les différents occupants.         données environnementales et des données archéo-
+En milieu urbain, l’archéologie étudie en outre l’évo-          logiques acquises, à caractériser la séquence d’occu-
+lution de la forme urbaine et des formes concrètes,             pation et le processus d’aménagement du territoire.
+dans l’espace et dans le temps, pour idéalement                 Il s’agit de confronter les caractéristiques géographiques
+accéder aux fondements de la culture.                           aux caractéristiques culturelles des sociétés ayant
+                                                                habité ou pu habiter un territoire, et de comprendre
+Les recherches archéologiques menées à ce jour sur l’île        dans quelle mesure les occupations successives ont
+de Montréal documentent une séquence d’occupation               structuré le milieu d’origine et affecté les vestiges
+s’étirant sur plusieurs millénaires et associée à la            d’occupations antérieures. Cette étape est celle de
+présence de groupes aux horizons culturels et temporels         l’étude de potentiel archéologique. La seconde étape
+fort diversifiés : campement amérindien, halte, carrière        consiste, en fonction des résultats de l’étude de
+préhistorique pour l’extraction de la pierre, lieu de           potentiel archéologique, à procéder à une évaluation
+sépultures amérindiennes, noyau initial de Ville-Marie,         sur le terrain afin de vérifier la localisation précise,
+lieux de fondation, forts et missions, bourgs anciens,          la nature et le degré d’intégrité des ressources archéo-
+moulin seigneurial, lieux de culte, cimetières (catho-          logiques en place. Il s’agit de l’inventaire archéolo-
+liques, protestants et juifs), complexes institutionnels,       gique réalisé par des forages, sondages et tranchées
+anciens faubourgs, villas, marchés publics, dépotoirs,          exploratoires.
+complexes agricoles, complexes industriels, ouvrages
+de génie civil, etc., et les formes du paysage ancien de        Selon la nature des découvertes découlant de l’inven-
+l’île de Montréal : terrasses, collines, ruisseaux, rivières,   taire archéologique, plusieurs avenues sont envisa-
+lacs, tourbières.                                               geables selon la valeur scientifique, didactique et
+                                                                symbolique du site et du contexte. Dans le cas d’un
+                                                                site archéologique de grand intérêt, il pourra être
+1.4.2 La démarche générale d’acquisition de                     nécessaire d’assurer en priorité sa conservation in
+         connaissances et de conservation                       situ. Une réserve archéologique est souvent garante
+                                                                de la mise en valeur de ce patrimoine. La plupart des
+Le site archéologique constitue le fondement concret            interventions archéologiques à Montréal surviennent
+de la démarche de conservation et de mise en valeur             dans le cadre de projets d’aménagement du territoire.
+du patrimoine archéologique. La valeur intrinsèque du           Les mesures de protection du patrimoine archéo-
+site archéologique, tout comme l’intérêt de procéder à          logique peuvent alors entraîner la conservation inté-
+son investigation, doivent être évalués en fonction             grale in situ de certains vestiges, la mise en valeur
+de critères relatifs à sa signification, et non pas             in situ de vestiges, la relocalisation du projet d’amé-
+essentiellement relever de considérations touchant              nagement, une modification du projet d’aménagement
+sa grande ancienneté ou le caractère plus ou moins              ou encore une fouille archéologique préventive sur
+monumental des vestiges qu’il recèle.                           les sites d’intérêt de façon à assurer une récupération
+                                                                maximale d’informations.
+
+
+
+
+16                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La majorité des sites archéologiques de l’île de                 LES SITES ARCHÉOLOGIQUES RECENSÉS
+Montréal se trouvent dans des espaces divers – sous-
+                                                                 Au Québec, en vertu de la Loi sur les biens culturels,
+sol de bâtiment, terrain vacant, boulevard, rue,
+                                                                 tout site archéologique découvert est codifié selon
+ruelle, square, place, parc, parc-nature – souvent
+                                                                 le code Borden et inscrit à l’Inventaire des sites
+menacés par des réaménagements, de nouvelles
+                                                                 archéologiques du Québec. Le code Borden est un
+constructions et une modernisation des services
+                                                                 système d’enregistrement des sites archéologiques
+publics souterrains. L’intégration de ce patrimoine
+                                                                 utilisé à l’échelle du Canada. Il permet de localiser un
+dans les programmes de régénération du tissu urbain
+                                                                 site archéologique d’après sa position géographique,
+de Montréal devient donc prioritaire. C’est pourquoi
+                                                                 longitude et latitude (ex. : BjFj), et selon l’ordre suc-
+la reconnaissance du patrimoine archéologique dans
+                                                                 cessif des découvertes archéologiques (ex. : BjFj-1).
+le Plan d’urbanisme de Montréal permettra de
+                                                                 Au Québec, c’est le ministère de la Culture et des
+prévenir l’interférence négative des usages actuels de
+                                                                 Communications qui a la responsabilité de tenir
+la ville et assurera la protection et la mise en valeur
+                                                                 l’Inventaire des sites archéologiques de la province et
+de vestiges et de sites archéologiques d’un grand
+                                                                 qui attribue les codes Borden.
+intérêt pour l’histoire de Montréal.
+                                                                 La Ville de Montréal a donc enrichi le Répertoire
+                                                                 informatisé des sites archéologiques des données à
+1.4.3 L’approche méthodologique et l’identifi-                   l’échelle de l’île de Montréal. Les 191 sites
+         cation du patrimoine archéologique au                   archéologiques recensés en date de 2004 ont été
+         Plan d’urbanisme                                        caractérisés individuellement. Les critères utilisés
+                                                                 pour cette évaluation sont :
+En lien avec la confection du Plan d’urbanisme, la
+Ville de Montréal a réalisé une étude des sites                  – l’état de conservation physique du site et de son
+archéologiques recensés en date de l’année 2003                    environnement immédiat, en considérant que
+et des secteurs d’intérêt archéologique. Cette étude               plusieurs sites archéologiques recensés ont été
+s’étend à la partie montréalaise de l’archipel de                  détruits lors de travaux d’excavation ou ont fait
+Montréal, qui comprend l’île de Montréal mais aussi                l’objet de fouilles archéologiques ;
+l’île des Sœurs, l’île aux Hérons, l’île aux Chèvres, l’île      – la qualité documentaire des couches et des vestiges
+Dorval et d’autres. Ce faisant, elle assure une vision             archéologiques, leur représentativité, leur unicité,
+d’ensemble du territoire et met en perspective les                 leur ancienneté et, dans certains cas, leur capacité
+espaces urbanisés où le patrimoine archéologique                   d’évocation.
+nécessite des mesures de protection. Pour comprendre
+                                                                 Deux catégories ont été distinguées : les sites archéo-
+la portée de la démarche, il est nécessaire de rappeler
+                                                                 logiques intègres qui doivent être protégés et les sites
+que seule une infime quantité des sites archéo-
+                                                                 archéologiques altérés qui ne nécessitent aucune mesure
+logiques sur l’île de Montréal sont connus.
+                                                                 de protection. Tous ont été cartographiés, y compris
+Dans un premier temps, l’étude s’est attachée à                  les sites archéologiques altérés car ils sont révélateurs
+localiser précisément et à évaluer les sites archéolo-           du potentiel archéologique d’un milieu donné.
+giques déjà recensés et inscrits à l’Inventaire des sites
+archéologiques du Québec, et dans un second temps,
+à qualifier, localiser et prioriser des secteurs d’intérêt
+archéologique.
+
+
+
+
+                        ARRONDISSEMENT                                                                                 17
+                                     de Pierrefonds-Senneville
+LES BIENS CULTURELS À STATUT                                archéologiques. La qualité de préservation du milieu
+                                                            physique, la densité des témoins archéologiques en
+La notion de bien culturel intègre, d’une part, les sites   sous-sol et(ou) hors sol et leur capacité de con-
+archéologiques et les biens archéologiques classés et,      tribuer à la connaissance constituent des facteurs
+d’autre part, les sites historiques classés et les monu-    qui rehaussent le niveau d’intérêt accordé à un
+ments historiques classés ou reconnus, l’arrondisse-        endroit particulier. Le secteur d’intérêt archéologique
+ment historique du Vieux-Montréal, l’arrondissement         « à fort potentiel » est un territoire où des mesures
+historique et naturel du mont Royal, l’arrondissement       de protection des sites éventuels sont nécessaires.
+naturel de Saraguay, les monuments cités et les sites
+du patrimoine. Tous ces biens ont fait l’objet d’un         Pour chacun des 27 arrondissements de l’île de
+examen à partir de la documentation disponible afin         Montréal, l’identification des secteurs qui présentent
+de déterminer leur intérêt archéologique et, en con-        un intérêt archéologique constitue une étape préalable
+séquence, la nécessité d’une protection du patrimoine       à la protection des éventuels témoins archéolo-
+archéologique sur ces propriétés. Seuls les grands          giques. Cet exercice, qui est d’ailleurs une première
+ensembles à statut sont cartographiés, les autres           sur le territoire montréalais, est basé sur l’examen et
+biens culturels étant présentés par arrondissement.         l’évaluation de multiples sources documentant les
+                                                            aspects environnementaux et culturels de ces terri-
+                                                            toires. Cette étape permet également d’identifier les
+LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                        milieux qui doivent dans l’avenir faire l’objet d’une
+ET LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                     étude de potentiel et d’un inventaire archéologique.
+À FORT POTENTIEL                                            Les secteurs ont été ciblés en fonction :
+Le secteur d’intérêt archéologique est un territoire        – du cadre biophysique et des qualités d’accueil de
+susceptible de renfermer des sites et des vestiges            populations d’un territoire, depuis plusieurs millé-
+des périodes préhistorique, de contact et historique          naires; ce cadre a été documenté à partir d’études
+eu égard à ses caractéristiques géomorphologiques,            géologiques et géomorphologiques ainsi que par
+biophysiques, archéologiques et historiques.                  l’examen de cartes topographiques et de photogra-
+Des études plus poussées doivent y être réalisées             phies aériennes anciennes afin de déterminer la
+afin d’évaluer précisément la qualité de préservation         proximité d’un axe de communication hydro-
+du milieu physique. La probabilité de découverte              graphique ou terrestre, l’élévation des terrasses, les
+de témoins archéologiques demeure à ce jour difficile         types de dépôts de surface, les concentrations de
+à estimer si l’on considère l’environnement et son            ressources alimentaires de même que l’approvi-
+degré de perturbation moderne. Il est donc nécessaire         sionnement en eau potable et autres éléments ;
+que les citoyens collaborent en communiquant toute          – du contexte historique et de l’urbanisme moderne
+découverte de vestiges dans les secteurs d’intérêt            pour déterminer leur capacité à fonder un lieu de
+archéologique.                                                nature archéologique et à le préserver; ces contextes
+                                                              ont été documentés à partir de monographies
+Le secteur d’intérêt archéologique à fort potentiel           historiques et par l’examen des cartes des XVIIe,
+est un territoire dont l’évaluation du contexte bio-          XVIIIe, XIXe et XXe siècles et des photographies
+physique ainsi que des caractéristiques géomor-               aériennes de 1947, 1948 et 1949, de même qu’à
+phologiques, archéologiques et historiques démontre           partir d’études sur les parcs-nature de l’île de
+une forte possibilité qu’il recèle des vestiges               Montréal, les propriétés institutionnelles, les biens
+
+
+
+
+18                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+  culturels à statut et les lieux historiques nationaux,         afin de bien saisir toute la portée de l’urbanisme
+  comme le canal de Lachine ;                                    moderne sur les ressources archéologiques de l’île de
+– du contexte archéologique documenté à partir de                Montréal.
+  l’Inventaire des sites archéologiques du Québec
+                                                                 Le résultat de cette réflexion qui comporte des limites,
+  ainsi que dans les publications, les rapports inédits
+                                                                 car il ne s’agit aucunement d’une étude de potentiel
+  et les relevés de découvertes. Des copies de ces
+                                                                 archéologique « fine » de l’île de Montréal, a été car-
+  études sont maintenant disponibles au Centre de
+                                                                 tographié et des textes ont été rédigés en lien avec
+  documentation de la Direction du développement
+                                                                 les catégories identifiées au Plan d’urbanisme : site
+  urbain de la Ville de Montréal ; le répertoire de ces
+                                                                 archéologique recensé intègre, site archéologique
+  ouvrages peut être consulté sur le site Web de la
+                                                                 recensé altéré, secteur d’intérêt archéologique à fort
+  Ville de Montréal – Patrimoine archéologique.
+                                                                 potentiel, secteur d’intérêt archéologique, grand
+L’analyse des caractéristiques des sites archéolo-               ensemble à statut.
+giques connus permet de dégager des constantes qui
+influencent le choix des emplacements en fonction des
+cultures et des périodes, et d’élaborer des modèles
+archéologiques prédictifs. C’est ainsi que l’on constate,
+                                                                 1.5 Nouvelles perspectives
+sites archéologiques à l’appui, que les groupes
+                                                                 En résumé, le travail de repérage du patrimoine urbain
+amérindiens de la période préhistorique et les premiers
+                                                                 réalisé dans le cadre du Plan d’urbanisme nous permet
+colons français choisissent approximativement les
+                                                                 d’atteindre plusieurs objectifs et d’ouvrir la réflexion sur
+mêmes lieux pour s’établir. Par la suite, la disposition
+                                                                 le patrimoine dans une perspective d’avenir. Il permet
+des occupations rurales européennes se démarque
+                                                                 entre autres :
+de celle des premiers noyaux villageois, au gré du
+développement des axes de transport terrestre. De                – d’élargir la notion de patrimoine par rapport à ce qu’on
+plus, des activités spécialisées, tel un moulin à farine           retrouvait dans le Plan d’urbanisme de Montréal de 1992
+ou à scie mu par l’eau, une tannerie artisanale ou,                et dans plusieurs des plans d’urbanisme des anciennes
+plus tardivement, un complexe industriel, supposent                villes qui se sont jointes à Montréal ;
+des caractéristiques d’implantation fort différentes.            – de contribuer à accroître l’intérêt de certains arron-
+Ces facteurs ont été pris en considération afin de                 dissements pour les problématiques de conservation
+tenter de localiser les territoires qui ont eu la faveur           du patrimoine et d’en sensibiliser d’autres à l’impor-
+des populations locales depuis le début de l’occupation            tance de cet enjeu ;
+de l’île de Montréal jusqu’à nos jours.                          – d’amorcer une exploration de nouvelles notions que
+                                                                   l’on rattache depuis peu à la question patrimoniale
+Les secteurs les plus susceptibles d’abriter des vestiges
+                                                                   dans les outils de gestion municipaux (patrimoine
+archéologiques ont ainsi été identifiés et ont fait l’objet
+                                                                   moderne, ensembles urbains, éléments de paysage,
+d’une inspection visuelle pour estimer leurs carac-
+                                                                   patrimoine archéologique, etc.) ;
+téristiques générales et observer, plus avant, le degré
+                                                                 – de contribuer à l’identification d’enjeux locaux et
+de conservation d’éventuels vestiges. Certaines modi-
+                                                                   métropolitains quant à la protection du patrimoine;
+fications modernes majeures, comme l’ajout de rem-
+                                                                 – de développer une vision globale et partagée en vue
+blais en rive, ont été réévaluées par suite de l’inspection
+                                                                   d’une planification et d’une action concertées en
+visuelle. Les résultats de l’ensemble de ces étapes
+                                                                   matière de patrimoine, en positionnant mieux le patri-
+d’évaluation ont été cartographiés sur une représen-
+                                                                   moine dans la dynamique du développement urbain.
+tation aérienne de l’île de Montréal, l’orthophoto 2002,
+
+
+
+                        ARRONDISSEMENT                                                                                    19
+                                     de Pierrefonds-Senneville
+2.                              HISTORIQUE
+
+
+L’arrondissement de Pierrefonds-Senneville est situé à
+l’extrême ouest de l’île de Montréal et donne sur
+                                                                  En 1895, le village de Senneville est créé au moment
+                                                                  où s’amorce le développement de la villégiature
+le lac des Deux-Montagnes et la rivière des Prairies.             sur ce territoire, qui devient un lieu privilégié par la
+L’histoire de ces deux secteurs est fort différente.              grande bourgeoisie montréalaise. Plusieurs des grands
+Celle de Senneville nous parle de traite des fourrures,           hommes d’affaires et hommes politiques influents
+d’agriculture et surtout de villégiature alors que celle          de l’époque s’y font construire sur de grands domaines
+de Pierrefonds touche d’abord et avant tout l’agri-               de somptueuses et parfois spectaculaires résidences
+culture jusqu’à son développement en banlieue, qui                d’été, accompagnées de dépendances de même
+commence après la Seconde Guerre mondiale.                        style. En symbiose avec la nature et le lac des Deux-
+                                                                  Montagnes, ces résidences secondaires ne sont parfois
+Senneville                                                        qu’une parmi d’autres pour certains de ces riches
+Au XVIIe siècle, deux bâtiments importants sont cons-             villégiateurs. Ces ensembles sont l’œuvre d’architectes
+truits sur le fief de Senneville, propriété de la famille         bien connus dans leur milieu social et qui travaillent
+LeBer. Celle-ci compte parmi les plus riches familles             pour eux. C’est le cas des frères Maxwell. À proximité
+de marchands de fourrures de la Nouvelle-France.                  de ces grands domaines, un petit village de maisons
+D’abord, un moulin fortifié est érigé entre 1670 et               plus modestes se forme. Là résident les employés
+1701 (retouché par Maxwell vers 1898), puis un                    rattachés à l’entretien ou à la gérance des riches
+poste de traite défensif, connu sous le nom de fort               demeures environnantes.
+Senneville, est construit entre 1702 et 1706. Ce fort
+sert à protéger le réseau de traite des LeBer des
+incursions iroquoises. Le goulot d’étranglement
+formé par la pointe ouest de l’île (là où se trouve le
+fort) et l’île aux Tourtes est la porte d’entrée de tous
+les canots chargés de fourrures qui se rendent à
+Montréal en provenance de la rivière des Outaouais.
+Du fort Senneville, brûlé par Benedict Arnold lors de
+l’invasion américaine en 1776, il ne restera que des
+ruines conservées jusqu’à aujourd’hui. Le moulin et le
+fort sont les plus anciennes constructions de l’ouest
+de l’île. Par ailleurs, le reste du territoire de l’actuelle
+Senneville sert exclusivement à l’agriculture jusqu’au
+milieu du XIXe siècle. Encore de nos jours, c’est l’un            Vue du chemin de Senneville, sans date, http://www.bnquebec.ca,
+des rares endroits sur l’île de Montréal où certains              Collection Cartes postales, CP 5316
+                                                                  La végétation abondante et les murets de pierre isolent les grandes
+secteurs sont toujours agricoles.                                 propriétés de Senneville du chemin public.
+
+
+
+
+                        ARRONDISSEMENT                                                                                            21
+                                      de Pierrefonds-Senneville
+Senneville possède encore aujourd’hui un caractère       Pierrefonds
+bucolique et pittoresque, bien que son territoire soit   Pierrefonds contraste avec Senneville autant par le
+traversé par l’autoroute Transcanadienne. Si la pre-     nombre de ses habitants que par son développement
+mière activité économique de Senneville a été le         typique de ville de banlieue de l’après-guerre.
+commerce des fourrures, aucun commerce n’est             Pierrefonds longe la rivière des Prairies sur plus de
+maintenant toléré dans ce secteur uniquement rési-       20 kilomètres et la vieille route, l’actuel boulevard
+dentiel ou agricole de l’arrondissement. Les grands      Gouin, suit la rive, où d’anciennes maisons de ferme
+domaines, des clubs de golf et une partie de             subsistent toujours. Des carrières y sont en exploitation
+l’Arboretum Morgan permettent à Senneville de            à partir de la fin du XIXe siècle; l’une d’entre elles
+conserver de grands espaces verts privés. De faible      a fourni la pierre pour la construction des écluses
+densité, une population de moins de mille habitants      de Carillon. Faisant partie à l’origine de la paroisse de
+occupe le territoire. Quoique Senneville compte          Sainte-Geneviève, le secteur Pierrefonds est agricole
+surtout de grands terrains ou même des terres, un        jusque dans les années 1960, alors que les terres sont
+développement de banlieue s’y construit au sud de la     vendues pour le développement domiciliaire. C’est à
+Transcanadienne après la Seconde Guerre mondiale.        ce moment-là que la nouvelle ville de Pierrefonds
+                                                         (1958) connaît une vague importante d’urbanisation,
+                                                         laquelle se poursuit jusque dans les années 1980. La
+                                                         population, d’à peine 1 500 personnes en 1951,
+                                                         s’élève à près de 55 000 en l’an 2000. Sur ce terri-
+                                                         toire bien desservi par les autoroutes, on trouve des
+                                                         maisons unifamiliales, des centres commerciaux à
+                                                         proximité, des églises de différentes dénominations
+                                                         religieuses, de nombreuses écoles, des parcs de
+                                                         quartier et des équipements sportifs qui comptent
+                                                         parmi les caractéristiques des banlieues de l’ouest de
+                                                         l’île. En 1985, la Communauté urbaine de Montréal
+                                                         inaugure le parc-nature du Cap Saint-Jacques – la
+                                                         population a désormais accès à cet immense espace
+                                                         vert où des voies cyclables, des pistes de ski de fond
+                                                         et des sentiers pédestres sont aménagés, ainsi qu’à
+                                                         des plages.
+
+
+
+
+22                                                       Évaluation du patrimoine urbain
+                                                         Ville de Montréal
+PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+1907, BNQ-M
+Cote : G 1144 M65G475 P5 1907 CAR
+Le territoire de l’ouest de l’île est encore agricole au début du XXe siècle,
+en particulier à Pierrefonds. D’autre part, le territoire de Senneville attire
+la riche bourgeoisie montréalaise.
+
+
+
+
+                                ARRONDISSEMENT                                   23
+                                                 de Pierrefonds-Senneville
+3.
+3.1 Mise en situation
+                               É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+
+                                                                 Entre les pôles est et ouest du secteur Pierrefonds, le
+                                                                 boulevard Gouin est particulièrement hétérogène
+                                                                 et son tissu urbain est très déstructuré : terrains
+Les deux anciennes municipalités formant l’actuel                vacants, stationnements, modes d’implantation
+arrondissement de Pierrefonds-Senneville présentent              divers, affichage et signalisation, discontinuité dans
+un patrimoine urbain fort différent.                             le bâti. Certains segments du boulevard recèlent
+                                                                 toutefois des éléments d’intérêt patrimonial et un
+Pierrefonds                                                      potentiel de mise en valeur important.
+Les éléments d’intérêt patrimonial de l’ancienne
+municipalité de Pierrefonds se retrouvent surtout                Le secteur Pierrefonds possède aussi un patrimoine
+le long du boulevard Gouin : à l’extrémité est de                urbain plus récent. Sans procéder à un inventaire
+l’arrondissement, de grandes propriétés institution-             systématique des ensembles urbains d’intérêt
+nelles en bordure de la rivière des Prairies; à l’ex-            témoignant des débuts de l’urbanisation massive
+trémité ouest, un secteur rural longeant le lac des              de la banlieue, trois secteurs domiciliaires ont été
+Deux-Montagnes et le Cap Saint-Jacques jouxtant                  retenus et seront décrits plus loin.
+l’ancienne municipalité de Senneville. Entre ces
+                                                                 Mentionnons finalement que le patrimoine moderne
+deux pôles, des maisons villageoises et urbaines
+                                                                 domestique, religieux et scolaire est bien représenté
+ponctuent le parcours du tracé fondateur qu’est le
+                                                                 dans le secteur Pierrefonds.
+boulevard Gouin.
+                                                                 Senneville
+L’observation du territoire révèle une densification
+                                                                 La quasi-totalité du territoire de cette ancienne
+des lots bordant la rivière des Prairies (la récente
+                                                                 municipalité qui se déploie le long du chemin de
+subdivision de la grande propriété du collège
+                                                                 Senneville et à proximité du lac des Deux-Montagnes
+Beaubois en est un exemple). Mise à part la bande
+                                                                 présente un intérêt patrimonial exceptionnel.
+riveraine accessible au public (boulevard Lalande), il
+n’y a presque plus de percées visuelles sur la rivière           Cinq grandes phases de développement de Senneville
+dans la portion est du territoire, contrairement au              sont toujours perceptibles sur le territoire : le
+pôle ouest. Toutefois, ce dernier subit actuellement             développement seigneurial avec la subdivision des
+une grande pression du secteur immobilier, qui sus-              terres et les vestiges du fort et du moulin de
+cite l’implantation de projets de développements                 Senneville (datant de 1692 et 1700) et l’architecture
+résidentiels unifamiliaux à haute densité. Cette                 vernaculaire respectant le lotissement du régime
+urbanisation rapide risque de s’amplifier avec le                seigneurial (1820-1880); le développement rural
+projet de construction de la future autoroute 440.               avec les terres agricoles et l’architecture vernaculaire
+L’on constate déjà, le long de la rivière, une très              (1880-1935); le développement de villégiature,
+forte densification des lots qui, outre le fait que les          incluant les grandes propriétés édifiées par la haute
+constructions ne respectent en rien le gabarit et les            bourgeoisie montréalaise (1895-1925) le long du
+modes d’implantation caractéristiques de ce secteur              chemin de Senneville et les habitations plus modestes
+d’intérêt patrimonial exceptionnel formé en grande               de l’ancien village de Senneville (village Crevier);
+partie de maisons traditionnelles des XIXe et XXe siècles,       le développement urbain de l’après-guerre (1945-
+éradique les éléments de paysage (boisés, terres                 1955); la période moderne (1960-1995).
+agricoles) qui confèrent encore aujourd’hui à ce
+secteur son caractère rural, fait extrêmement rare
+sur l’Île.
+
+
+
+                       ARRONDISSEMENT                                                                                 25
+                                     de Pierrefonds-Senneville
+Ville de Montréal
+Évaluation du patrimoine urbain
+                                  André Jobin, Carte de L’île de Montréal, 1834, BNQ
+L’accession récente d’une large partie du secteur              La conservation et la mise en valeur du patrimoine
+Senneville (en amont de l’autoroute Transcanadi-               de l’arrondissement semblent relever de considéra-
+enne) au statut de Lieu historique d’importance                tions applicables à la fois en milieu urbain et en
+nationale conféré par le gouvernement fédéral                  milieu rural. Au-delà des considérations usuelles en
+témoigne de son caractère unique sur l’Île de                  regard du patrimoine bâti, le maintien de la vocation
+Montréal et, plus largement, au pays. Le caractère             des terres agricoles, la culture des vergers et la
+exceptionnel de ce secteur qui sera plus ample-                préservation des boisés et des rives qui caractérisent
+ment décrit plus loin réside dans l’intégration du             les secteurs exceptionnels de l’arrondissement ren-
+bâti et des paysages variés sur un large territoire.           voient à plusieurs des enjeux du Plan d’urbanisme
+« L’environnement patrimonial » de ce secteur est un           et nécessitent une harmonisation.
+écosystème fragile. Son intégrité et sa cohérence
+remarquables sont tributaires d’une approche de
+conservation soigneuse des détails des bâtiments,
+des aménagements et des éléments de paysage.
+                                                               3.2 Résultat de l’analyse
+Si le patrimoine de Senneville est généralement en             3.2.1 Les tracés fondateurs d’intérêt
+excellent état de conservation, il est toutefois sujet                 patrimonial
+à quelques menaces. Les actuels propriétaires des
+                                                               Dans le secteur de l’ancienne municipalité de
+grandes demeures bourgeoises ne disposent pas
+                                                               Pierrefonds, le boulevard Gouin (comme une partie
+nécessairement des moyens financiers pour en assurer
+                                                               du boulevard Lalande) est un tracé fondateur à l’in-
+l’entretien; on envisage dans certains cas de subdi-
+                                                               térêt patrimonial variable. Ce tracé fondateur parcourt
+viser les lots (surtout en rive), ce qui entraînerait
+                                                               l’arrondissement d’est en ouest à partir d’Ahuntsic-
+une densification de ce secteur très convoité; les
+                                                               Cartierville, longe le Bois-de-Liesse et les grandes
+bâtiments principaux subissent parfois d’importantes
+                                                               propriétés institutionnelles, se prolonge sur le boule-
+modifications; les bâtiments secondaires disparaissent;
+                                                               vard Lalande et son développement résidentiel des
+certains aménagements paysagers d’époque sont
+                                                               années 1950-1960 ainsi que la berge de la rivière des
+aussi grandement modifiés.
+                                                               Prairies pour enfin rejoindre le boulevard Gouin Ouest.
+Par ailleurs, l’extrémité est du chemin de Senneville          Passé l’Anse-à-l’Orme, le boulevard Gouin devient
+présente les mêmes caractéristiques et est soumise             le chemin de Senneville et suit la rive du lac des
+aux mêmes pressions que le boulevard Gouin à                   Deux-Montagnes tout en structurant le lotissement
+l’extrémité ouest de Pierrefonds. De plus, Senneville          des terres.
+comprend un ensemble urbain domiciliaire d’intérêt
+                                                               L’intérêt du tracé fondateur tient principalement
+(secteur des vétérans). Le patrimoine architectural de
+                                                               à son importance historique, à son caractère pit-
+Senneville est presque exclusivement résidentiel.
+                                                               toresque et à la concentration de bâtiments d’intérêt
+L’ancienne municipalité ne comprend que très peu
+                                                               patrimonial le long de son parcours. L’intérêt excep-
+de bâtiments civiques et institutionnels. On y retrouve
+                                                               tionnel du tracé se confirme aux extrémités est et
+aussi un petit secteur industriel récent (Domtar et
+                                                               ouest de l’arrondissement. Entre ces deux pôles, les
+Bio-Research) en partie désaffecté dont l’intérêt
+                                                               caractéristiques patrimoniales du cadre urbain ont
+réside davantage dans sa localisation à proximité
+                                                               presque entièrement disparu : le bâti d’intérêt patri-
+de l’Arboretum Morgan et dans les attributs naturels
+                                                               monial surgit ponctuellement parmi des station-
+du site que dans son architecture.
+
+
+
+
+                      ARRONDISSEMENT                                                                               27
+                                   de Pierrefonds-Senneville
+nements, des terrains vacants, des garages, des centres
+commerciaux et autres bâtiments récents. Le même
+constat s’impose en regard des éléments de paysage.
+
+Dans l’ancienne municipalité de Senneville, le chemin
+du même nom est relié aux anciens chemins de
+ceinture de l’île. Il structure le développement du ter-
+ritoire de l’Anse-à-l’Orme à Sainte-Anne-de-Bellevue.
+Avec son parcours sinueux, ses montées et ses
+descentes, suivant la topographie des berges du lac des
+Deux-Montagnes et révélant une suite de paysages
+exceptionnels et une architecture de premier ordre,
+ce chemin est l’un des plus pittoresques de Montréal.
+
+
+
+3.2.2 Le cadre bâti d’intérêt patrimonial
+
+
+           A. Les secteurs de valeur
+               patrimoniale exceptionnelle
+                                                             2.E.1 Villa Saint-Martin, au 9551-59, boulevard Gouin Ouest
+
+2.E.1 INSTITUTIONNEL EN RIVE
+
+Ce secteur débute à la limite est de l’arrondissement
+et se situe entre le boulevard Gouin et la rivière des
+Prairies. Il regroupe plusieurs grandes propriétés insti-
+tutionnelles : la Villa Saint-Martin, le Collège Beaubois,
+le Centre Virginie-Pelletier et leurs bâtiments sec-
+ondaires, ainsi que quelques résidences vernaculaires
+de la fin du XIXe siècle, début du XXe siècle, et des
+bâtiments plus récents plus ou moins bien intégrés à
+l’ensemble. Ce secteur est relativement homogène et
+recèle un bâti de grand intérêt au cœur d’une végé-
+tation exceptionnelle en bordure de la rivière.
+                                                             2.E.1 Villa Saint-Martin, au 9551-59, boulevard Gouin Ouest
+Toutefois, on assiste actuellement à un morcellement
+des lots des grandes propriétés et à la densification
+rapide du territoire.
+
+
+
+
+28                                                           Évaluation du patrimoine urbain
+                                                             Ville de Montréal
+2.E.2. BOIS-DE-LIESSE
+
+Ce secteur, à l’entrée du parc du Bois-de-Liesse, près
+de l’accueil Pittfield, comprend deux anciennes
+maisons villageoises en excellent état de conservation
+au cœur d’un environnement naturel. Elles forment,
+dans leur contexte d’origine, une unité de paysage
+exceptionnelle.
+
+
+
+
+                                                                   2.E.3 La maison Jacques-Poudrier dit Lavigne, au 20752, boulevard
+                                                                   Gouin Ouest
+
+
+
+
+2.E.2 Le 9436, boulevard Gouin Ouest
+
+
+
+2.E.3 GOUIN OUEST
+
+La portion ouest de l’ancienne municipalité de
+Pierrefonds, de l’avenue du Château-Pierrefonds au
+chemin de Senneville, regroupe plusieurs maisons                   2.E.3 La maison Toussaint-Legault dit Deslauriers, au 18395, boule-
+                                                                   vard Gouin Ouest
+vernaculaires du début du XIXe siècle ainsi que des
+maisons villageoises du début du XXe siècle qui sont
+encore aujourd’hui dans un environnement semblable
+à leur contexte d’origine (boisés et terres agricoles).
+Ce secteur subit toutefois actuellement de grandes
+pressions immobilières et on y retrouve quelques
+insertions de développements domiciliaires contem-
+porains très denses qui ne respectent en rien les
+gabarits et les modes d’implantation existants. Cela
+entraîne également la perte d’éléments de paysage
+importants et a un impact considérable sur les vues
+sur le lac et ses berges.
+
+                                                                   2.E.3 La maison Augustin-Brisebois, au 18639, boulevard Gouin Ouest
+
+
+
+
+                          ARRONDISSEMENT                                                                                            29
+                                       de Pierrefonds-Senneville
+2.E.4 GRANDES PROPRIÉTÉS DE SENNEVILLE                     boisés, étangs, vergers, murets de pierre, portails,
+                                                           maison de gardien – en retrait ou visibles du chemin
+De l’autoroute Transcanadienne à la limite de l’ancienne   de Senneville. Les ruines du fort Senneville (1692) et
+municipalité de Senneville, entre le lac des Deux-         l’ancien moulin rénové par Edward Maxwell vers 1898
+Montagnes et l’Arboretum Morgan, on trouve une             se trouvent dans ce territoire
+grande concentration de résidences du début du
+XIXe siècle qui, avec la végétation, les éléments de       Bien que la plupart des édifices les plus imposants ont
+paysage et le tracé du chemin de Senneville en font        été construits en fonction d’une utilisation saison-
+un secteur pittoresque de qualité exceptionnelle non       nière, le secteur comprend aussi des résidences de
+seulement à Montréal, mais au Canada.                      l’après-guerre et des demeures contemporaines qui
+                                                           lui donnent un caractère suburbain mais qui pour-
+Ce secteur, qui a conservé son lotissement original,       suivent la tradition d’intégration du bâti au paysage.
+présente une grande concentration de maisons rési-
+dentielles de la haute société montréalaise de la fin      Le caractère du lieu est en grande partie attribuable
+du XIXe siècle et du début du XXe siècle ayant             à l’exceptionnelle intégration des bâtiments aux
+appartenu à plusieurs personnages influents dans           paysages très diversifiés, complexes et raffinés sur un
+l’histoire de Montréal. Les Forget, Angus, Morgan et       vaste territoire, œuvre d’émulation entre des person-
+Abbot, pour ne mentionner que ceux-là, ont confié          nages ayant joué un rôle de premier plan dans l’his-
+la conception de leurs résidences à des architectes et     toire de Montréal et des concepteurs ayant apporté
+des architectes paysagistes de prestige (Maxwell,          une contribution majeure au développement de
+Findlay, Hyde, Nobbs, Olmsted, Todd, Rose). Le bâti y      l’architecture au Canada.
+est pour la plupart implanté du côté du lac et éloigné
+du chemin. Souvent de style Arts and Crafts ou Shingle
+Style, les résidences agencent des volumes nets et des
+toitures importantes de façon plus ou moins complexe
+avec leurs revêtements de pierre taillée ou de moellons,
+brique, bois, stuc et toitures en bardeaux de cèdre
+qui témoignent « … [of a] sophisticated nostalgia for
+a rustic way of life and for the rural craft industry »
+(Friedman, 2000).
+
+Les grandes propriétés comportent généralement des
+bâtiments ancillaires (résidence du personnel, chapelle,
+bâtiments de ferme, pool house, écurie, garage, mai-       2.E.4 La maison Louis-Joseph-Forget, dite Le Bois-de-la-Roche
+son de thé, chambre froide, tour d’observation, etc.),     Crédits photographiques : Communauté urbaine de Montréal
+
+généralement du même style, implantés dans des amé-
+nagements raffinés – sentiers sinueux, grands jardins,
+
+
+
+
+30                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+2.E.4 Un pavillon servant d’observatoire                               2.E.4 Une vue sur le lac des Deux-Montagnes
+
+
+
+
+2.E.4 Le moulin de Senneville                                          2.E.4 La maison John-Launcelot-Todd
+
+
+
+
+                                                                       2.E.4 Le domaine Boisbriand
+
+
+
+
+                            ARRONDISSEMENT                                                                           31
+                                           de Pierrefonds-Senneville
+                                                            2.E.6 VILLAGE CREVIER
+
+                                                            Ce secteur se distingue par son architecture villa-
+                                                            geoise datant de la deuxième moitié du XIXe siècle.
+                                                            On y retrouve des bâtiments modestes sur deux
+                                                            étages, avec toit plat ou à deux versants couvrant un
+                                                            simple carré revêtu de bardeau, de clin de bois ou de
+                                                            brique, rappelant ceux du secteur Phillips. Les bâti-
+                                                            ments ont une implantation variable avec peu de
+                                                            recul de la ligne de rue et présentent une grande
+                                                            diversité dans la disposition des volumes. Il y règne
+                                                            aussi une atmosphère de village.
+2.E.5 L’avenue Phillips
+
+
+
+2.E.5. PHILLIPS
+                                                            2.E.7 HABITATIONS RÉCENTES
+Ce petit secteur regroupe les maisons de l’avenue
+                                                            Ce secteur est situé de part et d’autre du chemin
+Phillips et celles à l’intersection du chemin de
+                                                            de Senneville, entre les ensembles urbains d’intérêt
+Senneville. Quelques bâtiments datent de la première
+                                                            (développement domiciliaire de l’après-guerre et
+moitié du XXe siècle et auraient été destinés au per-
+                                                            Senneville Lodge) et le lac des Deux-Montagnes.
+sonnel œuvrant au service des propriétaires des
+                                                            Le secteur constitue une unité de paysage
+grands domaines du village. Plusieurs maisons ont
+                                                            homogène. Il regroupe très majoritairement des
+été construites après 1950 et quelques-unes avant
+                                                            constructions récentes bien intégrées à leur envi-
+1900. Elles s’érigent sur de petits lots bien paysagés
+                                                            ronnement et dont l’implantation s’ajuste au tracé
+avec peu de recul de la rue. Les bâtiments modestes
+                                                            du chemin de Senneville, sur un lotissement hérité
+ont généralement deux étages, avec un toit plat ou à
+                                                            du régime seigneurial.
+deux versants couvrant un simple carré recouvert de
+brique, de bardeau ou de clin de bois ou de vinyle.
+Plusieurs affichent des éléments décoratifs (bardeau,
+colonnes, porches, consoles, etc.) et sont peints de
+couleurs vives (bleu, jaune, mauve, vert, fuchsia, etc.).
+Il y règne une atmosphère de village.
+
+
+
+
+32                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+           B. Les ensembles urbains d’intérêt
+
+
+2.U.1 CLOVERDALE
+
+Jouxtant le Bois-de-Liesse, Cloverdale est un vaste
+ensemble planifié de logements sociaux construits
+conjointement par une coopérative d’habitation et la
+Société canadienne d’hypothèques et de logement à
+la fin des années 1960. L’intérêt du secteur ne réside
+pas dans l’architecture de ses bâtiments, dont l’état
+est par ailleurs variable, mais plutôt dans le fait d’être       2.U.2 La rue du Belvédère
+l’unique exemple de construction de logement social
+de l’époque moderne dans l’arrondissement : com-
+position urbaine de grande envergure caractérisée
+par la relation qu’entretiennent les bâtiments entre
+eux, aménagements paysagers, planification des sta-
+tionnements et des espaces et services communs.
+
+
+
+2.U.2 BELVÉDÈRE
+
+Cet ensemble est situé dans le secteur Pierrefonds,
+à proximité du parc Belvédère, au bord de la rivière
+des Prairies. On y accède par Le Boulevard et la rue du
+Belvédère. Cette forme urbaine distincte, au dessin              2.U.2 Vue depuis le parc Belvédère
+
+complexe, avec ses parcours linéaires et ses rond-
+points, regroupe des habitations unifamiliales des
+années 1950-1960. On y trouve une grande variété
+de bungalows d’intérêt architectural (des petites
+séries et des exemplaires uniques) en excellente con-
+dition. La végétation mature, les grandes marges de
+recul avant bien paysagées des propriétés et l’absence
+de trottoirs contribuent à la grande homogénéité du
+secteur.
+
+
+
+
+                        ARRONDISSEMENT                                                                33
+                                     de Pierrefonds-Senneville
+2.U.3 SENNEVILLE LODGE
+
+À proximité du golf et de l’hôpital des vétérans de
+Sainte-Anne-de-Bellevue, construit en 1945, ce secteur
+voué à la convalescence des militaires regroupe
+plusieurs bâtiments de piètre qualité, aujourd’hui
+abandonnés et en mauvais état de conservation. Cet
+ensemble présente toutefois un intérêt en regard de
+sa planification et de son fonctionnement ainsi qu’un
+intérêt socio-historique.
+
+
+                                                               2.U.4 Le 32, avenue Pacific
+2.U.4 DÉVELOPPEMENT DOMICILIAIRE
+  DE L’APRÈS-GUERRE
+
+Ce grand secteur regroupe près de deux cents rési-
+dences et s’est développé à partir de la première moitié
+du XXe siècle. Sa grille de rues orthogonale contraste
+fortement avec le développement organique du terri-
+toire de Senneville. Il est d’une très grande homogé-
+néité en ce qui a trait à la remarquable intégration
+d’une architecture de qualité aux aménagements
+paysagers, à la largeur des rues sans trottoir et avec
+fossés, et à la végétation mature. Les maisons, bien
+proportionnées sur leurs lots, accusent un large recul
+de la ligne de rue. Les propriétés, dont les limites sont      2.U.4 Le 23, avenue Tunstall
+la plupart du temps soulignées par des murets, clôtures
+et végétaux, possèdent un aménagement paysager très
+soigné incorporant harmonieusement les garages,
+patios et autres constructions utilitaires. L’intérêt archi-
+tectural des maisons est variable, mais reprend très
+souvent des éléments de composition des grandes
+propriétés et de l’architecture rurale de l’ancienne
+municipalité de Senneville : murs de pierre, formes des
+toits, bâtiments ancillaires et aménagements paysagers.
+Une grande harmonie et un fort sentiment d’appar-
+tenance à la communauté se dégagent de l’ensemble.
+
+
+
+
+34                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+          C. Les immeubles de valeur                            163, chemin de Senneville
+              patrimoniale exceptionnelle                       Maison John-Bethune-Abbott-Hillcote
+
+Tous les immeubles de valeur patrimoniale exception-            168, chemin de Senneville
+nelle, qu’ils fassent ou non partie d’un secteur de             Site du fort Senneville (Fort et moulin le Ber),
+valeur patrimoniale défini dans le présent document,            site archéologique classé et site historique classé
+sont inclus dans la liste qui suit :
+                                                                170, chemin de Senneville
+                                                                Maison John C-Abbott
+
+LES ÉDIFICES DE CULTE                                           178, chemin de Senneville
+                                                                Propriété Abbot et bâtiments ancillaires
+9501, boulevard Gouin Ouest
+Église Sainte-Suzanne                                           180, chemin de Senneville
+                                                                Maison John-Launcelot-Todd
+11075, boulevard Gouin Ouest
+Église Marie-Reine-de-la-Paix                                   202, chemin de Senneville
+                                                                Maison Charles-Meredith-Elspeth-Angus,
+4320, rue Sainte-Anne                                           Bally Bawn
+Église Saint-Thomas-à-Becket
+                                                                214, chemin de Senneville
+15556, rue Cabot
+Église St. Michael and all Angels                               216-219, chemin de Senneville
+                                                                Dépendances de la maison R.-B.-Angus,
+LES COUVENTS                                                    Pine Bluff
+9451, boulevard Gouin Ouest                                     238, chemin de Senneville
+Villa Saint-Martin                                              Maison Edith-Angus-Wanklyh
+LES ÉDIFICES SCOLAIRES                                          240, chemin de Senneville
+                                                                Maison Harry-Abbot
+9509, boulevard Gouin Ouest
+Collège Beaubois                                                246, chemin de Senneville
+LES HABITATIONS                                                 249, chemin de Senneville
+                                                                Tour d’eau James-Morgan
+26, chemin de Senneville
+Château rose                                                    252, chemin de Senneville
+28, chemin de Senneville                                        264, chemin de Senneville
+                                                                Maison Frederick-Cleveland-Morgan
+31, chemin de Senneville
+Maison William-George-MacVicar-Stuart                           267, chemin de Senneville
+108, chemin de Senneville                                       290, chemin de Senneville
+Maison Crevier                                                  Maison Louis-Joseph-Forget
+                                                                ou Bois-de-la-Roche
+140, chemin de Senneville
+Maison Dow
+
+
+                      ARRONDISSEMENT                                                                                  35
+                                    de Pierrefonds-Senneville
+292, chemin de Senneville                             D. Les immeubles de valeur
+                                                          patrimoniale intéressante
+294, chemin de Senneville
+Maison Eustache-Rouleau                    Seuls les immeubles de valeur patrimoniale intéressante
+                                           situés à l’extérieur des secteurs de valeur patrimoniale
+296, chemin de Senneville
+                                           définis dans le présent document sont inclus dans la
+Maison Lalonde
+                                           liste qui suit :
+297, chemin de Senneville
+
+330, chemin de Senneville
+                                           LES ÉDIFICES DE CULTE
+Maison Guy-Boyer ou Blanche-Forget
+                                           16, avenue Pacific
+9432, boulevard Gouin Ouest
+                                           Église Corpus Christi
+9434, boulevard Gouin Ouest
+                                           12301, rue Colin
+9436, boulevard Gouin Ouest                Église Saint -Barnabas
+
+12679, boulevard Gouin Ouest               12450, rue Gascon
+Maison Charles-Richer dit Louveteau        Église Saint –David
+
+13850, boulevard Gouin Ouest               13140, rue Monk
+Maison Edgar-C.- Budge                     Église Westminster Presbyterian
+
+14784, boulevard Gouin Ouest               LES ÉDIFICES SCOLAIRES
+Maison Joseph-Théorêt
+                                           4770, rue Pierre-Lauzon
+18395, boulevard Gouin Ouest               École Harfang-des-Neiges, pavillon Lauzon
+Maison Toussaint-Legault dit Deslauriers
+                                           5005, rue Valois
+18639, boulevard Gouin Ouest               École Murielle-Dumont
+Maison Augustin-Brisebois
+                                           4770, boulevard Lalande
+19530, boulevard Gouin Ouest               École Perce-neige
+Le Petit fort
+                                           5060, boulevard des Sources
+20752, boulevard Gouin Ouest               Riverdale High School
+Maison Jacques-Poudrier dit Lavigne
+                                           14385, boulevard de Pierrefonds
+11131, boulevard Meighen                   École Saint-Gérard
+
+5010, boulevard Lalande                    4348, rue Thorndale
+Maison Michel-Legault                      École Thorndale
+
+3872, boulevard Saint-Charles              13350, rue Purcell
+Maison Rabeau                              École Hébert-Purcell
+
+
+
+
+36                                         Évaluation du patrimoine urbain
+                                           Ville de Montréal
+LES HABITATIONS                                            20392, boulevard Gouin Ouest
+
+2, avenue Elmwood                                          20452, boulevard Gouin Ouest
+
+15, avenue Elmwood                                         20610, boulevard Gouin Ouest
+
+8, avenue Laberge                                          4861, boulevard Lalande
+
+32, avenue Pacific                                         4980, boulevard Lalande
+
+250, rue Sainte-Anne                                       4971, rue Bastien
+
+254, rue Sainte-Anne
+
+258-262, rue Sainte-Anne                                              E. Les éléments particuliers
+                                                                          du paysage
+9460, boulevard Gouin Ouest
+                                                           Les éléments particuliers de paysage font partie inté-
+11769, boulevard Gouin Ouest                               grante des caractéristiques des secteurs et des tracés
+11770, boulevard Gouin Ouest                               fondateurs d’intérêt patrimonial précédemment décrits.
+                                                           Ce sont des témoins marquants des grandes époques
+11893, boulevard Gouin Ouest                               de développement de l’arrondissement (époque
+                                                           seigneuriale à vocation rurale et agricole, de villégia-
+11897, boulevard Gouin Ouest
+                                                           ture, villageoise, urbaine).
+12150, boulevard Gouin Ouest
+                                                           Soulignons aussi l’importance du golf du secteur de
+12449, boulevard Gouin Ouest                               Senneville : 43,4 acres de terre encadrés par une
+                                                           végétation mature. Bien qu’il ne soit pas localisé dans
+12661, boulevard Gouin Ouest                               les limites géographiques de l’arrondissement,
+                                                           l’Arboretum Morgan est un élément de paysage
+12662, boulevard Gouin Ouest
+                                                           extrêmement important pour l’ancien village de
+12773, boulevard Gouin Ouest                               Senneville. Ce boisé exceptionnel qui isole Senneville
+                                                           du West Island et jouxte les terres agricoles du collège
+12910, boulevard Gouin Ouest                               MacDonald est un sanctuaire d’oiseaux migrateurs
+                                                           désigné par Environnement Canada. L’arboretum est
+12940, boulevard Gouin Ouest
+                                                           en lien avec l’historique de l’arrondissement : gra-
+13418, boulevard Gouin Ouest                               duellement acquis et aménagé par la famille Morgan,
+                                                           il est confié à l’Université McGill en 1945 en vertu
+13533, boulevard Gouin Ouest                               d’une entente particulière. La préservation de l’ar-
+14399, boulevard Gouin Ouest                               boretum constitue un enjeu inter-arrondissements.
+
+18191-18195, boulevard Gouin Ouest
+
+18198, boulevard Gouin Ouest
+
+19803, boulevard Gouin Ouest
+
+
+
+
+                     ARRONDISSEMENT                                                                             37
+                               de Pierrefonds-Senneville
+                                                                   2.E.4
+                                                                   2.E.4
+                                                                   2.E.4
+                                                                   2.E.4
+                                                                   2.E.4
+                                                                   2.E.4
+
+
+
+
+                                                                                                                                                        boulevard Jacques-Bizard
+                                                                           boulevard G                                                                                                                             D
+                                                                                                                                                                                                                                                                               2.U.2
+                                                                                                                                                                                                                                                                               2.U.2
+                                                                                                                                                                                                                                                                               2.U.2
+                                                                                                                                                                                                                                                                               2.U.2
+                                                                                                                                                                                                                                                                               2.U.2
+                                                                                                                                                                                                                                                                               2.U.2
+                                                                                      ouin Ouest
+                                                                                                                                                                                                          boulevard e Pierrefon
+                                                                                                                                                                                                                                  ds
+                      ville
+
+
+
+
+                                                                                                                                                                                                                                       boulevard Des Sources
+                                                           2.E.5
+                                                           2.E.5
+                                                           2.E.5
+                                                           2.E.5
+                                                           2.E.5
+                                                           2.E.5
+                      e
+                   enn
+
+
+
+
+                      2.E.4
+                      2.E.4
+                      2.E.4
+                      2.E.4
+                      2.E.4
+                  S
+
+
+
+
+                                                                                         2.E.3
+                                                                                         2.E.3
+                                                                                         2.E.3
+                                                                                         2.E.3
+                                                                                         2.E.3
+                                                                                         2.E.3
+              min
+
+
+
+
+                                                                                                                                                                                   boulevard Saint-Jean
+             che
+
+
+
+
+                                                                                                                                                                                                                                                                             bo
+                                                                                                   boulevard De Pierrefonds
+
+
+
+
+                                                                                                                                                                                                                                                                               ule
+                                                                                                                                                                                                                                                                                                2.E.1
+                                                                                                                                                                                                                                                                                                2.E.1
+                                                                                                                                                                                                                                                                                                2.E.1
+                                                                                                                                                                                                                                                                                                2.E.1
+                                                                                                                                                                                                                                                                                                2.E.1
+                                                                                                                                                                                                                                                                                                2.E.1
+
+
+
+
+                                                                                                                                                                                                                                                                                  va
+                                                                                                                                                                                                                                                                                    rd
+                                                                                                                                                                                                                                                                                       Go
+                                                                                                                                                                                                                                                                                          uin
+    2.E.6
+    2.E.6
+    2.E.6               2.U.3
+                        2.U.3
+                        2.U.3
+                        2.U.3
+                        2.U.3
+                        2.U.3                                                                                                                                                                                                                                                                                     2.E.1
+                                                                                                                                                                                                                                                                                                                  2.E.1
+                                                                                                                                                                                                                                                                                                                  2.E.1
+                                                                                                                                                                                                                                                                                                                  2.E.1
+                                                                                                                                                                                                                                                                                                                  2.E.1
+                                                                                                                                                                                                                                                                                                                  2.E.1
+    2.E.6
+    2.E.6
+    2.E.6
+
+
+
+
+                                                                                                                                                                                                                                                                                           Ou
+                                                                                                                                                                                                                                                                                             es
+                                au
+                                     to
+
+
+
+
+                                                                                                                                                                                                                                                                                               t
+                                        r
+
+
+
+
+                                                                                                                                                                                                                                                                                                                     autoroute 13
+                                            ou
+
+
+
+
+                                                                                                                              boulevard Saint-Charles
+                                                 te                                                                                                                                                                                                                                                       2.E.2
+                                                                                                                                                                                                                                                                                                          2.E.2
+                                                                                                                                                                                                                                                                                                          2.E.2
+     2.E.7
+     2.E.7
+     2.E.7
+     2.E.7
+     2.E.7
+     2.E.7                                            40                                                                                                                                                                                                                                                  2.E.2
+                                                                                                                                                                                                                                                                                                          2.E.2
+                                                                                                                                                                                                                                                                                                          2.E.2
+                   2.U.4
+                   2.U.4
+                   2.U.4
+                   2.U.4
+                   2.U.4
+                   2.U.4
+                                                                                                                                                                                                                                                                                       2.U.1
+                                                                                                                                                                                                                                                                                       2.U.1
+                                                                                                                                                                                                                                                                                       2.U.1
+                                                                                                                                                                                                                                                                                       2.U.1
+                                                                                                                                                                                                                                                                                       2.U.1
+                                                                                                                                                                                                                                                                                       2.U.1
+
+
+
+
+                                                                                                                                                                                                                                       Évaluation du patrimoine urbain
+                                                                                                                                                                                                                                        Arrondissement de Pierrefonds-Senneville
+
+                                                                                                                                                                                                                                                                Arrondissement historique ou naturel
+                                                                                                                                                                                                                                                                Secteur de valeur patrimoniale exceptionnelle
+                                                                                                                                                                                                                                                                Secteur de valeur patrimoniale intéressante
+                                                                                                                                                                                                                                                                Ensemble urbain d'intérêt
+                                                                                                                                                                                                                                                                Ensemble industriel d'intérêt
+                                                                                                                                                                                                                                                                Tracé fondateur d'intérêt patrimonial
+                                                                                                                                                                                                                                                        2.E.1
+                                                                                                                                                                                                                                                                Code du secteur
+                                                                                                                                                                                                                                                                (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                                                                                Limite d'arrondissement
+
+
+                                                                                                                                                                                                                                        Division du patrimoine et
+0      500   1000 m                                                                                                                                                                                                                     de la toponymie
+                                                                                                                                                                                                                                                                7.U.5
+                                                                                                                                                                                                                                                                7.U.5
+                                                                                                                                                                                                                                                                7.U.5
+                                                                                                                                                                                                                                                                7.U.5
+                                                                                                                                                                                                                                                                7.U.5
+                                                                                                                                                                                                                                                                7.U.5
+10 décembre 2004
+3.2.3 Le patrimoine archéologique                               peu d’incidence sur la localisation du cadre bâti
+                                                                ancien, car elles longent l’axe longitudinal des terres;
+Le territoire de l’arrondissement de Pierrefonds-               la bordure de la côte Saint-Charles est quant à elle
+Senneville, où se trouvent des terrasses de 15, 30              utilisée pour l’implantation de résidences et de
+et 50 mètres d’élévation, a pu être habité par les              dépendances rurales.
+groupes amérindiens de la période préhistorique, soit
+depuis environ 4 000 ans avant aujourd’hui – d’abord
+par les groupes nomades de la période archaïque, qui
+utilisent les terrasses et les berges pour établir des
+campements de chasse et de pêche, puis par des
+groupes semi-sédentaires de la période sylvicole, de
+3 000 ans avant aujourd’hui à 1534, des pêcheurs-
+chasseurs-cueilleurs-horticulteurs vivant dans la vallée
+du Saint-Laurent. Ce sont ces groupes que Jacques
+Cartier rencontre lors de son second voyage au
+Canada, en 1535. Cartier note d’ailleurs dans ses
+écrits la présence de campements amérindiens sur le
+pourtour de l’île de Montréal. L’importance de ce lieu
+pour les Amérindiens réside dans sa localisation à la
+confluence de plusieurs cours d’eau qui constituent
+les routes traditionnelles de transport.
+
+Le facteur des transports et son corollaire, le com-
+merce, n’échappent pas aux Français et aux Amérin-              Les collections archéologiques ont une valeur patrimoniale indéniable
+                                                                et représentent une richesse collective qui mérite toute notre attention.
+diens au cours des XVIIe et XVIIIe siècles; ils voient          Ces objets illustrent avec éloquence notre histoire matérielle et jouissent
+dans ces routes traditionnelles une façon de se sous-           d’un pouvoir fortement évocateur qui rappelle les modes de vie de nos
+                                                                prédécesseurs. Jarre en terre cuite grossière d’Angleterre, 1760-1840;
+traire au contrôle des autorités françaises sur la traite       objet amérindien, pointe de projectile, 2 500 ans avant Jésus-Christ;
+des fourrures. À la même période, les sulpiciens,               cannelle de tonneau en laiton, XVIIIe siècle. Photographies : P. Fauteux.
+seigneurs de Montréal depuis 1663, encouragent
+l’essaimage de noyaux de colonisation sur le pourtour
+de l’île : Lachine, Dorval, Baie d’Urfé, Pointe-Claire et
+Sainte-Anne-de-Bellevue sont des exemples concrets
+de leur politique d’expansion territoriale. La création
+de ces avant-postes, dont l’une des fonctions est la
+protection de Ville-Marie, se fait toutefois au prix de
+pertes humaines lorsque intervient une recrudescence
+des raids iroquois dans les années 1680-1700. Un
+traité de paix est signé en 1701.
+
+L’accroissement des activités agricoles et l’ouverture
+des chemins qui permettent d’occuper non seulement
+les berges mais aussi l’intérieur des terres carac-             La recherche archéologique a recours à un ensemble de méthodes et
+térisent les XVIIIe et XIXe siècles. Des côtes – Saint-         techniques permettant d’identifier la présence de vestiges enfouis, de
+                                                                les décrire, de les prélever et de les analyser en fonction de leur apport
+Charles, Saint-Jean et des Sources – sont aménagées             à une meilleure compréhension de nos sociétés passées. En cas de
+pour faciliter les communications dans l’axe nord-              découverte fortuite de vestiges ou d’objets, il est nécessaire d’en
+                                                                informer les instances gouvernementales afin que le lieu de la découverte
+sud. Les côtes Saint-Jean et des Sources n’ont que              soit évalué.
+
+
+                       ARRONDISSEMENT                                                                                                  41
+                                    de Pierrefonds-Senneville
+            A. Les secteurs d’intérêt                           Jacques LeBer, après en avoir obtenu la permission des
+                archéologique à fort potentiel                  sulpiciens, fait ériger sur ses terres un moulin fortifié de
+                                                                bois (1686). La présence du moulin constitue un atout
+                                                                en faveur de la colonisation de l’endroit par des censi-
+                                                                taires, puisque les Iroquois multiplient les attaques
+2.AP.1 ET 2.A.1 ZONE CÔTIÈRE
+                                                                contre les avant-postes français de l’ouest de l’île. Le
+La bordure de l’île de Montréal comprend les rives mais         premier moulin est d’ailleurs brûlé lors d’un raid en
+également le tracé du chemin sur son pourtour et les            1691. Le moulin de Senneville est rebâti en pierre en
+terres qui le bordent. Ces emplacements peuvent avoir           vertu d’un marché de construction passé par LeBer en
+été utilisés au cours des périodes préhistorique et his-        1700. Trois ans plus tard, LeBer fait construire un fort
+torique selon divers choix d’établissement, en fonction         de pierre composé d’une maison, de quatre bastions
+de l’époque et des populations concernées.                      d’angle et d’une enceinte entourant la cour. Il s’agit du
+                                                                fort Senneville, aujourd’hui site archéologique BiFl-002.
+Berge et îles                                                   On retrouve à l’extérieur du fort, outre le moulin à
+Les avancées de terres, les baies et les îles correspon-        farine, une grange et une étable de bois. Le fort est
+dent à des environnements particuliers propices à               érigé sur la terrasse riveraine de l’actuelle pointe Abbott,
+l’exploitation des ressources par des activités de chasse       ce qui correspond au 168, chemin de Senneville, tan-
+et de pêche. Quand ces formations se trouvent de plus           dis que le moulin se trouve sur un promontoire situé
+situées au point de confluence de plusieurs axes de             un peu à l’est du fort, au 176, chemin de Senneville.
+communication hydrographique, les probabilités d’y
+retrouver des vestiges de campements amérindiens                Mis à part le fort et le moulin, le territoire de Senneville
+préhistoriques ou d’occupations européennes des XVIIe           a abrité de nombreuses occupations rurales à partir du
+et XVIIIe siècles croissent de façon importante. Ce fait        XVIIe siècle et jusqu’au XXe siècle, sans toutefois donner
+est d’ailleurs démontré par le nombre de sites                  naissance à un noyau villageois, les résidants utilisant
+archéologiques répertoriés dans les arrondissements             plutôt l’église et les commerces de Sainte-Anne-de-
+voisins. Ce sont les berges et les îles qui sont ciblées; les   Bellevue. La plupart des terres sont bordées en façade
+modifications effectuées au cours du XXe siècle, parti-         par le cours d’eau, mais les résidences rurales et les
+culièrement l’ajout de remblais, ont souvent eu pour            dépendances se trouvent fréquemment en bordure du
+conséquence de favoriser la protection des vestiges             chemin de Senneville. Au cours de la seconde moitié du
+archéologiques.                                                 XIXe siècle, le chemin de fer est prolongé jusque dans
+                                                                l’ouest de l’île, ce qui amène la bourgeoisie anglo-
+Fief et fort Senneville                                         phone montréalaise à construire des villas en milieu
+Le fief de Senneville est concédé en 1672 à Michel-             agricole. Certains optent toutefois pour l’acquisition
+Sidrac Dugué, sieur de Boisbriand. Il y établit un petit        de fermes tout en laissant l’exploitation des terres à
+nombre de colons, mais ses intérêts sont principale-            des agriculteurs.
+ment orientés vers les activités de traite. Le fief est
+vendu à Jacques LeBer en 1679, sans mention de bâti-
+ments. Jacques LeBer est alors associé à Charles
+LeMoyne, qui lui cède sa part du fief en 1683. LeBer
+devient ainsi le seul à avoir des droits sur ces terres. À
+cette date, il semble qu’un magasin de bois soit présent
+sur le fief, aux fins d’activités commerciales avec les
+Amérindiens ; sa localisation demeure indéterminée.
+
+
+
+42                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+Senneville a pour qualité d’avoir conservé de grandes                 Chemin de Senneville
+propriétés dont seule une petite partie est occupée par               Ce chemin constitue un segment du premier axe de
+un cadre bâti. De plus, la densité du bâti demeure                    communication terrestre aménagé dans l’ouest de l’île;
+faible, notamment entre le chemin de l’Anse-à-l’Orme                  son tracé recoupe l’ensemble des terres de la côte
+et l’autoroute 40. Cet état de fait a favorisé la protec-             Sainte-Anne nord qui ont front sur le fleuve. Au moins
+tion in situ de nombreux sites archéologiques potentiels              trois maisons à caractère patrimonial sont recensées en
+remontant aux périodes préhistorique et historique,                   bordure du chemin, une situation qui démontre que
+tant à proximité des berges que sur les terrasses.                    des vestiges associés à des occupations agricoles
+                                                                      anciennes peuvent se trouver à l’intérieur ou en bor-
+                                                                      dure de l’emprise du chemin de Senneville.
+
+                                                                      Boulevard Gouin
+                                                                      L’utilisation agricole du territoire de Pierrefonds
+                                                                      remonte au XVIIIe siècle, alors qu’il fait partie intégrante
+                                                                      de la côte Sainte-Geneviève, laquelle comprend égale-
+                                                                      ment le village de Sainte-Geneviève et, en partie,
+                                                                      Roxboro. Il n’y a pas d’ancien noyau villageois, le bourg
+                                                                      étant à Sainte-Geneviève. Les terres ont front sur la
+                                                                      rivière des Prairies et sont traversées par le boulevard
+                                                                      Gouin, où sont construites les maisons et les dépen-
+                                                                      dances, comme l’illustrent les maisons anciennes tou-
+                                                                      jours en place. On y retrouve la maison Charles-Richer
+                                                                      dit Louveteau (1830), au 12679, boulevard Gouin
+                                                                      Ouest, la maison Joseph-Théorêt au 14784, boulevard
+                                                                      Gouin Ouest, la maison Jacques-Poudrier dit Lavigne
+                                                                      (1834), au 20752, boulevard Gouin Ouest. Une autre
+                                                                      résidence, dite le Petit fort, construite vers 1750, aurait
+                                                                      été dotée de meurtrières; elle est située à l’est du Cap
+                                                                      Saint-Jacques, au 19530, boulevard Gouin Ouest.
+
+                                                                      L’élargissement du boulevard Gouin, combiné à l’amé-
+                                                                      nagement de rues parallèles et transversales, implique
+2.AP.1 Ce site rural de même que ce muret de pierre sèche sont des    que des vestiges des occupations rurales peuvent être
+témoins éloquents des occupations agricoles anciennes.
+                                                                      présents en bordure ou au sein de leurs emprises. En
+                                                                      outre, les terrains qui se poursuivent jusqu’à la berge
+                                                                      recoupent des aires anciennement occupées par les
+                                                                      Amérindiens à la période préhistorique et par les
+                                                                      Européens au XVIIe siècle.
+
+
+
+
+                           ARRONDISSEMENT                                                                                      43
+                                          de Pierrefonds-Senneville
+2.AP.2 PARC-NATURE DU BOIS-DE-LIESSE                               B. Les secteurs d’intérêt archéologique
+Le ruisseau Bertrand présente la caractéristique d’avoir
+favorisé l’apparition de milieux humides aujourd’hui
+protégés à l’intérieur du parc-nature du Bois-de-Liesse,     2.A.1 ZONE CÔTIÈRE
+dont une partie se trouve également sur le territoire
+                                                             Voir texte 2.AP.1
+d’Ahuntsic-Cartierville, de Saint-Laurent et de Dollard-
+Des Ormeaux–Roxboro. Ces milieux humides sont
+propices aux activités de chasse et de pêche par les
+groupes amérindiens de la période préhistorique, soit        2.A.2 ARBORETUM MORGAN
+environ 4 000 ans avant aujourd’hui. Ce territoire tra-      L’Arboretum Morgan est une réserve boisée accessible
+versé par le boulevard Gouin se prolonge jusqu’au bord       au public, administrée par l’Université McGill. Deux
+de l’eau et peut également abriter des vestiges de la        terrasses d’une élévation de 50 mètres au-dessus du
+période historique. Le territoire de ce parc-nature recèle   niveau de la mer sont localisées au nord de l’au-
+un potentiel archéologique.                                  toroute 40. Compte tenu de la qualité de drainage
+                                                             du dépôt de surface, l’emplacement a pu être utilisé
+                                                             par des groupes amérindiens au cours de la préhistoire
+                                                             pour des camps de transit ou d’observation. L’élévation
+                                                             du lieu lui confère un potentiel archéologique
+                                                             amérindien préhistorique ancien puisque ces terres
+                                                             ont rapidement émergé des eaux après l’épisode
+                                                             d’invasion marine de la mer de Champlain.
+
+
+
+
+44                                                           Évaluation du patrimoine urbain
+                                                             Ville de Montréal
+        C. Les sites archéologiques                                         Le fort est érigé sur la terrasse riveraine de la
+                                                                            pointe Abbott, tandis que le moulin est localisé sur
+                                                                            un promontoire, un peu à l’est du fort. Les vestiges
+                                                                            du fort et du moulin sont toujours conservés in
+BIFL-002, FORT SENNEVILLE
+                                                                            situ. L’étude récente des témoins recueillis lors de
+Mesure de protection : site archéologique
+                                                                            la fouille archéologique du fort par le Royal Ontario
+à protéger
+                                                                            Museum, en 1969 (Duguay et Pothier, s.d., et
+Statut légal : site archéologique classé
+                                                                            Lachance 1993), démontre la richesse de la collec-
+et site historique classé
+                                                                            tion d’objets de la période historique et également la
+Thème : occupation amérindienne,
+                                                                            présence d’objets d’origine amérindienne (Webster
+avant-poste, fort
+                                                                            1971). Une étude patrimoniale du fort et du moulin
+Le fief de Senneville est vendu en 1679 à Jacques                           (Archéocène 1995) de même qu’une étude de
+LeBer, riche marchand associé à Charles LeMoyne.                            potentiel archéologique à l’échelle de deux pro-
+À cette date, il est déjà propriétaire de résidences à                      priétés où sont aujourd’hui conservés les vestiges
+Montréal et à Québec, de deux magasins (dont un                             (Ethnoscop 2002) ont été réalisées.
+à Lachine) et d’une ferme fortifiée sur l’île Saint-
+Paul, aujourd’hui l’île des Sœurs. LeMoyne cède sa
+part du fief de Senneville à LeBer en 1683. En
+1686, Jacques LeBer obtient la permission des
+sulpiciens de faire ériger un moulin fortifié de bois
+sur ses terres. Ce premier moulin est brûlé lors d’un
+raid iroquois en 1691 et reconstruit en pierre en
+1700. LeBer fait également construire, à partir de
+1703, un fort en pierre composé d’une maison, de
+quatre bastions d’angle et d’une enceinte entourant
+la cour. À l’extérieur du fort sont bâtis un moulin à
+farine, une grange et une étable de bois.
+
+
+
+
+                                                                            BiFl-002 Le site archéologique du fort de Senneville en cours de relevé
+                                                                            et de mise en protection, 2004. Photographies : ministère de la Culture
+                                                                            et des Communications du Québec.
+
+
+
+BiFl-002 Ce relevé illustre les vestiges du fort de Senneville dégagés en
+1971, lors de fouilles archéologiques. Extrait de D. B. Webster, 1971.
+
+
+
+                              ARRONDISSEMENT                                                                                                    45
+                                              de Pierrefonds-Senneville
+       D. Les biens culturels à statut
+
+
+La notion de bien culturel intègre les sites et les
+biens archéologiques classés, les sites historiques
+classés et les monuments historiques classés ou
+reconnus, les arrondissements historiques et naturels,
+les monuments cités et les sites du patrimoine. Ces
+biens ont fait l’objet d’un examen à partir de la docu-
+mentation disponible afin d’en déterminer l’intérêt
+archéologique. La liste suivante indique les biens à
+statut où il est nécessaire d’évaluer plus avant le
+potentiel archéologique et d’assurer la protection du
+patrimoine archéologique.
+
+– Site du fort Senneville, 168, chemin de Senneville,
+  BiFl-002, site archéologique classé
+  et site historique classé
+
+
+
+
+BiFl-002 Un des vestiges du fort de Senneville, 1971. Photographie :
+Royal Ontario Museum.
+
+
+
+
+46                                                                     Évaluation du patrimoine urbain
+                                                                       Ville de Montréal
+                                                                                                                                                                                                                       2.A.1
+                                                                                                                                                                                                                       2.A.1
+                                                                                                                                                                                                                        2.A.1
+                                                                                                                                                                                                                       2.A.1
+                                                                                                                                                                                                                       2.A.1
+                                                                                                                                                                                                                        2.A.1
+
+                                                                                                                                                                                                                                            2.AP.1
+                                                                                                                                                                                                                                            2.AP.1
+                                                                                                                                                                                                                                             2.AP.1
+                                                                                                                                                                                                                                            2.AP.1
+                                                                                                                                                                                                                                            2.AP.1
+                                                                                                                                                                                                                                             2.AP.1
+
+
+
+
+                                                                                                                                                                                                                 0
+                                                                                                                                                                                                                 00
+                                                                                                                                                                                                                  00
+                                                                                                                                                                                                                   0
+
+
+
+
+                                                                                                                                                  boulevard Jacques-Bizard
+                                                                                                                                                                             2.AP.1
+                                                                                                                                                                             2.AP.1
+                                                                                                                                                                              2.AP.1
+                                                                     boulevard G                                                                                             2.AP.1
+                                                                                                                                                                             2.AP.1
+                                                                                                                                                                              2.AP.1
+                                                                                                                                                                                                                                  D
+                                                                                ouin Ouest
+                                                           2.AP.1
+                                                           2.AP.1
+                                                            2.AP.1
+                                                           2.AP.1
+                                                           2.AP.1
+                                                            2.AP.1                                                                                                                                                       boulevard e Pierrefon
+                                                                                                                                                                                                                                                 ds
+                        ville
+
+
+
+
+                                                                                 0
+                                                                                 00
+                                                                                  00
+                                                                                   0                                                                                             2.A.1
+                                                                                                                                                                                 2.A.1
+                                                                                                                                                                                  2.A.1
+                                                                                                                                                                                 2.A.1
+                                                                                                                                                                                 2.A.1
+                                                                                                                                                                                  2.A.1
+
+
+
+
+                                                                                                                                                                                                                                                      boulevard Des Sources
+                       e
+                    enn
+
+
+
+
+     BiFl-2
+     BiFl-2
+     BiFl-2
+     BiFl-2
+     BiFl-2
+     BiFl-2
+              2.AP.1
+              2.AP.1
+               2.AP.1
+              2.AP.1
+              2.AP.1
+               2.AP.1                             2.A.2
+                                                  2.A.2
+                                                   2.A.2
+                    S
+
+
+
+
+                                                  2.A.2
+                                                  2.A.2
+                                                   2.A.2                                                                                                                                                                                                                                              2.A.1
+                                                                                                                                                                                                                                                                                                      2.A.1
+                                                                                                                                                                                                                                                                                                       2.A.1
+                                                                                                                                                                                                                                                                                                      2.A.1
+                                                                                                                                                                                                                                                                                                      2.A.1
+                                                                                                                                                                                                                                                                                                       2.A.1
+                min
+
+
+
+
+                                                                                                                                                                                          boulevard Saint-Jean
+              che
+
+
+
+
+                                                                                                                                                                                                                                                                                                 bo
+                                                                                             boulevard De Pierrefonds
+
+
+
+
+                                                                                                                                                                                                                                                                                                   ule
+                                                                                                                                                                                                                                                                                                      va
+                                                                                                                                                                                                                                                                                                        rd
+                                                                                                                                                                                                                                                                                                         Go
+                                                                                                                                                                                                                                                                                                            uin
+                                                                                                                                                                                                                                                                                                               Ou
+                                                                                                                                                                                                                                                                                                                 es
+                                au
+                                     to
+
+
+
+
+                                                                                                                                                                                                                                                                                                                   t
+                                        r
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                            autoroute 13
+                                            ou
+
+
+
+
+                                                                                                                        boulevard Saint-Charles
+                                                 te
+                                                      40
+                                                                                                                                                                                                                                                                                                                                  2.AP.2
+                                                                                                                                                                                                                                                                                                                                  2.AP.2
+                                                                                                                                                                                                                                                                                                                                   2.AP.2
+                                                                                                                                                                                                                                                                                                                                  2.AP.2
+                                                                                                                                                                                                                                                                                                                                  2.AP.2
+                                                                                                                                                                                                                                                                                                                                   2.AP.2                  2.AP.2
+                                                                                                                                                                                                                                                                                                                                                           2.AP.2
+                                                                                                                                                                                                                                                                                                                                                            2.AP.2
+                                                                                                                                                                                                                                                                                                                                                            2.AP.2
+                                                                                                                                                                                                                                                                                                                                                           2.AP.2
+                                                                                                                                                                                                                                                                                                                                                           2.AP.2
+
+
+
+
+                                                                                                                                                                                                                                                      Le patrimoine archéologique
+                                                                                                                                                                                                                                                       Arrondissement de Pierrefonds-Senneville
+
+                                                                                                                                                                                                                                                                                   Grand ensemble à statut
+                                                                                                                                                                                                                                                                                   (arrondissement historique et naturel, site du patrimoine)
+                                                                                                                                                                                                                                                                                   Site archéologique recensé (intègre)
+                                                                                                                                                                                                                                                                                   Site archéologique recensé (altéré)
+                                                                                                                                                                                                                                                                                   Secteur d'intérêt archéologique à fort potentiel
+                                                                                                                                                                                                                                                                                   Secteur d'intérêt archéologique
+                                                                                                                                                                                                                                                                       2.AP.1
+                                                                                                                                                                                                                                                                                   Code du secteur
+                                                                                                                                                                                                                                                                                   (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                                                                                          BiFj-1   Code de site archéologique
+                                                                                                                                                                                                                                                                                   Limite d'arrondissement
+
+
+                                                                                                                                                                                                                                                       Division du patrimoine et
+0     500     1000 m                                                                                                                                                                                                                                   de la toponymie
+
+11 mai 2004
+4.                              R E C O M M A N D AT I O N S
+
+
+
+4.1 Générales à l’échelle de l’arrondissement
+                                                                    et maintenir le bon état et l’intégrité des bâtiments
+                                                                    par l’entretien.
+
+                                                                       Les variables suivantes devraient être considérées
+Nous recommandons :                                                    dans l’élaboration des PIIA et des règles :
+– dans les secteurs d’intérêt patrimonial excep-                     • Parcellaire : mode de division, dimensions et pro-
+  tionnel, de protéger les caractéristiques architecturales            portions des parcelles, mode d’implantation du
+  et paysagères, de veiller à l’intégration des nouveaux               bâti, aménagement du terrain.
+  bâtiments à leur environnement et de s’assurer que
+                                                                     • Bâti : volumétrie (gabarit, nombre d’étages, forme
+  les modifications aux bâtiments existants se fassent
+                                                                       de la toiture), traitement des façades (saillies, com-
+  en tenant compte du contexte. La réglementation
+                                                                       position des façades, rythme, forme et dimen-
+  devra prévoir que les interventions dans ces secteurs
+                                                                       sions des ouvertures, modèles de portes et de
+  soient encadrées par des critères – plans d’implan-
+                                                                       fenêtres, revêtements, ornementation, couleurs,
+  tation et d’intégration architecturale (PIIA) – mais
+                                                                       matériaux et textures, etc.).
+  aussi par des règles si la situation le justifie.
+                                                                  – d’instaurer des mesures de zonage spécifiques
+– pour les bâtiments d’intérêt patrimonial excep-
+                                                                    pour des ensembles significatifs tels que les
+  tionnel et intéressant, de protéger leurs caractéris-
+                                                                    noyaux paroissiaux (parc, école, église, pres-
+  tiques architecturales en s’assurant que les modifi-
+                                                                    bytère, etc.) afin de préserver l’essence de leur
+  cations aux bâtiments énumérés dans les listes soient
+                                                                    valeur patrimoniale.
+  encadrées, dans la réglementation, par des critères (PIIA)
+  mais aussi par des règles si la situation le justifie.          – d’étudier les territoires identifiés comme ensembles
+                                                                    urbains d’intérêt, de recenser les typologies des
+– dans les secteurs d’intérêt patrimonial intéressant,
+                                                                    ensembles qui présentent une grande homogénéité
+  de protéger les caractéristiques architecturales et
+                                                                    et de développer des outils visant à sensibiliser la
+  paysagères, de veiller à l’intégration des nouveaux
+                                                                    population à l’égard de l’intérêt patrimonial de ces
+  bâtiments à leur environnement et de s’assurer que
+                                                                    ensembles.
+  les modifications aux bâtiments existants se fassent
+  en tenant compte du contexte. La réglementation                 – d’établir un contrôle sur les démolitions dans les
+  devra prévoir que les interventions dans ces secteurs             secteurs d’intérêt patrimonial et pour les bâtiments
+  soient encadrées par des règles.                                  patrimoniaux en évaluant l’intérêt patrimonial des
+                                                                    bâtiments concernés afin d’éviter des pertes
+– que l’élaboration des PIIA et l’élaboration de
+                                                                    irréversibles.
+  règles dans les règlements de zonage favorisent
+  une architecture de qualité et consolident le cadre             – d’éviter le fractionnement des grandes propriétés
+  bâti en harmonie avec le caractère de chaque lieu, en             et d’assurer la protection et la mise en valeur des
+  contrôlant notamment l’apparence des nouvelles                    propriétés institutionnelles.
+  constructions afin qu’elles s’intègrent à leur milieu
+  environnant, ainsi qu’en contrôlant l’apparence des             – d’appliquer les mesures nécessaires à un examen
+  modifications à un bâtiment pour qu’elles s’harmo-                du potentiel archéologique et, le cas échéant, à la
+  nisent avec son expression architecturale spécifique.             protection des vestiges découverts, préalablement
+                                                                    aux travaux d’excavation publics et privés dans les
+  Les principes qui devraient guider l’élaboration                  grands ensembles à statut et les biens culturels
+  des PIIA et des règles sont les suivants : conserver              à statut, les sites archéologiques recensés et les
+  l’identité des secteurs, connaître avant d’intervenir             secteurs d’intérêt archéologique à fort potentiel.
+
+
+                        ARRONDISSEMENT                                                                                    49
+                                      de Pierrefonds-Senneville
+– de favoriser la prise en compte des vestiges
+  présentant une grande valeur archéologique                4.2 Générales à l’échelle montréalaise
+  dans la conception et la réalisation des projets de
+  construction ou d’aménagement urbain, notamment           Nous recommandons :
+  par l’adaptation des travaux ou l’intégration des
+  vestiges.                                                 – de développer des outils de protection et de mise
+                                                              en valeur, incluant la citation en vertu de la Loi
+– d’assurer la protection et la mise en valeur des
+                                                              sur les biens culturels du Québec, pour les
+  aménagements urbains, des parcs et des espaces
+                                                              immeubles qui possèdent une valeur patrimoniale
+  publics.
+                                                              élevée à l’échelle montréalaise, comme certaines
+– de préserver et de protéger le couvert végétal,             maisons rurales et villas, institutions (ex. : écoles,
+  qui contribue beaucoup au caractère de plusieurs            églises), services municipaux (ex. : bains, casernes,
+  secteurs patrimoniaux répertoriés, de favoriser les         complexes civiques), etc.
+  plantations et de protéger de façon générale le
+                                                            – de développer des outils de protection et de mise
+  patrimoine naturel, ainsi que de préserver et mettre
+                                                              en valeur, incluant la création de sites du patri-
+  en valeur le caractère champêtre des secteurs où
+                                                              moine en vertu de la Loi sur les biens culturels
+  l’on retrouve encore des paysages agricoles.
+                                                              du Québec, pour les sites qui possèdent une
+– de protéger les perspectives d’intérêt patrimonial          valeur patrimoniale élevée à l’échelle montréalaise,
+  telles que les vues sur le centre-ville, le mont Royal,     notamment certains noyaux villageois, ensembles
+  les plans d’eau, les places publiques, les monuments        institutionnels, grands domaines, grands gestes
+  commémoratifs, certains bâtiments ou clochers, etc.         urbains et architecturaux, etc.
+
+– de préserver la spécificité de la trame urbaine           – à partir des critères de sélection établis pour l’évalua-
+  montréalaise, qui découle des tracés fondateurs et          tion des bâtiments et des secteurs susceptibles
+  des caractéristiques naturelles, et de préserver            d’avoir un intérêt pan-montréalais, de développer un
+  la grille orthogonale (incluant les ruelles des             plan d’attribution de statuts patrimoniaux en vertu
+  arrondissements du centre) ainsi que les plans              de la Loi sur les biens culturels du Québec, de
+  d’ensemble et grilles particulières de certains             fixer des critères d’évaluation pour les interventions
+  arrondissements; de contrôler les subdivisions              sur les bâtiments et territoires protégés par le volet
+  cadastrales afin de préserver le rythme des rues et         municipal de cette même loi, d’élaborer des outils
+  de sauvegarder l’échelle du bâti.                           de protection et de dresser un plan directeur pour
+                                                              la mise en valeur de chacun des sites du patrimoine.
+– de développer des outils de promotion et de mise
+  en valeur des tracés fondateurs à fort potentiel,         – d’élaborer pour le public, les employés municipaux
+  aux fins de la protection de leur caractère.                et les élus des activités et des outils de sensibili-
+– de développer un plan stratégique pour les artères          sation à l’égard du patrimoine.
+  commerciales principales (vitalité, affichage,
+  rénovation, éclairage, mobilier urbain, etc.) qui
+  tienne compte de la dimension patrimoniale des
+  lieux et de concilier les opérations de travaux
+  publics avec les préoccupations patrimoniales.
+
+
+
+
+50                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+– de réaliser des études plus poussées permettant
+  d’accroître la connaissance du patrimoine bâti, his-          4.3 Spécifiques à l’arrondissement
+  torique et archéologique afin d’évaluer la valeur
+  patrimoniale rattachée à différentes problématiques,          Nous recommandons :
+  notamment :
+                                                                  Secteur Pierrefonds
+  • étudier les territoires identifiés comme secteurs           – d’élaborer une stratégie de revitalisation urbaine
+    d’intérêt archéologique à fort potentiel et                   de certains segments du boulevard Gouin. Il est à
+    secteurs d’intérêt archéologique pour évaluer                 noter que celui-ci fait partie du parcours riverain
+    le degré de préservation du milieu physique,                  décrit au Document complémentaire, lequel prescrit
+    localiser les sites archéologiques conservés et               des mesures afférentes aux valeurs patrimoniales
+    définir préventivement les mesures de protection              du lieu.
+    du patrimoine archéologique.
+                                                                – d’élaborer une stratégie en regard du morcellement
+  • faire des études détaillées sur le patrimoine                 des lots, particulièrement en ce qui a trait aux
+    industriel pour déterminer une stratégie de                   grandes propriétés institutionnelles.
+    conservation et de développement des sites ;
+    étudier plus spécifiquement les territoires identifiés      – d’élaborer une stratégie en regard des berges : pro-
+    comme ensembles industriels d’intérêt.                        tection des vues, nouvelles constructions et nouveaux
+                                                                  développements, accessibilité au public (voir aussi
+  • établir des balises et des critères permettant de             le Document complémentaire).
+    bien planifier et gérer la problématique du patri-
+    moine religieux; favoriser la conservation et la            – de procéder à un inventaire des ensembles urbains
+    mise en valeur des lieux de culte les plus impor-             d’intérêt des années 1950-60-70. Le repérage du
+    tants relativement à leur valeur patrimoniale ;               patrimoine de l’arrondissement n’est pas exhaustif
+    mettre en œuvre des outils de gestion des                     à ce sujet et n’identifie pour l’instant que le secteur
+    demandes de permis et favoriser l’occupation de               Belvédère, qui semble le plus significatif pour l’ar-
+    lieux de culte par des fonctions compatibles ;                rondissement. Il y aurait lieu d’investiguer certains
+    favoriser le maintien des caractéristiques des                autres secteurs, tel le développement résidentiel
+    ensembles conventuels les plus importants, de                 compris entre les rues Dollard et Prince, accessible
+    leurs espaces paysagers et des cimetières.                    par les boulevards Lalande et Gouin, un secteur
+                                                                  très homogène et d’ambiance champêtre du fait
+  • accroître la connaissance du patrimoine                       de l’absence de trottoirs et de la présence de fos-
+    moderne en encourageant la recherche, les                     sés en bordure des rues, et qui comprend quelques
+    inventaires et les publications à ce sujet.                   typologies de bungalows construits en série.
+
+  • planifier des études à l’échelle montréalaise,              – de documenter le secteur Cloverdale et d’élaborer
+    développer des outils et élaborer des lignes direc-           une stratégie en regard de son développement afin
+    trices de rénovation et d’agrandissement adap-                de conserver certaines caractéristiques importantes
+    tées aux diverses typologies que l’on retrouve                du lieu.
+    dans les zones identifiées comme ensembles
+    urbains d’intérêt.
+
+
+
+
+                       ARRONDISSEMENT                                                                                 51
+                                    de Pierrefonds-Senneville
+– d’évaluer l’intérêt pan-montréalais des secteurs et        Secteur Senneville
+  des bâtiments d’intérêt patrimonial exceptionnel         – de documenter (recherche et relevé photographique)
+  en vue de procéder à la création de sites du patri-        le secteur des vétérans, dont on prévoit la démolition.
+  moine et à la citation de bâtiments en vertu de la
+  Loi sur les biens culturels du Québec. Il est            – d’évaluer l’intérêt pan-montréalais des secteurs et
+  notamment recommandé de documenter, afin de                des bâtiments d’intérêt patrimonial exceptionnel
+  les citer, plusieurs maisons rurales du boulevard          en vue de procéder à la création de sites du patri-
+  Gouin Ouest, dont certaines présentent indéni-             moine et à la citation de bâtiments en vertu
+  ablement un intérêt patrimonial métropolitain. Par         de la Loi sur les biens culturels du Québec, et
+  ailleurs, un inventaire et une analyse plus exhaustive     notamment :
+  des propriétés institutionnelles déterminerait si cer-     • de créer un « Site du patrimoine du village de
+  taines d’entre elles devraient accéder au statut             Senneville » englobant les grands domaines et
+  mentionné précédemment.                                      peut-être aussi les habitations du personnel au
+                                                               service des grands propriétaires.
+
+                                                             • de déterminer, après avoir considéré la valeur
+                                                               patrimoniale de l’ensemble du corpus des grandes
+                                                               propriétés aux abords du chemin de Senneville,
+                                                               quelles sont celles qui pourraient faire l’objet
+                                                               d’une citation ou d’un classement en vertu de la
+                                                               Loi sur les biens culturels.
+
+                                                           – d’envisager, compte tenu que les grandes pro-
+                                                             priétés du village de Senneville ne sont pas visibles
+                                                             de la voie publique, une stratégie permettant de
+                                                             diffuser l’information pour les faire connaître ;
+                                                             d’envisager aussi la négociation d’ententes avec
+                                                             certains propriétaires pour permettre l’accessibilité
+                                                             restreinte aux sites et aux résidences d’intérêt
+                                                             patrimonial à certains moments de l’année, surtout
+                                                             s’il y a création du site du patrimoine du village de
+                                                             Senneville.
+
+
+
+
+52                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+5.
+Photographies aériennes
+                               BIBLIOGRAPHIE
+
+
+                                                                 JOBIN, André. Carte de l’île de Montréal, 1834,
+                                                                 Bibliothèque nationale du Québec à Montréal.
+  Photographies aériennes, 1947-1948-1949, Ville                 Cote : G 3452 M65 1834 J63 CAR
+de Montréal, Gestion des documents et archives
+                                                                 JOURDAIN dit LABROSSE, Paul. Plan de la ville et des
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                   faubourgs de Montréal, 1767. Archives nationales du
+Orthophoto noir et blanc, 2000, Navigateur urbain.               Canada, NMC-16687 [2 sections] H2/340 Montréal
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                   1767.
+Orthophoto noir et blanc, 2002, Navigateur urbain.               LEVASSEUR DE NÉRÉ, Jacques. Plan de la ville de
+Cartes                                                           Montréal, 1704. Archives nationales (France), Centre
+                                                                 des archives d’outre-mer, Dépôt des fortifications des
+ADAMS, John. Map of the City and Suburbs of                      colonies, Amérique Septentrionale, no 468A.
+Montreal, 1825. Bibliothèque de l’Université McGill,
+Département des livres rares et des collections spéciales.       MELISH, John. Plan of Montreal, with a Map of the
+                                                                 Islands & adjoining Country, 1815, Bibliothèque
+BELLIN, Jacques-Nicolas. Carte de Lisle de Montreal              nationale du Québec à Montréal.
+et de ses environs, 1744, Bibliothèque nationale du              Cote: G 3454 M65 1815 M4
+Québec à Montréal.
+Cote : G 3452 M65 1744 B4                                        PINSONEAULT, A.-R. Atlas of the Island of Montreal
+                                                                 and Ile Bizard, 1907, Bibliothèque nationale du Québec
+BOUCHETTE, Joseph. Topographical Map of the Province             à Montréal.
+of Lower Canada, 1815. Londres, W. Faden.                        Cote: G 1144 M65G475 P5 1907 CAR
+
+CHAUSSEGROS DE LÉRY, Gaspard. Plan de la ville                   SITWELL, H.S. Fortification Surveys Canada. Contoured
+de Montreal en Canada, 10 août 1717. Archives                    Plan of Montreal and its Environs, Quebec, 1868-1869,
+nationales (France), Centre des archives d’outre-mer,            Archives nationales du Canada, Ottawa.
+Dépôt des fortifications des colonies, Amérique                  Cote: V40/300/1867
+Septentrionale, no 473.
+                                                                 UNDERWRITERS SURVEY BUREAU. Insurance Plan of
+GOAD, Charles E. Atlas of Montreal, 1890, volumes                the City of Montreal, 1952, 1953, 1954, 1955, 1957,
+1 et 2, Bibliothèque nationale du Québec à Montréal.             1959, 1961, 1962, 1963, 1964, 1966, 1967, 1972,
+Cote : G 1144 M65G475 G6 1890 CAR 1 et 2                         volumes 1 à 10, 12 à 17, 19 à 21.
+
+GOAD, Charles E. Plan of the City of Montreal, 1909,             Ouvrages généraux
+1911, 1912, 1913, 1914, 1915, volumes 1 à 12,
+Bibliothèque nationale du Québec à Montréal et                     Itinéraire toponymique du Saint-Laurent, ses rives
+Direction du développement urbain de la Ville de                 et ses îles, Québec, 1984, 451 p., coll. Études et
+Montréal.                                                        recherches toponymiques, no 9.
+
+HOPKINS, H.W. Atlas of the City and Island of                    BEAUREGARD, Ludger. « Géographie historique des
+Montreal, 1879, Bibliothèque nationale du Québec                 côtes de l’île de Montréal », Cahiers de géographie
+à Montréal.                                                      du Québec, vol. 28, nos 73-74, avril-septembre 1984,
+Cote : G1144 M65G475 H6 1879 CAR                                 p. 47-62.
+
+
+
+
+                       ARRONDISSEMENT                                                                               53
+                                     de Pierrefonds-Senneville
+BEAUREGARD, Ludger. Toponymie de la région métro-         MAGNAN, Hormidas. Dictionnaire historique et géo-
+politaine de Montréal, Québec, Ministère des Terres       graphique des paroisses, missions et municipalités
+et Forêts du Québec, 1968, 225 p., coll. Étude            de la province de Québec, Arthabaska, Imprimerie
+toponymique 2 (nouvelle série).                           d’Arthabaska Inc., 1925, 738 p.
+
+BERGERON, Claude. Architectures du XXe siècle au          MARSAN, Jean-Claude (dir.). Inventaire préliminaire
+Québec, Québec, Musée de la civilisation / Éditions       des bâtiments patrimoniaux de la Commission sco-
+du Méridien, 1989, 271 p.                                 laire de Montréal, vol. 1-2a-2b, Montréal, Université
+                                                          de Montréal, 28 février 2001.
+BERGERON, Claude. L’architecture des églises du
+Québec 1940-1985, Québec, Les Presses de l’Université     MARSAN, Jean-Claude. Montréal en évolution :
+Laval, 1987, 386 p.                                       Historique de développement de l’architecture et de
+                                                          l’environnement urbain montréalais, 3e éd., Laval,
+COMMISSION DES BIENS CULTURELS. Les chemins
+                                                          Éditions du Méridien, 1994, 515 p.
+de la mémoire. Monuments et sites historiques du
+Québec, Tome II, Québec, Les Publications du Québec,      ROBERT, Jacques. Les ensembles patrimoniaux de la
+1991, 565 p.                                              Communauté urbaine de Montréal, Montréal, Ministère
+                                                          des Affaires culturelles, mars 1985, 40 p.
+COMMISSION DE TOPONYMIE. Noms et lieux du
+Québec. Dictionnaire illustré du Québec, Québec, Les      ROBERT, Jean-Claude. Atlas historique de Montréal,
+Publications du Québec, 1994, 925 p.                      Montréal, Art Global / Libre Expression, 1994, 167 p.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL. Répertoire                VILLE DE MONTRÉAL. Le patrimoine de Montréal,
+d’architecture traditionnelle sur le territoire de la     Montréal, Ville de Montréal et Ministère de la Culture
+Communauté urbaine de Montréal. 12 volumes.               et des Communications, 1998, 168 p.
+
+COURVILLE, Serge (dir.). Paroisses et municipalités de    WOLFE, Jeanne M. et François DUFAUX (dir.). A topo-
+la région de Montréal au XIXe siècle (1825-1861),         graphic Atlas of Montreal / Atlas topographique de
+Répertoire documentaire et cartographique, Québec,        Montréal, Montréal, McGill School of Urban Planning /
+Les Presses de l’Université Laval, 1988, 350 p.           École d’urbanisme, 1992, 78 p.
+
+DESJARDINS, Pauline. Évaluation du patrimoine indus-      Site Internet
+triel. Critères généraux, Montréal, Archemi / Ville de
+                                                          VILLE DE MONTRÉAL. Répertoire bibliographique sur
+Montréal, Service du développement économique et
+                                                          le patrimoine archéologique de Montréal, 2004.
+du développement urbain, 29 août 2003, 56 p.
+                                                          http://www2.ville.montreal.qc.ca/urb_demo/domaines/
+LAURIN, J.-E. Histoire économique de Montréal et          archeo/bib_recherche.htm
+des Cités et Villes du Québec, [Montréal], Les Éditions
+J.-E. Laurin, 1942, 287 p.
+
+LEUNG, Felicity, David McCONNELL et Jean-Claude
+PARENT. Les emplacements manufacturiers au Canada,
+Ottawa, Environnement Canada, Service canadien des
+Parcs, 1990.
+
+LINTEAU, Paul-André. Histoire de Montréal depuis la
+Confédération, Montréal, Boréal,1992, 608 p.
+
+
+54                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+Ouvrages spécifiques à l’arrondissement
+
+BERNARD, Florian. « Pierrefonds », La Presse, 24 août
+1983
+
+COMMISSION DES LIEUX ET MONUMENTS HISTO-
+RIQUES DU CANADA. Formulaire de demande – Lieu :
+Arrondissement de Senneville, Ottawa, Commission
+des lieux et monuments historiques du Canada
+[2001], s.p.
+
+DEMETER, Lazlo (dir.). Inventaire monumental région
+de Montréal (Pierrefonds), 2 vol., Montréal, Ministère
+des Affaires culturelles, Direction des monuments
+historiques, été 1970.
+
+FRIEDMAN, Avi. The Village of Senneville : Urban and
+Architectural Inventory, 3 vol., préparé pour le compte
+du Village de Senneville, septembre 2000 (révisé en
+mai 2001).
+
+LABOULY, Fabienne. Pierrefonds-Senneville. Le boule-
+vard Gouin Ouest, Ville de Pierrefonds-Senneville, été
+2003, s.p.
+
+LOCAS, Marc. La « côte Sainte-Geneviève »… cent
+ans plus tard 1900-2000, 1999, 173 p.
+
+SARTHOU, Manon. Village de Senneville. Conservation
+et mise en valeur du patrimoine de Senneville. Étude
+historique, archéologique, architecturale et paysagère,
+Ciné-Cité / Village de Senneville / Ministère de la
+Culture et des Communications, décembre 1995, 84 p.
+
+STEWART, Alan et Léon ROBICHAUD. Le fort
+Senneville. Étude historique et patrimoniale. Rapport
+présenté au Ministère de la Culture et des
+Communications, Montréal, Remparts / Ministère de la
+Culture et des Communications, février 2000, 190 p.
+
+VILLAGE DE SENNEVILLE. Plan d’urbanisme / Planning
+Programme, Version corrigée du 88.05.05, Senneville,
+1988, 28 p.
+
+
+
+
+                      ARRONDISSEMENT                           55
+                                   de Pierrefonds-Senneville
+

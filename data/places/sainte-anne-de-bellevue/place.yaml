@@ -1,0 +1,105 @@
+id: sainte-anne-de-bellevue
+name_en: Sainte-Anne-de-Bellevue
+name_fr: Ville de Sainte-Anne-de-Bellevue
+sections: [historic-core]
+region: Agglomération de Montréal
+founded: 1677                              # parish of Saint-Louis-du-Bout-de-l'Île, per the Commission de toponymie; see the note on the four parish dates in prose.md
+settlement_mode: parish village at the head of the Sainte-Anne rapids, thickened by the 1843 canal, the railways and two college campuses
+coordinates: {lat: 45.404556, lon: -73.954056}   # 45° 24' 16.4" N, -73° 57' 14.6" W — the RPCQ coordinate for the maison Simon-Fraser, 153 rue Sainte-Anne, the only surveyed point this project holds inside the village core
+evaluation_codes: {code_2005: 1, file_prefix: 13}
+governing_instruments:
+  - kind: classement
+    title: >-
+      Maison Simon-Fraser, 153 rue Sainte-Anne — classée immeuble patrimonial by the ministre de la
+      Culture et des Communications on 1962-01-24 (RPCQ id 92666). The fiche states that the
+      protection applies to the exterior and the interior of the house and of its remise, and to the
+      land: « La protection s'applique à l'extérieur et à l'intérieur de la maison et de la remise,
+      ainsi qu'au terrain. » Conservation categories 1 (Extérieur exceptionnel), 5 (Intérieur
+      supérieur), 9 (Terrain notable) and 12 (Potentiel archéologique significatif).
+    year: 1962
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=92666
+  - kind: citation
+    title: >-
+      Maison Michel-Robillard (Braerob Farm), 20345 chemin Sainte-Marie — citée immeuble patrimonial
+      by the Municipalité de Sainte-Anne-de-Bellevue on 2014-07-14, after an avis de motion of
+      2014-05-12 (RPCQ id 200694). The town's own by-law text is reproduced verbatim in the RPCQ
+      fiche. This is the only citation the town has made, and it covers one farmhouse, not a
+      territory.
+    year: 2014
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=200694
+  - kind: national-historic-site
+    title: >-
+      Lieu historique national du Canal-de-Sainte-Anne-de-Bellevue. The canal opened to commercial
+      navigation in 1843; the Historic Sites and Monuments Board of Canada recommended designation
+      in 1987. The 2020 management plan, which replaced the 2005 plan, was tabled in Parliament on
+      2020-12-16. Federal designation covers the canal and its works, not the village around it.
+    year: 1987
+    url: https://parcs.canada.ca/lhn-nhs/qc/annedebellevue/gestion-management/gestion-management/plan-2020
+  - kind: PIIA
+    title: >-
+      Ville de Sainte-Anne-de-Bellevue, règlement 798 relatif aux plans d'implantation et
+      d'intégration architecturale (avis de motion 1er mai 2017, assemblée publique de consultation
+      25 mai 2017; administrative codification V.07, 2025-12-04). Chapter IV, « Objectifs et
+      critères applicables au patrimoine bâti et archéologique », applies to the grandes propriétés à
+      caractère institutionnel, the secteurs de valeur exceptionnelle, the secteurs de valeur
+      intéressante and the ensemble urbain d'intérêt as mapped at plan 4, annexe B of the zoning
+      by-law. It is the instrument that actually reviews demolition and infill in the village core.
+    year: 2017
+    url: https://ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-municipaux2
+  - kind: demolition-bylaw
+    title: Ville de Sainte-Anne-de-Bellevue, règlement 846 relatif à la démolition des immeubles (abrogating règlement 656)
+    year: null
+    url: https://ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/pdf/Ville/reglement/urbanisme/846_-_Demolition_des_immeubles.pdf
+  - kind: municipal-bylaws
+    title: >-
+      Ville de Sainte-Anne-de-Bellevue, règlement 863 — Plan d'urbanisme (avis de motion and adoption
+      of the draft 2024-09-16, adoption 2024-11-11; the published PDF is watermarked « Pour
+      consultation seulement » and its entrée en vigueur line reads « XX »). It replaces the plan the
+      Ville de Montréal adopted for the territory under number 04-047. Zoning 874, lotissement 865,
+      permis et certificats 536, CCU 704, PPCMOI 785, PAE 734.
+    year: 2024
+    url: https://ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/R%C3%A8glements%20d'urbanisme/12%20nov/R863_PU_ADOPTE_site_web.pdf
+  - kind: none-at-ensemble-scale
+    title: >-
+      No ensemble protection. There is no site patrimonial — declared, classed or cited — anywhere in
+      Sainte-Anne-de-Bellevue. The RPCQ holds eleven immovable records for the municipality and none
+      of them is a site; a search of the RPCQ restricted to catégorie de bien « Site patrimonial »
+      returns « Aucun résultat » for this municipality, while returning forty records for the
+      Montréal region as a whole. The town's own règlement 863 maps exactly two « immeubles qui
+      présentent une protection particulière en vertu de la Loi sur le patrimoine culturel »: the
+      maison Simon-Fraser and the maison Michel-Robillard. The « village patrimonial » is a
+      promotional label carried by the town's tourism site, not an instrument.
+    year: null
+    url: null
+typology_document:
+  title: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue (2005, ISBN 2-7647-0444-5)
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    No per-type catalogue exists for Sainte-Anne-de-Bellevue. The cahier characterises ten sectors
+    inside the municipality — five of exceptional value, four of interesting value, one urban
+    ensemble — in one short paragraph each, and lists the immeubles de valeur patrimoniale
+    exceptionnelle by address without describing them. The type records below carry only what those
+    paragraphs, the town's règlement 863 and the individual RPCQ fiches state; every column the
+    sources leave silent is left empty and flagged in profile_note.
+map_layer: null
+summary_en: >-
+  The second-oldest European settlement at the west end of the island of Montréal, and a village that
+  water made three times over: a portage past the Sainte-Anne rapids, a fur-trade halt on the way to
+  the Pays d'en Haut, then a lock town after the canal opened in 1843. The noyau villageois gathers
+  round the church, the presbytery and the old convent on rues Sainte-Anne and de l'Église, with
+  modest two-storey clapboard houses built close to the street; behind it, the workers' cottages of
+  rue Saint-Jean-Baptiste, and beyond that the campuses of Macdonald College and the garden-suburb
+  ensemble J.-J. Harpell built round the Garden City Press in 1918. It is marketed as a « village
+  patrimonial », and that phrase is advertising: nothing here is protected at the scale of an
+  ensemble. Two individual buildings carry the whole statutory weight — the maison Simon-Fraser,
+  classée in 1962, and the maison Michel-Robillard, citée in 2014.
+hero_photo:
+  file: assets/places/sainte-anne-de-bellevue/maison-simon-fraser-153-rue-sainte-anne-commons.jpg
+  credit: >-
+    Maison Simon-Fraser, 153 rue Sainte-Anne, Sainte-Anne-de-Bellevue (2010) — built between 1790 and
+    1810 for the North West Company partner Peter Grant, bought by Simon Fraser in 1820 after his
+    seigneurial manor burned, and classée immeuble patrimonial on 24 January 1962 (RPCQ id 92666).
+    Photograph by Anne-Marie Dufour for the Parcours riverain – Ville de Montréal Flickr stream,
+    CC BY 2.0; Commons licence review passed 30 April 2024.
+    https://commons.wikimedia.org/wiki/File:Maison_Simon-Fraser,_153,_rue_Sainte-Anne_(Sainte-Anne-de-Bellevue)_(8531368787).jpg

@@ -1,0 +1,190 @@
+- id: pc-rpcq-196303
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Site patrimonial de la pointe Claire », id
+    196303 (other name: Site patrimonial du noyau institutionnel de Pointe-Claire). Source of the
+    description, statement of value and éléments caractéristiques: Ville de Pointe-Claire, 2013.
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=196303 —
+    retrieved 17 August 2026; sha-256
+    82d12efe26bb65a00e8d8525cf22e2404d4179e51604eb9690e9cb160af7324c.
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=196303
+  used_for: >-
+    The citation as recorded in the statut block (Citation, Site patrimonial, Municipalité
+    (Pointe-Claire), 2013-04-02, over the statut antérieur « Avis de motion de citation, 2012-12-03 »);
+    the 2.7 hectares and the polygon's contents and bounds; the sentence fixing the reach of the
+    protection to the terrains and the exterior envelopes; the "Patrimoine immobilier associé (9)"
+    header; the dates and authorship of the church (1882-1885, Victor Bourgeau and Alcibiade
+    Leprohon), the convent (1867-1868, Henri-Maurice Perrault), the presbytery (1913, Théodose Daoust,
+    on the 1848 masonry body) and the mill (1709-1710, charpentiers Léonard and Charles Paillé, maçon
+    Jean Mars); the whole historical sequence from the 1705 presbytère-chapelle to the 1946 relocation
+    of the cemetery; and the sector row SP-1.
+
+- id: pc-reglement-2808
+  citation: >-
+    Ville de Pointe-Claire, Règlement numéro PC-2808, « Règlement sur la citation du noyau
+    institutionnel de Pointe-Claire comme site patrimonial », résolution 2013-123, adopted at the
+    ordinary sitting of council of Tuesday 2 April 2013 at 19h30; cover carries « En vigueur le 12
+    décembre 2012 / Publication le 10 avril 2013 »; signed Bill McMurchie, maire, and Jean-Denis
+    Jacob, avocat, greffier. 12 PDF pages, including annexe 1 (perimeter plan) and the énoncé
+    d'importance. https://www.pointe-claire.ca/assets/images/Documents/PC-2808_Site_patrimonial.pdf —
+    retrieved 17 August 2026; sha-256
+    c4416c5810950fb6a469a4ee539d0b1ca1d319198f8bd638ca30c64732c08a80.
+  url: https://www.pointe-claire.ca/assets/images/Documents/PC-2808_Site_patrimonial.pdf
+  used_for: >-
+    The by-law NUMBER, which Part 11 § 4 lists as outstanding, and its adoption date, resolution
+    number, signatories and in-force line; the seven cadastral lots of the perimeter; the four grounds
+    of heritage value in the council's own words; the acts made subject to conditions and the
+    forty-five-day notice; the demolition control; the named religious and historic components and the
+    two other named buildings, including the maison dite « du bedeau » at 5 avenue Saint-Joachim; the
+    ouvrages de génie; the visual-impact study requirement; the archaeological supervision
+    requirement; and the three public artworks to be kept in situ.
+
+- id: pc-code-villageois-2880
+  citation: >-
+    Ville de Pointe-Claire, Règlement PC-2880, « Code villageois », as amended by PC-2880-2 (12
+    November 2024), PC-2880-3 (8 April 2025) and PC-2880-4 (3 October 2025). Service d'urbanisme:
+    Heather Leblanc, directrice; France Giguère, urbaniste, coordonnatrice en planification; Ahmad
+    Rustom, urbaniste, chargé de projet. Thematic sheets by AECOM (Manuel-Lucas Bergeron Duhamel,
+    designer urbain); regulatory text by Bélanger Sauvé (Me Marc-André LeChasseur, Me Sophie
+    Deslauriers); in collaboration with Isabelle Bouchard, consultante en patrimoine. 194 PDF pages.
+    https://www.pointe-claire.ca/assets/images/Documents/PC-2880_Code-Villageois_2025-10-03-1.pdf —
+    retrieved 17 August 2026; sha-256
+    0260fd91e6166363c172903e8431f90e0b1922917c4b20114904dd0dda8a2f3c. Parsed with pdftotext -layout to
+    sources/west-island/pointe-claire/PC-2880_Code-Villageois.txt.
+  url: https://www.pointe-claire.ca/affaires-juridiques/reglements-municipaux/code-villageois-applicable-au-village-de-pointe-claire
+  used_for: >-
+    Both type records, verbatim, from chapitre 03 « Architecture villageoise »; the gabarit rule of
+    the same chapter; the ten unités paysagères of chapitres 04–13 with their full summary tables,
+    transcribed into sectors.yaml; the bâtiments d'intérêt architectural named by amendment PC-2880-4;
+    and the form-based-planning claim quoted on the instrument row. Also the two dates the Code gives
+    for the village fire — 1901 in chapitre 03 and 1900 in the same chapter and again in UP3 — which
+    are recorded as a contradiction and not resolved.
+
+- id: pc-evaluation-2005
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Division du
+    patrimoine et de la toponymie, « Évaluation du patrimoine urbain : arrondissement de
+    Pointe-Claire », 2005, ISBN 2-7647-0448-8, dépôt légal BNQ / BNC 2005 — made in the four years
+    Pointe-Claire spent as a borough of the Ville de Montréal, and part of the same twenty-seven-volume
+    series as the Lachine cahier. The borough is coded 5 in the text and the PDF is filed as 19.
+    http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/19_EVALUATION_PATRIMOINE_POINTE-CLAIRE.PDF
+    — retrieved 17 August 2026; sha-256
+    f528324af4e4db529b497acb532d74fcd5fb0c5f6e8dbc404a19e6216a6de7b7; 56 PDF pages. Parsed with
+    pdftotext -layout to sources/west-island/pointe-claire/19_evaluation_patrimoine_pointe-claire.txt.
+  url: http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/19_EVALUATION_PATRIMOINE_POINTE-CLAIRE.PDF
+  used_for: >-
+    Twenty-two of the sector rows (5.E.1–5.E.7, 5.I.1–5.I.12, 5.U.1–5.U.3); the veterans' house type
+    record; the two tracés fondateurs — the chemin du Bord-du-Lac and the line of the côte Saint-Jean
+    followed by the boulevard Saint-Jean, avenue Douglas-Shand and avenue Maywood, along which the
+    Sulpicians conceded land from 1720; the fire of May 1900 and its origin in a tinsmith's shop; the
+    village municipality of Saint-Joachim-de-la-Pointe-Claire created 1854 and the incorporation as a
+    ville in 1911; the quarry from 1850 and the stone shipped by rail for the Victoria Bridge; the
+    population series 1,240 (1925), 8,753 (1951), 21,926 (1961) and 29,049 at the turn of the 21st
+    century; the garden-suburb sequence from Cedar Park in 1893 to the Bowling Green of 1905; and the
+    Frederick G. Todd and Robert Findlay attributions. It is also the source of three factual
+    conflicts recorded in the notes rather than resolved: the mill's date, the mill's ownership, and
+    the church's dates.
+
+- id: pc-rpcq-93473
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Moulin à vent de Pointe-Claire », id 93473.
+    Source of the statement of value: Ministère de la Culture et des Communications du Québec, 2004.
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93473 —
+    retrieved 17 August 2026; sha-256
+    cbbe13588f04fb1b50b67caa3795cecfd044ea3971f6973a96f6eb559a0c5b89.
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93473
+  used_for: >-
+    The classement (Immeuble patrimonial, Ministre de la Culture et des Communications, 1983-03-21),
+    its conservation categories 2 and 5, and the sentence fixing the protection to the building inside
+    and out but not the land; the second status the mill carries inside the cited site; the Sulpician
+    ownership and the 1698 land reservation; the moulin banal and droit de banalité; the loopholes and
+    the redoubt function, and the 1729 stockade; the disuse between 1880 and 1885 and the conversion to
+    an observatory with a terrace roof carrying a wind pump for the convent's private aqueduct; and
+    the restoration sequence — begun 1954, conical roof restored 1962, sails added 1967 — which
+    corrects the ambiguous single sentence in the site fiche.
+
+- id: pc-rpcq-92796
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Maison Hyacinthe-Jamme-Dit-Carrière », id
+    92796. Source of the statement of value: Ministère de la Culture et des Communications du Québec,
+    2004. https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=92796
+    — retrieved 17 August 2026; sha-256
+    5d98a41a91947f21f136c40bbaf3a2f9dd7b55f25555e029eb75dbc7215e1077.
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=92796
+  used_for: >-
+    The classement of 1964-08-12 and its reach over the building inside and out and over the land; the
+    construction between 1769 and 1791 on a censive conceded in 1722 along the côte Saint-Jean; and
+    the five-column evidence Pointe-Claire contributes to the shared West Island record for the maison
+    de pierre du Régime français — the low fieldstone body, the one-and-a-half storeys, the steep
+    two-slope roof, the two chimneys in the gable walls, the asymmetrical openings and small-paned
+    casements, the south-facing façade with a north wall pierced by only two windows, the almost square
+    plan, the absence of roughcast, the raised basement of 1828 and the bell-cast eaves and covered
+    front gallery that the fiche reads as neoclassical influence on a traditional house.
+
+- id: pc-reglement-2787-piia
+  citation: >-
+    Ville de Pointe-Claire, Règlement PC-2787 sur les plans d'implantation et d'intégration
+    architecturale, codification administrative of 10 December 2024, 81 pp., incorporating amendments
+    PC-2787-1 (22 May 2013), PC-2787-3 (28 January 2015), PC-2787-6 (17 December 2015) and PC-2787-7
+    (9 March 2016). https://www.pointe-claire.ca/assets/images/Documents/pc-2787_piia_codif_2024-12-10.pdf
+    — retrieved 17 August 2026; sha-256
+    bdd41a7074820dbf4241a8fcf0491ea2558f3f10e2ab3ee18670a585e4397935.
+  url: https://www.pointe-claire.ca/assets/images/Documents/pc-2787_piia_codif_2024-12-10.pdf
+  used_for: >-
+    The instrument row; the chapter 13 list of buildings of heritage interest by civic address, which
+    is the source of every named house on this page (maison Tunnoch, maison Legault, maison
+    Napoléon-Charbonneau, maison Baucet, maison Henri-E.-Vautelet, maison Mgr-Mitchell, maison
+    Antoine-Pilon, maison Charlebois, maison Docteur Park, maison Arthur Harris, maison Deslauriers,
+    maison Antoine-Felsque, maison Gédéon-Legault, maison Pierre-Demers, maison Brunet, maison
+    Bourgie, maison Arsène-Charlebois, and the two former hotels); the chapter 13.2 designation of the
+    chemin du Bord-du-Lac as a voie panoramique; and the chapter 13.3 archaeological requirement. The
+    list gives addresses and names only — no dates, no architects, no descriptions — and nothing beyond
+    the names and addresses is taken from it.
+
+- id: pc-commons
+  citation: >-
+    Wikimedia Commons. Licence, author, description and file URL were read individually through the
+    Commons API (action=query&prop=imageinfo&iiprop=url|extmetadata) on 17 August 2026 before any
+    download, and every downloaded file was opened and looked at before publication. All the
+    Pointe-Claire photographs are Commons re-uploads from the Flickr account « Parcours riverain -
+    Ville de Montréal », CC BY 2.0, except the maison Hyacinthe-Jamme-dit-Carrière, which is from
+    Wikipedia Takes Montreal 2011, CC BY-SA 3.0. The Parcours riverain photographs are not all by one
+    person: each file's description names either Anne-Marie Dufour or Denis Tremblay, and each is
+    credited to the one it names.
+  url: https://commons.wikimedia.org/wiki/Category:Pointe-Claire
+  used_for: >-
+    The hero photograph and the photographs on the type cards, and the files staged in
+    assets/places/pointe-claire/ for the shared West Island type records: noyau-villageois-commons.jpg,
+    chemin-du-bord-du-lac-commons.jpg, avenue-demers-commons.jpg and
+    ancien-hotel-canada-322-324-bord-du-lac-commons.jpg for the maison de tradition québécoise;
+    secteur-avenue-du-golf-commons.jpg, secteur-bowling-green-commons.jpg and
+    secteur-cedar-park-avenue-cedar-commons.jpg for the villa anglaise de villégiature; and
+    maison-hyacinthe-jamme-dit-carriere-commons.jpg for the maison de pierre du Régime français. One
+    candidate was rejected on inspection: « Avenue Maywood, Pointe-Claire » is titled for a street
+    that carries two buildings on the PIIA heritage list, but the photograph is of modern apartment
+    blocks and shows neither.
+
+- id: pc-flickr-parcours-riverain
+  citation: >-
+    Flickr, « Parcours riverain - Ville de Montréal » (flickr.com/photos/parcoursriverain). Licence
+    checked directly against the page source on 17 August 2026: license-id 4, a link to
+    creativecommons.org/licenses/by/2.0/, title "CC BY 2.0", visible text "Some rights reserved". Free
+    for reuse with attribution. Part 11 § 1.3 attributes the set to Anne-Marie Dufour; that is only
+    partly right — the West Island photographs used here are credited in their own descriptions to
+    Anne-Marie Dufour and to Denis Tremblay, and Flickr licences are per-photo, so each was checked
+    individually.
+  url: https://www.flickr.com/photos/parcoursriverain/
+  used_for: >-
+    Licence provenance for the Commons re-uploads. No file was taken from Flickr directly.
+
+- id: pc-rpcq-not-fetched
+  citation: >-
+    RPCQ records for the individual buildings inside the cited site other than the mill — église
+    Saint-Joachim, couvent des Sœurs de la Congrégation de Notre-Dame, croix des missions, école
+    primaire Marguerite-Bourgeoys, presbytère, maison du sacristain — and for the other named houses of
+    the PIIA list.
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=196303
+  used_for: >-
+    NOT retrieved individually in this pass. The fiche for the site names nine associated immovables
+    and shows four of them; everything this page says about the church, convent, presbytery and school
+    comes from the site fiche 196303 and from by-law PC-2808, both of which describe them, and not from
+    their own records. Recorded so a later pass can verify.

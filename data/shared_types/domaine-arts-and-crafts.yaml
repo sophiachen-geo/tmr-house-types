@@ -1,0 +1,206 @@
+places:
+- senneville
+phase: p3
+phase_confidence: verified
+display_order: 4
+name_en: Arts and Crafts country estate
+name_fr: Le domaine Arts and Crafts
+source_ref: Parcs Canada, Répertoire des désignations patrimoniales fédérales, arrondissement historique
+  de Senneville, id 1973 (énoncé d'intérêt patrimonial et éléments caractéristiques); Ville de Montréal,
+  Évaluation du patrimoine urbain — arrondissement de Pierrefonds-Senneville (2005), secteur 2.E.4 Grandes
+  propriétés de Senneville et liste des immeubles de valeur patrimoniale exceptionnelle
+source_generation: one federal designation record read with one sector-characterisation cahier; the two
+  agree on style, siting and ancillary buildings and disagree on two street numbers and two spellings
+source_url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1973
+canonical:
+- anglo-country-estate-house
+styles:
+- arts-and-crafts
+style_label: Arts and Crafts
+tenure_plan: single-family
+storeys: 2–2.5
+roof:
+  form: gabled-multi
+  pitch_deg: null
+roofing: cedar shingle
+window_proportion: null
+principal_cladding:
+- cut-stone
+- fieldstone
+- wood-shingle
+- stucco
+- clay-brick
+garage: detached
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+sectors: null
+profile:
+  siting_landscape:
+  - The estate, not the house, is the unit. Parks Canada counts "more than 1400 acres" and "at least 82
+    buildings constructed between 1860 and 1930 as part of about a dozen country estates", strung along
+    one country road that runs parallel to the lac des Deux-Montagnes.
+  - Houses sit far back inside large wooded grounds, most of them backing onto the lake, and the planting
+    is arranged so that the house cannot be seen from the chemin de Senneville at all.
+  - The designed landscape is part of the building. Winding paths, great gardens, woods, ponds, orchards,
+    stone walls, gateways and a gatekeeper's house, either set back from the chemin or visible from it.
+  - Four pieces of former estate land are now public and form a greenbelt — the Morgan Arboretum, the
+    Braeside golf course of about 1898, the Anse-à-l'Orme nature park and the Bois-de-la-Roche agricultural
+    park.
+  massing:
+  - Rambling rather than composed. Clean volumes and large roofs assembled with more or less complexity,
+    two to two and a half storeys, gables and dormers pushed forward off the main slope.
+  - Ancillary buildings in the same manner and generally in the same style — staff house, chapel, farm
+    buildings, pool house, stable, garage, tea house, cold room, observation tower.
+  articulation:
+  - Deep sun porches and glazed loggias, ranges of casements set flush in the wall plane, massive stone
+    chimney stacks carried well above the ridge.
+  openings:
+  - Long horizontal bands of small-paned casements; no source gives a proportion.
+  materials:
+  - Cut stone or rubble, brick, wood, stucco, and cedar shingle on the roofs — the Senneville fiche's
+    own list, in that order.
+profile_fr:
+  description:
+  - « De l'autoroute Transcanadienne à la limite de l'ancienne municipalité de Senneville, entre le lac
+    des Deux-Montagnes et l'Arboretum Morgan, on trouve une grande concentration de résidences du début
+    du XIXe siècle qui, avec la végétation, les éléments de paysage et le tracé du chemin de Senneville
+    en font un secteur pittoresque de qualité exceptionnelle non seulement à Montréal, mais au Canada.
+    »
+  - « Les Forget, Angus, Morgan et Abbot, pour ne mentionner que ceux-là, ont confié la conception de
+    leurs résidences à des architectes et des architectes paysagistes de prestige (Maxwell, Findlay, Hyde,
+    Nobbs, Olmsted, Todd, Rose). Le bâti y est pour la plupart implanté du côté du lac et éloigné du chemin.
+    »
+  - « Souvent de style Arts and Crafts ou Shingle Style, les résidences agencent des volumes nets et des
+    toitures importantes de façon plus ou moins complexe avec leurs revêtements de pierre taillée ou de
+    moellons, brique, bois, stuc et toitures en bardeaux de cèdre. »
+  - « Les grandes propriétés comportent généralement des bâtiments ancillaires (résidence du personnel,
+    chapelle, bâtiments de ferme, pool house, écurie, garage, maison de thé, chambre froide, tour d'observation,
+    etc.), généralement du même style, implantés dans des aménagements raffinés – sentiers sinueux, grands
+    jardins, boisés, étangs, vergers, murets de pierre, portails, maison de gardien – en retrait ou visibles
+    du chemin de Senneville. »
+  - « Bien que la plupart des édifices les plus imposants ont été construits en fonction d'une utilisation
+    saisonnière, le secteur comprend aussi des résidences de l'après-guerre et des demeures contemporaines
+    qui lui donnent un caractère suburbain mais qui poursuivent la tradition d'intégration du bâti au
+    paysage. »
+conservation:
+- The designation is federal and commemorative. It records the district and its constructed and natural
+  features as they stood at the time of designation; it is not a control on private alteration, and Senneville
+  has no provincial site patrimonial and no ensemble citation.
+- The 2005 cahier's warning has not aged well and is worth keeping in view - « on assiste actuellement
+  à un morcellement des lots des grandes propriétés et à la densification rapide du territoire ».
+- 'One classed provincial element sits inside the district and is not a house at all: the site of Fort
+  Senneville with the Le Ber mill, listed by the cahier at 168 chemin de Senneville as both a classed
+  archaeological site and a classed historic site.'
+profile_note: 'Unusually well evidenced for the West Island, because a federal designation record exists
+  and is detailed; but still not a per-type record, so the five columns are inferred from an estate-level
+  description rather than read off a table. Null and why: `window_proportion` and `roof.pitch_deg` — no
+  source states either; `lot_width_m`, `setback_front_m`, `setback_side_m`, `front_yard_green_pct` — the
+  sources describe deep setbacks and screened approaches in words and never in numbers, and the one measured
+  figure that exists is the district''s total area, "more than 1400 acres", which is not a lot width;
+  `sectors` — a shared record cannot carry sector codes that exist in only one of its places. `storeys`,
+  `roofing`, `garage` and `principal_cladding` come from the Senneville fiche''s own materials list and
+  its list of ancillary buildings, checked against the photograph, not from a stated figure. Two corrections
+  to Part 11''s brief, both from the primary source. First, the designation year: the brief says Parks
+  Canada''s record gives 2001 and that others say 2002, and instructs that 2001 be published. The record
+  gives both, in different fields — the metadata line reads "Designation Date: 2002-07-18" while the Heritage
+  Value narrative reads "designated a national historic site of Canada in 2001" and cites "Historic Sites
+  and Monuments Board of Canada, Minutes, 2001". The two are the Board''s recommendation and the Minister''s
+  approval, and both belong in the record; this page follows the source and reports both rather than choosing.
+  Second, "Le Sabot", which the brief lists among the named estates, appears in no retrieved source; David
+  Shennan is listed by Parks Canada as one of the district''s architects, but no house of that name is
+  named by Parks Canada or by the cahier, so it is not carried here. The brief''s other named estates
+  all check out, with two address discrepancies noted in `related_buildings`.'
+example_addresses:
+- address: 180, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: House and former stable of the J.L. Todd estate, 1911–13, by Percy Erskine Nobbs and George Taylor
+    Hyde, with landscaped grounds and a tea house. Parks Canada spells the owner John Lancelot Todd; the
+    Ville de Montréal cahier spells him John-Launcelot-Todd.
+- address: 140, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Dow house, 1885 — the earliest of the eight houses Parks Canada names as character-defining.
+- address: 149–65, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: J.B. Abbott house, "Hillcote", 1900 and 1920. The Ville de Montréal cahier lists the same house
+    at 163 chemin de Senneville as « Maison John-Bethune-Abbott-Hillcote ».
+- address: 200, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: D.F. Angus house, "Chatblanc", 1926.
+- address: 216–19, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Five ancillary buildings on the R.B. Angus estate, 1895–1903 — Peach House, a small country house,
+    the caretaker's house, a greenhouse and a barn. The cahier calls the estate Pine Bluff; Parks Canada
+    does not use that name.
+- address: 202, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Charles Meredith house, "Bally Bawn", Neo-Gothic, dated by Parks Canada 1750, 1864, 1897, 1902
+    and 1909, and attributed to the Maxwells.
+- address: 240, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Harry Abbott house, "Birchfield", Neo-Tudor, 1892, 1899 and 1910, attributed to the Maxwells.
+- address: 292, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Senator Louis-Joseph Forget house, "Bois-de-la-Roche", Château-style, with its chapel, cowshed
+    and other ancillary buildings of 1901–02, attributed to the Maxwells. Parks Canada gives 292; the
+    Ville de Montréal cahier gives 290 for « Maison Louis-Joseph-Forget ou Bois-de-la-Roche ». Both numbers
+    appear in official documents for the same estate.
+- address: 168–70, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Abbott/Clouston house, "Bois-Briant", Neo-Gothic, 1860–5 and 1899–1902, with a caretaker's house
+    of 1900, an ice house and a dairy of 1899; grounds by Frederick G. Todd working with Frederick Law
+    Olmsted, with a pergola and the ruins of a seventeenth-century mill and an eighteenth-century fort.
+- address: 264, chemin de Senneville, Senneville
+  municipality: Senneville
+  note: Frederick Cleveland Morgan house, "Le Bousquet", 1912.
+related_buildings:
+- name: Senneville Historic District National Historic Site of Canada (Parks Canada id 1973) — designation
+    date 2002-07-18 in the record's metadata, HSMBC minutes of 2001 in its narrative
+  url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1973
+- name: 'Edward Maxwell (1867–1923) and William Sutherland Maxwell (1874–1952) — Parks Canada: "The 20
+    Maxwell buildings that survive constitute a unique example in a single location of their work"'
+  url: null
+- name: Percy Erskine Nobbs (1875–1964) with George Taylor Hyde (1879–1944) — the J.L. Todd estate, its
+    buildings and its grounds
+  url: null
+- name: Frederick G. Todd (1876–1948), working with the American landscape designer Frederick Law Olmsted
+    — the Abbott/Clouston grounds; Olmsted also designed the Forget grounds
+  url: null
+- name: George Cutler Shattuck, Robert Findlay, Frank R. Findlay, James and H. Charles Nelson, Kenneth
+    Rea, Harold E. Shorey, S. Douglas Ritchie, J.R. Hind and David Shennan — the rest of the group Parks
+    Canada names
+  url: null
+photos:
+- file: assets/shared_types/maison-jl-todd-senneville.jpg
+  kind: single
+  credit: « Maison John-Launcelot-Todd, 180, chemin de Senneville (Senneville) », photo Anne-Marie Dufour,
+    2010-12-10, Flickr stream *Parcours riverain — Ville de Montréal*; Wikimedia Commons, CC BY 2.0, Flickr
+    licence review passed, reviewer FlickreviewR 2, 2024-04-30 (verified through the Commons API and the
+    file's wikitext).
+  licence: CC BY 2.0
+  source_url: https://commons.wikimedia.org/wiki/File:Maison_John-Launcelot-Todd,_180,_chemin_de_Senneville_(Senneville)_(8532649730).jpg
+  match_confidence: address
+  note: Inspected before use. The Nobbs and Hyde house of 1911–13, and the best single image of what the
+    designation describes — a long rambling front of coursed rubble under shingled upper walls and roofs,
+    gables and dormers pushed out of the main slope, glazed loggias at each end, three heavy stone stacks,
+    and open lawn running down toward the lake with no fence and no street in sight.
+  shows_place: senneville
+blurb_en: A dozen country estates on one road, more than 1,400 acres, and at least 82 buildings put up
+  between 1860 and 1930 — houses of stone and shingle set far back in wooded grounds, each with its own
+  stable, chapel, farm buildings, tea house and gatekeeper's lodge in the same manner, and grounds designed
+  to keep the house out of sight from the chemin. The Maxwells built dozens of them; twenty survive.
+origin_en: 'Sir John Joseph Caldwell Abbott, mayor of Montréal and later prime minister, bought a Gothic
+  revival house at Senneville for a second residence, and the rest of financial Montréal followed him
+  — Forget, Angus, Clouston, Morgan, Todd, founders and presidents of the Bank of Montreal and the Canadian
+  Pacific among them. Between 1865 and 1930 they turned the old Senneville farms into estates and hired
+  one small circle of architects and landscape architects to do it: Edward and William Sutherland Maxwell,
+  often with George Cutler Shattuck; Percy Erskine Nobbs with George Taylor Hyde; Robert Findlay; and,
+  for the grounds, Frederick G. Todd working with the American Frederick Law Olmsted. Because so few people
+  commissioned so few designers over so short a period, the result has, in Parks Canada''s words, "a strong
+  formal and stylistic coherence" — which is exactly what makes it legible as a type rather than a collection.
+  The 2005 Ville de Montréal cahier, which is not given to superlatives, calls the road one of the most
+  picturesque in Montréal and the sector exceptional « non seulement à Montréal, mais au Canada ». Set
+  that against the Mille carré doré in Part 11''s other half, which has no ensemble protection at all:
+  a country road of eighty-two seasonal houses is a National Historic Site, and the richest domestic architecture
+  on the island is not. That asymmetry is the argument of this part, and Senneville is one end of it.'

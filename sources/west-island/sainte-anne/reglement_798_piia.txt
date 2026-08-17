@@ -1,0 +1,2899 @@
+                                              VILLE DE SAINTE-ANNE-DE-BELLEVUE
+
+                                                               PROVINCE DE QUÉBEC
+
+
+
+
+                                           RÈGLEMENT NUMÉRO 798
+
+                                           RÈGLEMENT RELATIF AUX PLANS
+                                           D’IMPLANTATION ET D’INTÉGRATION
+                                           ARCHITECTURALE (PIIA)
+
+                                           CODIFICATION ADMINISTRATIVE
+
+
+ATTENDU QUE          le conseil municipal peut adopter, en vertu des articles 145.15 et
+                     suivants de la Loi sur l’aménagement et l’urbanisme (chapitre A-
+                     19.1), un règlement relatif aux plans d’implantation et d’intégration
+                     architecturale (PIIA) ;
+
+ATTENDU QUE          la Ville dispose déjà des règlements no. 651, 697, 698 et 699 sur
+                     les PIIA visant les zones du centre-ville, la zone H-61, la zone I-
+                     137 et la zone H-141;
+
+ATTENDU QUE          la Ville doit adopter tout règlement de concordance afin d’assurer
+                     la conformité de sa réglementation d’urbanisme au schéma
+                     d’aménagement et de développement de l’Agglomération de
+                     Montréal;
+
+ATTENDU QUE          la Ville doit adopter tout règlement de concordance afin d’assurer
+                     la conformité de sa règlementation d’urbanisme au programme
+                     particulier d’urbanisme (PPU secteur nord);
+
+ATTENDU QUE          la Ville, par le présent règlement, souhaite regrouper les objectifs
+                     et critères d’évaluation dans un seul règlement et d’y ajouter les
+                     dispositions découlant de la concordance au schéma
+                     d’aménagement et au PPU du secteur nord;
+
+ATTENDU QUE          la Ville est dotée d’un comité consultatif d’urbanisme,
+                     conformément à la Loi sur l’aménagement et l’urbanisme;
+
+ATTENDU QU’          un avis de motion a été donné par le maire, lors de la séance
+                     extraordinaire du 1er mai 2017, conformément à l’article 356 de la
+                     Loi sur les cités et villes (L.R.Q., c. C-19);
+
+ATTENDU QU’          une assemblée publique de consultation a été tenue le 25 mai
+                     2017, au cours de laquelle les personnes et organismes ont eu
+                     l’occasion de s’exprimer conformément à la loi;
+
+ATTENDU QUE          des modifications ont été apportées au présent règlement suivant
+                     l’avis préliminaire de conformité de l’Agglomération de Montréal;
+
+ATTENDU QUE          les membres du conseil municipal déclarent avoir lu le règlement
+                     et renoncent à sa lecture;
+
+EN CONSÉQUENCE :
+
+Il est proposé par Paola Hawa
+Appuyé par Michel Boudreault
+
+D’adopter le règlement numéro 798. Ce dernier statue et ordonne :
+                                       Codification administrative | Règlement numéro 798
+
+
+
+   Chapitre I DISPOSITIONS DÉCLARATOIRES ET INTERPRÉTATIVES
+
+Article 1         Titre
+
+                  Le présent règlement s’intitule « Règlement relatif aux plans
+                  d’implantation et d’intégration architecturale » et porte le numéro 798.
+
+Article 2         Abrogation
+
+                  Le présent règlement abroge et remplace les règlements suivants :
+
+                  1. Règlement sur les plans d’implantation et d’intégration
+                     architecturale pour le centre-ville de Sainte-Anne-de-Bellevue
+                     (règlement numéro 651);
+                  2. Règlement sur les plans d’implantation et d’intégration
+                     architecturale dans la zone I-137 (règlement numéro 697);
+                  3. Règlement sur les plans d’implantation et d’intégration
+                     architecturale dans la zone H-61 (règlement numéro 698);
+                  4. Règlement sur les plans d’implantation et d’intégration
+                     architecturale dans la zone H-141 (règlement numéro 699).
+
+Article 3         Adoption par parties
+
+                  Le Conseil déclare par la présente qu'il adopte ce règlement partie par
+                  partie, de façon à ce que si une partie de ce règlement venait à être
+                  déclarée nulle et sans effet par un tribunal, une telle décision n'aurait
+                  aucun effet sur les autres parties du règlement.
+
+Article 4         Personnes, territoire et interventions assujettis
+
+                  Les dispositions du présent règlement s'imposent aux personnes
+                  physiques comme aux personnes morales de droit public ou de droit
+                  privé.
+
+                  Le territoire d’application et les interventions assujetties sont
+                  déterminés aux chapitres subséquents.
+
+Article 5         Terminologie
+
+                  Dans le présent règlement, à moins que le contexte n’indique un sens
+                  différent, on entend par les mots :
+
+                  « Arbre mature » :            tout arbre dont le tronc mesure plus de 10
+                                                centimètres (3,9 pouces) de diamètre à
+                                                une hauteur de 1,3 mètre (4 pieds 2
+                                                pouces) du sol (diamètre à hauteur de
+                                                poitrine [DHP]) ou au moins 15
+                                                centimètres (5,9 pouces) de diamètre à
+                                                un maximum de 15 centimètres (5,9
+                                                pouces) du sol (diamètre à hauteur de
+                                                souche [DHS]).
+
+                                                798-1, 2018-03-14
+
+                  « Comité » :                  le comité consultatif d’urbanisme de la
+                                                Ville de Sainte-Anne-de-Bellevue.
+
+                  « Conseil » :                 le conseil municipal de la Ville de Sainte-
+                                                Anne-de-Bellevue.
+
+                  « Demandeur » :               toute personne physique ou morale qui
+                                                dépose une demande d’approbation des
+                                                plans.
+
+                  « Figure » :                  aspect essentiel de la forme d’une chose
+                                                qui suffit à la faire reconnaître.
+
+
+
+V.07_2025-12-04                                                                          2
+                                       Codification administrative | Règlement numéro 798
+
+
+                  « Traitement architectural
+                  d’un bâtiment » :             la combinaison, sur un bâtiment, de ses
+                                                matériaux et couleurs, de sa forme, de
+                                                ses proportions, de l'emplacement de ses
+                                                ouvertures, de ses projections et retraits,
+                                                de ses détails architecturaux et éléments
+                                                décoratifs tels les garde-corps, les
+                                                corniches et les ornements
+
+                  « Ville » :                   la Ville de Sainte-Anne-de-Bellevue.
+
+                  Les définitions prévues à l’annexe 1 du Règlement de zonage numéro
+                  533 s’appliquent intégralement au présent règlement.
+
+Article 6         Autorité compétente
+
+                  L’autorité compétente est constituée des représentants du service
+                  d’urbanisme ainsi que de toute personne dont les services sont
+                  retenus en vertu d’un contrat et désignée comme telle par le Conseil.
+
+Article 7         Pouvoir de l’autorité compétente
+
+                  Pour l’application du présent règlement, l’autorité compétente possède
+                  les mêmes pouvoirs que ceux mentionnés au Règlement numéro 536
+                  sur les permis et certificats.
+
+Article 8         Obligations et responsabilités du demandeur
+
+                  Le fait de se conformer au présent règlement ne soustrait pas à
+                  l’obligation de se conformer à toute autre loi ou règlement du
+                  gouvernement provincial ou fédéral ainsi qu’à tout autre règlement
+                  municipal applicable en l’espèce.
+
+                  798-1, 2018-03-14;
+
+
+   Chapitre II    DISPOSITIONS ADMINISTRATIVES ET CHEMINEMENT D’UNE
+                  DEMANDE
+
+Article 9         Demande d’approbation
+
+                  Toute personne qui désire obtenir l’approbation des plans au regard
+                  des objectifs et critères du présent règlement doit soumettre à l’autorité
+                  compétente une demande formelle par écrit, incluant les documents
+                  requis au présent règlement, en plus de la demande de permis ou de
+                  certificat requis conformément au Règlement numéro 536 sur les
+                  permis et certificats.
+
+Article 10        Documents requis
+
+                  Le demandeur doit déposer auprès de l’autorité compétente les
+                  documents suivants avec sa demande :
+
+                  1. Des photos de l’immeuble et du terrain visé par la demande;
+
+                  2. Des plans architecturaux préliminaires du bâtiment projeté sur le
+                     terrain montrant les dimensions de la construction (largeur,
+                     profondeur et hauteur), la forme du toit, les matériaux de
+                     revêtement du toit et des murs et la position approximative du
+                     bâtiment sur le terrain ;
+
+                  3. Dans le cas d’une démolition ou d’un déplacement :
+                     a) une démonstration bien documentée que le bâtiment doit être
+                        démoli, prouvant entre autres choses que la construction a
+                        atteint un état de détérioration tel qu’elle ne peut être rénovée ;
+                     b) des photographies du site actuel et projeté doivent
+                        accompagner la démonstration ;
+
+                  4.   Dans le cas d’une modification de la configuration d’un terrain :
+
+
+V.07_2025-12-04                                                                            3
+                                        Codification administrative | Règlement numéro 798
+
+
+
+                       a) un relevé montrant une photographie existante du terrain, avec
+                          des courbes de niveau à tous les 200 cm ou moins ;
+
+                       b) un croquis illustrant le profil final proposé à l’aide de courbes de
+                          niveau à tous les 50 cm ou moins ;
+
+                       c) un relevé détaillé de tous les arbres matures sur le terrain,
+                          montrant l'essence et le diamètre (la hauteur dans le cas des
+                          conifères) de chacun, indiquant ceux qui seront conservés,
+                          ceux qui devront être abattus, ainsi que la localisation et
+                          l’essence des arbres de remplacement le cas échéant;
+
+                       d) des photographies du terrain montrant              lisiblement   sa
+                          configuration actuelle et les arbres existants ;
+                  798-1, 2018-03-14;
+
+                  5.   Dans le cas d’un nouveau bâtiment principal ou accessoire, ou
+                       l’agrandissement ou la modification d’un bâtiment existant ou son
+                       apparence extérieure :
+
+                       a) des échantillons montrant la couleur et la texture exactes des
+                          matériaux de revêtement devant être utilisés sur le bâtiment;
+
+                       b) dans le cas d’une construction ou d’un agrandissement
+                          modifiant la configuration d’un terrain, un relevé détaillé de tous
+                          les arbres matures sur le terrain, montrant l'essence et le
+                          diamètre (la hauteur dans le cas des conifères) de chacun,
+                          indiquant ceux qui seront conservés, ceux qui devront être
+                          abattus, ainsi que la localisation et l’essence des arbres de
+                          remplacement le cas échéant;
+
+                       c) dans le cas d’un agrandissement ou d’une modification
+                          affectant l’apparence extérieure, des photographies.
+                  798-1, 2018-03-14 ;
+
+                  5.1 L’étude de caractérisation environnementale d’un milieu humide
+                      lorsqu’un projet empiète dans l’aire de protection d’un milieu
+                      humide. Les exigences de cette étude sont identifiées à l’annexe H
+                      du Règlement de zonage 874;
+
+                       La délimitation d’un milieu humide d’intérêt à protéger ou à
+                       restaurer et d’une aire de protection résultant d’une étude de
+                       caractérisation prévaut sur celle d’un milieu humide à protéger ou
+                       à restaurer et d’une aire de protection identifié à l’annexe D du
+                       Règlement du zonage 874.
+
+                  798-7, 2025-12-04;
+
+                  6. Les détails relatifs à l’enseigne (matériau, couleur, éclairage,
+                     dimensions, etc.) ;
+
+                  7. Le détail des propositions d’aménagement des espaces extérieurs,
+                     de mise en valeur et de protection des plantations et espaces verts
+                     existants et projetés;
+
+                  8. Le détail des propositions d’aménagement des espaces et des
+                     cases de stationnement et d’accès véhiculaires;
+
+                  9. Toute autre information permettant de bien comprendre la nature
+                     des travaux visés et de leur évaluation en fonction des objectifs et
+                     des critères d’évaluation.
+
+                  10. Le paiement des frais prévus au Règlement relatif aux tarifs en
+                      vigueur.
+
+Article 11        Cheminement de la demande
+
+
+
+V.07_2025-12-04                                                                             4
+                                     Codification administrative | Règlement numéro 798
+
+
+                  Tous les documents requis doivent être acheminés à l’autorité
+                  compétente du service d’urbanisme. Après une évaluation de la
+                  conformité aux règlements d’urbanisme, l’autorité compétente transmet
+                  la demande au Comité pour évaluation.
+
+Article 12        Évaluation du Comité
+
+                  Le Comité est chargé d’évaluer la demande en fonction des objectifs et
+                  des critères d’évaluation établis dans le présent règlement. S’il le juge
+                  à propos, le Comité peut exiger la présence du demandeur lors de la
+                  tenue de la rencontre et la visite des lieux.
+
+                  Suite à l’analyse de la demande, le Comité doit transmettre par écrit
+                  son évaluation au Conseil. Cette évaluation doit comprendre une
+                  recommandation à l’effet d’approuver ou de refuser la demande
+                  d’approbation des plans.
+
+                  Dans le cas où le Comité recommande d’approuver la demande, il peut
+                  suggérer des conditions prévues à l’article 145.20 de la Loi sur
+                  l’aménagement et l’urbanisme ou encore suggérer des modifications
+                  visant à rendre la demande acceptable au regard des objectifs et des
+                  critères établis par le présent règlement.
+
+Article 13        Décision du Conseil
+
+                  À la suite de l’examen de la demande par le Comité, le Conseil doit par
+                  résolution approuver ou désapprouver la demande d’approbation des
+                  plans qui lui est présentée.
+
+                  La résolution par laquelle le Conseil approuve la demande peut prévoir
+                  toute condition prévue à l’article 145.20 de la Loi sur l’aménagement et
+                  l’urbanisme, soit :
+
+                  1. Que le propriétaire prenne à sa charge le coût de certains
+                     éléments des plans, notamment celui des infrastructures et des
+                     équipements ;
+                  2. Qu’il réalise son projet dans un délai fixé ;
+                  3. Qu’il fournisse des garanties financières.
+
+                  La résolution désapprouvant les plans doit être motivée. La résolution
+                  doit indiquer les motifs du refus.
+
+Article 14        Délivrance d’un permis ou d’un certificat d’autorisation
+
+                  Sur présentation d'une copie certifiée conforme de la résolution par
+                  laquelle le Conseil approuve la demande, l’autorité compétente, délivre
+                  le permis ou le certificat si les conditions énumérées dans la résolution
+                  sont remplies.
+
+Article 15        Demande d’avis préliminaire
+
+                  Dans les cas de construction d'un nouveau bâtiment ou
+                  d'agrandissement ou de reconversion d'un bâtiment existant, il est
+                  loisible au demandeur, après paiement des honoraires exigibles en
+                  vertu de l'article 17, de soumettre des esquisses préliminaires de son
+                  projet pour obtenir un avis préliminaire et des recommandations du
+                  Comité pour la poursuite de la préparation des documents détaillés
+                  requis en vertu de l'article 10. Cette démarche préliminaire n'affecte
+                  cependant pas la procédure non plus que les délais établis ci-dessous.
+
+                  Les esquisses soumises à l'appui de la demande d'avis préliminaire
+                  doivent être dessinées à l'échelle et comprendre des plans et des
+                  élévations avec des indications précises quant aux matériaux de
+                  revêtement qu'on projette d'utiliser.
+
+Article 16        Modification des plans et caducité
+
+
+
+
+V.07_2025-12-04                                                                          5
+                                     Codification administrative | Règlement numéro 798
+
+
+                  Après que les plans aient été approuvés par le Conseil, toute
+                  modification doit être approuvée par le Conseil suivant la procédure
+                  prévue au présent règlement.
+
+                  Advenant le cas où le permis ou le certificat pour lequel l'approbation
+                  préalable des plans était requise deviendrait nul et non avenu en vertu
+                  des dispositions du Règlement sur les permis et certificats, le plan
+                  d'implantation et d'intégration architecturale sera lui aussi considéré
+                  comme nul et non avenu.
+
+
+
+
+V.07_2025-12-04                                                                        6
+                                     Codification administrative | Règlement numéro 798
+
+
+
+Article 17        Frais exigibles
+
+                  Les frais applicables à l’étude et au traitement d’une demande
+                  d’approbation des PIIA sont établis par le Règlement relatif aux tarifs
+                  en vigueur.
+
+                  Dans tous les cas, ces frais sont non remboursables. Ces frais ne
+                  couvrent pas les frais exigés pour la délivrance d’un permis ou d’un
+                  certificat.
+
+
+
+   Chapitre III  OBJECTIFS GÉNÉRAUX APPLICABLES À L’ENSEMBLE DU
+      TERRITOIRE
+
+Article 18        Objectifs généraux
+
+                  Lorsqu’une intervention est assujettie au présent règlement, le projet
+                  doit répondre aux objectifs généraux suivants en plus des objectifs et
+                  critères spécifiques énoncés aux chapitres subséquents :
+
+                  1. Le projet propose un verdissement du terrain, dans toutes les
+                     cours, incluant des plantations de végétaux;
+
+                  2. Dans le cas d’une intervention sur un terrain ou une partie du
+                     terrain visé par un îlot de chaleur (plan 6 du Règlement de
+                     zonage), le projet inclut des mesures de réduction de
+                     l’imperméabilisation des sols et des effets de chaleur causés par
+                     toits et les surfaces minéralisées (verdissement, utilisation de
+                     toiture verte, claire ou pâle, matériaux perméables pour les
+                     stationnements, etc.);
+
+                  3. Le projet inclut un nombre de cases de stationnement pour vélos
+                     en nombre suffisant selon le contexte et la vocation de l’immeuble
+                     dans le but de favoriser la mobilité active;
+
+                  4. Le projet propose des aspects techniques et fonctionnels favorisant
+                     l’accessibilité universelle, selon le contexte et la vocation de
+                     l’immeuble (à titre d’exemples, par la réduction de la hauteur du
+                     rez-de-chaussée, aménagement de sentiers sécuritaires et éclairés
+                     sur le site, aménagement de cases de stationnement réservées
+                     aux personnes à mobilité réduite, etc.). Cette exigence s’applique à
+                     tous usages, à l’exception de l’usage « habitation unifamiliale »;
+
+                  5. Afin d’assurer la cohabitation avec les municipalités voisines, le
+                     projet de construction ou d’agrandissement d’un bâtiment sur un
+                     terrain faisant face ou adjacent à une autre municipalité doit être
+                     compatible avec les bâtiments ou les dispositions en vigueur dans
+                     l’autre municipalité quant à la hauteur, à l’alignement, au mode
+                     d’implantation, à l’aménagement de la cour avant, à la localisation
+                     des accès, aux aires de stationnement, aux parements et aux
+                     enseignes. De plus, le projet de construction ou d’agrandissement
+                     d’un bâtiment sur un terrain adjacent à une limite municipale doit
+                     tendre à avoir le même impact sur l’ensoleillement qu’un projet qui
+                     serait construit à une hauteur de la moitié supérieure à la hauteur
+                     permise sur le terrain situé dans l’autre municipalité, si, sur ce
+                     terrain, seuls des usages résidentiels sont autorisés.
+
+
+
+   Chapitre IV   OBJECTIFS ET CRITÈRES APPLICABLES AU PATRIMOINE
+      BÂTI ET ARCHÉOLOGIQUE
+
+Article 19        Territoire et interventions assujetties
+
+                  Les dispositions du présent chapitre s’appliquent :
+
+
+V.07_2025-12-04                                                                        7
+                                       Codification administrative | Règlement numéro 798
+
+
+                  1. Aux terrains situés à l’intérieur des grandes propriétés à caractère
+                     institutionnel, des secteurs de valeur exceptionnelle, des secteurs
+                     de valeur intéressante ou de l’ensemble urbain d’intérêt tels
+                     qu’illustrés au plan 4 de l’annexe B du règlement de zonage, pour
+                     les interventions suivantes :
+
+                     a)    Un permis de lotissement pour le remembrement cadastral d’un
+                           terrain;
+                     b)    Un permis de lotissement pour l’identification cadastrale d’un
+                           terrain en vue de l’obtention d’un permis de construction;
+                     c)    Un permis ou un certificat pour la démolition d’un bâtiment
+                           principal;
+                     d)    Un permis de construction d’un nouveau bâtiment principal, ou
+                           pour l’agrandissement, en surface ou en volume, d’un bâtiment
+                           principal existant;
+                     e)    Un permis de construction d’un nouveau bâtiment accessoire
+                           de plus de 10 m², ou pour l’agrandissement, en surface ou en
+                           volume, d’un bâtiment accessoire existant de plus de 10 m²,
+                           visible de la voie publique ou d’un espace public;
+                     f)    Un permis pour une intervention entraînant une modification de
+                           l’aspect extérieur d’un bâtiment principal ou accessoire existant,
+                           visible de la voie publique ou d’un espace public;
+                     g)    Un permis ou un certificat pour un changement d’usage;
+                     h)    Un certificat d’autorisation pour une enseigne dont la superficie
+                           excède 1,0 m² ou d’une enseigne communautaire.
+
+                  2. Aux lieux de culte d’intérêt que sont l’Union Church (24, avenue
+                     Maple), l’Église Sainte-Anne-de-Bellevue (1, rue De l’Église) et
+                     l’Église St.George (23, rue Perrault), pour les interventions
+                     suivantes :
+
+                     a)    Un permis de lotissement pour l’identification cadastrale d’un
+                           terrain en vue de l’obtention d’un permis de construction;
+                     b)    Un permis de lotissement pour le remembrement cadastral d’un
+                           terrain;
+                     c)    Un permis ou un certificat pour la démolition d’un bâtiment
+                           principal;
+                     d)    Un permis de construction d’un nouveau bâtiment principal ou
+                           accessoire, ou pour l’agrandissement, en surface ou en
+                           volume, d’un bâtiment existant;
+                     e)    Un permis pour une intervention entraînant une modification de
+                           l’aspect extérieur d’un bâtiment existant;
+                     f)    Un permis ou un certificat pour un changement d’usage;
+                     g)    Un certificat d’autorisation pour une enseigne.
+
+                  3. Aux interventions visant à créer une emprise publique à l’intérieur
+                     d’un secteur d’intérêt archéologique tel qu’illustré au plan 5 du
+                     Règlement de zonage, pour les interventions suivantes :
+
+                     a)    Un permis de lotissement visant à créer une emprise publique.
+
+                  798-3, 2019-02-11;
+
+
+
+
+V.07_2025-12-04                                                                            8
+                                       Codification administrative | Règlement numéro 798
+
+
+
+Article 20        Objectifs et critères
+
+Article 20.1      Objectifs et critères d’évaluation pour une intervention à
+                  l’intérieur d’une grande propriété à caractère institutionnel
+
+                  L'examen d'une demande de permis ou de certificat devant faire l'objet
+                  d'une approbation en vertu du présent chapitre doit être guidé par les
+                  objectifs suivants :
+
+                  1. S’assurer que les interventions à l’intérieur d’une grande propriété
+                     à caractère institutionnel ne compromettent pas les valeurs
+                     historiques, symboliques, de figure ou d’effet sur le milieu associé à
+                     la grande propriété.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1. Le respect des caractéristiques volumétriques et d’implantation
+                     d’un bâtiment ou d’un ensemble de bâtiments sur le site;
+                  2. Le respect des caractéristiques architecturales et de composition
+                     des façades d’un bâtiment;
+                  3. La conservation, la mise en valeur et la restauration d’éléments
+                     d’enveloppe et de décor;
+                  4. L’intégration, l’affirmation et la réversibilité des interventions
+                     contemporaines;
+                  5. La protection des perspectives et des percées visuelles sur un
+                     bâtiment ou sur un élément d’intérêt contribuant au caractère
+                     d’ensemble;
+                  6. La mise en valeur et la protection des espaces extérieurs et des
+                     caractéristiques paysagères particulières;
+                  7. Un accès public aux espaces verts et aux milieux naturels adapté à
+                     la vocation des lieux.
+                  Une étude d’un projet d’implantation d’une nouvelle occupation
+                  impliquant la modification ou la démolition d’un élément construit ou
+                  végétal d’intérêt patrimonial d’une grande propriété à caractère
+                  institutionnel doit faire la démonstration, à la suite d’une évaluation
+                  d’intérêt patrimonial, que cette modification est restreinte aux parties
+                  ayant le moins de valeur, vise une bonification du caractère
+                  d’ensemble du site et est obligatoire en raison de l’impossibilité :
+
+                  1. D’y implanter la nouvelle occupation projetée sans modification,
+                     après avoir déposé une étude exhaustive des différentes
+                     configurations possibles d’implantation de cet usage dans le
+                     bâtiment ;
+                  2. De revoir ou de redistribuer autrement le programme préliminaire
+                     du requérant afin de bien l’adapter à la grande propriété à
+                     caractère institutionnel ;
+                  3. De trouver une autre occupation de remplacement mieux adaptée.
+
+                  798-3, 2019-02-11;
+
+
+Article 20.2      Objectifs et critères d’évaluation pour une intervention à
+                  l’intérieur des secteurs de valeur exceptionnelle, des secteurs de
+                  valeur intéressante ou de l’ensemble urbain d’intérêt
+
+                  L'examen d'une demande de permis ou de certificat devant faire l'objet
+                  d'une approbation en vertu du présent chapitre doit être guidé par les
+                  objectifs et critères suivants :
+
+                  1. Objectif lié au lotissement
+
+
+
+
+V.07_2025-12-04                                                                           9
+                                      Codification administrative | Règlement numéro 798
+
+
+                    a)   Maintenir la division du parcellaire existant qui reflète le
+                         caractère traditionnel du Vieux-Sainte-Anne et, le cas échéant,
+                         privilégier un découpage cadastral cohérent avec la trame
+                         urbaine d’origine.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                    a)   L’opération cadastrale tient compte, dans la mesure du
+                         possible, du cadastre original du secteur environnant ainsi que
+                         de la trame historique du secteur dans lequel il s’inscrit (voir
+                         figure 1);
+                    b)   Une opération cadastrale, visant la création d'un nouveau
+                         terrain par la subdivision ou le regroupement de lots pour
+                         permettre la construction d'un nouveau bâtiment ou
+                         l’agrandissement d'un bâtiment existant, ne devrait être
+                         autorisée que si le terrain résultant de l’opération cadastre
+                         respecte la trame cadastrale du secteur (voir figure 1);
+                    c)   Les dimensions (largeur, profondeur, superficie) et la
+                         configuration (forme, proportion, agencement et orientation) des
+                         terrains créés sont de caractéristiques similaires à celles des
+                         terrains environnants;
+
+                  2. Objectifs liés à la démolition
+
+                    a)   Évaluer toutes les possibilités de réutilisation et de rénovation
+                         du bâtiment avant d’envisager la démolition d’un bâtiment situé
+                         dans un secteur de valeur patrimoniale;
+                    b)   Éviter la disparition de bâtiments qui reflètent un style
+                         architectural particulier du secteur;
+                    c)   Considérer à titre de recours ultime la démolition partielle ou
+                         totale d’un bâtiment situé dans un secteur de valeur
+                         patrimoniale.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                    a)   De manière prioritaire, la rénovation et le recyclage d’un
+                         bâtiment d’intérêt patrimonial sont privilégiés;
+                    b)   Lorsque des travaux de démolition sont envisagés, il doit être
+                         démontré que :
+                            i.    Le bâtiment a subi des transformations irréversibles
+                                  qui dénaturent complètement l’architecture originelle et
+                                  rendent le bâtiment sans intérêt ou ;
+                            ii.   Un bâtiment ou une partie du bâtiment à démolir est
+                                  dans un état structural précaire et irrémédiable ou
+                                  présente un danger imminent pour la santé et la
+                                  sécurité publique;
+                    c)   Le bâtiment à démolir ne fait pas partie d’un ensemble
+                         patrimonial exceptionnel ou possédant un statut d’architecture
+                         exceptionnel (voir figure 2);
+                    d)   Le projet de démolition n’engendre pas la coupe massive de
+                         végétation mature ou la perte d’une composante paysagère
+                         identitaire;
+                    e)   Toute démolition souhaitée est possible uniquement lorsqu’une
+                         proposition de remplacement, conforme à tous les critères
+                         applicables de la présente section est soumise et approuvée.
+
+                  3. Objectifs liés à l’intégration urbaine et architecturale
+
+                    a)   Préserver et mettre en valeur le caractère architectural et
+                         historique des bâtiments patrimoniaux du vieux Sainte-Anne en
+                         favorisant des interventions qui sauvegardent leurs
+                         caractéristiques architecturales et leurs traits distinctifs;
+
+V.07_2025-12-04                                                                           10
+                                      Codification administrative | Règlement numéro 798
+
+
+                    b)    S’inspirer des caractéristiques typomorphologiques du cadre
+                          bâti afin de contribuer de façon respectueuse à l’évolution du
+                          cadre bâti;
+                    c)    Favoriser la compatibilité physique et visuelle, la subordination
+                          et la distinction dans le cas d’une intervention
+                          d’agrandissement;
+                    d)    Préserver l’intégrité architecturale du bâtiment ou assurer
+                          l’intégration harmonieuse dans le respect des caractéristiques
+                          architecturales dans le cas d’une modification à l’apparence
+                          extérieure.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  Critères relatifs à l’implantation et à l’intégration urbaine
+
+                    a)    L’implantation d’un nouveau bâtiment ou d’un agrandissement
+                          participe à l’encadrement du domaine public (voir figure 3);
+                    b)    La superficie d’implantation d’une nouvelle construction
+                          s’apparente à ceux du bâtiment présent à l’origine sur le terrain
+                          et évite de dominer le site (voir figure 3);
+                    c)    Le positionnement d’une construction ou d’un agrandissement
+                          et de toute intervention extérieure sur le site d’accueil préserve
+                          au maximum les massifs végétalisés, les arbres matures ou de
+                          grandes valeurs et la topographie existante (voir figure 3);
+                    d)    Une nouvelle construction, un agrandissement ou une
+                          intervention en cour arrière prennent en considération
+                          l’ensoleillement de manière à ne pas créer d’ombrage nuisible
+                          sur les propriétés voisines. L’incorporation de retraits, la
+                          modulation des volumes et des hauteurs ou le choix des
+                          matériaux sont des éléments à considérer pour réduire les
+                          impacts d’ombrage (voir figure 3);
+                    e)    Si le site du bâtiment fait partie d’un ensemble architectural
+                          homogène de deux bâtiments ou plus partageant des
+                          caractéristiques propres à un style architectural, le projet
+                          cherche à répondre à ces différents éléments communs :
+                          implantation, gabarits, traitement de façade, ouvertures,
+                          matériaux, etc.;
+                     f)   L’agrandissement est privilégié en cour arrière ou latérale ;
+                    g)    Dans le cas d’un agrandissement, les liens physiques
+                          (assemblage) entre l’ajout et le bâtiment d’origine sont localisés
+                          de manière à préserver les caractéristiques architecturales
+                          patrimoniales (voir figure 4);
+                    h)    La partie agrandie devrait être lisible par rapport à l’existant de
+                          manière à éviter toute confusion entre le nouveau et l’ancien.
+                          L’intégration d’un recul ou d’un lien de détachement (Ex. :
+                          portion vitrée, changement de matérialité, etc.) est souhaitable
+                          (voir figure 4);
+                     i)   Les unités jumelées doivent présenter une composition
+                          architecturale homogène (volumétrie, matériaux de revêtement
+                          extérieur, type de toiture, ouvertures, etc.). Toutefois, chaque
+                          unité peut présenter des détails architecturaux, des couleurs ou
+                          des éléments distinctifs. Une harmonie architecturale
+                          d’ensemble et une symétrie globale sont recherchées (voir
+                          figure 4);
+                     j)   Le changement de vocation d’un bâtiment devrait permettre de
+                          conserver son aspect extérieur;
+                    k)    Pour les bâtiments autres que résidentiels ou mixtes, le
+                          traitement de la façade située au-dessus du rez-de-chaussée
+                          tend à exprimer sa fonction résidentielle ;
+                     l)   Pour les bâtiments autres que résidentiels ou mixtes, l’aire de
+                          stationnement est privilégiée dans les cours arrière ou latérales.
+
+
+V.07_2025-12-04                                                                           11
+                                      Codification administrative | Règlement numéro 798
+
+
+
+                  Critères relatifs à la volumétrie
+
+                    a)    Toute nouvelle construction ou tout agrandissement dans son
+                          échelle et ses proportions s’inspire des caractéristiques
+                          volumétriques du bâtiment existant et/ou des bâtiments du
+                          secteur (voir figure 5);
+                    b)    Une nouvelle construction tient compte de la hauteur des
+                          bâtiments avoisinants en favorisant des transitions graduelles
+                          ou des retraits significatifs afin de s’insérer dans le cadre bâti
+                          du secteur (voir figure 5);
+                    c)    L’agrandissement est subordonné afin que la structure originale
+                          ne soit pas envahie par l’ajout projeté. Tout agrandissement est
+                          réalisé de façon à conserver l’importance du gabarit du
+                          bâtiment principal et le mettre en évidence (voir figure 5);
+                    d)    L’intervention privilégie la conservation de la forme, la pente et
+                          les proportions du toit existant. Dans la mesure où des
+                          modifications sont nécessaires, elles tendent à respecter
+                          l'équilibre, la forme, les proportions du toit original de manière à
+                          préserver l'harmonie du bâtiment;
+                    e)    Le niveau du rez-de-chaussée ne devrait pas être plus élevé
+                          que celui des bâtiments adjacents.
+
+                  Critères relatifs à la matérialité
+
+                    a)    La conservation et l'entretien des revêtements d'origine sont
+                          favorisés. Si le revêtement d’origine doit être remplacé, on
+                          favorisera des matériaux qui s'apparentent à celui-ci par la
+                          forme, les dimensions, la texture, la couleur, les détails
+                          architecturaux et les assemblages;
+                    b)    Les matériaux utilisés pour une nouvelle construction, un
+                          agrandissement ou une rénovation/transformation sont
+                          durables et de qualité. L’utilisation de matériaux noble
+                          (maçonnerie, bois) sur la façade est favorisée (voir figure 6);
+                    c)    L’utilisation de matériaux compatibles au bâtiment existant et
+                          au milieu d’insertion en termes de couleur, de texture, de forme
+                          et d’échelle est recommandée (voir figure 6);
+                    d)    La hiérarchie des différents matériaux de parement sur une
+                          façade est respectée;
+                    e)    Les détails de jonction entre deux types de revêtement
+                          différents sont soignés et l’intégration de détails architecturaux
+                          est favorisée pour adoucir les jonctions (Ex. : bandeau
+                          horizontal) (voir figure 6);
+                     f)   Les matériaux à privilégier incluent notamment la brique d'argile
+                          rouge ou brune, le stuc de texture unie et de couleur blanche,
+                          beige, brune ou grise, le déclin ou le bardeau de bois, le
+                          fibrociment à aspect de bois ou le bois d’ingénierie avec des
+                          espacements n'excédant pas 20 cm. Les revêtements
+                          métalliques verticaux et le béton sont contre-indiqués.
+
+                  Critères relatifs aux détails architecturaux
+
+                    a)    Toute composante architecturale d’origine encore présente sur
+                          un bâtiment est préservée et maintenue en bon état. Lorsqu’il
+                          est démontré que le remplacement est inévitable, celui-ci
+                          s’inspire des formes et des caractéristiques architecturales
+                          d’origine et peut se traduire dans une interprétation
+                          contemporaine (voir figure 7);
+                    b)    Lors d’une transformation, les façades respectent les règles de
+                          composition générale du bâtiment. La symétrie, le découpage
+                          vertical et horizontal, l’alignement, les proportions des
+
+
+
+V.07_2025-12-04                                                                            12
+                                       Codification administrative | Règlement numéro 798
+
+
+                           ouvertures et la présence de saillies sont des éléments clés à
+                           considérer (voir figure 7);
+                     c)    Les dimensions et la localisation des ouvertures existantes ne
+                           sont pas agrandies, réduites ou obstruées de façon à dénaturer
+                           la composition de la façade. Lorsqu’une modification est
+                           réalisée, celle-ci s’effectue dans le respect des proportions des
+                           ouvertures existantes;
+                     d)    Pour les bâtiments autres que résidentiels ou mixtes, à moins
+                           qu'ils ne soient d'origine, les murs-vitrine, où les panneaux de
+                           verre ne sont séparés les uns des autres que par un meneau
+                           de fenêtre, devraient être évités.
+
+                  Critères relatifs au bâtiment accessoire
+
+                     a)    L’implantation d’un nouveau bâtiment accessoire est privilégiée
+                           en recul de la façade principale. De plus, une intégration par
+                           détachement (Ex. : une portion vitrée, un volume en retrait, etc.)
+                           est recommandée entre le bâtiment principal et le bâtiment
+                           accessoire lorsque ceux-ci sont liés ;
+                     b)    Les bâtiments accessoires évitent de dominer le site et les
+                           matériaux utilisés sont compatibles à ceux du bâtiment
+                           principal.
+
+                  4. Objectifs liés à l’affichage et l’éclairage
+
+                     a)    Privilégier un concept d’affichage qui s’intègre de façon
+                           sensible à l’architecture du cadre bâti et qui respecte l’échelle
+                           du secteur afin de contribuer à l’animation et au dynamisme de
+                           la rue tout en respectant les composantes résidentielles;
+                     b)    Favoriser la personnalisation du concept d’affichage ainsi que
+                           sa compatibilité avec l’architecture existante;
+                     c)    Privilégier un éclairage fonctionnel qui contribue à l’ambiance
+                           des lieux tout en évitant la pollution lumineuse.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                     a)    La localisation et la hauteur de l’enseigne respectent l’échelle
+                           de la rue;
+                     b)    Les matériaux, la forme, les dimensions, les couleurs et
+                           l’éclairage des enseignes rehaussent la qualité du bâtiment et
+                           s’intègrent de façon cohérente au concept architectural;
+                     c)    Le concept d’affichage mise sur la qualité et la durabilité des
+                           composantes telles que la structure, les matériaux, l’éclairage
+                           et l’aménagement paysager;
+                     d)    L’enseigne ne devrait pas dominer ou masquer une
+                           caractéristique architecturale de l’édifice ou encore porter
+                           atteinte à l’intégrité du bâtiment;
+                     e)    Sauf dans le cas d'une enseigne derrière une fenêtre d'un
+                           établissement situé uniquement à un étage supérieur, toute
+                           enseigne devrait être installée sous le niveau du plancher du
+                           premier étage;
+                     f)    L’éclairage des enseignes évite la création de pollution
+                           lumineuse.
+
+                  798-3, 2019-02-11;
+
+
+
+
+V.07_2025-12-04                                                                           13
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  14
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  15
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  16
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  17
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  18
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  19
+                  Codification administrative | Règlement numéro 798
+
+
+
+
+V.07_2025-12-04                                                  20
+                                       Codification administrative | Règlement numéro 798
+
+
+Article 20.3      Objectifs et critères d’évaluation pour une intervention sur un lieu
+                  de culte
+
+                  L'examen d'une demande de permis ou de certificat devant faire l'objet
+                  d'une approbation en vertu du présent chapitre doit être guidé par les
+                  objectifs suivants :
+
+                  1. Préserver les caractéristiques architecturales et paysagères d’un
+                     lieu de culte et qu’une intervention ne compromet pas les valeurs
+                     historiques, symboliques du lieu.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants
+                  conformément à l’évaluation de l’intérêt patrimonial :
+
+                  1. La conservation, la mise en valeur et la restauration des éléments
+                     architecturaux et paysagers d’intérêt ;
+                  2. La protection des perspectives et des percées visuelles sur le lieu
+                     de culte ;
+                  3. La protection et la mise en valeur des espaces extérieurs à
+                     préserver ;
+                  4. L’intégration, l’affirmation et la réversibilité des interventions
+                     contemporaines.
+
+                  Une étude d’un projet d’implantation d’une nouvelle occupation
+                  impliquant une modification ou une démolition d’une caractéristique
+                  architecturale ou végétale doit faire la démonstration que ces
+                  interventions sont restreintes aux parties ayant le moins de valeur et
+                  visent une bonification du lieu de culte et de son emplacement.
+
+                  798-3, 2019-02-11;
+
+
+Article 20.4      Objectifs et critères d’évaluation pour une intervention à
+                  l’intérieur d’un secteur d’intérêt archéologique
+
+                  L'examen d'une demande de permis ou de certificat devant faire l'objet
+                  d'une approbation en vertu du présent chapitre doit être guidé par les
+                  objectifs suivants :
+
+                  1. Protéger et mettre en valeur le patrimoine bâti et archéologique;
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1. Dans le cas d’une intervention à l’intérieur d’un secteur d’intérêt
+                     archéologique, l’intervention visant à créer une emprise publique
+                     doit permettre la mise en valeur des vestiges archéologiques qui
+                     s’y trouvent.
+
+                  798-3, 2019-02-11;
+
+
+
+
+   Chapitre V          OBJECTIFS ET CRITÈRES APPLICABLES AU PAYSAGE
+
+Article 21        Territoire et interventions assujetties
+
+                  Les dispositions du présent chapitre s’appliquent :
+
+                  1. Aux terrains situés à l’intérieur de la zone agricole, pour les
+                     interventions suivantes :
+                     a) Un permis de construction d’un nouveau bâtiment principal ou
+                         pour l’agrandissement, en surface ou en volume, d’un bâtiment
+                         existant ou d’un mur;
+
+                  2. Aux terrains riverains au lac Saint-Louis, pour les interventions
+                     suivantes :
+                     a) Un permis de construction d’un nouveau bâtiment principal ou
+                         pour l’agrandissement, en surface ou en volume, d’un bâtiment
+                         existant ou d’un mur.
+
+
+V.07_2025-12-04                                                                           21
+                                     Codification administrative | Règlement numéro 798
+
+
+
+                  3. Aux terrains adjacents au parcours riverain ou à la voie
+                     panoramique (rue Sainte-Anne), tels qu’illustrés au plan 3 du
+                     Règlement de zonage, pour les interventions suivantes :
+                     a) Un permis de lotissement pour l’identification cadastrale d’un
+                        terrain en vue de l’obtention d’un permis de construction;
+                     b) Un permis de lotissement pour le remembrement cadastral d’un
+                        terrain;
+                     c) Un permis de construction d’un nouveau bâtiment principal ou
+                        pour l’agrandissement, en surface ou en volume, d’un bâtiment
+                        existant;
+                     d) Un certificat d’autorisation pour une enseigne.
+
+Article 22        Objectifs et critères d’évaluation
+
+                  L'examen d'une demande de permis ou de certificat devant faire l'objet
+                  d'une approbation en vertu du présent chapitre doit être guidé par
+                  l’objectif suivant :
+
+                  1. Préserver et mettre en valeur le paysage riverain et agricole.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Dans le cas d’une intervention à l’intérieur de la zone agricole,
+                     celle-ci doit permettre le maintien du caractère paysager de la zone
+                     agricole et préserver le champ visuel à partir d’une voie publique
+                     vers cette zone.
+                  2. Dans le cas d’une intervention sur un terrain riverain au lac Saint-
+                     Louis, celle-ci doit permettre de maintenir ou de créer une percée
+                     visuelle à partir de la voie publique vers un plan ou un cours d’eau,
+                     tout en maintenant le caractère végétal des terrains et des berges.
+                     À cette fin, l’implantation et la hauteur d’un projet de construction
+                     ou d’agrandissement d’un bâtiment, d’un mur, d’une haie et d’une
+                     clôture doivent être établies de manière à permettre des vues entre
+                     les bâtiments ou au-dessus de ces murs, haies et clôtures sur les
+                     plans d’eau et à mettre en valeur les vues exceptionnelles sur un
+                     élément significatif du paysage tel qu’une île, des rapides, une
+                     montagne, un clocher, en tenant compte de la végétation et des
+                     niveaux de terrain existants et projetés.
+                  3. Dans le cas d’une intervention sur un terrain adjacent au parcours
+                     riverain ou à la voie panoramique, celle-ci doit être réalisée de
+                     manière à mettre en valeur le caractère unique de cette route ou
+                     de cette voie. À cette fin, un projet doit :
+                     a) S’intégrer au milieu en respectant la hauteur, l’implantation, la
+                         largeur, le nombre et les niveaux des étages des bâtiments
+                         voisins ;
+                     b) Avoir une expression architecturale qui s’inspire du contexte,
+                         sans l’imiter.
+
+                     Les bâtiments et les terrains qui sont mal intégrés ou non
+                     représentatifs du caractère dominant du tronçon de route du
+                     parcours riverain ou de voie panoramique ne doivent pas servir de
+                     référence.
+
+                     Dans le cas d’un projet de lotissement, la largeur générale des
+                     terrains du tronçon de route du parcours riverain ou de voie
+                     panoramique où le projet se trouve doit être respectée.
+
+                     Tout projet situé en bordure de la route du parcours riverain ou de
+                     la voie panoramique doit contribuer à la bonification du caractère
+                     de cette route ou de cette voie par la qualité des bâtiments, des
+                     aménagements extérieurs et des enseignes.
+
+
+   Chapitre VI   OBJECTIFS ET CRITÈRES APPLICABLES AUX TERRITOIRES
+      D’INTÉRÊT ÉCOLOGIQUE
+
+Article 23        Territoire et interventions assujetties
+
+
+V.07_2025-12-04                                                                        22
+                                     Codification administrative | Règlement numéro 798
+
+
+                  Les dispositions du présent chapitre s’appliquent :
+
+                  1. À un projet d’opération cadastrale portant sur un terrain situé en
+                     tout ou en partie à moins de 30 mètres d’une berge, d’un bois, d’un
+                     milieu humide ou d’un cours d’eau intérieur ou portant sur un bois
+                     compris dans un écoterritoire (plans 1 et 2 du Règlement de
+                     zonage);
+
+                  2. À un projet de construction d’un nouveau bâtiment principal ou
+                     pour l’agrandissement, en surface, d’un bâtiment existant et à
+                     opération de remblai ou de déblai sur un terrain situé en tout ou en
+                     partie à moins de 30 mètres d’une berge, d’un bois, d’un milieu
+                     humide ou d’un cours d’eau intérieur compris dans un écoterritoire
+                     (plans 1 et 2 du Règlement de zonage);
+
+                  3. À un projet de construction d’un nouveau bâtiment principal ou
+                     pour l’agrandissement, en surface, d’un bâtiment existant et à un
+                     projet d’aménagement d’un terrain situé dans une mosaïque de
+                     milieux naturels (plan 2 du Règlement de zonage);
+
+                  4. À un projet de construction d’un nouveau bâtiment principal ou
+                     pour l’agrandissement d’un bâtiment existant ayant pour effet
+                     d’abattre un arbre à l’intérieur des bois et corridors forestiers
+                     métropolitains identifiés au plan 2 du Règlement de zonage.
+
+
+Article 24        Objectifs et critères d’évaluation
+
+                  L'examen d'une demande de permis ou de certificat devant faire l'objet
+                  d'une approbation en vertu du présent chapitre doit être guidé par
+                  l’objectif suivant :
+                  1. Préserver et mettre en valeur les territoires d’intérêt écologique.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Dans le cas d’une opération cadastrale à l’intérieur d’un
+                     écoterritoire, celle-ci doit :
+                     a) Tendre à respecter les « Objectifs de conservation et
+                         d’aménagement des écoterritoires » ;
+                     b) Maximiser la conservation des bois, des milieux humides et des
+                         cours d’eau intérieurs en tenant compte de leur valeur
+                         écologique ;
+                     c) Favoriser l’aménagement de corridors écologiques et récréatifs
+                         permettant de relier les berges, les bois, les milieux humides et
+                         les cours d’eau intérieurs ;
+                     d) Favoriser le maintien à l’état naturel d’une bande de protection
+                         riveraine d’une profondeur suffisante le long d’un cours d’eau
+                         intérieur, d’une berge et d’un milieu humide.
+                  2. Dans le cas d’une construction, d’un agrandissement ou d’une
+                     opération de remblai ou de déblai à l’intérieur d’un écoterritoire,
+                     ceux-ci doivent :
+                     a) Tendre à respecter les « Objectifs de conservation et
+                         d’aménagement des écoterritoires »;
+                     b) Maximiser la conservation des bois, des milieux humides et des
+                         cours d’eau intérieurs en tenant compte de leurs valeurs
+                         écologiques ;
+                     c) Intégrer l’utilisation du terrain ou la construction à la berge, au
+                         bois, au milieu humide ou au cours d’eau intérieur en mettant
+                         ses caractéristiques en valeur ;
+                     d) Préserver la topographie naturelle des lieux en limitant les
+                         travaux de déblai et de remblai ;
+                     e) Favoriser l’aménagement de corridors écologiques et récréatifs
+                         permettant de relier les berges, les bois, les milieux humides et
+                         les cours d’eau intérieurs ;
+                     f) Favoriser le maintien à l’état naturel d’une bande de protection
+                         riveraine d’une profondeur suffisante le long d’une berge, d’un
+                         cours d’eau intérieur et d’un milieu humide ;
+                     g) Favoriser le maintien ou l’amélioration du régime hydrique des
+                         cours d’eau.
+
+V.07_2025-12-04                                                                         23
+                                       Codification administrative | Règlement numéro 798
+
+
+                  3. Dans le cas d’une construction d’un bâtiment principal ou d’un
+                     agrandissement à l’intérieur d’un bois ou d’un corridor forestier
+                     métropolitain, ceux-ci doivent :
+                     a) Viser prioritairement la conservation des arbres présentant le
+                         plus grand intérêt sur le plan écologique et permettant le
+                         maintien de la connectivité écologique;
+                     b) Maximiser la conservation des bois en tenant compte de leurs
+                         valeurs écologiques;
+                     c) Intégrer l’utilisation du terrain ou la construction au bois en
+                         mettant les caractéristiques de celui-ci en valeur.
+                  4. Dans le cas d’une construction, d’un agrandissement ou d’un projet
+                     de réaménagement d’un terrain à l’intérieur d’une mosaïque de
+                     milieux naturels, ceux-ci doivent être conçus et réalisés de manière
+                     à maximiser, en tenant compte de leur valeur écologique, la
+                     conservation, la mise en valeur et l’intégration au projet d’un bois
+                     ou d’un milieu humide qui se trouvent dans la mosaïque et à
+                     rehausser sa biodiversité.
+
+                      L’implantation d’un projet de construction ou d’agrandissement
+                      d’un bâtiment et la réalisation d’un projet d’aménagement d’un
+                      terrain dans une mosaïque de milieux naturels ou sur un terrain qui
+                      est contigu à cette mosaïque ne doivent pas compromettre
+                      l’alimentation en eau du milieu naturel.
+
+                  Pour les fins du présent article, les objectifs de conservation et
+                  d’aménagement de l’écoterritoire du corridor écoforestier de la rivière à
+                  l’Orme sont :
+                  1. Créer un corridor écologique viable d’une grande biodiversité
+                      autour de la rivière à l’Orme;
+                  2. Créer un corridor récréatif reliant les gares du train de l’Ouest au
+                      parc-nature du Cap-Saint-Jacques et au parc agricole du Bois-de-
+                      la-Roche;
+                  3. Maintenir le régime hydrique et améliorer la qualité de l’eau de la
+                      rivière à l’Orme;
+                  4. Consolider les limites du parc-nature de l’Anse-à-l’Orme et du parc
+                      agricole du Bois-de-la-Roche par la conservation de milieux
+                      naturels d’intérêt écologique.
+
+                  Pour les fins du présent article, les objectifs de conservation et
+                  d’aménagement de l’écoterritoire de la Forêt de Senneville sont :
+                  1. Préserver la biodiversité et l’intégrité des paysages forestiers;
+                  2. Prévoir des liens fauniques entre le lac des Deux Montagnes, la
+                     forêt de Senneville, l’écomusée et le parc agricole du Bois-de-la-
+                     Roche, sans compromettre le caractère privé des propriétés en
+                     rive.
+
+
+
+   Chapitre VII        OBJECTIFS ET CRITÈRES APPLICABLES AU CENTRE-VILLE
+
+Article 25        Territoire et interventions assujetties
+
+                  Abrogé.
+
+                  798-3, 2019-02-11;
+
+
+
+Article 26        Objectifs et critères d’évaluation
+
+                  Abrogé.
+
+                  798-3, 2019-02-11;
+
+
+
+
+V.07_2025-12-04                                                                         24
+                                       Codification administrative | Règlement numéro 798
+
+
+
+   Chapitre VIII       OBJECTIFS ET CRITÈRES APPLICABLES À LA ZONE H-61
+
+
+Article 27         Territoire et interventions assujetties
+
+                   Les dispositions du présent chapitre s’appliquent à la zone H-61.
+
+                   Les interventions suivantes sont assujetties :
+
+                   1. Un permis de lotissement pour l’identification cadastrale d’un
+                      terrain en vue de l’obtention d’un permis de construction;
+
+                   2. Un permis de lotissement pour le remembrement cadastral d’un
+                      terrain;
+
+                   3. Un permis de construction d’un nouveau bâtiment principal ou
+                      accessoire, ou pour l’agrandissement, en surface ou en volume,
+                      d’un bâtiment existant;
+
+                   4. Un permis pour une intervention entraînant une modification de
+                      l’aspect extérieur d’un bâtiment existant.
+
+Article 28         Objectifs et critères d’évaluation
+
+                   Tout projet assujetti aux dispositions du présent règlement doit
+                   respecter les objectifs suivants :
+                   1. Compte tenu de la place occupée par le Garden City Press et,
+                      subséquemment, l'Imprimerie Coopérative Harpell dans l'histoire
+                      de Sainte-Anne-de-Bellevue, conserver le plus possible certaines
+                      des caractéristiques de la propriété qui permettent d'en retracer
+                      l'histoire, notamment son architecture et l'espace occupé par ses
+                      anciens jardins;
+                   2. Compte tenu des contraintes environnementales associées à la
+                      proximité de voies de circulation importantes et des chemins de fer,
+                      assurer un développement résidentiel selon des standards
+                      équivalents ou supérieurs à ceux de développements comparables
+                      récents, notamment sur la rue Grier et le chemin Senneville.
+                   3. Assurer une intégration visuelle optimale entre les nouvelles
+                      constructions et le bâtiment ancien à préserver;
+                   4. Conserver au site son caractère boisé, particulièrement en
+                      périphérie et dans la moitié est.
+
+                   La conformité aux objectifs est évaluée selon les critères suivants :
+                   1. Le plan de redéveloppement de la propriété conserve et met en
+                      valeur, tout en respectant son architecture d'origine, la partie la
+                      plus ancienne de l'usine, telle qu'illustrée sur le plan d'implantation
+                      préparé par l'architecte Dorel Friedman en date du 18 juin 2001 et
+                      annexé aux présentes comme Annexe 1 pour en faire partie
+                      intégrante;
+                   2. Toutes les structures existantes qui, selon le plan d'ensemble, ne
+                      seront pas conservées, doivent avoir été démolies et le terrain
+                      réaménagé préalablement à la mise en oeuvre de la première
+                      phase du projet;
+                   3. Pour assurer un bon dégagement sur l'ancien bâtiment depuis la
+                      voie publique, le plan de redéveloppement évite toute nouvelle
+                      implantation dans l'espace délimité par la façade du bâtiment, deux
+                      lignes imaginaires qui forment un angle d'environ 135 degrés avec
+                      la façade du bâtiment, et les rues Pacifique et Garden City;
+                   4. Le plan assure la préservation, sous contrôle public ou privé, d'un
+                      espace vert d'environ 2 000 mètres carrés à l'endroit qui
+                      correspond le plus possible aux anciens jardins du Garden City
+                      Press;
+                   5. Le projet de redéveloppement évite tout abattage d'arbre mature à
+                      plus de 3 mètres du périmètre des constructions et à l'extérieur des
+                      espaces requis pour la circulation et le stationnement.
+
+
+
+
+V.07_2025-12-04                                                                           25
+                                     Codification administrative | Règlement numéro 798
+
+
+                  6. Sauf pour l'espace décrit au paragraphe 3, des bâtiments sont
+                      implantés de façon à ce qu'il y ait des façades sur toute la longueur
+                      des rues Pacifique et Garden City;
+                  7. Sauf pour celles qui ont façade sur les rues Pacifique et Garden
+                      City, les maisons sont réparties de part et d'autre d'une rue privée,
+                      en rangées de trois à six maisons;
+                  8. Aucun immeuble autre qu'une maison unifamiliale contiguë
+                      n'empiète dans la partie du terrain située à plus de 50 mètres de la
+                      limite d'emprise de la rue Pacifique;
+                  9. Les bâtiments sont implantés de façon à respecter les distances
+                      minimales suivantes :
+                       a) entre tout bâtiment principal et toute emprise d'une rue
+                           publique, 7,5 mètres (24,6');
+                       b) entre deux rangées de maisons unifamiliales: 4,5 mètres
+                           (14,7'),
+                       c) entre toute maison unifamiliale et la limite du pavage de la rue
+                           privée: 7,5 mètres (24,6'), sauf pour les extrémités de rangée
+                           aux intersections de la rue privée avec les rues Pacifique et
+                           Garden City, où la distance minimale est de 3,0 mètres,
+                       d) entre toute maison unifamiliale et un immeuble
+                           d'appartements: 15,0 (49,2'),
+                       e) entre tout mur d'extrémité d'une rangée de maison et toute
+                           ruelle ou toute autre limite du terrain: 2,4 mètres (7,9'),
+                       f) entre deux immeubles d'appartements: 14,0 mètres (45,9');
+                       De plus, toute maison de type « unifamiliale contiguë » doit
+                       comporter une cour arrière d'une profondeur minimale de 7,5
+                       mètres sur toute la largeur de la maison.
+                  10. Le principal matériau de parement utilisé est la brique d'argile dans
+                      les tons de brun-rouge: tout autre matériel comme la pierre ou la
+                      pierre d'imitation ne peut être qu'accessoire;
+                  11. Aucun bâtiment ne peut être plus haut que la partie ancienne de
+                      l'usine Harpell qui doit être conservée;
+                  12. Le traitement architectural de tout immeuble d'appartements
+                      démontre, par l'utilisation de stratégies architecturales reconnues,
+                      la volonté d'assurer une intégration visuelle avec l'ancien bâtiment
+                      de l'usine Harpell et avec l'ensemble du projet; pour les fins des
+                      présentes, un bâtiment d'imitation ne constitue pas une stratégie
+                      d'intégration architecturale reconnue;
+                  13. Tous les plans et devis pour toute nouvelle construction ou tout
+                      agrandissement d'une construction existante ont été préparés par
+                      un membre de l'Ordre des Architectes du Québec et être
+                      authentifiés par son sceau;
+                  14. Lorsqu'il est nécessaire de rehausser le terrain, notamment pour
+                      satisfaire à une exigence d'un règlement, ce rehaussement doit
+                      être fait de façon progressive et continue sur l'ensemble du projet;
+                      on évitera notamment de créer des talus distincts pour chacune
+                      des maisons;
+                  15. L'impact visuel sur le couvert forestier de l'installation de tout
+                      nouveau poteau, fil ou réseau aérien de desserte en infrastructures
+                      de téléphone, d'électricité, de câblodistribution ou de toute autre
+                      forme de transport d'énergie ou de transmission des
+                      communications doit être minimisé; cette desserte en
+                      infrastructures doit être souterraine là où nécessaire.
+
+
+
+   Chapitre IX        OBJECTIFS ET CRITÈRES APPLICABLES À LA ZONE I-137
+
+Article 29        Territoire et interventions assujetties
+
+                  Les dispositions du présent chapitre s’appliquent à la zone I-137.
+
+                  Les interventions suivantes sont assujetties :
+
+                  1. Un permis de lotissement pour l’identification cadastrale d’un
+                     terrain en vue de l’obtention d’un permis de construction;
+
+                  2. Un permis de lotissement pour le remembrement cadastral d’un
+                     terrain;
+
+V.07_2025-12-04                                                                         26
+                                      Codification administrative | Règlement numéro 798
+
+
+
+                  3. Un permis de construction d’un nouveau bâtiment principal ou
+                     accessoire, ou pour l’agrandissement, en surface ou en volume,
+                     d’un bâtiment existant;
+
+                  4. Un permis pour une intervention entraînant une modification de
+                     l’aspect extérieur d’un bâtiment existant;
+
+                  5. Un permis ou un certificat pour la démolition d’un bâtiment.
+
+Article 30        Objectifs et critères d’évaluation
+
+                  Compte tenu de l'environnement naturel exceptionnel du site, de la
+                  proximité de la ferme expérimentale du collège Macdonald et de
+                  l'arboretum Morgan et de la très grande visibilité du site, notamment
+                  depuis l'autoroute 40, tout projet assujetti aux dispositions du présent
+                  règlement doit respecter les objectifs suivants :
+                  1. Privilégier une implantation pavillonnaire adaptée à la forme du site;
+                  2. Atteindre l'excellence et l'originalité du design dans le traitement
+                       architectural de tous les bâtiments;
+                  3. Assurer une intégration visuelle optimale entre les différents
+                       bâtiments, de façon à ce que l'ensemble présente un aspect
+                       homogène.
+
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Le plan d'ensemble couvre la totalité de la zone I-137, tel que
+                      montré au plan de zonage de la Ville de Sainte-Anne-de-Bellevue
+                      en date du 20 octobre 2001, même si le développement doit se
+                      faire par phases;
+                  2. Les espaces accidentés ou boisés sont laissés à leur état naturel;
+                  3. Le plan d'ensemble montre la section de la piste cyclable qui doit
+                      traverser la zone I-137, que ce soit sur la propriété privée ou sur la
+                      propriété publique, pour assurer un lien entre l'intersection Des
+                      Pins / Sainte-Marie et le viaduc des Anciens Combattants;
+                  4. L'ensemble est constitué de plusieurs bâtiments similaires en
+                      terme de volume et répartis selon un plan bien structuré sur la
+                      totalité du site; le traitement architectural des bâtiments démontre
+                      une volonté manifeste que l'ensemble apparaisse comme un tout
+                      visuellement intégré;
+                  5. L'orientation des bâtiments et leur traitement architectural tiennent
+                      compte de la grande visibilité de l'ensemble, notamment depuis
+                      l'autoroute 40; les bâtiments implantés à moins de 50 mètres d'une
+                      limite d'emprise d'une voie de circulation publique représentent
+                      moins de 55% de la superficie d'implantation totale de l'ensemble;
+                  6. La desserte véhiculaire est assurée par une rue sinueuse avec des
+                      bâtiments de chaque côté; un cercle de virage situé à l'extrémité de
+                      cette dernière permet les manœuvres de demi-tour de tout véhicule
+                      de promenade, de transport ou utilitaire susceptible de l'emprunter;
+                  7. La rue de desserte locale est raccordée à l'avenue Des Pins et non
+                      au chemin Sainte-Marie;
+                  8. Si des quais de chargement ou de déchargement, des entrées de
+                      service ou des aires de stationnement ou de remisage de véhicules
+                      commerciaux sont requis, ils sont situés de façon à ne pas être
+                      visibles depuis l'autoroute 40 non plus que depuis la rue de
+                      desserte locale;
+                  9. Les aires de stationnement sont fractionnées en unités d'un
+                      maximum de 35 cases; chacune est séparée des bâtiments, des
+                      limites du terrain, de la rue de desserte locale et des autres aires
+                      de stationnement par des bandes paysagères comportant des
+                      arbres et des arbustes en quantité suffisante et implantés de façon
+                      à constituer un écran visuel d'une opacité supérieure à 50% à 1,5
+                      mètre du sol;
+                  10. Il est prévu que toute partie d'un emplacement située à moins de
+                      10,0 mètres d'une limite d'emprise de voie de circulation publique
+                      sera reboisée à raison d'au moins un arbre mature par 35 mètres
+                      carrés (376,75 p2) de superficie, et ce dans les trois mois (sauf
+
+
+V.07_2025-12-04                                                                          27
+                                      Codification administrative | Règlement numéro 798
+
+
+                      empêchement en raison de la saison) de la fin des travaux de
+                      construction du bâtiment sur ledit emplacement;
+                  11. Toute enseigne apposée sur un bâtiment est située entièrement
+                      sous le niveau du toit du corps principal du bâtiment; aucune
+                      enseigne ne peut être apposée sur un appentis de mécanique ou
+                      sur un élément architectural qui, même s'il est inclus dans la
+                      hauteur maximale permise au règlement de zonage pour le
+                      bâtiment, peut être interprété comme un appentis de mécanique;
+                  12. Il n'y a aucune aire d'entreposage extérieure; les entrées de
+                      service sont situées de façon à être le moins visible possible des
+                      voies de circulation publiques et privées;
+                  13. Tous les plans et devis pour toute nouvelle construction ou tout
+                      agrandissement d'une construction existante ont été préparés par
+                      un membre de l'Ordre des Architectes du Québec et sont
+                      authentifiés par son sceau.
+
+
+
+   Chapitre X         OBJECTIFS ET CRITÈRES APPLICABLES À LA ZONE H-141
+
+Article 31        Territoire et interventions assujetties
+
+                  Les dispositions du présent chapitre s’appliquent à la zone H-141.
+
+                  Les interventions suivantes sont assujetties :
+
+                  1. Un permis de lotissement pour toute opération cadastrale relative à
+                     la création d'un nouveau terrain pour permettre la construction d'un
+                     nouveau bâtiment ou pour toute autre opération cadastrale ayant
+                     pour conséquence de modifier la superficie d'un terrain;
+
+                  2. Un certificat    d'autorisation   pour   déplacer   ou   démolir    une
+                     construction;
+
+                  3. Un certificat d'autorisation pour modifier la configuration d'un terrain
+                     par des travaux de déblai ou de remblai;
+
+                  4. Un permis de construction pour un bâtiment principal ou un
+                     bâtiment accessoire;
+
+                  5. Un permis de construction ou d'un certificat pour une modification
+                     ou un agrandissement qui affecte l'apparence extérieure d'un
+                     bâtiment;
+
+                  6. Un certificat d'autorisation pour abattre un arbre mature ou pour
+                     aménager ou modifier l'aménagement d'une propriété autrement
+                     que par la plantation d'arbres ou d'arbustes.
+
+
+Article 32        Objectifs d’évaluation
+
+                  Tout projet assujetti aux dispositions du présent règlement doit
+                  respecter les objectifs suivants :
+
+                  1. Préserver la valeur historique et esthétique de ce secteur bordé par
+                     le lac Saint-Louis et l'historique chemin Bord-du-Lac, face au
+                     campus du Collège Macdonald;
+
+                  2. Protéger et mettre en valeur les maisons d'intérêt patrimonial que
+                     sont la maison Edward O'Neild (21 090 Chemin Bord-du-Lac),
+                     construite en 1878 par l'architecte Maurice Perrault, et la maison
+                     Antoine Héniau dit Deschamps (1865), citée au Répertoire
+                     d'architecture traditionnelle de la Communauté urbaine de
+                     Montréal; s'assurer que les modifications à ces bâtiments
+                     respectent leur valeur patrimoniale;
+
+                  3. Protéger le cadre naturel du secteur, avec ses nombreux arbres
+                     matures et ses ouvertures sur le lac Saint-Louis;
+
+V.07_2025-12-04                                                                           28
+                                      Codification administrative | Règlement numéro 798
+
+
+
+                  4. Assurer une intégration optimale de toute nouvelle construction aux
+                     maisons d'intérêt patrimonial citées ci-dessus et à l'ensemble du
+                     paysage de la rue;
+
+                  5. Sans compromettre l'intimité des résidents, conserver la relation
+                     étroite entre les maisons et la rue en évitant les aménagements
+                     défensifs tels que talus, murs de soutènement ou clôtures opaques.
+
+Article 33        Critères applicables aux nouveaux bâtiments
+
+                  En ce qui a trait aux nouveaux bâtiments à être construits après
+                  l'entrée en vigueur du présent règlement, la conformité aux objectifs
+                  énoncés ci-dessus sera évaluée selon les critères suivants :
+
+                  1. Une opération cadastrale relative à la création d'un nouveau terrain
+                     pour permettre la construction d'un nouveau bâtiment ne devrait
+                     être autorisée que si le bâtiment projeté sur le terrain résultant de
+                     l'opération s'intègre au paysage naturel et bâti;
+
+                  2. La construction d'un nouveau bâtiment principal ne devrait être
+                     autorisée que si l'implantation, la forme, le volume et le traitement
+                     architectural du bâtiment projeté, ainsi que l'aménagement du
+                     terrain, s'harmonisent aux bâtiments avoisinants existants et à
+                     l'ensemble du caractère du secteur environnant;
+
+                  3. La topographie d'un terrain ne devrait être modifiée, que ce soit par
+                     remblai ou par déblai, qu'au strict minimum;
+
+                  4. Tout nouveau bâtiment devrait être conçu et implanté, autant dans
+                     son empreinte au sol que dans les accès véhiculaires et
+                     piétonniers, de façon à préserver le maximum d'arbres matures.
+
+                  5. Tout nouveau bâtiment devrait être implanté de manière ordonnée,
+                     selon un rapport géométrique évident avec ses voisins, avec un
+                     recul similaire à celui du bâtiment principal existant le plus près. La
+                     façade principale du bâtiment devrait donner sur la rue et être
+                     parallèle à la rue;
+
+                  6. Tout nouveau bâtiment devrait être conçu et implanté de façon à
+                     préserver l'intimité des propriétés voisines;
+
+                  7. Le rez-de-chaussée ne devrait pas être à plus de 75 cm (29,5") au-
+                     dessus du niveau fini du pavage au centre de la rue; le niveau du
+                     pavage est mesuré vis-à-vis le centre du terrain;
+
+                  8. Tout nouveau bâtiment devrait être d'une hauteur, d'une échelle et
+                     d'un volume similaires à ceux des autres bâtiments du secteur;
+
+                  9. Le traitement architectural du bâtiment devrait s'harmoniser avec
+                     celui des bâtiments avoisinants; un bâtiment à toit plat ne devrait
+                     pas être considéré comme s'harmonisant au paysage bâti du
+                     secteur. Tout nouveau bâtiment devrait avoir un toit à pignon, avec
+                     une pente similaire à celui du bâtiment principal le plus près;
+
+                  10. Toutes les façades et tous les étages d'un même bâtiment
+                      devraient présenter un même traitement intégré et cohérent; le
+                      même matériau de revêtement devrait être utilisé sur toutes les
+                      façades; le matériau de revêtement devrait être la planche à clin de
+                      bois ou de bois reconstitué (préalablement traité ou teint, au
+                      besoin), avec un pureau n'excédant pas 12 cm;
+
+                  11. Les ouvertures, portes et fenêtres, ainsi que les éléments
+                      décoratifs (telles galeries et corniches) devraient avoir des
+                      proportions et un traitement similaires à ceux du bâtiment principal
+                      le plus près;
+
+
+
+
+V.07_2025-12-04                                                                          29
+                                      Codification administrative | Règlement numéro 798
+
+
+                  12. Il ne devrait pas y avoir de clôtures dans la cour avant et aucune
+                      haie ne devrait avoir plus de 90 cm (3') de hauteur; cette
+                      disposition ne devrait cependant pas être interprétée comme
+                      interdisant les plantations individuelles.
+
+Article 34        Critères applicables aux bâtiments existants
+
+                  En ce qui a trait aux bâtiments existants au moment de l'entrée en
+                  vigueur du présent règlement, la conformité aux objectifs énoncés ci-
+                  dessus sera évaluée selon les critères suivants :
+
+                  1. Les bâtiments existants et jugés d'intérêt patrimonial devraient être
+                     considérés comme essentiels à la préservation de l’authenticité du
+                     secteur; ils devraient être conservés dans leur intégrité et, autant
+                     que possible, reconstitués avec un souci d’authenticité quant à
+                     leurs formes, leurs matériaux, leurs ouvertures et leurs éléments
+                     décoratifs; ils ne devraient en aucun cas être démolis;
+
+                  2. L’implantation d’un bâtiment d'intérêt patrimonial devrait être
+                     considérée comme faisant partie de son intégrité : un tel bâtiment
+                     ne devrait donc pas être déplacé, non plus que rehaussé
+                     autrement que ce qui est permis en vertu du paragraphe 6 ci-
+                     dessous;
+
+                  3. Aucune modification ou addition à un bâtiment existant ne devrait
+                     avoir pour effet de réduire la valeur patrimoniale de ce bâtiment. La
+                     modification ou l'agrandissement d'un bâtiment principal existant ne
+                     devrait être autorisé que si l'implantation, la forme, le volume et le
+                     traitement architectural de la modification ou de l'agrandissement
+                     projeté, ainsi que l'aménagement du terrain, s'harmonisent au
+                     bâtiment lui-même, aux bâtiments avoisinants et à l'ensemble du
+                     caractère du secteur environnant;
+
+                  4. Les éléments décoratifs représentatifs du style original devraient
+                     être conservés ou, lorsque requis, reconstitués. Les interventions
+                     visant à renverser les modifications non pertinentes, comme
+                     l’enlèvement des lucarnes en chien assis ou la démolition de
+                     volumes ajoutés pour ramener le bâtiment dans un état plus près
+                     de son aspect original, devraient être favorisées;
+
+                  5. Tout ajout à un bâtiment existant devrait être implanté de manière
+                     ordonnée, selon un rapport géométrique évident avec le bâtiment
+                     lui-même et ses voisins. Tout ajout devrait être conçu et implanté
+                     de façon à préserver l'intimité des propriétés voisines. Tout ajout à
+                     un bâtiment existant devrait être traité comme un volume
+                     visuellement distinct du bâtiment original, et être en retrait par
+                     rapport au bâtiment original;
+
+                  6. Aucun bâtiment existant ne devrait être rehaussé de manière à ce
+                     que le niveau de son rez-de-chaussée soit à plus de 75 cm (29,5")
+                     au-dessus du niveau fini du pavage au centre de la rue; le niveau
+                     du pavage est mesuré vis-à-vis le centre du terrain.
+
+
+   Chapitre XI     OBJECTIFS ET CRITÈRES APPLICABLES AUX ZONES H-103,
+      H-106, H-119, I-127, C-122 et P-140
+
+Article 35        Intention, territoire et interventions assujetties
+
+                  L’urbanisation du territoire du Programme particulier d’urbanisme du
+                  secteur nord représente une opportunité pour la Ville de Sainte-Anne-
+                  de-Bellevue d’allier développement immobilier et respect des
+                  caractéristiques naturelles et paysagères du territoire. Ce secteur est
+                  en partie situé dans l’écoterritoire du Corridor écoforestier de la rivière
+                  à l’Orme et comprend une mosaïque de milieux naturels identifiée au
+                  Schéma d’aménagement et de développement de l’Agglomération de
+                  Montréal.
+
+
+V.07_2025-12-04                                                                           30
+                                      Codification administrative | Règlement numéro 798
+
+
+                  Les objectifs et critères du présent chapitre visent à assurer une
+                  cohabitation harmonieuse entre les espaces urbanisés et les milieux
+                  naturels. Ce quartier comprend un secteur d’emploi dynamique, des
+                  milieux de vie distinctifs, un pôle communautaire rassembleur et de
+                  nombreux espaces verts et naturels de grande valeur écologique et
+                  paysagère.
+
+                  Les dispositions du présent chapitre s’appliquent aux zones H-103, H-
+                  106, H-119, I-127, C-122 et P-140.
+
+                  Les interventions suivantes sont assujetties :
+
+                  1. Un permis de lotissement pour toute opération cadastrale relative à
+                     la création d'un nouveau terrain pour permettre la construction d'un
+                     nouveau bâtiment ou la réalisation d’un projet intégré, ou pour
+                     toute autre opération cadastrale ayant pour conséquence de
+                     modifier la superficie d'un terrain;
+
+                  2. Un certificat    d'autorisation   pour   déplacer   ou   démolir    une
+                     construction;
+
+                  3. Un certificat d'autorisation pour modifier la configuration d'un terrain
+                     par des travaux de déblai ou de remblai;
+
+                  4. Un permis de construction pour un bâtiment principal, un bâtiment
+                     accessoire ou un projet intégré;
+
+                  5. Un permis de construction ou d'un certificat pour une modification
+                     ou un agrandissement qui affecte l'apparence extérieure d'un
+                     bâtiment;
+
+                  6. Un permis pour l’agrandissement d’une aire de stationnement
+                     impliquant l’ajout de six (6) cases ou plus;
+
+                  7. Un certificat d'autorisation pour abattre un arbre mature ou pour
+                     aménager ou modifier l'aménagement d'une propriété autrement
+                     que par la plantation d'arbres ou d'arbustes;
+
+                  8. Un permis pour l’installation ou la modification d’une affiche, d’une
+                     enseigne ou d’un panneau-réclame.
+
+Article 36        Objectifs et critères d’évaluation générale
+
+                  Tout projet assujetti aux dispositions du présent règlement doit
+                  respecter les objectifs suivants :
+                  1. Favoriser la préservation des milieux naturels, des réseaux
+                     écologiques et des composantes d’intérêt paysager du secteur ;
+                  2. Minimiser l’empreinte au sol des constructions, équipements et
+                     ouvrages au profit des espaces végétalisés ;
+                  3. Souligner la porte d’entrée sur l’écoterritoire du Corridor
+                     écoforestier de la rivière à l’Orme;
+                  4. Maximiser les percées visuelles sur les milieux naturels;
+                  5. Privilégier une implantation favorable à l’utilisation des énergies
+                     passives et renouvelables;
+                  6. Renforcer l’expérience de vie en communauté;
+                  7. Faciliter les déplacements actifs à travers l’ensemble du territoire.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. L’urbanisation des zones de moindre impact écologique est
+                     favorisée;
+                  2. Les interventions à l’intérieur des milieux de valeur écologique
+                     élevée ou très élevée identifiés au plan intitulé « Caractérisation
+                     environnementale » de l’Annexe 2 du présent règlement devraient
+                     être limitées autant que possible afin de ne pas compromettre
+                     l’intégrité et la pérennité des écosystèmes. La valeur écologique
+                     des milieux naturels est déterminée selon les critères de l’Annexe 3
+                     du présent règlement ;
+
+V.07_2025-12-04                                                                           31
+                                      Codification administrative | Règlement numéro 798
+
+
+                  3. Les interventions à l’intérieur du réseau écologique illustré au plan
+                      intitulé « Caractérisation environnementale » de l’Annexe 2 du
+                      présent règlement devraient être limitées autant que possible afin
+                      de ne pas compromettre la qualité, la diversité et la connectivité
+                      des habitats fauniques et autres noyaux de biodiversité. Les
+                      indicateurs favorisant l’intégrité et la pérennité du réseau
+                      écologique sont identifiés à l’Annexe 4 du présent règlement;
+                  4. La préservation d’un corridor de visibilité dans l’axe sud-est / nord-
+                      ouest à partir du chemin Sainte-Marie, illustré à titre informatif au
+                      schéma intitulé « Composantes paysagères d’intérêt » de l’Annexe
+                      5 du présent règlement, est favorisée. Ce corridor, aménagé en
+                      partie dans l’axe de la rue délimitant les zones résidentielle et
+                      d’emploi, devrait prendre la forme d’une esplanade plantée créant
+                      une zone tampon entre ces deux milieux;
+                  5. La préservation d’un corridor de visibilité dans l’axe sud-ouest /
+                      nord-est à partir du chemin Sainte-Marie, illustré à titre informatif au
+                      schéma intitulé « Composantes paysagères d’intérêt » de l’Annexe
+                      5 du présent règlement, est favorisée. L’aménagement de ce
+                      corridor devrait souligner la principale entrée de l’écoterritoire du
+                      Corridor écoforestier de la rivière à l’Orme;
+                  6. L’implantation des bâtiments et des infrastructures devrait
+                      maximiser la préservation des allées champêtres et massifs
+                      d’arbres matures. Ceux-ci sont illustrés à titre informatif au schéma
+                      intitulé « Composantes paysagères d’intérêt » de l’Annexe 5 du
+                      présent règlement ;
+                  7. Les formes du lotissement favorisent une répartition équilibrée
+                      entre les différents terrains des espaces préservés pour le maintien
+                      des composantes paysagères d’intérêt et de la biodiversité locale ;
+                  8. L’implantation des bâtiments favorise un regroupement en cellules
+                      ou en grappes, limitant par le fait même l’empreinte au sol des
+                      voies de circulation et surfaces minéralisées ;
+                  9. L’implantation au sol des constructions favorise l’utilisation de
+                      l’énergie solaire passive et évite la création de couloirs de vent au
+                      niveau du sol.
+                  10. Les bâtiments devraient être implantés de façon à minimiser la
+                      visibilité des aires de stationnement, équipements mécaniques et
+                      autres éléments fonctionnels à partir des voies de circulation ;
+                  11. Des parcours alternatifs à la trame de rue et exclusivement dédiés
+                      aux piétons et cyclistes devraient être aménagés dans la
+                      perspective de maximiser l’efficacité des trajets entre les pôles
+                      d’activités et d’offrir une expérience agréable et sécuritaire aux
+                      promeneurs.
+                  12. L’aménagement de sentiers pédestres ou multifonctionnels
+                      donnant accès ou traversant le réseau écologique identifié au plan
+                      intitulé « Caractérisation environnementale » de l’Annexe 2 du
+                      présent règlement devrait tendre à respecter les exigences
+                      suivantes pour favoriser le maintien des noyaux de biodiversité:
+                       a) Le sentier devrait traverser la zone tampon ou le corridor de
+                            migration faunique perpendiculairement;
+                       b) Le sentier ne devrait pas empiéter sur un milieu humide;
+                       c) Les matériaux de revêtement du sol devraient être
+                            perméables;
+                       d) L’ouverture de la canopée devrait, dans la mesure du possible,
+                            être évitée;
+                       e) L’espace de circulation devrait être clairement défini pour
+                            minimiser la possibilité de circuler librement dans les boisés.
+
+Article 37        Objectifs et critères applicables à l’architecture des bâtiments
+
+                  L’architecture des bâtiments et constructions accessoires est évaluée
+                  en fonction des objectifs suivants :
+                  1. Privilégier un langage architectural contemporain s’inspirant des
+                      principes de construction écologique ;
+                  2. Faciliter l’accès des personnes à mobilité réduite aux bâtiments et
+                      à l’ensemble du site ;
+                  3. Concevoir un cadre bâti dans lequel les matériaux de revêtement
+                      extérieur et les composantes architecturales contribuent à l’image
+                      de prestige du secteur ;
+
+V.07_2025-12-04                                                                            32
+                                      Codification administrative | Règlement numéro 798
+
+
+                  4. Favoriser une transition visuelle harmonieuse entre les milieux
+                     urbanisés et naturels ;
+                  5. Créer un ensemble bâti diversifié et harmonieux.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Les bâtiments de facture architecturale contemporaine sont
+                     favorisés ;
+                  2. Les mesures écologiques suivantes devraient être adoptées de
+                     manière à accroître la qualité générale du cadre bâti :
+                      a) L’utilisation de matériaux de revêtement de toiture contribuant
+                          à réduire l’effet d’îlot de chaleur urbain;
+                      b) L’emploi de matériaux écoresponsables (ex. : matériaux locaux
+                          et/ou fabriqués à base de ressources renouvelables ou de
+                          matières recyclées, produits certifiés par un organisme
+                          reconnu, etc.) ;
+                      c) L’utilisation de sources d’énergie passive ou renouvelable
+                          (ex. : géothermie, énergie solaire, énergie éolienne, etc.);
+                      d) Le traitement des ouvertures afin de bénéficier de la lumière,
+                          tout en maintenant une performance énergétique de haut
+                          niveau;
+                  3. L’architecture, la volumétrie, les couleurs et les matériaux devraient
+                     s’harmoniser au paysage de façon à créer un milieu de vie et de
+                     travail sobre et paisible ;
+                  4. Un mélange cohérent de différents modèles architecturaux et
+                     typologies de bâtiments est favorisé;
+                  5. Les constructions accessoires devraient s’harmoniser au paysage
+                     par l’utilisation de matériaux similaires à ceux du bâtiment principal;
+                  6. Les structures extérieures permanentes aménagées pour protéger
+                     les voitures et/ou les vélos des intempéries devraient s’harmoniser
+                     au paysage par l’utilisation de matériaux résistants et un choix de
+                     couleur sobre;
+                  7. Le rez-de-chaussée des bâtiments multifamiliaux ou d’emploi
+                     devrait être implanté au même niveau que la rue ou, si ce n’est pas
+                     le cas, des aménagements devraient être prévus pour permettre
+                     aux personnes à mobilité réduite d’y accéder sans obstacle ;
+                  8. Les fondations apparentes des bâtiments devraient être
+                     dissimulées par un aménagement paysager incluant des
+                     plantations.
+
+Article 38        Objectifs et critères applicables aux aires de stationnement
+
+                  L’aménagement des aires de stationnement est évalué en fonction des
+                  objectifs suivants :
+                  1. Favoriser l’intégration harmonieuse des aires de stationnement au
+                     milieu bâti et naturel;
+                  2. Encourager l’intégration d’équipements favorisant la mobilité
+                     durable.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Les aires de stationnement devraient être aménagées de manière
+                     à être le moins visibles possible des voies de circulation ;
+                  2. Les aires de stationnement devraient être aménagées de manière
+                     à diminuer l’effet d’îlot de chaleur généré par les surfaces
+                     minéralisées;
+                  3. Les allées d’accès et entrées charretières communes sont
+                     favorisées afin de minimiser les points d’accès à partir de la rue;
+                  4. L’installation de bornes de recharge pour véhicules électriques
+                     desservant l’ensemble des usagers du site est encouragée;
+                  5. Des aménagements conviviaux et sécuritaires dédiés aux piétons
+                     et cyclistes devraient encourager la mobilité active.
+
+Article 39        Objectifs et critères applicables aux aménagements extérieurs
+
+                  L’aménagement des espaces extérieurs est évalué en fonction des
+                  objectifs suivants :
+                  1. Optimiser la préservation des composantes environnementales
+                      existantes du milieu d’intervention ;
+                  2. Privilégier des aménagements paysagers favorisant la biodiversité ;
+
+V.07_2025-12-04                                                                          33
+                                     Codification administrative | Règlement numéro 798
+
+
+                  3. Établir une stratégie globale de gestion durable des eaux de
+                     ruissellement et de contrôle du transport des sédiments dans la
+                     perspective de fournir un apport en eau de bonne qualité aux
+                     milieux humides existants ;
+                  4. Préserver et souligner le caractère rural et patrimonial du chemin
+                     Sainte-Marie ;
+                  5. Créer une délimitation claire entre le secteur d’emploi et les milieux
+                     de vie par l’entremise d’aménagements paysagers durables ;
+                  6. Concevoir un milieu attractif et dynamique qui se démarque par
+                     son aménagement paysager.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Les allées champêtres et massifs d’arbres matures qui ponctuent le
+                      site devraient être intégrés aux aménagements paysagers. Ceux-ci
+                      sont illustrés à titre informatif au schéma intitulé « Composantes
+                      paysagères d’intérêt » de l’Annexe 5 du présent règlement ;
+                  2. Le caractère rural du chemin Sainte-Marie devrait être souligné par
+                      la préservation et le renforcement de la frange végétale composée
+                      de vivaces bordant la rue et illustrée à titre informatif au schéma
+                      intitulé « Composantes paysagères d’intérêt » de l’Annexe 5 du
+                      présent règlement;
+                  3. La préservation de la strate végétale et de la topographie naturelle
+                      du sol est favorisée ;
+                  4. Le choix de végétaux s’inspire, dans la mesure du possible, de la
+                      flore indigène du site d’intervention et des friches naturelles
+                      environnantes ;
+                  5. Le couvert végétal sur chaque lot devrait présenter un bon niveau
+                      de biodiversité, incluant des espèces de plantes vivaces,
+                      d’arbustes et d’arbres ;
+                  6. Les arbres plantés devraient être diversifiés en termes de formats
+                      et de dimensions, incluant des feuillus et des conifères ;
+                  7. Les végétaux nécessitant un minimum d’irrigation artificielle sont
+                      favorisés ;
+                  8. Le concept d’aménagement paysager devrait privilégier un
+                      mélange d’espèces dont les périodes de floraison ou
+                      d’épanouissement sont différentes ;
+                  9. Les stratégies d’aménagement pour les réseaux de drainage des
+                      eaux de ruissellement devraient s’inspirer du Guide de gestion des
+                      eaux pluviales préparé par le ministère du Développement durable,
+                      de l'Environnement et de la Lutte contre les changements
+                      climatiques (MDDELCC);
+                  10. Une gestion écologique des eaux de ruissellement par
+                      l’implantation d’ouvrages de biorétention dont l’aménagement
+                      s’inspire de la composition des milieux humides naturels est
+                      favorisée.
+
+Article 40        Objectifs et critères spécifiques pour la zone I-127
+
+                  L’écoparc industriel de Sainte-Anne-de-Bellevue se veut un pôle
+                  d’emploi résolument tourné vers la chimie verte et les nouvelles
+                  technologies. Le site tire profit de la présence du campus Macdonald
+                  de l’Université McGill, d’un paysage naturel exceptionnel, de la
+                  proximité du réseau autoroutier supérieur et du futur terminus du
+                  Réseau électrique métropolitain (REM), de même que de la synergie
+                  avec les milieux de vie. Ainsi, l’implantation du cadre bâti et ses
+                  composantes architecturales participent à la création d’un
+                  environnement de travail optimal pour l’épanouissement des usagers.
+
+                  En plus des objectifs et critères s’appliquant à l’ensemble des zones
+                  assujetties au présent chapitre, l’implantation des bâtiments et les
+                  concepts d’affichage dans la zone I-127 sont évalués en fonction des
+                  objectifs suivants :
+                  1. Favoriser la synergie entre les entreprises par la création d’un
+                      environnement de travail convivial et animé;
+
+
+
+V.07_2025-12-04                                                                         34
+                                      Codification administrative | Règlement numéro 798
+
+
+                  2. Réaliser un concept d’affichage industriel sobre et de facture
+                     contemporaine ;
+                  3. Garantir l’intégration harmonieuse des enseignes par rapport au
+                     cadre bâti et aux structures d’affichage environnantes ;
+                  4. Promouvoir l’image de prestige de l’écoparc industriel.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. Le lotissement des projets immobiliers favorise un regroupement
+                     en grappes de bâtiments autour de placettes centrales
+                     végétalisées et aménagées pour favoriser la détente et la
+                     socialisation;
+                  2. Les enseignes s’inspirent des composantes architecturales
+                     présentes sur les bâtiments (couleurs, matériaux, etc.) ;
+                  3. Le nombre de couleurs et de matériaux composant une enseigne
+                     devrait être limité;
+                  4. Un éclairage par réflexion, tempéré et discret est favorisé;
+                  5. Une enseigne détachée du bâtiment devrait respecter le gabarit de
+                     ce dernier et éviter de faire ombrage aux constructions et au
+                     domaine public. La base de cette enseigne devrait être pourvue
+                     d’un aménagement paysager s’harmonisant à l’aménagement du
+                     secteur.
+
+Article 41        Objectifs et critères spécifiques pour la zone C-122
+
+                  Le pôle commercial mixte implanté en marge du chemin Sainte-Marie
+                  de part et d’autre du boulevard Morgan dessert les membres de la
+                  communauté du secteur nord, ainsi que les usagers du Réseau
+                  électrique métropolitain (REM). Son aménagement souligne l’entrée du
+                  secteur d’emploi jouit d’une interface privilégiée avec le tracé fondateur
+                  du chemin Sainte-Marie.
+
+                  En plus des objectifs et critères s’appliquant à l’ensemble des zones
+                  assujetties au présent chapitre, l’implantation des bâtiments et les
+                  concepts d’affichage dans la zone C-122 sont évalués en fonction des
+                  objectifs suivants :
+                  1. Souligner l’entrée du site tout en préservant le caractère
+                      patrimonial du chemin Sainte-Marie ;
+                  2. Assurer la visibilité des commerces pour les usagers du service de
+                      train ;
+                  3. Assurer la fluidité des déplacements sur le site de manière à
+                      minimiser les inconvénients sur les secteurs adjacents;
+                  4. Réaliser un concept d’affichage commercial sobre et de facture
+                      contemporaine ;
+                  5. Garantir l’intégration harmonieuse des enseignes par rapport au
+                      cadre bâti et aux structures d’affichage de l’écoparc d’emploi ;
+                  6. Enrichir les perspectives visuelles sur les rues et les propriétés
+                      adjacentes grâce à une implantation judicieuse des enseignes sur
+                      les terrains.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+                  1. L’orientation et l’implantation des bâtiments devraient favoriser
+                     l’encadrement du boulevard Morgan et mettre en valeur les
+                     percées visuelles d’intérêt ;
+                  2. Les aires de chargement et déchargement ainsi que les conteneurs
+                     à déchets devraient être le moins visible possible des voies de
+                     circulation, de par leur implantation ou l’utilisation de structures
+                     architecturales de camouflage ;
+                  3. L’implantation des bâtiments et la configuration du site devraient
+                     favoriser les déplacements actifs sécuritaires entre le chemin
+                     Sainte-Marie, la gare du REM et les établissements commerciaux.
+                  4. Les enseignes s’inspirent des composantes architecturales
+                     présentes sur les bâtiments (couleurs, matériaux, etc.) ;
+                  5. Le nombre de couleurs et de matériaux composant une enseigne
+                     devrait être limité;
+
+V.07_2025-12-04                                                                          35
+                                      Codification administrative | Règlement numéro 798
+
+
+                  6. Un éclairage par réflexion, tempéré et discret est favorisé;
+                  7. Une enseigne détachée du bâtiment devrait respecter le gabarit de
+                     ce dernier et éviter de faire ombrage aux constructions et au
+                     domaine public. La base de cette enseigne devrait être pourvue
+                     d’un aménagement paysager s’harmonisant à l’aménagement du
+                     secteur;
+                  8. Le nombre d’enseignes détachées sur le site devrait être limité
+                     autant que possible.
+
+Chapitre XI.1     OBJECTIFS ET CRITÈRES APPLICABLES AUX ZONES I-123, I-
+                  125, I-126, I-128, I-129, I-130, I-132, I-136 ET C-144
+
+Article 41.1      Intention, territoire et interventions assujetties
+
+                  Conformément à sa volonté d’affirmer les principes de développement
+                  durable et de protection des espaces verts sur son territoire, la Ville
+                  souhaite encadrer les projets de développement et de
+                  redéveloppement du parc industriel ainsi que de la zone commerciale
+                  adjacente. L’objectif visé consiste à rehausser l’image du parc
+                  immobilier et à inciter l’adoption des meilleures pratiques en termes
+                  d’aménagement durable dans ce secteur qui constitue une vitrine pour
+                  la ville de Sainte-Anne-de-Bellevue.
+
+                  Les dispositions du présent chapitre s’appliquent aux zones I-123, I-
+                  125, I-126, I-128, I-129, I-130, I-132, I-136 et C-144.
+
+                  Les interventions suivantes sont assujetties :
+
+                  1. Un permis de lotissement pour toute opération cadastrale relative à
+                     la création d'un nouveau terrain pour permettre la construction d'un
+                     nouveau bâtiment, ou pour toute autre opération cadastrale ayant
+                     pour conséquence de modifier la superficie d'un terrain;
+
+                  2 Un certificat d'autorisation pour modifier la configuration d'un terrain
+                    par des travaux de déblai ou de remblai;
+
+                  3. Un permis de construction pour un bâtiment principal;
+
+                  4. Un permis de construction ou un certificat d’autorisation pour une
+                     modification ou un agrandissement qui affecte l'apparence
+                     extérieure d'un bâtiment;
+
+                  5. Un permis pour l’agrandissement d’une aire de stationnement
+                     impliquant l’ajout de six (6) cases ou plus;
+
+                  6. Un certificat d'autorisation pour abattre un arbre mature ou pour
+                     aménager ou modifier l'aménagement d'une propriété autrement
+                     que par la plantation d'arbres ou d'arbustes;
+
+                  7. Un permis pour l’installation ou la modification d’une affiche, d’une
+                     enseigne ou d’un panneau-réclame.
+
+
+Article 41.2      Objectifs et critères applicables au lotissement et à l’implantation
+                  des bâtiments
+
+                  Les projets de lotissement et l’implantation des bâtiments sont évalués
+                  en fonction des objectifs suivants :
+
+                  1. Minimiser l’empreinte au sol des constructions, équipements et
+                     ouvrages au profit des espaces verts et de la végétation mature ;
+
+                  2. Privilégier une implantation favorable à l’utilisation des énergies
+                     passives et renouvelables;
+
+                  3. Faciliter les déplacements actifs à travers l’ensemble du territoire.
+
+
+
+V.07_2025-12-04                                                                              36
+                                      Codification administrative | Règlement numéro 798
+
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1. L’implantation des bâtiments et des infrastructures            devrait
+                     maximiser la préservation des massifs d’arbres matures.
+
+                  2. L’implantation des bâtiments favorise une mise en commun des
+                     aires de stationnement et des allées de circulation, limitant par le
+                     fait même l’empreinte au sol des surfaces minéralisées ;
+
+                  3. L’implantation au sol des constructions favorise l’utilisation de
+                     l’énergie solaire passive et évite la création de couloirs de vent au
+                     niveau du sol.
+
+                  4. Les nouveaux bâtiments devraient être implantés de façon à
+                     minimiser la visibilité des aires de stationnement, équipements
+                     mécaniques et autres éléments fonctionnels à partir des voies de
+                     circulation ;
+
+                  5. L’aménagement de trottoirs et de sentiers exclusivement dédiés aux
+                     piétons et cyclistes devrait être aménagé dans la perspective d’offrir
+                     une expérience agréable et sécuritaire aux promeneurs.
+
+Article 41.3      Objectifs et critères applicables à l’architecture des bâtiments
+
+                  L’architecture des bâtiments est évaluée en fonction des objectifs
+                  suivants :
+
+                  1. Privilégier un langage architectural contemporain et s’inspirant des
+                     principes de construction écologique ;
+
+                  2. Faciliter l’accès des personnes à mobilité réduite aux bâtiments et à
+                     l’ensemble du site ;
+
+                  3. Concevoir un cadre bâti dans lequel les matériaux de revêtement
+                     extérieur et les composantes architecturales contribuent à l’image
+                     de prestige du secteur.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1 Les bâtiments de facture architecturale contemporaine sont
+                    favorisés ;
+
+                  2   L’innovation architecturale (volumétrie, matérialité, détails
+                      ornementaux, etc.) est encouragée tout en respectant une certaine
+                      harmonie avec le cadre bâti environnant;
+
+                  3   Les mesures écologiques suivantes devraient être adoptées de
+                      manière à accroitre la qualité générale du cadre bâti;
+
+                      a) L’utilisation de matériaux de revêtement de toiture contribuant
+                         à réduire l’effet d’îlot de chaleur urbain (toiture végétalisée ou
+                         toiture pâle affichant un indice de réflectance solaire (IRS) d’au
+                         moins soixante-dix-huit (78));
+
+                      b) L’emploi de matériaux écoresponsables (ex. : matériaux locaux
+                         et/ou fabriqués à base de ressources renouvelables ou de
+                         matières recyclées, produits certifiés par un organisme
+                         reconnu, etc.) ;
+
+                      c)   L’utilisation de sources d’énergie passive ou renouvelable
+                           (ex. : géothermie, énergie solaire, etc.);
+
+                      d)   Le traitement des ouvertures afin de bénéficier de la lumière
+                           naturelle, tout en maintenant une performance énergétique de
+                           haut niveau;
+
+                  4. Le rez-de-chaussée des bâtiments devrait être implanté au même
+                     niveau que la rue ou, si ce n’est pas le cas, des aménagements
+
+
+V.07_2025-12-04                                                                           37
+                                      Codification administrative | Règlement numéro 798
+
+
+                    devraient être prévus pour permettre aux personnes à mobilité
+                    réduite d’y accéder sans obstacle.
+
+Article 41.4      Objectifs et critères applicables aux aires de stationnement
+
+                  L’aménagement des aires de stationnement est évalué en fonction des
+                  objectifs suivants :
+
+                  1. Favoriser l’intégration harmonieuse des aires de stationnement au
+                     milieu bâti;
+
+                  2. Encourager l’intégration d’équipements favorisant la mobilité
+                     durable;
+
+                  3. Établir une stratégie globale de gestion durable des eaux de
+                     ruissellement et de contrôle du transport des sédiments.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1. Les aires de stationnement devraient être aménagées de manière à
+                     être le moins visibles possible des voies de circulation (ex.
+                     entourées d’une bande végétale plantée d’arbres);
+
+                  2. Les aires de stationnement devraient être aménagées de manière à
+                     diminuer l’effet d’îlot de chaleur généré par les surfaces
+                     minéralisées;
+
+                  3. Les allées d’accès et entrées charretières communes sont
+                     favorisées afin de minimiser les points d’accès à partir de la rue;
+
+                  4. L’installation de bornes de recharge pour véhicules électriques
+                     desservant l’ensemble des usagers du site est encouragée;
+
+                  5. Des aménagements conviviaux et sécuritaires (séparés des voies
+                     de circulation véhiculaire) dédiés aux piétons et cyclistes devraient
+                     encourager la mobilité active;
+
+                  6. Les stratégies d’aménagement pour le drainage des eaux de
+                     ruissellement devraient s’inspirer du Guide de gestion des eaux
+                     pluviales préparé par le ministère du Développement durable, de
+                     l'Environnement et de la Lutte contre les changements climatiques
+                     (MDDELCC) et prioriser l’implantation d’ouvrages de biorétention
+                     (noues végétalisées, bandes filtrantes, jardins de pluie, etc.).
+
+
+Article 41.5      Objectifs et critères applicables aux aménagements extérieurs
+
+                  L’aménagement des espaces extérieurs est évalué en fonction des
+                  objectifs suivants :
+
+                  1. Optimiser la préservation des composantes environnementales
+                     existantes du milieu d’intervention ;
+
+                  2. Privilégier des aménagements paysagers maximisant la présence
+                     de couvert végétal et favorisant la biodiversité ;
+
+                  3. Établir une stratégie globale de gestion durable des eaux de
+                     ruissellement et de contrôle du transport des sédiments;
+
+                  4. Préserver et souligner le caractère rural et patrimonial du chemin
+                     Sainte-Marie ;
+
+                  5. Concevoir un milieu attractif et dynamique qui se démarque par son
+                     aménagement paysager.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+
+
+
+V.07_2025-12-04                                                                           38
+                                       Codification administrative | Règlement numéro 798
+
+
+                  1. Le caractère rural du chemin Sainte-Marie devrait être souligné par
+                     la préservation et le renforcement de la frange végétale composée
+                     de vivaces florifères bordant la rue;
+
+                  2. La préservation de la strate végétale, des massifs d’arbres matures
+                     et de la topographie naturelle du sol est favorisée ;
+
+                  3. Le couvert végétal sur chaque lot devrait présenter un bon niveau
+                     de biodiversité, incluant des espèces de plantes vivaces, d’arbustes
+                     et d’arbres;
+
+                  4. Les arbres plantés devraient être diversifiés en termes de formats et
+                     de dimensions, incluant des feuillus et des conifères ;
+
+                  5. Le concept d’aménagement paysager devrait privilégier un mélange
+                     d’espèces dont les périodes de floraison ou d’épanouissement sont
+                     différentes;
+
+                  6. Le concept d’aménagement paysager devrait concourir à la
+                     consolidation des boisés existants ainsi qu’à la qualité, la diversité
+                     et la connectivité écologique du milieu;
+
+                  7. Les végétaux nécessitant un minimum d’irrigation artificielle sont
+                     favorisés ;
+
+                  8. Les stratégies d’aménagement pour les réseaux de drainage des
+                     eaux de ruissellement devraient s’inspirer du Guide de gestion des
+                     eaux pluviales préparé par le ministère du Développement durable,
+                     de l'Environnement et de la Lutte contre les changements
+                     climatiques (MDDELCC) et prioriser l’implantation d’ouvrages de
+                     biorétention (noues végétalisées, bandes filtrantes, jardins de pluie,
+                     etc.).
+
+Article 41.6      Objectifs et critères applicables à l’affichage
+
+                  Les concepts d’affichage sont évalués en fonction des objectifs
+                  suivants :
+
+                  1. Réaliser un concept d’affichage industriel sobre et de facture
+                     contemporaine ;
+
+                  2. Garantir l’intégration harmonieuse des enseignes par rapport au
+                     cadre bâti et aux structures d’affichage environnantes ;
+
+                  3. Promouvoir l’image de prestige du parc industriel.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1. Les enseignes s’inspirent des composantes architecturales
+                     présentes sur les bâtiments (couleurs, matériaux, etc.) ;
+
+                  2. Le nombre de couleurs et de matériaux composant une enseigne
+                     devrait être limité;
+
+                  3. Un éclairage par réflexion, tempéré et discret est favorisé;
+
+                  4. Une enseigne détachée du bâtiment devrait respecter le gabarit de
+                     ce dernier et éviter de faire ombrage aux constructions et au
+                     domaine public. La base de cette enseigne devrait être pourvue
+                     d’un aménagement paysager s’harmonisant à l’aménagement du
+                     secteur.
+
+                  798-1, 2018-03-14;
+
+Chapitre XI.2     OBJECTIFS ET CRITÈRES APPLICABLES AU BOULEVARD DES
+                  ANCIENS-COMBATTANTS
+
+
+V.07_2025-12-04                                                                           39
+                                        Codification administrative | Règlement numéro 798
+
+
+
+Article 41.7      Intention, territoire et interventions
+
+
+                  Le programme particulier d’urbanisme du boulevard des Anciens-
+                  Combattant a été adopté afin d’encadrer le développement des
+                  terrains vacants au nord de l’Hôpital Sainte-Anne. Celui-ci vise à faire
+                  de ces terrains un trait d’union entre les différents secteurs de Sainte-
+                  Anne-de-Bellevue qui dialogue avec les composantes à proximité.
+                  L’objectif est de créer un quartier dédié à l’épanouissement des aînés
+                  qui allie compacité, mixité et durabilité sous le prisme de l’innovation et
+                  l’avant-garde des aménagements proposés. Les projets dans ce
+                  secteur doivent créer un milieu inclusif où les résidents et visiteurs
+                  contribuent à l’animation continue du site ancré dans l’héritage des
+                  Anciens-Combattants du Canada.
+
+                  Les dispositions du présent chapitre s’appliquent à tous projets visant
+                  un usage résidentiel, commercial ou public localisés à l’intérieur des
+                  limites du PPU des Anciens-Combattants.
+
+                  798-5, 2022-03-14 ;
+
+                  Les interventions suivantes sont assujetties :
+
+                  1) Un permis de lotissement pour l’identification cadastrale d’un
+                  terrain en vue de l’obtention d’un permis de construction ;
+
+                  2) Un permis de lotissement pour le remembrement cadastral d’un
+                  terrain ;
+
+                  3) Un permis de construction d’un nouveau bâtiment principal ou
+                  accessoire, ou pour l’agrandissement, en surface ou en volume, d’un
+                  bâtiment existant ;
+
+                  4) Un permis pour une intervention entraînant une modification de
+                  l’aspect extérieur d’un bâtiment existant ;
+
+                  5)   Un permis ou un certificat pour la démolition d’un bâtiment ;
+
+                  798-4, 2021-08-23 ;
+
+                  6) Un certificat d’autorisation pour l’aménagement ou la modification
+                  d’un espace de stationnement hors-rue ou d’une aire de chargement et
+                  de déchargement ;
+
+                  7) Un certificat d’autorisation pour l’installation d’équipements
+                  techniques et de climatisation au sol, au toit ou sur un balcon ; »
+
+                  8) Un certificat d’autorisation pour l’installation ou la modification d’une
+                  enseigne.
+
+                  798-5, 2022-03-14 ;
+
+
+Article 41.8      Objectifs et critères applicables aux usages
+
+                  Les usages projetés sont évalués en fonction des objectifs suivants :
+
+                       Répondre aux besoins de différents profils de personnes âgées;
+
+                       Favoriser la mixité sociale.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+
+
+V.07_2025-12-04                                                                            40
+                                        Codification administrative | Règlement numéro 798
+
+
+                  1)   Le projet propose des logements de tailles variées;
+
+                  2) Des logements sont réservés à des personnes âgées en perte
+                  d’autonomie ou présentant des troubles cognitifs ;
+
+                  798-4, 2021-08-23 ;
+
+                  3) Le projet propose des logements abordables.
+                  798-5, 2022-03-14 ;
+
+
+
+Article 41.9      Objectifs et critères applicables au lotissement
+
+                  Le projet de lotissement est évalué en fonction des objectifs suivants :
+
+                  1) Assurer la perméabilité du lotissement et du réseau de
+                  cheminements piétonniers ;
+
+                  2) Créer des ensembles immobiliers contribuant au rythme et au
+                  dynamisme des implantations ;
+
+                  3) Créer une trame de rue à l’échelle locale respectant le concept
+                  d’organisation spatiale du PPU du boulevard des Anciens-
+                  Combattants.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1) Les terrains sont suffisamment grands pour permettre l’articulation
+                  de blocs bâtis se distinguant les uns des autres ;
+
+                  2) La forme des terrains favorise une implantation des bâtiments
+                  prioritairement le long de la rue locale et des espaces publics (parc et
+                  place publique) ;
+
+                  3) La largeur des terrains permet de laisser de l’espace pour un
+                  réseau de voies de circulation actives et universelles reliant les
+                  propriétés entre elles et vers les espaces publics;
+
+                  4) Une rue locale est aménagée au centre du site et elle est
+                  raccordée au boulevard des Anciens-Combattants par les entrées
+                  charretières existantes.
+
+                  798-4, 2021-08-23 ;
+
+
+Article 41.10     Objectifs et critères applicables à l’implantation des bâtiments
+
+                  L’implantation des bâtiments est évaluée en fonction des objectifs
+                  suivants :
+
+                  1) Créer un milieu d’ambiance urbaine, conviviale et à échelle
+                  humaine ;
+
+                  2)   Contribuer à l’animation et l’intégration des espaces publics ;
+
+                  3) Permettre les cheminements piétonniers et universels à travers les
+                  îlots;
+
+                  4)   Mettre en valeur les composantes paysagères d’intérêt;
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1)   Les complexes immobiliers se déploient en plusieurs blocs bâtis;
+
+V.07_2025-12-04                                                                           41
+                                        Codification administrative | Règlement numéro 798
+
+
+
+                  2) La longueur des façades favorise un alignement continu des
+                  constructions sur la rue locale, limite les vides et discontinuités nuisant
+                  à l’ambiance conviviale et à échelle humaine, mais permet néanmoins
+                  des percées visuelles et l’aménagement de voies de circulations
+                  actives et universelles entre les bâtiments;
+
+                  3) Les façades principales des bâtiments sont                    orientées
+                  prioritairement vers la rue locale et la placette publique;
+
+                  4) Les bâtiments sont implantés parallèlement à la rue locale, avec
+                  un recul minimal ;
+
+                  5) Les bâtiments bordant la placette publique présentent un retrait
+                  important permettant l’aménagement de terrasses;
+
+                  6) Des percées visuelles sont préservées entre le boulevard des
+                  Anciens-Combattants et le parc local ;
+
+                  7) Des espaces extérieurs sont réservés entre les bâtiments pour
+                  créer des cheminements piétonniers et universels continus traversant
+                  les îlots du nord au sud.
+
+                  798-4, 2021-08-23 ;
+
+
+Article 41.11     Objectifs et critères applicables à la volumétrie des bâtiments
+
+                  La volumétrie des bâtiments est évaluée en fonction des objectifs
+                  suivants :
+
+                  1)   Créer des ensembles d’ambiance urbaine et conviviale ;
+
+                  2)   Créer un cadre bâti compact et à échelle humaine ;
+
+                  3) Assurer un équilibre entre les gabarits des bâtiments et la
+                  dimension des espaces publics.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                     Les bâtiments se déclinent en plusieurs volumes de différents
+                  gabarits pour éviter l’effet de masse et les formes monolithiques;
+
+                      Les hauteurs plus importantes sont modulées au sein des
+                  ensembles, pour chacun des lots, et sont priorisées aux abords du
+                  parc local, de la forêt de Senneville et du boulevard, sans nuire à la
+                  création de percées visuelles vers la forêt et la zone agricole;
+
+                      Dans le cas d’un bâtiment de 4 étages et plus, les étages
+                  supérieurs forment des volumes en retrait qui se distinguent d’un
+                  basilaire de 2 à 4 étages;
+
+                      Des retraits horizontaux et verticaux, des variations de hauteurs et
+                  des détachements entre les volumes sont utilisés;
+
+                       Les effets d’ombrage sur les terrains adjacents et leur durée sont
+                  limités, particulièrement pour les bâtiments de 6 étages et plus.
+
+                  798-4, 2021-08-23 ;
+
+
+Article 41.12     Objectifs et critères applicables à la volumétrie des bâtiments
+
+
+
+V.07_2025-12-04                                                                           42
+                                        Codification administrative | Règlement numéro 798
+
+
+                  L’architecture des bâtiments est évaluée en fonction des objectifs
+                  suivants :
+
+                  1) Assurer la diversité, la créativité et le dynamisme des formes
+                  architecturales ;
+
+                  2) Créer un environnement convivial, participant à l’animation de
+                  l’espace public et favorable à la marche ;
+
+                  3) Assurer un encadrement intéressant du domaine public, à l’échelle
+                  des piétons.
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                  1) La composition architecturale des bâtiments est innovante et
+                  adopte un langage résolument contemporain, conférant un caractère
+                  unique au projet;
+
+                  2) Les bâtiments se distinguent les uns des autres tout en
+                  maintenant une cohérence d’ensemble ;
+
+                  3) Les façades sont recouvertes de matériaux nobles de qualité tels
+                  que le bois, la maçonnerie, le métal traité et les matériaux composites
+                  durables ;
+
+                  4) Des revêtements légers (tels le bois, le métal traité et les
+                  matériaux composites durables) ou de couleur claire sont favorisés
+                  pour les étages supérieurs, particulièrement pour les étages situés en
+                  retrait des basilaires ;
+
+                  5) Des détails et éléments architecturaux soignés attirent l’œil et
+                  améliorent le confort des passants, résidants et utilisateurs (protection
+                  du soleil, de la pluie, du vent, de la neige) ;
+
+                  6) Les façades sont découpées selon                   une    composition
+                  verticale animant les parcours piétonniers;
+
+                  7) Les rez-de-chaussée commerciaux possèdent une fenestration
+                  abondante, un traitement architectural différent du reste du bâtiment et
+                  des entrées distinctes des entrées résidentielles ;
+
+                  8) Les entrées fonctionnelles sont localisées aux abords du domaine
+                  public et le nombre d’entrées de garage ou de services est limité ;
+
+                  9) Les entrées principales sont mises en valeur par un traitement
+                  architectural particulier (avancée, retrait, transparence accrue,
+                  variation des matériaux) et sont universellement accessibles ;
+
+                  10) Les logements situés au rez-de-chaussée peuvent bénéficier
+                  d’entrées extérieures directes, au niveau du sol, si leur intégration
+                  n’affecte pas la cohérence architecturale du bâtiment ;
+
+                  798-4, 2021-08-23 ;
+
+                  11) Un équipement de climatisation individuel localisé sur un balcon
+                  s’intègre à la composition architecturale du bâtiment. La proposition
+                  architecturale permet de dissimuler ces équipements à partir de la rue
+                  ou de toute partie d’un bâtiment situé dans la même zone ou dans une
+                  zone adjacente ;
+
+
+
+V.07_2025-12-04                                                                           43
+                                        Codification administrative | Règlement numéro 798
+
+
+                  12) Les équipements techniques et de climatisation au toit s’intègrent à
+                  la composition architecturale du bâtiment. La proposition architecturale
+                  permet de dissimuler ces équipements à partir de la rue ou de toute
+                  partie d’un bâtiment situé dans la même zone, dans une zone
+                  adjacente ou dans la zone P-139 ;
+
+                  13) Les enseignes installées sur le bâtiment s’intègrent à la
+                  composition architecturale et présentent une superficie, des
+                  dimensions, des matériaux, des couleurs et un éclairage cohérents
+                  avec le bâtiment et l’ambiance recherchée pour le site.
+
+                  798-5, 2022-03-14 ;
+
+
+Article 41.13     Objectifs et critères applicables à la durabilité des bâtiments
+
+                  La durabilité des bâtiments est évaluée en fonction des objectifs
+                   suivants :
+
+                  1) Assurer la construction de bâtiments intégrant des standards
+                   élevés de construction écologique ;
+
+                  2) Privilégier des méthodes de construction durables et assurer
+                   l’établissement de bâtiments performants sur plan énergétique ;
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                      L’utilisation d’énergies renouvelables (énergie solaire, géothermie,
+                   biomasse, etc.) est favorisée ;
+
+                      L’isolation des bâtiments limite au maximum les pertes thermiques
+                   (résistance thermique des matériaux isolants [RSI] élevée) tout en
+                   étant composée de matériaux sains ;
+
+                      Autant que possible, le dimensionnement et le positionnement des
+                   ouvertures sont conçus en fonction de l’orientation du soleil et
+                   favorisent une ventilation et un éclairage naturels du bâtiment, tout en
+                   maintenant une performance énergétique de haut niveau ;
+
+                      Les équipements limitent la consommation en eau potable et
+                   prévoient une récupération efficace des eaux grises ;
+
+                       L’intégration de murs végétaux et de toits verts est favorisée ;
+
+                      La qualité de l’environnement intérieur est garantie par système de
+                   ventilateur-récupérateur de chaleur (VRC) écoénergétique qui
+                   minimise la présence de contaminants dans l’air ambiant
+                   (surhumidité, combustion, composés organiques volatils [COV],
+                   radon, etc.).
+
+                  798-4, 2021-08-23 ;
+
+
+Article 41.14     Objectifs et critères applicables aux aires de stationnement, de
+                  livraison et de manutention
+
+                  L’aménagement des aires de stationnement, de livraison et de
+                  manutention est évalué en fonction des objectifs suivants :
+
+                  1) Minimiser l’empreinte au sol de l’automobile au profit des espaces
+                  verts ;
+
+                  2)   Favoriser les déplacements actifs et la mobilité durable
+
+
+V.07_2025-12-04                                                                           44
+                                        Codification administrative | Règlement numéro 798
+
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                        Les stationnements hors rue sont essentiellement aménagés à
+                  l’intérieur du bâtiment, en souterrain ;
+
+                       Des cases de stationnement extérieures réservées aux visiteurs
+                  sont prévues et leur nombre est adéquat, sans que cela ne soit
+                  effectué au détriment de l’aménagement d’espaces verts au sein des
+                  ensembles ;
+
+                       Des aires de stationnement réservées aux vélos et aux véhicules
+                  électriques ou partagés sont aménagées près des accès principaux
+                  (entrées, ascenseurs) ;
+
+                      Les quais de chargement sont essentiellement prévus à l’intérieur
+                  des bâtiments et les aires de chargement, de manœuvre et voies
+                  d’accès sont dissimulées par des aménagements paysagers;
+
+                      Les aires de manœuvre et de circulation extérieures sont
+                  recouvertes de matériaux pâles (à haut indice de réflectance solaire)
+                  ou bordées d’arbres permettant, à maturité, un ombrage des espaces.
+
+                      Les aires de manœuvre et de circulation extérieures sont
+                  recouvertes de matériaux perméables à l’eau.
+
+                  798-4, 2021-08-23 ;
+
+
+Article 41.15     Objectifs et critères applicables aux aménagements extérieurs
+
+                  Les aménagements extérieurs sont évalués en fonction des objectifs
+                  suivants :
+
+                       Garantir le confort et la quiétude des résidents en accordant une
+                  part généreuse aux aménagements extérieurs ;
+
+                      Créer des aménagements paysagers qui contribuent                    au
+                  développement de la biodiversité et à la durabilité du milieu ;
+
+                       Optimiser l’utilisation du réseau d’infrastructures publiques et
+                  intégrer des principes de gestion durable et in situ des eaux pluviales
+
+                  La conformité aux objectifs est évaluée selon les critères suivants :
+
+                      Les aménagements extérieurs permettent la mitigation des
+                  nuisances occasionnées par le boulevard des Anciens-Combattants,
+                  notamment par l’aménagement de buttes paysagères abondamment
+                  végétalisées ;
+
+                      Des sentiers piétonniers s’intègrent à un réseau continu reliant les
+                  propriétés entre elles et aux espaces publics ;
+
+                      Des allées d’accès permettent de rejoindre les entrées
+                  secondaires des bâtiments à partir des cheminements piétonniers ;
+
+                     Les allées d’accès et sentiers piétonniers sont recouvertes de
+                  matériaux de revêtement perméables ;
+
+                       L’accessibilité universelle est garantie tout au long des parcours
+                  piétonniers ;
+
+
+
+
+V.07_2025-12-04                                                                           45
+                                        Codification administrative | Règlement numéro 798
+
+
+                      Des terrasses sont aménagées pour les usages commerciaux
+                  adjacents aux parcs et places publiques ;
+
+                      Les aménagements extérieurs sont marqués par une végétation
+                  abondante, privilégiant les espèces indigènes (arbres, arbustes et
+                  massifs fleuris) et permettant, à maturité, le développement d’une
+                  canopée importante sur le site ;
+
+                      Les aménagements extérieurs tiennent compte des composantes
+                  naturelles du site (zones boisées existantes, connectivité paysagère
+                  avec les milieux adjacents) ;
+
+                       Des noues végétalisées et des bassins de rétention intégrés aux
+                  aménagements paysagers permettent la retenue des eaux de
+                  ruissellement;
+
+                        Des bandes filtrantes végétalisées (gazon et autres plantes) sont
+                  aménagées dans les cours afin de permettre la filtration, l’écoulement
+                  et l’infiltration des eaux. »
+
+                  798-4, 2021-08-23 ;
+
+                  11) Les équipements techniques et génératrices au sol s’intègrent à
+                  l’aménagement proposé. Leur localisation tient compte des espaces de
+                  vie extérieurs des résidents et la proposition paysagère permet de les
+                  dissimuler ;
+
+                  12) Les enclos pour les contenants de matières résiduelles au sol
+                  s’intègrent à l’aménagement proposé. Leur localisation tient compte
+                  des espaces de vie extérieurs des résidents et la proposition
+                  paysagère permet de les dissimuler ;
+
+                  13) Les enseignes directionnelles présentent une superficie, des
+                  dimensions, des matériaux, des couleurs et un éclairage cohérents
+                  avec le bâtiment et l’ambiance recherchée pour le site.
+
+                  798-5, 2022-03-14 ;
+
+Article 41.16
+
+                  Une intervention visant la réparation ou le remplacement de toute
+                  fenêtre ou porte, revêtement de toiture et de mur extérieur, et tous
+                  autres éléments architecturaux extérieurs susceptibles de modifier
+                  l’apparence d’un bâtiment, avec un élément ou composante similaire
+                  ou identique, pourvu que la couleur, l’emplacement, la configuration et
+                  les dimensions demeurent inchangés et dans la mesure où les travaux
+                  projetés reprennent un élément d’origine du bâtiment ou de la
+                  construction, même si cet élément a été altéré avec le temps, n’aura
+                  pas à passer par le Comité Consultatif d’Urbanisme pour une décision
+                  éventuelle par le conseil municipal.
+
+                  798-6, 2022-05-09 ;
+
+
+
+Article 41.17
+
+                  Le service d’urbanisme de la municipalité examinera la demande en
+                  vertu de l’article 41.16 et pourra délivrer un permis après s’être assuré
+                  que la demande est conforme au présent règlement.
+
+                  798-6, 2022-05-09 ;
+
+
+
+
+V.07_2025-12-04                                                                         46
+                                      Codification administrative | Règlement numéro 798
+
+
+Chapitre XI.3     OBJECTIFS ET CRITÈRES APPLICABLES AUX MILIEUX HUMIDES
+
+                  Milieux humides
+
+Article 41.18     Intention, territoire et interventions
+
+                  La présente section vise à assurer la conservation, la mise en valeur et
+                  la restauration des milieux humides et de leur aire de protection, en
+                  reconnaissant leur importance écologique, hydrologique et paysagère.
+                  Ces milieux jouent un rôle essentiel dans la régulation du cycle de
+                  l’eau, la prévention des inondations, le maintien de la biodiversité, ainsi
+                  que la résilience des écosystèmes face aux changements climatiques.
+
+                  La présente section s’applique à toute demande de permis pour la
+                  construction ou la transformation d’un bâtiment principal ou la
+                  réalisation d’un ouvrage, proposant un empiètement ou un
+                  empiètement additionnel dans un milieu humide d’intérêt à protéger ou
+                  à restaurer ou dans son aire de protection identifié à l’annexe D du
+                  Règlement de zonage 874.
+
+                  798-7, 2025-12-04
+
+
+Article 41.19     Objectifs et critères
+
+                  Toute intervention est évaluée en fonction des objectifs et critères
+                  suivants :
+
+                  Objectifs
+
+                  1° Maximiser la conservation des milieux humides et de leur aire de
+                     protection;
+
+                  2° Mettre en valeur les éléments d’intérêts naturels et favoriser une
+                     intégration harmonieuse de ceux-ci au projet;
+
+                  3° Favoriser la préservation et le rehaussement de la biodiversité;
+
+                  4° Préserver ou favoriser l’alimentation en eau des milieux humides.
+
+                  Critères
+
+                  1° L’implantation d’une construction et la réalisation d’un ouvrage
+                     sont éloignés des milieux humides et de leur aire de protection;
+
+                  2° L’aménagement du terrain et l’implantation des constructions est
+                     préconisé en limitant la perte de milieux naturels et les milieux
+                     humides et minimisant les activités de déblai, remblai ou de
+                     déplacement d’humus ou de végétaux indigènes non
+                     envahissants;
+
+                  3° La conservation d’une bande de protection approximative de
+                     10 mètres est favorisée autour des milieux humides;
+
+                  4° Le projet préconise l’aménagement de liens écologiques entre les
+                     milieux humides d’intérêt et de tout autre milieu naturel;
+
+                  5° Le projet contribue à la mise en valeur des milieux humides
+                     d’intérêt et de tout autre milieu naturel;
+
+                  6° Le projet optimise la conservation des arbres existants et des
+                     espèces végétales présentant une valeur écologique;
+
+                  7° Le projet contribue à la restauration du terrain, et par la plantation
+                     d’espèces indigènes diversifiées et adaptées au site, ainsi que par
+                     l’éradication des espèces envahissantes;
+
+
+
+V.07_2025-12-04                                                                           47
+                                      Codification administrative | Règlement numéro 798
+
+
+                  8° Le projet préserve, dans la mesure du possible, la topographie
+                     naturelle et l’équilibre hydrique des milieux humides d’intérêt, et
+                     par la limitation des travaux de déblai, de remblai ou du
+                     déplacement d’humus;
+
+                  9° Toute construction et tout aménagement permet le maintien des
+                     bassins de drainage naturel et assure l’écoulement des eaux vers
+                     les milieux humides d’intérêt.
+
+                  798-7, 2025-12-04
+
+
+Chapitre XII      DISPOSITIONS FINALES
+
+Article 42        Contraventions, pénalités et recours
+
+                  Toute personne qui procède à une intervention assujettie à
+                  l'application du présent règlement sans obtenir au préalable une
+                  autorisation selon la procédure décrite ci-dessus ou toute personne qui
+                  ne respecte pas les conditions d'approbation de sa demande de
+                  permis est passible, en plus des frais, d'une amende :
+
+                  1. Pour une première infraction, d'un minimum de 100 $ et d'un
+                     maximum de 1 000 $ si le contrevenant est une personne physique
+                     ou de 2 000 $ si le contrevenant est une personne morale;
+                  2. Pour toute récidive, d'un minimum de 200 $ et d'un maximum de
+                     2 000 $ si le contrevenant est une personne physique ou de
+                     4 000 $ si le contrevenant est une personne morale.
+
+                  Dès qu'elle en est avisée par l'autorité compétente, la personne doit
+                  interrompre les travaux et soumettre une demande de permis
+                  conformément aux dispositions du présent règlement ou, le cas
+                  échéant, se conformer aux conditions d'approbation de sa demande de
+                  permis.
+
+                  Toute poursuite des travaux après un avis d'infraction de l’autorité
+                  compétente constitue, à chaque jour, une récidive.
+
+                  Outre les recours par action pénale, la ville peut exercer, devant les
+                  tribunaux de juridiction compétente, contre toute personne physique ou
+                  morale, tous les recours de droit nécessaires pour faire respecter les
+                  dispositions du présent règlement, entre autres pour :
+
+                  1. Empêcher le dépôt d'un plan de subdivision;
+                  2. Empêcher ou suspendre tous travaux de construction ou
+                     d'aménagement entrepris en contravention avec les dispositions du
+                     présent règlement;
+                  3. Obtenir la démolition de bâtiment, ajout ou modification exécuté en
+                     contravention avec les dispositions du présent règlement;
+                  4. Obtenir la remise en état de tout bâtiment ou structure démoli,
+                     agrandi ou autrement modifié en contravention avec les
+                     dispositions du présent règlement;
+                  5. Obtenir le remplacement de tout arbre mature abattu en
+                     contravention avec les dispositions du présent règlement.
+
+
+Article 43        Entrée en vigueur
+
+                  Le présent règlement entre en vigueur conformément à la Loi.
+
+                                                   [Original signé]
+                                                   _____________________________
+                                                   Me Paola Hawa, Maire
+
+
+                                                   [Original signé]
+                                                   _____________________________
+                                                   Me Linda Chau, greffière par intérim
+
+
+V.07_2025-12-04                                                                       48
+

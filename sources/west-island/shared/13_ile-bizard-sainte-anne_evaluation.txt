@@ -1,0 +1,2354 @@
+      Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de L’Île-Bizard — Sainte-Geneviève —
+Sainte-Anne-de-Bellevue
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+
+
+
+
+               Évaluation du patrimoine urbain
+
+
+ARRONDISSEMENT
+de L’Île-Bizard — Sainte-Geneviève —
+Sainte-Anne-de-Bellevue
+Étude réalisée par le Service de la mise en valeur du territoire et du patrimoine
+
+Direction du développement urbain, sous la direction de Madame Céline Topp
+
+
+
+Cette analyse du patrimoine urbain a été réalisée par la Division du patrimoine et de la toponymie sous la direction de Jean-François Gravel,
+chef de division. Le travail a été effectué de janvier 2003 à mai 2004 dans le cadre de la préparation du Plan d’urbanisme de la Ville de
+Montréal, qui a été adopté par le Conseil municipal le 23 novembre 2004. L’équipe du projet comprend, pour l’évaluation du patrimoine bâti
+et la recherche historique, Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre et Pierre-Paul Savignac,
+architectes, et Denise Caron, historienne. La recherche et l’écriture pour le patrimoine archéologique ont été réalisées par Claire Mousseau,
+archéologue, avec la collaboration de Françoise Duguay, François Bélanger, Anne-Marie Balac et Christian Roy, également archéologues.
+De plus, Gisèle Trépanier, conseillère en aménagement, et Nicole Halpert, chargée de communication, ont participé à la révision des textes
+tandis que Ginette Bouchard, secrétaire d’unité administrative, a procédé à la saisie de texte. Finalement, nous tenons à remercier nos
+collaborateurs des directions de l’aménagement urbain et des services aux entreprises des arrondissements.
+
+
+
+Remerciements
+
+Rendus cartographiques :
+Division des politiques et du Plan d’urbanisme
+Révision linguistique :
+Sylvie Poulin
+Conception graphique et mise en page :
+Marie Violaine Lamarche
+Photographies :
+Ville de Montréal, Bibliothèque nationale du Québec, P. Fauteux
+
+
+
+Ce document fait partie d’une série de cahiers qui ont été réalisés pour chacun des 27 arrondissements de la Ville de Montréal. Les différents
+cahiers d’évaluation du patrimoine urbain peuvent être consultés sur notre site internet à l’adresse suivante : ville.montreal.qc.ca/patrimoine
+
+
+
+ISBN 2-7647-0444-5
+
+Dépôt légal – Bibliothèque nationale du Québec, 2005
+Dépôt légal – Bibliothèque nationale du Canada, 2005
+
+
+
+Service de la mise en valeur du territoire et du patrimoine
+Direction du développement urbain
+Division du patrimoine et de la toponymie
+                 TABLE DES MATIÈRES
+              ARRONDISSEMENT
+de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+ 7           A VA N T- P R O P O S
+
+ 9   1.      CADRE MÉTHODOLOGIQUE
+
+ 9   1.1     Introduction
+ 9   1.2     Le cadre bâti d’intérêt patrimonial
+ 9   1.2.1   Approche, étapes et résultats
+11   1.2.2   Critères de sélection
+14   1.3     Les tracés fondateurs d’intérêt patrimonial
+14   1.4     Le patrimoine archéologique
+14   1.4.1   Le caractère spécifique de ce patrimoine
+16   1.4.2   La démarche générale d’acquisition de connaissances et de conservation
+17   1.4.3   L’approche méthodologique et l’identification du patrimoine
+             archéologique au Plan d’urbanisme
+19   1.5     Nouvelles perspectives
+
+21   2.      HISTORIQUE
+
+25   3.      É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+25   3.1     Mise en situation
+25   3.2     Résultat de l’analyse
+25   3.2.1   Les tracés fondateurs d’intérêt patrimonial
+27   3.2.2   Le cadre bâti d’intérêt patrimonial
+27           A Les secteurs de valeur patrimoniale exceptionnelle
+32           B    Les secteurs de valeur patrimoniale intéressante
+33           C Les ensembles urbains d’intérêt
+34           D Les immeubles de valeur patrimoniale exceptionnelle
+                  Carte synthèse : Évaluation du patrimoine urbain
+39   3.2.3   Le patrimoine archéologique
+40           A Les secteurs d’intérêt archéologique à fort potentiel
+44           B    Les secteurs d’intérêt archéologique
+44           C Les sites archéologiques
+45           D Les biens culturels à statut
+                  Carte synthèse : Le patrimoine archéologique
+
+49   4.      R E C O M M A N D AT I O N S
+
+49   4.1     Générales à l’échelle de l’arrondissement
+50   4.2     Générales à l’échelle montréalaise
+51   4.3     Spécifiques à l’arrondissement
+
+53           BIBLIOGRAPHIE
+                                  A VA N T- P R O P O S
+
+
+
+
+Le repérage du patrimoine urbain dont nous faisons                  C’est la première fois que l’on entreprend un tel travail
+état ici a été réalisé dans le cadre de l’élaboration du            pour les 27 arrondissements de l’île, travail qui suppose
+Plan d’urbanisme de la Ville de Montréal, qui a été                 non seulement l’examen de nouvelles thématiques et
+adopté par le Conseil municipal le 23 novembre 2004.                l’établissement de collaborations avec les arrondisse-
+                                                                    ments de Montréal, mais aussi une harmonisation
+Le chapitre 2 de la première partie du Plan d’urbanisme             des visions et des représentations que les arrondisse-
+formule différentes orientations d’aménagement                      ments ont de leur patrimoine. Par exemple, dans
+pour Montréal et comprend une section sur le patri-                 certains cas, seul le patrimoine du Régime français
+moine bâti, archéologique et naturel. Le repérage                   était privilégié; ailleurs, on n’avait jamais considéré
+des secteurs et bâtiments d’intérêt patrimonial et des              que le parc immobilier plus récent puisse avoir une
+secteurs d’intérêt archéologique contribuera à atteindre            valeur patrimoniale. Ce repérage connexe au Plan
+l’objectif de conservation énoncé dans le Plan. Il a été            d’urbanisme constitue donc une chance unique de
+mené par la Division du patrimoine et de la topo-                   faire converger des visions différentes et d’envisager
+nymie en collaboration avec la Division des politiques              le patrimoine de l’ensemble des arrondissements de
+et du Plan d’urbanisme du Service de la mise en                     Montréal dans une perspective commune.
+valeur du territoire et du patrimoine, de janvier 2003
+à mai 2004. En ce qui a trait aux sites archéologiques
+recensés, la liste a été mise à jour en mars 2004.
+
+Préparés par la Division du patrimoine et de la topo-
+nymie, les « Cahiers d’arrondissement » présentent
+la méthodologie du travail de repérage, un bref his-
+torique de chacun des arrondissements, les résultats
+complets du repérage du patrimoine bâti et archéo-
+logique, la justification des choix des secteurs, des
+recommandations et une bibliographie. Ces cahiers,
+qui constituent un document d’appoint au Plan
+d’urbanisme, s’adressent d’abord aux citoyens et
+aux gestionnaires des arrondissements afin de les
+sensibiliser à l’importance de conserver le patrimoine
+de leur localité, ainsi que de les aider à mieux com-
+prendre le territoire et à développer des outils de
+gestion et de contrôle appropriés pour assurer la
+conservation de leur patrimoine urbain.
+
+
+
+
+                        ARRONDISSEMENT                                                                                     7
+          de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+1.
+1.1 Introduction
+                                   CADRE MÉTHODOLOGIQUE
+
+
+
+                                                                     1.2 Le cadre bâti d’intérêt patrimonial
+Le patrimoine urbain montréalais ne se limite pas à                  1.2.1 Approche, étapes et résultats
+une addition de bâtiments individuels de grand intérêt.
+                                                                     L’approche choisie pour la sélection des bâtiments et
+Il porte aussi l’empreinte des époques passées sous
+                                                                     secteurs s’appuie sur le concept de paysage urbain
+forme de tracés de rues, de paysages, de constructions,
+                                                                     développé par Kevin Lynch, selon lequel le territoire
+d’éléments naturels, de vestiges archéologiques ou
+                                                                     se découvre à partir de l’intérieur et non à vol d’oiseau
+de vues exceptionnelles. Le patrimoine urbain forme
+                                                                     (en plan), et se compose d’une succession de séquences
+l’environnement dans lequel nous vivons aujourd’hui
+                                                                     visuelles expérimentées le long d’un parcours.
+et chacune de ses composantes entretient des relations
+complexes avec les autres. Ainsi, un bâtiment contribue              Cette approche, basée sur l’expérience spatiale, com-
+à la qualité et à l’identité d’un lieu, et inversement,              porte au moins deux implications. L’une marque notre
+certaines qualités qui lui sont extérieures rehaussent               préférence pour la considération des bâtiments
+son attrait. Par exemple, une église et une école                    exceptionnels ou intéressants dans leur contexte
+donnant sur un parc ajoutent à son intérêt; un amé-                  plutôt qu’en tant qu’objets isolés. L’autre est que les
+nagement paysager particulier, tel un écrin, peut con-               limites des secteurs sélectionnés sont déterminées
+tribuer à rehausser la valeur patrimoniale d’un bâtiment;            par le champ visuel. Ces limites ne sont donc pas
+une habitation plutôt modeste peut se trouver dans                   arbitrairement placées au centre des rues mais bien
+un secteur qui présente de belles qualités d’ensemble                au fond des lots afin d’englober toutes les com-
+(homogénéité, couvert végétal, etc.) ; et des rues peu-              posantes du champ visuel.
+vent offrir des vues exceptionnelles sur un élément
+naturel ou construit. La nature multidimensionnelle                  Même si elles sont réalisées pour tout le territoire de
+du patrimoine urbain fait qu’on ne peut considérer                   la ville de Montréal, la sélection et la qualification des
+ses composantes isolément. Ainsi, l’ancienneté, le                   bâtiments et secteurs patrimoniaux peuvent contribuer
+potentiel d’évocation historique, la qualité architec-               à faire ressortir la spécificité des arrondissements. En
+turale, l’harmonie et les qualités visuelles, la présence            effet, Montréal est composée de différents territoires
+d’éléments naturels, le tracé des rues, le potentiel ou              qui possèdent une identité et une histoire propres qui
+l’intérêt archéologique sont autant de facteurs que                  méritent d’être reconnues. Nous avons pris le parti de
+nous avons pris en compte afin de jeter les bases d’une              choisir l’arrondissement comme échelle d’observation
+meilleure intégration du patrimoine aux probléma-                    du territoire afin de dégager ces spécificités locales.
+tiques urbaines.                                                     De la sorte, les arrondissements qui ont connu un
+                                                                     développement plus récent sont également considérés
+La structure méthodologique comprend trois volets.                   et les particularités de leur patrimoine sont reconnues.
+Le premier traite de l’approche et des critères employés
+pour le cadre bâti d’intérêt patrimonial, le second
+explique ce que nous entendons par la notion de tracés
+fondateurs d’intérêt patrimonial, et le troisième expose
+les critères utilisés pour le patrimoine archéologique.
+
+
+
+
+                         ARRONDISSEMENT                                                                                      9
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+Si ce repérage fondé sur l’expérience spatiale prend           13) Préparation des cartes et listes finales.
+largement appui sur un travail d’observation sur le            14) Identification de quelques bâtiments et secteurs
+terrain, il n’aurait pu être achevé sans l’étude de                d’intérêt patrimonial exceptionnel qui se démar-
+sources documentaires. Bien qu’il ne s’agisse pas d’un             quent à l’échelle montréalaise (les incontournables).
+processus linéaire, voici les principales étapes suivies
+                                                               Tout au long des différentes étapes du projet, les résul-
+par la Division du patrimoine et de la toponymie :
+                                                               tats du travail ont été bonifiés par les connaissances
+1) Préparation de critères de sélection.                       des professionnels des arrondissements et de divers
+2) Rencontre avec chacun des 27 arrondissements pour           comités rattachés à la préparation du Plan d’urbanisme.
+    exposer la démarche et les critères de sélection.
+                                                               Les résultats du repérage du patrimoine urbain se
+3) Visite du territoire de chacun des arrondissements
+                                                               présentent sous forme de listes de bâtiments et de
+    avec les professionnels concernés.
+                                                               cartes définissant des secteurs d’intérêt. Il est important
+4) Recherche et étude de la documentation existante
+                                                               de comprendre que ces deux éléments ne peuvent
+    pour chacun des arrondissements :
+                                                               être dissociés l’un de l’autre – ils sont complémentaires.
+    – inventaires, études patrimoniales, études typo-
+                                                               Ainsi, on a inclus dans les listes tous les bâtiments
+      morphologiques, monographies, dépouillement
+                                                               exceptionnels de chacun des arrondissements, mais il
+      de périodiques, bases de données (Service des
+                                                               était impossible d’inscrire tous les bâtiments intéres-
+      immeubles, Communauté urbaine de Montréal,
+                                                               sants, étant donné leur trop grand nombre. Nous nous
+      Fondation du patrimoine religieux, etc.) ;
+                                                               sommes donc limités à nommer individuellement les
+    – cartographie ancienne et photos aériennes.
+                                                               bâtiments qualifiés d’intéressants qui se trouvaient
+5) Collecte d’informations thématiques :
+                                                               à l’extérieur de secteurs d’intérêt. Ces deux outils
+    – inventaires (les églises, les écoles, etc.),dépouille-
+                                                               doivent donc être interprétés en complémentarité.
+      ment de périodiques (le patrimoine moderne, etc.);
+    – consultation d’un expert en patrimoine industriel.       Le système d’identification des secteurs utilisé dans
+6) Élaboration d’un historique et d’une bibliographie          le document correspond à celui des cartes. Le premier
+    pour chacun des arrondissements.                           chiffre correspond au numéro d’arrondissement. Il est
+7) Analyse de la documentation et détermination                suivi de la lettre E pour les secteurs de valeur patri-
+    préliminaire des territoires et immeubles d’intérêt        moniale exceptionnelle, de la lettre I pour les secteurs
+    pour chacun des arrondissements.                           de valeur patrimoniale intéressante, de la lettre N
+8) Travail sur le terrain : repérage en voiture et à pied      pour les secteurs industriels d’intérêt ou par la lettre U
+    avec la collaboration de certains arrondissements.         pour les secteurs urbains d’intérêt. Le deuxième chiffre
+9) Photographies et report des données spatiales               correspond au numéro du secteur.
+    sur des cartes.
+10) Vérification de la cohérence du traitement des             L’échéancier de réalisation du Plan d’urbanisme,
+    secteurs d’intérêt qui chevauchent plusieurs               les ressources disponibles ainsi que l’état actuel des
+    arrondissements.                                           connaissances sur les différents bâtiments et lieux
+11) Catégorisation des secteurs et immeubles d’intérêt         d’intérêt ont été déterminants quant à la méthodologie
+    patrimonial (exceptionnels et intéressants).               adoptée. Ces contraintes inévitables ont constitué un
+12) Rédaction de courts textes résumant l’intérêt              défi de taille pour la production de ce document qui
+    patrimonial de chacun des secteurs sélectionnés.           est, malgré tout, une base solide à partir de laquelle
+                                                               on pourra amorcer une réflexion plus poussée sur la
+                                                               protection du patrimoine montréalais.
+
+
+
+
+10                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.2.2 Critères de sélection                                                 – Intéressants : ensembles comprenant plusieurs bâti-
+                                                                              ments et certaines caractéristiques environnementales
+LES SECTEURS D’INTÉRÊT PATRIMONIAL                                            qui présentent un intérêt patrimonial. Ce sont toutefois
+                                                                              des ensembles dont la trame urbaine peut avoir été
+Les secteurs d’intérêt patrimonial ont été sélectionnés
+                                                                              partiellement modifiée, qui ont pu connaître un
+sur la base des critères suivants1 :
+                                                                              certain nombre de perturbations et qui renferment
+– leur capacité de témoigner d’un thème ou d’un                               parfois des constructions peu intégrées à l’ensemble.
+  événement historique ;                                                      Certaines zones dont l’état est moins satisfaisant sur
+– leur qualité architecturale (forme, usage, technologie                      le plan architectural ou environnemental pourraient
+  constructive) ;                                                             présenter un intérêt si une action de mise en valeur
+– leur participation à la qualité de la vie urbaine                           était entreprise.
+  et du paysage.
+                                                                            Dans tous les cas, l’échelle de comparaison pour cette
+À titre d’exemple, on identifie le noyau originel                           qualification est l’arrondissement, c’est-à-dire que nous
+d’un village, un pôle d’activité lié à la concentration                     avons identifié les secteurs exceptionnels et intéres-
+d’équipements collectifs, un quartier ouvrier du début                      sants propres à l’arrondissement, ce qui fait ressortir
+du siècle, etc. Cette notion de patrimoine est englo-                       sa spécificité dans l’ensemble montréalais. Lorsqu’un
+bante et correspond aux nouvelles tendances                                 secteur se révèle avoir une importance à l’échelle
+véhiculées par les chartes internationales en matière                       montréalaise, on pourra recommander sa protection en
+de conservation.                                                            procédant à la constitution d’un site du patrimoine
+                                                                            en vertu de la Loi sur les biens culturels du Québec3.
+Tous les secteurs identifiés ont ensuite été qualifiés
+comme suit2 :
+
+– Exceptionnels: secteurs ayant conservé leurs qualités
+  au chapitre des aménagements urbains, des implan-
+  tations de bâtiments, de la géographie et des
+  paysages et qui regroupent des suites architecturales,
+  des alignements de bâtiments d’intérêt patrimonial,
+  des zones unifiées par une fonction ou une typologie
+  architecturale. Les ensembles de cette catégorie ont
+  subi relativement peu de perturbations et présentent
+  un caractère d’harmonie formelle et fonctionnelle.
+  De plus, ils sont souvent reconnus comme des
+  témoins historiques importants.
+
+
+
+
+1 Ces critères sont issus du document de travail Guide de gestion des       3 Conformément au document de travail Citation et constitution de sites
+  études patrimoniales préparé par la Division du patrimoine et de la         du patrimoine préparé par la Division du patrimoine et de la toponymie
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                de la Ville de Montréal en novembre 2003.
+2 Ces critères sont inspirés du Guide d’évaluation des biens culturels et
+  des districts historiques de la Ville d’Ottawa, 1987.
+
+
+
+
+                              ARRONDISSEMENT                                                                                                     11
+              de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+LES IMMEUBLES D’INTÉRÊT PATRIMONIAL                                            turale ainsi qu’à son lien particulier avec la trame
+                                                                               urbaine. Les critères utilisés sont les suivants6 :
+Les immeubles d’intérêt patrimonial ont été sélectionnés
+sur la base des critères suivants4 :                                           – la valeur historique et sociale d’une industrie dans
+                                                                                 le développement de l’arrondissement, de la ville
+– leur capacité de témoigner d’un thème ou d’un                                  ou même de la province et du pays ;
+  événement historique ;                                                       – l’intégrité du complexe (ancienneté, évolution
+– leur qualité architecturale (forme, usage, technologie                         architecturale, évolution technologique) ;
+  constructive) ;                                                              – le procédé de production particulier;
+– leur participation à la qualité de la vie urbaine et du                      – le lien avec les voies de transport ;
+  paysage.                                                                     – le lien avec le développement des quartiers ouvriers ;
+Cette notion de patrimoine est englobante et corres-                           – l’insertion dans le paysage urbain.
+pond aux nouvelles tendances véhiculées par les
+chartes internationales en matière de conservation.                            Finalement, tous les immeubles d’intérêt patrimonial
+Outre l’architecture monumentale, elle inclut donc                             ont été qualifiés comme suit7 :
+l’architecture vernaculaire, le patrimoine moderne, le                         – Exceptionnel : un bâtiment ancien par rapport aux
+patrimoine industriel, etc.                                                      autres bâtiments de l’arrondissement construits aux
+Dans les cas du patrimoine moderne et du patrimoine                              mêmes fins et(ou) qui affiche des caractéristiques
+industriel, nous avons jugé utile d’utiliser des critères                        inhabituelles ou remarquables quant à son architecture
+spécifiquement adaptés à ces réalités.                                           (par rapport à des bâtiments comparables) et qui n’a
+                                                                                 pas subi de modifications extérieures importantes.
+Patrimoine moderne : Des bâtiments peuvent être                                  De plus, il sert souvent de point de repère ou est
+considérés comme faisant partie du patrimoine                                    reconnu comme un témoin historique important.
+moderne s’ils ont été construits entre 1930 et 1975                            – Intéressant: un bâtiment qui n’est pas nécessairement
+et qu’ils illustrent les caractéristiques de cette époque                        plus ancien que ceux construits aux mêmes fins dans
+relativement5 :                                                                  l’arrondissement, qui affiche certaines caractéristiques
+                                                                                 inhabituelles ou remarquables par rapport à des
+– aux conditions sociales, économiques et politiques
+                                                                                 bâtiments comparables mais dans une moindre
+  changeantes ;
+                                                                                 mesure que dans la catégorie précédente, et qui
+– aux progrès technologiques rapides ;
+                                                                                 peut avoir subi quelques modifications.
+– aux nouvelles façons d’exprimer les formes et de
+  répondre aux besoins fonctionnels.
+
+Patrimoine industriel : Le patrimoine industriel
+commande aussi une adaptation des critères en usage
+pour reconnaître sa spécificité, notamment quant à
+la primauté de la fonction sur l’esthétique architec-
+
+
+
+
+4 Ces critères sont issus du document de travail Guide de gestion des          6. Ces critères proviennent de l’Évaluation du patrimoine industriel : critères
+  études patrimoniales préparé par la Division du patrimoine et de la             généraux, document préparé par Archémi pour le compte de la Ville de
+  toponymie de la Ville de Montréal en 2001 et révisé en 2003.                    Montréal en 2003.
+5. Ces critères sont issus du Plan du réseau des lieux historiques nationaux   7. Ces critères sont inspirés du Guide d’évaluation des biens culturels et des
+   du Canada : La commémoration du patrimoine bâti canadien de l’ère              districts historiques de la Ville d’Ottawa, 1987.
+   moderne préparé par Parcs Canada en 2001.
+
+
+
+12                                                                             Évaluation du patrimoine urbain
+                                                                               Ville de Montréal
+Comme dans le cas des secteurs d’intérêt patrimonial,                      Les ensembles industriels d’intérêt : Le Plan
+l’échelle de comparaison pour ce travail de qualification                  d’urbanisme signale l’importance du patrimoine indus-
+est l’arrondissement, c’est-à-dire que nous avons                          triel montréalais en créant une catégorie particulière
+identifié les bâtiments exceptionnels et intéressants                      – Ensembles industriels d’intérêt. Cette catégorie
+propres à l’arrondissement, ce qui fait ressortir sa                       est d’autant plus justifiée que le regard posé sur ces
+spécificité dans l’ensemble montréalais. Lorsqu’un                         sites est différent en raison de leur taille et de leur
+bâtiment se révèle avoir une importance à l’échelle                        complexité, de la primauté de leur fonction sur
+montréalaise, on pourra recommander sa protection                          l’esthétique architecturale ainsi que de leur lien par-
+par la citation en vertu de la Loi sur les biens culturels                 ticulier avec la trame urbaine.
+du Québec8.
+                                                                           De plus, les ensembles industriels d’intérêt offrent des
+                                                                           possibilités de mise en valeur nombreuses et variées. Il
+                                                                           peut s’agir autant de restauration que d’interprétation
+NOTIONS NOUVELLES                                                          du lieu. Cette diversité d’interventions possibles com-
+Les ensembles urbains d’intérêt : Le Plan d’urba-                          mande une excellente connaissance des lieux et
+nisme reconnaît l’intérêt de certains développements                       activités de production, laquelle est malheureusement
+résidentiels d’après-guerre, qui composent une part                        trop souvent embryonnaire actuellement. L’amélioration
+importante du patrimoine des anciennes banlieues,                          de cette connaissance est pourtant nécessaire pour
+en créant une catégorie appelée Ensembles urbains                          permettre des interventions éclairées et même inno-
+d’intérêt. On y retrouve, entre autres, des ensembles                      vatrices qui inscriront pleinement ce patrimoine dans
+homogènes de bungalows, des secteurs de maisons                            la vie urbaine contemporaine.
+qui adoptent le modèle développé par la Wartime                            Le critère qui préside à la sélection d’un ensemble
+Housing Limited ou des exemples des premières                              industriel d’intérêt est le regroupement particulièrement
+coopératives d’habitation. Leur repérage est exploratoire                  complexe de bâtiments industriels, structures de génie
+et vise à les intégrer au Plan en les reliant pour une                     civil, machines, instruments, outils et équipements divers
+première fois à des préoccupations de conservation du                      appartenant à une seule ou à plusieurs compagnies.
+patrimoine. Ces ensembles urbains d’intérêt ont été
+sélectionnés lorsqu’ils présentent les qualités suivantes:
+
+– ensemble représentatif des nouvelles façons
+  d’habiter qui sont apparues pendant la Seconde
+  Guerre mondiale;
+– ensemble représentatif du boom démographique
+  et du développement de la banlieue après la
+  Seconde Guerre mondiale;
+– projets d’ensemble présentant une certaine
+  homogénéité des caractéristiques architecturales.
+
+
+
+
+8 Conformément au document de travail Citation et constitution de sites
+  du patrimoine préparé par la Division du patrimoine et de la toponymie
+  de la Ville de Montréal en novembre 2003.
+
+
+
+
+                             ARRONDISSEMENT                                                                                       13
+              de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+                                                                Plusieurs de ces chemins se sont transformés en
+1.3 Les tracés fondateurs d’intérêt                             autoroutes et boulevards, d’autres ont conservé un
+            patrimonial                                         potentiel évocateur du Montréal rural ancien, et
+                                                                quelques-uns se sont fortement urbanisés.
+Sur l’île de Montréal, l’organisation du territoire
+remonte dans certains cas au XVIIe siècle. De cette             Parmi ces tracés fondateurs, nous avons sélectionné
+organisation naissent les voies de circulation qui sont         les tronçons qui présentent un intérêt patrimonial
+souvent les marques les plus anciennes du Montréal              parce qu’ils relient toujours des bâtiments parmi les
+agricole qui prévalait avant l’urbanisation. En effet,          plus anciens de Montréal ou qu’ils sont bordés de
+dès 1663, les sulpiciens deviennent seigneurs de l’île          bâtiments d’intérêt patrimonial. Ces tracés servent
+de Montréal. Ils planifient alors le territoire pour l’ouvrir   en quelque sorte de fil conducteur pour la com-
+à la colonisation. Pour cela, l’île est divisée en côtes –      préhension du territoire. Ils permettent, entre autres,
+chacune, dénommée par les sulpiciens, désigne un                d’expliquer la présence d’un paysage rural ou de
+ensemble de terres pouvant compter quelques                     bâtiments anciens d’intérêt patrimonial qui apparais-
+dizaines de concessions et représentant une unité de            sent autrement un peu perdus dans la trame urbaine
+territoire. Les terres individuelles sont des bandes            actuelle. En reliant différents éléments isolés, ces
+parallèles étroites et longues. Pour chaque côte est            tronçons leur confèrent une importance accrue.
+prévu l’emplacement d’un chemin. Cela donne une
+idée du mode d’occupation du sol du système
+seigneurial mis en place sous le Régime français.
+Le système des côtes constitue la structure de base
+                                                                1.4 Le patrimoine archéologique
+du peuplement de l’île sur laquelle s’appuiera tout             1.4.1 Le caractère spécifique de ce patrimoine
+développement postérieur.
+                                                                Le patrimoine archéologique est «... la partie de notre
+En raison de l’insularité de la seigneurie de Montréal          patrimoine matériel pour laquelle les méthodes de
+et de la présence du mont Royal, ce système de côtes            l’archéologie fournissent les connaissances de base. Le
+présente toutefois une organisation originale. En               patrimoine archéologique englobe toutes les traces de
+effet, si dans la vallée du Saint-Laurent les côtes             l’existence humaine et concerne les lieux où se sont
+intérieures sont parallèles au fleuve, ce n’est pas             exercées les activités humaines, quelles qu’elles soient,
+nécessairement le cas à Montréal. C’est ainsi que, sur          les structures et les vestiges abandonnés de toutes
+l’ensemble de l’île, le réseau routier qui dessert ces          sortes, en surface, en sous-sol ou sous les eaux, ainsi
+côtes présente une configuration propre. Ce réseau              que le matériel qui leur est associé. Le patrimoine
+primitif, clairement illustré sur la carte de Jobin de          archéologique est une richesse culturelle fragile et non
+1834, montre l’ensemble des tracés fondateurs qui               renouvelable».9
+serviront par la suite d’épine dorsale au développe-
+ment des quartiers. Grâce à cette carte, on comprend
+bien la structure du réseau des chemins à son
+apogée, à l’époque où l’île de Montréal était encore
+très fortement rurale.
+
+                                                                9 Extrait de la Charte pour la protection et la gestion du patrimoine
+                                                                  archéologique, ICAHM, ICOMOS International, 1990.
+
+
+
+
+14                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La notion de patrimoine archéologique se rattache                    À L’ÉCHELLE DE L’ÎLE DE MONTRÉAL
+d’abord à un lieu physique, le site archéologique, qui
+                                                                     L’archipel de Montréal comprend trois nappes d’eau
+correspond à tout espace dont le sous-sol recèle des
+                                                                     importantes, trois canaux d’écoulement, une vingtaine
+vestiges d’occupation ancienne – ouvrages et cons-
+                                                                     de rapides, trois cents îles (dont deux majeures,
+tructions de tous types, objets témoins et tout autre
+                                                                     Montréal et Jésus) et plus de mille kilomètres de
+élément matériel issu de l’action humaine. Le caractère
+                                                                     rives. Montréal est également le point de rencontre
+enfoui des sites archéologiques fait que, contrairement
+                                                                     de trois grandes voies fluviales – le Saint-Laurent qui
+à d’autres catégories de biens patrimoniaux, ce
+                                                                     donne accès à l’Atlantique et aux Grands Lacs, le
+patrimoine constitue une ressource dont il est difficile
+                                                                     Richelieu d’où il est possible d’atteindre l’Hudson et
+de dresser rapidement un inventaire exhaustif. De
+                                                                     l’État de New York, ainsi que l’Outaouais qui ouvre la
+nombreux sites, de natures diverses et de toutes
+                                                                     porte vers l’ouest et le nord. L’importance de l’île de
+époques, restent ainsi à découvrir sur le territoire de
+                                                                     Montréal pour les Amérindiens s’explique tout parti-
+l’île de Montréal. Toute tentative de cerner la réalité du
+                                                                     culièrement par cette localisation à la confluence et à
+patrimoine archéologique ne pourra donc constituer
+                                                                     proximité de plusieurs cours d’eau. Ces axes hydro-
+qu’un exercice partiel de mise à jour des connaissances
+                                                                     graphiques sont les routes traditionnelles de commerce
+acquises. Cette part d’inconnu explique l’extrême vul-
+nérabilité de ce patrimoine et les difficultés particulières         au cours de la préhistoire et au début de la période
+d’en assurer la protection face aux exigences modernes               historique. De plus, l’île de Montréal, la plus grande
+du développement urbain.                                             de l’archipel, comporte des terrasses de quinze,
+                                                                     trente et cinquante mètres d’élévation ou même
+Un second aspect important a trait au patrimoine                     plus, en référence au mont Royal. Ces terres ont pu
+archéologique en tant qu’objet de connaissance.                      accueillir des populations humaines depuis 8 000 ans
+L’archéologie constitue une discipline dont une des                  avant aujourd’hui, si l’on se fie aux premières décou-
+missions est l’étude des sociétés passées par l’inter-               vertes archéologiques effectuées dans la vallée du
+médiaire des vestiges matériels que ces sociétés ont                 Saint-Laurent.
+laissés derrière elles. Il s’agit, de plus, de la seule
+discipline qui traite dans le temps et l’espace de                   La plus ancienne manifestation humaine recensée sur
+l’évolution de l’ensemble des sociétés humaines. Sa                  l’île de Montréal date de la fin de la période archaïque,
+                                                                     entre 5 000 et 4 000 ans avant aujourd’hui. Cette
+contribution est unique notamment en ce qui con-
+cerne la longue trajectoire suivie par l’humanité avant              occupation par les Amérindiens, au cours des périodes
+l’apparition de l’écriture. L’archéologie s’intéresse à              préhistorique et de contact, est un volet unique du
+                                                                     passé de l’île de Montréal.
+toutes les sociétés, sans égard à leur origine ou à
+leur forme d’organisation, qu’elles soient, comme en                 Pour la période historique, la documentation et les
+Amérique, de souche autochtone, européenne ou autre.                 cartes anciennes fournissent des éléments interpré-
+                                                                     tatifs valables, à partir des premières chroniques du
+                                                                     XVIe siècle jusqu’à nos jours. Elles sont cependant
+                                                                     souvent muettes sur les différents aspects des modes
+                                                                     de vie de certaines époques et de certains groupes et
+                                                                     individus, de même que sur l’emplacement exact et
+                                                                     l’organisation spatiale de plusieurs lieux d’exploita-
+                                                                     tion et d’habitation, comme les avant-postes de Ville-
+                                                                     Marie. Elles se taisent parfois volontairement et, en
+
+
+
+
+                         ARRONDISSEMENT                                                                                    15
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+d’autres occasions, ne font état que des préoccupa-             En milieu urbain ou aménagé de longue date, la
+tions des classes dirigeantes, des autorités, de l’élite.       démarche suivie consiste, au moyen de l’analyse
+L’archéologie pare à ces lacunes car elle étudie les            des cartes anciennes, des documents d’archives, des
+traces concrètes laissées par les différents occupants.         données environnementales et des données archéo-
+En milieu urbain, l’archéologie étudie en outre l’évo-          logiques acquises, à caractériser la séquence d’occu-
+lution de la forme urbaine et des formes concrètes,             pation et le processus d’aménagement du territoire.
+dans l’espace et dans le temps, pour idéalement                 Il s’agit de confronter les caractéristiques géographiques
+accéder aux fondements de la culture.                           aux caractéristiques culturelles des sociétés ayant
+                                                                habité ou pu habiter un territoire, et de comprendre
+Les recherches archéologiques menées à ce jour sur l’île        dans quelle mesure les occupations successives ont
+de Montréal documentent une séquence d’occupation               structuré le milieu d’origine et affecté les vestiges
+s’étirant sur plusieurs millénaires et associée à la            d’occupations antérieures. Cette étape est celle de
+présence de groupes aux horizons culturels et temporels         l’étude de potentiel archéologique. La seconde étape
+fort diversifiés : campement amérindien, halte, carrière        consiste, en fonction des résultats de l’étude de
+préhistorique pour l’extraction de la pierre, lieu de           potentiel archéologique, à procéder à une évaluation
+sépultures amérindiennes, noyau initial de Ville-Marie,         sur le terrain afin de vérifier la localisation précise,
+lieux de fondation, forts et missions, bourgs anciens,          la nature et le degré d’intégrité des ressources archéo-
+moulin seigneurial, lieux de culte, cimetières (catho-          logiques en place. Il s’agit de l’inventaire archéolo-
+liques, protestants et juifs), complexes institutionnels,       gique réalisé par des forages, sondages et tranchées
+anciens faubourgs, villas, marchés publics, dépotoirs,          exploratoires.
+complexes agricoles, complexes industriels, ouvrages
+de génie civil, etc., et les formes du paysage ancien de        Selon la nature des découvertes découlant de l’inven-
+l’île de Montréal : terrasses, collines, ruisseaux, rivières,   taire archéologique, plusieurs avenues sont envisa-
+lacs, tourbières.                                               geables selon la valeur scientifique, didactique et
+                                                                symbolique du site et du contexte. Dans le cas d’un
+                                                                site archéologique de grand intérêt, il pourra être
+1.4.2 La démarche générale d’acquisition de                     nécessaire d’assurer en priorité sa conservation in
+         connaissances et de conservation                       situ. Une réserve archéologique est souvent garante
+                                                                de la mise en valeur de ce patrimoine. La plupart des
+Le site archéologique constitue le fondement concret            interventions archéologiques à Montréal surviennent
+de la démarche de conservation et de mise en valeur             dans le cadre de projets d’aménagement du territoire.
+du patrimoine archéologique. La valeur intrinsèque du           Les mesures de protection du patrimoine archéo-
+site archéologique, tout comme l’intérêt de procéder à          logique peuvent alors entraîner la conservation inté-
+son investigation, doivent être évalués en fonction             grale in situ de certains vestiges, la mise en valeur
+de critères relatifs à sa signification, et non pas             in situ de vestiges, la relocalisation du projet d’amé-
+essentiellement relever de considérations touchant              nagement, une modification du projet d’aménagement
+sa grande ancienneté ou le caractère plus ou moins              ou encore une fouille archéologique préventive sur
+monumental des vestiges qu’il recèle.                           les sites d’intérêt de façon à assurer une récupération
+                                                                maximale d’informations.
+
+
+
+
+16                                                              Évaluation du patrimoine urbain
+                                                                Ville de Montréal
+La majorité des sites archéologiques de l’île de                     LES SITES ARCHÉOLOGIQUES RECENSÉS
+Montréal se trouvent dans des espaces divers – sous-
+                                                                     Au Québec, en vertu de la Loi sur les biens culturels,
+sol de bâtiment, terrain vacant, boulevard, rue,
+                                                                     tout site archéologique découvert est codifié selon
+ruelle, square, place, parc, parc-nature – souvent
+                                                                     le code Borden et inscrit à l’Inventaire des sites
+menacés par des réaménagements, de nouvelles
+                                                                     archéologiques du Québec. Le code Borden est un
+constructions et une modernisation des services
+                                                                     système d’enregistrement des sites archéologiques
+publics souterrains. L’intégration de ce patrimoine
+                                                                     utilisé à l’échelle du Canada. Il permet de localiser un
+dans les programmes de régénération du tissu urbain
+                                                                     site archéologique d’après sa position géographique,
+de Montréal devient donc prioritaire. C’est pourquoi
+                                                                     longitude et latitude (ex. : BjFj), et selon l’ordre suc-
+la reconnaissance du patrimoine archéologique dans
+                                                                     cessif des découvertes archéologiques (ex. : BjFj-1).
+le Plan d’urbanisme de Montréal permettra de
+                                                                     Au Québec, c’est le ministère de la Culture et des
+prévenir l’interférence négative des usages actuels de
+                                                                     Communications qui a la responsabilité de tenir
+la ville et assurera la protection et la mise en valeur
+                                                                     l’Inventaire des sites archéologiques de la province et
+de vestiges et de sites archéologiques d’un grand
+                                                                     qui attribue les codes Borden.
+intérêt pour l’histoire de Montréal.
+                                                                     La Ville de Montréal a donc enrichi le Répertoire
+                                                                     informatisé des sites archéologiques des données à
+1.4.3 L’approche méthodologique et l’identifi-                       l’échelle de l’île de Montréal. Les 191 sites
+         cation du patrimoine archéologique au                       archéologiques recensés en date de 2004 ont été
+         Plan d’urbanisme                                            caractérisés individuellement. Les critères utilisés
+                                                                     pour cette évaluation sont :
+En lien avec la confection du Plan d’urbanisme, la
+Ville de Montréal a réalisé une étude des sites                      – l’état de conservation physique du site et de son
+archéologiques recensés en date de l’année 2003                        environnement immédiat, en considérant que
+et des secteurs d’intérêt archéologique. Cette étude                   plusieurs sites archéologiques recensés ont été
+s’étend à la partie montréalaise de l’archipel de                      détruits lors de travaux d’excavation ou ont fait
+Montréal, qui comprend l’île de Montréal mais aussi                    l’objet de fouilles archéologiques ;
+l’île des Sœurs, l’île aux Hérons, l’île aux Chèvres, l’île          – la qualité documentaire des couches et des vestiges
+Dorval et d’autres. Ce faisant, elle assure une vision                 archéologiques, leur représentativité, leur unicité,
+d’ensemble du territoire et met en perspective les                     leur ancienneté et, dans certains cas, leur capacité
+espaces urbanisés où le patrimoine archéologique                       d’évocation.
+nécessite des mesures de protection. Pour comprendre
+                                                                     Deux catégories ont été distinguées : les sites archéo-
+la portée de la démarche, il est nécessaire de rappeler
+                                                                     logiques intègres qui doivent être protégés et les sites
+que seule une infime quantité des sites archéo-
+                                                                     archéologiques altérés qui ne nécessitent aucune mesure
+logiques sur l’île de Montréal sont connus.
+                                                                     de protection. Tous ont été cartographiés, y compris
+Dans un premier temps, l’étude s’est attachée à                      les sites archéologiques altérés car ils sont révélateurs
+localiser précisément et à évaluer les sites archéolo-               du potentiel archéologique d’un milieu donné.
+giques déjà recensés et inscrits à l’Inventaire des sites
+archéologiques du Québec, et dans un second temps,
+à qualifier, localiser et prioriser des secteurs d’intérêt
+archéologique.
+
+
+
+
+                         ARRONDISSEMENT                                                                                    17
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+LES BIENS CULTURELS À STATUT                                archéologiques. La qualité de préservation du milieu
+                                                            physique, la densité des témoins archéologiques en
+La notion de bien culturel intègre, d’une part, les sites   sous-sol et(ou) hors sol et leur capacité de con-
+archéologiques et les biens archéologiques classés et,      tribuer à la connaissance constituent des facteurs
+d’autre part, les sites historiques classés et les monu-    qui rehaussent le niveau d’intérêt accordé à un
+ments historiques classés ou reconnus, l’arrondisse-        endroit particulier. Le secteur d’intérêt archéologique
+ment historique du Vieux-Montréal, l’arrondissement         « à fort potentiel » est un territoire où des mesures
+historique et naturel du mont Royal, l’arrondissement       de protection des sites éventuels sont nécessaires.
+naturel de Saraguay, les monuments cités et les sites
+du patrimoine. Tous ces biens ont fait l’objet d’un         Pour chacun des 27 arrondissements de l’île de
+examen à partir de la documentation disponible afin         Montréal, l’identification des secteurs qui présentent
+de déterminer leur intérêt archéologique et, en con-        un intérêt archéologique constitue une étape préalable
+séquence, la nécessité d’une protection du patrimoine       à la protection des éventuels témoins archéolo-
+archéologique sur ces propriétés. Seuls les grands          giques. Cet exercice, qui est d’ailleurs une première
+ensembles à statut sont cartographiés, les autres           sur le territoire montréalais, est basé sur l’examen et
+biens culturels étant présentés par arrondissement.         l’évaluation de multiples sources documentant les
+                                                            aspects environnementaux et culturels de ces terri-
+                                                            toires. Cette étape permet également d’identifier les
+LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                        milieux qui doivent dans l’avenir faire l’objet d’une
+ET LES SECTEURS D’INTÉRÊT ARCHÉOLOGIQUE                     étude de potentiel et d’un inventaire archéologique.
+À FORT POTENTIEL                                            Les secteurs ont été ciblés en fonction :
+Le secteur d’intérêt archéologique est un territoire        – du cadre biophysique et des qualités d’accueil de
+susceptible de renfermer des sites et des vestiges            populations d’un territoire, depuis plusieurs millé-
+des périodes préhistorique, de contact et historique          naires; ce cadre a été documenté à partir d’études
+eu égard à ses caractéristiques géomorphologiques,            géologiques et géomorphologiques ainsi que par
+biophysiques, archéologiques et historiques.                  l’examen de cartes topographiques et de photogra-
+Des études plus poussées doivent y être réalisées             phies aériennes anciennes afin de déterminer la
+afin d’évaluer précisément la qualité de préservation         proximité d’un axe de communication hydro-
+du milieu physique. La probabilité de découverte              graphique ou terrestre, l’élévation des terrasses, les
+de témoins archéologiques demeure à ce jour difficile         types de dépôts de surface, les concentrations de
+à estimer si l’on considère l’environnement et son            ressources alimentaires de même que l’approvi-
+degré de perturbation moderne. Il est donc nécessaire         sionnement en eau potable et autres éléments ;
+que les citoyens collaborent en communiquant toute          – du contexte historique et de l’urbanisme moderne
+découverte de vestiges dans les secteurs d’intérêt            pour déterminer leur capacité à fonder un lieu de
+archéologique.                                                nature archéologique et à le préserver; ces contextes
+                                                              ont été documentés à partir de monographies
+Le secteur d’intérêt archéologique à fort potentiel           historiques et par l’examen des cartes des XVIIe,
+est un territoire dont l’évaluation du contexte bio-          XVIIIe, XIXe et XXe siècles et des photographies
+physique ainsi que des caractéristiques géomor-               aériennes de 1947, 1948 et 1949, de même qu’à
+phologiques, archéologiques et historiques démontre           partir d’études sur les parcs-nature de l’île de
+une forte possibilité qu’il recèle des vestiges               Montréal, les propriétés institutionnelles, les biens
+
+
+
+
+18                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+  culturels à statut et les lieux historiques nationaux,             afin de bien saisir toute la portée de l’urbanisme
+  comme le canal de Lachine ;                                        moderne sur les ressources archéologiques de l’île de
+– du contexte archéologique documenté à partir de                    Montréal.
+  l’Inventaire des sites archéologiques du Québec
+                                                                     Le résultat de cette réflexion qui comporte des limites,
+  ainsi que dans les publications, les rapports inédits
+                                                                     car il ne s’agit aucunement d’une étude de potentiel
+  et les relevés de découvertes. Des copies de ces
+                                                                     archéologique « fine » de l’île de Montréal, a été car-
+  études sont maintenant disponibles au Centre de
+                                                                     tographié et des textes ont été rédigés en lien avec
+  documentation de la Direction du développement
+                                                                     les catégories identifiées au Plan d’urbanisme : site
+  urbain de la Ville de Montréal ; le répertoire de ces
+                                                                     archéologique recensé intègre, site archéologique
+  ouvrages peut être consulté sur le site Web de la
+                                                                     recensé altéré, secteur d’intérêt archéologique à fort
+  Ville de Montréal – Patrimoine archéologique.
+                                                                     potentiel, secteur d’intérêt archéologique, grand
+L’analyse des caractéristiques des sites archéolo-                   ensemble à statut.
+giques connus permet de dégager des constantes qui
+influencent le choix des emplacements en fonction des
+cultures et des périodes, et d’élaborer des modèles
+archéologiques prédictifs. C’est ainsi que l’on constate,
+                                                                     1.5 Nouvelles perspectives
+sites archéologiques à l’appui, que les groupes
+                                                                     En résumé, le travail de repérage du patrimoine urbain
+amérindiens de la période préhistorique et les premiers
+                                                                     réalisé dans le cadre du Plan d’urbanisme nous permet
+colons français choisissent approximativement les
+                                                                     d’atteindre plusieurs objectifs et d’ouvrir la réflexion sur
+mêmes lieux pour s’établir. Par la suite, la disposition
+                                                                     le patrimoine dans une perspective d’avenir. Il permet
+des occupations rurales européennes se démarque
+                                                                     entre autres :
+de celle des premiers noyaux villageois, au gré du
+développement des axes de transport terrestre. De                    – d’élargir la notion de patrimoine par rapport à ce qu’on
+plus, des activités spécialisées, tel un moulin à farine               retrouvait dans le Plan d’urbanisme de Montréal de 1992
+ou à scie mu par l’eau, une tannerie artisanale ou,                    et dans plusieurs des plans d’urbanisme des anciennes
+plus tardivement, un complexe industriel, supposent                    villes qui se sont jointes à Montréal ;
+des caractéristiques d’implantation fort différentes.                – de contribuer à accroître l’intérêt de certains arron-
+Ces facteurs ont été pris en considération afin de                     dissements pour les problématiques de conservation
+tenter de localiser les territoires qui ont eu la faveur               du patrimoine et d’en sensibiliser d’autres à l’impor-
+des populations locales depuis le début de l’occupation                tance de cet enjeu ;
+de l’île de Montréal jusqu’à nos jours.                              – d’amorcer une exploration de nouvelles notions que
+                                                                       l’on rattache depuis peu à la question patrimoniale
+Les secteurs les plus susceptibles d’abriter des vestiges
+                                                                       dans les outils de gestion municipaux (patrimoine
+archéologiques ont ainsi été identifiés et ont fait l’objet
+                                                                       moderne, ensembles urbains, éléments de paysage,
+d’une inspection visuelle pour estimer leurs carac-
+                                                                       patrimoine archéologique, etc.) ;
+téristiques générales et observer, plus avant, le degré
+                                                                     – de contribuer à l’identification d’enjeux locaux et
+de conservation d’éventuels vestiges. Certaines modi-
+                                                                       métropolitains quant à la protection du patrimoine;
+fications modernes majeures, comme l’ajout de rem-
+                                                                     – de développer une vision globale et partagée en vue
+blais en rive, ont été réévaluées par suite de l’inspection
+                                                                       d’une planification et d’une action concertées en
+visuelle. Les résultats de l’ensemble de ces étapes
+                                                                       matière de patrimoine, en positionnant mieux le patri-
+d’évaluation ont été cartographiés sur une représen-
+                                                                       moine dans la dynamique du développement urbain.
+tation aérienne de l’île de Montréal, l’orthophoto 2002,
+
+
+
+                         ARRONDISSEMENT                                                                                       19
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+2.                                 HISTORIQUE
+
+
+L’arrondissement est composé de trois quartiers qui
+formaient avant 2001 des municipalités autonomes.
+                                                                     En cela, Sainte-Anne suit le mouvement qui touche
+                                                                     tout l’ouest de l’île : clubs nautiques, hôtels, courts
+Sainte-Geneviève, au nord-ouest de l’île de Montréal,                de tennis et terrains de golf témoignent sur les lieux
+et l’île Bizard, qui lui fait face, sont aujourd’hui reliées         des activités estivales de cette époque. D’autre part, au
+par un pont qui enjambe la rivière des Prairies. Les                 début du XXe siècle, les immenses campus du collège
+deux églises catholiques à double clocher, vis-à-vis l’une           MacDonald et du collège John-Abbot modifient la
+de l’autre, dominent leur noyau villageois respectif.                dynamique sociale et urbaine du village. Le personnel
+Quant à Sainte-Anne-de-Bellevue, ce quartier est situé               attaché à ces institutions s’établit soit dans des bâti-
+à la pointe ouest de l’île de Montréal et constitue la               ments qui leur sont réservés, soit à l’extérieur du
+plus ancienne de ces trois agglomérations.                           campus, augmentant ainsi la population locale. Bien
+                                                                     que le village se développe, il est confiné dans son
+Sainte-Anne                                                          expansion à la partie sud du territoire, puisque les
+Le territoire de Sainte-Anne est situé sur un site                   grands propriétaires institutionnels – les campus des
+enchanteur, avec vue sur les lacs Saint-Louis et des                 deux collèges et l’Arboretum Morgan – occupent
+Deux Montagnes. Sainte-Anne et les îles avoisinantes                 une partie importante du territoire. Point d’arrêt en
+sont un lieu de contact stratégique avec les                         raison des écluses, mais aussi à cause de la présence
+Amérindiens dès le XVIIe siècle, de même qu’un poste                 de deux compagnies de chemin de fer, le Canadien
+avancé pour la défense de la colonie française. De                   National et le Canadien Pacifique, Sainte-Anne devient
+plus, à cette époque, l’église de Sainte-Anne est la                 une petite ville animée : manufacture, moulin à scie,
+dernière halte obligée sur l’île de Montréal pour tous               cinéma et hôpital militaire s’y installent.
+les voyageurs se rendant dans les Pays d’en Haut (les
+Grands Lacs). Simon Fraser (1776-1862), marchand                     En 1918 arrive la Garden City Press, une entreprise
+de fourrures important, y possède une maison cons-                   importante dans l’histoire urbaine et économique de
+truite vers 1800.                                                    Sainte-Anne et qui se distingue des entreprises con-
+                                                                     ventionnelles. Il s’agit d’une imprimerie de manuels
+Entre 1840 et 1843, les premières écluses et le canal                scolaires et de matériel éducatif destiné aux tra-
+de Sainte-Anne sont construits, constituant la porte                 vailleurs mise sur pied par J.-J. Harpell. Celui-ci choisit
+d’entrée de la rivière des Outaouais. Ils font partie                le site en fonction des nombreux avantages qu’offre
+d’un vaste réseau de canaux qui facilite la circulation              la municipalité. Bien qu’éloigné du centre-ville de
+maritime. Là passent d’abord les colons qui veulent                  Montréal, le site est à proximité des deux voies ferrées
+s’établir dans le Haut-Canada (Ontario), puis des                    qui traversent le secteur et qui permettent des
+dizaines de milliers de passagers à bord des vapeurs.                expéditions rapides partout au Canada. Cet homme
+Tout au long du XIXe siècle, les cageux défilent à bord              d’affaires est influencé par les théories du britannique
+des radeaux de bois en provenance des forêts de                      Ebenezer Howard, qui propose l’organisation de
+l’Outaouais ou de la Gatineau. Le village de Sainte-                 cités-jardins pour éliminer l’insalubrité des villes.
+Anne se développe à proximité de ces écluses et de                   Dans cet esprit, Harpell veut aider ses employés à
+ce canal très achalandés. Sainte-Anne est constituée                 acquérir une propriété et il porte attention à l’amé-
+en municipalité de village en 1878 et, en 1895,                      nagement du territoire qui entoure l’usine. En 1918,
+prend le statut de ville.                                            rues, parcs et infrastructures urbaines sont développées
+À la fin du XIXe siècle, les rives de Sainte-Anne sont               et 25 maisons sont construites près de l’imprimerie
+recherchées principalement par la bourgeoisie mon-                   pour les travailleurs. Pendant la Grande crise, Harpell
+tréalaise anglophone, qui en fait un lieu de villégiature.           engage des chômeurs pour planter des arbres et
+                                                                     demande à Frederick Todd de créer un luxueux jardin
+
+
+
+                         ARRONDISSEMENT                                                                                      21
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+japonais avec étang en face de la Garden City Press,       Île Bizard
+dont malheureusement rien ne subsiste aujourd’hui.         L’île Bizard, qui fait face à Sainte-Geneviève, est cons-
+En 1945, il transfère le contrôle de l’entreprise à une    tituée en seigneurie indépendante de celle de l’île de
+coopérative ouvrière.                                      Montréal, propriété des sulpiciens. En premier lieu, elle
+                                                           est concédée par Frontenac au huguenot Jacques
+Le chemin de fer ayant supplanté la navigation             Bizard, qui en devient le premier seigneur, mais elle
+comme moyen de transport, le canal et les écluses          reste inoccupée jusqu’en 1735, moment où les pre-
+changent de vocation. Aujourd’hui, des croisières sont     mières terres sont concédées. En 1843, la première
+proposées aux visiteurs et les écluses sont utilisées      église est construite et elle est dédiée à Saint-Raphaël.
+par les plaisanciers. Sainte-Anne est toujours un lieu     Cette même année, le premier manoir seigneurial
+animé mais sa clientèle a changé.                          y est bâti par Denis-Benjamin Viger. Deux ans plus
+Sainte-Geneviève                                           tard est créée la municipalité de la paroisse de Saint-
+Donnant sur la rivière des Prairies, Sainte-Geneviève      Raphaël-de-l’Île-Bizard. Dans la première moitié du
+et l’île Bizard connaissent un sort différent. Sainte-     XIXe siècle, un petit village entoure l’enclos paroissial
+Geneviève occupe une superficie d’à peine un kilo-         composé de l’église, du presbytère et du cimetière.
+mètre carré sur lequel est érigée l’église mère d’une      Par ailleurs, un endroit sur l’île nommé Pointe-des-
+paroisse couvrant au XVIIIe siècle un immense territoire   Carrières indique bien l’utilisation des lieux. Deux
+rural (Pierrefonds, Roxboro et Dollard-Des Ormeaux).       clubs de golf prestigieux occupent une partie impor-
+Érigée en municipalité de village en 1860, Sainte-         tante de l’île, dont le Elm Ridge Country Club, qui
+Geneviève est traversée par le chemin de la côte           ouvre en 1924. Le territoire demeure essentiellement
+Sainte-Geneviève, qui deviendra le boulevard Gouin.        agricole jusqu’aux étapes récentes de développement
+La première église de Sainte-Geneviève date de 1751.       urbain, dans les années 1970, alors qu’un premier
+Elle est remplacée entre 1843 et 1845 par l’église         vaste projet domiciliaire est mis en chantier.
+actuelle, seule œuvre de l’architecte François Baillargé
+dans la région montréalaise. L’ensemble constitué
+par l’église, le presbytère (1891) et le cimetière est
+situé au centre même du noyau villageois. Outre ce
+noyau paroissial, flanqué du couvent des Sœurs de
+Sainte-Anne, un ensemble institutionnel s’élève sur
+les rives de la rivière des Prairies en 1932-1933 : le
+scolasticat des Pères de Sainte-Croix. Après plusieurs
+vocations successives, ce bâtiment est choisi par le
+gouvernement du Québec en 1998 pour y installer le
+cégep Gérald-Godin. Afin de répondre aux besoins
+d’une maison d’enseignement de ce type, une aile
+moderne y est ajoutée ainsi qu’une salle de spectacle.
+                                                           Boulevard Gouin – Sainte-Geneviève-de-Pierrefonds, Québec, s.d.,
+                                                           http://www.bnquebec.ca, CP 5350
+                                                           Les arbres matures qui bordent le boulevard Gouin contribuent depuis
+                                                           longtemps au caractère pittoresque du village de Sainte-Geneviève.
+
+
+
+
+22                                                         Évaluation du patrimoine urbain
+                                                           Ville de Montréal
+PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+1907, BNQ-M
+Cote : G 1144 M65G475 P5 1907 CAR
+En 1907, le village de Sainte-Geneviève a l’aspect d’une longue rue qui
+suit la rivière des Prairies.
+
+
+
+
+                                                                                PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+                                                                                1907, BNQ-M
+                                                                                Cote : G 1144 M65G475 P5 1907 CAR
+                                                                                Au début du XXe siècle, les activités liées aux voies ferrées, aux écluses et
+                                                                                aux différents collèges installés sur ce territoire font que Sainte-Anne-de-
+                                                                                Bellevue est déjà une petite ville.
+
+
+
+
+PINSONEAULT, A.-R. Atlas of the Island of Montreal and Ile Bizard,
+1907, BNQ-M
+Cote : G 1144 M65G475 P5 1907 CAR
+En 1907, l’île Bizard est essentiellement agricole et le noyau villageois est
+situé au sud du territoire, face au village de Sainte-Geneviève.
+
+
+
+
+                               ARRONDISSEMENT                                                                                                            23
+              de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+3.
+3.1 Mise en situation
+                                   É VA L U AT I O N D U PAT R I M O I N E U R B A I N
+
+
+                                                                     Le village de Saint-Raphaël-de-l’Île-Bizard est peu affecté
+                                                                     par le développement urbain qui a touché l’île, les
+                                                                     nouveaux axes routiers ayant été aménagés à l’écart
+L’arrondissement de L’Île-Bizard–Sainte-Geneviève–                   de l’îlot villageois. Encore partiellement sous protec-
+Sainte-Anne-de-Bellevue recèle actuellement la majorité              tion agricole, largement dotée de parcs et abritant
+des dernières grandes propriétés rurales du territoire               deux terrains de golf, l’île demeure peu urbanisée.
+de Montréal. À l’île Bizard comme à Sainte-Anne-
+                                                                     Dans la restructuration des territoires de l’île de Montréal
+de-Bellevue, on trouve encore de grandes zones non
+                                                                     lors de la fusion, l’arrondissement a reçu la charge du
+développées. Celles de Sainte-Anne-de-Bellevue sont
+                                                                     vaste parc régional du Cap Saint-Jacques et des monu-
+présentement très convoitées pour le développement
+                                                                     ments et immeubles d’intérêt patrimonial qu’il abrite.
+résidentiel mais aussi industriel. Associées à ces vastes
+terres, on retrouve aussi les maisons des occupants
+d’origine.
+                                                                     3.2 Résultat de l’analyse
+L’arrondissement compte également de grandes pro-
+priétés institutionnelles, principalement sur le territoire          3.2.1 Les tracés fondateurs d’intérêt
+de Sainte-Anne-de-Bellevue. La ferme expérimentale                            patrimonial
+du collège MacDonald et l’Arboretum constituent des
+éléments marquants du paysage local.                                 Trois chemins principaux marquent encore de façon
+                                                                     extraordinaire les vieux tracés fondateurs de Montréal
+Outre ces vastes secteurs non urbanisés, le territoire               dans l’arrondissement. Ce sont :
+de l’arrondissement comporte trois îlots villageois
+distincts et bien définis autour d’églises paroissiales              – le chemin Sainte-Anne, qui longe de façon sinueuse
+imposantes. Dès le début du XXe siècle, le village de                  le lac Saint-Louis, du cœur de Sainte-Anne-de-
+Sainte-Anne-de-Bellevue se dote d’un centre urbain                     Bellevue à la limite de Baie-d’Urfé;
+plus dense aux abords du canal. L’ensemble villageois,
+                                                                     – le chemin de la côte Sainte-Marie, tracé à égale
+comprenant l’église, le presbytère et le couvent, se
+                                                                       distance des deux rives et donnant accès aux terres
+trouve alors coupé de la nouvelle ville par les voies
+                                                                       de l’intérieur et aux maisons des propriétaires, de
+ferrées qui sont aménagées dès 1860, et par une route
+                                                                       l’autoroute 40 à la limite de Kirkland; et
+nationale aménagée au XXe siècle.
+                                                                     – le chemin Senneville, le long du lac des Deux-
+Le territoire paroissial de Sainte-Geneviève, quant à lui,
+                                                                       Montagnes et du Cap Saint-Jacques, et le boulevard
+se détache du territoire du village lorsque se forment les
+                                                                       Gouin Ouest passant à Sainte-Geneviève.
+villes de Pierrefonds, Roxboro et Dollard-Des Ormeaux.
+Ainsi isolé, le village de Sainte-Geneviève est demeuré              Enfin, tout le pourtour de l’île Bizard est marqué par un
+intouché par les grands bouleversements urbains et                   chemin qui date du morcellement des terres de l’île.
+conserve encore aujourd’hui un charme distinctif.                    Même le chemin de traverse date de cette époque.
+
+                                                                     L’origine de ces chemins explique l’ancienneté du
+                                                                     cadre bâti.
+
+
+
+
+                         ARRONDISSEMENT                                                                                       25
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+Ville de Montréal
+Évaluation du patrimoine urbain
+                                  André Jobin, Carte de L’île de Montréal, 1834, BNQ
+3.2.2 Le cadre bâti d’intérêt patrimonial                             1.E.2 L’ÎLE BIZARD (L’ÎLOT VILLAGEOIS)
+
+            A. Les secteurs de valeur                                 La vie villageoise s’est organisée autour de l’église,
+                 patrimoniale exceptionnelle                          du presbytère et du cimetière, d’où la concentration
+                                                                      de bâtiments anciens en bordure des deux chemins.
+1.E.1 L’ÎLE BIZARD (LA POINTE MONK)                                   Des bâtiments d’un étage et demi avec parement de
+                                                                      bois et toit recouvert de métal composent l’essentiel
+Après avoir emprunté un chemin étroit, on trouve un
+                                                                      de cet ensemble.
+ensemble de maisons anciennes avec parement de
+bois (pour la plupart) et toiture mansardée. Ces
+maisons font face au chemin, sur des terres orientées
+perpendiculairement au chemin. (Nous n’avons pas
+pénétré au-delà de la clôture de propriété privée).
+
+
+
+
+1.E.1 Résidence au 487, chemin Monk                                   1.E.2 Église Saint-Raphaël-de-l’Île-Bizard
+
+
+
+
+1.E.1 Résidence du 504, chemin Monk                                   1.E.2 Résidence au 320, rue de l’Église
+
+
+
+
+                          ARRONDISSEMENT                                                                                 27
+            de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+1.E.3 SAINTE-GENEVIÈVE
+  (LE SITE DU PATRIMOINE DU MONASTÈRE
+  DES PÈRES DE SAINTE-CROIX)
+
+Déclaré site du patrimoine en 1995, il ne comprend
+que le bâtiment du monastère et ses dépendances. Il
+est aujourd’hui occupé par le Cégep Gérald-Godin, et
+a été agrandi pour recevoir ces nouvelles fonctions. Le
+monastère est un élégant bâtiment de pierre abritant
+une agréable cour intérieure; il comporte aussi de nom-
+breux bas-reliefs sculptés, intégrés à l’architecture
+et présentant des références aux Pères de Sainte-
+Croix et à l’oratoire Saint-Joseph.
+
+
+
+
+1.E.3 Collège Gérald-Godin à Sainte-Geneviève               1.E.4 Résidence du 15928, boulevard Gouin Ouest
+
+
+
+1.E.4 SAINTE-GENEVIÈVE (L’ÎLOT VILLAGEOIS)
+
+Organisé autour de l’église paroissiale et du presbytère,
+l’îlot villageois se concentre à l’intersection du boule-
+vard Gouin Ouest et de la rue de la Caserne (autre-
+fois Pierrefonds). On y voit un ensemble de bâtiments
+remarquables et des bâtiments d’accompagnement
+de grande qualité créant un caractère exceptionnel et
+particulier. Le Plan d’urbanisme parle de « Quartier
+Latin » (cafés estudiantins).
+
+
+                                                            1.E.4 Résidence du 15768, rue de la Caserne
+
+
+
+
+28                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+                                                                      1.E.6 LE CAP SAINT-JACQUES
+
+                                                                      C’est le plus grand parc du réseau des parcs-nature
+                                                                      de la Ville de Montréal. Situé à la jonction du lac
+                                                                      des Deux-Montagnes et de la rivière des Prairies,
+                                                                      il offre de merveilleuses vues sur ces plans d’eau
+                                                                      dans une ambiance champêtre. En plus de ses
+                                                                      attractions naturelles, il recèle plusieurs maisons
+                                                                      anciennes et un monument historique classé, la
+                                                                      maison Joseph-Charlebois (maison Grier).
+
+
+1.E.5 Résidence du 15041, boulevard Gouin Ouest
+
+
+
+
+                                                                      1.E.6 Maison Brunet, parc-nature du Cap-Saint-Jacques
+
+
+
+
+1.E.5 Résidence du 15156, boulevard Gouin Ouest
+
+
+
+1.E.5 SAINTE-GENEVIÈVE (L’APPROCHE EST)
+
+La valeur patrimoniale exceptionnelle de ce secteur
+découle du caractère pittoresque du boulevard Gouin
+Ouest et d’une qualité architecturale remarquable. Les
+immeubles de diverses époques se côtoient dans un
+ensemble harmonieux par son échelle, la relation avec
+la rue et la qualité des matériaux.
+
+
+
+
+                          ARRONDISSEMENT                                                                                      29
+            de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+1.E.7 SAINTE-ANNE-DE-BELLEVUE                               1.E.9 SAINTE-ANNE-DE-BELLEVUE
+  (LE CHEMIN DE SENNEVILLE)                                   (L’ÎLOT VILLAGEOIS)
+
+Taillé à même l’ancienne municipalité de Pierrefonds,       Niché à la pointe de l’île près du canal, le village se
+entre le territoire de Senneville et le parc de l’Anse-à-   regroupe autour de l’église, de l’ancien couvent et du
+l’Orme, un nouveau territoire rural a été rattaché à        presbytère. La qualité des bâtiments institutionnels, le
+l’arrondissement. Un paysage exceptionnel s’offre sur       lotissement et la forme des lots, l’échelle modeste des
+le lac des Deux-Montagnes depuis ce chemin ponctué          constructions résidentielles et la proximité du canal
+de maisons anciennes – un caractère unique sur l’île.       donnent au lieu un cachet exceptionnel. Les maisons
+                                                            sont généralement recouvertes de clin, comptent
+                                                            deux étages et sont construites près de la rue.
+1.E.8 SAINTE-ANNE-DE-BELLEVUE
+  (LE CANAL DE SAINTE-ANNE)
+
+« Le paysage du canal de Sainte-Anne-de-Bellevue
+symbolise son importance historique nationale. Ce
+paysage significatif démontre la forte interrelation
+entre les composantes naturelles et culturelles du
+lieu, qui sont le lac des Deux-Montagnes, le lac Saint-
+Louis, le canal avec son écluse, les ponts ferroviaires,
+les vestiges archéologiques et le centre de la munici-
+palité de Sainte-Anne-de-Bellevue. » (Le canal de
+Sainte-Anne. L’avenir du canal historique. Document
+de consultation publique ). Le canal de Sainte-Anne-
+de-Bellevue s’inscrit dans le réseau national des canaux
+historiques du Canada.                                      1E.9 La rue Crevier dans le village
+
+
+
+
+1E.8 Le canal de Sainte-Anne et le pont du CP               1E.9 L’église de Sainte-Anne-de-Bellevue
+
+
+
+
+30                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+1.E.10 SAINTE-ANNE-DE-BELLEVUE                                         1.E.11 SAINTE-ANNE-DE-BELLEVUE
+  (LA RUE SAINT-JEAN-BAPTISTE)                                           (LE COLLÈGE MACDONALD)
+
+Ces maisons ouvrières regroupées le long de rues                       Cette vaste propriété abrite un ensemble de dix bâti-
+étroites et construites avec un faible recul de la rue                 ments construits « entre 1905 et 1908 par les archi-
+forment un ensemble de cottages tout à fait carac-                     tectes montréalais Hutchison et Wood. Ces édifices
+téristique du patrimoine architectural de Sainte-Anne-                 sont caractérisés par leurs toits en tuiles de terre cuite
+de-Bellevue. Les toits en pente abrupte, la présence                   et leur somptueuse ornementation agrémentée de
+de lucarnes, les dimensions généralement modestes                      sculptures baroques»*. La structure précise de l’implan-
+des bâtiments et la faible élévation des rez-de-chaussée               tation des bâtiments d’origine, la qualité intrinsèque
+contribuent à l’effet d’ensemble.                                      du site et l’harmonie du traitement architectural font
+                                                                       de cet ensemble un secteur exceptionnel.
+
+
+
+
+1E.10 La rue Saint-Jean-Baptiste                                       1E.11 Collège MacDonald
+
+
+
+
+                                                                       6. VILLE DE SAINTE-ANNE-DE-BELLEVUE. Plan d’urbanisme. Annexe 2.
+                                                                       Analyse patrimoniale.
+
+
+
+
+                            ARRONDISSEMENT                                                                                          31
+             de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+            B. Les secteurs de valeur                   1.I.3 SAINTE-ANNE-DE-BELLEVUE
+                 patrimoniale intéressante                (LE CENTRE URBAIN)
+
+                                                        Englobant les habitations ouvrières, cette partie du
+                                                        village est un accompagnement fondamental de « la
+1.I.1 SAINTE-GENEVIÈVE (LE CHEMIN                       rue Saint-Jean-Baptiste »*. Reprenant les typologies
+  DE LA CÔTE SAINT-CHARLES)                             et la forme des îlots, mais sans en avoir la cohésion,
+                                                        cet ensemble constitue un secteur intéressant.
+À l’intersection du boulevard Gouin et du boulevard
+Saint-Charles, sur une butte, on trouve une concen-
+tration de bâtiments anciens appartenant soit à
+l’ancien chemin de la côte Saint-Charles, soit au
+boulevard Gouin. Ces bâtiments créent entre eux
+un ensemble intéressant qui côtoie de nouvelles
+constructions résidentielles et commerciales.
+
+
+
+
+                                                        1I.3 145 à 153, rue Sainte-Anne
+
+
+
+                                                        1.I.4 SAINTE-ANNE-DE-BELLEVUE
+                                                          (LE CENTRE COMMERÇANT)
+
+                                                        Bordant la rue Sainte-Anne avec ses bâtiments en brique
+                                                        et en pierre alignés sur la rue, ou implantés avec un
+1I.1 Résidence au 16981, boulevard Gouin Ouest
+                                                        faible recul, cet ensemble représente bien l’architecture
+                                                        commerciale. On y trouve des bâtiments très intéres-
+1.I.2 SAINTE-ANNE-DE-BELLEVUE                           sants, dont le Magasin Daoust, le vieux cinéma, etc.
+  (LA MONTÉE SAINTE-MARIE)
+
+Des bâtiments uniques formant un ensemble intéres-
+sant par leur ancienneté et leurs caractéristiques
+distinctes et éclectiques bordent cet ancien chemin
+qui menait aux terres de l’intérieur. La sinuosité et
+l’étroitesse du chemin, le caractère rural des cons-
+tructions de bois ou de pierre et l’échelle régulière
+des immeubles contribuent à l’intérêt de ce milieu.
+
+
+
+
+                                                        1I.4 Le magasin Daoust, Sainte-Anne-de-Bellevue
+
+
+
+
+32                                                      Évaluation du patrimoine urbain
+                                                        Ville de Montréal
+                                                                                   C. Les ensembles urbains d’intérêt
+
+
+                                                                      1.U.1 SAINTE-ANNE-DE-BELLEVUE
+                                                                        (L’ENSEMBLE GARDEN CITY PRESS)
+
+                                                                      Constitué de l’usine, des anciens jardins et des ensem-
+                                                                      bles résidentiels, ce projet est une démonstration forte
+                                                                      de la pensée de J.-J. Harpell et de la philosophie qui
+                                                                      l’animait. D’une valeur didactique importante et d’une
+                                                                      qualité architecturale indéniable, ces constructions en
+1I.5 Résidences au 19 à 21, avenue Maple                              relativement bon état constituent un ensemble urbain
+                                                                      de grand intérêt.
+
+1.I.5 SAINTE-ANNE-DE-BELLEVUE
+  (LA VILLE UNIVERSITAIRE)
+
+En bordure de l’université et du collège, une ville assez
+à l’aise s’est développée dans un milieu des plus
+intéressant. De solides cottages en brique d’argile avec
+toiture en pente constituent le principal élément du
+décor architectural. On y retrouve aussi de vastes rési-
+dences au parement de stuc. Le tout constitue un
+ensemble assez homogène composé d’habitations
+unifamiliales isolées ou jumelées.
+
+                                                                      1U.1 Résidences de l’avenue Garden City
+
+
+
+
+                          ARRONDISSEMENT                                                                                   33
+            de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+           D. Les immeubles de valeur                     LES ÉDIFICES PUBLICS
+              patrimoniale exceptionnelle
+                                                          73, rue Sainte-Anne
+Tous les immeubles de valeur patrimoniale excep-          Ancien hôtel de ville
+tionnelle, qu’ils fassent ou non partie d’un secteur de   de Sainte-Anne-de-Bellevue
+valeur patrimoniale défini dans le présent document,
+                                                          510, rue de l’Église
+sont inclus dans la liste qui suit :
+                                                          Première bibliothèque, monument historique cité
+
+                                                          LES ÉDIFICES COMMERCIAUX
+LES ÉDIFICES DE CULTE
+                                                          76-78, rue Sainte-Anne
+1, rue de l’Église                                        Hôtel Raymond
+Église Sainte-Anne-de-Bellevue
+                                                          93, rue Sainte-Anne
+16037, boulevard Gouin Ouest                              Le magasin à rayons G. Daoust
+Église Sainte-Geneviève
+                                                          837, rue Cherrier Ouest
+495, chemin Cherrier Ouest                                Club House (Club de golf Elm Ridge)
+Église et presbytère Saint-Raphaël-Archange,
+                                                          LES ÉDIFICES INDUSTRIELS
+monument historique cité
+                                                          1, rue du Pacifique
+LES COUVENTS
+                                                          Garden City Press (transformé en copropriété)
+15693, boulevard Gouin Ouest
+                                                          LES HABITATIONS
+Monastère des Pères de Sainte-Croix,
+site du patrimoine                                        174, rue Beaulieu
+                                                          Maison Montpellier dit Beaulieu,
+16115, boulevard Gouin Ouest
+                                                          monument historique reconnu
+Couvent des Sœurs de Sainte-Anne,
+monument historique cité                                  1645, chemin du Bord-du-Lac
+                                                          Maison François-Paquin
+171, rue Sainte-Anne
+Couvent de Sainte-Anne-de-Bellevue                        1709, chemin du Bord-du-Lac
+                                                          Maison Eustache-Brayer dit Saint-Pierre
+LES ÉDIFICES SCOLAIRES
+                                                          1733, chemin du Bord-du-Lac
+21275, rue Lakeshore
+                                                          Maison Gatien-Pilon
+MacDonald College (cégep John-Abbott)
+
+21111, rue Lakeshore                                      1799, chemin du Bord-du-Lac
+The Royal Institution of the Advancement                  Maison Massy (François Lalonde)
+of learning (Université McGill)
+                                                          1883, chemin du Bord-du-Lac
+376, rue Cherrier Ouest                                   Maison Toussaint-Théoret,
+École du village, monument historique cité                monument historique cité
+
+1255, montée Wilson
+Ancienne école du cap
+
+
+34                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+134, chemin du Cap-Saint-Jacques                                    15529, boulevard Gouin Ouest
+Maison Joseph-Charlebois (Grier),                                   Maison du Colon
+monument historique classé
+                                                                    15886, boulevard Gouin Ouest
+157, chemin du Cap-Saint-Jacques                                    Maison d’Ailleboust-de-Manthet,
+Maison Joseph-La Madeleine dit Ladouceur                            (John-Lewis-Forbes),
+                                                                    monument historique reconnu
+163, chemin du Cap-Saint-Jacques
+Maison Jacques-Richer dit Louveteau                                 15928, boulevard Gouin Ouest
+                                                                    Maison Joseph-Adolphe-Chauret
+187, chemin du Cap-Saint-Jacques                                    (Château Pierrefonds)
+Maison Thomas-Brunet
+                                                                    16615, boulevard Gouin Ouest
+191, chemin du Cap-Saint-Jacques                                    Maison Damase-Richer
+Maison Antoine-Legault dit Deslauriers
+                                                                    21285, boulevard Gouin Ouest
+376, rue Cherrier Ouest                                             Maison Pilon
+Maison Denis-Benjamin-Viger,
+monument historique cité                                            21094, chemin du Lakeshore
+                                                                    Maison Antoine-Héniau dit Deschamps
+707, rue Cherrier
+Maison John-Wilson                                                  20, rue Martel
+                                                                    Maison Joseph-Théoret,
+733A, rue Cherrier Ouest                                            monument historique cité
+Maison Boileau (Hyacinthe Paquin)
+                                                                    153, rue Sainte-Anne
+763, rue Cherrier Ouest                                             Maison Simon-Fraser (Thomas-Moore),
+Maison Isidore-Paquin                                               monument historique classé et site historique classé
+997, rue Cherrier Ouest                                             20345, chemin Sainte-Marie
+Maison dite du Centenaire,                                          Maison Michel-Robillard
+monument historique cité
+                                                                    70, chemin Sainte-Marie
+3016, rue Cherrier                                                  Maison Payment
+Maison Magloire-Saint-Pierre
+
+3018, rue Cherrier
+Maison Boileau-Proulx
+
+353-357, rue Daniel-Johnson
+Maison villageoise
+
+375, rue Daniel-Johnson
+Maison villageoise
+
+15156, boulevard Gouin Ouest
+Maison Damour
+
+
+
+
+                        ARRONDISSEMENT                                                                                35
+          de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+                                                                                                                                                                                           ac
+                                                                                                                                                                              u   Bord-du-L
+                                                                                                                                                                      chemin D
+
+
+
+
+                                                                                                                                                                                                                        Église
+                                                                                                                                                      montée Wilson
+
+
+
+
+                                                                                                                                                                                                            montée De L'
+
+
+
+
+                                                                                                                                                                                                                                                                                                         chemin Dutour
+                                                                                                                                              1.E.1
+                                                                                                                                              1.E.1
+                                                                                                                                              1.E.1
+
+
+
+
+                                                                                                                                                                                                                                                                                             nt
+                                                                                                                                                                                                                                                                                      em o
+                                                                                                                                                                                                                                                                               d Chèvr
+                                                                                                                                                                                                                                                                          evar
+                                                                                                                                                                                                                                                                     boul
+
+
+
+
+                                                                                                                                                                                                                                                        ues-Bizard
+                                                                                                                                                                                                                                  1.E.2
+                                                                                                                                                                                                                                  1.E.2
+                                                                                                                                                                                                                                  1.E.2
+                                                                                                                                                                                                                                  1.E.2
+                                                                                                                                                                                                                                  1.E.2
+                                                                                                                                                                                                                                  1.E.2
+                                                                                                                                   1.E.6
+                                                                                                                                   1.E.6
+                                                                                                                                   1.E.6
+                                                                                                                                   1.E.6
+                                                                                                                                   1.E.6
+                                                                                                                                   1.E.6
+
+                                                                                                                                                                                     chemin
+
+
+
+
+                                                                                                                                                                                                                                          boulevard Jacq
+                                                                                                                                                                                              Cherrie
+                                                                                                                                                                                                        r
+                                                                                                                                                                                                                                                                                                         st
+                                                                                                            boulevard G
+                                                                                                                       ouin Ouest
+                                                                                                                                                                                                                                                                        1.E.5
+                                                                                                                                                                                                                                                                        1.E.5
+                                                                                                                                                                                                                                                                        1.E.5
+                                                                                                                                                                                                                                                                        1.E.5
+                                                                                                                                                                                                                                                                        1.E.5
+                                                                                                                                                                                                                                                                        1.E.5
+                                                                                                                                                                                                                                                                                           u in   O ue
+                                                chemin Senneville                                                                                                                                                                1.E.3
+                                                                                                                                                                                                                                 1.E.3
+                                                                                                                                                                                                                                 1.E.3
+                                                                                                                                                                                                                                 1.E.3
+                                                                                                                                                                                                                                 1.E.3
+                                                                                                                                                                                                                                 1.E.3
+                                                                                                                                                                                                                                                                                 v ar d Go
+                                                                                                                                                                                                                                                                               e
+                                                                                                                                                                                                                 1.E.4
+                                                                                                                                                                                                                 1.E.4
+                                                                                                                                                                                                                 1.E.4
+                                                                                                                                                                                                                 1.E.4
+                                                                                                                                                                                                                 1.E.4
+                                                                                                                                                                                                                 1.E.4                                                    boul
+
+                                                                                                                                                                                                   1.I.1
+                                                                                                                                                                                                   1.I.1
+                                                                                                                                                                                                   1.I.1
+                                                                                                                                                                                                   1.I.1
+                                                                                                                                                                                                   1.I.1
+                                                                                                                                                                                                   1.I.1
+                                                                                                         ch
+                                                                                                           em
+                                                                                                 1.E.7
+                                                                                                 1.E.7
+                                                                                                 1.E.7
+                                                                                                 1.E.7
+                                                                                                 1.E.7
+                                                                                                 1.E.7          in
+                                                                                                                     De
+
+
+
+                                                                                                                          L'An
+                                                                                                                               se-à
+                                                                                                                                   -l'O
+
+                                                                                                                                                                                                                                                                          Évaluation du patrimoine urbain
+                                                                                                                                        rme
+
+
+
+                                                                                                                                                                                                                                                                          Arrondissement de
+                                                         au                                                                                                                                                                                                               L'Île-Bizard—Sainte-Geneviève—
+                                                           to
+                                                             ro                                                                                                                                                                                                           Sainte-Anne-de-Bellevue
+                                                               ut
+                                                                  e           chemin
+                                                                      40
+                                                                                        Sainte
+                                                                                               -Marie
+                 1.I.2
+                 1.I.2
+                 1.I.2
+                                                                                                                                                                                                                                                                                        Arrondissement historique ou naturel
+                 1.I.2
+                 1.I.2
+                 1.I.2
+
+             1.E.9
+             1.E.9
+             1.E.9
+                                                                                                                                                                                                                                                                                        Secteur de valeur patrimoniale exceptionnelle
+             1.E.9
+             1.E.9
+             1.E.9
+
+                                  1.U.1
+                                  1.U.1
+                                  1.U.1
+                                                                                                                                                                                                                                                                                        Secteur de valeur patrimoniale intéressante
+                                  1.U.1
+                                  1.U.1
+                                  1.U.1 1.I.3
+                                        1.I.3
+                                        1.I.3
+                                        1.I.3
+                                        1.I.3
+             1.E.8
+             1.E.8
+             1.E.8
+             1.E.8
+             1.E.8
+             1.E.8
+                                                                                                                                                                                                                                                                                        Ensemble urbain d'intérêt
+                                                                                                                                                                                                                                                                                        Ensemble industriel d'intérêt
+                                      1.I.5
+                                      1.I.5
+                                      1.I.5
+                                      1.I.5
+                                      1.I.5
+                                      1.I.5
+                     1.E.10
+                     1.E.10
+                     1.E.10                                                autoroute
+                     1.E.10
+                     1.E.10
+                     1.E.10                                                            20                                                                                                                                                                                               Tracé fondateur d'intérêt patrimonial
+                                                1.E.11
+                                                1.E.11
+                                                1.E.11
+                                                1.E.11
+                                                1.E.11
+                                                1.E.11
+                         1.I.4
+                         1.I.4
+                         1.I.4
+                         1.I.4
+                         1.I.4
+                         1.I.4
+                                                                                                                                                                                                                                                                                1.E.1
+                                                                                                                                                                                                                                                                                        Code du secteur
+                                                                                                                                                                                                                                                                                        (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                                                                                                        Limite d'arrondissement
+
+
+                                                                                                                                                                                                                                                                          Division du patrimoine et
+0      500           1000     m                                                                                                                                                                                                                                           de la toponymie
+
+10 décembre 2004
+3.2.3 Le patrimoine archéologique                                    Les activités agricoles et l’expansion des chemins
+                                                                     caractérisent les XVIIIe et XIXe siècles. Des chemins
+L’arrondissement de L’Île-Bizard–Sainte-Geneviève–                   orientés nord-sud – les côtes Saint-Charles, Saint-
+Sainte-Anne-de-Bellevue comprend des territoires                     Jean et des Sources – sont aménagés pour desservir
+distincts, les terres de l’île Bizard, les villages de               l’intérieur de l’île. Le XIXe siècle est marqué par la
+Sainte-Anne-de-Bellevue et de Sainte-Geneviève et                    construction du chemin de fer et du canal de Sainte-
+une partie de la pointe nord-ouest de l’île de Montréal.             Anne-de-Bellevue. Les développements résidentiel et
+Le bout de l’île présente des terrasses de 15, 30 et 50              industriel se produisent au cours du XXe siècle, tout
+mètres d’élévation qui ont pu être habitées par les                  comme la construction des autoroutes 20 et 40 et du
+groupes amérindiens de la période préhistorique,                     pont de l’île aux Tourtes.
+depuis environ 4 000 ans avant aujourd’hui. Ces
+espaces ont pu être occupés par des groupes nomades
+de la période archaïque qui utilisent les terrasses ainsi
+que les berges des cours d’eau pour établir des
+campements de chasse et de pêche, puis par des
+groupes semi-sédentaires de la période sylvicole, de
+3 000 ans avant aujourd’hui à 1534, des pêcheurs-
+chasseurs-cueilleurs-horticulteurs vivant dans la vallée
+du Saint-Laurent. Jacques Cartier, lors de son second
+voyage au Canada (1535), note d’ailleurs dans ses
+écrits la présence de campements amérindiens sur le
+pourtour de l’île de Montréal. L’importance de ce lieu
+pour les Amérindiens réside dans sa localisation à la                La recherche archéologique a recours à un ensemble de méthodes et
+confluence de plusieurs cours d’eau qui sont des                     techniques permettant d’identifier la présence de vestiges enfouis, de
+                                                                     les décrire, de les prélever et de les analyser en fonction de leur apport
+routes traditionnelles de commerce. De plus, l’étroit                à une meilleure compréhension de nos sociétés passées. En cas de
+                                                                     découverte fortuite de vestiges ou d’objets, il est nécessaire d’en
+chenal qui sépare les berges de l’île de Montréal et                 informer les instances gouvernementales afin que le lieu de la découverte
+de l’île Bizard force la présence de rapides et crée                 soit évalué.
+ainsi un milieu favorable à l’exploitation des res-
+sources halieutiques.
+
+Les sulpiciens, devenus les seigneurs de Montréal en
+1663, encouragent l’essaimage de noyaux de coloni-
+sation sur le pourtour de l’île de Montréal : Lachine,
+Dorval, Baie-d’Urfé, Sainte-Geneviève, Pointe-Claire
+et Sainte-Anne-de-Bellevue sont des exemples concrets
+de cette politique d’expansion territoriale. La création
+de ces avant-postes, dont l’une des fonctions est la
+protection de Ville-Marie, se fait toutefois au prix de
+pertes humaines lorsqu’intervient une recrudescence
+des raids iroquois au cours des années 1680-1700.
+Un traité de paix est signé en 1701.
+
+
+
+
+                         ARRONDISSEMENT                                                                                                     39
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+                                                                                   A. Les secteurs d’intérêt archéologique
+                                                                                        à fort potentiel
+
+
+
+                                                                              1.AP.1 ET 1.A.1 ANCIEN VILLAGE DE SAINTE-
+                                                                                GENEVIÈVE ET SITE DU PATRIMOINE DU
+                                                                                MONASTÈRE DES PÈRES DE SAINTE-CROIX
+
+                                                                              Sur la côte Sainte-Geneviève, on aurait érigé un
+                                                                              premier ouvrage défensif dont la localisation est
+                                                                              révélée par la carte de Bellin de 1744. Le village de
+                                                                              Sainte-Geneviève, traversé par le chemin de la côte
+                                                                              Sainte-Geneviève, aujourd’hui le boulevard Gouin,
+                                                                              regroupe plusieurs habitations rurales. La chapelle de
+                                                                              Sainte-Geneviève date de 1751; elle est remplacée
+                                                                              entre 1843 et 1845 par l’église actuelle qui, avec le
+                                                                              presbytère et le cimetière, compose le noyau villa-
+                                                                              geois ancien.
+
+                                                                              Des vestiges des exploitations agricoles peuvent être
+                                                                              conservés en bordure et dans l’emprise du boulevard
+                                                                              Gouin. Ce secteur comprend également le site du
+Les collections archéologiques ont une valeur patrimoniale indéniable         patrimoine du Monastère des pères de Sainte-Croix,
+et représentent une richesse collective qui mérite toute notre attention.     aujourd’hui occupé par le Cégep Gérald-Godin.
+Ces objets illustrent avec éloquence notre histoire matérielle et jouissent
+d’un pouvoir fortement évocateur qui rappelle les modes de vie de nos
+prédécesseurs. Jarre en terre cuite grossière d’Angleterre, 1760-1840;
+objet amérindien, pointe de projectile, 2 500 ans avant Jésus-Christ;
+cannelle de tonneau en laiton, XVIIIe siècle. Photographies : P. Fauteux.
+
+
+
+
+40                                                                            Évaluation du patrimoine urbain
+                                                                              Ville de Montréal
+                                                          1.AP.1 Carte de Jacques-Nicolas Bellin, ingénieur et hydrographe de la
+                                                          Marine, illustrant l’île de Montréal et ses environs, 1744. Bibliothèque
+                                                          nationale du Québec à Montréal.
+
+
+
+
+              ARRONDISSEMENT                                                                                                   41
+de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+1.AP.2 PARC-NATURE DU BOIS-DE-L’ÎLE-BIZARD                     1.AP.4 ANCIEN VILLAGE DE L’ÎLE BIZARD
+1.AP.3 ET 1.A.3 RIVES DE L’ÎLE BIZARD
+                                                               L’ancien village de l’île Bizard est localisé sur la rive sud
+L’île Bizard est caractérisée par la présence de vastes        de l’île, face au village de Sainte-Geneviève. Le noyau
+espaces libres : le parc-nature du Bois-de-l’île-Bizard,       villageois ancien est concentré autour de l’église Saint-
+l’extension nord-est du parc-nature du Cap Saint-              Raphaël.
+Jacques, des terrains de golf et de grandes terres
+agricoles. La plus forte proportion d’occupations rési-
+dentielles se trouve dans la moitié est de l’île.              1.AP.5 PARC-NATURE DU CAP SAINT-JACQUES
+La pointe ouest de l’île Bizard se trouve au point de          Cette avancée de terre au pourtour très découpé est
+rencontre du lac des Deux-Montagnes et de la rivière           située au point de jonction du lac des Deux-
+des Prairies, tandis que la rivière des Mille-Îles la sépare   Montagnes et de la rivière des Prairies. L’étroit chenal
+de l’île Jésus; ces deux rivières créent des couloirs qui      qui sépare le cap de l’île Bizard permet la création de
+favorisent la formation de rapides. Au cours de la             rapides, ce qui en fait un emplacement de choix pour
+période préhistorique, des groupes amérindiens ont             les campements amérindiens au cours de la période
+pu utiliser les berges de l’île Bizard pour établir des        préhistorique. La période historique se caractérise par
+campements et exploiter les ressources halieutiques.           un développement des activités agricoles; le chemin
+L’île a pu fournir un environnement adapté aux né-             principal du cap n’en suit pas le contour, mais un
+cessités de groupes de chasseurs-pêcheurs-cueilleurs           chemin transversal longe la rive est du cap. On y voit
+et peut donc receler d’importants vestiges de ces              encore aujourd’hui quelques maisons anciennes, dont
+anciennes occupations humaines.                                la maison Grier, construite en 1799. Les autres bâti-
+Au cours de la période historique, les terres de l’île         ments anciens sont alignés le long de la rive est
+Bizard sont divisées en sections nord et sud, dont le          (maison Joseph-La Madeleine dit Ladouceur, 1816, et
+front donne sur la rivière des Prairies ou le lac des          maison Jacques-Richer dit Louveteau, 1849). Une rési-
+Deux-Montagnes, ce qui implique que l’arrière des lots         dence isolée se présente à la pointe nord du parc-
+se rejoint au centre de l’île. Un chemin ceinture le           nature, la maison Thomas-Brunet, qui date de 1835.
+pourtour de l’île tandis qu’une montée permet de               Des vestiges des dépendances et des aménagements
+                                                               secondaires – puits, latrines et fosses à déchets –
+joindre le village au chemin de la berge nord. La dis-
+                                                               peuvent être conservés en sous-sol à proximité de ces
+position des terres fait en sorte que la majorité des
+                                                               bâtiments anciens.
+habitations rurales sont situées en bordure des
+chemins du Bord-du-Lac et Cherrier, qui longent les
+rives nord et sud. Un petit chemin pénètre toutefois la
+pointe ouest de l’île, le chemin Monk, ce qui a favorisé       1.AP.6 PARC-NATURE DE L’ANSE-À-L’ORME
+la construction d’habitations à cet emplacement. Des           1.AP.7 PARC-NATURE DU BOIS-DE-LA-ROCHE
+vestiges de différentes occupations peuvent être con-
+                                                               Ces deux grands parcs-nature, qui ont subi peu de
+servés en bordure de ces chemins et à proximité des
+                                                               modifications au cours du XXe siècle, sont traversés par
+berges, comme l’illustrent les maisons anciennes de
+                                                               le boulevard Gouin et se prolongent jusqu’au bord de
+l’île et les deux sites archéologiques recensés à ce jour
+                                                               l’eau. Ils peuvent abriter des vestiges archéologiques
+sur les berges, les sites BiFl-004 et BjFl-f. De plus, le
+                                                               des époques préhistorique et historique. L’extrémité
+parc du Bois-de-l’île-Bizard est un espace d’intérêt his-
+                                                               ouest du parc de l’Anse-à-l’Orme, au nord de l’axe
+torique pour les fonctions de havre et d’exploitation
+                                                               principal du parc et en bordure du lac des Deux-
+de carrières.
+                                                               Montagnes, présente un potentiel archéologique élevé.
+
+
+42                                                             Évaluation du patrimoine urbain
+                                                               Ville de Montréal
+1.AP.8 ET 1.A.5 ANCIEN VILLAGE DE SAINTE-                            la localisation du canal au point de jonction des lacs
+  ANNE-DE-BELLEVUE                                                   Saint-Louis et des Deux-Montagnes et à proximité de
+                                                                     la rivière des Outaouais en fait la porte d’entrée vers
+À la période préhistorique, le paysage de Sainte-Anne-               les territoires de l’est et du nord. Le canal sert, entre
+de-Bellevue représente un endroit exceptionnel, une                  autres, au transport de barges chargées de bois jusque
+pointe s’avançant dans la baie de Vaudreuil. Cette                   vers 1920. Avec l’avènement du transport ferroviaire
+localisation permet de contrôler la circulation entre                et le déclin de l’industrie du bois, la vocation du canal
+le lac des Deux-Montagnes et le lac Saint-Louis en                   évoluera vers la navigation de plaisance. Ce lieu his-
+dominant l’étranglement entre l’île Perrault et l’île de             torique national a fait l’objet d’une restauration en
+Montréal. Si on y ajoute les rapides de Sainte-Anne, qui             1985, et cet ouvrage de génie est à mettre en relation
+augmentent le potentiel halieutique et occasionnent,                 avec les aménagements du canal de Lachine.
+de façon saisonnière, des portages, ce lieu est sûre-
+ment fréquenté par les groupes amérindiens bien
+avant l’arrivée des Européens.
+
+Anciennement nommée Sainte-Anne-du-Bout-de-l’Île,
+Sainte-Anne-de-Bellevue est localisée sur les terres de
+la côte Sainte-Anne. L’abandon (en 1687) de la pre-
+mière mission du Bout-de-l’Île, celle de Baie-d’Urfé,
+permet dès le début du XVIIIe siècle de revoir l’im-
+plantation du noyau villageois vers Sainte-Anne-de-
+Bellevue. Le développement du village s’accentue vers
+le milieu du XIXe siècle avec la construction de la voie
+ferrée et du pont de chemin de fer. Le noyau institu-
+tionnel où se retrouvent aujourd’hui l’église, le pres-
+bytère et l’ancien couvent offre un potentiel archéolo-
+gique élevé, compte tenu de l’intégrité présumée du
+site de la première église (1728). C’est également dans
+cette zone que sont préservés les témoins de la chapelle
+et d’un canal du Régime français. De plus, le lot 109
+serait vraisemblablement le site du premier cimetière
+de Sainte-Anne-de-Bellevue. Le complexe industriel
+Grier, qui a accueilli deux moulins – à scie et à farine –
+est également à potentiel archéologique élevé.
+Ailleurs, plus d’une trentaine de lots recèlent autant de
+sites archéologiques potentiels.                                     1.AP.1 et 1.AP.8 La maison Montpellier dit Beaulieu et la maison Pilon
+                                                                     sont des exemples éloquents de sites archéologiques potentiels.
+Canal de Sainte-Anne-de-Bellevue
+Le canal de Sainte-Anne-de-Bellevue est utilisé dès son
+ouverture, en 1843, à des fins commerciales. Le canal
+et les écluses s’intègrent dans l’axe de navigation
+Montréal – Ottawa – Kingston et facilitent la naviga-
+tion sur cet axe de transport très fréquenté. En effet,
+
+
+
+
+                         ARRONDISSEMENT                                                                                                 43
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+      B. Les secteurs d’intérêt archéologique             Chemin du Bord-du-Lac
+                                                          Ce chemin constitue un segment du premier axe de
+                                                          communication terrestre aménagé dans l’ouest de l’île
+                                                          de Montréal. Son tracé recoupe l’ensemble des terres
+1.A.1 ANCIEN VILLAGE DE SAINTE-GENEVIÈVE
+                                                          de la côte Sainte-Anne qui ont front sur le lac Saint-
+  ET SITE DU PATRIMOINE DU MONASTÈRE
+                                                          Louis. Au cours de la seconde moitié du XIXe siècle,
+  DES PÈRES DE SAINTE-CROIX
+                                                          tous les lots sont occupés et certains d’entre eux
+Voir texte 1.AP.1                                         présentent même plus d’une habitation. De nom-
+                                                          breuses maisons à caractère patrimonial sont recen-
+                                                          sées en bordure du chemin, dont la maison d’Antoine
+1.A.2 ARBORETUM MORGAN                                    Héniau dit Deschamps (1865). Cette situation démontre
+                                                          que des vestiges associés à des occupations agricoles
+L’Arboretum Morgan est une réserve boisée accessible      anciennes peuvent se trouver à l’intérieur ou en bor-
+au public, administrée par l’Université McGill. Deux      dure du chemin actuel.
+terrasses d’une élévation de 50 mètres au-dessus du
+niveau de la mer sont localisées au nord de l’au-
+toroute 40. Compte tenu de la qualité de drainage         1.A.5 ANCIEN VILLAGE
+du dépôt de surface, l’emplacement a pu être utilisé        DE SAINTE-ANNE-DE-BELLEVUE
+par des groupes amérindiens au cours de la préhis-
+toire pour des camps de transit ou d’observation.         Voir texte de 1.AP.8
+L’élévation du lieu lui confère un potentiel archéo-
+logique amérindien préhistorique, puisque ces terres
+ont rapidement émergé des eaux après l’épisode                  C. Les sites archéologiques
+d’invasion marine de la mer de Champlain.
+
+
+                                                          BIFL-004, RIVE SUD-OUEST DE L’ÎLE BIZARD,
+1.A.3 RIVES ET ÎLES DE L’ÎLE BIZARD                       PARC-NATURE DU CAP SAINT-JACQUES
+                                                          Mesure de protection : site archéologique
+Voir texte 1.AP.3
+                                                          à protéger
+                                                          Thème : complexe agricole
+
+1.A.4 ZONE CÔTIÈRE                                        L’île Bizard se peuple peu à peu au cours du XVIIIe siè-
+                                                          cle et son occupation s’intensifie vers le milieu du
+La bordure de l’île de Montréal comprend les rives mais   XIXe siècle. Les terres de l’île sont alors divisées en
+également le tracé du chemin qui en suit le pourtour et   lots orientés nord-sud, le front en façade de la rivière
+les terres qui le bordent. Ces emplacements peuvent       des Prairies ou du lac des Deux-Montagnes. Cette
+avoir été utilisés au cours des périodes préhistorique    subdivision des terres implique que les arrières
+et historique selon divers choix d’établissement, en      des lots se rejoignent au centre de l’île. Un chemin
+fonction de l’époque et des populations concernées.       longe le pourtour de l’île, et une montée permet de
+                                                          relier le village au chemin de la berge nord. La dis-
+                                                          position des lots fait en sorte que plusieurs habita-
+                                                          tions rurales sont situées en bordure des chemins
+
+
+
+44                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+du Bord-du-Lac et Cherrier, sur les rives nord et sud                – Maison Simon-Fraser ou Thomas-Moore,
+de l’île Bizard. Un inventaire archéologique effec-                    153, rue Sainte-Anne, monument historique
+tué dans le cadre du projet Archipel (Arkéos 1985)                     classé et site historique classé
+a permis d’enregistrer les vestiges d’une occupa-
+                                                                     – Maison Joseph-Charlebois (Grier),
+tion eurocanadienne sur la rive sud-ouest de l’île
+                                                                       134, chemin du Cap Saint-Jacques,
+Bizard. Des éléments architecturaux en pierre ont
+                                                                       monument historique classé
+été observés de même que des niveaux strati-
+graphiques intacts. Une collection d’objets-témoins                  – Maison d’Ailleboust-De-Manthet,
+a été recueillie; sa datation couvre le XIXe siècle.                   15886, boulevard Gouin Ouest,
+                                                                       monument historique reconnu
+
+BIFL-F, MOULIN DES FRÈRES BOILEAU                                    – Maison Montpellier dit Beaulieu,
+Mesure de protection : site archéologique                              174, rue Beaulieu,
+à protéger                                                             monument historique reconnu
+Thème : activité artisanale
+                                                                     – Couvent des Sœurs de Sainte-Anne,
+Les vestiges dits du moulin de l’île Bizard, datant                    16115, boulevard Gouin Ouest,
+possiblement de 1888, correspondent à des segments                     monument historique cité
+de murs de pierre. Ces murs ont été photographiés                    – Maison Joseph-Théoret,
+et sommairement décrits par un résidant en 1985                        20, rue Martel, monument historique cité
+(Rousseau 1985). Ils sont localisés à proximité de la rive,
+à l’angle de la 3e Avenue et de la rue du Bord-de-l’Eau.             – Maison Toussaint-Théoret,
+                                                                       1883, chemin du Bord-du-Lac,
+                                                                       monument historique cité
+
+      D. Les biens culturels à statut                                – Maison dite du Centenaire,
+                                                                       997, chemin Cherrier, monument historique cité
+
+                                                                     – Église Saint-Raphaël-Archange et presbytère,
+La notion de bien culturel intègre les sites et les biens              495, rue Cherrier, monument historique cité
+archéologiques classés, les sites historiques classés et
+les monuments historiques classés ou reconnus, les                   – Maison Denis-Benjamin-Viger,
+arrondissements historiques et naturels, les monu-                     376, chemin Cherrier Ouest,
+ments cités et les sites du patrimoine. Ces biens ont                  monument historique cité
+fait l’objet d’un examen à partir de la documentation                – Monastère des Pères de Sainte-Croix,
+disponible afin d’en déterminer l’intérêt archéolo-                    site du patrimoine
+gique. La liste suivante indique les biens à statut où
+il est nécessaire d’évaluer plus avant le potentiel                  – Canal de Sainte-Anne-de-Bellevue,
+archéologique et d’assurer la protection du patrimoine                 lieu historique national du Canada
+archéologique.
+
+
+
+
+                         ARRONDISSEMENT                                                                               45
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+                                                                                                                                                                                                                                                                           BjFl-f
+                                                                                                                                                                                                                                                                           BjFl-f
+                                                                                                                                                                                                                                                                           BjFl-f
+                                                                                                                                                                                                                                                                           BjFl-f
+                                                                                                                                                                                                                                                                           BjFl-f
+                                                                                                                                                                                                                                                                           BjFl-f
+
+
+
+
+                                                                                                                                                                                                            a   c
+                                                                                                                                                                                               u   Bord-du-L
+                                                                                                                                                                     1.A.3
+                                                                                                                                                                     1.A.3
+                                                                                                                                                                     1.A.3
+                                                                                                                                                                     1.A.3
+                                                                                                                                                                     1.A.3
+                                                                                                                                                                     1.A.3             chemin D
+
+
+
+
+                                                                                                                                                                                                                             Église
+                                                                                                                                                    montée Wilson
+
+
+
+
+                                                                                                                                                                                                                              montée De L'
+
+
+
+
+                                                                                                                                                                                                                                                                                                                       chemin Dutour
+                                                                                                                                                                                                                                                                                    1.AP.2
+                                                                                                                                                                                                                                                                                    1.AP.2
+                                                                                                                                                                                                                                                                                    1.AP.2
+
+
+                                                                                                                                           1.AP.3
+                                                                                                                                           1.AP.3
+                                                                                                                                           1.AP.3
+
+
+
+
+                                                                                                                                                                                                                                                                                                               t
+                                                                                                                                                                                                                                                                                                           mon
+                                                                                                                                                                                                                                                                                                  C h èvre
+                                                                                                                                                                                                                                                                                         eva   rd
+                                                                                                                                                                              BiFl-4
+                                                                                                                                                                              BiFl-4
+                                                                                                                                                                              BiFl-4
+                                                                                                                                                                              BiFl-4
+                                                                                                                                                                              BiFl-4
+                                                                                                                                                                              BiFl-4                                                                                                boul
+
+
+
+
+                                                                                                                                                                                                                                                                 cques-Bizard
+                                                                                                                                                                                                                             1.AP.4
+                                                                                                                                                                                                                             1.AP.4
+                                                                                                                                                                                                                             1.AP.4
+                                                                                                                                                                                                                             1.AP.4
+                                                                                                                                                                                                                             1.AP.4
+                                                                                                                                                                                                                             1.AP.4
+                                                                                                                                                                    1.AP.5
+                                                                                                                                                                    1.AP.5
+                                                                                                                                                                    1.AP.5
+                                                                                                                                                                    1.AP.5
+                                                                                                                                                                    1.AP.5
+                                                                                                                                                                    1.AP.5
+                                                                                                                              1.AP.5
+                                                                                                                              1.AP.5
+                                                                                                                              1.AP.5
+                                                                                                                                                                                                       chemin
+                                                                                                                                                                               1.A.3
+                                                                                                                                                                               1.A.3
+                                                                                                                                                                               1.A.3
+                                                                                                                                                                               1.A.3
+                                                                                                                                                                               1.A.3
+                                                                                                                                                                               1.A.3                            Cherrie
+                                                                                                                                                                                                                       r
+
+
+
+
+                                                                                                                                                                                                                                                     boulevard Ja
+                                                                                                                                                                                                                                                                                                                       st
+                                                                                                              boulevard G
+                                                                                                                                       ouin Ouest                                                                                                                                                            uin   Oue
+                                                                                                                                                                                                      1.A.3
+                                                                                                                                                                                                      1.A.3
+                                                                                                                                                                                                      1.A.3
+                                                chemin Senneville                                                                                                                                     1.A.3
+                                                                                                                                                                                                      1.A.3
+                                                                                                                                                                                                      1.A.3
+                                                                                                                                                                                                                                                                                                        d Go
+                                                                                                                                                                                                                                                                                              evar
+                                                                                                                                                                             1.AP.5
+                                                                                                                                                                             1.AP.5
+                                                                                                                                                                             1.AP.5
+                                                                                                                                                                             1.AP.5
+                                                                                                                                                                             1.AP.5
+                                                                                                                                                                             1.AP.5                                                                                                      boul
+                                                                                                                                                                                                                           1.AP.1
+                                                                                                                                                                                                                           1.AP.1
+                                                                                                                                                                                                                           1.AP.1
+                                                                                                                                                                                                                           1.AP.1
+                                                                                                                                                                                                                           1.AP.1
+                                                                                                                                                                                                                           1.AP.1
+
+
+                BiFl-2
+                BiFl-2
+                BiFl-2
+                BiFl-2
+                BiFl-2
+                BiFl-2
+                                                                                                           ch
+                                                                                                             em
+                                                                                                                  in                                                                                                                                 1.AP.1
+                                                                                                                                                                                                                                                     1.AP.1
+                                                                                                                                                                                                                                                     1.AP.1
+                                                                                                                                                                                                                                                     1.AP.1
+                                                                                                                                                                                                                                                     1.AP.1
+                                                                                                                                                                                                                                                     1.AP.1
+                                                                                                1.AP.7
+                                                                                                1.AP.7
+                                                                                                1.AP.7
+                                                                                                1.AP.7
+                                                                                                1.AP.7
+                                                                                                1.AP.7                 De                                                                                                                    1.A.1
+                                                                                                                                                                                                                                             1.A.1
+                                                                                                                                                                                                                                             1.A.1
+                                                                                                                                                                                                                                             1.A.1
+                                                                                                                                                                                                                                             1.A.1
+                                                                                                                                                                                                                                             1.A.1
+
+
+
+
+                                                                                                                            L'An
+                                                                   1.A.2
+                                                                   1.A.2
+                                                                   1.A.2
+                                                                   1.A.2
+                                                                   1.A.2
+                                                                   1.A.2
+
+                                                                                                                                s
+                                                                                                                              e-à-
+                                                                                                                                   l'Or
+                                                                                                                                    e  m
+                                                                                                                                                                                                                                                                                         Le patrimoine archéologique
+                                                                                                                                                                                                                                                                                         Arrondissement de
+                                                      au
+                                                                                                                                       1.AP.6
+                                                                                                                                       1.AP.6
+                                                                                                                                       1.AP.6
+                                                                                                                                       1.AP.6
+                                                                                                                                       1.AP.6
+                                                                                                                                       1.AP.6                                                                                                                                            L'Île-Bizard—Sainte-Geneviève—
+                                                        to                                                                                                                                                                                                                               Sainte-Anne-de-Bellevue
+                                                          ro
+                                                            ut
+                                                               e
+                                                                   40         chemin
+                                                                                        Sainte                                                                                                                                                                                                            Grand ensemble à statut
+                                                                                               -M   arie                                                                                                                                                                                                  (arrondissement historique et naturel, site du patrimoine)
+                                                                                                                                                                                                                                                                                                          Site archéologique recensé (intègre)
+                                 1.A.5
+                                 1.A.5
+                                 1.A.5
+                                                                                                                                                                                                                                                                                                          Site archéologique recensé (altéré)
+              0
+              00
+               00
+                0
+                                                                                                                                                                                                                                                                                                          Secteur d'intérêt archéologique à fort potentiel
+                                                                                                                                                                                                                                                                                                          Secteur d'intérêt archéologique
+                               1.AP.8
+                               1.AP.8
+                               1.AP.8
+                                                                           autoroute
+                                                                                       20
+                                                                                                                                                                                                                                                                                             1.AP.1
+                                                                                                                                                                                                                                                                                                          Code du secteur
+                                                                                                                                                                                                                                                                                                          (voir étude d'évaluation du patrimoine urbain)
+                                                                                                                                                                                                                                                                                               BiFj-1     Code de site archéologique
+                                                                                                                                                                                                                                                                                                          Limite d'arrondissement
+                                        1.A.4
+                                        1.A.4
+                                        1.A.4
+                                        1.A.4
+                                        1.A.4
+                                        1.A.4
+
+
+
+
+                                                                                                                                                                                                                                                                                         Division du patrimoine et
+0       500         1000   m                                                                                                                                                                                                                                                             de la toponymie
+
+19 avril 2005
+4.                                 R E C O M M A N D AT I O N S
+
+
+
+4.1 Générales à l’échelle de l’arrondissement
+                                                                       et maintenir le bon état et l’intégrité des bâtiments
+                                                                       par l’entretien.
+
+                                                                          Les variables suivantes devraient être considérées
+Nous recommandons :                                                       dans l’élaboration des PIIA et des règles :
+– dans les secteurs d’intérêt patrimonial excep-                        • Parcellaire : mode de division, dimensions et pro-
+  tionnel, de protéger les caractéristiques architecturales               portions des parcelles, mode d’implantation du
+  et paysagères, de veiller à l’intégration des nouveaux                  bâti, aménagement du terrain.
+  bâtiments à leur environnement et de s’assurer que
+                                                                        • Bâti : volumétrie (gabarit, nombre d’étages, forme
+  les modifications aux bâtiments existants se fassent
+                                                                          de la toiture), traitement des façades (saillies, com-
+  en tenant compte du contexte. La réglementation
+                                                                          position des façades, rythme, forme et dimen-
+  devra prévoir que les interventions dans ces secteurs
+                                                                          sions des ouvertures, modèles de portes et de
+  soient encadrées par des critères – plans d’implan-
+                                                                          fenêtres, revêtements, ornementation, couleurs,
+  tation et d’intégration architecturale (PIIA) – mais
+                                                                          matériaux et textures, etc.).
+  aussi par des règles si la situation le justifie.
+                                                                     – d’instaurer des mesures de zonage spécifiques
+– pour les bâtiments d’intérêt patrimonial excep-
+                                                                       pour des ensembles significatifs tels que les
+  tionnel et intéressant, de protéger leurs caractéris-
+                                                                       noyaux paroissiaux (parc, école, église, pres-
+  tiques architecturales en s’assurant que les modifi-
+                                                                       bytère, etc.) afin de préserver l’essence de leur
+  cations aux bâtiments énumérés dans les listes soient
+                                                                       valeur patrimoniale.
+  encadrées, dans la réglementation, par des critères (PIIA)
+  mais aussi par des règles si la situation le justifie.             – d’étudier les territoires identifiés comme ensembles
+                                                                       urbains d’intérêt, de recenser les typologies des
+– dans les secteurs d’intérêt patrimonial intéressant,
+                                                                       ensembles qui présentent une grande homogénéité
+  de protéger les caractéristiques architecturales et
+                                                                       et de développer des outils visant à sensibiliser la
+  paysagères, de veiller à l’intégration des nouveaux
+                                                                       population à l’égard de l’intérêt patrimonial de ces
+  bâtiments à leur environnement et de s’assurer que
+                                                                       ensembles.
+  les modifications aux bâtiments existants se fassent
+  en tenant compte du contexte. La réglementation                    – d’établir un contrôle sur les démolitions dans les
+  devra prévoir que les interventions dans ces secteurs                secteurs d’intérêt patrimonial et pour les bâtiments
+  soient encadrées par des règles.                                     patrimoniaux en évaluant l’intérêt patrimonial des
+                                                                       bâtiments concernés afin d’éviter des pertes
+– que l’élaboration des PIIA et l’élaboration de
+                                                                       irréversibles.
+  règles dans les règlements de zonage favorisent
+  une architecture de qualité et consolident le cadre                – d’éviter le fractionnement des grandes propriétés
+  bâti en harmonie avec le caractère de chaque lieu, en                et d’assurer la protection et la mise en valeur des
+  contrôlant notamment l’apparence des nouvelles                       propriétés institutionnelles.
+  constructions afin qu’elles s’intègrent à leur milieu
+  environnant, ainsi qu’en contrôlant l’apparence des                – d’appliquer les mesures nécessaires à un examen
+  modifications à un bâtiment pour qu’elles s’harmo-                   du potentiel archéologique et, le cas échéant, à la
+  nisent avec son expression architecturale spécifique.                protection des vestiges découverts, préalablement
+                                                                       aux travaux d’excavation publics et privés dans les
+  Les principes qui devraient guider l’élaboration                     grands ensembles à statut et les biens culturels
+  des PIIA et des règles sont les suivants : conserver                 à statut, les sites archéologiques recensés et les
+  l’identité des secteurs, connaître avant d’intervenir                secteurs d’intérêt archéologique à fort potentiel.
+
+
+                         ARRONDISSEMENT                                                                                      49
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+– de favoriser la prise en compte des vestiges
+  présentant une grande valeur archéologique                4.2 Générales à l’échelle montréalaise
+  dans la conception et la réalisation des projets de
+  construction ou d’aménagement urbain, notamment           Nous recommandons :
+  par l’adaptation des travaux ou l’intégration des
+  vestiges.                                                 – de développer des outils de protection et de mise
+                                                              en valeur, incluant la citation en vertu de la Loi
+– d’assurer la protection et la mise en valeur des
+                                                              sur les biens culturels du Québec, pour les
+  aménagements urbains, des parcs et des espaces
+                                                              immeubles qui possèdent une valeur patrimoniale
+  publics.
+                                                              élevée à l’échelle montréalaise, comme certaines
+– de préserver et de protéger le couvert végétal,             maisons rurales et villas, institutions (ex. : écoles,
+  qui contribue beaucoup au caractère de plusieurs            églises), services municipaux (ex. : bains, casernes,
+  secteurs patrimoniaux répertoriés, de favoriser les         complexes civiques), etc.
+  plantations et de protéger de façon générale le
+                                                            – de développer des outils de protection et de mise
+  patrimoine naturel, ainsi que de préserver et mettre
+                                                              en valeur, incluant la création de sites du patri-
+  en valeur le caractère champêtre des secteurs où
+                                                              moine en vertu de la Loi sur les biens culturels
+  l’on retrouve encore des paysages agricoles.
+                                                              du Québec, pour les sites qui possèdent une
+– de protéger les perspectives d’intérêt patrimonial          valeur patrimoniale élevée à l’échelle montréalaise,
+  telles que les vues sur le centre-ville, le mont Royal,     notamment certains noyaux villageois, ensembles
+  les plans d’eau, les places publiques, les monuments        institutionnels, grands domaines, grands gestes
+  commémoratifs, certains bâtiments ou clochers, etc.         urbains et architecturaux, etc.
+
+– de préserver la spécificité de la trame urbaine           – à partir des critères de sélection établis pour l’évalua-
+  montréalaise, qui découle des tracés fondateurs et          tion des bâtiments et des secteurs susceptibles
+  des caractéristiques naturelles, et de préserver            d’avoir un intérêt pan-montréalais, de développer un
+  la grille orthogonale (incluant les ruelles des             plan d’attribution de statuts patrimoniaux en vertu
+  arrondissements du centre) ainsi que les plans              de la Loi sur les biens culturels du Québec, de
+  d’ensemble et grilles particulières de certains             fixer des critères d’évaluation pour les interventions
+  arrondissements; de contrôler les subdivisions              sur les bâtiments et territoires protégés par le volet
+  cadastrales afin de préserver le rythme des rues et         municipal de cette même loi, d’élaborer des outils
+  de sauvegarder l’échelle du bâti.                           de protection et de dresser un plan directeur pour
+                                                              la mise en valeur de chacun des sites du patrimoine.
+– de développer des outils de promotion et de mise
+  en valeur des tracés fondateurs à fort potentiel,         – d’élaborer pour le public, les employés municipaux
+  aux fins de la protection de leur caractère.                et les élus des activités et des outils de sensibili-
+– de développer un plan stratégique pour les artères          sation à l’égard du patrimoine.
+  commerciales principales (vitalité, affichage,
+  rénovation, éclairage, mobilier urbain, etc.) qui
+  tienne compte de la dimension patrimoniale des
+  lieux et de concilier les opérations de travaux
+  publics avec les préoccupations patrimoniales.
+
+
+
+
+50                                                          Évaluation du patrimoine urbain
+                                                            Ville de Montréal
+– de réaliser des études plus poussées permettant
+  d’accroître la connaissance du patrimoine bâti, his-               4.3 Spécifiques à l’arrondissement
+  torique et archéologique afin d’évaluer la valeur
+  patrimoniale rattachée à différentes problématiques,               Nous recommandons :
+  notamment :
+                                                                     – d’évaluer l’intérêt pan-montréalais des secteurs et
+  • étudier les territoires identifiés comme secteurs                  des bâtiments d’intérêt patrimonial exceptionnel en
+    d’intérêt archéologique à fort potentiel et                        vue de procéder à la création de sites du patrimoine
+    secteurs d’intérêt archéologique pour évaluer                      et à la citation de bâtiments en vertu de la Loi
+    le degré de préservation du milieu physique,                       sur les biens culturels du Québec, notamment :
+    localiser les sites archéologiques conservés et
+    définir préventivement les mesures de protection                   • pour les trois îlots villageois.
+    du patrimoine archéologique.                                       • pour les immeubles antérieurs à 1850.
+  • faire des études détaillées sur le patrimoine                    – de promouvoir la reconstitution du jardin du «Garden
+    industriel pour déterminer une stratégie de                        CityPress».
+    conservation et de développement des sites ;
+    étudier plus spécifiquement les territoires identifiés
+    comme ensembles industriels d’intérêt.
+
+  • établir des balises et des critères permettant de
+    bien planifier et gérer la problématique du patri-
+    moine religieux; favoriser la conservation et la
+    mise en valeur des lieux de culte les plus impor-
+    tants relativement à leur valeur patrimoniale ;
+    mettre en œuvre des outils de gestion des
+    demandes de permis et favoriser l’occupation de
+    lieux de culte par des fonctions compatibles ;
+    favoriser le maintien des caractéristiques des
+    ensembles conventuels les plus importants, de
+    leurs espaces paysagers et des cimetières.
+
+  • accroître la connaissance du patrimoine
+    moderne en encourageant la recherche, les
+    inventaires et les publications à ce sujet.
+
+  • planifier des études à l’échelle montréalaise,
+    développer des outils et élaborer des lignes direc-
+    trices de rénovation et d’agrandissement adap-
+    tées aux diverses typologies que l’on retrouve
+    dans les zones identifiées comme ensembles
+    urbains d’intérêt.
+
+
+
+
+                         ARRONDISSEMENT                                                                                 51
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+5.
+Photographies aériennes
+                                   BIBLIOGRAPHIE
+
+
+                                                                     JOBIN, André. Carte de l’île de Montréal, 1834,
+                                                                     Bibliothèque nationale du Québec à Montréal.
+  Photographies aériennes, 1947-1948-1949, Ville                     Cote : G 3452 M65 1834 J63 CAR
+de Montréal, Gestion des documents et archives
+                                                                     JOURDAIN dit LABROSSE, Paul. Plan de la ville et des
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                       faubourgs de Montréal, 1767. Archives nationales du
+Orthophoto noir et blanc, 2000, Navigateur urbain.                   Canada, NMC-16687 [2 sections] H2/340 Montréal
+SERVICE DE GÉOMATIQUE DE LA VILLE DE MONTRÉAL.                       1767.
+Orthophoto noir et blanc, 2002, Navigateur urbain.                   LEVASSEUR DE NÉRÉ, Jacques. Plan de la ville de
+Cartes                                                               Montréal, 1704. Archives nationales (France), Centre
+                                                                     des archives d’outre-mer, Dépôt des fortifications des
+ADAMS, John. Map of the City and Suburbs of                          colonies, Amérique Septentrionale, no 468A.
+Montreal, 1825. Bibliothèque de l’Université McGill,
+Département des livres rares et des collections spéciales.           MELISH, John. Plan of Montreal, with a Map of the
+                                                                     Islands & adjoining Country, 1815, Bibliothèque
+BELLIN, Jacques-Nicolas. Carte de Lisle de Montreal                  nationale du Québec à Montréal.
+et de ses environs, 1744, Bibliothèque nationale du                  Cote: G 3454 M65 1815 M4
+Québec à Montréal.
+Cote : G 3452 M65 1744 B4                                            PINSONEAULT, A.-R. Atlas of the Island of Montreal
+                                                                     and Ile Bizard, 1907, Bibliothèque nationale du Québec
+BOUCHETTE, Joseph. Topographical Map of the Province                 à Montréal.
+of Lower Canada, 1815. Londres, W. Faden.                            Cote: G 1144 M65G475 P5 1907 CAR
+
+CHAUSSEGROS DE LÉRY, Gaspard. Plan de la ville                       SITWELL, H.S. Fortification Surveys Canada. Contoured
+de Montreal en Canada, 10 août 1717. Archives                        Plan of Montreal and its Environs, Quebec, 1868-1869,
+nationales (France), Centre des archives d’outre-mer,                Archives nationales du Canada, Ottawa.
+Dépôt des fortifications des colonies, Amérique                      Cote: V40/300/1867
+Septentrionale, no 473.
+                                                                     UNDERWRITERS SURVEY BUREAU. Insurance Plan of
+GOAD, Charles E. Atlas of Montreal, 1890, volumes                    the City of Montreal, 1952, 1953, 1954, 1955, 1957,
+1 et 2, Bibliothèque nationale du Québec à Montréal.                 1959, 1961, 1962, 1963, 1964, 1966, 1967, 1972,
+Cote : G 1144 M65G475 G6 1890 CAR 1 et 2                             volumes 1 à 10, 12 à 17, 19 à 21.
+
+GOAD, Charles E. Plan of the City of Montreal, 1909,                 Ouvrages généraux
+1911, 1912, 1913, 1914, 1915, volumes 1 à 12,
+Bibliothèque nationale du Québec à Montréal et                         Itinéraire toponymique du Saint-Laurent, ses rives
+Direction du développement urbain de la Ville de                     et ses îles, Québec, 1984, 451 p., coll. Études et
+Montréal.                                                            recherches toponymiques, no 9.
+
+HOPKINS, H.W. Atlas of the City and Island of                        BEAUREGARD, Ludger. « Géographie historique des
+Montreal, 1879, Bibliothèque nationale du Québec                     côtes de l’île de Montréal », Cahiers de géographie
+à Montréal.                                                          du Québec, vol. 28, nos 73-74, avril-septembre 1984,
+Cote : G1144 M65G475 H6 1879 CAR                                     p. 47-62.
+
+
+
+
+                         ARRONDISSEMENT                                                                                 53
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+BEAUREGARD, Ludger. Toponymie de la région métro-         MAGNAN, Hormidas. Dictionnaire historique et géo-
+politaine de Montréal, Québec, Ministère des Terres       graphique des paroisses, missions et municipalités
+et Forêts du Québec, 1968, 225 p., coll. Étude            de la province de Québec, Arthabaska, Imprimerie
+toponymique 2 (nouvelle série).                           d’Arthabaska Inc., 1925, 738 p.
+
+BERGERON, Claude. Architectures du XXe siècle au          MARSAN, Jean-Claude (dir.). Inventaire préliminaire
+Québec, Québec, Musée de la civilisation / Éditions       des bâtiments patrimoniaux de la Commission sco-
+du Méridien, 1989, 271 p.                                 laire de Montréal, vol. 1-2a-2b, Montréal, Université
+                                                          de Montréal, 28 février 2001.
+BERGERON, Claude. L’architecture des églises du
+Québec 1940-1985, Québec, Les Presses de l’Université     MARSAN, Jean-Claude. Montréal en évolution :
+Laval, 1987, 386 p.                                       Historique de développement de l’architecture et de
+                                                          l’environnement urbain montréalais, 3e éd., Laval,
+COMMISSION DES BIENS CULTURELS. Les chemins
+                                                          Éditions du Méridien, 1994, 515 p.
+de la mémoire. Monuments et sites historiques du
+Québec, Tome II, Québec, Les Publications du Québec,      ROBERT, Jacques. Les ensembles patrimoniaux de la
+1991, 565 p.                                              Communauté urbaine de Montréal, Montréal, Ministère
+                                                          des Affaires culturelles, mars 1985, 40 p.
+COMMISSION DE TOPONYMIE. Noms et lieux du
+Québec. Dictionnaire illustré du Québec, Québec, Les      ROBERT, Jean-Claude. Atlas historique de Montréal,
+Publications du Québec, 1994, 925 p.                      Montréal, Art Global / Libre Expression, 1994, 167 p.
+
+COMMUNAUTÉ URBAINE DE MONTRÉAL. Répertoire                VILLE DE MONTRÉAL. Le patrimoine de Montréal,
+d’architecture traditionnelle sur le territoire de la     Montréal, Ville de Montréal et Ministère de la Culture
+Communauté urbaine de Montréal. 12 volumes.               et des Communications, 1998, 168 p.
+
+COURVILLE, Serge (dir.). Paroisses et municipalités de    WOLFE, Jeanne M. et François DUFAUX (dir.). A topo-
+la région de Montréal au XIXe siècle (1825-1861),         graphic Atlas of Montreal / Atlas topographique de
+Répertoire documentaire et cartographique, Québec,        Montréal, Montréal, McGill School of Urban Planning /
+Les Presses de l’Université Laval, 1988, 350 p.           École d’urbanisme, 1992, 78 p.
+
+DESJARDINS, Pauline. Évaluation du patrimoine indus-      Site Internet
+triel. Critères généraux, Montréal, Archemi / Ville de
+                                                          VILLE DE MONTRÉAL. Répertoire bibliographique sur
+Montréal, Service du développement économique et
+                                                          le patrimoine archéologique de Montréal, 2004.
+du développement urbain, 29 août 2003, 56 p.
+                                                          http://www2.ville.montreal.qc.ca/urb_demo/domaines/
+LAURIN, J.-E. Histoire économique de Montréal et          archeo/bib_recherche.htm
+des Cités et Villes du Québec, [Montréal], Les Éditions
+J.-E. Laurin, 1942, 287 p.
+
+LEUNG, Felicity, David McCONNELL et Jean-Claude
+PARENT. Les emplacements manufacturiers au Canada,
+Ottawa, Environnement Canada, Service canadien des
+Parcs, 1990.
+
+LINTEAU, Paul-André. Histoire de Montréal depuis la
+Confédération, Montréal, Boréal,1992, 608 p.
+
+
+54                                                        Évaluation du patrimoine urbain
+                                                          Ville de Montréal
+Ouvrages spécifiques à l’arrondissement
+
+  La côte du bord-de-l’eau. Ville de Sainte-Geneviève,
+son patrimoine architectural et urbain, 1987, 8 p.
+
+  Histoire de l’île Bizard, Corporation de la municipalité
+de Saint-Raphaël de l’île Bizard, 1976, 298 p.
+
+BÉLISLE, Michel et coll. Sainte-Anne-de-Bellevue
+1703-2003, Montréal, Paroisse Sainte-Anne-de-
+Bellevue, 2003, 244 p.
+
+BLAND, John. Sainte-Anne-de-Bellevue, Heritage Town,
+an Architect’s Perspective, 2000, 47 p.
+
+LE GROUPE INTÉGRATION. Patrimoine architectural
+et urbain ville de Sainte-Geneviève. Rapport de
+recherche historique, 1987.
+
+LOCAS, Marc. La « côte Sainte-Geneviève »… cent ans
+plus tard 1900-2000, 1999, 174 p.
+
+LOCAS, Marc. Sainte-Geneviève… ses quatre saisons,
+1990, 176 p.
+
+PATRIMOINE CANADIEN. PARCS CANADA. Le canal de
+Sainte-Anne. L’avenir du canal historique. Document de
+consultation publique, Ottawa, Ministère des Travaux
+publics et services gouvernementaux, 1997, 68 p.
+
+SOCIÉTÉ DU PATRIMOINE ET D’HISTOIRE DE L’ÎLE BIZARD.
+Manoir Denis-Benjamin Viger, 376, rue Cherrier, Île-
+Bizard, mai 2002.
+
+ST-LOUIS, Denis. Maçonnerie traditionnelle. Document
+technique : régions de Montréal et de Québec, Vol. 1,
+Origine et caractéristiques des matériaux, Héritage
+Montréal, 1984, 147 p.
+
+VILLE DE SAINTE-ANNE-DE-BELLEVUE. Plan d’urbanisme.
+Annexe 2. Analyse patrimoniale, Sainte-Anne-de-
+Bellevue, s.d., 31 p.
+
+
+
+
+                         ARRONDISSEMENT                              55
+           de L’ïle-Bizard–Sainte-Geneviève–Saint-Anne-de-Bellevue
+

@@ -1,0 +1,36 @@
+- id: dv-eval-2005
+  citation: "Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine urbain : arrondissement de Dorval–L'Île-Dorval », 2005, ISBN 2-7647-0450-X. Work carried out January 2003 – May 2004 under Jean-François Gravel for the Plan d'urbanisme adopted 23 November 2004; built evaluation and historical research by Julie Boivin, Elizabeth Bonner, Anne-Marie Dufour, Guy Lafontaine, Christiane Lefebvre and Pierre-Paul Savignac, architects, and Denise Caron, historian; archaeology by Claire Mousseau with Françoise Duguay, François Bélanger, Anne-Marie Balac and Christian Roy. Downloaded 17 August 2026 and converted with pdftotext -layout; 7 PDF pages, 162 KB of text."
+  url: "http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/07_evaluation_patrimoine_dorval.pdf"
+  used_for: [sectors, phases, prose, types, instruments, protection]
+- id: dv-piia-2024
+  citation: "Cité de Dorval, « Règlement sur les plans d'implantation et d'intégration architecturale (PIIA) RCM-60I-2024 », December 2024, administrative codification à jour au 16 décembre 2025 (« Modifié par RCM-60A-22 le 16 décembre 2025 »; « Cette codification administrative n'a aucune valeur officielle »). Chapter 03, sub-chapter « Bâtiments d'intérêt patrimonial », articles 56–60; article 59 lists thirty-two addresses. Article 56 also states that Dorval « héberge deux bâtiments cités au répertoire du patrimoine culturel du Québec, soit le Centre culturel Peter-B.-Yeomans et la bibliothèque de Dorval, tous deux construits en 1968, ainsi que l'Église Strathmore United (310, avenue Brookhaven), édifiée en 1956 » — see notes: those records carry the statut « Inventorié », not a citation."
+  url: "https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/rcm-60i-2024-piia-cod-a-jour-au-2025-12-16-fr-reduit.pdf"
+  used_for: [instruments, protection, prose]
+- id: dv-demolition-2023
+  citation: "Cité de Dorval, « Règlement RCM-97-2023 concernant la démolition d'immeubles »."
+  url: "https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/reglement-rcm-97-2023-demolition-immeubles-final-fr.pdf"
+  used_for: [instruments]
+- id: dv-etude-dahlia-2024
+  citation: "LEMAYMICHAUD + Réal Paul architecte inc., « Expertise historique et étude patrimoniale — 12, avenue Dahlia, Dorval », offre de service OSM-1297-2405-01, prepared for the Cité de Dorval, 60 avenue Martin. Sections 2.3 « Cadre légal de protection » and 7 « Analyse du cadre légal de protection »; the study concerns the Quatre-Vents residence of 1803, its enlargement of 1874–1885 by Désiré Girouard, its renovation of 1927–1937 by Josh Charles Asch, the chapel of 1960 and the annex of 1965."
+  url: "https://www.ville.dorval.qc.ca/storage/app/media/actualites/2025/20240815_lm_rpa_12_ave_dahlia_etude_patrimoniale_finale-fr.pdf"
+  used_for: [instruments, protection, prose]
+- id: dv-rpcq-protval
+  citation: "Répertoire du patrimoine culturel du Québec, section « Patrimoine protégé et valorisé », keyword search for \"Dorval\", run 17 August 2026: « Résultat de la recherche (0) — Aucun résultat ne correspond aux critères spécifiés. » The identical query for \"Senneville\" returns four records, so the search is functional and the Dorval zero is a real zero. Saved as sources/west-island/dorval/rpcq_protval_search_dorval.html."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/rechercheMotCle.do?methode=rechercher&motCle=Dorval&type=PROTVAL&reset=1"
+  used_for: [protection, instruments]
+- id: dv-rpcq-216208
+  citation: "RPCQ, Centre culturel Peter-B.-Yeomans et bibliothèque de Dorval (id 216208). Statut block: « Inventorié », authority and date blank; inventory of record « Inventaire des projets du Centenaire de la Confédération canadienne réalisés au Québec (2014 - 2019) ». Construction began February 1967; the centre opened in October 1967 and was inaugurated 18 November 1967; the library reopened in 1996 at almost double the area and was reorganised again in 2012."
+  url: "https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?id=216208&methode=consulter&type=bien"
+  used_for: [protection, prose]
+- id: dv-ville-histoire
+  citation: "Cité de Dorval, official history page: the mission of 1667, first named « Gentilly », later « La Présentation de la Vierge Marie »; the 1691 concession to Jean-Baptiste Bouchard dit d'Orval; « The railroad, which came to Dorval in 1855, was highly instrumental in attracting many wealthier families »; and the status chain — « incorporated as a village in 1892, as a town in 1903, as a city in 1956, became a borough of Montreal in 2002, and a city again in 2006 »."
+  url: "https://www.ville.dorval.qc.ca/en/the-city/page/history"
+  used_for: [phases, prose]
+- id: dv-smq-musee
+  citation: "Société des musées du Québec, guide entry for the Musée d'histoire et du patrimoine de Dorval, 1850 chemin du Bord-du-Lac-Lakeshore, Dorval (Québec) H9S 2E6: the museum occupies « les écuries du Forest and Stream Club – bâtiment construit en 1874 par Alfred S. Brown, magasinier de la compagnie de chemin de fer Grand Tronc et directeur de la Banque de Montréal »."
+  url: "https://www.musees.qc.ca/fr/musees/guide/musee-d-histoire-et-du-patrimoine-de-dorval.html"
+  used_for: [prose, photos]
+- id: dv-commons
+  citation: "Wikimedia Commons, Category:Dorval. The four photographs published here all come from the Flickr photostream « Parcours riverain - Ville de Montréal » (flickr.com/people/93016341@N07), each file's description reading « Photo : Anne-Marie Dufour ». Licence verified per file through the Commons API on 17 August 2026: Creative Commons Attribution 2.0 (CC BY 2.0), https://creativecommons.org/licenses/by/2.0 — a free licence, so the set named in the Part 11 brief is usable. Per-file metadata in sources/west-island/dorval/commons_licences.json."
+  url: "https://commons.wikimedia.org/wiki/Category:Dorval"
+  used_for: [photos]

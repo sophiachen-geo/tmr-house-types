@@ -1,0 +1,132 @@
+id: ville-marie.maison-ouvriere-porte-cochere
+place: ville-marie
+phase: p3
+phase_confidence: verified
+display_order: 6
+name_en: Workers' house with carriage gate
+name_fr: Maison ouvrière avec porte cochère
+source_ref: 'RPCQ id 93528 (MCC); Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005)'
+source_generation: >-
+  Ville de Montréal, Évaluation du patrimoine urbain — Ville-Marie (2005), historical chapter
+  printed pp. 29–30, and sector fiches 24.I.1, 24.I.5, 24.I.6, 24.I.9, 24.I.10, 24.I.11 and 24.I.12;
+  with RPCQ fiche 93528, which lists the porte cochère among the characteristic elements of the
+  declared site.
+sectors: ['24.I.11', '24.I.9', '24.I.6', '24.I.1', '24.I.4', '24.I.10', '24.I.12']
+canonical:
+- faubourg-house-flat-roof
+styles:
+- faubourg-vernacular
+- victorian-eclectic
+style_label: null
+tenure_plan: mixed
+storeys: '2–3'
+roof:
+  form: null
+  pitch_deg: null
+window_proportion: vertical
+principal_cladding:
+- clay-brick
+- stone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+  - 'Small lots on blocks laid out without a ruelle, which is the whole of the type''s logic: with
+    no service lane, access to the rear of the lot has to be taken through the building.'
+  - The carriage gate gives on to houses standing at the back of the yard and to fuel storage.
+  - Deep lots, in 24.I.6 and 24.I.9, with rear-yard annexes since demolished; front yards where the
+    ground floor stands clear of the ground.
+  - The quarters that grew round the Molson brewery, the Canadian Rubber and the MacDonald Tobacco
+    works.
+  massing:
+  - Two or three storeys.
+  - Fine cornices, and in 24.I.5 false cornices.
+  articulation:
+  - Elaborate cornices, carriage gates and exterior stairs, in the cahier's own list for 24.I.6.
+  - Elaborate crownings, slate roofs and dormers with worked joinery on the brick and grey-stone
+    ensembles near rue Ontario (24.I.4).
+  openings:
+  - Vertical windows.
+  - The carriage gate itself — a full-height arched opening in the street front, still visible
+    throughout the sector.
+  - 'Access to the ground floor fixes the front setback: none where the access is internal, set back
+    where a stair on the façade has to be accommodated (24.I.4).'
+  materials:
+  - Brick as the principal facing.
+  - Grey stone or brick on the finer ensembles.
+profile_fr:
+  description:
+  - >-
+    « Les quartiers qui entourent ces usines se composent de petits lots, et les quadrilatères
+    (îlots) sont sans ruelle. Dans ce type de lotissement, c’est la porte cochère, toujours visible
+    dans ce secteur, qui donne accès aux maisons en fond de cour ainsi qu’à l’entreposage de
+    combustibles. »
+  - >-
+    « Construit essentiellement sur le lotissement ancien, sans ruelle, mais pourvu de terrains très
+    profonds, le cadre bâti offre une gamme de typologies d’habitation. […] La brique est le
+    parement principal et la porte cochère est à l’honneur. »
+  elements_caracteristiques:
+  - >-
+    « La relation entre le lot et la rue se manifestant par la présence de marches, de portes
+    cochères, de grilles, de servitudes de passage et de plusieurs entrées, à savoir une sur chaque
+    façade donnant sur la rue. »
+  ouvertures:
+  - >-
+    « L’accès au rez-de-chaussée fixe la marge avant : nulle si l’accès se fait de l’intérieur, ou
+    en recul pour accommoder un escalier en façade. »
+profile_note: >-
+  Roof form and pitch, roofing, lot width, setbacks and green front yard are null because the cahier
+  states none of them. Roof form in particular is left empty on purpose: the I-sector fiches
+  describe crownings and cornices rather than roofs, 24.I.4 records slate roofs with dormers on the
+  finer ensembles, and 24.I.9 records a few surviving faubourg houses « avec toit à pignon » — three
+  different roofs in one family, and no source that says which is the type's. The canonical form is
+  given as the flat-roofed faubourg house because that is what the cornice-and-crowning descriptions
+  imply, and it is the one inference in this record; it is flagged here rather than buried. No
+  count, no dimension and no dated example is published for this type anywhere in the cahier.
+related_buildings:
+- name: 'Ensemble of contiguous brick houses on rue Saint-André, singled out by the cahier in fiche
+    24.I.4'
+  url: null
+- name: 'Residential ensemble at 2082–2116 rue de la Visitation, with the neighbouring groups on
+    rues Beaudry, de la Visitation and Panet (fiche 24.I.10)'
+  url: null
+- name: '1834-1848 rue Plessis — the cahier''s own illustration of sector 24.I.9'
+  url: null
+- name: '1221-1229 rue Plessis — the cahier''s own illustration of sector 24.I.7'
+  url: null
+blurb_en: >-
+  The eastern alternative to the ruelle, and the one detail in this borough that exists nowhere else
+  on this site. Where the blocks around the Molson brewery, the Canadian Rubber and the MacDonald
+  Tobacco works were cut into small lots with no service lane behind them, the only way to the back
+  of the lot is through the building — so a full-height carriage gate is driven through the street
+  front. Behind it are houses standing at the back of the yard and the coal and wood store. Two or
+  three storeys, brick, vertical windows, elaborate cornices; the front setback is decided by
+  nothing more than whether the stair to the upper dwellings is inside or out.
+origin_en: >-
+  The cahier gives the mechanism in the middle of its historical chapter, describing the dense
+  population that gathered round the Molson brewery — in the quarter since the 18th century — the
+  Canadian Rubber and the MacDonald Tobacco works: <em>« Les quartiers qui entourent ces usines se
+  composent de petits lots, et les quadrilatères (îlots) sont sans ruelle. Dans ce type de
+  lotissement, c'est la porte cochère, toujours visible dans ce secteur, qui donne accès aux maisons
+  en fond de cour ainsi qu'à l'entreposage de combustibles. »</em> Set that against the Sud-Ouest,
+  where Montréal's regulation of residential construction from about 1880 produced blocks with
+  ruelles first in an « I » and then in an « H », and where the same regulation pushed the stair to
+  the upper dwellings out of the building and into the front yard. Two solutions to one problem — how
+  to reach the back of a deep, narrow lot — separated by a generation of by-laws and four kilometres
+  of city. The carriage gate is the older answer, and Centre-Sud is where it survives; the RPCQ lists
+  it among the characteristic elements of the declared site as well.
+photos:
+- file: null
+  credit: >-
+    Photograph pending. RPCQ imagery for the site patrimonial de Montréal (rpcq_bien_93528_*) is
+    © Gouvernement du Québec and is not reproduced: permission required. The 2005 cahier's own
+    photographs of the I sectors — 24.I.7 at 1221-1229 rue Plessis and 24.I.9 at 1834-1848 rue
+    Plessis, credited to the Ville de Montréal and its named photographers — are likewise not
+    reproduced. A search of Wikimedia Commons on 17 August 2026 for a freely-licensed photograph of
+    a Centre-Sud porte cochère returned nothing whose description survived inspection, and no
+    substitute has been invented.
+  kind: placeholder

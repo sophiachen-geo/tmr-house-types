@@ -1,0 +1,1947 @@
+    PU
+PLAN D’URBANISME
+           N°1108
+AGGLOMÉRATION DE MONTRÉAL
+VILLE DE BAIE-D’URFÉ
+
+
+
+
+Règlement numéro 1108
+
+
+Règlement sur le plan d’urbanisme
+
+
+
+Le présent règlement porte le titre de « Règlement sur le plan d’urbanisme » et le
+numéro 1108. Il abroge le règlement numéro 1031, intitulé « Règlement décrétant
+l’adoption du plan d’urbanisme de la Ville de Baie-D’Urfé », tel que modifié par
+tous ses amendements, ainsi que toute disposition inconciliable d’un autre
+règlement.
+
+
+
+Le présent règlement entre en vigueur conformément à la loi.
+
+
+
+
+                Heidi Ektvedt, Mairesse            Marie-Hélène Brunet, Greffière
+
+
+
+
+Avis de motion :        11 mars 2025
+Adoption du règlement : 17 juin 2025
+Entrée en vigueur : 20 octobre 2025
+
+
+                             Modifications au règlement
+           Numéro de règlement                            Entrée en vigueur
+CRÉDITS
+Cet exercice de planification du territoire a été réalisé par le Conseil municipal de la Ville
+de Baie-D’Urfé, en collaboration avec la direction générale et le Service de l’urbanisme.
+Table des matières
+CHAPITRE 1.                Dispositions administratives ............................................................ 1
+
+1.1.                 Le plan d’urbanisme .................................................................................................. 3
+ 1.1.1.    Objectifs poursuivis ......................................................................................................................... 3
+ 1.1.2.    Pourquoi un nouveau plan d’urbanisme ? ....................................................................................... 3
+
+
+CHAPITRE 2.                Contexte d’aménagement.................................................................. 7
+
+2.1.                 Portrait global de Baie-D’Urfé .................................................................................. 9
+ 2.1.1.    Contexte général ............................................................................................................................. 9
+ 2.1.2.    Utilisation du sol ............................................................................................................................ 10
+
+2.2.                 Contexte physique................................................................................................... 11
+ 2.2.1.    Cohabitation entre les municipalités voisines ................................................................................ 11
+ 2.2.2.    Le transport ................................................................................................................................... 12
+ 2.2.3.    Le patrimoine bâti.......................................................................................................................... 14
+ 2.2.4.    Le patrimoine archéologique ......................................................................................................... 17
+ 2.2.5.    Le patrimoine naturel .................................................................................................................... 17
+ 2.2.6.    Paysage et parcours riverain ........................................................................................................ 18
+ 2.2.7.    Adaptation aux changements climatiques ..................................................................................... 18
+ 2.2.8.    Les contraintes anthropiques ........................................................................................................ 23
+ 2.2.9.    Caractéristiques du territoire de Baie-D’Urfé ................................................................................. 24
+ 2.2.10.   Parcs et espaces verts et terrains de jeu ...................................................................................... 26
+ 2.2.11.   La fonction résidentielle ................................................................................................................ 28
+ 2.2.12.   La fonction commerciale ............................................................................................................... 29
+ 2.2.13.   La fonction industrielle .................................................................................................................. 29
+ 2.2.14.   Gestion des terrains en bordure de l’autoroute 20 ........................................................................ 30
+ 2.2.15.   Dimension des lots ........................................................................................................................ 31
+ 2.2.16.   Volume des constructions ............................................................................................................. 31
+
+2.3.                 Résumé des enjeux ................................................................................................. 33
+
+
+CHAPITRE 3.                Vision d’aménagement .................................................................... 39
+
+3.1.                 Vision stratégique .................................................................................................... 41
+ 3.1.1.    Vision stratégique 2022-2026 ....................................................................................................... 41
+
+3.2.                 Orientations d’aménagement ................................................................................. 42
+
+3.3.                 Les grandes affectations du sol, densités de son occupation et mise en
+                     œuvre du plan d’urbanisme ................................................................................... 45
+ 3.3.1.    Terrains en bordure des rives du fleuve Saint-Laurent ................................................................. 45
+ 3.3.2.    Densité .......................................................................................................................................... 46
+ 3.3.3.    Description des catégories d’usages............................................................................................. 47
+ 3.3.4.    Synthèse de compatibilité des usages .......................................................................................... 49
+Annexes                       i
+
+Annexe A -                    Concept d’organisation spatiale du territoire ................................. iii
+
+Annexe B -                    Plan des affectations du sol .............................................................. v
+
+Annexe C -                    inventaire du patrimoine bâti ........................................................... iv
+
+FIGURES
+Figure 1 - Échelles de planification ..................................................................................................................4
+Figure 2 - Secteur industriel de Baie-D'Urfé .....................................................................................................9
+Figure 3 - Chemin Morgan .............................................................................................................................12
+Figure 4 - Localisation des îlots de chaleur et de fraîcheur ............................................................................20
+Figure 5 - Localisation de la canopée ............................................................................................................23
+Figure 6 - Répartition des groupes d'âge du territoire de Baie-D'Urfé ............................................................25
+Figure 7 - Répartition des groupes d'âges de l'agglomération de Montréal ...................................................25
+Figure 8 - Parc riverain aux abords du lac Saint-Louis ..................................................................................27
+Figure 9 - Localisation des parcs et espaces verts ........................................................................................28
+Figure 10 - Vision stratégique ........................................................................................................................41
+
+TABLEAUX
+
+Tableau 1 - Utilisation du sol ..........................................................................................................................10
+Tableau 2 - Évolution de l’indice de canopée à Baie-D’Urfé de 2011 à 2021 ................................................21
+Tableau 3 - Secteur d'activité industrielle du territoire....................................................................................30
+Tableau 4 - Résumé des enjeux du territoire .................................................................................................33
+Tableau 5 - Grandes orientations d'aménagement ........................................................................................42
+Tableau 6 - Les grandes affectations du territoire ..........................................................................................50
+                  CHAPITRE 1.
+DISPOSITIONS ADMINISTRATIVES
+              PLAN D’URBANISME
+                         N°1108
+1.1.    Le plan d’urbanisme
+
+1.1.1. Objectifs poursuivis
+
+Le plan d’urbanisme constitue le document officiel le plus important de la Ville en
+matière de planification et d’aménagement du territoire. Il permet notamment de :
+
+   •   De déterminer l’organisation d’ensemble qu’il compte donner au territoire;
+   •   De préciser l’agencement et la localisation préférentielle qu’il envisage pour
+       les principales activités dans les différentes parties du territoire, et ce, en
+       tenant compte des potentiels et des contraintes d’aménagement du milieu
+       naturel et bâti, des préoccupations et des attentes formulées par les
+       citoyens et les organismes lors de la consultation publique;
+   •   De définir des politiques d’intervention en matière d’implantation
+       d’équipements ou d’infrastructures en tenant compte des besoins et de la
+       situation financière de la Ville;
+   •   De coordonner les interventions et les investissements des différents
+       services de la Ville. Il en découle notamment une programmation dont on
+       tient compte lors de la préparation du programme triennal des
+       immobilisations et lors du budget annuel;
+   •   De faire valoir sa vision du développement souhaité auprès des
+       investisseurs, des divers agents de développement publics ou privés et de
+       sensibiliser la population aux enjeux d’aménagement;
+   •   De compléter, en la précisant, la planification du territoire contenue dans le
+       schéma d’aménagement et de développement de l’agglomération de
+       Montréal;
+   •   De faire connaître les intentions à la base du contrôle qu’il peut vouloir
+       instaurer à l’intérieur des règlements d’urbanisme.
+
+
+1.1.2. Pourquoi un nouveau plan d’urbanisme ?
+
+Rappelons qu’un plan d’urbanisme est essentiellement un outil de planification
+dont les villes et municipalités doivent se doter en vertu de la Loi sur
+l’aménagement et l’urbanisme, R.L.R.Q., ch. A-19, laquelle prescrit également son
+contenu obligatoire. Cette planification, qui vise a priori l’aménagement urbain du
+territoire, est mise en œuvre par diverses actions, notamment via les règlements
+
+
+
+                                                                                    3
+d’urbanisme (zonage, lotissement, etc.), les règlements municipaux, ainsi que les
+politiques et interventions municipales.
+
+Cet exercice permet ainsi d’identifier les priorités pour les années à venir sur le
+territoire de Baie-D’Urfé. Ces priorités doivent également être conformes aux
+orientations et aux objectifs fixés par l’agglomération de Montréal dans son
+Schéma d’aménagement et de développement (SAD), entré en vigueur en 2015,
+lequel a été rédigé selon les orientations gouvernementales de développement
+que l’on retrouve dans le document Pour un aménagement concerté du territoire,
+ainsi que ses modifications adoptées au fil des ans.
+
+Bien que la planification locale du territoire doive tenir compte des exigences
+gouvernementales et régionales, la Ville de Baie-D’Urfé souhaite, à travers la
+révision de son plan d’urbanisme, reconnaître les atouts et les éléments distinctifs
+du territoire, acquis au travers des années. De plus, la Ville souhaite affirmer sa
+vision de développement afin d’assurer une cohérence dans la réalisation de
+diverses interventions d’aménagement.
+                           Figure 1 - Échelles de planification
+
+
+
+
+                                                                                  4
+Même si le territoire est maintenant presque entièrement développé, plusieurs
+défis attendent la Ville au cours des prochaines années. La mise à jour du Plan
+d’urbanisme permettra de relever ces défis en mettant l’accent sur des priorités
+essentielles. Parmi celles-ci figurent les enjeux environnementaux et la lutte aux
+changements climatiques, notamment par une gestion proactive des îlots de
+chaleur, le verdissement accru, la préservation et l’enrichissement de la canopée,
+ainsi que par des pratiques exemplaires de gestion des eaux pluviales. Le plan
+vise également à promouvoir l’électrification des transports, offrant ainsi des
+solutions de mobilité durable qui bénéficieront à la communauté.
+
+Par ailleurs, cette révision permettra de mieux encadrer le développement urbain
+en intégrant harmonieusement les projets de reconstruction et en diversifiant de
+façon responsable et innovante le parc industriel. Ce dernier deviendra un modèle
+de développement diversifié, vert et écoresponsable, où l’innovation et la durabilité
+seront mises au service de la communauté.
+
+En définitive, cette mise à jour renforcera et précisera les orientations
+d’aménagement de Baie-D’Urfé. Elle guidera la Ville et ses citoyens vers un
+territoire résilient, durable et exemplaire, où la préservation des acquis et
+l’intégration d’initiatives novatrices se conjuguent pour répondre aux défis
+d’aujourd’hui et de demain.
+
+
+
+
+                                                                                   5
+             CHAPITRE 2.
+CONTEXTE D’AMÉNAGEMENT
+          PLAN D’URBANISME
+                     N°1108
+2.1.    Portrait global de Baie-D’Urfé
+
+2.1.1. Contexte général
+
+La ville de Baie-D’Urfé occupe un territoire de 6,1 kilomètres carrés qui s’étend sur
+la rive nord du lac Saint-Louis, dans la partie ouest de l’île de Montréal. La ville est
+délimitée à l’ouest par le campus du collège Macdonald de Sainte-Anne-de-
+Bellevue, au nord par l’autoroute transcanadienne et à l’est par la limite de la ville
+de Beaconsfield. Baie-D’Urfé est traversée dans le sens est-ouest par un important
+corridor de transport routier et ferroviaire, qui regroupe l’autoroute 20 et les voies
+ferrées du Canadien National et du Canadien Pacifique, qui relient Montréal à
+l’Ontario et à l’Ouest canadien. Les deux tiers de Baie-D’Urfé situés du côté sud
+du corridor de l’autoroute 20 ont une vocation résidentielle, alors que le tiers nord,
+entre les autoroutes 20 et 40, a été affecté au développement d’un secteur
+industriel.
+                        Figure 2 - Secteur industriel de Baie-D'Urfé
+
+
+                          Figure 2 : Vue aérienne de Baie-D'Urfé
+
+
+
+
+                                    Source : Radio-Canada
+
+
+
+
+                                                                                      9
+2.1.2. Utilisation du sol
+
+                                 Tableau 1 - Utilisation du sol
+
+
+                             Usage                                   Superficie (ha.)    %
+
+ Résidentiel unifamilial                                                  298,60        48,9
+
+
+ Résidentiel multifamilial                                                 5,12          0,8
+
+
+ Résidence pour personnes âgées                                            1,28          0,2
+
+
+ Terrains de jeu                                                           6,46          1,1
+
+
+ Parcs                                                                    17,89          2,9
+
+
+ Aires boisées                                                             6,80          1,1
+
+
+ Cimetière                                                                 3,33          0,5
+
+
+ Institutions                                                              7,87          1,3
+
+
+ Équipements communautaires                                                3,46          0,6
+
+
+ Équipements municipaux                                                    1,61          0,3
+
+
+ Industries                                                               207,92        34,1
+
+
+ Commerces                                                                 2,14          0,4
+
+
+ Emprises des autoroutes et des chemins de fer                            47,72          7,8
+
+ Total                                                                    610,20        100,0
+                                     Source : Ville de Baie-D'Urfé
+
+
+
+
+                                                                                               10
+2.2.    Contexte physique
+
+2.2.1. Cohabitation entre les municipalités voisines
+
+La réglementation de zonage actuelle de Baie-D’Urfé respecte les dispositions du
+schéma d’aménagement et de développement de l’agglomération visant à assurer
+une cohabitation harmonieuse entre les municipalités. La ville de Baie-D’Urfé
+touche à deux autres municipalités, soit Beaconsfield à l’est et Sainte-Anne-de-
+Bellevue à l’ouest et au nord.
+
+Du côté de Beaconsfield, au sud de l’autoroute 20, le zonage résidentiel unifamilial
+de Baie-D’Urfé est pratiquement le même que celui de Beaconsfield, à l’exception
+que Baie-D’Urfé exige des terrains plus grands. La hauteur maximale autorisée
+pour les bâtiments résidentiels est sensiblement la même dans les deux
+municipalités, si bien qu’il n’y a aucun risque qu’une maison de Baie-D’Urfé affecte
+l’ensoleillement d’une propriété de Beaconsfield.
+
+Au nord de l’autoroute 20, le parc industriel de Baie-D’Urfé est contigu à la vaste
+zone de conservation du corridor écoforestier de la rivière à l’Orme (bois Angell)
+dans Beaconsfield. Seule une petite partie du parc industriel jouxte une aire
+d’affectation à dominance résidentielle, mais avec des marges arrière minimales
+de 18 mètres et une hauteur maximale de 15 mètres, aucune implantation
+industrielle ne risque d’affecter l’ensoleillement d’une propriété résidentielle de
+Beaconsfield.
+
+Au nord, le parc industriel de Baie-D’Urfé est séparé de celui de Sainte-Anne-de-
+Bellevue par l’autoroute transcanadienne. Les règles de zonage industriel sont
+sensiblement les mêmes dans les deux municipalités.
+
+Enfin, à l’ouest, Baie-D’Urfé a comme unique voisin le campus du collège
+Macdonald de l’Université McGill, où la hauteur maximale de bâtiment autorisée
+est de 6 étages ou 25 mètres, avec des marges arrière de 10 mètres par rapport
+à la limite municipale de Baie-D’Urfé.
+
+
+
+
+                                                                                 11
+2.2.2. Le transport
+
+2.2.2.1. Transport routier
+
+Le plan d’urbanisme ne propose aucune modification majeure au réseau de rues
+existant, étant donné que le développement du secteur résidentiel est complété et
+que le développement du secteur industriel est bien engagé. Ceci n’exclut
+cependant pas la possibilité d’ajustements mineurs qui pourraient être requis à
+l’occasion pour répondre aux besoins spécifiques de la communauté.
+
+Dans le contexte actuel, la Ville privilégie le maintien des trajets d’autobus pour
+assurer une mobilité durable et efficace, particulièrement pour desservir les
+secteurs résidentiels au sud de l’autoroute 20. Bien que le Réseau express
+métropolitain (REM) représente une avancée en termes de transport collectif pour
+certaines régions, sa localisation éloignée des quartiers résidentiels de Baie-
+D’Urfé limite son efficacité pour répondre aux besoins locaux. Le réseau d’autobus
+existant demeure donc une infrastructure essentielle, et son maintien est au cœur
+des priorités de la Ville pour favoriser l’accès équitable et durable aux services de
+transport collectif.
+
+Les plans et le calendrier de mise en œuvre des travaux pour toute amélioration
+de l’infrastructure de transport devront être évalués en concertation avec la Ville.
+Comme par le passé, la Ville s’assurera que tout projet proposé respecte ses
+orientations et n’entraîne aucune obligation financière pour ses citoyens. Elle
+continuera également de demander des modifications nécessaires afin de garantir
+un accès direct et sécurisé à des destinations stratégiques telles que le campus
+du Collège Macdonald et le Collège John Abbott, tout en veillant à préserver la
+qualité de vie de ses résidents.
+
+                              Figure 3 - Chemin Morgan
+
+
+
+
+                                  Source : Google Maps
+
+
+
+
+                                                                                  12
+2.2.2.2. Transport collectif
+
+La Ville de Baie-D’Urfé soutient fermement le transport collectif comme pilier de la
+mobilité durable et s’engage à en favoriser l’utilisation pour répondre aux besoins
+de ses citoyens et de ses entreprises. La ville bénéficie déjà d’une gare de train
+de banlieue qui relie l’ouest de l’île de Montréal au centre-ville, et le service est
+appelé à évoluer avec l’amélioration prévue dans le cadre du projet du « Train de
+l’Ouest ».
+
+La partie résidentielle de la Ville est desservie par quatre circuits d’autobus opérés
+par la Société de transport de Montréal (STM), qui assurent des connexions
+directes avec le Collège Macdonald, le centre Fairview à Pointe-Claire, la station
+de métro Lionel-Groulx et la gare de Dorval. De plus, un service de taxi collectif
+complète cette offre. Le parc industriel, quant à lui, est actuellement desservi par
+un circuit d’autobus régulier, mais certaines entreprises doivent recourir à des
+navettes privées pour répondre aux besoins de leurs employés en matière de
+transport.
+
+Bien que l’arrivée prochaine d’une station du Réseau express métropolitain (REM)
+près du territoire représente une opportunité d’élargir l’offre de transport collectif,
+la Ville reconnaît que cette infrastructure, située à distance des quartiers
+résidentiels, ne répondra pas pleinement aux besoins de mobilité locale. Ainsi,
+Baie-D’Urfé privilégie le maintien et l’amélioration des circuits d’autobus existants
+pour garantir une desserte efficace, tant pour ses résidents que pour les
+travailleurs du parc industriel.
+
+Dans cette optique, le plan d’urbanisme préconise une approche intégrée visant à
+encourager les déplacements actifs et collectifs tout en réduisant la dépendance
+à l’automobile. Pour ce faire, des mesures seront mises en œuvre, notamment une
+révision des exigences en matière de stationnement dans le parc industriel, avec
+une réduction ciblée des cases de stationnement afin de favoriser des alternatives
+plus durables. Cette révision s’ajoutera aux efforts visant à limiter le nombre
+maximal de cases de stationnement offertes par les établissements industriels et
+à instaurer des exigences pour le stationnement de vélos.
+
+Ces initiatives visent à transformer le territoire en un espace où la mobilité durable
+devient une norme, tout en répondant de manière pragmatique aux besoins des
+différents usagers et acteurs économiques.
+
+
+
+
+                                                                                    13
+2.2.2.3. Transport actif et accessibilité universelle
+
+La Ville entend faciliter et promouvoir la mobilité active et le transport collectif. À
+cet effet, elle a ajouté à sa réglementation d’urbanisme des dispositions pour
+obliger les établissements commerciaux, institutionnels ou publics qui emploient
+des gens ou reçoivent des clients à fournir des places de stationnement sécurisées
+pour vélos.
+
+Elle a aussi fait une mise à niveau de sa réglementation en matière de
+stationnement pour exiger que des places soient aménagées et réservées pour
+les personnes à mobilité réduite.
+
+Enfin, des dispositions sont prévues au règlement sur les plans d’implantation et
+d’intégration architecturale pour assurer aux personnes à mobilité réduite un accès
+facile et sécuritaire à tout bâtiment destiné à un usage commercial, institutionnel
+ou public.
+
+
+2.2.2.4. Transport ferroviaire
+
+Deux axes majeurs du Canadien National et du Canadien Pacifique partagent un
+corridor qui longe la limite nord de l’emprise de l’autoroute 20. La voie ferrée du
+CP a un embranchement qui dessert deux industries du secteur pétrochimique et
+une industrie de produits alimentaires dans la partie est du parc industriel. La voie
+du CP est aussi utilisée par le train de banlieue.
+
+
+2.2.3. Le patrimoine bâti
+
+La ville de Baie-D’Urfé se distingue par son patrimoine bâti exceptionnel, témoin
+de son histoire et de son identité unique. Plusieurs secteurs présentent un intérêt
+patrimonial évident :
+
+   •   L’ensemble formé par l’hôtel de ville, agrandi et rénové en 1913 par les
+       architectes Edward et William Maxwell, le parc riverain au cœur duquel il
+       est implanté ainsi que le parc Fritz, avec son centre communautaire,
+       constitue un secteur de valeur exceptionnelle qui incarne à la fois l’histoire
+       institutionnelle et l’importance des espaces publics ;
+
+   •   Les abords du chemin Lakeshore, sur toute sa longueur, ainsi que la rue
+       Oxford, offrent un panorama unique où l’architecture patrimoniale dialogue
+       avec le paysage naturel, formant des secteurs de valeur intéressante ;
+
+
+                                                                                    14
+   •   Le secteur de la rue Sunny Acres, par son homogénéité et son ambiance,
+       est considéré comme un ensemble urbain d’intérêt qui illustre l’évolution
+       des formes résidentielles locales.
+
+Ces secteurs sont délimités à l’annexe A du présent règlement.
+
+Une richesse bâtie à préserver :
+
+Par ailleurs, une évaluation du patrimoine urbain réalisée par la Ville de Montréal
+en 2004 (Évaluation du patrimoine urbain – Arrondissement Beaconsfield – Baie-
+D’Urfé, Service de la mise en valeur du territoire et du patrimoine, Direction du
+développement urbain, Division du patrimoine et de la toponymie, Ville de
+Montréal, 2004) avait permis d’identifier plusieurs bâtiments de Baie-D’Urfé
+comme des "immeubles de valeur patrimoniale exceptionnelle". Ces travaux ont
+jeté les bases de la reconnaissance du patrimoine architectural de la municipalité.
+
+En 2024, l’agglomération de Montréal a entrepris un inventaire actualisé des
+immeubles construits avant 1940, conformément aux nouvelles dispositions de la
+Loi sur le patrimoine culturel (2021), qui imposent à l’agglomération de recenser
+ces immeubles d’ici le 1er avril 2026. Ce nouvel inventaire, basé sur la
+méthodologie du ministère de la Culture et des Communications du Québec
+(MCCQ), vise à mieux connaître l’histoire, les caractéristiques extérieures et les
+valeurs patrimoniales des bâtiments recensés.
+
+L’inventaire inclut :
+
+  ⦁    Les bâtiments résidentiels, institutionnels et agricoles ;
+
+  ⦁    Les immeubles secondaires tels que les granges, garages et remises.
+
+Il s’appuie sur des critères précis :
+
+  ⦁    Valeur historique, architecturale et sociale ;
+
+  ⦁    Pérennité des caractéristiques architecturales originales ;
+
+  ⦁    État d’entretien.
+
+Des objectifs clairs ont été définis :
+
+  ⦁    Diffuser la connaissance des immeubles patrimoniaux ;
+
+  ⦁    Renforcer les mécanismes de protection, d’entretien et d’aide à la
+       rénovation ;
+
+
+                                                                                15
+  ⦁    Encadrer rigoureusement les demandes de démolition.
+
+À ce titre, l’inventaire du patrimoine bâti sur le territoire de la Ville de Baie-D’Urfé
+est présente à l’annexe C du présent plan d’urbanisme.
+
+Un patrimoine vivant et en évolution :
+
+Ces bâtiments, situés principalement dans les secteurs de valeur patrimoniale
+exceptionnelle ou intéressante, ne se contentent pas de raconter le passé : ils
+participent activement à l’identité contemporaine de Baie-D’Urfé. La préservation
+de ce patrimoine vise non seulement à protéger des édifices remarquables, mais
+aussi à renforcer le cadre de vie, le sentiment d’appartenance et l’attrait de la ville
+pour les générations futures.
+
+
+2.2.3.1. Politiques de protection et de mise en valeur
+
+Les secteurs et les bâtiments d’intérêt patrimonial constituent une composante
+fondamentale du caractère unique de Baie-D’Urfé. De plus, ils contribuent de
+façon significative au patrimoine culturel de la collectivité montréalaise. Il est donc
+essentiel que leur protection soit assurée.
+
+La pérennité du secteur de valeur exceptionnelle et de ses trois bâtiments
+patrimoniaux qui regroupe le parc Fritz et le site de l’hôtel de ville est assurée du
+fait qu’il est entièrement propriété municipale.
+
+En ce qui a trait aux autres bâtiments patrimoniaux, y compris le lieu de culte
+d’intérêt (temple Dao En), identifiés à l’annexe A du Plan d’urbanisme, leur
+protection est assurée au-delà de leurs seules caractéristiques architecturales
+d’intérêt visibles d’une voie publique par une application stricte du règlement sur
+les démolitions. L’intégration des nouvelles constructions aux secteurs de valeur
+patrimoniale est facilitée par la grande dimension des terrains (2 000 et 4 000
+mètres carrés), l’importance des marges avant et latérales qui seront exigées à la
+règlementation et l’abondance de végétation.
+
+Les exigences en matière de dimensions minimales des lots présentent aussi
+l’avantage d’exclure pratiquement toute possibilité de morcellement des
+propriétés.
+
+Enfin, l’application du règlement sur les plans d’implantation et d’intégration
+architecturale adopté conformément aux exigences du schéma d’aménagement et
+de développement de l’agglomération de Montréal permettra une meilleure
+
+
+
+                                                                                     16
+protection des bâtiments d‘intérêt patrimonial et une meilleure intégration des
+ajouts et des nouvelles constructions
+
+
+2.2.4. Le patrimoine archéologique
+
+Tous les terrains situés entre le chemin Lakeshore et la rive du lac St-Louis sont
+considérés comme d’intérêt archéologique. Pour protéger d’éventuels vestiges
+archéologiques qui pourraient se trouver sur son territoire, la Ville de Baie-D’Urfé
+exigera, comme condition préalable à toute création d’une nouvelle emprise
+publique, la réalisation d’une étude du potentiel archéologique des terrains visés
+par le projet. Cette étude devra être effectuée par un professionnel reconnu et
+comprendre :
+
+   •   Un résumé des données historiques et archéologiques existantes ;
+
+   •   L’indication et la caractérisation du potentiel archéologique à l’aide d’un
+       plan.
+
+Si l’étude conclut à un potentiel archéologique tangible, le Conseil pourra décider
+d’abandonner le projet ou établira les conditions auxquelles le projet pourra se
+réaliser.
+
+Les modalités d’application de cette politique sont définies au règlement sur les
+plans d’implantation et d’intégration architecturale.
+
+
+2.2.5. Le patrimoine naturel
+
+Selon le schéma d’aménagement et de développement de l’agglomération de
+Montréal, on retrouve trois types de territoires d’intérêt écologique à Baie-D’Urfé :
+des mosaïques de milieux naturels et une rive et littoral à dominance naturelle,
+ainsi que le corridor écoforestier de la rivière à l’Orme, situé en partie sur le
+territoire de Baie-D’Urfé à la hauteur du boisé Angell de Beaconsfield.
+
+Les mosaïques de milieux naturels se trouvent toutes dans le parc industriel. Elles
+se composent des sections de la rivière à l’Orme qui n’ont pas été canalisées, de
+bois, de friches naturelles et d’un petit milieu humide. L’autre territoire d’intérêt
+écologique est la partie du littoral du lac Saint-Louis qui s’étend du parc Fritz aux
+limites de Sainte-Anne-de-Bellevue. Les deux petites parties du corridor
+écoforestier de la rivière à l’Orme qui touchent Baie-D’Urfé se trouvent aussi dans
+le parc industriel.
+
+
+
+                                                                                  17
+Les projets de construction ou d’agrandissement de bâtiment ou d’aménagement
+de terrain touchant les propriétés situées en tout ou en partie dans ces territoires
+d’intérêt écologique sont assujettis à certaines conditions pour maximiser la
+conservation, la mise en valeur et l’intégration au projet des bois et des milieux
+humides et pour en rehausser la biodiversité.
+
+De plus, les règles de la politique québécoise de protection des rives et du littoral
+s’appliquent aux terrains riverains d’un cours d’eau intérieur ou du lac Saint-Louis.
+
+
+2.2.6. Paysage et parcours riverain
+
+Le chemin Lakeshore qui traverse Baie-D’Urfé est considéré parfois comme une
+route du parcours riverain et parfois comme une voie panoramique du parcours
+riverain sur certaines portions en raison des importantes percées visuelles qu’il
+offre sur le lac Saint-Louis, tel qu’identifié au concept d’organisation spatiale
+(Annexe A du présent document). La section de plus d’un demi-kilomètre qui
+s’étend de la limite de la propriété de l’hôtel de ville à la limite ouest du parc Fritz
+présente une ouverture quasi-totale sur le lac Saint-Louis. La pérennité de ce
+panorama est assurée du fait de la tenure publique de l’ensemble.
+
+Par ailleurs, plusieurs propriétés privées de faible profondeur qui totalisent un
+autre demi-kilomètre du chemin Lakeshore offrent aussi des percées visuelles
+ponctuelles intéressantes.
+
+Là encore, l’application du règlement sur les plans d’implantation et d’intégration
+architecturale permettra de mieux protéger le caractère du chemin Lakeshore et
+les vues sur le lac Saint-Louis.
+
+
+2.2.7. Adaptation aux changements climatiques
+
+Face aux défis posés par les changements climatiques, Baie-D’Urfé se distingue
+par sa volonté proactive et ambitieuse de répondre aux problématiques identifiées
+sur son territoire. La Ville adopte une approche intégrée, en alignant des objectifs
+clairs et des mesures concrètes sur les priorités locales, tout en s’inspirant des
+principes directeurs de son Plan d’implantation et d’intégration architecturale
+(PIIA).
+
+Trois des mesures phares prévues dans le Schéma d’aménagement et de
+développement de l’agglomération de Montréal trouvent une application directe à
+Baie-D’Urfé : la réduction des îlots de chaleur, l’accroissement de la canopée et la
+
+
+                                                                                     18
+protection des arbres. Ces actions s’inscrivent dans une vision globale visant à
+renforcer la résilience environnementale, préserver les ressources naturelles et
+améliorer la qualité de vie des citoyens et des travailleurs. Cette approche
+proactive reflète l’engagement de la Ville à bâtir un territoire résilient, durable et
+exemplaire pour les générations futures.
+
+
+2.2.7.1. Îlots de chaleur
+
+Les îlots de chaleur recensés à Baie-D’Urfé, principalement localisés dans le parc
+industriel et le secteur commercial résultent des vastes surfaces asphaltées et des
+toits plats des bâtiments industriels et commerciaux. La Ville s’engage à atténuer
+ces effets en mettant en œuvre des mesures conformes à ses objectifs de
+verdissement et de réduction des surfaces imperméables :
+
+1. ⦁   Aménagement de toits clairs ou végétalisés :
+
+La Ville encourage l’intégration de matériaux réfléchissants ou de toitures
+végétalisées dans les projets de construction ou d’agrandissement. Ces
+approches contribuent à limiter l’accumulation de chaleur et à améliorer le confort
+thermique des bâtiments tout en réduisant les impacts environnementaux.
+
+⦁      Promotion des espaces perméables :
+
+La Ville recommande l’utilisation de matériaux perméables dans les aires de
+stationnement et les zones de manœuvre. Ces matériaux permettent une
+infiltration naturelle des eaux pluviales, réduisent les surfaces imperméables et
+aident à prévenir les inondations locales.
+
+⦁      Favorisation d’un faible coefficient d’emprise au sol (CES) :
+
+La Ville encourage un faible CES afin de réduire l’artificialisation des sols et de
+préserver les espaces naturels. Cette approche contribue à améliorer la gestion
+des eaux pluviales, à protéger les habitats naturels, et à maintenir une harmonie
+entre les bâtiments et leur environnement.
+
+⦁      Intégration de végétation urbaine :
+
+Le verdissement des espaces industriels et commerciaux, incluant la plantation
+d’arbres adaptés, est fortement encouragé. Cette initiative vise à créer des îlots de
+fraîcheur, à améliorer l’aspect visuel et écologique du parc industriel, et à
+augmenter l’indice de canopée. Elle contribue également à renforcer la
+
+
+
+                                                                                   19
+biodiversité, à réduire les impacts environnementaux et à appuyer la Ville dans
+son engagement envers la lutte contre les changements climatiques.
+               Figure 4 - Localisation des îlots de chaleur et de fraîcheur
+
+
+
+
+                    Source : Grand Montréal en statistique – Observatoire CMM
+
+
+
+
+2.2.7.2. Canopée et protection des arbres
+
+Selon l’Observatoire de la CMM, l’indice de canopée de la Ville de Baie-D’Urfé
+était de 34,3 % en 2021, marquant une diminution notable par rapport à son
+sommet de 37,9 % en 2017. Cette baisse reflète une pression croissante sur le
+
+
+
+                                                                                20
+patrimoine arboricole de la Ville, qui regroupe tous les arbres de 3 mètres et plus,
+qu’ils se trouvent en milieu naturel ou anthropique.
+           Tableau 2 - Évolution de l’indice de canopée à Baie-D’Urfé de 2011 à 2021
+
+
+                              Année                      Indice de canopée
+
+
+                               2021                               34,3 %
+
+
+                               2019                               36,9 %
+
+
+                               2017                               37,9%
+
+
+                               2015                                36 %
+
+
+                               2011                               34,5%
+
+                        Source : Grand Montréal en statistique – Observatoire CMM
+
+
+Bien que l’indice de canopée de Baie-D’Urfé reste supérieur à la moyenne de
+l’agglomération montréalaise, établie à 25,5 %, la Ville reconnaît l’urgence de
+freiner cette perte et de poser des actions concrètes pour protéger et bonifier son
+couvert arboré.
+
+Pour répondre à la diminution de la canopée et protéger le patrimoine arboricole
+de Baie-D’Urfé, la Ville s’engage à intégrer des orientations ambitieuses et
+structurées dans son plan d’urbanisme. Ces mesures visent à :
+
+1.       Préserver le patrimoine arboricole
+
+     ⦁   Encourager la conservation des arbres existants en limitant leur abattage
+         aux cas strictement nécessaires.
+
+     ⦁   Protéger les arbres durant les travaux grâce à des zones tampons et des
+         mesures adaptées pour minimiser les impacts sur les racines et les zones
+         boisées.
+
+     ⦁   Préserver les mosaïques de milieux naturels dans les zones industrielles et
+         autres terrains boisés, afin de maintenir la connectivité écologique.
+
+
+
+
+                                                                                       21
+2.       Bonifier la canopée
+
+     ⦁   Promouvoir des pratiques favorisant l’augmentation progressive de la
+         couverture arborée sur le territoire.
+
+     ⦁   Soutenir la plantation d’arbres adaptés et diversifiés dans les projets de
+         développement, en privilégiant des essences locales et résilientes.
+
+     ⦁   Encourager la végétalisation des espaces libres et des cours avant pour
+         améliorer la qualité visuelle et écologique des aménagements.
+
+3.       Favoriser la biodiversité et des plantations résilientes
+
+     ⦁   Planter des essences locales et indigènes pour renforcer la résilience
+         écologique et la biodiversité.
+
+     ⦁   Encourager des aménagements paysagers réduisant les surfaces
+         minéralisées et augmentant la couverture végétale pour contribuer à la lutte
+         contre les îlots de chaleur.
+
+4.       Adopter une gestion durable des arbres durant les travaux
+
+     ⦁   Planifier des mesures de protection avant le début des travaux pour limiter
+         les impacts sur les arbres et leurs racines.
+
+     ⦁   Intégrer des pratiques de préservation avancées, comme l’aération des sols
+         et des techniques de plantation qui favorisent la santé des arbres existants
+         et nouveaux.
+
+Ces orientations traduisent la volonté de Baie-D’Urfé de protéger et d’enrichir son
+patrimoine arboricole tout en s’inscrivant dans une démarche de durabilité et de
+résilience climatique. Le plan d’urbanisme se veut un cadre flexible et évolutif,
+permettant à la Ville de s’adapter aux enjeux environnementaux et de bâtir un
+territoire verdoyant et harmonieux pour les générations futures
+
+
+
+
+                                                                                  22
+                            Figure 5 - Localisation de la canopée
+
+
+
+
+                     Source : Grand Montréal en statistique – Observatoire CMM
+
+
+
+
+2.2.8. Les contraintes anthropiques
+
+2.2.8.1. Le bruit routier
+
+Baie-D’Urfé compte mettre à jour ses règlements qui obligent le maintien ou la
+mise en place de bandes boisées dans les parties du secteur industriel en bordure
+des autoroutes et a acquis, le long de la limite sud de l’autoroute 20, des bandes
+de terrain avec talus et plantations pour amortir le bruit. Plusieurs autres projets
+sont à l’étude pour améliorer la situation. De plus, la réglementation d’urbanisme
+
+
+                                                                                 23
+prévoira des règles d’insonorisation pour certains usages sensibles prévus sur le
+« secteur à construire (Densité TOD) », identifié à l’annexe A du présent plan
+d’urbanisme et adjacent à une autoroute ou à une voie ferrée principale.
+
+
+2.2.9. Caractéristiques du territoire de Baie-D’Urfé
+
+Selon le dernier recensement de Statistiques Canada effectué en 2021, la
+population de Baie-D’Urfé était alors de 3 764 personnes regroupées en 1 325
+ménages.
+
+
+2.2.9.1. Démographie (âge et sexe)
+
+Le secteur résidentiel de Baie-D’Urfé est maintenant presqu’entièrement
+développé. Très peu de lots sont encore vacants. Dû à la raréfaction des terrains
+à bâtir dans ce milieu résidentiel recherché, les dernières maisons qui ont été
+construites sont de valeur plus élevée que la moyenne. De plus, dans l’ensemble,
+la valeur des maisons existantes a considérablement augmenté, si bien qu’elles
+s’adressent surtout à une clientèle d’acheteurs de 2e ou de 3e maison, donc
+souvent âgés de plus de 45 ans. Additionnellement, les propriétaires de Baie-D’Urfé
+montrent un attachement à leur milieu de vie et hésitent à déménager. Cependant,
+depuis 2016, la population de Baie-D’Urfé a tout de même diminuée de 1,5%. En
+effet, la population est passée de 3823 personnes en 2016 à 3764 en 2021 (-
+1,5%). Cette baisse est particulièrement visible chez les 0 à 14 ans, qui sont
+passés de 595 personnes en 2016 à 510 personnes en 2021 (-14,3%) et chez les
+15 à 64 ans qui sont passés de 2315 personnes en 2016 à 2275 personnes en
+2021 (-1,7%). De leur côté les 65 ans et plus sont plus nombreux qu’en 2016 avec
+une croissance d’environ 7,7%, passant de 915 personnes à 985 personnes. Le
+vieillissement de la population et l’exil des enfants devenus adultes qui quittent la
+demeure familiale pour aller habiter dans une autre ville pourrait donc expliquer
+la baisse de population à Baie-D’Urfé. De plus, l’augmentation générale du prix
+des maisons et la constante croissance du taux d’inflation depuis la pandémie
+Covid-19 freine l’arrivée de nouvelles familles dans la ville.
+
+Pour la période de 2006 à 2021, la pyramide d’âges de Baie-D’Urfé démontre que
+le ratio du groupe d’âge des 25 à 34 ans est beaucoup moins élevé que sur
+l’ensemble du territoire de l’île de Montréal. En revanche, les groupes des 5 à 24
+ans et des 45 à 64 ans présentent des ratios plus élevés. Les analyses effectuées
+dans le cadre du plan d’urbanisme révisé de 2016 pour la période de 1996 à 2011
+montraient des écarts similaires, particulièrement chez les 5 à 14 ans et les 25 à
+34 ans. Comme mentionné plus tôt, cette tendance sociodémographique dénote
+
+
+                                                                                  24
+une propension des personnes au début de l’âge adulte à quitter Baie-D’Urfé.
+Cette tendance peut s’expliquer en bonne partie par le déménagement des jeunes
+de la demeure familiale pour aller étudier ou pour entreprendre une carrière
+ailleurs. On observe toutefois que certaines personnes ayant quitté Baie-D’Urfé au
+début de l’âge adulte y reviennent pour élever leur famille, quelques années plus
+tard.
+               Figure 6 - Répartition des groupes d'âge du territoire de Baie-D'Urfé
+
+                                    Baie-D'Urfé 2006 à 2021
+       25%
+
+       20%
+
+       15%
+
+       10%
+
+        5%
+
+        0%
+                 0à4    5 à 14   15 à 24   25 à 34   35 à 44 45 à 54    55 à 64   65 à 74 75 ans et
+                                                                                            plus
+                                               Groupes d'âge
+
+                                       2006     2011    2016     2021
+
+                                       Source : Statistiques Canada
+
+             Figure 7 - Répartition des groupes d'âges de l'agglomération de Montréal
+
+                          Agglomération de Montréal 2006 à 2021
+       25%
+
+       20%
+
+       15%
+
+       10%
+
+        5%
+
+        0%
+                0à4    5 à 14 15 à 24 25 à 34 35 à 44 45 à 54 55 à 64 65 à 74 75 ans
+                                                                              et plus
+                                              Groupes d'âge
+                                       2006     2011    2016     2021
+
+
+
+
+                                                                                                      25
+                                Source : Statistiques Canada
+
+
+Malgré la constante baisse de population, celle-ci a tout de même peu changée
+entre 2006 et 2021, passant de 3 902 en 2006 à 3 850 en 2011 (-1,3%), puis à
+3 823 personnes en 2016 (-0,7%), pour finalement arriver à 3 764 en 2021. Si la
+population totale est restée stable durant cette période de 15 ans, la pyramide
+d’âges n’a pas changé au cours des 30 dernières années.
+
+Une autre caractéristique qui ressort du graphique est l’augmentation du nombre
+de personnes dans les groupes d’âge de 65 à 74 ans et de plus de 75 ans. Cette
+augmentation est plus importante à Baie-D’Urfé que dans l’ensemble de Montréal.
+Ce phénomène s’explique par deux facteurs. Le premier est une augmentation de
+la longévité attribuable à l’amélioration des conditions de vie et des soins de santé.
+Le second est le vieillissement naturel des résidents d’origine qui ont choisi de
+rester. Ce deuxième facteur devrait éventuellement s’estomper et la répartition se
+stabiliser.
+
+
+2.2.10.       Parcs et espaces verts et terrains de jeu
+
+Baie-D’Urfé compte 17,9 hectares de parcs de même que 6,5 hectares de terrains
+de jeu aménagés à des fins de récréation active. Ce total de 24,4 hectares
+d’espaces verts représente 64 m2 per capita, ce qui dépasse largement la norme
+de 18,6 m2 (200 pieds carrés) généralement acceptée en Amérique du Nord. Dans
+le secteur résidentiel, la Ville est aussi propriétaire de 6,8 hectares de terrains à
+l’état naturel, essentiellement boisés et zonés pour fins de parcs. Ajoutés aux
+parcs et aux terrains de jeu, ces propriétés portent le total à 82 m2 d’espaces verts
+per capita.
+
+Les équipements communautaires municipaux de la Coop (Grange Rouge) et du
+centre Whiteside Taylor font 3,5 ha. Une bonne partie de cette superficie est
+aménagée en terrains de sport et de jeu. Les 7,9 ha. des propriétés
+institutionnelles (trois écoles et une église) peuvent aussi, pour une bonne part,
+servir de terrains de jeu.
+
+De plus, à Baie-D’Urfé, ces équipements sont très bien répartis pour une desserte
+optimale des résidents. Si l’on ajoute ces constatations au fait que Baie-D’Urfé est
+une ville de maisons unifamiliales sur de très grands terrains, où chaque famille
+dispose de ses propres espaces verts privés, on comprend que le plan
+d’urbanisme ne propose pas la création d’espaces verts additionnels.
+
+Compte tenu que la ville est maintenant presqu’entièrement développée et sa
+population stabilisée, le plan d’urbanisme ne prévoit donc aucune autre
+
+
+                                                                                   26
+modification ou addition au réseau existant, sauf peut-être dans le secteur
+industriel.
+
+Ceci ne veut pas dire pour autant que la Ville ne pourrait pas créer de nouveaux
+parcs sans amender le plan d’urbanisme ou le règlement de zonage. Ceci ne
+devrait pas non plus empêcher de rezoner comme « parcs » des espaces utilisés
+à des fins autres qu’à des fins de parcs dans les autres zones. Cependant, le Plan
+d’urbanisme interdit tout mouvement inverse, soit le remplacement d’un parc
+existant par un autre usage, sans devoir amender le plan d’urbanisme et la
+réglementation. Tout projet en ce sens devrait obligatoirement faire l’objet d’une
+consultation publique dans chaque cas.
+
+                  Figure 8 - Parc riverain aux abords du lac Saint-Louis
+
+
+
+
+                                 Source : Ville de Baie-D’Urfé
+
+
+
+
+                                                                               27
+                   Figure 9 - Localisation des parcs et espaces verts
+
+
+
+
+2.2.11.      La fonction résidentielle
+
+La partie résidentielle de Baie-D’Urfé s’est développée avec un réseau d’aqueduc,
+mais, dans sa grande majorité, sans services d’égout sanitaire. Le recours à des
+systèmes individuels d’épuration des eaux usées a nécessité des lots plus grands,
+entraînant une densité résidentielle généralement deux ou trois fois moins élevée
+que celle que l’on observe dans un lotissement de maisons unifamiliales typiques.
+
+Seule une petite section de la rue Surrey, à l’ouest de Morgan, est raccordée au
+réseau d’égout du parc industriel, ce qui a permis le développement de la
+résidence Maxwell, de deux immeubles d’appartements en copropriété et
+
+
+
+                                                                              28
+d’ensembles de maisons en rangée. Quant au reste du secteur résidentiel, sa
+vocation actuelle est principalement composée de maisons unifamiliales isolées.
+
+Toute évolution ou transformation future devra s’inscrire dans une réflexion
+cohérente et concertée pour préserver l’identité unique du territoire tout en
+répondant aux besoins éventuels de la communauté.
+
+
+2.2.12.      La fonction commerciale
+
+Baie-D’Urfé compte une zone commerciale située à l’intersection de la rue Morgan
+et de l’autoroute 20, près de la gare. Ce petit ensemble, bien positionné à l’entrée
+principale du secteur résidentiel, répond aux besoins de la communauté locale.
+
+Toutefois, l’impact potentiel du parachèvement de l’échangeur A20/Morgan, tel
+que proposé par l’Agglomération et le ministère des transports et de la mobilité
+durable, reste à évaluer et à étudier le moment venu. Cette démarche permettra
+de déterminer si des ajustements sont nécessaires pour améliorer la synergie
+entre la zone commerciale et le secteur industriel voisin.
+
+Le plan d’urbanisme confirme la vocation commerciale actuelle de ce secteur, tout
+en envisageant son développement futur de manière réfléchie. Aucune nouvelle
+zone commerciale n’est prévue pour le moment, bien que le secteur industriel
+puisse accueillir un pôle de services aux entreprises, afin de compléter l’offre
+actuelle et de répondre aux besoins spécifiques des travailleurs et des entreprises
+de la région.
+
+
+2.2.13.      La fonction industrielle
+
+En cours de développement depuis le début des années ’70, le secteur industriel
+de Baie-D’Urfé compte maintenant 74 entreprises qui fournissent de l’emploi à
+près de 4 700 personnes. Le tableau ci-après, qui montre la répartition de ces
+entreprises selon la classification de Statistiques Canada, permet de constater que
+la fabrication et la vente de gros sont les secteurs d’activités qui prédominent.
+
+
+
+
+                                                                                 29
+                      Tableau 3 - Secteur d'activité industrielle du territoire
+
+
+                      Secteur d’activité                               Entreprises Employés
+
+ Fabrication                                                                 44     3 399
+
+
+ Vente de gros                                                               18      840
+
+
+ Transport et entreposage                                                     3      63
+
+
+ Services professionnels, scientifiques et techniques                         5      302
+
+
+ Services administratifs, services de soutien, services de gestion
+                                                                              3      75
+ des déchets et services d’assainissement
+
+
+ Hébergement et services de restauration                                      1      10
+
+
+ Total                                                                       74     4 689
+
+                                      Source : Ville de Baie-D'Urfé
+
+
+Les entreprises existantes occupent 85% de la superficie de la ville zonée pour
+fins industrielles, ce qui laisse de la place pour quelque 10 entreprises
+supplémentaires et la création d’environ 600 emplois.
+
+
+2.2.14.          Gestion des terrains en bordure de l’autoroute 20
+
+Le plan d’urbanisme reconnaît l’importance de gérer les terrains situés le long de
+l’autoroute 20 en tenant compte des enjeux liés au bruit et à la poussière. Bien que
+le développement de ces terrains présente certaines contraintes
+environnementales, des solutions pourront être explorées pour atténuer les
+nuisances et maximiser leur potentiel d’utilisation.
+
+Les mesures envisageables pourraient inclure l’installation d’écrans antibruit, la
+création de zones végétalisées pour réduire les nuisances sonores, ainsi que
+l’application de normes de construction spécifiques, comme l’utilisation de
+matériaux insonorisant ou des orientations stratégiques des bâtiments. Ces
+
+
+
+                                                                                            30
+approches contribueraient à améliorer la qualité de vie des secteurs adjacents tout
+en assurant le respect des normes environnementales.
+
+Toute réflexion future sur l’usage de ces terrains devra s’appuyer sur une
+démarche équilibrée et adaptée aux besoins évolutifs de la communauté, tout en
+répondant aux exigences de durabilité et de résilience.
+
+
+2.2.15.       Dimension des lots
+
+Le fait que toutes les maisons soient implantées sur de grands terrains, permettant
+de vastes jardins et pelouses et la conservation de nombreux arbres, donne au
+secteur résidentiel de Baie-D’Urfé un caractère naturel hors du commun. Le
+présent plan d’urbanisme établit à 1 500 mètres carrés (16 146,4 pieds carrés) la
+superficie minimale d’un lot (la plupart des lots existants font 15 000 pieds carrés).
+
+De plus, le caractère particulier de Baie-D’Urfé tient en bonne partie à ses grandes
+propriétés résidentielles sur les bords du lac Saint-Louis. Le présent plan
+d’urbanisme établit à 2 000 mètres carrés (21 528 pieds carrés) la superficie
+minimale d’un lot situé dans le corridor riverain de 300 mètres (984’) mesuré
+depuis la limite des hautes eaux du lac, comme le prévoit le schéma
+d’aménagement et de développement de l’agglomération de Montréal, mais à 4
+000 mètres carrés (43 057 pieds carrés) la superficie minimale d’un lot du côté sud
+du chemin Lakeshore, soit le double de la superficie minimale de 2 000 mètres
+carrés exigée par le schéma.
+
+
+2.2.16.       Volume des constructions
+
+Les standards actuels de la réglementation d’urbanisme de Baie-D’Urfé en ce qui
+a trait aux dimensions des bâtiments, aux formes et aux matériaux sont élevés. La
+réglementation contient aussi des dispositions relatives à l’aménagement et à
+l’utilisation des espaces extérieurs et à la conservation des arbres.
+
+Cependant, plusieurs des grandes maisons construites récemment se démarquent
+nettement par rapport aux maisons plus petites qui composent encore aujourd’hui
+l’essentiel du paysage bâti de Baie-D’Urfé. Avec l’augmentation substantielle et
+soutenue de la valeur des terrains, la tendance est à l’acquisition des maisons plus
+petites pour les démolir et utiliser le terrain pour des maisons plus grandes, sans
+égard au caractère de l’ensemble de la rue.
+
+
+
+
+                                                                                   31
+Ces maisons neuves, de même que les projets d’agrandissement de maisons
+existantes, sont souvent conçus pour paraître plus énormes et plus imposantes
+que les maisons environnantes tout en réduisant la grandeur du jardin et la
+végétation et contribuant à l’urbanisation du voisinage.
+
+La tendance vers les grandes maisons affecte la pérennité de la communauté
+puisque le nombre de maisons convenables aux jeunes couples et aux aînés est
+diminué. L’augmentation du volume de construction d’une maison est souvent
+accompagnée d’une augmentation du pavage des entrées charretières, des patios
+et piscines, etc. Ceci augmente la charge du système de drainage pluvial et réduit
+les jardins et la végétation.
+
+En ce qui a trait à l’habitation, l’un des principaux objectifs de la Ville de Baie-
+D’Urfé résultant du plan d’urbanisme sera d’utiliser la réglementation municipale
+de zonage pour limiter l’augmentation de la taille moyenne des maisons et
+encourager un développement durable.
+
+
+
+
+                                                                                 32
+2.3.    Résumé des enjeux
+
+Le tableau suivant présentes les enjeux les plus importants sur le territoire de la
+ville de Baie-D’Urfé :
+
+                       Tableau 4 - Résumé des enjeux du territoire
+
+
+  Thématiques                 Enjeux                              Explications
+
+
+                                                    Les propriétés sur le territoire de la Ville
+                    L’abordabilité des
+                                                    se font rares et par le fait même, les
+                    propriétés
+                                                    résidences sont dispendieuses.
+
+
+                                                    Ces nouvelles constructions augmentent
+                                                    la pression sur les infrastructures
+                    Le gabarit des nouvelles        municipales, génèrent des
+                    constructions et des            problématiques au niveau de la gestion
+                    agrandissements                 des eaux pluviales et ne s’intègrent pas
+   Cadre bâti                                       harmonieusement au sein des secteurs
+                                                    bâtis existants.
+
+
+                                                    Certains bâtiments à valeur patrimoine
+                                                    méritent d’être mieux protégés. De plus,
+                    La préservation du              un encadrement plus restrictif de la
+                    patrimoine bâti et la gestion   démolition des bâtiments doit être
+                    durable des bâtiments           envisagé afin d’encourager l’entretien et
+                                                    la rénovation des constructions
+                                                    existantes.
+
+
+                                                    La faible diversité des typologies
+                    La diversité des typologies     résidentielles au sein du parc immobilier
+                    résidentielles                  limite la possibilité, pour certains
+                                                    ménages, de s'y établir.
+   Population
+                                                    L’accessibilité aux bâtiments et espaces
+                    L’accessibilité des espaces     publics et communautaires doit être
+                    publics et communautaires       encadrée pour répondre aux besoins
+                                                    d’une population vieillissante.
+
+
+
+
+                                                                                                   33
+ Thématiques                 Enjeux                               Explications
+
+
+                                                    La proximité de l’autoroute 20 soulève
+                                                    des considérations liées à la qualité de
+                                                    l’environnement sonore et
+                   Le bruit routier et la qualité   atmosphérique. Ces conditions appellent
+                   de l’air aux abords de           à une gestion réfléchie des
+                   l’autoroute 20                   aménagements urbains et à des mesures
+                                                    d’atténuation qui contribuent à préserver
+                                                    un cadre de vie agréable pour les
+                                                    résidents et travailleurs situés à proximité.
+
+
+                                                    Le réseau de mobilité actuel offre des
+                                                    possibilités d’évolution pour mieux
+                                                    intégrer les déplacements actifs.
+                                                    L’optimisation des infrastructures
+                   Amélioration de
+                                                    piétonnes et cyclables, combinée à des
+                   l’environnement pour les
+                                                    initiatives favorisant des comportements
+                   déplacements actifs
+                                                    responsables sur les routes, pourra
+   Transport                                        encourager davantage de résidents à
+                                                    adopter des modes de transports actifs
+                                                    dans un cadre sécuritaire et convivial.
+
+
+                                                    L’arrivée du REM, bien que situé à une
+                                                    certaine distance des quartiers
+                                                    résidentiels de Baie-D’Urfé, pourrait
+                                                    bénéficier principalement aux travailleurs
+                                                    du parc industriel. Les résidents, pour leur
+                   L’arrivée du REM et les          part, continueront de s’appuyer sur des
+                   opportunités limitées de         solutions de transport collectif déjà
+                   connectivité                     existantes, comme les circuits d’autobus.
+                                                    L’intégration réfléchie du REM devra être
+                                                    évaluée en complémentarité avec les
+                                                    infrastructures locales, en tenant compte
+                                                    des réalités et des besoins spécifiques de
+                                                    la communauté.
+
+
+                                                    La présence de vastes surfaces
+                                                    imperméables et asphaltées dans les
+                   Réduction des îlots de
+                                                    zones industrielles et commerciales,
+Environnement chaleur et création d’îlots           telles que le parc industriel et les environs
+                   de fraîcheur
+                                                    du centre commercial, contribue à
+                                                    l’apparition d’îlots de chaleur. Ces zones
+                                                    concentrent la chaleur, accentuant les
+
+
+
+                                                                                               34
+Thématiques   Enjeux                Explications
+
+                       écarts thermiques et augmentant les
+                       besoins énergétiques pour le
+                       refroidissement des bâtiments. Cet enjeu
+                       environnemental, particulièrement
+                       marqué dans ces secteurs, nécessite une
+                       gestion réfléchie pour améliorer le confort
+                       thermique et renforcer la résilience
+                       climatique de Baie-D’Urfé.
+
+                       Pour répondre à ces défis, des stratégies
+                       spécifiques seront mises en œuvre,
+                       notamment dans les zones industrielles et
+                       commerciales :
+
+                       1.     Verdissement et intégration de
+                       végétation urbaine :
+
+                       ⦁        Encourager la plantation d’arbres
+                       adaptés à grand déploiement dans les
+                       aires de stationnement, les espaces libres
+                       et les bandes tampons.
+
+                       ⦁        Intégrer des toits végétalisés ou
+                       clairs dans les nouveaux projets
+                       industriels et commerciaux pour réduire
+                       l’accumulation de chaleur et améliorer la
+                       qualité visuelle des sites.
+
+                       ⦁         Créer des corridors végétalisés
+                       reliant les espaces verts existants pour
+                       augmenter la connectivité écologique
+                       dans le parc industriel.
+
+
+
+                       2.    Réduction des surfaces
+                       imperméables :
+
+                       ⦁        Favoriser l’utilisation de
+                       matériaux perméables ou semi-
+                       perméables dans les aires de
+                       stationnement, les zones de chargement
+                       et les espaces extérieurs des bâtiments
+                       industriels et commerciaux.
+
+                       ⦁       Revoir l’aménagement des
+                       surfaces asphaltées pour inclure des ilots
+
+
+
+                                                                    35
+Thématiques   Enjeux                 Explications
+
+                       végétalisés et perméables qui réduisent
+                       le ruissellement des eaux pluviales et les
+                       effets de chaleur.
+
+                       3.     Amélioration de la canopée
+                       urbaine :
+
+                       ⦁       Augmenter le couvert végétal
+                       dans le parc industriel et autour du centre
+                       commercial par la plantation d’essences
+                       locales et résilientes.
+
+                       ⦁        Conserver les arbres existants et
+                       prioriser leur protection dans tous les
+                       projets de développement pour maximiser
+                       leur impact positif sur la qualité de l’air et
+                       la réduction de chaleur.
+
+                       4.     Intégration de solutions
+                       novatrices :
+
+                       ⦁       Promouvoir l’installation de
+                       systèmes de refroidissement passif pour
+                       les bâtiments industriels et commerciaux,
+                       tels que des écrans solaires et des murs
+                       végétalisés.
+
+                       ⦁        Explorer des partenariats avec
+                       des entreprises du parc industriel pour
+                       implanter des projets pilotes axés sur la
+                       durabilité et la lutte contre les îlots de
+                       chaleur.
+
+
+
+                       En intégrant ces mesures, le parc
+                       industriel et le centre commercial peuvent
+                       devenir des modèles d’aménagement
+                       durable où développement économique
+                       et protection de l’environnement
+                       coexistent harmonieusement. Ces
+                       initiatives s’inscrivent dans une vision
+                       ambitieuse pour Baie-D’Urfé, visant à
+                       offrir un cadre de vie résilient et attrayant
+                       tout en favorisant un équilibre entre les
+
+
+
+
+                                                                    36
+Thématiques            Enjeux                          Explications
+
+                                         besoins communautaires et les impératifs
+                                         environnementaux.
+
+
+                                         Les nouvelles constructions ainsi que
+                                         l’aménagement des terrains font décroitre
+                                         la superficie végétalisée. Des mesures
+              La perte de végétation     réglementaires plus adaptées devront
+                                         être envisagées pour freiner cette perte et
+                                         voir à augmenter le verdissement du
+                                         territoire.
+
+
+                                         La proportion du territoire sous couvert
+              La diminution du couvert
+                                         forestier doit être bonifiée et les arbres
+              forestier
+                                         existants protégés à son maximum.
+
+
+
+
+                                                                                      37
+           CHAPITRE 3.
+VISION D’AMÉNAGEMENT
+       PLAN D’URBANISME
+                  N°1108
+3.1.    Vision stratégique
+
+3.1.1. Vision stratégique 2022-2026
+
+Au courant de l’année 2021, la Ville de Baie-D’Urfé a adopté un rapport portant
+sur sa vision stratégique pour l’horizon 2022 à 2026. Le rapport en question
+consiste en un énoncé du futur souhaité pour la Ville et est le résultat d’un exercice
+de réflexion stratégique concerté entre la Ville et sa population.
+
+Cette vision, bien qu’offrant un regard élargi sur les enjeux et intentions à mettre
+en œuvre, doit être prise en compte et les intentions qui s’y trouvent portant sur
+l’aménagement du territoire doivent se transposer au sein du plan d’urbanisme
+pour se concrétiser.
+
+Ainsi, bien que la vision stratégique 2022-2026 porte sur plusieurs aspects de la
+vie au sein de Baie-D’Urfé qui outrepassent les considérations et enjeux relatifs à
+l’aménagement du territoire, il est possible d’en extraire plusieurs éléments
+pertinents dont la mise en œuvre passe notamment par les documents de
+planification en vigueur. Les grands piliers à la base de ladite vision sont résumés
+au sein de la figure suivante :
+                             Figure 10 - Vision stratégique
+
+
+
+
+                                Source : Ville de Baie-D'Urfé
+
+
+
+
+                                                                                   41
+3.2.         Orientations d’aménagement
+
+Afin de permettre l’atteinte des modalités de la vision stratégique mentionnées
+précédemment qui se veulent plus globales, des moyens de mise en œuvre
+concrets doivent être prévus au sein du plan d’urbanisme.
+
+Plus que de simples intentions, les orientations d’aménagement présentées au
+tableau suivant précisent, de manière concrète, de quelle manière la Ville souhaite
+atteindre ses objectifs futurs lorsqu’il est question d’aménagement du territoire. Le
+tableau suivant présente les grandes orientations d’aménagement :
+                         Tableau 5 - Grandes orientations d'aménagement
+
+
+    1. Préserver et valoriser le cadre environnemental
+
+       1.1    Intégrer à la règlementation des dispositions relatives à la conception de toits plats
+              afin qu’ils soient conçus de manière à réfléchir les rayons solaires.
+
+       1.2    Imposer une superficie minimale de toits végétalisés pour les bâtiments de plus
+              grande superficie, notamment dans les secteurs industriels et commerciaux.
+
+       1.3    Rendre obligatoire d’atteinte d’un certain pourcentage de couverture ombragée au
+              sein des aires de stationnement d’envergure de manière à limiter les îlots de chaleur.
+
+       1.4    Réduire les ratios du nombre de stationnement requis dans certains cas, plus
+              particulièrement pour les usages industriels.
+
+       1.5    Augmenter la superficie perméable au sein des aires de stationnement par
+              l’utilisation de matériaux de revêtement plus perméables.
+
+       1.6    Rendre obligatoire l’intégration d’îlots de verdure au sein des aires de stationnement
+              d’envergure.
+
+       1.7    Obliger de façon systématique le remplacement de tout arbre ayant été abattu de
+              manière à préserver l’aspect « campagne en ville » et le caractère pittoresque du
+              territoire.
+
+       1.8    Resserrer les obligations de verdissement des terrains de manière à préserver la
+              beauté naturelle de l’environnement extérieur, améliorer la qualité de l’air, réduire les
+              îlots de chaleur et augmenter la percolation des eaux pluviales.
+
+       1.9    Obliger l’aménagement de baissières lorsqu’une bordure est exigée pour ceinturer
+              une aire de stationnement de manière à limiter la pression sur les infrastructures
+              municipales.
+
+
+
+
+                                                                                                     42
+1.10 Interdire de manière formelle de rejeter les eaux pluviales des toits au sein du réseau
+     d’égout pluvial et de fossés afin d’optimiser l’utilisation des infrastructures
+
+1.11 Produire un guide permettant d’orienter les citoyens relativement à la plantation et à
+     l’entretien des arbres.
+
+1.12 Produire un relevé de l’ensemble des arbres présent sur le territoire et tenir à jour un
+     registre à cet effet.
+
+
+2. Encadrer et protéger les particularités intrinsèques du cadre bâti
+   propres à Baie-D’Urfé
+
+1.1. Encadrer les nouvelles constructions résidentielles sur l’ensemble du territoire par le
+     biais d’un règlement sur les plans d’implantation et d’intégration architecturale (PIIA)
+     de manière à en assurer l’intégration harmonieuse au cadre bâti existant.
+
+1.3. Gérer l’alignement des nouvelles constructions afin de nuancer les marges avant
+     minimales applicables et d’éviter des écarts trop importants entre les différents
+     bâtiments principaux lorsque les bâtiments adjacents sont dérogatoires protégés par
+     droits acquis.
+
+1.4. Resserrer les obligations relatives à l’entretien des bâtiments.
+
+1.5. Diversifier les typologies résidentielles autorisées au sein de secteurs ciblés pour
+     permettre de répondre aux besoins de l’ensemble de la population.
+
+1.6. Doter la Ville d’un inventaire complet de son patrimoine bâti pour l’ensemble de son
+     territoire et proposer une protection particulière pour les bâtiments de grande valeur
+     patrimoniale.
+
+
+2. Optimiser et maximiser le potentiel de développement de secteurs
+   stratégiques
+
+2.1. Augmenter la superficie d’occupation au sol des terrains à l’intérieur du parc industriel
+     et imposer des normes prohibitives pour conserver les espaces libres et encadrer
+     l’entreposage extérieur.
+
+2.2. Augmenter la hauteur maximale des bâtiments situés dans le parc industriel à 4 étages
+     et imposer des normes relatives au verdissement des terrains et des toitures.
+
+2.3. Encadrer le développement du secteur à construire de manière à diversifier l’offre
+     actuelle en termes de typologies résidentielles.
+
+2.4. Prévoir des normes de construction favorisant l’écoresponsabilité des bâtiments à
+     ériger dans le secteur à construire.
+
+
+
+
+                                                                                            43
+3. Entreprendre le virage de la mobilité durable
+
+3.1. Consolider le couloir de mobilité entre les accès au réseau de transport en commun et
+     le secteur industriel afin de favoriser l’utilisation des modes de transport actifs.
+
+3.2. Adopter des dispositions règlementaires pour encourager l’électrification des
+     transports (ex : nombres de cases dédiées aux véhicules électriques, autopartage,
+     bornes, etc.)
+
+3.3. Améliorer l’aménagement du réseau routier afin de le rendre plus sécuritaire pour
+     l’ensemble des déplacements, incluant la mobilité active (piétons et cyclistes).
+
+3.4. Boucler ou prolonger certains tronçons de trottoir afin qu’ils puissent desservir les
+     zones scolaires, notamment celui de la rue Victoria à l’est de l’école Alexander Von
+     Humboldt.
+
+3.5. Améliorer l’éclairage de certains tronçons routiers afin d’améliorer la sécurité de tous
+     les usagers.
+
+3.6. Prévoir l’installation de dos-d’âne ou autres mesures similaires pour réduire la vitesse
+     automobile sur les tronçons problématiques.
+
+
+
+
+                                                                                           44
+3.3.    Les grandes affectations du sol, densités de son
+        occupation et mise en œuvre du plan d’urbanisme
+
+Le plan d’urbanisme de Baie-D’Urfé doit se conformer aux grandes affectations du
+territoire et à la modulation de la densité résidentielle du schéma d’aménagement
+et de développement de l’agglomération de Montréal. Ce schéma répartit le
+territoire de la ville entre trois grandes affectations :
+
+   •   Une dominante résidentielle pour toute la partie du territoire au sud de
+       l’autoroute 20 ;
+   •   À même cette dominante résidentielle, de grands espaces verts ou de
+       récréation, soit le parc Fritz, incluant toute la berge du lac Saint-Louis
+       jusqu’à l’hôtel de ville, ainsi que le parc Bertold ;
+   •   Le parc industriel, qui comprend toute la partie du territoire entre les
+       autoroutes 20 et 40.
+
+
+3.3.1. Terrains en bordure des rives du fleuve Saint-Laurent
+
+Les berges du fleuve Saint-Laurent sont assujetties au Régime transitoire de
+gestion des zones inondables, des rives et du littoral mis en place par le
+gouvernement du Québec pour remplacer la Politique de protection des rives, du
+littoral et des plaines inondables adoptée en vertu de la Loi sur la Qualité de
+l’environnement (L.R.Q., c. Q-2, s. 2.1). Les berges font 4,0 kilomètres de long,
+soit 3,3 km sous contrôle de propriétaires privés et 700 mètres qui sont propriété
+de la ville.
+
+Les objectifs du régime transitoire, outre le fait d’être constitué de plusieurs
+règlements, devenant ainsi imposable aux citoyens sont les suivants :
+
+   •   Harmoniser les dispositions applicables sur l’ensemble du territoire du
+       Québec ;
+
+   •   Intégrer des dispositions règlementaires instaurant un régime d’autorisation
+       municipale pour les activités réalisées dans les rives, le littoral et les zones
+       inondables ;
+
+   •   Mettre à jour certaines dispositions du Règlement sur l’encadrement
+       d’activités en fonction de leur impact sur l’environnement (REAFIE) de
+       manière à ce que son contenu soit mieux adapté à l’impact de certaines
+       activités sur la sécurité des personnes et des biens ;
+
+
+
+
+                                                                                    45
+   •   Bonifier et actualiser les normes relatives à la résilience des constructions
+       et aménagements face aux inondations de plus en plus fréquentes dans les
+       dernières années ;
+
+   •   Améliorer l’encadrement de l’agriculture pratiquée en littoral ;
+
+Les objectifs qui étaient poursuivies par la politique sont aussi reconduits au sein
+du régime transitoire :
+
+   •   Assurer la pérennité des lacs et des cours d’eau et de maintenir et
+       d’améliorer leur qualité en accordant une protection minimale adéquate aux
+       rives, au littoral et aux plaines inondables;
+
+   •   Prévenir la dégradation et l'érosion des rives, du littoral et des plaines
+       inondables en favorisant la conservation de leur caractère naturel;
+
+   •   Assurer la conservation, la qualité et la diversité biologique du milieu en
+       limitant les interventions pouvant permettre l'accessibilité et la mise en
+       valeur des rives, du littoral et des plaines inondables;
+
+   •   Dans la plaine inondable, d’assurer la sécurité des personnes et des biens,
+       de protéger la flore et la faune en tenant compte des caractéristiques
+       biologiques de ces milieux et d’assurer l'écoulement naturel des eaux;
+
+   •   De promouvoir la restauration des milieux riverains dégradés en privilégiant
+       l'usage de techniques les plus naturelles possibles.
+
+
+3.3.2. Densité
+
+Dans le cadre de la révision quinquennale de sa réglementation d’urbanisme,
+Baie-D’Urfé doit se conformer aux objectifs du Schéma d’aménagement et de
+développement de l’agglomération de Montréal, qui fixe un seuil de densité
+résidentielle brute de 40 logements par hectare pour les aires TOD (Transit
+Oriented Development). Cet objectif vise à promouvoir une gestion durable du
+territoire, une utilisation optimale des infrastructures existantes, et à limiter
+l’étalement urbain dans la région métropolitaine.
+
+Cependant, Baie-D’Urfé se distingue par des caractéristiques uniques qui
+influencent sa capacité à répondre à ces exigences. Avec une densité brute
+actuelle de seulement 2,4 logements par hectare, la ville est marquée par un tissu
+résidentiel constitué majoritairement de grandes propriétés unifamiliales
+entourées d’espaces verts généreux. Ce cadre résidentiel aéré, couplé à une
+
+
+
+
+                                                                                 46
+canopée dense, constitue une composante essentielle de l’identité et de la qualité
+de vie de la communauté.
+
+Afin de concilier les objectifs régionaux de densification avec les particularités
+locales, Baie-D’Urfé propose une densité nette de 60 logements par hectare dans
+les zones stratégiques identifiées, à savoir H-6, H-7, H-8, H-9 et C-1. Ces zones,
+situées à l’intérieur ou en périphérie du périmètre TOD, offrent un potentiel
+important pour une densification mesurée, compatible avec l’identité locale et les
+infrastructures existantes.
+
+Cette approche, axée sur une densification ciblée, permet à Baie-D’Urfé de
+répondre aux attentes tout en préservant son cadre de vie unique. La densité nette
+de 60 logements par hectare tient compte de l’absence de création de nouvelles
+rues ou parcs, concentrant ainsi les efforts de développement sur les terrains déjà
+disponibles et aménageables.
+
+Cette proposition reflète une vision équilibrée et ambitieuse, visant à répondre aux
+objectifs métropolitains tout en maintenant l’authenticité et l’harmonie du territoire
+de Baie-D’Urfé.
+
+Le périmètre de l’aire TOD et les zones identifiées sont illustrés dans l’annexe A
+du présent règlement, renforçant l’engagement de la Ville envers un
+développement réfléchi et durable.
+
+
+3.3.3. Description des catégories d’usages
+
+Bureau
+Bâtiment ou partie de bâtiment utilisé à des fins d’affaires
+
+Commerce
+Établissement utilisé à des fins commerciales (vente au détail, vente en gros,
+entreposage) pouvant être complétées par une fonction de bureau. Les
+commerces qui génèrent des nuisances susceptibles d’affecter la qualité des
+milieux de vie et dont les activités sont incompatibles avec le milieu environnant
+appartiennent à l’affectation « Industrie ».
+
+Composantes « Grande emprise ou grande infrastructure publique »
+Catégorie d’usages reliée aux activités de transport et aux équipements à l’usage
+des services publics pouvant générer des nuisances importantes pour le voisinage
+tel que, mais ne se limitant pas aux infrastructures portuaires, ferroviaires (gare de
+triage) ou aéroportuaires, aux équipements ou infrastructures d’assainissement et
+de traitement des eaux, aux équipements majeurs de collecte, de tri, de
+valorisation et d’élimination de matières résiduelles, ou aux équipements majeurs
+d’entreposage et d’élimination des neiges usées.
+
+
+                                                                                   47
+Conservation
+Aire réservée à la protection et au rehaussement de la biodiversité ainsi qu’à la
+mise en valeur des patrimoines naturel et paysager. Se trouvent dans cette
+catégorie les parcs-nature, certains grands parcs (comme le parc du Mont-Royal)
+et parcs locaux, des terrains municipaux, de même que des aires protégées par
+un organisme non municipal.
+
+Équipement récréatif, culturel ou institutionnel
+Aire comportant des constructions ou des terrains qui sont réservés à des activités
+collectives, récréatives, culturelles ou institutionnelles et qui jouent un rôle
+important au sein de la population, que ce soit en matière d’enseignement, de
+soins de santé, de sport, de culture ou de tourisme.
+
+Industrie
+Ensemble d’entreprises et d’établissements exerçant une fonction économique,
+que ce soit la fabrication, la transformation, l’assemblage, la distribution ou la
+prestation de services aux entreprises. L’industrie légère se distingue de l’industrie
+lourde par le fait qu’elle regroupe des activités générant peu de nuisances pour le
+voisinage (bruit, fumée, poussière, vapeur, gaz, radiation, odeur). Afin de
+préserver l’harmonie des activités urbaines sur le territoire, des balises
+d’aménagement sont fortement recommandées dans les secteurs qui accueillent
+des activités industrielles occasionnant d’importants désagréments aux biens et
+aux personnes. Exemples d’usages industriels légers : vidéo et audio, accessoires
+pour vêtements, jouets, produits pharmaceutiques, produits électroniques, etc.
+Exemples d’usages industriels lourds : aciérie, charbon, gypse, machinerie lourde,
+métaux, peinture, plastique, produits chimiques, ciment, etc.
+
+Infrastructure publique
+Terrains et bâtiments réservés à des fins de services publics. Ils comprennent,
+à titre non limitatif, les voies de chemin de fer (ferrées), les lignes de transport
+d’énergie, les gares de triage, les cours de voirie, les installations essentielles au
+fonctionnement du métro et les voies publiques de circulation. Sont exclus de cette
+catégorie d’usages, les usages se rattachant aux composantes « Grande emprise
+ou grande infrastructure publique ».
+
+Installation, équipement ou aménagement de récréation extensive
+Équipements récréatifs qui nécessitent des aménagements légers, et leurs
+bâtiments accessoires, utilisés pour les activités récréatives extensives,
+pratiquées généralement à l’extérieur. Les aménagements et équipements
+génèrent peu d’impacts sur le milieu environnant. Il s’agit notamment d’un chalet
+d’accueil ou d’un centre d’interprétation, d’un poste d’observation, d’un belvédère,
+d’un kiosque, d’une voie de promenade, d’une piste de randonnée pédestre ou
+cyclable, d’une aire de détente, d’une aire de jeu, d’une aire de pique-nique, d’un
+bâtiment de service et d’une cour d’entreposage pour les besoins d’entretien du
+site ainsi que d’un stationnement et de ses voies d’accès.
+
+
+                                                                                   48
+Installation, équipement ou aménagement de récréation intensive
+Activités récréatives intensives pratiquées sur des espaces extérieurs nécessitant
+des aménagements importants ou à l’intérieur de bâtiments d’envergure. Ces
+aménagements et bâtiments nécessitent des modifications substantielles des
+sites, de la topographie et du couvert végétal. Il peut s’agir d’un golf, d’un terrain
+sportif, d’une piscine, d’un bassin, d’une plage, d’une marina, d’un terrain de jeu,
+etc.
+
+
+3.3.4. Synthèse de compatibilité des usages
+
+Le tableau 6 consiste en une grille pour une lecture rapide de la compatibilité des
+catégories d’usages selon les affectations prévues au présent plan d’urbanisme. Il
+identifie clairement les catégories d’usages qui sont jugées comme étant
+pleinement compatibles ou compatibles, mais à certaines conditions, et ce, pour
+l’ensemble des grandes affectations hors périmètre d’urbanisation et celles
+détaillées se retrouvant à l’intérieur du périmètre d’urbanisation.
+
+Le règlement de zonage, incluant le découpage des zones au plan de zonage ainsi
+que les usages qui y seront autorisés devront être concordants avec la présente
+grille afin de refléter la vocation de chaque partie du territoire de la Ville.
+
+Le tableau suivant résume et illustre la compatibilité des usages selon le
+découpage du territoire par affectation. Un point « ● » signifie que la catégorie
+d’usages est considérée comme étant compatible avec l’affectation du sol et peut
+donc être autorisée au Règlement de zonage. Lorsque des conditions sont
+applicables, elles sont indiquées par l’entremise d’une note, lesquelles sont
+détaillées à la page suivante.
+
+
+
+
+                                                                                   49
+                                                   Tableau 6 - Les grandes affectations du sol
+                                                                                  Affectations
+                                                                                                           Grand
+                                                           Dominante        Dominante       Dominante     espace
+                                                          résidentielle    commerciale       Industrie     vert ou
+                                                                                                         récréation
+
+                                      Habitation                ●
+
+
+                                      Commerce                  ●                ●               ●          ●1
+
+
+                                        Bureau                  ●                ●               ●          ●1
+
+
+                                     Équipement
+                                 récréatif, culturel ou         ●                ●               ●           ●
+                                     institutionnel
+Catégories d’ usage autorisées
+
+
+
+
+                                     Installation,
+                                   équipement ou
+                                                                                                            ●2
+                                  aménagement de
+                                 récréation intensive
+
+
+                                     Installation,
+                                    équipement ou                                                            ●
+                                  aménagement de
+                                 récréation extensive
+
+                                 Industrie de tout type                                          ●
+
+
+
+                                    Composantes
+                                 « Grande emprise ou
+                                                                                                 ●
+                                 grande infrastructure
+                                      publique »
+
+
+
+
+                                     Conservation               ●                ●               ●           ●
+
+
+
+
+                                                                                                                 50
+                                                       Affectations
+                                                                                  Grand
+                                  Dominante       Dominante      Dominante       espace
+                                 résidentielle   commerciale      Industrie       vert ou
+                                                                                récréation
+
+                 Parc                 ●               ●               ●              ●
+
+
+            Infrastructure
+                                      ●               ●               ●              ●
+               publique
+
+
+              Cimetière               ●                               ●              ●
+
+
+1 : Uniquement les commerces ou bureaux complémentaires aux installations de récréation
+2 : Incluant les golfs
+
+
+
+
+                                                                                          51
+      ANNEXES
+PLAN D’URBANISME
+           N°1108
+ANNEXE A -   CONCEPT D’ORGANISATION SPATIALE
+                               DU TERRITOIRE
+
+
+
+
+                                           iii
+ANNEXE B -   PLAN DES AFFECTATIONS DU SOL
+
+
+
+
+                                        v
+ANNEXE C -   INVENTAIRE DU PATRIMOINE BÂTI
+                      Inventaire du patrimoine bâti
+
+                              Numéro                               Valeur
+Nombre   Nom de la rue                    Catégorie de bien
+                              civique                           patrimoniale
+
+  1       Cambridge             15         Bâtiment principal      Forte
+  2       Lakeshore            19992       Bâtiment principal    Supérieure
+  3         Picardy             20         Bâtiment principal    Supérieure
+  4       Lakeshore            20010       Bâtiment principal    Supérieure
+  5      Place Wilson          20026       Bâtiment principal    Moyenne
+  6       Lakeshore            20094       Bâtiment principal    Supérieure
+  7       Lakeshore            20122       Bâtiment principal    Supérieure
+  8       Lakeshore            20122      Bâtiment secondaire    Moyenne
+  9       Lakeshore            20154       Bâtiment principal    Moyenne
+  10      Lakeshore            20154      Bâtiment secondaire    Moyenne
+  11      Lakeshore            20180       Bâtiment principal    Supérieure
+  12      Lakeshore            20237       Bâtiment principal    Moyenne
+  13      Lakeshore            20237      Bâtiment secondaire    Moyenne
+  14      Lakeshore            20270       Bâtiment principal      Forte
+  15      Lakeshore            20285       Bâtiment principal    Supérieure
+                              20329-
+  16      Lakeshore                        Bâtiment principal      Forte
+                              20331
+                              20329-
+  17      Lakeshore                       Bâtiment secondaire    Supérieure
+                              20331
+  18      Lakeshore            20358       Bâtiment principal    Moyenne
+  19      Lakeshore            20360       Bâtiment principal    Moyenne
+  20      Lakeshore            20389       Bâtiment principal    Supérieure
+  21      Lakeshore            20389      Bâtiment secondaire    Moyenne
+  22      Lakeshore            20410       Bâtiment principal    Supérieure
+  23      Lakeshore            20475       Bâtiment principal    Moyenne
+  24      Lakeshore            20477       Bâtiment principal    Supérieure
+  25      Lakeshore            20625       Bâtiment principal      Forte
+  26      Lakeshore            20684       Bâtiment principal    Supérieure
+  27      Lakeshore            20690       Bâtiment principal      Forte
+  28      Lakeshore            20713       Bâtiment principal    Moyenne
+29    Gay Cedars      20726    Bâtiment principal     Forte
+30    Gay Cedars      20726    Bâtiment principal     Forte
+31    Gay Cedars      20726    Bâtiment principal   Supérieure
+32    Gay Cedars      20746    Bâtiment principal   Moyenne
+33     Lakeshore      20758    Bâtiment principal     Forte
+34     Lakeshore      20790    Bâtiment principal   Supérieure
+35     Lakeshore      20790   Bâtiment secondaire     Forte
+36     Lakeshore      20799    Bâtiment principal   Moyenne
+37     Lakeshore      20802    Bâtiment principal   Supérieure
+38     Lakeshore      20826    Bâtiment principal     Forte
+39     Lakeshore      20826   Bâtiment secondaire   Supérieure
+40     Oakridge       211      Bâtiment principal   Supérieure
+41      Oxford         32      Bâtiment principal     Forte
+42     Magnolia        41      Bâtiment principal     Faible
+43      Oxford         41      Bâtiment principal   Moyenne
+44      Oxford         43      Bâtiment principal     Faible
+45   Saint-Andrew’s    47      Bâtiment principal     Faible
+46   Saint-Andrew’s    63      Bâtiment principal   Moyenne
+47      Oxford         64      Bâtiment principal   Moyenne
+48      Oxford         84      Bâtiment principal     Forte
+

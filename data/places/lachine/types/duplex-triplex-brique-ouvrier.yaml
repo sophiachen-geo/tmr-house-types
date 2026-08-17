@@ -1,0 +1,108 @@
+id: lachine.duplex-triplex-brique-ouvrier
+place: lachine
+phase: p3
+phase_confidence: provisional
+name_en: Brick duplex and triplex, detached or in continuous alignment
+name_fr: Duplex et triplex en brique, détachés ou en alignement continu
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), sectors 19.I.1, 19.I.2, 19.I.8"
+source_generation: >-
+  Sector characterisation. Three sector descriptions naming the same form, transcribed and set side
+  by side; nothing added.
+sectors: ["19.I.1", "19.I.2", "19.I.8"]
+canonical:
+  - duplex-flat-roof-brick
+  - triplex-exterior-stair
+styles:
+  - faubourg-vernacular
+tenure_plan: duplex
+storeys: "2"
+roof: {form: flat, pitch_deg: null}
+window_proportion: null
+principal_cladding:
+  - brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Detached, party-walled or in continuous alignment — the cahier records all three, sometimes in the same sentence.
+    - "In Vieux-Lachine the grid is orthogonal, the blocks rectangular and regular, and there are no back lanes; siting varies from hard on the street line to a setback deep enough for an exterior stair."
+    - "In the low part of Ville Saint-Pierre siting and setbacks are generally constant within a zone but change from one zone to the next."
+  massing:
+    - Two to three superposed dwellings on one lot.
+    - "In Dawes the same fabric runs up to large brick buildings of two or three storeys with mansard or false-mansard roofs and dormers."
+  articulation:
+    - "Exterior stairs on the façade, in the Ville Saint-Pierre examples."
+    - "Sometimes a porte cochère — the carriage arch that leads to the back of the lot, the same device the Centre-Sud of Ville-Marie uses on its own worker housing."
+    - "The cahier records what has been lost as carefully as what survives: in Ville Saint-Pierre the wood cladding has usually been replaced by vinyl, and the cornices, crowns and railings have often disappeared."
+  openings:
+    - The cahier states nothing about the openings of this type.
+  materials:
+    - "Brick, « le plus souvent »."
+    - "Wood, on the ornament that survives: the cahier notes decorative elements in wood on the two-storey houses of the upper part of Ville Saint-Pierre."
+profile_fr:
+  description:
+    - "duplex et triplex détachés ou en alignement continu, le plus souvent en brique, avec parfois des portes cochères"
+    - "des duplex ou triplex en brique avec des escaliers en façade"
+  implantation:
+    - "Les implantations et les marges de recul des bâtiments, généralement constantes, varient d'une zone à l'autre."
+  materiaux:
+    - "Les parements de bois ont la plupart du temps été remplacés par des parements de vinyle. Les éléments de décor tels que les corniches, les couronnements et les garde-corps ont souvent disparu."
+profile_note: >-
+  Built from three sector paragraphs that name the same form in three parts of the borough, and from
+  nothing else. The cahier gives no storey count for the duplex as against the triplex, no roof pitch,
+  no window type, no lot width and no setback figure, so those are null; the flat roof is inferred
+  from the crowns and cornices the same paragraphs describe as lost, and from the canonical forms this
+  record is filed under, not from a statement in the source. The tenure plan is recorded as duplex
+  because that is the smaller of the two the cahier names; the triplex is the same record.
+photos:
+  - file: assets/places/lachine/boulevard-saint-joseph-commons.jpg
+    credit: >-
+      Boulevard Saint-Joseph, Lachine — brick and painted-brick buildings of two and three storeys in
+      continuous alignment, with balconies, moulded cornices, a false-mansard turret and, mid-block,
+      an exterior stair; the dome of the Sœurs de Sainte-Anne mother house closes the view. Photograph
+      by Anne-Marie Dufour for « Parcours riverain - Ville de Montréal », 12 November 2010, via
+      Wikimedia Commons, CC BY 2.0.
+      https://commons.wikimedia.org/wiki/File:Boulevard_Saint-Joseph_(Lachine)_(8551449525).jpg
+    kind: single
+    licence: CC BY 2.0
+    source_url: https://commons.wikimedia.org/wiki/File:Boulevard_Saint-Joseph_(Lachine)_(8551449525).jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form and on street, not on civic number. The boulevard Saint-Joseph is sector 19.E.2
+      and runs through 19.I.1 and 19.I.2, all three of which describe this fabric.
+  - file: assets/places/lachine/876-898-boulevard-saint-joseph-commons.jpg
+    credit: >-
+      876-898, boulevard Saint-Joseph, Lachine — a three-storey brick range in continuous alignment,
+      its separate front doors at grade, projecting balconies at the upper levels, a heavy moulded
+      cornice, and a raised central pediment carrying the date 1900. Photograph by Anne-Marie Dufour
+      for « Parcours riverain - Ville de Montréal », 12 November 2010, via Wikimedia Commons, CC BY
+      2.0.
+      https://commons.wikimedia.org/wiki/File:876-898,_boulevard_Saint-Joseph_(Lachine)_(8552645628).jpg
+    kind: single
+    licence: CC BY 2.0
+    source_url: https://commons.wikimedia.org/wiki/File:876-898,_boulevard_Saint-Joseph_(Lachine)_(8552645628).jpg
+    match_confidence: address
+    match_note: >-
+      The address is in the file title, given by the Ville de Montréal itself as the photograph's
+      caption. The 1900 in the pediment is legible in the image and is reported as what the building
+      carries, not as a construction date established from a document. Whether the upper dwellings are
+      reached by interior or exterior stairs cannot be told from the front.
+blurb_en: >-
+  The worker housing the canal and the factories produced: two or three dwellings stacked on one lot,
+  in brick more often than not, sometimes standing free, sometimes party-walled, sometimes running the
+  length of a block in one alignment. Ville Saint-Pierre's have their stairs on the façade. Vieux-
+  Lachine's sometimes have a carriage gate through to the back of the lot.
+origin_en: >-
+  Lachine's east end densified around work. The canal opened in 1825 and the first railway on the
+  island reached the Lachine quay in 1847; Dominion Bridge settled near the locks in 1883 and other
+  firms followed, and the cahier says workers arrived in numbers, settled in the eastern sectors, and
+  pushed the built-up area across the railway. Companies and promoters, in its words, "construisent
+  une multiplicité de types d'habitation et déclinent souvent leurs variantes en alignement continu,
+  en série, jumelées ou individuelles" to house the factory hands and the men working on the canal.
+  The porte cochère puts this record beside the Centre-Sud worker housing of Ville-Marie, where the
+  carriage gate leads to houses at the back of the yard; and the exterior stair puts it beside every
+  other plex on this site.

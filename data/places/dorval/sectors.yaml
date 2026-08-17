@@ -1,0 +1,503 @@
+# Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Dorval–L'Île-Dorval
+# (2005, ISBN 2-7647-0450-X). Twenty-four sectors in four series, all of them the cahier's own:
+#   7.E.1–7.E.6   secteurs de valeur patrimoniale exceptionnelle
+#   7.I.1–7.I.5   secteurs de valeur patrimoniale intéressante
+#   7.U.1–7.U.8   ensembles urbains d'intérêt
+#   7.AP.1–7.AP.3 secteurs d'intérêt archéologique à fort potentiel
+#   7.A.1–7.A.2   secteurs d'intérêt archéologique (the cahier's lower archaeological grade; both
+#                 series map onto this site's single archaeological-potential value, and the
+#                 distinction is carried in each row's note)
+# The code grammar is the series' own: first number = arrondissement, letter = grade, second
+# number = sector. Here the printed code (7) and the filename (07) agree, which they do not in
+# Ville-Marie or the Sud-Ouest. summary_fr is verbatim from the cahier; summary_en is ours.
+# Source text: sources/west-island/dorval/07_evaluation_patrimoine_dorval.txt.
+
+# ------------------------------------------- A. Les secteurs de valeur patrimoniale exceptionnelle
+- id: le-village
+  code: 7.E.1
+  name_fr: Le village
+  value: exceptional
+  summary_en: >-
+    The village grew round the crossing of avenue Martin and the chemin du Bord-du-Lac. Apart from
+    the old montées and the Bord-du-Lac itself, avenue Martin is the oldest street in Dorval, and
+    it still carries a high proportion of centenarian buildings together with the hôtel de ville,
+    whose central section was built as a filtration plant in 1912. Some of the buildings are
+    grander than others — particularly the properties along the bank — but the cahier is explicit
+    that all of them contribute to the sector's exceptional value. The chemin du Bord-du-Lac took
+    the little locality's first shops, and still has them.
+  summary_fr: >-
+    « Le village de Dorval s'est développé autour de l'intersection de l'avenue Martin et du chemin
+    du Bord-du-Lac. Mis à part les anciennes montées et le chemin du Bord-du-Lac, l'avenue Martin
+    est la plus ancienne rue de Dorval, le long de laquelle on compte encore aujourd'hui une forte
+    proportion de bâtiments centenaires ainsi que l'hôtel de ville, dont la partie centrale a été
+    au départ construite comme usine de filtration (1912). »
+  streets: [avenue Martin, chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section A
+  code_eval2005: 7.E.1
+  note: >-
+    Captioned examples in the cahier: 444 chemin du Bord-du-Lac (the first hôtel de Dorval, 1887);
+    223 chemin du Bord-du-Lac; the maison Kilellan, 1 avenue Martin. Section 3.1 warns about this
+    sector in particular — « la fragilité du tissu ancien dans le secteur du village et la
+    spéculation sur les maisons anciennes et sur les terrains pour construire de grandes résidences
+    sont peu favorables au maintien du caractère villageois qui prédomine dans le secteur ».
+
+- id: noyau-institutionnel
+  code: 7.E.2
+  name_fr: Le noyau institutionnel
+  value: exceptional
+  summary_en: >-
+    A small sector holding the église de la Présentation, built in 1900, the presbytery, the école
+    Joubert — named for the parish's first curé — and the couvent Notre-Dame-du-Sacré-Cœur, whose
+    oldest part dates from 1912. It stands at some distance from the village core, on ground that
+    commands the sector, with a few houses of the same period as the institutional buildings.
+  summary_fr: >-
+    « Ce petit secteur regroupe l'église de la Présentation, construite en 1900, le presbytère,
+    l'école Joubert (du nom du premier curé de la paroisse) et le couvent Notre-Dame-du-Sacré-Cœur,
+    dont la partie la plus ancienne date de 1912. Ce noyau institutionnel est situé à quelque
+    distance du noyau villageois. »
+  streets: [avenue de l'Église, avenue de la Présentation]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section A
+  code_eval2005: 7.E.2
+  note: null
+
+- id: chemin-du-bord-du-lac
+  code: 7.E.3
+  name_fr: Le chemin du Bord-du-Lac
+  value: exceptional
+  summary_en: >-
+    A short stretch of the founding road made up of several individually exceptional buildings —
+    St. Mark's church at 865, behind whose 1958 front the fieldstone chapel of 1898 built for the
+    Protestant summer people has been kept and integrated; the maison Beaurivage at 900; the maison
+    Eliza Bryson at 890; and the maison André-Legault-dit-Deslauriers, also called le Manoir, at
+    940, built about 1833 by André Legault dit Deslauriers.
+  summary_fr: >-
+    « Ce petit secteur est constitué de plusieurs immeubles de valeur patrimoniale exceptionnelle :
+    l'église St. Mark (865, chemin du Bord-du-Lac), dont l'histoire remonte à plus d'un siècle
+    (derrière la partie plus moderne construite en 1958, on a préservé et intégré l'ancienne
+    chapelle en pierre des champs construite en 1898 pour les villégiateurs protestants), la maison
+    Beaurivage (900, chemin du Bord-du-Lac), la maison Eliza Bryson (890, chemin du Bord-du-Lac) et
+    la maison André-Legault-dit-Deslauriers aussi nommée le Manoir (940, chemin du Bord-du-Lac),
+    construit vers 1833 par André Legault dit Deslauriers. »
+  streets: [chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section A
+  code_eval2005: 7.E.3
+  note: >-
+    940 chemin du Bord-du-Lac heads the eleven addresses the cahier's recommendation 4.3 proposed
+    for citation under the Loi sur les biens culturels. It has not been cited.
+
+- id: ancien-cap-saint-gilles
+  code: 7.E.4
+  name_fr: Secteur de l'ancien cap Saint-Gilles
+  value: exceptional
+  summary_en: >-
+    A sector that has to be described by what is missing from it. From the street nothing suggests
+    the vast private domain running back to what used to be called the cap Saint-Gilles: nothing at
+    all survives of Ashburton, the opulent summer residence built in the 1879s, nor of the stone
+    manor the industrialist John Wilson McConnell built after it, which burned in 1963. What
+    remains is the entrance lodge and a summer residence in fine gardens, together with the other
+    large riverside properties on the west side between the former maison Ashburton and the Royal
+    St. Lawrence Yacht Club.
+  summary_fr: >-
+    « Depuis la rue, on ne peut soupçonner la présence d'un immense domaine privé qui se rend
+    jusqu'à ce que l'on appelait anciennement le cap Saint-Gilles. En effet, il ne reste plus rien
+    de l'opulente résidence d'été appelée Ashburton, construite dans les années 1879, ni de la
+    maison bâtie par la suite par l'industriel John Wilson McConnell, un magnifique manoir de pierre
+    qui a été détruit par un incendie en 1963. »
+  streets: [chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section A
+  code_eval2005: 7.E.4
+  note: >-
+    « dans les années 1879 » is the cahier's own wording and is left as printed; the list of
+    exceptional immeubles dates the maison Ashburton at 1200-1210 chemin du Bord-du-Lac to 1879,
+    which is presumably what was meant. This is the sector that most sharply illustrates section
+    3.1's warning about « la disparition des grandes propriétés patrimoniales ou de leurs
+    lotissements pour permettre des constructions neuves d'architecture incompatible avec le cadre
+    bâti ».
+
+- id: forest-and-stream-club
+  code: 7.E.5
+  name_fr: Forest and Stream Club
+  value: exceptional
+  summary_en: >-
+    Formerly known as Bel-Air, the name the architect Alfred Brown gave his English-style stone
+    manor, the property was sold after his death to a prestigious private club, the Forest and
+    Stream Club, which occupies it still. It includes an entrance lodge and former stables,
+    restored and enlarged to receive the Dorval museum, all set on a well-planted point of land
+    reaching into lac Saint-Louis.
+  summary_fr: >-
+    « Autrefois connue sous le nom de « Bel-Air », nom donné par l'architecte Alfred Brown à son
+    manoir de pierre de style anglais, cette propriété a été vendue après son décès à un club privé
+    prestigieux (le Forest and Stream Club), qui l'occupe toujours. Cette propriété comprend
+    également un pavillon d'entrée et d'anciennes écuries, restaurées et agrandies pour accueillir
+    le musée de Dorval. Ces bâtiments sont implantés sur une pointe de terre très bien aménagée qui
+    s'avance dans le lac Saint-Louis. »
+  streets: [chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section A
+  code_eval2005: 7.E.5
+  note: >-
+    The cahier's recommendation 4.3 gives the address and both dates as « 1800, chemin du Bord-du-
+    Lac / « Bel-Air » (1874), Forest and Stream Club (1888) » — 1874 the house, 1888 the club. The
+    museum stands next door at 1850 and is listed separately in the 2024 PIIA. The cahier calls
+    Alfred Brown an architect; the Société des musées du Québec calls him « Alfred S. Brown,
+    magasinier de la compagnie de chemin de fer Grand Tronc et directeur de la Banque de Montréal ».
+    Both descriptions are recorded and neither is reconciled here.
+
+- id: ile-dorval
+  code: 7.E.6
+  name_fr: L'Île Dorval
+  value: exceptional
+  summary_en: >-
+    The island was divided into fifty-seven lots for summer houses in 1911. It is reachable only by
+    ferry, which the cahier credits with preserving a bucolic character evoking the 1920s–1940s,
+    the period when most of the chalets were built, and which adds to the charm of a natural
+    setting scattered with small cottages that disappear into the vegetation.
+  summary_fr: >-
+    « C'est en 1911 que l'île Dorval est divisée en 57 lots pour la construction de résidences
+    d'été. L'île n'est accessible que par traversier, ce qui a sans aucun doute contribué à
+    préserver son caractère bucolique évocateur des années 1920-1940, période où la majorité des
+    chalets se sont construits. »
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section A
+  code_eval2005: 7.E.6
+  note: >-
+    The historique adds the earlier chain: the three islands offshore were named Courcelles from
+    1665; the largest was chosen as the site of a mission to Indigenous people in 1673, abandoned
+    in 1674; it was bought in 1853 by Sir George Simpson, governor of the Hudson's Bay Company, who
+    built his summer house there in the middle of the forest; the Prince of Wales called for a few
+    hours in 1860; by the 1930s about fifteen families summered on it.
+
+# ------------------------------------------- B. Les secteurs de valeur patrimoniale intéressante
+- id: avenue-saint-charles
+  code: 7.I.1
+  name_fr: Secteur de l'avenue Saint-Charles
+  value: interesting
+  summary_en: >-
+    Rather modest former chalets under a very dense tree canopy that gives the street a discreet
+    charm. Its buildings predate the 1940s–1950s, when bungalow construction became the norm in
+    Dorval. A fine view opens at the end of the street onto lac Saint-Louis and the pont Mercier;
+    the sector also takes in the Canadian Forces marina.
+  summary_fr: >-
+    « Il s'agit d'un secteur composé d'anciens chalets plutôt modestes mais dont l'environnement,
+    qui possède un couvert végétal très fourni, lui confère un charme discret. Les bâtiments de ce
+    secteur précèdent ceux de la période des années 1940-1950, où la construction de bungalows
+    devient la norme à Dorval. »
+  streets: [avenue Saint-Charles]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section B
+  code_eval2005: 7.I.1
+  note: null
+
+- id: prolongement-du-village
+  code: 7.I.2
+  name_fr: Le prolongement du village
+  value: interesting
+  summary_en: >-
+    A mixed sector where small houses — former chalets turned into permanent residences — stand
+    beside more recent ones. On the chemin du Bord-du-Lac, buildings of various functions
+    illustrate the successive periods of the town's development.
+  summary_fr: >-
+    « Il s'agit d'un secteur mixte où les petites maisons (anciens chalets transformés en résidences
+    permanentes) côtoient des résidences plus récentes. »
+  streets: [chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section B
+  code_eval2005: 7.I.2
+  note: >-
+    The chalet-to-house conversion is the single commonest process the cahier records in Dorval,
+    and it appears in three of the five interesting sectors (7.I.2, 7.I.3, 7.I.5).
+
+- id: avenues-roy-et-lepage
+  code: 7.I.3
+  name_fr: Secteur des avenues Roy et Lepage
+  value: interesting
+  summary_en: >-
+    Representative of the period preceding the demographic explosion of the 1950s — the cahier
+    calls it a happy mixture of one-storey chalets converted into permanent houses and small
+    two-storey single-family houses, all of relatively modest character, the whole shaded by a tree
+    canopy over properties set some way back from the street.
+  summary_fr: >-
+    « Il s'agit d'un heureux mélange de chalets d'un étage transformés en résidences permanentes et
+    de petites maisons unifamiliales de deux étages, le tout de facture relativement modeste. »
+  streets: [avenue Roy, avenue Lepage]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section B
+  code_eval2005: 7.I.3
+  note: "Captioned example: 150-156 avenue Lepage."
+
+- id: boulevard-pine-beach
+  code: 7.I.4
+  name_fr: Le boulevard Pine Beach
+  value: interesting
+  summary_en: >-
+    A small sector north of the railway between places Davidson and Anchorage, on both sides of
+    boulevard Pine Beach, with characteristics similar to 7.I.3. The street layout is unusual, with
+    short cul-de-sac segments running perpendicular to the regular grid; the lots are deep and the
+    setting has mature trees. The cahier suggests a link between the growth of this villégiature
+    zone and the establishment of a nearby commuter-train stop, and the beach on the lakeshore.
+  summary_fr: >-
+    « Il existe possiblement un lien entre le développement de cette zone de villégiature et
+    l'instauration, à proximité, d'un arrêt de train de banlieue, sans oublier la plage située sur
+    les berges du lac Saint-Louis. »
+  streets: [boulevard Pine Beach, place Davidson, place Anchorage]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section B
+  code_eval2005: 7.I.4
+  note: "Captioned example: 525 boulevard Pine Beach."
+
+- id: secteur-ouest
+  code: 7.I.5
+  name_fr: Secteur ouest
+  value: interesting
+  summary_en: >-
+    Running from the lakeshore to the railway, with characteristics like those of 7.I.3. The fabric
+    is made of former chalets, single-family houses of the American Foursquare kind and small
+    one-storey cottages, and it is representative of the period before the demographic explosion of
+    the 1950s. A mature tree canopy makes the streets particularly pleasant and quiet, and they
+    bear witness to the villégiature period of this part of Dorval.
+  summary_fr: >-
+    « Le bâti est composé d'anciens chalets, de maisons unifamiliales de type « four squares » et de
+    petits cottages d'un seul étage. Il est représentatif de la période qui a précédé l'explosion
+    démographique des années 1950. »
+  streets: [boulevard des Sources]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section B
+  code_eval2005: 7.I.5
+  note: >-
+    « four squares » is the cahier's own spelling of the American Foursquare, and the only place in
+    the Dorval volume where a named house type appears at all. Captioned examples: 385 and 405
+    boulevard des Sources.
+
+# ------------------------------------------------------------- C. Les ensembles urbains d'intérêt
+- id: mcnicoll-sevigny-kernan
+  code: 7.U.1
+  name_fr: Rue McNicoll, avenue Sévigny et croissant Kernan
+  value: urban-ensemble
+  summary_en: >-
+    A small sector beside the parc Dorval near the eastern end of the borough, characterised by the
+    uniformity of its fabric — plain-pied bungalows, hipped roofs, brick as the dominant material,
+    a garage, a cul-de-sac street and relatively simple landscaping. Approximate date of
+    construction, the 1950s.
+  summary_fr: >-
+    « se caractérise par l'uniformité du bâti : bungalows de type plain-pied, toit pavillon, brique
+    comme matériau dominant, garage, rue en cul-de-sac, aménagement paysager relativement simple.
+    L'époque approximative de construction serait les années 1950. »
+  streets: [rue McNicoll, avenue Sévigny, croissant Kernan]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.1
+  note: "Captioned example: 165 rue McNicoll."
+
+- id: dorval-model-homes
+  code: 7.U.2
+  name_fr: Dorval Model Homes – avenue Dalhia
+  value: urban-ensemble
+  summary_en: >-
+    A residential street lined with bungalows that resemble one another but that, looked at
+    closely, differ in window type, roof type, the use of artificial stone and clapboard, or the
+    treatment of the brick. The project, begun in 1951, comprised 28 dwelling units divided between
+    12 detached and 16 semi-detached bungalows, and also included the two apartment buildings at
+    the corner of the chemin du Bord-du-Lac.
+  summary_fr: >-
+    « Ce projet qui a débuté en 1951 comprenait 28 unités de logement réparties entre 12 bungalows
+    détachés et 16 semi-détachés; il incluait aussi les deux édifices d'appartements situés au coin
+    du chemin du Bord-du-Lac. »
+  streets: [avenue Dalhia, chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.2
+  note: >-
+    The cahier spells the street « Dalhia » throughout, in this heading, in the captions
+    (1 avenue Dalhia; 510 chemin du Bord-du-Lac) and in the exceptional-immeubles list
+    (« 12, avenue Dalhia / Quatre-Vents (1803) »). The 2024 PIIA spells it « Dahlia », as does the
+    2024 heritage study of number 12. The cahier's spelling is kept here because this row quotes the
+    cahier; the discrepancy is real and is not resolved.
+
+- id: avenue-des-lilas
+  code: 7.U.3
+  name_fr: Avenue des Lilas
+  value: urban-ensemble
+  summary_en: >-
+    A subdivision most likely laid out at the time the filtration plant was built, with a small
+    square facing it. The bungalows are typical of the 1950s, and the cahier reads the ensemble's
+    harmony as resting on one building type and scale and on similar materials.
+  summary_fr: >-
+    « Les bungalows sont typiques des années 1950. Le bâti harmonieux repose sur un même type de
+    construction et d'échelle et sur l'utilisation de matériaux similaires. »
+  streets: [avenue des Lilas]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.3
+  note: "Captioned example: 70 avenue des Lilas."
+
+- id: place-decary
+  code: 7.U.4
+  name_fr: Place Décary
+  value: urban-ensemble
+  summary_en: >-
+    A residential development like 7.U.1 — cul-de-sac street, similar plain-pied bungalows, hipped
+    roof, brick, carport, well-kept ground and mature trees. Construction dates approximately from
+    the 1950s.
+  summary_fr: >-
+    « rue en cul-de-sac, bungalows similaires de type plain-pied, toit pavillon, brique, carport,
+    terrain bien aménagé et présence d'arbres matures »
+  streets: [place Décary]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.4
+  note: null
+
+- id: lepage-roy-nord-dawson
+  code: 7.U.5
+  name_fr: Les avenues Lepage et Roy, au nord de l'avenue Dawson
+  value: urban-ensemble
+  summary_en: >-
+    In the quadrilateral formed by avenues Dawson, Lepage and Roy and the 6e Avenue, the diagonal
+    line of the cross streets creates varied views over a fabric of split-level bungalows most
+    likely of the 1950s. The cahier reads it as a well-planned and harmonious development using a
+    relatively small number of models, with materials varying from house to house.
+  summary_fr: >-
+    « le tracé particulier des rues transversales – à la diagonale – crée des points de vue variés
+    sur un bâti composé de bungalows de type split level datant vraisemblablement des années 1950 »
+  streets: [avenue Lepage, avenue Roy, avenue Dawson, 6e Avenue]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.5
+  note: null
+
+- id: claude-et-allard
+  code: 7.U.6
+  name_fr: Secteur des avenues Claude et Allard
+  value: urban-ensemble
+  summary_en: >-
+    The atmosphere is that of a Californian-style 1950s suburb, with low bungalows incorporating a
+    carport. What adds to the quality of the setting is the median strip down the centre of the
+    wide avenues Claude and Allard and the profusion of mature trees on the properties.
+  summary_fr: >-
+    « L'ambiance de ce secteur est celle d'une banlieue de type californien des années 1950, avec
+    ses bungalows bas intégrant un carport. »
+  streets: [avenue Claude, avenue Allard]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.6
+  note: null
+
+- id: saint-louis-et-clement
+  code: 7.U.7
+  name_fr: Secteur des avenues Saint-Louis et Clément
+  value: urban-ensemble
+  summary_en: >-
+    South of the autoroute Ville-Marie and north of avenue Carson. The sector holds one-and-a-half
+    and two-storey cottages representative of the villégiature period, modest brick bungalows, and
+    a section further north made up of War Time Housing single-family houses.
+  summary_fr: >-
+    « Le secteur comprend des cottages d'un étage et demi ou de deux étages représentatifs de
+    l'époque villégiature, des bungalows de brique d'allure modeste et une section plus au nord
+    constituée de résidences unifamiliales de type War Time Housing. »
+  streets: [avenue Saint-Louis, avenue Clément, avenue Carson]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.7
+  note: >-
+    The only Wartime Housing the Dorval cahier names, and the reason Dorval belongs on the same
+    page as Arvida and Témiscaming. « autoroute Ville-Marie » is the cahier's own wording for what
+    is signed autoroute 20 elsewhere in the same volume. Captioned example: 402 avenue Saint-Louis.
+
+- id: prince-charles-et-saint-leon
+  code: 7.U.8
+  name_fr: Les avenues Prince-Charles et Saint-Léon
+  value: urban-ensemble
+  summary_en: >-
+    A small 1950s residential sector representative of a well-planned development, whose harmony
+    rests on a limited number of house models. The first model has a mansard roof; the second a
+    two-slope roof; the third a two-slope roof with the gable wall facing the street. All are of
+    brick and one and a half storeys, and the alternation of the models sets up a rhythm, with big
+    trees heightening the sector's rural character.
+  summary_fr: >-
+    « Le premier modèle est à toit de type mansard; le second possède un toit à deux versants et le
+    troisième, un toit aussi à deux versants mais avec le mur pignon faisant face à la rue. Toutes
+    ces maisons sont en brique et comportent un étage et demi. »
+  streets: [avenue Prince-Charles, avenue Saint-Léon]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section C
+  code_eval2005: 7.U.8
+  note: >-
+    The most precise piece of type description anywhere in the Dorval cahier: three named models
+    distinguished by roof form alone. It is still not a type table — no dimensions, no cladding
+    beyond brick, no builder named — which is why Dorval carries no type record of its own.
+
+# ------------------------------------------------------------ 3.2.3 Le patrimoine archéologique
+- id: zone-cotiere
+  code: 7.AP.1
+  name_fr: Zone côtière
+  value: archaeological-potential
+  summary_en: >-
+    The coastal strip along lac Saint-Louis, and with it the chemin du Bord-du-Lac, which the
+    cahier calls the first overland communication route laid out in the west of the island, its
+    line cutting across the whole set of farm lots. The present line seems to respect that of the
+    old road although its right-of-way has probably been widened, and remains of the farm complexes
+    may survive beside it, within its line or in the right-of-way.
+  summary_fr: >-
+    « Il s'agit du premier axe de communication par voie terrestre aménagé dans l'ouest de l'île;
+    son tracé recoupe l'ensemble des terres agricoles. »
+  streets: [chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section 3.2.3 A
+  code_eval2005: 7.AP.1
+  note: >-
+    A secteur d'intérêt archéologique à fort potentiel — the cahier's higher archaeological grade.
+    Archaeology is an overlay in this series, not a heritage grade, which is why the AP and A rows
+    carry the same value on this site. The cahier notes that fill added over the centuries has often
+    protected buried remains, and that several public spaces may hold them: the parcs Dorval,
+    Saint-Charles, Windsor, Pine Beach and Baie-de-Valois.
+
+- id: pointe-de-valois
+  code: 7.AP.2
+  name_fr: Pointe de Valois
+  value: archaeological-potential
+  summary_en: >-
+    At the eastern end of the baie de Valois, the point commands an excellent view of the whole of
+    lac Saint-Louis — a decisive advantage in the wars of the seventeenth century. It takes in the
+    terrasse Whitehead, a small turning circle, house lots and unbuilt ground, and the cahier rates
+    it very high potential for both the prehistoric and historic periods, and particularly for the
+    siting of a fort or a mission.
+  summary_fr: >-
+    « La pointe de Valois constitue un emplacement à très fort potentiel archéologique pour les
+    périodes préhistorique et historique, tout particulièrement pour l'installation d'un fort ou
+    d'une mission. »
+  streets: [terrasse Whitehead]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section 3.2.3 A
+  code_eval2005: 7.AP.2
+  note: A secteur d'intérêt archéologique à fort potentiel.
+
+- id: ile-dorval-et-petites-iles
+  code: 7.AP.3
+  name_fr: Île Dorval et petites îles
+  value: archaeological-potential
+  summary_en: >-
+    The islands of lac Saint-Louis were frequently used by Indigenous groups in the prehistoric
+    period, as the many archaeological sites found in this kind of setting show — staging camps on
+    journeys, or seasonal camps tied to a particular resource. Between 1673 and 1674 the île Dorval
+    was a seigneury distinct from that of the island of Montréal. Traces of both prehistoric and
+    historic occupation are likely to survive, and to date no archaeological research has been
+    carried out on this territory.
+  summary_fr: >-
+    « L'île Dorval constitue, entre 1673 et 1674, une seigneurie distincte de celle de l'île de
+    Montréal. […] À ce jour, aucune recherche archéologique n'a été mise en œuvre sur ce
+    territoire. »
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section 3.2.3 A
+  code_eval2005: 7.AP.3
+  note: A secteur d'intérêt archéologique à fort potentiel.
+
+- id: zone-cotiere-interet
+  code: 7.A.1
+  name_fr: Zone côtière (secteur d'intérêt archéologique)
+  value: archaeological-potential
+  summary_en: >-
+    The lower of the cahier's two archaeological grades over the same coastal strip. Its entry
+    carries no text of its own — the cahier prints only « Voir texte 7.AP.1 ».
+  summary_fr: "« 7.A.1 – ZONE CÔTIÈRE — Voir texte 7.AP.1 »"
+  streets: [chemin du Bord-du-Lac]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section 3.2.3 B
+  code_eval2005: 7.A.1
+  note: >-
+    A secteur d'intérêt archéologique, the cahier's lower archaeological grade, distinguished from
+    the AP series on the synthesis map by a different hatch. This site's sector vocabulary has one
+    archaeological value, so the grade is recorded here in the name and the note rather than
+    inventing a second enum value for it.
+
+- id: ile-dorval-et-petites-iles-interet
+  code: 7.A.2
+  name_fr: Île Dorval et petites îles (secteur d'intérêt archéologique)
+  value: archaeological-potential
+  summary_en: >-
+    The lower archaeological grade over the islands. As with 7.A.1 the cahier prints only a
+    cross-reference — « Voir texte 7.AP.3 ».
+  summary_fr: "« 7.A.2 – ÎLE DORVAL ET PETITES ÎLES — Voir texte 7.AP.3 »"
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Dorval–L'Île-Dorval (2005), section 3.2.3 B
+  code_eval2005: 7.A.2
+  note: A secteur d'intérêt archéologique, the cahier's lower archaeological grade.

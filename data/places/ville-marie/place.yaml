@@ -1,0 +1,140 @@
+id: ville-marie
+name_en: Ville-Marie (Montréal)
+name_fr: Arrondissement de Ville-Marie
+borough_of: montreal          # Part 10a: the Montréal boroughs render as siblings under one header
+sections: [historic-core]
+region: Montréal (île de Montréal), arrondissement de Ville-Marie
+founded: 1642
+settlement_mode: >-
+  the founding settlement itself and everything that grew off it — a walled colonial town of 1642
+  laid out in 1672 by Dollier de Casson, the faubourgs that spilled through its demolished
+  fortifications after 1801, the anglophone bourgeoisie's villa quarter on the south flank of the
+  mountain, the francophone working-class east around the breweries and tobacco works, and a
+  modern downtown driven through the middle of all of it between 1955 and 1975
+parent_place: null
+# Read from inside the cahier, never from the filename — and here, not from the Plan d'urbanisme
+# either. See prose notes and the Montréal framework page.
+evaluation_codes:
+  code_2005: 24
+  code_2016: 25
+  file_prefix: 25
+governing_instruments:
+  - kind: site-patrimonial-declare
+    title: >-
+      Site patrimonial de Montréal (Vieux-Montréal), RPCQ id 93528. The RPCQ statuts table makes
+      the déclaration of 1995-04-26 the operative status and the déclaration of 1964-01-08 a
+      statut antérieur; the 1995 declaration enlarged the limits to take in the old fortifications.
+      A transfert de responsabilité — the exercise of certain powers by the municipality of
+      Montréal — was registered 2017-09-21 and took effect 2018-09-21. The RPCQ describes a
+      territory of about 1 400 m east–west by 800 m north–south holding 557 édifices et vestiges
+      built between the 17th and the 20th century, bounded by rue Saint-Antoine (N), the fleuve
+      Saint-Laurent (S), the faubourg Québec with rues Saint-Hubert and Saint-André (E) and the
+      faubourg des Récollets with rues McGill, De Longueuil and des Sœurs-Grises (W), and taking in
+      the pointe à Callière sector and the Vieux-Port.
+    year: 1995
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93528
+  - kind: evaluation-cahier
+    title: >-
+      Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005),
+      ISBN 2-7647-0467-4, the Ville-Marie volume of the twenty-seven-cahier series prepared by the
+      Division du patrimoine et de la toponymie under Jean-François Gravel, worked January 2003 –
+      May 2004 for the Plan d'urbanisme adopted by the conseil municipal on 23 November 2004. It
+      designates 67 secteurs de valeur patrimoniale exceptionnelle (24.E.1–24.E.67), 19 secteurs de
+      valeur patrimoniale intéressante (24.I.1–24.I.19), one ensemble urbain d'intérêt (24.U.1),
+      two ensembles industriels d'intérêt (24.N.1–24.N.2) and six secteurs d'intérêt archéologique
+      à fort potentiel (24.AP.1–24.AP.6). Every sector code it prints begins 24.
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/25_EVALUATION_PATRIMOINE_VILLE-MARIE.PDF
+  - kind: piia
+    title: >-
+      Ville-Marie, règlement d'urbanisme de l'arrondissement de Ville-Marie 01-282, chapter
+      « Secteurs et immeubles à valeur patrimoniale ». Recorded here as the instrument that carries
+      design review in this borough; the by-law text was not retrieved for this part and the
+      article numbers are therefore not stated. Part 11b task.
+    year: null
+    url: null
+  - kind: conservation-plan
+    title: >-
+      MCC plan de conservation for the site patrimonial de Montréal — NOT RETRIEVED, and on the
+      evidence available not published. The Conseil du patrimoine culturel du Québec's own page for
+      the site (cpcq.gouv.qc.ca/patrimoine-culturel/sites-patriomoniaux/montreal/, checked 17 August
+      2026) carries no plan, no règlement and no directive, only a pointer to the RPCQ fiche; the
+      MCC's former plans-de-conservation index at mcc.gouv.qc.ca/index.php?id=5074 now redirects to
+      a generic Québec.ca landing page. Until an instrument is produced, this page's Vieux-Montréal
+      content comes from the RPCQ statement of value and the 2005 cahier, both quoted verbatim.
+    year: null
+    url: https://cpcq.gouv.qc.ca/patrimoine-culturel/sites-patriomoniaux/montreal/
+  - kind: site-patrimonial-classe
+    title: >-
+      Site patrimonial du Complexe-de-La-Maison-Alcan, RPCQ id 204071 — classé by the ministre de
+      la Culture et des Communications on 2017-02-23 with effect from 2015-11-09, after an avis
+      d'intention of 2015-11-02 prorogé 2016-11-03; conservation categories 2 (extérieur supérieur)
+      and 8 (terrain supérieur); situated inside an aire de protection; transfert de responsabilité
+      to Montréal registered 2017-09-21, effective 2018-09-21. It covers La Maison-Alcan — the
+      maison Lord-Atholstan, the maison Béique, the hôtel Berkeley, the maison Holland and the
+      maison Klinkhoff, built 1872–1928 on rue Sherbrooke Ouest, with the 1981–83 édifice Davis and
+      its atrium behind — and the former Emmanuel Congregational church of 1906. Six blocks of the
+      Mille carré doré, and the only ensemble in it with a protection of its own.
+    year: 2017
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=204071&type=bien
+  - kind: advisory
+    title: >-
+      Conseil du patrimoine de Montréal — the municipal advisory body consulted on interventions in
+      protected territory. Recorded as an instrument bearing on this borough; no opinion of it is
+      encoded here.
+    year: null
+    url: null
+typology_document:
+  title: >-
+    RPCQ id 93528, site patrimonial de Montréal — valeur architecturale and éléments
+    caractéristiques (source: Ministère de la Culture et des Communications du Québec, 2004) —
+    with Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Ville-Marie (2005,
+    ISBN 2-7647-0467-4)
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    No per-type table exists for Ville-Marie, and none is likely to until the plan de conservation
+    is produced. The six residential records below are reconstructions. Three of them are lifted
+    almost whole from the RPCQ's statement of architectural value and its éléments caractéristiques,
+    which for a site fiche is unusually explicit about buildings — it names the roof pitch, the
+    masonry, the chimneys and the window type of the French-regime house, the stone and the orders
+    of the British-regime classical house, and the mixed timber-iron-and-stone structure of the
+    eclectic 19th-century commercial building. The other three are built from the cahier's own
+    sector descriptions. Every column the sources do not fill is null and every record says which.
+building_counts:
+  secteurs_de_valeur_exceptionnelle_24_E: 67
+  secteurs_de_valeur_interessante_24_I: 19
+  ensembles_urbains_d_interet_24_U: 1
+  ensembles_industriels_d_interet_24_N: 2
+  secteurs_d_interet_archeologique_a_fort_potentiel_24_AP: 6
+  edifices_et_vestiges_dans_le_site_patrimonial_de_Montreal: 557
+  note: >-
+    The five sector counts are this site's own tally of the codes printed inside the 2005 cahier
+    (24.E.1–67, 24.I.1–19, 24.U.1, 24.N.1–2, 24.AP.1–6), extracted from the PDF text. The 557 is
+    the RPCQ's figure for the declared site. The two ensembles industriels d'intérêt and the six
+    archaeological-potential sectors are not encoded as sector rows: this site's sector vocabulary
+    has no value for an ensemble industriel, and no AP fiche was transcribed for this place.
+map_layer: null
+hero_photo:
+  file: assets/places/ville-marie/cours-le-royer-commons.jpg
+  credit: >-
+    Les Cours Le Royer, seen from rue Saint-Dizier looking west — the former Sœurs hospitalières
+    warehouses whose conversion the 2005 cahier calls « le premier jalon d'un repeuplement du
+    Vieux-Montréal ». Photograph by Jeangagnon, 26 September 2015, Wikimedia Commons, CC BY-SA 3.0.
+    https://commons.wikimedia.org/wiki/File:Cours_Le_Royer_-_01.jpg — licence, author and file URL
+    read through the Commons API before download, and the photograph opened and checked against its
+    description.
+summary_en: >-
+  The borough that is the city's beginning and its argument about protection. Ville-Marie holds the
+  declared site patrimonial de Montréal, the richest domestic architecture on the island in the
+  Mille carré doré, the greystone terraces of the Village Shaughnessy and the working-class
+  faubourgs of the east — and the protection they carry has almost nothing to do with how good they
+  are. Vieux-Montréal has been a declared site since 1964 and its plan de conservation has still not
+  been produced. The Mille carré doré, graded exceptionnelle in the Ville's own 2005 cahier as
+  sectors 24.E.29 and 24.E.30, has no ensemble designation at all: Héritage Montréal states in as
+  many words that it <em>"does not have a designation or specific strategy to protect and promote
+  its heritage over current urban development considerations"</em>. Six blocks of it — the
+  Complexe-de-La-Maison-Alcan — were classed in 2017, and they are the exception that shows the
+  rule. This is also the one place on the site whose arrondissement number is contradicted by two
+  Ville de Montréal documents at once: the 2005 cahier prints 24 beside every sector name, the 2016
+  Plan d'urbanisme calls the same territory 25, and 25 in the 2005 series is Le Plateau-Mont-Royal.

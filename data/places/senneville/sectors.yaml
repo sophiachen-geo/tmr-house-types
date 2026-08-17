@@ -1,0 +1,223 @@
+# Senneville has no évaluation cahier of its own. Between 2002 and 2006 it was half of the
+# arrondissement de Pierrefonds-Senneville, and the 2005 volume for that arrondissement
+# (ISBN 2-7647-0445-3) is the only sector characterisation of the territory that exists. Its code
+# grammar is the series' own — first number = arrondissement, letter = grade, second number =
+# sector — and every code it prints begins 2, while the file is served as 18. That is the widest
+# code-versus-filename gap in the series so far.
+#
+# The cahier's seven exceptional sectors and four urban ensembles cover both former municipalities.
+# Only those inside the former Village de Senneville are encoded here: 2.E.4 to 2.E.7, and 2.U.3
+# and 2.U.4. The Pierrefonds sectors (2.E.1 Institutionnel en rive, 2.E.2 Bois-de-Liesse, 2.E.3
+# Gouin Ouest, 2.U.1 Cloverdale, 2.U.2 Belvédère) belong to a place this site does not yet hold.
+# The archaeological overlay 2.AP.1 / 2.A.1 « Zone côtière » covers the whole shoreline of both,
+# and is encoded once, here, because its text is almost entirely about Senneville.
+#
+# summary_fr is verbatim from the cahier; summary_en is ours. Source text:
+# sources/west-island/senneville/18_evaluation_patrimoine_pierrefonds-senneville.txt.
+
+# ------------------------------------------- A. Les secteurs de valeur patrimoniale exceptionnelle
+- id: grandes-proprietes-de-senneville
+  code: 2.E.4
+  name_fr: Grandes propriétés de Senneville
+  value: exceptional
+  summary_en: >-
+    From the Transcanadienne to the boundary of the former municipality, between the lac des
+    Deux-Montagnes and the Morgan Arboretum: a heavy concentration of houses which, with the
+    vegetation, the landscape elements and the line of the chemin de Senneville, the cahier calls a
+    picturesque sector of exceptional quality not only in Montréal but in Canada. The sector has
+    kept its original lotting. The owners — Forget, Angus, Morgan, Abbott among others — gave the
+    design of their houses to architects and landscape architects of standing, and the buildings
+    sit mostly on the lake side, far back from the road. Often Arts and Crafts or Shingle Style,
+    the houses assemble clean volumes and large roofs more or less complexly, in cut stone or
+    rubble, brick, wood, stucco and cedar shingle. The great properties generally carry ancillary
+    buildings in the same idiom, set in elaborate grounds. The ruins of the fort and the old mill
+    renovated by Edward Maxwell about 1898 are inside this territory. Postwar and contemporary
+    houses give parts of it a suburban character but continue the tradition of fitting building to
+    landscape.
+  summary_fr: >-
+    « on trouve une grande concentration de résidences du début du XIXe siècle qui, avec la
+    végétation, les éléments de paysage et le tracé du chemin de Senneville en font un secteur
+    pittoresque de qualité exceptionnelle non seulement à Montréal, mais au Canada. […] Le bâti y
+    est pour la plupart implanté du côté du lac et éloigné du chemin. Souvent de style Arts and
+    Crafts ou Shingle Style, les résidences agencent des volumes nets et des toitures importantes de
+    façon plus ou moins complexe avec leurs revêtements de pierre taillée ou de moellons, brique,
+    bois, stuc et toitures en bardeaux de cèdre qui témoignent « … [of a] sophisticated nostalgia
+    for a rustic way of life and for the rural craft industry » (Friedman, 2000). Les grandes
+    propriétés comportent généralement des bâtiments ancillaires (résidence du personnel, chapelle,
+    bâtiments de ferme, pool house, écurie, garage, maison de thé, chambre froide, tour
+    d'observation, etc.), généralement du même style, implantés dans des aménagements raffinés –
+    sentiers sinueux, grands jardins, boisés, étangs, vergers, murets de pierre, portails, maison
+    de gardien – en retrait ou visibles du chemin de Senneville. »
+  streets: [chemin de Senneville]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section A
+  code_eval2005: 2.E.4
+  note: >-
+    The single richest paragraph of five-column evidence anywhere in the West Island sources, and
+    the backbone of the shared domaine-arts-and-crafts record. The designers it names are
+    « Maxwell, Findlay, Hyde, Nobbs, Olmsted, Todd, Rose » — the last of whom appears in no other
+    source consulted for this page and is left as printed. Captioned examples: la maison
+    Louis-Joseph-Forget, dite Le Bois-de-la-Roche; la maison John-Launcelot-Todd; le domaine
+    Boisbriand; le moulin de Senneville; « un pavillon servant d'observatoire ». « résidences du
+    début du XIXe siècle » is the cahier's own wording and is left as printed, although the
+    paragraph then dates the houses to « la fin du XIXe siècle et du début du XXe siècle », which
+    is what the federal record and the buildings both say.
+
+- id: phillips
+  code: 2.E.5
+  name_fr: Phillips
+  value: exceptional
+  summary_en: >-
+    A small sector of the houses on avenue Phillips and at its junction with the chemin de
+    Senneville. A few buildings date from the first half of the twentieth century and are said to
+    have been built for the staff serving the owners of the village's great estates. Several houses
+    were built after 1950 and a few before 1900. They stand on small, well-planted lots set close
+    to the street. The modest buildings generally have two storeys, under a flat or two-slope roof
+    covering a plain carré clad in brick, shingle, wood clapboard or vinyl; many carry decorative
+    elements — shingle, columns, porches, brackets — and are painted in bright colours.
+  summary_fr: >-
+    « Les bâtiments modestes ont généralement deux étages, avec un toit plat ou à deux versants
+    couvrant un simple carré recouvert de brique, de bardeau ou de clin de bois ou de vinyle.
+    Plusieurs affichent des éléments décoratifs (bardeau, colonnes, porches, consoles, etc.) et
+    sont peints de couleurs vives (bleu, jaune, mauve, vert, fuchsia, etc.). Il y règne une
+    atmosphère de village. »
+  streets: [avenue Phillips, chemin de Senneville]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section A
+  code_eval2005: 2.E.5
+  note: >-
+    The servants' side of the estate belt, and the only place in Senneville where the cahier
+    records a modest house at all. It is the closest thing the village has to a noyau villageois
+    apart from Crevier — the cahier's archaeology section is explicit that Senneville's rural
+    occupations never produced one, « les résidants utilisant plutôt l'église et les commerces de
+    Sainte-Anne-de-Bellevue ».
+
+- id: village-crevier
+  code: 2.E.6
+  name_fr: Village Crevier
+  value: exceptional
+  summary_en: >-
+    A sector distinguished by its village architecture of the second half of the nineteenth
+    century: modest two-storey buildings under flat or two-slope roofs covering a plain carré clad
+    in shingle, wood clapboard or brick, of the same kind as the Phillips sector. Siting varies,
+    with little setback from the street line, and there is great diversity in the disposition of
+    the volumes. The cahier says a village atmosphere reigns here too.
+  summary_fr: >-
+    « Ce secteur se distingue par son architecture villageoise datant de la deuxième moitié du XIXe
+    siècle. On y retrouve des bâtiments modestes sur deux étages, avec toit plat ou à deux versants
+    couvrant un simple carré revêtu de bardeau, de clin de bois ou de brique, rappelant ceux du
+    secteur Phillips. Les bâtiments ont une implantation variable avec peu de recul de la ligne de
+    rue et présentent une grande diversité dans la disposition des volumes. »
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section A
+  code_eval2005: 2.E.6
+  note: >-
+    The maison Crevier at 108 chemin de Senneville is in the cahier's exceptional-immeubles list.
+    Senneville's own PIIA annexe of 2019 calls the same fabric « les habitations plus modestes de
+    l'ancien village de Senneville (village Crevier) ».
+
+- id: habitations-recentes
+  code: 2.E.7
+  name_fr: Habitations récentes
+  value: exceptional
+  summary_en: >-
+    On both sides of the chemin de Senneville, between the urban ensembles — the postwar
+    subdivision and Senneville Lodge — and the lac des Deux-Montagnes. The cahier reads it as a
+    homogeneous landscape unit made up overwhelmingly of recent construction well fitted to its
+    setting, sited to the line of the chemin de Senneville on a lotting inherited from the
+    seigneurial regime.
+  summary_fr: >-
+    « Le secteur constitue une unité de paysage homogène. Il regroupe très majoritairement des
+    constructions récentes bien intégrées à leur environnement et dont l'implantation s'ajuste au
+    tracé du chemin de Senneville, sur un lotissement hérité du régime seigneurial. »
+  streets: [chemin de Senneville]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section A
+  code_eval2005: 2.E.7
+  note: >-
+    A sector of exceptional value made almost entirely of new houses — the clearest statement
+    anywhere in the Évaluation series that what is being graded is a landscape and a land division,
+    not a stock of old buildings.
+
+# ------------------------------------------------------------- B. Les ensembles urbains d'intérêt
+- id: senneville-lodge
+  code: 2.U.3
+  name_fr: Senneville Lodge
+  value: urban-ensemble
+  summary_en: >-
+    Near the golf course and the veterans' hospital at Sainte-Anne-de-Bellevue, built in 1945, this
+    sector given over to the convalescence of servicemen holds several buildings of poor quality,
+    by 2005 abandoned and in bad condition. The cahier nonetheless finds an interest in its
+    planning and its functioning, and a socio-historical interest.
+  summary_fr: >-
+    « ce secteur voué à la convalescence des militaires regroupe plusieurs bâtiments de piètre
+    qualité, aujourd'hui abandonnés et en mauvais état de conservation. Cet ensemble présente
+    toutefois un intérêt en regard de sa planification et de son fonctionnement ainsi qu'un intérêt
+    socio-historique. »
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section B
+  code_eval2005: 2.U.3
+  note: >-
+    The one Senneville sector whose interest the cahier locates outside architecture entirely. The
+    date 1945 in the cahier's sentence attaches to the Sainte-Anne-de-Bellevue veterans' hospital,
+    not to the Lodge buildings, which are undated in the source.
+
+- id: developpement-domiciliaire-apres-guerre
+  code: 2.U.4
+  name_fr: Développement domiciliaire de l'après-guerre
+  value: urban-ensemble
+  summary_en: >-
+    A large sector of nearly two hundred houses developed from the first half of the twentieth
+    century, whose orthogonal street grid contrasts sharply with the organic development of the
+    rest of Senneville. The cahier calls it extremely homogeneous in the way a quality architecture
+    is fitted to the landscaping, the width of the streets without sidewalks and with ditches, and
+    the mature vegetation. The houses are well proportioned on their lots and set well back from
+    the street line; property limits are usually marked by low walls, fences and planting, and the
+    landscaping absorbs garages, patios and utility buildings. The architectural interest of the
+    houses varies, but they very often take up elements of composition from the great properties
+    and from the rural architecture of the former municipality.
+  summary_fr: >-
+    « L'intérêt architectural des maisons est variable, mais reprend très souvent des éléments de
+    composition des grandes propriétés et de l'architecture rurale de l'ancienne municipalité de
+    Senneville : murs de pierre, formes des toits, bâtiments ancillaires et aménagements
+    paysagers. »
+  streets: [avenue Pacific, avenue Tunstall, avenue Elmwood]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section B
+  code_eval2005: 2.U.4
+  note: >-
+    The evidence that the postwar bungalow in Senneville is not a generic product: the cahier says
+    outright that these houses borrow stone walls, roof forms, ancillary buildings and landscaping
+    from the estates on the other side of the chemin. Captioned examples: 32 avenue Pacific,
+    23 avenue Tunstall. The cahier elsewhere calls this the « secteur des vétérans ».
+
+# ------------------------------------------------------------ 3.2.3 Le patrimoine archéologique
+- id: zone-cotiere
+  code: 2.AP.1
+  name_fr: Zone côtière
+  value: archaeological-potential
+  summary_en: >-
+    The edge of the island — banks, the line of the perimeter road and the land beside it. The
+    cahier's text for this sector is mostly a history of the fief: conceded in 1672 to
+    Michel-Sidrac Dugué, sieur de Boisbriand; sold to Jacques LeBer in 1679 with no mention of
+    buildings; Charles LeMoyne cedes his share in 1683; LeBer, with the Sulpicians' permission,
+    raises a fortified wooden mill in 1686, burned in a raid in 1691 and rebuilt in stone under a
+    construction contract of 1700; three years later he builds the stone fort of a house, four
+    corner bastions and a walled court — Fort Senneville, archaeological site BiFl-002, on the
+    riverside terrace of the present pointe Abbott at 168 chemin de Senneville, with the flour mill
+    on a promontory just east of it at 176.
+  summary_fr: >-
+    « Mis à part le fort et le moulin, le territoire de Senneville a abrité de nombreuses
+    occupations rurales à partir du XVIIe siècle et jusqu'au XXe siècle, sans toutefois donner
+    naissance à un noyau villageois, les résidants utilisant plutôt l'église et les commerces de
+    Sainte-Anne-de-Bellevue. La plupart des terres sont bordées en façade par le cours d'eau, mais
+    les résidences rurales et les dépendances se trouvent fréquemment en bordure du chemin de
+    Senneville. Au cours de la seconde moitié du XIXe siècle, le chemin de fer est prolongé jusque
+    dans l'ouest de l'île, ce qui amène la bourgeoisie anglophone montréalaise à construire des
+    villas en milieu agricole. Certains optent toutefois pour l'acquisition de fermes tout en
+    laissant l'exploitation des terres à des agriculteurs. »
+  streets: [chemin de Senneville]
+  source: Ville de Montréal, Évaluation du patrimoine urbain — Pierrefonds-Senneville (2005), section 3.2.3 A
+  code_eval2005: 2.AP.1
+  note: >-
+    Coded 2.AP.1 and 2.A.1 in the same heading — the cahier applies both its archaeological grades
+    to the same coastal strip and prints one text for both. This is also where the cahier
+    contradicts itself: the summary of Senneville's five development phases dates « les vestiges du
+    fort et du moulin de Senneville » to 1692 and 1700, while this section dates the first wooden
+    mill to 1686, its burning to 1691, the stone mill to a contract of 1700 and the stone fort to
+    three years after that. The RPCQ classement fiche says the fort was « construit en 1702 et
+    1703 ». The statutory record and this section agree; the phase summary's 1692 is not used.

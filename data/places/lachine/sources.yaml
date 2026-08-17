@@ -1,0 +1,135 @@
+- id: lac-evaluation-2005
+  citation: >-
+    Ville de Montréal, Service de la mise en valeur du territoire et du patrimoine, Direction du
+    développement urbain, Division du patrimoine et de la toponymie, « Évaluation du patrimoine
+    urbain : arrondissement de Lachine », 2005, ISBN 2-7647-0462-3, dépôt légal BNQ / BNC 2005.
+    Study directed by Céline Topp; heritage analysis under Jean-François Gravel, chef de division;
+    built-heritage evaluation and historical research by Julie Boivin, Elizabeth Bonner, Anne-Marie
+    Dufour, Guy Lafontaine, Christiane Lefebvre and Pierre-Paul Savignac, architects, with Denise
+    Caron, historian; archaeology by Claire Mousseau with Françoise Duguay, François Bélanger,
+    Anne-Marie Balac and Christian Roy. Fieldwork January 2003 – May 2004, for the Plan d'urbanisme
+    adopted by the conseil municipal on 23 November 2004.
+    http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/09_evaluation_patrimoine_lac.pdf
+    — retrieved 17 August 2026; sha-256
+    ee6a9ac6f7e768c09eddbff8ef80f3af4dd5d92db8d0eb0e7849de81067a2f51; 66 PDF pages carrying printed
+    pagination to 66. Parsed with pdftotext -layout to
+    sources/west-island/lachine/09_evaluation_patrimoine_lac.txt.
+  url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/09_evaluation_patrimoine_lac.pdf
+  used_for: >-
+    Everything typological and every sector row. The nineteen sectors of sectors.yaml from § 3.2.2 and
+    § 3.2.3; the four type records from the typological sentences inside 19.I.1, 19.I.2, 19.I.6,
+    19.I.8 and 19.U.2; the phase anchors from § 2 Historique; the exceptional and interesting
+    immeubles lists from § 3.2.2 E and F; and the borough's évaluation code, 19 in the text against 09
+    in the filename.
+
+- id: lac-rpcq-93274
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Site patrimonial Le Ber-Le Moyne », id 93274
+    (other names on the fiche: Musée de Lachine; Site historique et archéologique Le Ber-Le Moyne).
+    Source of the statement of value: Ministère de la Culture et des Communications du Québec, 2015.
+    https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93274 —
+    retrieved 17 August 2026; sha-256
+    1fb9cecb66699082f2c26fa09b46fbbdcbc05bf6583d0bd15cd6dcb9059c962c.
+  url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93274
+  used_for: >-
+    The classement (Site patrimonial, Ministre de la Culture et des Communications, 2001-04-26) with
+    its conservation categories 1, 9 and 10 and the sentence fixing the reach of the protection; the
+    transfer of powers to the Ville de Montréal registered 2017-09-21 and effective 2018-09-21; the
+    federal designation of 2002-11-01; the building campaign of 1669–1671 and the whole occupation
+    sequence from La Salle's arrière-fief of 1667 to the 1946 municipal purchase; the 1981–1985
+    restoration; the archaeological finding that no trace of fire has been found, which weakens the
+    old assumption that the house burned in the 1689 attack; and the five-column evidence this place
+    contributes to the shared type maison-de-pierre-regime-francais.
+
+- id: lac-pc-nhs-627
+  citation: >-
+    Parks Canada, Directory of Federal Heritage Designations, « Lieu historique national du Canada du
+    Canal-de-Lachine », id 627, French and English records.
+    https://www.pc.gc.ca/apps/dfhd/page_nhs_fra.aspx?id=627 and .../page_nhs_eng.aspx?id=627 —
+    retrieved 17 August 2026; sha-256 (fra)
+    e8d3c92a9293c93f7fffd64adf28b559b91a626e9c6e08f72601030784a246cb, (eng)
+    a26cad43d1ef73e94c8ddf877f9f145c0426d392a841ec228bcde65b11ab9c9e.
+  url: https://www.pc.gc.ca/apps/dfhd/page_nhs_fra.aspx?id=627
+  used_for: >-
+    The designation date 1929-05-17; the construction dates field, 1821 to 1825, and the significant
+    period 1821 to 1978; the 14-kilometre length and the five kilometres of rapids bypassed; the
+    address of record; and — as recorded in the notes — the three different opening statements and the
+    1971 closing date the record carries, which its own publisher's current pages contradict.
+
+- id: lac-pc-canal-pages
+  citation: >-
+    Parcs Canada, lieu historique national du Canal-de-Lachine, current website: the visitor page
+    (« Sa voie navigable s'étend sur 14,5 km et est accessible via l'écluse no 1 au Vieux-Port de
+    Montréal et l'écluse no 5 dans l'arrondissement Lachine »), the navigation page (« Avec ses 14
+    kilomètres de voie navigable et ses 5 écluses »), the bicentenary blog posts (« En 2025, Parcs
+    Canada célèbre le bicentenaire de l'ouverture du canal de Lachine »; « Les travaux débutent en
+    1821. Le canal est achevé en 1825 »; the canal closed in 1970 and reopened to pleasure craft in
+    2002), and the Parks Canada news release of 24 May 2022 marking the 20th anniversary of the
+    reopening (« Le 17 mai 2002, plusieurs dignitaires s'étaient rassemblés à l'écluse no 5 »).
+  url: https://parcs.canada.ca/lhn-nhs/qc/canallachine
+  used_for: >-
+    The 1970 closing date, the 2002 reopening to pleasure craft with its exact date of 17 May 2002,
+    and the 2025 bicentenary. Read through the live pages rather than downloaded; three different
+    lengths — 13,5 km for the multi-use trail, 14 km for the navigable channel on one page, 14,5 km on
+    another — are recorded in the notes rather than reconciled.
+
+- id: lac-ca-odj-2025
+  citation: >-
+    Ville de Montréal, arrondissement de Lachine, ordre du jour de la séance ordinaire du conseil
+    d'arrondissement du 1er octobre 2025, items 40.01, 40.02 and 10.06.
+    https://ville.montreal.qc.ca/documents/Adi_Public/CA_Lac/CA_Lac_ODJ_LPP_ORDI_2025-10-01_19h00_FR.pdf
+    — retrieved 17 August 2026; sha-256
+    20b412def89a05c84cd5d65dff7a38c077d3bd864a3d6309bf7f53e6ca5c2185.
+  used_for: >-
+    The two current urbanism instruments and their replacements: Règlement numéro 2710 sur le zonage,
+    to be replaced by RCA25-19005; Règlement numéro 2561 sur les plans d'implantation et d'intégration
+    architecturale, to be replaced by RCA25-19006, which extends the PIIA to the whole borough
+    territory; and the public consultation assembly of 23 September 2025. The by-law texts themselves
+    were NOT retrieved, so no article number is asserted anywhere on this page.
+
+- id: lac-commons
+  citation: >-
+    Wikimedia Commons. Licence, author, description and file URL were read individually through the
+    Commons API (action=query&prop=imageinfo&iiprop=url|extmetadata) on 17 August 2026 before any
+    download, and every downloaded file was opened and looked at before publication. Two sources are
+    used: photographs uploaded from the Flickr account « Parcours riverain - Ville de Montréal », all
+    CC BY 2.0, individually credited to their photographer because the set has more than one — Anne-
+    Marie Dufour and Denis Tremblay both appear; and photographs by Simon Geissbuehler, CC BY-SA 4.0.
+  url: https://commons.wikimedia.org/wiki/Category:Lachine
+  used_for: >-
+    Every photograph on this page. Also the four files staged in assets/places/lachine/ for the shared
+    West Island type records rather than used here: le-ber-le-moyne-maison-commons.jpg and
+    le-ber-le-moyne-dependance-commons.jpg (Simon Geissbuehler, CC BY-SA 4.0),
+    maison-quesnel-5010-boulevard-saint-joseph-commons.jpg (Denis Tremblay, CC BY 2.0) and
+    maison-jean-gabriel-picard-5430-boulevard-saint-joseph-commons.jpg (Anne-Marie Dufour, CC BY 2.0).
+    One candidate was rejected on inspection: « Maison Emma-Jane-Sandilands, 4650-4666, rue
+    Richard-Hewton » is a real photograph of a real address on the cahier's exceptional list, but the
+    frame is dominated by a late-20th-century condominium extension, and publishing it as the
+    Bickerdike mansion would misrepresent what survives.
+
+- id: lac-flickr-parcours-riverain
+  citation: >-
+    Flickr, « Parcours riverain - Ville de Montréal » (flickr.com/photos/parcoursriverain). Licence
+    checked directly against the page source on 17 August 2026: the photo pages carry
+    license-id 4 with a link to creativecommons.org/licenses/by/2.0/, title "CC BY 2.0", and the
+    visible text "Some rights reserved". The set is therefore free for reuse with attribution. Note
+    that the photographs are not all by one person: the credit line inside each description names
+    either Anne-Marie Dufour or Denis Tremblay, and Flickr licences are per-photo, so each was
+    verified individually.
+  url: https://www.flickr.com/photos/parcoursriverain/
+  used_for: >-
+    Licence provenance for the Commons re-uploads used on this page. No file was taken from Flickr
+    directly; the Commons copies carry the same CC BY 2.0 licence and a stable file page.
+
+- id: lac-rpcq-not-fetched
+  citation: >-
+    RPCQ records for the individual Lachine buildings named in the cahier's exceptional-immeubles list
+    — maison Quesnel (5010 boulevard Saint-Joseph), maison Jean-Gabriel-Picard (5430), maison Martin
+    dit Ladouceur (5510), maison Joseph-Picard (5550), maison Dawes (238, 34e Avenue), maison
+    Thomas-Amos-Dawes (2901 boulevard Saint-Joseph), Heney's Inn (893-899) and the presbytère de la
+    paroisse St. Stephen (31-35 chemin de LaSalle).
+  url: null
+  used_for: >-
+    NOT retrieved in this pass. Every statement made about these buildings on this page comes from the
+    2005 cahier, and no construction date, architect or protection status is asserted for any of them
+    beyond what the cahier prints. Recorded so a later pass can verify them one by one.

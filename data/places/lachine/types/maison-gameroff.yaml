@@ -1,0 +1,96 @@
+id: lachine.maison-gameroff
+place: lachine
+phase: p4
+phase_confidence: verified
+name_en: The maison « Gameroff » — contractor-built house of the 1950s–1970s quarters
+name_fr: La maison « Gameroff »
+source_ref: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), sector 19.U.2"
+source_generation: >-
+  Sector characterisation. The description of the Victoria – Sir-George-Simpson ensemble, transcribed
+  in full; the caption of its illustrated example supplies the one address.
+sectors: ["19.U.2"]
+canonical:
+  - postwar-2st-box-low-hip
+styles: []
+tenure_plan: single-family
+storeys: "1–2"
+roof: {form: hipped-or-pyramidal, pitch_deg: null}
+window_proportion: null
+principal_cladding:
+  - brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Detached, set back from the street, with side yards and a parking space in the front yard.
+    - Built in small series rather than one at a time.
+    - "The quality of the public and private landscaping across the sector is called remarkable; two modern schools sit in wide green enclaves within it."
+  massing:
+    - One or two storeys.
+    - Square or rectangular plan, simple massing.
+    - "Roof forms vary: pitched, hipped, or a hipped-and-false-mansard combination."
+  articulation:
+    - Decorative elements in wood on a brick wall, and nothing else the cahier records.
+    - "Practically every building in the sector has been modified and personalised: raised, built out to the lot line, given extra storeys or a garage, re-clad, re-fenestrated, re-roofed. The cahier says the further east one goes the more the standard models have been altered."
+  openings:
+    - "The cahier states nothing about the openings, except that they are among the things later owners changed."
+  materials:
+    - Brick cladding with wooden decorative elements.
+profile_fr:
+  description:
+    - "Ce vaste secteur est très homogène et regroupe une grande variété d'habitations unifamiliales détachées d'un ou deux étages construites en petites séries, implantées avec marges de recul sur les côtés et en retrait de la rue, et possédant un espace de stationnement en cour avant."
+    - "Elles ont le plus souvent un plan carré ou rectangulaire, une volumétrie simple, un revêtement de brique avec éléments de décor en bois et des formes de toit variables (en pente, pavillon, ou combinaison pavillon fausse mansarde). Ces habitations sont issues de l'urbanisation massive des années 1950-1970."
+    - "Le « catalogue » des typologies implantées sur ce territoire est particulièrement impressionnant. On y trouve des maisons boom-town, des bungalows et une variété de maisons construites par des entrepreneurs, dont le plus connu localement a laissé au type architectural dominant son appellation familière de maison « Gameroff »."
+profile_note: >-
+  Everything above is transcribed from one sector description. The cahier gives the plan, the massing,
+  the storeys, the siting, the cladding, the ornament and the roof-form range, and gives nothing else:
+  no dimensions, no window proportion, no roof pitch, no garage rule, no dates for individual houses
+  beyond the 1950–1970 range for the wave that produced them. It also gives nothing at all about the
+  contractor — no first name, no firm, no number of houses built, no years — so none of that is
+  asserted here. The type carries no style attribution because the cahier makes none and because the
+  form is defined by a builder rather than by an idiom.
+example_addresses:
+  - address: "3, 40e Avenue"
+    note: "the cahier's captioned example — « Une maison « Gameroff » typique au 3, 40e avenue »"
+  - address: "9, 46e Avenue"
+    note: "captioned in the same sector, unattributed to a type"
+  - address: "51e Avenue at rue Sherbrooke"
+    note: "an alignment of California-inspired bungalows the cahier singles out as particularly well preserved — a neighbouring form in the same sector, not this type"
+photos:
+  - file: null
+    credit: >-
+      Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Lachine (2005), p. 40:
+      « 19.U.2 Une maison « Gameroff » typique au 3, 40e avenue ». The cahier's own photograph of the
+      type, and the only identified image of it. © Ville de Montréal. Not reproduced — permission
+      required.
+    kind: placeholder
+    licence: permission required
+    source_url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/09_evaluation_patrimoine_lac.pdf
+    match_confidence: source
+    match_note: >-
+      No free photograph of a Lachine postwar house was found on Wikimedia Commons. Searches of the
+      Lachine categories and of the terms Sir-George-Simpson, Victoria, 40e Avenue and bungalow
+      returned nothing usable, and the one Commons file titled for a street in this sector proved to
+      be of modern apartment blocks. The cell is left as a placeholder rather than filled with a
+      lookalike from another suburb.
+blurb_en: >-
+  A detached one- or two-storey house on a square or rectangular plan, simple in massing, clad in
+  brick with wooden trim, under a roof that might be pitched, hipped, or hipped with a false mansard;
+  set back from the street with side yards and a car parked in front, and built in small series. What
+  makes it worth a card is its name. The cahier records that among the contractors who built the
+  1950s–1970s quarters of Lachine, the best known locally gave the dominant house type its familiar
+  name — the maison « Gameroff » — and that is a piece of purely local vernacular naming that made it
+  into a municipal heritage document.
+origin_en: >-
+  Lachine answered the postwar boom the way other towns did, by turning its unbuilt sectors into
+  dormitory quarters, and the sector called Victoria – Sir-George-Simpson is what came out: a vast,
+  very homogeneous stretch of detached houses that the cahier says testify to the emergence of a
+  middle class, to individual ownership, and to a way of living made possible by the car. It also says
+  the catalogue of types deployed there is "particulièrement impressionnant" and lists three at once —
+  Boomtown houses, bungalows, and the contractors' houses of which the Gameroff is the dominant one.
+  That is the note this record should end on: a document written to identify heritage found a
+  1950s–1970s tract worth naming as an ensemble, and named its houses after the man who built them.

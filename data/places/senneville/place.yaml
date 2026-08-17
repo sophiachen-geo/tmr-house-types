@@ -1,0 +1,141 @@
+id: senneville
+name_en: Senneville
+name_fr: Village de Senneville
+sections: [rural-seigneurial]
+region: Agglomération de Montréal (pointe ouest de l'île)
+founded: 1672                     # the fief is conceded to Michel-Sidrac Dugué, sieur de Boisbriand
+settlement_mode: >-
+  a fief conceded in 1672 and lotted in farms fronting the lac des Deux-Montagnes, never gathered
+  into a village core — the residents used the church and shops of Sainte-Anne-de-Bellevue — and
+  then, from the 1890s, bought up estate by estate by Montréal financiers who built country houses
+  set far back from the chemin de Senneville behind their own woods
+# Senneville had no évaluation cahier of its own: between 2002 and 2006 it was part of the
+# arrondissement de Pierrefonds-Senneville, whose 2005 volume prints the code 2 throughout and is
+# filed as 18 — the "code is not the filename" pattern again, and with a bigger gap than usual.
+evaluation_codes: {code_2005: 2, code_2016: null, file_prefix: "18"}
+governing_instruments:
+  - kind: NHS
+    title: >-
+      Senneville Historic District, National Historic Site of Canada / Lieu historique national du
+      Canada de l'Arrondissement-Historique-de-Senneville (Parks Canada Directory of Federal
+      Heritage Designations, id 1973; Canadian Register of Historic Places id 4442). The record's
+      own heritage-value text opens "Senneville Historic District was designated a national
+      historic site of Canada in 2001 because:" and closes "Source: Historic Sites and Monuments
+      Board of Canada, Minutes, 2001." The district "comprises more than 1400 acres and includes at
+      least 82 buildings constructed between 1860 and 1930 as part of about a dozen country
+      estates". A federal designation carries no permit power over private land; it names and
+      records, it does not control.
+    year: 2001
+    url: https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=4442
+  - kind: classement
+    title: >-
+      Site patrimonial du Fort-Senneville, RPCQ id 93454 — "Classement, Site patrimonial, Ministre
+      de la Culture et des Communications, 2003-11-20", conservation categories 7 (Terrain
+      exceptionnel) and 10 (Bien classé pour son intérêt archéologique). « Le site patrimonial du
+      Fort-Senneville est le vestige d'un ancien poste de traite fortifié construit en 1702 et 1703.
+      Le site comprend les ruines du fort toujours debout et un terrain en partie boisé d'environ
+      8000 mètres carrés. » Inscribed on the Inventaire des sites archéologiques du Québec as
+      BiFl-002; privately owned and not open to visitors. This is the only element in Senneville
+      carrying a statut under the Loi sur le patrimoine culturel, and it covers 0.8 ha out of the
+      district's 1,400 acres.
+    year: 2003
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93454&type=bien
+  - kind: evaluation-cahier
+    title: >-
+      Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Pierrefonds-Senneville
+      (2005, ISBN 2-7647-0445-3). Of the seven secteurs de valeur patrimoniale exceptionnelle it
+      designates, four lie in the former municipality of Senneville (2.E.4 to 2.E.7), as do two of
+      its four ensembles urbains d'intérêt (2.U.3, 2.U.4). It says of the territory as a whole:
+      « La quasi-totalité du territoire de cette ancienne municipalité qui se déploie le long du
+      chemin de Senneville et à proximité du lac des Deux-Montagnes présente un intérêt patrimonial
+      exceptionnel. » It is a characterisation study, not a protective instrument, and it is the
+      source of every sector row below and of most of the type evidence.
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/18_evaluation_patrimoine_pier.pdf
+  - kind: heritage-statement
+    title: >-
+      Ville de Montréal, « Énoncé de l'intérêt patrimonial du site du Bois-de-la-Roche, Senneville »,
+      13 February 2018 — a statement of heritage interest over the Ville-owned parc agricole du
+      Bois-de-la-Roche and its associated ground (pointe Forget, rue Phillips, pointe Boyer, maison
+      Joseph-Lalonde, pont de l'Anse à l'Orme). Eight values are set out with their éléments
+      caractéristiques: historique, paysagère, écologique, architecturale, d'usage, de
+      commémoration, documentaire, éducative and sociale. Its own list of designations bearing on
+      the site names the zone agricole permanente, the federal NHS, the CMM's Plan métropolitain
+      (« ensembles patrimoniaux de portée métropolitaine »), the agglomeration Schéma
+      d'aménagement — which assigns the park « secteur de valeur patrimoniale exceptionnelle,
+      secteur d'intérêt archéologique à fort potentiel, milieu naturel protégé » and identifies the
+      chemin de Senneville as a « tracé fondateur et route du parcours riverain » — and the
+      village's own Plan d'urbanisme and PIIA. An énoncé is not a statut: nothing here is classed
+      or cited.
+    year: 2018
+    url: https://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/%C9NONC%C9%20BDLR%20FINAL.PDF
+  - kind: PIIA
+    title: >-
+      Village de Senneville, Règlement sur les plans d'implantation et d'intégration architecturale
+      (PIIA) no. 452. The 2018 énoncé states its reach in one line: « Le Règlement sur les PIIA qui
+      en découle reconnaît l'intérêt patrimonial de plusieurs des bâtiments d'intérêt du site ainsi
+      que des murets de pierre. » Annexe 4, the « Guide des principes architecturaux » of
+      25 February 2019 by BTA Ecosystem (annexed by amending by-law 452-5), is the only document
+      any level of government has published that describes Senneville's house architecture as a
+      set of types; it is written for one new subdivision, Senneville-sur-le-Parc, but its
+      historical section characterises the whole village. The full consolidated by-law text was not
+      retrieved — only Annexe 4 — so the article numbers are unverified.
+    year: 2019
+    url: https://www.senneville.ca/wp-content/uploads/2023/01/Reglement-452-5-Annexe-4-PIIA-2019-02-18.pdf
+typology_document:
+  title: >-
+    Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Pierrefonds-Senneville
+    (2005), sector 2.E.4 « Grandes propriétés de Senneville »; with Parks Canada / Canadian
+    Register of Historic Places id 4442 (character-defining elements) and Annexe 4 of Senneville's
+    PIIA no. 452 (2019)
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    None of the three sources publishes a per-type table. The cahier characterises sectors; the
+    federal record lists character-defining elements of a district; the PIIA annexe names six
+    architectural "influences" without measuring any of them. Every column below that the sources
+    do not state is null with a profile_note, and no dimension has been carried over from a
+    comparable place. The setback figures printed in Annexe 4 (4 m front, 3 m side, 8–10 m
+    recommended) belong to the new Senneville-sur-le-Parc subdivision and are NOT the historic
+    estates' setbacks; they are not used.
+map_layer: null
+building_counts:
+  nhs_buildings_1860_1930: 82
+  nhs_acres: 1400
+  surviving_maxwell_buildings: 20
+  major_projects: 30
+  country_estates: 12
+  classed_under_lpc: 1
+  note: >-
+    Six figures, six scopes, and only the last is a protection. 82 is the federal record's "at
+    least 82 buildings constructed between 1860 and 1930"; 1,400 the acreage of the designated
+    district ("more than 1400 acres"); 20 the surviving Maxwell buildings, which "constitute a
+    unique example in a single location of their work"; 30 the "more than 30 major projects
+    designed by a small group of eminent Montréal architects"; 12 the "about a dozen country
+    estates". 1 is the number of Senneville elements carrying a statut under the Loi sur le
+    patrimoine culturel — the Fort-Senneville ruins, about 8,000 m². The Ville de Montréal cahier
+    counts differently again: twenty-five addresses on the chemin de Senneville in its list of
+    immeubles de valeur patrimoniale exceptionnelle, sixteen of them carrying a proper house name.
+hero_photo:
+  file: assets/places/senneville/180-chemin-de-senneville-todd-estate-commons.jpg
+  credit: >-
+    The J.L. Todd estate, 180 chemin de Senneville, seen from the road through its fieldstone gate
+    piers in a snowstorm — the house and its grounds designed 1911–13 by Percy Erskine Nobbs and
+    George Taylor Hyde. It is the exact condition Parks Canada lists as a character-defining
+    element of the district: "the siting and landscaping of most residences, which prevents a view
+    to the buildings from chemin Senneville." Photograph © Thomas1313, Wikimedia Commons, 20
+    December 2013, CC BY-SA 3.0. Licence https://creativecommons.org/licenses/by-sa/3.0.
+    File: https://commons.wikimedia.org/wiki/File:180_Senneville_Road,_Senneville_01.jpg
+summary_en: >-
+  A fief conceded in 1672, a fur-trade fort and mill on the point by 1703, farms fronting the lac
+  des Deux-Montagnes for two centuries — and then, when the railway reached the west of the island,
+  the richest single concentration of country-estate architecture in Canada. Between about 1865 and
+  1930 a dozen Montréal financiers — Abbott, Clouston, Forget, Angus, Morgan, Todd — bought the
+  farms and commissioned Edward and William Sutherland Maxwell, Nobbs and Hyde, Robert Findlay and
+  others to build manor houses, lodges, stables, dairies, chapels and tea houses on picturesque
+  grounds laid out by Frederick G. Todd working with Frederick Law Olmsted. Twenty Maxwell buildings
+  survive. The village was created in 1895 with Louis-Joseph Forget as its first mayor, merged into
+  Montréal in 2002 and reconstituted in 2006. Parks Canada designated the whole 1,400-acre belt a
+  National Historic Site in 2001; Québec has classed only the fort ruins, 0.8 hectares of it. From
+  the road you can see almost none of it, and that invisibility is itself on the federal list of
+  what makes the place what it is.

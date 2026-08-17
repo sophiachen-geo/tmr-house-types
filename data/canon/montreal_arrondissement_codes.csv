@@ -1,10 +1,16 @@
 file_prefix,code_2005,code_2016,code_2016_basis,arrondissement,cahier_url
+03,4,,not checked against the 2016 map,Beaconsfield–Baie-D’Urfé,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/03_evaluation_patrimoine_bbu.pdf
+07,7,,"not checked against the 2016 map; file prefix and code agree, the only case in the series",Dorval–L’Île-Dorval,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/07_evaluation_patrimoine_dorval.pdf
+09,19,,not checked against the 2016 map; code 19 collides with Pointe-Claire’s file prefix 19,Lachine,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/09_evaluation_patrimoine_lachine.pdf
 12,22,,not checked against the 2016 map,Le Sud-Ouest,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
+13,1,,not checked against the 2016 map,L’Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/13_evaluation_patrimoine_lile.pdf
 14,27,,not checked against the 2016 map,Mercier–Hochelaga-Maisonneuve,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/14_evaluation_patrimoine_mercier.pdf
 17,16,,not checked against the 2016 map,Outremont,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/17_evaluation_patrimoine_out.pdf
+18,2,,not checked against the 2016 map; widest file-vs-code gap in the series (18 vs 2),Pierrefonds–Senneville,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/18_evaluation_patrimoine_pier.pdf
+19,5,,not checked against the 2016 map; this file prefix 19 is also Lachine’s code,Pointe-Claire,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/19_evaluation_patrimoine_pcl.pdf
 21,26,,not checked against the 2016 map,Rosemont–La Petite-Patrie,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
 22,8,,not checked against the 2016 map,Saint-Laurent,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/22_evaluation_patrimoine_stla.pdf
 24,21,,not checked against the 2016 map,Verdun,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
-25,24,25,2016 Plan d'urbanisme patrimoine map — VERIFY,Ville-Marie,http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/25_EVALUATION_PATRIMOINE_VILLE-MARIE.PDF
+25,24,25,"verified: 2016 Plan d'urbanisme sheet 200224_PATRIMOINE_25.PDF heads its list « 25 Arrondissement de Ville-Marie ». That map prints no sector codes at all, so it is a document/chapter number, not a sector prefix — and 25 in the 2005 sector series is Le Plateau-Mont-Royal (file 11, 25.E.1–15)",Ville-Marie,http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/25_EVALUATION_PATRIMOINE_VILLE-MARIE.PDF
 26,14,,not checked against the 2016 map,Villeray–Saint-Michel–Parc-Extension,https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/26_evaluation_patrimoine_villeray.pdf
 27,23,,not checked against the 2016 map,Westmount,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/27_evaluation_patrimoine_wes.pdf

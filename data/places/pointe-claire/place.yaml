@@ -1,0 +1,144 @@
+id: pointe-claire
+name_en: Pointe-Claire
+name_fr: Ville de Pointe-Claire
+sections: [historic-core]
+region: Agglomération de Montréal (West Island)
+founded: 1698                    # the Sulpicians reserve the point for a windmill; parish erected 1698
+settlement_mode: >-
+  Sulpician parish core on a point in Lac Saint-Louis — mill, church, presbytery, convent and village
+  school on 2.7 hectares of ground — with the village itself set back from it along the chemin du
+  Bord-du-Lac, and behind that a chain of garden-suburb subdivisions laid out parallel to the shore
+  road from 1893; merged into Montréal 2002, reconstituted as a city 1 January 2006
+evaluation_codes: {code_2005: 5, code_2016: null, file_prefix: 19}
+governing_instruments:
+  - kind: citation
+    title: >-
+      Site patrimonial de la pointe Claire (other name on the RPCQ fiche: Site patrimonial du noyau
+      institutionnel de Pointe-Claire), RPCQ id 196303. Cited by the municipality itself under
+      by-law <strong>PC-2808</strong>, « Règlement sur la citation du noyau institutionnel de
+      Pointe-Claire comme site patrimonial », adopted by resolution 2013-123 at the ordinary sitting
+      of the council on Tuesday 2 April 2013 at 19h30, signed by mayor Bill McMurchie and greffier
+      Jean-Denis Jacob. The by-law's own cover carries « En vigueur le 12 décembre 2012 / Publication
+      le 10 avril 2013 »; the RPCQ statut block gives Citation, Site patrimonial, Municipalité
+      (Pointe-Claire), 2013-04-02, over a statut antérieur « Avis de motion de citation, 2012-12-03 ».
+      About 2.7 hectares, an irregular polygon including a presqu'île joined by a neck of land. The
+      RPCQ states the reach in one line: « La protection s'applique aux terrains ainsi qu'à
+      l'enveloppe extérieure des constructions qui s'y élèvent. »
+    year: 2013
+    url: https://www.pointe-claire.ca/affaires-juridiques/reglements-municipaux/reglement-sur-la-citation-du-noyau-institutionnel-de-pointe-claire-comme-site-patrimonial
+  - kind: classement
+    title: >-
+      Moulin à vent de Pointe-Claire, RPCQ id 93473 — « Classement, Immeuble patrimonial, Ministre de
+      la Culture et des Communications, 1983-03-21 », conservation categories 2 (Extérieur supérieur)
+      and 5 (Intérieur supérieur); « La protection s'applique à l'extérieur et à l'intérieur de
+      l'immeuble, et pas au terrain. » Built for the Sulpicians, seigneurs of the island since 1663,
+      on land they reserved in 1698; a moulin banal and, loopholed, a redoubt. The mill also carries a
+      second status inside the cited site: « Citation, Situé dans un site patrimonial, Municipalité
+      (Pointe-Claire), 2013-04-02 ».
+    year: 1983
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93473
+  - kind: classement
+    title: >-
+      Maison Hyacinthe-Jamme-Dit-Carrière, 152 avenue de Concord Crescent, RPCQ id 92796 — «
+      Classement, Immeuble patrimonial, Ministre de la Culture et des Communications, 1964-08-12 »,
+      conservation categories 2, 5 and 9 (Terrain notable); « Le classement s'applique à l'extérieur
+      et à l'intérieur de l'immeuble patrimonial, ainsi qu'au terrain. » A former farmhouse of French
+      inspiration built between 1769 and 1791 on land conceded in 1722 among the first censives the
+      Sulpicians granted along the côte Saint-Jean; the RPCQ calls it « l'une des rares maisons de
+      ferme datant de la fin du XVIIIe siècle à subsister à l'intérieur des terres de Pointe-Claire ».
+      It stands outside the cited site.
+    year: 1964
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=92796
+  - kind: PIIA
+    title: >-
+      Ville de Pointe-Claire, Règlement PC-2787 sur les plans d'implantation et d'intégration
+      architecturale (codification administrative of 10 December 2024, 81 pp.). Its chapter 13 lists
+      the buildings of heritage interest by civic address — some three hundred of them, from 35-37
+      avenue de la Baie-de-Valois to 60 avenue Waverley — and applies to them whether or not they fall
+      inside a sector on the plan. Chapter 13.2 adds objectives for every property on both sides of
+      the chemin du Bord-du-Lac as a « voie panoramique, emblématique et identitaire », and chapter
+      13.3 requires an archaeologist's assessment before a lotissement permit creating a public
+      right-of-way in a secteur d'intérêt archéologique.
+    year: 2024
+    url: https://www.pointe-claire.ca/assets/images/Documents/pc-2787_piia_codif_2024-12-10.pdf
+  - kind: form-based-code
+    title: >-
+      Ville de Pointe-Claire, Règlement PC-2880, « Code villageois » — a form-based code covering the
+      village sector alone, gathering zoning, lotissement, PIIA and conditional-use provisions into a
+      single document organised by ten unités paysagères. Amended by PC-2880-2 (12 November 2024),
+      PC-2880-3 (8 April 2025) and PC-2880-4 (3 October 2025). Drafted for the City's Service
+      d'urbanisme (Heather Leblanc, dir.; France Giguère; Ahmad Rustom) with AECOM (thematic sheets,
+      Manuel-Lucas Bergeron Duhamel), Bélanger Sauvé (regulatory text, Me Marc-André LeChasseur and
+      Me Sophie Deslauriers) and the heritage consultant Isabelle Bouchard. Its own claim: « À
+      l'adoption du Code villageois, la Ville de Pointe-Claire devient la première municipalité de la
+      province à regrouper l'ensemble des dispositions règlementaires en matière d'urbanisme
+      applicables à un secteur de son territoire dans un seul document élaboré et présenté selon les
+      principes de « form-based planning ». Le Code villageois serait donc une première au Québec! »
+      Its chapter 3, Architecture villageoise, is the only per-type architectural text this place has,
+      and it is the source of both type records below.
+    year: 2025
+    url: https://www.pointe-claire.ca/affaires-juridiques/reglements-municipaux/code-villageois-applicable-au-village-de-pointe-claire
+  - kind: characterisation-study
+    title: >-
+      Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement de Pointe-Claire » (2005,
+      ISBN 2-7647-0448-8) — made in the four years when Pointe-Claire was a borough of Montréal, and
+      still the only survey of the whole municipal territory. It codes the borough 5 and files the PDF
+      as 19, one more instance of the Part 10 finding that the évaluation series' code and filename do
+      not agree. Seven sectors of exceptional value (5.E.1–5.E.7), twelve of interesting value
+      (5.I.1–5.I.12) and three ensembles urbains d'intérêt (5.U.1–5.U.3). It has no statutory force
+      today — Pointe-Claire left the Ville de Montréal in 2006 — but it is a primary source and it is
+      the only document that describes the garden suburbs, the Valois bay resorts and the postwar
+      quarters at all.
+    year: 2005
+    url: http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/19_EVALUATION_PATRIMOINE_POINTE-CLAIRE.PDF
+  - kind: demerger
+    title: >-
+      Reconstituted as a ville on 1 January 2006 after the referendums of 20 June 2004 under Bill 9,
+      having been merged into the Ville de Montréal in 2002. The citation of 2013 is an exercise of
+      the municipal power that reconstitution returned — a power Lachine, five kilometres east, does
+      not have.
+    year: 2006
+    url: null
+typology_document:
+  title: >-
+    Ville de Pointe-Claire, Règlement PC-2880 « Code villageois » (2024–2025), chapitre 03 —
+    Architecture villageoise, and the ten unités paysagères of chapitres 04–13
+  year: 2025
+  format: per-type-narrative
+  note: >-
+    Two documents, and a third record built from the older of them. Chapter 3 of the Code villageois
+    names three architectural styles as the village's own and
+    describes each in a short paragraph: the traditional Québec architecture of the oldest sectors,
+    the Boomtown of the early 20th century, and the Cubique. The first of those three is the shared
+    West Island type record maison de tradition québécoise; the other two are carded here. The ten
+    unités paysagères then each carry a summary table — usages, typology, lot shape, coverage,
+    setbacks, architectural style, storeys, roof, architectural elements, materials and colours — and
+    those tables are transcribed into sectors.yaml. It is a form-based code, so its statements are
+    prescriptions for what should be built as much as descriptions of what is there; where a column
+    below is filled from a unité paysagère table rather than from chapter 3, the profile_note says so.
+    The third type record, the veterans' house, comes from the 2005 Ville de Montréal cahier instead,
+    which is the only document that describes anything outside the village sector — and it describes
+    that ensemble by its provenance rather than by its form, so four of its five columns are empty.
+hero_photo:
+  file: assets/places/pointe-claire/moulin-a-vent-commons.jpg
+  credit: >-
+    The moulin à vent de Pointe-Claire, 1 avenue Saint-Joachim — a fieldstone moulin-tour built in
+    1709 for the Sulpicians on ground they had reserved in 1698, its conical roof restored in 1962 and
+    its sails replaced in 1967; classed an immeuble patrimonial on 21 March 1983 and standing inside
+    the site patrimonial the municipality cited on 2 April 2013. The mission cross beside it is one of
+    the three public artworks by-law PC-2808 requires to be kept in situ. Photograph by Denis Tremblay
+    for « Parcours riverain - Ville de Montréal », 18 October 2012, via Wikimedia Commons, CC BY 2.0.
+    https://commons.wikimedia.org/wiki/File:Moulin_%C3%A0_vent_de_Pointe-Claire,_1,_avenue_Saint-Joachim_(Pointe-Claire)_(8533745051).jpg
+map_layer: null
+summary_en: >-
+  Two point seven hectares at the end of a point in Lac Saint-Louis, formally designated — and the
+  other half of this part's argument. Pointe-Claire's institutional core is a windmill of 1709, a
+  néogothique church of 1882–1885 by Victor Bourgeau and Alcibiade Leprohon, a convent of 1867–1868 by
+  Henri-Maurice Perrault, a presbytery of 1913 by Théodose Daoust built on 1848 masonry, and a village
+  school; the city cited the whole of it as a site patrimonial in 2013, and the protection reaches the
+  ground as well as the exterior envelope of every building on it. Behind the point lies a village
+  whose houses the city governs through a form-based Code villageois that names its three architectural
+  styles by name — traditionnelle québécoise, Boomtown, Cubique — and behind that a country-suburb of
+  Shingle and Arts and Crafts houses on very large treed lots. Set that against the Mille carré doré in
+  Ville-Marie, which has the richest domestic architecture on the island and no ensemble protection at
+  all, and the shape of Québec heritage designation becomes visible.

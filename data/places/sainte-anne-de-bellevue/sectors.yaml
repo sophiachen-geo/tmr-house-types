@@ -1,0 +1,209 @@
+# The ten sectors the 2005 cahier defines inside Sainte-Anne-de-Bellevue, out of the sixteen it
+# defines for the whole arrondissement of L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue.
+# summary_fr is the cahier's own paragraph, transcribed whole from
+# sources/west-island/sainte-anne/13_ile-bizard-sainte-genevieve.txt (pp. 30–33). Codes are printed
+# in the cahier as "1.E.7" in the headings and "1E.7" in the photo captions; the heading form is
+# used here. The arrondissement number printed inside the volume is 1, while the published filename
+# is 13_evaluation_patrimoine_lile.pdf — another instance of the Part 10 code-versus-filename
+# finding, recorded on the place record as evaluation_codes.
+#
+# None of these sectors is a protected territory. "exceptional" and "interesting" are the cahier's
+# own evaluation vocabulary and carry no statutory effect on their own; what gives them teeth is the
+# town's PIIA (règlement 798), which uses this same sector geography as its review trigger.
+
+- id: chemin-de-senneville
+  code: 1.E.7
+  code_eval2005: 1.E.7
+  name_fr: Sainte-Anne-de-Bellevue (le chemin de Senneville)
+  value: exceptional
+  summary_en: >-
+    A rural strip cut out of the former municipality of Pierrefonds between Senneville and the parc
+    de l'Anse-à-l'Orme and attached to the arrondissement at the merger. Old houses punctuate a road
+    with a long view over the lac des Deux-Montagnes.
+  summary_fr: >-
+    Taillé à même l'ancienne municipalité de Pierrefonds, entre le territoire de Senneville et le
+    parc de l'Anse-à-l'Orme, un nouveau territoire rural a été rattaché à l'arrondissement. Un
+    paysage exceptionnel s'offre sur le lac des Deux-Montagnes depuis ce chemin ponctué de maisons
+    anciennes – un caractère unique sur l'île.
+  streets: ["chemin de Senneville"]
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — L'Île-Bizard–Sainte-Geneviève–Sainte-Anne-de-Bellevue (2005), p. 30"
+
+- id: canal-de-sainte-anne
+  code: 1.E.8
+  code_eval2005: 1.E.8
+  name_fr: Sainte-Anne-de-Bellevue (le canal de Sainte-Anne)
+  value: exceptional
+  summary_en: >-
+    The canal, its lock, the railway bridges, the archaeological remains and the centre of the
+    municipality read by the cahier as one landscape. The cahier quotes the canal's own public
+    consultation document rather than describing the sector itself.
+  summary_fr: >-
+    « Le paysage du canal de Sainte-Anne-de-Bellevue symbolise son importance historique nationale.
+    Ce paysage significatif démontre la forte interrelation entre les composantes naturelles et
+    culturelles du lieu, qui sont le lac des Deux-Montagnes, le lac Saint-Louis, le canal avec son
+    écluse, les ponts ferroviaires, les vestiges archéologiques et le centre de la municipalité de
+    Sainte-Anne-de-Bellevue. »
+  streets: []
+  source: "Évaluation 2005, p. 30, quoting « Le canal de Sainte-Anne. L'avenir du canal historique. Document de consultation publique »"
+  note: >-
+    This is the only sector in the town that overlaps a statutory designation, and the designation is
+    federal and covers the waterway: the Canal-de-Sainte-Anne-de-Bellevue is a national historic
+    site, recommended for designation by the Historic Sites and Monuments Board of Canada in 1987,
+    with a management plan tabled in Parliament on 2020-12-16. It protects the canal, not the houses
+    beside it.
+
+- id: ilot-villageois
+  code: 1.E.9
+  code_eval2005: 1.E.9
+  name_fr: Sainte-Anne-de-Bellevue (l'îlot villageois)
+  value: exceptional
+  summary_en: >-
+    The village core proper, at the tip of the island beside the canal, gathered round the church,
+    the former convent and the presbytery. The cahier's one dimensional statement about its houses is
+    that they are generally clapboard-clad, two storeys, and built close to the street.
+  summary_fr: >-
+    Niché à la pointe de l'île près du canal, le village se regroupe autour de l'église, de l'ancien
+    couvent et du presbytère. La qualité des bâtiments institutionnels, le lotissement et la forme
+    des lots, l'échelle modeste des constructions résidentielles et la proximité du canal donnent au
+    lieu un cachet exceptionnel. Les maisons sont généralement recouvertes de clin, comptent deux
+    étages et sont construites près de la rue.
+  streets: ["rue Sainte-Anne", "rue de l'Église", "rue Crevier"]
+  source: "Évaluation 2005, p. 30"
+  note: >-
+    This is the sector the town's tourism site sells as the « village patrimonial ». It carries no
+    protection at the scale of the ensemble. The église (RPCQ 179473) and the presbytère (RPCQ
+    179475) that anchor it are inventoriés only — a record, not a status.
+
+- id: rue-saint-jean-baptiste
+  code: 1.E.10
+  code_eval2005: 1.E.10
+  name_fr: Sainte-Anne-de-Bellevue (la rue Saint-Jean-Baptiste)
+  value: exceptional
+  summary_en: >-
+    Workers' houses on narrow streets with almost no setback, which the cahier calls an ensemble of
+    cottages entirely characteristic of the town's architectural heritage — steep roofs, dormers,
+    modest dimensions, and ground floors barely raised above the ground.
+  summary_fr: >-
+    Ces maisons ouvrières regroupées le long de rues étroites et construites avec un faible recul de
+    la rue forment un ensemble de cottages tout à fait caractéristique du patrimoine architectural de
+    Sainte-Anne-de-Bellevue. Les toits en pente abrupte, la présence de lucarnes, les dimensions
+    généralement modestes des bâtiments et la faible élévation des rez-de-chaussée contribuent à
+    l'effet d'ensemble.
+  streets: ["rue Saint-Jean-Baptiste"]
+  source: "Évaluation 2005, p. 31"
+
+- id: college-macdonald
+  code: 1.E.11
+  code_eval2005: 1.E.11
+  name_fr: Sainte-Anne-de-Bellevue (le collège MacDonald)
+  value: exceptional
+  summary_en: >-
+    Ten buildings of 1905–1908 by the Montréal architects Hutchison and Wood, in terracotta-tiled
+    roofs with baroque carving. Non-residential in itself, but the campus is the reason the
+    university town of sector 1.I.5 exists.
+  summary_fr: >-
+    Cette vaste propriété abrite un ensemble de dix bâtiments construits « entre 1905 et 1908 par les
+    architectes montréalais Hutchison et Wood. Ces édifices sont caractérisés par leurs toits en
+    tuiles de terre cuite et leur somptueuse ornementation agrémentée de sculptures baroques ». La
+    structure précise de l'implantation des bâtiments d'origine, la qualité intrinsèque du site et
+    l'harmonie du traitement architectural font de cet ensemble un secteur exceptionnel.
+  streets: ["rue Lakeshore"]
+  source: "Évaluation 2005, p. 31; the inner quotation is the cahier's footnote 6, Ville de Sainte-Anne-de-Bellevue, Plan d'urbanisme, Annexe 2, Analyse patrimoniale"
+
+- id: montee-sainte-marie
+  code: 1.I.2
+  code_eval2005: 1.I.2
+  name_fr: Sainte-Anne-de-Bellevue (la montée Sainte-Marie)
+  value: interesting
+  summary_en: >-
+    The old road to the inland farms, winding and narrow, with individually distinctive and eclectic
+    buildings of wood or stone at a steady scale.
+  summary_fr: >-
+    Des bâtiments uniques formant un ensemble intéressant par leur ancienneté et leurs
+    caractéristiques distinctes et éclectiques bordent cet ancien chemin qui menait aux terres de
+    l'intérieur. La sinuosité et l'étroitesse du chemin, le caractère rural des constructions de bois
+    ou de pierre et l'échelle régulière des immeubles contribuent à l'intérêt de ce milieu.
+  streets: ["montée Sainte-Marie", "chemin Sainte-Marie"]
+  source: "Évaluation 2005, p. 32"
+  note: >-
+    The maison Michel-Robillard, 20345 chemin Sainte-Marie, citée in 2014, stands on this founding
+    road. The 2024 plan d'urbanisme names the chemin Sainte-Marie one of the town's three tracés
+    fondateurs, with the rues Sainte-Anne and Senneville.
+
+- id: centre-urbain
+  code: 1.I.3
+  code_eval2005: 1.I.3
+  name_fr: Sainte-Anne-de-Bellevue (le centre urbain)
+  value: interesting
+  summary_en: >-
+    The part of the village that takes in the workers' housing around rue Saint-Jean-Baptiste and
+    repeats its typologies and block shapes without its cohesion.
+  summary_fr: >-
+    Englobant les habitations ouvrières, cette partie du village est un accompagnement fondamental de
+    « la rue Saint-Jean-Baptiste ». Reprenant les typologies et la forme des îlots, mais sans en
+    avoir la cohésion, cet ensemble constitue un secteur intéressant.
+  streets: ["rue Sainte-Anne"]
+  source: "Évaluation 2005, p. 32; the cahier illustrates it with 145 à 153, rue Sainte-Anne"
+
+- id: centre-commercant
+  code: 1.I.4
+  code_eval2005: 1.I.4
+  name_fr: Sainte-Anne-de-Bellevue (le centre commerçant)
+  value: interesting
+  summary_en: >-
+    Brick and stone commercial buildings lining rue Sainte-Anne on or near the street line, including
+    the magasin Daoust and the old cinema.
+  summary_fr: >-
+    Bordant la rue Sainte-Anne avec ses bâtiments en brique et en pierre alignés sur la rue, ou
+    implantés avec un faible recul, cet ensemble représente bien l'architecture commerciale. On y
+    trouve des bâtiments très intéressants, dont le Magasin Daoust, le vieux cinéma, etc.
+  streets: ["rue Sainte-Anne"]
+  source: "Évaluation 2005, p. 32"
+  note: >-
+    The 2024 plan d'urbanisme adds the detail the cahier does not give: the commercial buildings on
+    the south side of rue Sainte-Anne have two fronts, a shop gable on the street and a large terrace
+    on the canal park behind — « une des particularités propres au cadre bâti de la portion sud de la
+    rue Sainte-Anne consiste en une double façade des bâtiments commerciaux ».
+
+- id: ville-universitaire
+  code: 1.I.5
+  code_eval2005: 1.I.5
+  name_fr: Sainte-Anne-de-Bellevue (la ville universitaire)
+  value: interesting
+  summary_en: >-
+    The comfortable town that grew up beside the university and the college — solid clay-brick
+    cottages with pitched roofs, some large stucco-clad houses, detached and semi-detached
+    single-family dwellings in a fairly homogeneous whole.
+  summary_fr: >-
+    En bordure de l'université et du collège, une ville assez à l'aise s'est développée dans un
+    milieu des plus intéressant. De solides cottages en brique d'argile avec toiture en pente
+    constituent le principal élément du décor architectural. On y retrouve aussi de vastes résidences
+    au parement de stuc. Le tout constitue un ensemble assez homogène composé d'habitations
+    unifamiliales isolées ou jumelées.
+  streets: ["avenue Maple"]
+  source: "Évaluation 2005, pp. 32–33; the cahier illustrates it with 19 à 21, avenue Maple"
+
+- id: ensemble-garden-city-press
+  code: 1.U.1
+  code_eval2005: 1.U.1
+  name_fr: Sainte-Anne-de-Bellevue (l'ensemble Garden City Press)
+  value: urban-ensemble
+  summary_en: >-
+    The printing works, the former gardens and the housing built around them, read together as one
+    demonstration of J.-J. Harpell's thinking. The cahier grades the ensemble, not the houses, and
+    describes no dwelling type.
+  summary_fr: >-
+    Constitué de l'usine, des anciens jardins et des ensembles résidentiels, ce projet est une
+    démonstration forte de la pensée de J.-J. Harpell et de la philosophie qui l'animait. D'une
+    valeur didactique importante et d'une qualité architecturale indéniable, ces constructions en
+    relativement bon état constituent un ensemble urbain de grand intérêt.
+  streets: ["avenue Garden City", "rue du Pacifique"]
+  source: "Évaluation 2005, p. 33"
+  note: >-
+    The cahier's historique supplies the dates the fiche omits: Harpell brought the Garden City Press
+    to Sainte-Anne in 1918, printing school textbooks and educational material for workers; he was
+    influenced by Ebenezer Howard's garden-city theories, and in 1918 streets, parks and urban
+    infrastructure were laid out and twenty-five houses built near the printing works. During the
+    Depression he hired unemployed men to plant trees and commissioned Frederick Todd to make a
+    Japanese garden with a pond opposite the works, of which nothing survives. In 1945 he transferred
+    control of the firm to a workers' cooperative.

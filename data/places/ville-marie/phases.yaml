@@ -1,0 +1,48 @@
+- id: p1
+  label: 1642–1760
+  start: 1642
+  end: 1760
+  title_en: The walled town of New France
+  summary_en: Ville-Marie founded 1642; the first streets traced 1672; stone, gable roofs and firebreak
+    walls inside an enceinte.
+  colour_key: p1
+- id: p2
+  label: 1760–1840
+  start: 1760
+  end: 1840
+  title_en: British regime — classical stone
+  summary_en: Fortifications down 1801–1817, the Plan des commissaires, and the grey limestone classical
+    house.
+  colour_key: p2
+- id: p3
+  label: 1840–1880
+  start: 1840
+  end: 1880
+  title_en: Warehouses, maisons-magasins and the faubourgs
+  summary_en: The two fires of 9 and 10 July 1852, the ban on wood, the port warehouses of rue Saint-Paul
+    and the working-class east.
+  colour_key: p3
+- id: p4
+  label: 1850–1930
+  start: 1850
+  end: 1930
+  title_en: The Mille carré doré and the Victorian terrace
+  summary_en: Freestanding greystone mansions on landscaped grounds, and the contiguous greystone terraces
+    around them.
+  colour_key: p4
+- id: p5
+  label: 1930–1975
+  start: 1930
+  end: 1975
+  title_en: Decline, demolition and the towers
+  summary_en: Dorchester widened 1954–55, Place Ville-Marie 1959, the métro 1966, and the Van Horne mansion
+    down in 1973.
+  colour_key: p5
+- id: p6
+  label: 1964–2026
+  start: 1964
+  end: 2026
+  title_en: Repopulation — Les Cours Le Royer to the co-ops
+  summary_en: Vieux-Montréal decreed an arrondissement historique in 1964; warehouses recycled to dwellings;
+    Milton-Parc bought back.
+  colour_key: p6

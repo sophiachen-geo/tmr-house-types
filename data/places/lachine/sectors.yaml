@@ -1,0 +1,336 @@
+# Ville de Montréal, « Évaluation du patrimoine urbain : arrondissement de Lachine » (2005),
+# § 3.2.2 and § 3.2.3. The cahier codes the borough 19 in its text and files the PDF as 09.
+# Five categories are used here: E (valeur patrimoniale exceptionnelle), I (valeur patrimoniale
+# intéressante), U (ensembles urbains d'intérêt), N (ensembles industriels d'intérêt) and AP
+# (secteurs d'intérêt archéologique à fort potentiel). The two site archéologique entries the
+# cahier lists separately as 19.A.1 (canal de Lachine) and 19.A.2 (maison mère des Sœurs de
+# Sainte-Anne) are recorded in the place notes rather than as sectors, because the cahier does not
+# treat them as sectors.
+#
+# There is no `value` in this schema for an industrial ensemble, so 19.N.1 is filed as
+# urban-ensemble, which is the category the cahier itself places immediately above it.
+
+# --- A. Les secteurs de valeur patrimoniale exceptionnelle
+- id: canal-de-lachine
+  code: 19.E.1
+  name_fr: Canal de Lachine
+  value: exceptional
+  streets: [canal de Lachine, chemin du Canal, boulevard Saint-Joseph]
+  summary_en: >-
+    The canal itself, recognised nationally: the cahier notes its status as a lieu historique
+    national and says it was built in 1825 to bypass the Lachine rapids and modified twice
+    afterwards. In the 19th and early 20th centuries it made Montréal the continent's gateway for
+    goods, and because it was a source of water power as well as a transport route, industry lined
+    it — nearly 250 firms employing up to 25,000 people, which is what generated the working-class
+    quarters on either side, in Lachine as much as in LaSalle, the Sud-Ouest and Ville-Marie.
+  summary_fr: >-
+    « La valeur patrimoniale du canal de Lachine est reconnue à l'échelle du Canada, comme en fait
+    foi son statut de lieu historique national. Construit en 1825 pour contourner les rapides de
+    Lachine, il sera modifié à deux reprises par la suite. »
+  note: >-
+    The cahier's 1825 agrees with Parks Canada's current pages and with the 2025 bicentenary, but not
+    with the plaque text carried in Parks Canada's own Directory record, which says the canal "fut
+    inauguré en 1824". See the place notes.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 A"
+
+- id: boulevard-saint-joseph
+  code: 19.E.2
+  name_fr: Boulevard Saint-Joseph
+  value: exceptional
+  streets: [boulevard Saint-Joseph]
+  summary_en: >-
+    Both sides of the old shore road, and the cahier's judgement is that the buildings, the winding
+    line of the road and the natural attributes of the site cannot be separated from one another. It
+    is a tracé fondateur — the chemin du Coteau Saint-Pierre, then Upper Lachine Road, apparently
+    dating from the end of the 17th century — and following it reads off the whole development of the
+    territory: a variety of buildings representing a great number of architectural currents in vogue
+    from the 17th to the 20th century, industrial, residential, commercial and institutional at once.
+    This is where the borough's greatest concentration of heritage buildings is. The siting of the
+    buildings follows the topography of the thin riverside band, and the road's curves open framed
+    views of the canal and of Lac Saint-Louis. The cahier is candid that the fabric is in places
+    "passablement hétérogène", with heavily modified buildings and badly integrated contemporary
+    insertions.
+  summary_fr: >-
+    « Les deux côtés du boulevard Saint-Joseph constituent une unité de paysage exceptionnelle dans
+    laquelle le bâti, la sinuosité de l'ancien chemin et les attributs naturels du site sont
+    indissociables. […] C'est aux abords du boulevard Saint-Joseph que l'on trouve la plus grande
+    concentration d'immeubles d'intérêt patrimonial de l'arrondissement. »
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 A"
+
+- id: noyau-institutionnel-et-public
+  code: 19.E.3
+  name_fr: Noyau institutionnel et public
+  value: exceptional
+  streets: [boulevard Saint-Joseph, 12e Avenue, 15e Avenue]
+  summary_en: >-
+    The block of religious and institutional buildings between the 12th and 15th Avenues, which the
+    cahier says contrasts with the village of Lachine by its monumentality and is the only green
+    enclave in that part of the borough. It holds the couvent des Sœurs de Sainte-Anne, begun in 1862
+    and enlarged — the sanctuary among other parts — to designs by Maurice Perreault and Albert
+    Mesnard in 1888–1890; the église des Saints-Anges-Gardiens, by Alphonse Venne and Dalbé Viau in
+    1919; the église Saint-Andrew by John Wells in 1832 and its presbytery; and St. Stephen's
+    Anglican Church of 1831. The cahier calls it one of the rare places in Montréal where several
+    religious traditions stand side by side.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 A"
+
+- id: leber-lemoyne
+  code: 19.E.4
+  name_fr: LeBer-LeMoyne
+  value: exceptional
+  streets: [chemin de LaSalle, chemin du Musée]
+  summary_en: >-
+    Bounded by Lac Saint-Louis, the canal and part of the chemin du canal, and holding the maison
+    LeBer-LeMoyne "érigée en 1669" with its dépendance and a recent building converted into a museum
+    with an important collection of contemporary outdoor art. The cahier records the 2001 classement
+    under the Loi sur les biens culturels, dates the house to the French regime and calls it "l'une
+    des plus anciennes au Canada" — one of the oldest, not the oldest. The sector is edged by the
+    jetty of the first Lachine canal.
+  note: >-
+    The cahier's 1669 is the start of construction; the RPCQ fiche and Parks Canada both give a
+    building campaign of 1669 to 1671. The superlative sometimes attached to this house — "the oldest
+    complete building on Montreal Island" — is in neither source and is not published here.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 A"
+
+- id: sainte-anne
+  code: 19.E.5
+  name_fr: Sainte-Anne
+  value: exceptional
+  streets: [rue Provost]
+  summary_en: >-
+    The conventual ensemble of the Sœurs de Sainte-Anne with its gardens and cemetery, impressive for
+    its monumentality, its spatial hold on the territory and the quality of its architecture, and
+    remarkable — the cahier's word — for still serving its original purpose as the community's mother
+    house. Its central block, designed in 1906 by the architect Louis Caron, dominates a good part of
+    the borough.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 A"
+
+# --- B. Les secteurs de valeur patrimoniale intéressante
+- id: vieux-lachine
+  code: 19.I.1
+  name_fr: Vieux-Lachine
+  value: interesting
+  streets: [boulevard Saint-Joseph, rue Saint-Louis, rue Victoria, rue Notre-Dame, 6e Avenue, 18e Avenue]
+  summary_en: >-
+    The oldest part grows first along the boulevard Saint-Joseph, then reaches rue Saint-Louis and
+    rue Victoria as Lachine's industrial vocation is consolidated by the arrival of the Dominion
+    Bridge. An orthogonal grid of regular rectangular blocks without back lanes carries buildings
+    sited variously — sometimes on the street line, sometimes set back far enough for an exterior
+    stair or a short path to the front door. This is the sector whose description doubles as a
+    typology: village houses in wood; attached or terraced houses with mansards or false mansards,
+    flat roofs or two-slope roofs; small one-storey brick single-family houses, wider than deep, with
+    crowns; and detached or continuously aligned duplexes and triplexes, most often in brick,
+    sometimes with carriage gates. Rue Notre-Dame is the commercial spine, and the market zone by the
+    railway at the 18th Avenue is called out as worth attention. The cahier does not flatter it:
+    parking lots, vacant lots, and shopfronts stripped of their ornament and crowns.
+  summary_fr: >-
+    « On y retrouve un très large éventail d'usages et de typologies : maisons villageoises en bois
+    et maisons mitoyennes ou en série avec mansarde ou fausse mansarde, toit plat ou toit à deux
+    versants; petites maisons unifamiliales d'un étage en brique, plus larges que profondes et avec
+    des couronnements; duplex et triplex détachés ou en alignement continu, le plus souvent en
+    brique, avec parfois des portes cochères. »
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: dawes
+  code: 19.I.2
+  name_fr: Dawes
+  value: interesting
+  streets: [boulevard Saint-Joseph, rue Notre-Dame, 18e Avenue, 34e Avenue, 19e Avenue, 20e Avenue, 21e Avenue]
+  summary_en: >-
+    The industrial core of the Dawes brewery complex between the 18th and 34th Avenues, one of the
+    oldest in Lachine, sitting between the junction points of the successive railway alignments — the
+    Montreal and Lachine Railroad was built in 1847 — with the first and second entrances to the
+    canal, a geometry still legible in the triangular block crossed by the 19th and 20th Avenues.
+    Brewery buildings, warehouses, the employees' houses, commercial buildings and sheds; very narrow
+    streets and blocks without lanes. Between the 23rd and 27th Avenues the cahier says the faubourg
+    character is felt best, "à l'architecture modeste en bois et en brique". Between the 18th and 34th
+    it notes fine examples of bourgeois brick houses in the Victorian taste, a great concentration of
+    detached or semi-detached village houses, and duplexes and triplexes detached, party-walled or
+    aligned, with mansard, two-slope or flat roofs.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: de-la-32e-a-la-43e-avenue
+  code: 19.I.3
+  name_fr: De la 32e à la 43e Avenue
+  value: interesting
+  streets: [rue Broadway, 34e Avenue, 35e Avenue, 36e Avenue, 41e Avenue, boulevard Saint-Joseph]
+  summary_en: >-
+    Large wide blocks without lanes, a looser grain than the east end, deep front setbacks, and very
+    wide streets whose pavements are separated from the roadway by rows of lime or apple trees, which
+    the cahier says gives the whole a great homogeneity. A wide variety of architectural styles
+    typical of the first half of the 20th century: large summer-resort houses of Arts and Crafts and
+    Shingle Style inspiration, brick cottages and detached brick town houses built singly or in
+    series, with bungalows and recent houses inserted among them. Named examples: a fine run of
+    semi-detached stucco Arts and Crafts houses on the 34th Avenue, a group of brick cottages on the
+    35th, a continuous alignment of brick duplexes on the 36th, and on the 41st and on rue Broadway a
+    heavy concentration of old village houses and bourgeois houses of various styles. On rue
+    Broadway between the 37th and 40th Avenues — a core already on Pinsoneault's 1909 plan of
+    Lachine — the very large, very deep, well-landscaped lots recall the place's resort vocation, and
+    the cahier singles out 3830 and 3850 rue Broadway as particularly remarkable.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: summerlea-44e-avenue
+  code: 19.I.4
+  name_fr: Summerlea – 44e Avenue
+  value: interesting
+  streets: [44e Avenue]
+  summary_en: >-
+    Several detached single-family houses of heritage interest in various styles, sited variously on
+    their large lots. The fabric of this small sector recalls that it was once the heart of the
+    municipality of Summerlea, created in 1895 and annexed to Lachine in 1912; a resort place
+    progressively altered by the waves of urbanisation that Lachine's economic development brought.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: summerlea-51e-avenue
+  code: 19.I.5
+  name_fr: Summerlea – 51e Avenue
+  value: interesting
+  streets: [51e Avenue, boulevard Saint-Joseph]
+  summary_en: >-
+    Traces of Summerlea's gradual transformation, read through a relatively recent fabric: summer
+    houses, former chalets, and town houses old and new interleaved in a very heterogeneous
+    streetscape. The riverside band of the boulevard Saint-Joseph west of the 44th Avenue to the
+    borough limit holds fine bourgeois residences on large lots and 18th-century houses such as the
+    maison Quesnel and the maison Picard. The cahier says the interest of this heterogeneous sector
+    lies partly in the architectural diversity of the buildings and in how they sit in relation to one
+    another and to the lake, and that the mature vegetation does much to harmonise the whole.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: saint-antoine-remembrance
+  code: 19.I.6
+  name_fr: Saint-Antoine – Remembrance
+  value: interesting
+  streets: [rue Saint-Antoine, rue Remembrance, 16e Avenue, 18e Avenue]
+  summary_en: >-
+    A hinge, in the cahier's word, between a traditional 19th-century residential architecture and
+    institutional buildings of the modern movement. The 19th-century layout survives in the sector's
+    H-shaped back lanes. Called out particularly: the fine flat-roofed brick houses built in series on
+    rue Saint-Antoine, and the stone houses with false mansards, also built in series, on the 18th
+    Avenue; also fine semi-detached brick houses of Victorian inspiration and runs of dwellings of
+    more or less complex massing. The domestic architecture is accompanied by large institutions —
+    the église Sainte-Françoise-Romaine and its presbytery, the Centre hospitalier de Lachine on its
+    landscaped grounds, and the pavillon Boileau — and the mature vegetation harmonises the mix.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: mclaughlin
+  code: 19.I.7
+  name_fr: McLaughlin
+  value: interesting
+  streets: [chemin de LaSalle, rue McLaughlin]
+  summary_en: >-
+    A small piece of ground at the junction of Lac Saint-Louis and the canal, plus the fairly
+    homogeneous residential sector of the chemin de LaSalle and rue McLaughlin next to the Musée de
+    Lachine. The cahier reads a village atmosphere here, produced mainly by low density and regular
+    siting; back gardens give directly onto the lake and the spacing between buildings opens fine
+    views. The architecture is of small gabarit and modest, but there are also more opulent houses of
+    Victorian inspiration. The former presbytery of the now-vanished St. Stephen's church at 31-35
+    chemin de LaSalle — fieldstone, of refined composition, well preserved — is noted as a reminder
+    that many Irish worked on the canal in the mid-19th century.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+- id: ville-saint-pierre
+  code: 19.I.8
+  name_fr: Ville Saint-Pierre
+  value: interesting
+  streets: [rue des Érables, avenue Stanley, rue Mount-Vernon, avenue Ouellette]
+  summary_en: >-
+    The former municipality of Saint-Pierre-aux-Liens, created a village in 1894, a ville in 1908 and
+    annexed to Lachine in 2000, marked throughout by the railways that cut it up. The low part, near
+    the old village of Lachine and the industrial zone, is very heterogeneous: mostly one- and
+    two-storey single-family houses with flat roofs or false mansards, and brick duplexes and
+    triplexes with stairs on the façade. Wood cladding has usually been replaced by vinyl and the
+    cornices, crowns and railings have often gone. The upper part, next to Montréal-Ouest, is more
+    homogeneous: two-storey houses of simple volume with varied roofs — hipped, dormered or
+    false-mansarded — mostly brick with wooden decorative elements, regularly sited with little
+    setback on narrow lots and with planted front yards, plus some semi-detached and terraced houses,
+    a few postwar bungalows, and spacious houses of Arts and Crafts influence on streets with mature
+    vegetation. Four village houses keep their architectural integrity: 17, 26, 38 and 40 avenue
+    Stanley.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 B"
+
+# --- C. Les ensembles urbains d'intérêt
+- id: veterans
+  code: 19.U.1
+  name_fr: Vétérans
+  value: urban-ensemble
+  streets: [13e Avenue]
+  summary_en: >-
+    A small ensemble of dwellings built for veterans, which the cahier calls very homogeneous and
+    particularly well preserved, while noting that a tendency to densify the sites and alter the
+    original architecture seems to be beginning. That is the entire description: four lines and one
+    photograph of the 13th Avenue. It is recorded here as a sector and not as a type, because the
+    cahier says nothing about the buildings themselves — not their storeys, not their roofs, not their
+    cladding — and a type card would have to be invented rather than transcribed.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 C"
+
+- id: victoria-sir-george-simpson
+  code: 19.U.2
+  name_fr: Victoria – Sir-George-Simpson
+  value: urban-ensemble
+  streets: [rue Victoria, rue Sir-George-Simpson, 40e Avenue, 46e Avenue, 51e Avenue, 53e Avenue, 56e Avenue]
+  summary_en: >-
+    A vast, very homogeneous sector of detached one- and two-storey single-family houses built in
+    small series, set back from the street with side yards and a parking space in the front yard,
+    mostly on a square or rectangular plan of simple massing, brick-clad with wooden decorative
+    elements and with variable roof forms — pitched, hipped, or a hipped-and-false-mansard
+    combination. They come out of the mass urbanisation of the 1950s to 1970s. The cahier calls the
+    catalogue of types deployed here "particulièrement impressionnant": Boomtown houses, bungalows
+    and a variety of houses built by contractors, the best known of whom left the dominant type its
+    familiar local name, the maison « Gameroff ». The quality of the public and private landscaping is
+    called remarkable. Practically every building has been modified and personalised, and the further
+    east one goes the more the standard models have been altered; the 51st Avenue, ending at rue
+    Sherbrooke in a well-preserved alignment of California-inspired bungalows, the 53rd north of rue
+    Victoria, the 56th, and rue Sir-George-Simpson are the exceptions.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 C"
+
+# --- D. Les ensembles industriels d'intérêt
+- id: pole-industriel
+  code: 19.N.1
+  name_fr: Pôle industriel
+  value: urban-ensemble
+  streets: [boulevard Saint-Joseph, rue Notre-Dame, avenue du Pacifique, 1re Avenue]
+  summary_en: >-
+    Lachine's industrial pole, entered by the boulevard Saint-Joseph and strategically placed at the
+    canal entrance: the Dominion Bridge complex on both sides of the boulevard with its workshops,
+    warehouses, Shipping House and Art Deco head office, plus the Dominion Wire Rope Co., the Cintube
+    and Stelfil buildings, Jenkins, Allis Chalmers, Colas Road Ltd. and the Canadian Car and Foundry
+    – Dominion Plant. The older buildings vary in size and shape but are alike in their long
+    unfenestrated red-brick façades modulated by variations in the bond. The cahier says the sector's
+    historical importance is not only metropolitan but provincial and Canadian, and admits in the same
+    breath that knowledge of it is not yet good enough to fix the heritage value of its individual
+    buildings. It is filed here under the urban-ensemble value because this schema has no separate
+    value for an industrial ensemble; the cahier gives it a category of its own.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.2 D"
+
+# --- E. Les secteurs d'intérêt archéologique à fort potentiel
+- id: zone-cotiere
+  code: 19.AP.1
+  name_fr: Zone côtière
+  value: archaeological-potential
+  summary_en: >-
+    The edge of the island — the shores, the road that follows them and the land bordering it — which
+    may have been used in prehistoric and historic periods according to the settlement choices of
+    different times and populations. Points and coves are singled out as favouring particular
+    environments.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.3 A"
+
+- id: noyau-villageois-ap
+  code: 19.AP.2
+  name_fr: Noyau villageois
+  value: archaeological-potential
+  summary_en: >-
+    From about 1765, trades other than the fur trade, new services and dwellings settle at Lachine and
+    a village core forms. The cahier ties the archaeological potential of this ground to the warehouse
+    at the canal mouth that became Hudson's Bay Company property, and to the institutional core.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.3 A"
+
+- id: complexes-industriels
+  code: 19.AP.3
+  name_fr: Complexes industriels
+  value: archaeological-potential
+  summary_en: >-
+    The industrial complexes, which the cahier says require a survey of the built fabric, the
+    equipment and the traces likely to document the spatial organisation of the complex and the
+    evolution of its technologies as soon as their modification or abandonment is announced. The
+    Jenkins Canada complex is one of the examples given: Jenkins Brothers Co. bought a 500,000-square-
+    foot site at Lachine about 1925 and installed its valve works there in 1932.
+  source: "Ville de Montréal, Évaluation du patrimoine urbain — Lachine (2005), § 3.2.3 A"

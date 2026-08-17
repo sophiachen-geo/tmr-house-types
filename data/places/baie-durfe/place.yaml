@@ -1,0 +1,139 @@
+id: baie-durfe
+name_en: Baie-D'Urfé
+name_fr: Ville de Baie-D'Urfé
+sections: [rural-seigneurial]
+region: Agglomération de Montréal
+founded: 1686                              # the Sulpicians conceded the lot on which the maison Rangé-Dit-Laviolette stands in 1686, the year the parish of Saint-Louis-du-Bout-de-l'Île got its first resident curé; the sources also give 1677 and 1678 for the earliest concessions here — see prose.md
+settlement_mode: Sulpician farm concessions strung along the chemin du Roy on the lac Saint-Louis shore, later a resort and then a low-density commuter suburb
+coordinates: {lat: 45.411708, lon: -73.902640}   # 45° 24' 42.149" N, -73° 54' 9.504" W — the RPCQ coordinate for the maison Rangé-Dit-Laviolette, 20122 chemin Lakeshore
+evaluation_codes: {code_2005: 4, file_prefix: 3}
+governing_instruments:
+  - kind: citation
+    title: >-
+      Maison Rangé-Dit-Laviolette (maison Lenoir), 20122 chemin Lakeshore — citée immeuble
+      patrimonial by the Municipalité de Baie-D'Urfé on 2001-12-11 (RPCQ id 93440). The RPCQ records
+      the limit of the citation precisely: « La protection s'applique uniquement à l'enveloppe
+      extérieure de la partie la plus ancienne de l'ensemble, soit la section est du bâtiment. » One
+      building, one wing of it, and only its outer envelope.
+    year: 2001
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&type=bien&id=93440
+  - kind: municipal-bylaws
+    title: >-
+      Ville de Baie-D'Urfé, Règlement 1108 sur le plan d'urbanisme — avis de motion 11 March 2025,
+      adopted 17 June 2025, in force 20 October 2025; it repeals règlement 1031. Section 2.2.3 « Le
+      patrimoine bâti » names the town's heritage sectors and section 2.2.3.1 sets out its
+      protection policy; annexe C is the built-heritage inventory tabulated below. Companion by-laws:
+      1109 permis et certificats, 1110 zonage (annexe 3 « Plan des secteurs d'intérêt
+      archéologique »), 1111 lotissement.
+    year: 2025
+    url: https://www.baie-durfe.qc.ca/medias/fr/documents/R%C3%A8glement_1108_-_Plan_durbanisme_Final.pdf
+  - kind: PIIA
+    title: >-
+      Ville de Baie-D'Urfé, règlement sur les plans d'implantation et d'intégration architecturale,
+      adopted to satisfy the schéma d'aménagement et de développement de l'agglomération de Montréal.
+      Règlement 1108 states that it « permettra une meilleure protection des bâtiments d'intérêt
+      patrimonial et une meilleure intégration des ajouts et des nouvelles constructions », and
+      routes the town's archaeological-potential policy through it as well. The by-law number is not
+      given in the plan and the town's published by-law list does not show it — verify.
+    year: null
+    url: https://www.baie-durfe.qc.ca/fr/nos-departements/reglements-municipaux/categories/urbanisme
+  - kind: demolition-bylaw
+    title: >-
+      Ville de Baie-D'Urfé, règlement sur les démolitions. Règlement 1108 makes this the operative
+      protection for every heritage building except the three the town owns: « leur protection est
+      assurée au-delà de leurs seules caractéristiques architecturales d'intérêt visibles d'une voie
+      publique par une application stricte du règlement sur les démolitions ». A comité de démolition
+      is listed among the town's committees.
+    year: null
+    url: https://www.baie-durfe.qc.ca/fr/nos-departements/page/reglements-municipaux
+  - kind: inventory
+    title: >-
+      Beaupré et Michaud, architectes (Pierre Beaupré and Josette Michaud), Inventaire des bâtiments
+      patrimoniaux du secteur Baie-d'Urfé de l'arrondissement Beaconsfield–Baie d'Urfé de la Ville de
+      Montréal — Cahier 1, Textes préliminaires, sommaire de l'inventaire et liste des bâtiments,
+      rapport d'étape, 7 April 2003; cited by the RPCQ in its final form as Inventaire patrimonial de
+      la Ville de Baie d'Urfé, 2004. NOT OBTAINED — see the note in prose.md.
+    year: 2004
+    url: https://bmaarchitectes.com/etudes-et-expertises/etudes-historiques-et-patrimoniales/
+  - kind: inventory
+    title: >-
+      Agglomération de Montréal, inventaire des immeubles construits avant 1940, begun 2024 under the
+      2021 Loi sur le patrimoine culturel, which requires the agglomeration to complete the survey by
+      1 April 2026. Baie-D'Urfé publishes its own result as annexe C of règlement 1108 — 48 records
+      graded Supérieure, Forte, Moyenne or Faible.
+    year: 2024
+    url: https://www.baie-durfe.qc.ca/medias/fr/documents/R%C3%A8glement_1108_-_Plan_durbanisme_Final.pdf
+  - kind: none-at-ensemble-scale
+    title: >-
+      No ensemble protection. There is no site patrimonial — declared, classed or cited — anywhere in
+      Baie-D'Urfé. The RPCQ holds exactly one immovable record for the whole municipality, the maison
+      Rangé-Dit-Laviolette; a search of the RPCQ restricted to catégorie de bien « Site patrimonial »
+      returns « Aucun résultat » for this municipality. The town's own règlement 1108 confirms it
+      from the municipal side: it lists the instruments that protect its heritage sectors and they
+      are municipal ownership, the demolition by-law, the minimum lot sizes of 2,000 and 4,000 m²,
+      and the PIIA. No citation of a site appears anywhere in it.
+    year: null
+    url: null
+typology_document:
+  title: Ville de Montréal, Évaluation du patrimoine urbain — arrondissement de Beaconsfield–Baie d'Urfé (2005, ISBN 2-7647-0447-X), with Ville de Baie-D'Urfé, règlement 1108 sur le plan d'urbanisme (2025), annexe C
+  year: 2005
+  format: sector-characterisation
+  note: >-
+    No per-type catalogue exists for Baie-D'Urfé. The 2005 cahier characterises sectors across the
+    merged arrondissement of Beaconsfield–Baie d'Urfé, five of which fall in Baie-D'Urfé, and lists
+    immeubles de valeur patrimoniale exceptionnelle by address without describing them. The town's
+    2025 plan d'urbanisme adds a graded inventory of 48 records, also by address, with no
+    architectural description. The per-building descriptions exist in the Beaupré & Michaud inventory
+    of 2003–2004, which this project has not obtained.
+grading:
+  system: >-
+    Ville de Baie-D'Urfé, règlement 1108 sur le plan d'urbanisme (in force 20 October 2025), annexe C
+    « Inventaire du patrimoine bâti ». Forty-eight records — a principal or secondary building at a
+    civic address — each carrying one of four heritage values. The grades are the inventory's own
+    labels; the by-law prints no definition of them, and none is supplied here. The survey behind
+    them is the agglomeration's pre-1940 inventory begun in 2024 under the 2021 Loi sur le patrimoine
+    culturel, whose stated criteria are historical, architectural and social value, the survival of
+    original architectural characteristics, and state of maintenance.
+  categories:
+    - code: Supérieure
+      label_fr: Valeur patrimoniale supérieure
+      count: 17
+      note: 15 principal buildings and 2 secondary buildings.
+    - code: Forte
+      label_fr: Valeur patrimoniale forte
+      count: 12
+      note: 11 principal buildings and 1 secondary building.
+    - code: Moyenne
+      label_fr: Valeur patrimoniale moyenne
+      count: 17
+      note: 13 principal buildings and 4 secondary buildings.
+    - code: Faible
+      label_fr: Valeur patrimoniale faible
+      count: 2
+      note: Both principal buildings — 41 rue Magnolia and 43 rue Oxford.
+map_layer: null
+summary_en: >-
+  A shore town of Sulpician farm lots that never grew a village. The chemin du Roy — later the
+  Queen's Highway, now the chemin du Lakeshore — runs along the lac Saint-Louis past what the 2005
+  heritage evaluation calls the densest concentration of heritage buildings in its arrondissement:
+  old farmhouses, bourgeois houses and summer villas of the late nineteenth and early twentieth
+  centuries, standing far back from the road behind mature trees, with no sidewalks. Detached from
+  Sainte-Anne-de-Bellevue and chartered in 1911 with fewer than two hundred inhabitants, the town
+  quintupled in the 1950s and is now almost entirely postwar. It is spoken of as a heritage village
+  and it is not one: a single building is protected, the maison Rangé-Dit-Laviolette of about 1700,
+  and only the outer envelope of its oldest wing. Everything else is held by a demolition by-law,
+  design review, and lots so large they cannot be subdivided.
+hero_photo:
+  file: assets/places/baie-durfe/hotel-de-ville-20410-chemin-lakeshore-commons.jpg
+  credit: >-
+    The hôtel de ville of Baie-D'Urfé, 20410 chemin Lakeshore, on the lac Saint-Louis (December
+    2012) — the white-frame farmhouse James Morgan gave the town in October 1912 for conversion to a
+    town hall, renovated and enlarged in 1913 by the architects Edward and William Maxwell. The
+    gambrel roof with its dormers, the segmental pediment carrying the town's arms and the columned
+    verandas wrapping both flanks are the Maxwell remodelling; the façade is lettered TOWN OF BAIE
+    D'URFÉ, 20410 and 1911, the year of the charter. The 2005 cahier calls it « l'ancien hôtel de
+    ville », but the building was still signed Hôtel de ville — Administration when this photograph
+    was taken. It anchors the town's one sector of exceptional value, which the 2025 plan d'urbanisme
+    says is safe because the town owns it. Photograph from the Parcours riverain – Ville de Montréal
+    Flickr stream, CC BY 2.0; Commons licence review by MTLskyline, 27 September 2013.
+    https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville_de_Baie-D%27Urf%C3%A9,_20410,_chemin_Lakeshore_(Baie-D%27Urf%C3%A9).jpg
