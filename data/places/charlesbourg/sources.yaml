@@ -1,0 +1,105 @@
+- id: pc-charlesbourg-2016
+  citation: >-
+    Ministère de la Culture et des Communications, Plan de conservation du site patrimonial de
+    Charlesbourg, Québec, 2016 (dir. Sylvain Lizotte; réd. Émilie Deschênes with Denyse Légaré).
+    https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf — retrieved 17 August 2026;
+    sha-256 8e9d7e953b017896df381d8174a238af3453df96dd62c7ab23f790b27cf996ba; 124 PDF pages carrying
+    printed pagination 1–121 (printed page = PDF page − 1). Parsed with pdftotext -layout to
+    sources/charlesbourg/pc_charlesbourg_2016.txt.
+  used_for: >-
+    Everything typological. The five residential type records and the three sub-variants, verbatim,
+    from printed pp. 48–51; the three parcel-system sectors from printed pp. 37–39; the five unités
+    de paysage from printed pp. 57–59; the whole of built_fabric_statistics from printed pp. 41–47;
+    the parcours directeurs from printed pp. 31–32; the phase anchors from the Historique, printed
+    pp. 18–22; the five valeurs patrimoniales from printed pp. 25–28; the moulin des Jésuites and
+    the bâtiments secondaires blocks in the notes from printed pp. 47–52; and the Trudel citation in
+    the bibliography, printed p. 109.
+
+- id: rpcq-93524
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Site patrimonial de Charlesbourg », id
+    93524. https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93524&type=bien
+    — retrieved 17 August 2026; sha-256
+    05eb718863b34b240c95ff9f14e2482aadaac373c398c153816afa73d9ac6bb8.
+  used_for: >-
+    The declaration date as recorded in the statut block (Déclaration, Site patrimonial, Gouvernement
+    du Québec, 1965-11-17); the transfer of responsibility (Exercice de certains pouvoirs par la
+    municipalité (Québec), 2016-12-09, prise d'effet 2017-06-09); the alternative names
+    Arrondissement du Trait-Carré and Arrondissement historique de Charlesbourg; the 138 principal
+    buildings; the 24 hectares and the 8.5-hectare central square; the count of 149 associated
+    immovable-heritage records; and the single classed immeuble. Also the source of the observation,
+    recorded in the notes, that the fiche lists Jean Talon as the one person associated with the
+    site.
+
+- id: cbcq-etude-2005
+  citation: >-
+    Commission des biens culturels du Québec, Étude de caractérisation de l'arrondissement historique
+    de Charlesbourg, April 2005 (réd. Denyse Légaré).
+    https://cpcq.gouv.qc.ca/app/uploads/2020/05/charlesbourg.pdf — retrieved 17 August 2026; sha-256
+    2ed713589e1d709bc1f91c1d0ce976896fddc073083dd7750521afd514502380; 39 PDF pages.
+  used_for: >-
+    The decree, confirmed at three points in the document: the résumé (« L'arrondissement historique
+    de Charlesbourg a fait l'objet d'un décret le 17 novembre 1965 »), § 1.1 (arrêté en conseil no
+    2271 of 17 November 1965, by the lieutenant-governor on the recommendation of the Commission des
+    monuments historiques, which had met on 27 September 1965), and the annexe, which reproduces the
+    arrêté in full. Also the summary of the radial plan's geometry; the Trudel attribution and the
+    charge that Talon appropriated the idea; Lapalme's motive for the declaration; the observation
+    that the 1965 perimeter enclosed the village rather than the farmland; the alternative « vers
+    1740 » dating of the mill; and the dates given there for the maisons Magella-Paradis (1833),
+    Pierre-Lefebvre (1825) and Éphraïm-Bédard (1830).
+
+- id: cpcq-rapport-consultation
+  citation: >-
+    Conseil du patrimoine culturel du Québec, Rapport de consultation publique — projet de plan de
+    conservation du site patrimonial de Charlesbourg.
+    https://cpcq.gouv.qc.ca/app/uploads/2020/05/Rapport_de_consultation_Charlesbourg.pdf — retrieved
+    17 August 2026; sha-256 fbee36535b5bca336f0c953599371e2012cbfc6d11c969942cfd2a098a69824c; 20
+    pages.
+  used_for: >-
+    The three radial villages of the seigneurie de Notre-Dame-des-Anges — Charlesbourg,
+    Petite-Auvergne "qui est en réalité une demi-étoile (faute d'espace)" and Bourg-Royal — and the
+    statement that only Charlesbourg had a parish core; the "quelque 200 bâtiments" figure, which
+    comes from this report's summary of the plan's valeur architecturale and not from the plan
+    itself; and the Société d'histoire de Charlesbourg's recommendations about the carré De Tracy and
+    the rue du Vignoble.
+
+- id: vdq-guide-rvq1324
+  citation: >-
+    Ville de Québec, guide accompanying règlement R.V.Q. 1324, « Conserver et mettre en valeur
+    l'arrondissement historique de Charlesbourg ».
+    https://reglements.ville.quebec.qc.ca/fr/ressource/rc/R.V.Q.1324_FR_008_0001.pdf — retrieved 17
+    August 2026; sha-256 0b36bb415176c78c778a3bf6d49e7f6c3c2f6d15aaf3075a9559720f093d3e3b; 57 pages.
+  used_for: >-
+    Corroboration of the City's jurisdiction over work inside the site, and the second occurrence of
+    the minority « vers 1740 » dating of the moulin des Jésuites, recorded in the notes.
+
+- id: commons-charlesbourg
+  citation: >-
+    Wikimedia Commons, Category:Charlesbourg and Category:Buildings in Charlesbourg. Licence, author
+    and file URL for every candidate were read individually through the Commons API
+    (action=query&prop=imageinfo&iiprop=extmetadata) on 17 August 2026 before any download.
+  used_for: >-
+    The three photographs rendered on this place's type cards, all released CC0 by Wilfredor:
+    "House in Charlesbourg, Quebec City 03" on the French-inspired rural house, and "Old house in
+    Charlesbourg" and "Old house in Charlesbourg 005" on the neoclassical Québec house. Matches are
+    on form, not on address, and each carries match_confidence: visual. See
+    sources/charlesbourg/MANIFEST.md for the full licence findings, including the files whose
+    licences were verified but which could not be retrieved.
+
+- id: rpcq-92700-eglise
+  citation: >-
+    Répertoire du patrimoine culturel du Québec, fiche « Église de Saint-Charles-Borromée », id
+    92700. https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92700&type=bien
+  used_for: >-
+    Cited as the site's one classed immeuble patrimonial. NOT independently retrieved in this pass —
+    the classement year of 1959 and the construction dates 1828–1830 used here come from the plan de
+    conservation and the 2005 Étude, not from this fiche. Recorded so a later pass can verify.
+
+- id: moulin-des-jesuites
+  citation: >-
+    Moulin des Jésuites de Charlesbourg (interpretation centre and museum), moulindesjesuites.org;
+    and the Société d'histoire de Charlesbourg, housed in the maison Éphraïm-Bédard.
+  used_for: >-
+    Named as the custodians of the two buildings the notes discuss. NOT retrieved in this pass; no
+    fact in this record rests on either. Every statement made here about the mill and about the
+    maison Éphraïm-Bédard is taken from the plan de conservation or the 2005 Étude.

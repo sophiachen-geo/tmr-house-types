@@ -1,0 +1,88 @@
+id: charlesbourg.residence-apres-guerre
+place: charlesbourg
+page: 51
+phase: p6
+phase_confidence: verified
+name_en: Post-war residence (bungalow)
+name_fr: La résidence d'après-guerre
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51"
+source_generation: >-
+  Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les
+  principales caractéristiques de ce type », transcribed verbatim
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - one-storey-ranch-low-roof
+styles:
+  - minimal-traditional
+tenure_plan: single-family
+storeys: "1"
+roof: {form: hipped, pitch_deg: null}
+window_proportion: null
+principal_cladding:
+  - clay-brick
+  - artificial-stone
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Arrives at the turn of the 1950s, when sprawl subdivides the farm lots and bungalows go up across the site.
+    - The plan counts 26 buildings of one storey, "majoritairement des bungalows érigés après la Deuxième Guerre mondiale", and 15 buildings clad in the non-traditional brick-and-artificial-stone combination, "principalement des bungalows".
+  massing:
+    - Rectangular or rather square plan.
+    - Generally one storey.
+    - Low-profile pavilion roof, or hipped.
+  articulation:
+    - The plan names no ornament for this type.
+  openings:
+    - The plan gives no opening description for this type.
+  materials:
+    - Mixed cladding of brick and artificial stone.
+profile_fr:
+  description:
+    - "Au tournant des années 1950, l'étalement urbain amène le lotissement de plusieurs terres agricoles et la construction de bungalows à travers le site patrimonial de Charlesbourg."
+  volumetrie:
+    - "un plan rectangulaire ou plutôt carré"
+    - "un volume généralement d'un étage"
+  toiture:
+    - "un toit à pavillon à profil bas ou à croupes"
+  materiaux:
+    - "un parement mixte en brique et en pierre artificielle"
+profile_note: >-
+  Transcribed from the plan de conservation's printed p. 51. This is the shortest of the five type
+  descriptions — four bullets, covering plan, volume, roof and cladding only. The plan supplies no
+  openings and no ornament for it, and those cells are left saying so rather than being filled from
+  the general literature on the Québec bungalow. The siting column carries the plan's own
+  built-fabric counts from printed pp. 45–46, which are counts for the whole site.
+example_addresses:
+  - {address: "8191 Le Trait-Carré Ouest", note: "the plan's illustrated example (fig. 32), and its named example of the brick-and-artificial-stone cladding"}
+related_buildings:
+  - name: "Centre Odilon-Gauthier (1957) — not a house, but the plan's benchmark for mid-century building in the site: a large rectangular plan, two storeys, flat roof, brick cladding and big classroom windows."
+    url: null
+  - name: "7831 Le Trait-Carré Est — the newest building in the site, a former secondary building enlarged and converted to a single dwelling about 2010, clad in sheet metal and roughcast (fig. 21)."
+    url: null
+conservation: []
+photos:
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 32 — the plan's own
+      photograph of 8191 Le Trait-Carré Ouest, the example it prints for this type.
+      © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+blurb_en: >-
+  A rectangular or nearly square plan, one storey, a low pavilion or hipped roof, and brick mixed
+  with artificial stone. Four lines is all the plan gives it — and yet more than a third of
+  everything standing inside this declared site went up between 1925 and 1975.
+origin_en: >-
+  The bungalow is what the declaration of 1965 was reacting to. Sprawl reached Charlesbourg at the
+  turn of the 1950s and cut up the farm lots; the plan records that 65 buildings, 48.5 % of the
+  site, date from 1925–1975, and that most of the site's 26 single-storey buildings are post-war
+  bungalows. The 2005 Étude de caractérisation makes the same point from the other side: by 1963
+  urban sprawl had already reached the ceinture, much of the agricultural heritage had gone, and the
+  perimeter drawn in 1965 enclosed "le produit (la zone d'occupation villageoise) plutôt que la
+  source (ce qu'il restait des terres agricoles à l'origine du village)".

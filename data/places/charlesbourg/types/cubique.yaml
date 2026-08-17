@@ -1,0 +1,79 @@
+id: charlesbourg.cubique
+place: charlesbourg
+page: 51
+phase: p5
+phase_confidence: verified
+group_parent: maison-vernaculaire-industrielle
+name_en: Cubic house (Four Square)
+name_fr: La maison cubique (ou « Four Square »)
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51"
+source_generation: >-
+  Plan de conservation, the sub-variant bullet inside « Voici les principales caractéristiques de ce
+  type » for the maison vernaculaire industrielle, transcribed verbatim
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - foursquare-hipped-2st
+styles:
+  - foursquare
+  - vernaculaire-industriel
+tenure_plan: mixed
+storeys: "2"
+roof: {form: hipped, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-clapboard
+  - clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - The plan notes that most of the site's pavilion roofs sit on two-storey cubic houses built in the first decades of the 20th century.
+  massing:
+    - Distinguished by a square plan of two storeys.
+    - Low-pitched pavilion roof, sometimes with a dormer on the front slope.
+  articulation:
+    - Inherited from the parent type — standardised architectural elements, doors and windows.
+  openings:
+    - Rectangular openings of vertical proportion; wood windows, casement or sash.
+  materials:
+    - Cladding often of horizontal boards or of brick.
+profile_fr:
+  sous_variantes:
+    - "la maison cubique se distingue par un plan carré à deux étages. Sur son toit en pavillon à faible pente, on trouve parfois une lucarne sur le versant avant. Son parement est souvent en planches horizontales ou en brique"
+  volumetrie:
+    - "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+  ouvertures:
+    - "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+  materiaux:
+    - "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+profile_note: >-
+  The sub-variant bullet is transcribed verbatim from printed p. 51; the volumetrie, ouvertures and
+  materiaux entries are the parent type's shared bullets, repeated here so the child record stands
+  on its own. The plan gives no roofing material and no pitch for the cubique.
+example_addresses:
+  - {address: "723-725-727 boulevard Louis-XIV", note: "the plan's example (fig. 31), and the house it names under valeur architecturale as a witness of the cubique"}
+conservation: []
+photos:
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 (first of three) —
+      723-725-727 boulevard Louis-XIV. © Gouvernement du Québec, ministère de la Culture et des
+      Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+blurb_en: >-
+  A square plan two storeys high under a shallow pavilion roof, sometimes with a single dormer on
+  the front slope, clad in horizontal boards or brick. The plan gives it three lines and no more —
+  which is itself the point: the whole appeal of the industrial vernacular was that it needed no
+  more than three lines to describe.
+origin_en: >-
+  The same American Foursquare that Saint-Lambert, Gatineau, Québec City, Trois-Rivières, Lévis and
+  Île d'Orléans all catalogue. What differs at Charlesbourg is its rank: here it is a sub-variant
+  inside the maison vernaculaire industrielle rather than a courant of its own, and the plan's
+  built-fabric survey confirms it arrived with the century, putting most of the site's pavilion
+  roofs on two-storey cubic houses of the first decades of the 20th century.

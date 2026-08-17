@@ -1,0 +1,95 @@
+id: charlesbourg.maison-vernaculaire-industrielle
+place: charlesbourg
+page: 50
+phase: p5
+phase_confidence: verified
+is_group: true
+name_en: Industrial vernacular house
+name_fr: La maison vernaculaire industrielle
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), pp. 50–51"
+source_generation: >-
+  Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les
+  principales caractéristiques de ce type », transcribed verbatim. The last three bullets each
+  define one sub-variant and are carried on the three child records.
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - industrial-vernacular-group
+styles:
+  - vernaculaire-industriel
+tenure_plan: mixed
+storeys: null
+roof: {form: null, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-clapboard
+  - clay-brick
+  - asbestos-cement-tile
+roofing: varies by sub-variant
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - From the end of the 19th century until the Second World War, this is the type that dominates new building in the site — the plan's words are "le type qui domine les nouvelles constructions".
+  massing:
+    - A simplified volume. A light frame, also called "Balloon Frame".
+    - Suits the single-family dwelling but can also hold two.
+  articulation:
+    - Standardised architectural elements, such as doors and windows.
+  openings:
+    - Rectangular openings of vertical proportion; wood windows, casement or sash.
+  materials:
+    - Machined materials — beams and boards. New materials appearing at the start of the 20th century, such as asbestos-cement tile.
+profile_fr:
+  description:
+    - "De la fin du XIXe siècle jusqu'à la Seconde Guerre mondiale, l'architecture vernaculaire industrielle est le type qui domine les nouvelles constructions érigées dans le site patrimonial. Les phénomènes de la standardisation des matériaux, de la mécanisation du travail et de la diffusion à grande échelle de plans au moyen de catalogues et de revues à travers l'Amérique du Nord ont donné naissance à cette architecture aux États-Unis. Elle est ensuite introduite au Canada et devient populaire grâce à la simplicité et au faible coût de sa construction. La maison vernaculaire se décline en de multiples variantes adaptées à des besoins spécifiques. Elle convient à l'habitation unifamiliale, mais peut aussi abriter deux logements. Elle comprend, notamment, la maison cubique (ou « Four Square »), le cottage vernaculaire et les bâtiments de type « Boomtown »."
+  volumetrie:
+    - "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+  materiaux:
+    - "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+  ouvertures:
+    - "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+  sous_variantes:
+    - "la maison cubique se distingue par un plan carré à deux étages. Sur son toit en pavillon à faible pente, on trouve parfois une lucarne sur le versant avant. Son parement est souvent en planches horizontales ou en brique"
+    - "le cottage vernaculaire se compare à la maison québécoise d'inspiration néoclassique par sa forme générale, mais son avant-toit diffère par le larmier sans coyaux et sa pente légèrement plus faible. Il existe une variante où la façade est aménagée sur le mur pignon"
+    - "le bâtiment « Boomtown » se distingue par son toit plat ou à faible pente dissimulé derrière un parapet"
+profile_note: >-
+  Transcribed from the plan de conservation's printed pp. 50–51. This is a parent record: the plan
+  sets out three shared characteristics for the type as a whole and then three further bullets, each
+  defining one sub-variant, and those three are reproduced here in full under Sous-variantes and
+  again on the child records. The roof form and storey count are deliberately null on the parent,
+  because the plan gives a different roof to each child — pavilion for the cubique, gabled for the
+  cottage vernaculaire, flat behind a parapet for the Boomtown. This nesting is the plan's own
+  reading; the Île d'Orléans inventory and the Lévis catalogue treat the same three forms as three
+  top-level courants instead, which is why the canonical layer carries both.
+example_addresses:
+  - {address: "723-725-727 boulevard Louis-XIV", note: "maison cubique — the plan's example (fig. 31), also cited under valeur architecturale"}
+  - {address: "8210 Le Trait-Carré Est", note: "cottage vernaculaire — the plan's example (fig. 31)"}
+  - {address: "7868 Le Trait-Carré Est", note: "Boomtown — the plan's example (fig. 31)"}
+conservation: []
+photos:
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 — the plan's own
+      three-photograph strip showing, in order, 723-725-727 boulevard Louis-XIV, 8210 Le Trait-Carré
+      Est and 7868 Le Trait-Carré Est. © Gouvernement du Québec, ministère de la Culture et des
+      Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+blurb_en: >-
+  The type that took over. From the 1890s to the Second World War it is what got built here:
+  a simplified volume on a balloon frame, machined beams and boards, catalogue doors and windows,
+  asbestos-cement tile, rectangular vertically proportioned casements or sashes — cheap, simple and
+  adaptable enough to hold one household or two. The plan then splits it three ways: cubique,
+  cottage vernaculaire, Boomtown.
+origin_en: >-
+  Standardised materials, mechanised labour and plans distributed at continental scale through
+  catalogues and magazines produced this architecture in the United States; it came to Canada and
+  spread on the strength of how simple and cheap it was to build. Charlesbourg's plan de
+  conservation is one of the two Québec sources on this site that treat the three forms as one
+  family with a parent — the Ville de Québec thésaurus is the other — while the MRC de L'Île-d'Orléans
+  and the Ville de Lévis list them as separate courants of equal rank. Nothing in the buildings
+  changes; the disagreement is entirely about the level of the category.

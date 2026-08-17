@@ -1,0 +1,112 @@
+id: charlesbourg.maison-rurale-inspiration-francaise
+place: charlesbourg
+page: 48
+phase: p2
+phase_confidence: verified
+name_en: Rural house of French inspiration
+name_fr: La maison rurale d'inspiration française
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 48"
+source_generation: >-
+  Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les
+  principales caractéristiques de ce type », transcribed verbatim
+sectors: [PARC-3, UP-3]
+canonical:
+  - french-rural-house-1st-hip
+styles:
+  - french-regime
+tenure_plan: single-family
+storeys: "1.5"
+roof: {form: gabled, pitch_deg: null}
+window_proportion: null
+principal_cladding:
+  - wood-piece-sur-piece
+  - fieldstone-rendered
+roofing: bardeaux de bois
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Generally set without regard to the public road, its principal façade turned south for the most sunlight — the sharpest siting rule in this part, and the opposite of Île d'Orléans, where the chemin Royal governs.
+    - The oldest dwelling type in the site. Survivors stand mainly on the ceinture, the old farm lots outside the Trait-Carré.
+  massing:
+    - Almost square or rectangular plan, of modest dimensions, one and a half storeys.
+    - Barely raised off the ground, with squat proportions.
+    - Two straight steeply pitched slopes, covered in wood shingle.
+  articulation:
+    - The plan lists no ornament for this type at all — the whole description is plan, roof, walls, openings and chimneys.
+  openings:
+    - Asymmetrically disposed; wood casement windows with small panes.
+  materials:
+    - Walls of pièce-sur-pièce or of stone, the stone usually rendered and whitewashed.
+    - One or two chimney stacks emerging from the roof.
+profile_fr:
+  description:
+    - "La maison rurale d'inspiration française est le plus ancien type d'habitation que l'on trouve sur le territoire du site patrimonial. Ce type s'est adapté aux conditions locales particulières, telles que le climat, les savoir-faire et les matériaux disponibles."
+  implantation:
+    - "Ce type de bâtiment est généralement implanté sans égard à la voie publique et sa façade principale est orientée vers le sud pour bénéficier d'un maximum d'ensoleillement."
+  volumetrie:
+    - "un plan presque carré ou rectangulaire. Des dimensions modestes et un volume d'un étage et demi. La maison est peu exhaussée du sol et ses proportions sont trapues"
+  toiture:
+    - "un toit à deux versants droits à forte pente, couvert en bardeaux de bois"
+  materiaux:
+    - "des murs en pièce sur pièce ou en pierre (habituellement recouverte d'un crépi et chaulée)"
+    - "une ou deux souches de cheminées émergent de sa toiture"
+  ouvertures:
+    - "des ouvertures disposées de façon asymétrique. Ces fenêtres en bois sont à battants à petits carreaux"
+profile_note: >-
+  Transcribed from the plan de conservation's printed p. 48. The French under each column is the
+  plan's own wording, unedited: the five bullets of « Voici les principales caractéristiques de ce
+  type » plus the two sentences of the introductory paragraph, which carry the siting rule and the
+  type's position in the sequence. The plan supplies no ornament, no window proportion and no roof
+  pitch in degrees for this type, so those cells stay empty rather than being filled by inference.
+example_addresses:
+  - {address: "7655 chemin Samuel", note: "maison Éphraïm-Bédard — the plan's illustrated example (fig. 28)"}
+  - {address: "8080-8082 Le Trait-Carré Est", note: "the plan names this among the oldest constructions, usually dated to the early 18th century"}
+  - {address: "8180-8182 Le Trait-Carré Est", note: "built c. 1724, given a mansard roof in 1931 — the plan's own warning that apparent age and real age diverge here"}
+related_buildings:
+  - name: "Maison Éphraïm-Bédard, 7655 chemin Samuel — home of the Société d'histoire de Charlesbourg. Date: first half of the 19th century. The plan de conservation says « la maison Éphraïm-Bédard a plutôt été érigée vers 1830 » and adds that its present appearance dates from a 1980s restoration; the 2005 Étude gives 1830 as well. No single year is published here — see the place notes."
+    url: null
+  - name: "Maison Magella-Paradis (1833), a city-owned cultural centre; the plan cites it under valeur architecturale as typical of the 19th-century traditional Québec house, and notes its gable walls are clad in wood over a plank, brick or stone principal cladding."
+    url: null
+conservation: []
+photos:
+  - file: assets/places/charlesbourg/rurale-inspiration-francaise.jpg
+    credit: >-
+      "House in Charlesbourg, Quebec City 03" by Wilfredor, 9 February 2021, Wikimedia Commons,
+      released CC0 (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons
+      API before download. File:
+      https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_03.jpg
+    kind: single
+    licence: CC0
+    source_url: https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_03.jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form, not on address. The photograph shows the type's diagnostic set — one and a
+      half storeys barely raised off the ground, squat proportions, two straight steep slopes in
+      wood shingle, gable dormers, a central stack, vertical plank cladding. The plan records that
+      the two houses converted to cultural spaces, maison Éphraïm-Bédard and maison Pierre-Lefebvre,
+      are the ones clad « en planches verticales », and the building in the photograph carries a
+      cultural society's banner; which of the two it is has not been confirmed, so it is not named.
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 28 — the plan's own
+      photograph of the maison Éphraïm-Bédard, the example it prints for this type.
+      © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+blurb_en: >-
+  The oldest house in the site and the only one that ignores the road: a low, squat, one-and-a-half
+  storey box of pièce-sur-pièce or whitewashed rendered stone, under two straight steep slopes of
+  wood shingle, with one or two stacks and small-paned casements set wherever the inside wanted
+  them. Its façade faces south for the sun, whatever direction the Trait-Carré happens to run.
+origin_en: >-
+  The house of the Régime français, built on the trapezoidal farm lots the Jesuits conceded from
+  1665 and, under the règle du tiers, always in the first third of the lot against the Trait-Carré.
+  The plan de conservation warns that this type is easier to see than to date: several 18th-century
+  houses were altered so heavily that their apparent age is nothing like their real one — 8180-8182
+  Le Trait-Carré Est was built about 1724 and given a mansard roof in 1931 — while the maison
+  Éphraïm-Bédard looks like a French-inspired farmhouse and was built about a century later.

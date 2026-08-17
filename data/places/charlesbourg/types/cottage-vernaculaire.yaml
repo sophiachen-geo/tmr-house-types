@@ -1,0 +1,87 @@
+id: charlesbourg.cottage-vernaculaire
+place: charlesbourg
+page: 51
+phase: p5
+phase_confidence: verified
+group_parent: maison-vernaculaire-industrielle
+name_en: Vernacular cottage
+name_fr: Le cottage vernaculaire
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51"
+source_generation: >-
+  Plan de conservation, the sub-variant bullet inside « Voici les principales caractéristiques de ce
+  type » for the maison vernaculaire industrielle, transcribed verbatim
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - industrial-vernacular-cottage
+styles:
+  - vernaculaire-industriel
+tenure_plan: mixed
+storeys: null
+roof: {form: gabled, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-clapboard
+  - asbestos-cement-tile
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Reads at a glance as the traditional Québec house it stands beside on the Trait-Carré; the difference is in the eave.
+  massing:
+    - Compares to the Québec house of neoclassical inspiration in its general form.
+    - But its eave differs — the larmier has no coyaux, and its pitch is slightly shallower.
+    - A variant sets the façade on the gable wall.
+  articulation:
+    - Inherited from the parent type — standardised architectural elements, doors and windows.
+  openings:
+    - Rectangular openings of vertical proportion; wood windows, casement or sash.
+  materials:
+    - Machined materials; the parent type's beams, boards and asbestos-cement tile.
+profile_fr:
+  sous_variantes:
+    - "le cottage vernaculaire se compare à la maison québécoise d'inspiration néoclassique par sa forme générale, mais son avant-toit diffère par le larmier sans coyaux et sa pente légèrement plus faible. Il existe une variante où la façade est aménagée sur le mur pignon"
+  volumetrie:
+    - "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+  ouvertures:
+    - "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+  materiaux:
+    - "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+profile_note: >-
+  The sub-variant bullet is transcribed verbatim and in full from printed p. 51, because it is the
+  clearest published statement anywhere in the sources this site draws on of how the industrial
+  vernacular differs from the traditional type it imitates. The distinction turns on one word:
+  a coyau is the short piece fixed at the foot of a rafter that lifts and curves the eave outward,
+  producing the larmier retroussé of the traditional Québec roof. The cottage vernaculaire keeps the
+  silhouette and drops the coyau, so the eave runs straight out instead of flaring — and the pitch
+  slackens slightly with it. The plan's own built-fabric survey gives the arithmetic of that
+  distinction across the site: of 56 two-slope roofs, 26 have larmiers retroussés and 30 do not.
+  The volumetrie, ouvertures and materiaux entries are the parent type's shared bullets, repeated so
+  the child record stands on its own.
+example_addresses:
+  - {address: "8210 Le Trait-Carré Est", note: "the plan's example (fig. 31)"}
+conservation: []
+photos:
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 (second of three) —
+      8210 Le Trait-Carré Est. © Gouvernement du Québec, ministère de la Culture et des
+      Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+blurb_en: >-
+  The industrial vernacular wearing the traditional house's clothes. In general form it is the
+  Québec house of neoclassical inspiration; what gives it away is the eave, where the larmier runs
+  out straight because there is no coyau under it, on a pitch that is slightly shallower. One
+  variant turns the façade onto the gable wall.
+origin_en: >-
+  The plan's sentence on this form is the most useful in the whole part, because it is the only
+  place in these sources where a document says plainly what separates a mass-produced house from the
+  handbuilt one it copies — and the answer is a single missing piece of carpentry. The coyau is
+  fiddly work; the balloon frame and the catalogue plan dispensed with it. This is the same form the
+  Île d'Orléans inventory calls the cottage vernaculaire américain, Lévis calls the vernaculaire
+  américain, and Québec City catalogues as the cottage vernaculaire industriel.

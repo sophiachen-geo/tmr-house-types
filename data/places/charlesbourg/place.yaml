@@ -1,0 +1,122 @@
+id: charlesbourg
+name_en: Charlesbourg (Trait-Carré)
+name_fr: Site patrimonial de Charlesbourg
+sections: [rural-seigneurial, historic-core]
+region: Capitale-Nationale (Ville de Québec, arrondissement de Charlesbourg)
+founded: 1665                    # the Jesuits lay out the radial bourg on their seigneurie
+settlement_mode: >-
+  radial "village en étoile" of forty trapezoidal terres abutting a square ring road, around a
+  common pasture and a central parish reserve
+parent_place: quebec             # merged into Ville de Québec in 2002; Part 7 keeps a stub sector SP-CHA
+governing_instruments:
+  - kind: site-patrimonial-declare
+    title: >-
+      Site patrimonial de Charlesbourg (other names on the RPCQ fiche: Arrondissement du Trait-Carré;
+      Arrondissement historique de Charlesbourg), declared by decree of the government of Québec on
+      17 November 1965 — arrêté en conseil no 2271, signed by the lieutenant-governor on the
+      recommendation of the Commission des monuments historiques, which had resolved on it at its
+      meeting of 27 September 1965. 24 hectares; 138 principal buildings; one classed immeuble
+      patrimonial, the église de Saint-Charles-Borromée (classed 1959). Residential buildings are
+      80 % of the total. The 2005 Étude de caractérisation reproduces the arrêté in its annexe and
+      records that the minutes of the Commission give no stated motive for the declaration, but
+      that Georges-Émile Lapalme, then minister, wanted to stop "les démolitions sauvages et
+      intempestives".
+    year: 1965
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93524&type=bien
+  - kind: transfer-of-powers
+    title: >-
+      Transfert de responsabilité, RPCQ statut block: "Exercice de certains pouvoirs par la
+      municipalité (Québec), 2016-12-09", prise d'effet 2017-06-09. Authorisations for work inside
+      the site therefore issue from the Ville de Québec, not from the ministère — a real difference
+      from Île d'Orléans, where the ministère still authorises. The plan de conservation's own
+      permit section sets out which requests go to the City.
+    year: 2017
+    url: https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93524&type=bien
+  - kind: conservation-plan
+    title: >-
+      MCC, Plan de conservation du site patrimonial de Charlesbourg (2016; dir. Sylvain Lizotte;
+      réd. Émilie Deschênes with Denyse Légaré). The copy parsed here is 124 PDF pages carrying
+      printed pagination 1–121; the RPCQ catalogues it at about 110 p. and BAnQ at 121 p. Same
+      document, different counts of the front matter. It states orientations, not norms.
+    year: 2016
+    url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+  - kind: characterisation-study
+    title: >-
+      Commission des biens culturels du Québec, Étude de caractérisation de l'arrondissement
+      historique de Charlesbourg, April 2005 (réd. Denyse Légaré; 39 PDF pages). The source of the
+      decree date and of the radial-plan history, and the study that reproduces arrêté en conseil
+      no 2271 in full.
+    year: 2005
+    url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/charlesbourg.pdf
+  - kind: consultation-report
+    title: >-
+      Conseil du patrimoine culturel du Québec, Rapport de consultation publique sur le projet de
+      plan de conservation du site patrimonial de Charlesbourg. Two public sessions in the
+      auditorium of the bibliothèque Paul-Aimé-Paiement, more than sixty attendees. It is this
+      report, not the plan, that gives the "quelque 200 bâtiments" figure, and it is this report
+      that names the other two radial villages of the seigneurie.
+    year: null
+    url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/Rapport_de_consultation_Charlesbourg.pdf
+  - kind: guide
+    title: >-
+      Ville de Québec, guide accompanying R.V.Q. 1324, "Conserver et mettre en valeur
+      l'arrondissement historique de Charlesbourg" — the City's own illustrated guidance for owners
+      inside the site, under the jurisdiction of the Commission d'urbanisme et de conservation de
+      Québec, with aid available through the Entente de développement culturel.
+    year: null
+    url: https://reglements.ville.quebec.qc.ca/fr/ressource/rc/R.V.Q.1324_FR_008_0001.pdf
+building_counts:
+  principal_buildings: 138
+  all_buildings_incl_secondary: 200
+  rpcq_associated_records: 149
+  classed_immeubles: 1
+  note: >-
+    Two measures, not a contradiction. 138 is the count of PRINCIPAL buildings, given identically by
+    the RPCQ fiche ("Ce territoire inclut près de 138 bâtiments principaux") and by the plan de
+    conservation p. 41 ("se compose de 138 bâtiments principaux"); every statistic below is computed
+    against that 138. The "quelque 200 bâtiments" is a count of ALL buildings including the
+    secondary ones, and it comes from the CPCQ consultation report's summary of the plan's valeur
+    architecturale, not from the plan itself. 149 is a third thing again: the number of records
+    linked as "patrimoine immobilier associé" on the RPCQ fiche. One classed immeuble: the église de
+    Saint-Charles-Borromée.
+built_fabric_statistics:      # Plan de conservation 2016, pp. 41–47 — every figure re-read on parse
+  residential_share_pct: 80
+  residential_breakdown: {maisons_rurales_et_urbaines: 82, edifices_a_logements_multiples: 28}
+  institutional_religious: 7
+  mixed_residence_commerce: 14
+  postwar_commercial: 6
+  preindustrial: 1
+  built_1925_1975: {count: 65, pct: 48.5}
+  built_1850_1900: 30
+  built_after_1975: 4
+  cladding: {planches_horizontales: 55, brique: 35, pierre: 7, parement_mixte: 23, autres: 18}
+  cladding_detail: {planches_en_bois: 33, planches_en_materiaux_contemporains: 22, mixte_brique_et_pierre_artificielle: 15}
+  roof: {deux_versants: 56, toit_plat: 31, mansarde: 27}
+  roof_detail: {deux_versants_a_larmiers_retrousses: 26}
+  storeys_2_or_fewer: 121
+  storeys_detail: {un_etage: 26, un_etage_et_demi: 31, deux_etages: 64, deux_et_demi_a_quatre: 17}
+typology_document:
+  title: >-
+    MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), pp. 48–51 — five
+    residential types, the fourth holding three sub-variants
+  year: 2016
+  format: per-type-narrative
+  note: >-
+    Unlike Île d'Orléans, Charlesbourg has no separate inventory; the plan's own prose is the
+    typology. Each type is introduced in a paragraph and then set out as a bulleted list headed
+    "Voici les principales caractéristiques de ce type", and those bullets are what this site
+    transcribes into profile_fr. The fourth type, maison vernaculaire industrielle, is a parent: its
+    shared bullets are followed by three bullets that each define one sub-variant — maison cubique
+    (or "Four Square"), cottage vernaculaire, and bâtiment "Boomtown" — which other Québec sources
+    (the Île d'Orléans inventory, the Lévis catalogue) treat as three top-level courants instead.
+map_layer: null
+summary_en: >-
+  A star-shaped village the Jesuits laid out in 1665 on their seigneurie de Notre-Dame-des-Anges:
+  forty trapezoidal farm lots radiating from a square ring road, around a common pasture, with five
+  arpents at the dead centre reserved for church, presbytery and cemetery, and a rule obliging every
+  farmer to build in the first third of his lot, hard against the Trait-Carré. It was the first
+  settlement of its kind in New France and one of three the same seigneury attempted — the others,
+  Petite-Auvergne and Bourg-Royal, had no parish core and did not survive as legible plans. Québec's
+  suburbs arrived in the 1950s and cut up the farms, but the radial geometry is still readable on
+  the ground, and 138 principal buildings inside 24 hectares still carry three centuries of housing,
+  from a 1742 stone mill to the postwar bungalow.

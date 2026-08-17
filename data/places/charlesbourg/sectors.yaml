@@ -1,0 +1,168 @@
+# Charlesbourg carries two nested systems, and the plan de conservation renders both.
+#
+# The first is the seigneurial GEOMETRY (plan de conservation, printed pp. 37–39): three squares
+# nested inside one another — la réserve, la commune, la ceinture — which the plan calls
+# "l'emboîtement de trois carrés" and says are "toujours perceptibles dans le site patrimonial".
+# These are not heritage gradings; they are land division, so they take value: parcel-system.
+#
+# The second is the plan's five unités de paysage (printed pp. 57–59), which is the same instrument
+# Île d'Orléans's plan uses.
+#
+# A note on the areas, because the published figures look contradictory and are not. The RPCQ fiche
+# and the plan's own "Survol" both describe a CENTRAL SQUARE of about 8,5 hectares (25 arpents)
+# bounded by Le Trait-Carré Est and Ouest. The plan's valeur urbanistique (printed p. 26) then says
+# in as many words that this central square is "composé d'une réserve de 1,7 hectare entourée d'un
+# pâturage commun délimité par le chemin du Trait-Carré". So 8,5 ha = 1,7 ha of réserve + ~7 ha of
+# commune, and 25 arpents = 5 + 20. The commune alone is 20 arpents, never 25.
+
+# --- système parcellaire (Plan de conservation 2016, printed pp. 37–39)
+- id: reserve
+  code: PARC-1
+  name_fr: La réserve
+  value: parcel-system
+  summary_en: >-
+    The central square, 1.7 hectares (5 arpents), set aside for a parish core — church, presbytery
+    and cemetery. It was already cut through by the two parcours directeurs by the end of the 17th
+    century, holding three large rectangular parcels, and four after the chemin de Saint-Joseph was
+    realigned in 1846. It holds today the église de Saint-Charles-Borromée, the presbytery, the parc
+    du Sacré-Coeur and the salle Pierre-Garon. Its outline survives in fragments the plan lists one
+    by one: the fence round the parc du Sacré-Coeur marks the north-east corner, the church's second
+    sacristy set at a right angle indirectly marks the east limit, a hedge and a line of trees
+    between the presbytery and the old convent approximately mark the west, the south can be read
+    between the church car park and the maison Samuel-Bédard, and three-headed lamp standards mark
+    the approximate limits along the 1re Avenue and the boulevard Louis-XIV.
+  summary_fr: >-
+    « La réserve correspond au carré central qui forme le cœur de Charlesbourg. Cet espace, d'une
+    superficie de 1,7 hectare (5 arpents), était destiné à l'implantation d'un noyau paroissial. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed pp. 37–38"
+
+- id: commune
+  code: PARC-2
+  name_fr: La commune
+  value: parcel-system
+  summary_en: >-
+    The former common pasture ringing the réserve, about 7 hectares (20 arpents), originally fenced;
+    it is bounded by Le Trait-Carré Est and Ouest and quartered by the 1re Avenue and the boulevard
+    Louis-XIV. The colonial authorities ordered it subdivided in 1709, but most of the land was not
+    actually broken up until late in the 18th century, and grazing rights ran on for years. Most new
+    parcels followed the radial lines of the farms outside, except the south-west quadrant, which
+    was cut into rectangles. Land near the réserve went to institutions — the couvent des Soeurs du
+    Bon-Pasteur, the collège des Frères maristes — and one strip was never built on and became the
+    parc de la Commune, where landscaping now draws the Jesuits' radial lines on the ground.
+  summary_fr: >-
+    « Ce secteur constitue l'ancien pâturage commun qui entourait la réserve. D'une superficie
+    d'environ 7 hectares (20 arpents), cet espace était à l'origine clôturé. »
+  note: >-
+    The 1709 date is the ordinance, not the end of the practice: "Dès 1709, les autorités coloniales
+    ordonnent le lotissement de la commune. La majorité des terres ne sont toutefois morcelées que
+    vers la fin du XVIIIe siècle."
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed pp. 38–39"
+
+- id: ceinture
+  code: PARC-3
+  name_fr: La ceinture
+  value: parcel-system
+  summary_en: >-
+    The outer square: the farm lots the Jesuits conceded at the end of the 17th century, cut as
+    radial trapezoids. There were to be 40 of them, ten a side, of 13.7 hectares (40 arpents) each.
+    South of the Trait-Carré the star was only partly executed — the Jesuits conceded a single
+    wooded holding there, "La Sapinière" — and that quadrant was subdivided later on different lines.
+    The parcel shape held until the mid-20th century, when sprawl broke up the farms; the part of
+    the ring included in the 1965 declaration, of irregular depth, is what forms the site's outer
+    boundary. The moulin des Jésuites stands in this sector. The règle du tiers, which obliged each
+    occupant to build in the first third of his lot where it abutted the Trait-Carré, is why the
+    houses line the ring road rather than scattering across the farms.
+  summary_fr: >-
+    « Ce secteur est formé des anciennes terres agricoles concédées par les Jésuites à la fin du
+    XVIIe siècle. Ces derniers ont découpé le territoire de la ceinture en lots radiaux présentant
+    une forme trapézoïdale. […] La ceinture devait comporter 40 lots (10 par côté) d'une superficie
+    de 13,7 hectares (40 arpents) chacun. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed pp. 38–39"
+
+# --- unités de paysage (Plan de conservation 2016, printed pp. 57–59). The plan's own summary:
+# « Le site patrimonial de Charlesbourg se caractérise par la présence de cinq unités de paysage :
+#   le noyau institutionnel, les parcs, le secteur résidentiel, le boulevard urbain et le moulin
+#   des Jésuites. »
+- id: noyau-institutionnel
+  code: UP-1
+  name_fr: Le noyau institutionnel
+  value: unite-de-paysage
+  summary_en: >-
+    The religious and institutional buildings at the centre, inside the réserve and the old commune:
+    the église de Saint-Charles-Borromée, the presbytery, the salle Pierre-Garon, the former couvent
+    des Soeurs du Bon-Pasteur, the former collège des Frères maristes, the bibliothèque
+    Paul-Aimé-Paiement and the centre Odilon-Gauthier. Large rectangular or irregular lots, some
+    edges picked out by lines of trees, buildings set back from the road with their façades turned
+    to one of the two parcours directeurs, and volumes and stone or brick cladding that set them
+    apart from everything else in the site.
+  summary_fr: >-
+    « Le noyau institutionnel présente de larges lots où sont implantés des bâtiments imposants en
+    brique ou en pierre. Les façades sont orientées vers l'un des deux parcours directeurs. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed p. 57"
+
+- id: parcs
+  code: UP-2
+  name_fr: Les parcs
+  value: unite-de-paysage
+  summary_en: >-
+    Two green spaces north of the institutional core forming one unit: the parc de la Commune and
+    the parc du Sacré-Coeur. Lawn and many mature trees, free of building except a bandstand, the
+    Sacré-Coeur monument and an architectural evocation of the first church; paths, picnic tables
+    and benches.
+  summary_fr: >-
+    « Les parcs de la Commune et du Sacré-Cœur forment un espace vert marqué par des surfaces
+    gazonnées et la présence d'arbres matures. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed p. 57"
+
+- id: secteur-residentiel
+  code: UP-3
+  name_fr: Le secteur résidentiel
+  value: unite-de-paysage
+  summary_en: >-
+    The large residential sector that grew around the institutional core, taking in part of the old
+    commune and of the ceinture. Individual houses, mixed residential-and-commercial buildings,
+    multiple-dwelling blocks and secondary buildings, mostly built between the 18th and 20th
+    centuries and mostly lining both sides of the chemin du Trait-Carré, with mature trees along it.
+    Narrow lots of varying depth: some still trapezoidal from the radial plan, others small
+    rectangles from the subdivision of the commune and the farms. The north-west quadrant is where
+    the radial plan is best preserved. This unit is where the site's diversity of siting shows: some
+    old houses face south regardless of the road, some 19th- and 20th-century houses stand square to
+    their side lot lines and therefore at an angle to the street, mixed commercial buildings sit
+    perpendicular to it, and many later houses simply face the road. A local peculiarity is
+    buildings standing one behind another on the same narrow deep lot, a house having been inserted
+    between the road and the older house already there.
+  summary_fr: >-
+    « Le secteur résidentiel se caractérise par l'étroitesse de ses parcelles et par la variété des
+    types d'implantation des résidences. Celles-ci sont principalement situées de part et d'autre du
+    chemin du Trait-Carré. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed pp. 58–59"
+
+- id: boulevard-urbain
+  code: UP-4
+  name_fr: Le boulevard urbain
+  value: unite-de-paysage
+  summary_en: >-
+    The strip along the boulevard Henri-Bourassa, dominated by large commercial buildings put up
+    from the second half of the 20th century. The plan is blunt about what it does: it "rompt la
+    continuité de la trame villageoise" and cuts the moulin des Jésuites off to the east.
+  summary_fr: >-
+    « Le boulevard urbain forme une bande qui rompt la trame villageoise du site patrimonial. Cette
+    unité est dominée par des bâtiments de type commercial. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed p. 59"
+
+- id: moulin-des-jesuites
+  code: UP-5
+  name_fr: Le moulin des Jésuites
+  value: unite-de-paysage
+  summary_en: >-
+    One building is its own landscape unit, because the boulevard has isolated it. The mill stands
+    on a parcel at the meeting of a parcours directeur (boulevard Louis-XIV) and a voie de
+    restructuration (boulevard Henri-Bourassa), set back from the road, distinguished from
+    everything around it by its age, its traditional architecture and its landscaping — paths and a
+    ditch tracing the old stream that once fed its wheel. It is now the starting point of the
+    Trait-Carré interpretive walk, and the plan calls it the site's main gateway.
+  summary_fr: >-
+    « Le moulin des Jésuites, situé en périphérie du site, est isolé du noyau villageois par le
+    boulevard Henri-Bourassa. Il constitue une unité distincte par son architecture traditionnelle
+    ancienne qui contraste avec les constructions environnantes. »
+  source: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), printed p. 59"

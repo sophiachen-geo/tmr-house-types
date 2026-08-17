@@ -1,0 +1,118 @@
+id: charlesbourg.maison-quebecoise-neoclassique
+place: charlesbourg
+page: 49
+phase: p3
+phase_confidence: verified
+name_en: Québec house of neoclassical inspiration
+name_fr: La maison québécoise d'inspiration néoclassique
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 49"
+source_generation: >-
+  Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les
+  principales caractéristiques de ce type », transcribed verbatim
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - quebec-traditional-1-5st-gable
+styles:
+  - neoclassical-quebec
+tenure_plan: single-family
+storeys: null
+roof: {form: gabled, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-board-vertical
+  - wood-clapboard
+  - fieldstone-rendered
+roofing: bardeaux de cèdre ou tôle traditionnelle à la canadienne ou à baguettes
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - The type that marks the whole 19th century in the site, and the one that fills the Trait-Carré on both sides.
+  massing:
+    - Rectangular plan, raised off the ground to give a rudimentary cellar.
+    - Two-slope roof with overhanging larmiers, sometimes upturned.
+    - A summer kitchen sometimes repeats the volume of the house at reduced scale, set back against the north-east wall or perpendicular at the rear.
+  articulation:
+    - A gallery running along the façade, sheltered by the overhanging larmier — a transitional space between inside and out, often decorated with ornamental woodwork.
+    - Openings framed by moulded wood chambranles.
+  openings:
+    - Many wood casement windows with large panes, rectangular and vertically proportioned, usually set symmetrically about the door at the centre of the façade.
+  materials:
+    - Pièce-sur-pièce or madrier-sur-madrier structure.
+    - Vertical or horizontal plank cladding, or fieldstone rendered and whitewashed. In wood or in masonry alike, these houses are white.
+profile_fr:
+  description:
+    - "Après la Conquête, les Britanniques introduisent de nouveaux savoir-faire qui, couplés à l'évolution des techniques de construction et des manières d'habiter, favorisent l'émergence d'un nouveau type architectural qui marque tout le XIXe siècle : la maison québécoise d'inspiration néoclassique. Ce type reprend certaines caractéristiques du modèle français, dont le plan rectangulaire et le toit à versants."
+  volumetrie:
+    - "un plan rectangulaire surélevé du sol afin d'aménager une cave rudimentaire"
+  toiture:
+    - "un toit à deux versants à larmiers débordants, parfois recourbés, couvert de bardeaux de cèdre ou de tôle traditionnelle à la canadienne ou à baguettes"
+  saillies:
+    - "une galerie longeant la façade, protégée par le larmier débordant du toit, espace de transition entre l'intérieur et l'extérieur, souvent décorée de boiseries ornementales"
+    - "une cuisine d'été reprenant parfois le volume de la maison à une échelle réduite, généralement implantée en recul contre le mur nord-est ou perpendiculairement à l'arrière"
+  materiaux:
+    - "une structure construite en pièce sur pièce ou en madrier sur madrier"
+    - "un parement de planches verticales ou horizontales, ou en maçonnerie de pierres des champs recouverte d'un crépi et chaulée. En bois ou en maçonnerie, ces maisons sont de couleur blanche"
+  ouvertures:
+    - "de nombreuses fenêtres en bois à battants à grands carreaux, de forme rectangulaire aux proportions verticales. Ces fenêtres sont souvent disposées symétriquement autour de la porte occupant le centre de la façade. Les ouvertures sont encadrées de chambranles moulurés en bois"
+profile_note: >-
+  Transcribed from the plan de conservation's printed p. 49. The seven bullets of « Voici les
+  principales caractéristiques de ce type » are split across the columns: plan and roof make up
+  massing, the gallery and the summer kitchen sit under saillies, structure and cladding are
+  materials, and the ornamental woodwork of the gallery and the moulded chambranles are the only
+  ornament the plan names, so they carry articulation. The plan gives no storey count and no roof
+  pitch for this type. The colour statement is unusual and worth keeping verbatim: the plan does not
+  say these houses are often white, it says they are white.
+example_addresses:
+  - {address: "8220 Le Trait-Carré Ouest", note: "the plan's illustrated example (fig. 29)"}
+  - {address: "8205-8207 Le Trait-Carré Ouest", note: "cited by the plan for its larmiers retroussés, a feature it counts on 26 of the site's 56 two-slope roofs"}
+  - {address: "8230 Le Trait-Carré Ouest", note: "cited as an example of the 82 maisons rurales et urbaines"}
+related_buildings:
+  - name: "Maison Magella-Paradis (1833) — the plan's named example of « les maisons traditionnelles québécoises du XIXe siècle » under valeur architecturale, and one of the houses whose gable walls carry wood cladding over a plank, brick or stone principal wall."
+    url: null
+  - name: "Maison du chapelain, 733 boulevard Louis-XIV — the plan's example of the oldest buildings' usual one-and-a-half-storey elevation."
+    url: null
+conservation: []
+photos:
+  - file: assets/places/charlesbourg/neoclassique-galerie.jpg
+    credit: >-
+      "Old house in Charlesbourg" by Wilfredor, 10 February 2021, Wikimedia Commons, released CC0
+      (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons API before
+      download. File: https://commons.wikimedia.org/wiki/File:Old_house_in_Charlesbourg.jpg
+    kind: single
+    licence: CC0
+    source_url: https://commons.wikimedia.org/wiki/File:Old_house_in_Charlesbourg.jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form, not on address. White walls, a two-slope roof whose larmier overhangs and
+      turns up over a gallery running the length of the façade, turned posts, a balustrade and
+      bracket woodwork, an end stack, and a long low rear extension in the position the plan
+      describes for the cuisine d'été.
+  - file: assets/places/charlesbourg/neoclassique-boiseries.jpg
+    credit: >-
+      "Old house in Charlesbourg 005" by Wilfredor, 10 February 2021, Wikimedia Commons, released
+      CC0 (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons API before
+      download. File: https://commons.wikimedia.org/wiki/File:Old_house_in_Charlesbourg_005.jpg
+    kind: single
+    licence: CC0
+    source_url: https://commons.wikimedia.org/wiki/File:Old_house_in_Charlesbourg_005.jpg
+    match_confidence: visual
+    match_note: >-
+      A closer view of the gallery condition: the upturned larmier carried out over turned posts,
+      with the « boiseries ornementales » — pierced brackets and a turned balustrade — that the plan
+      names as this type's ornament.
+blurb_en: >-
+  The 19th-century village house, and the one the Trait-Carré is mostly made of: a rectangular
+  white box raised just enough for a rough cellar, with the roof's larmiers reaching out past the
+  wall — often curving up as they go — to shelter a gallery running the whole width of the façade.
+  Large-paned casements sit symmetrically either side of a central door in moulded frames, and a
+  summer kitchen often repeats the house in miniature at the back.
+origin_en: >-
+  The plan makes it an explicitly post-Conquest form: British know-how, changing construction
+  technique and changing ways of living produce a new type that "marque tout le XIXe siècle", while
+  keeping the rectangular plan and the sloped roof of the French model. It is the same house
+  Saint-Lambert, Terrebonne, Lévis, Québec City and Île d'Orléans each catalogue under their own
+  names, and the Charlesbourg description is the one that insists on the colour.

@@ -1,0 +1,119 @@
+id: charlesbourg.maison-mansardee
+place: charlesbourg
+page: 50
+phase: p4
+phase_confidence: verified
+name_en: Mansard house
+name_fr: La maison mansardée
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), pp. 49–50"
+source_generation: >-
+  Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les
+  principales caractéristiques de ce type », transcribed verbatim
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - mansard-house-2st
+styles:
+  - second-empire
+tenure_plan: single-family
+storeys: null
+roof: {form: mansard, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-board-vertical
+  - wood-clapboard
+  - fieldstone-rendered
+  - clay-brick
+roofing: as the neoclassical type — cedar shingle or traditional tin
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Appears in the last quarter of the 19th century, and the plan's statistics show how far it spread — 27 of the site's 138 principal buildings, about 19 %, carry a mansard roof.
+    - Its earliest examples here favour the four-slope mansard, as on the former couvent des Soeurs du Bon-Pasteur; the two-slope version is used more from the turn of the 20th century.
+  massing:
+    - Rectangular plan, tending to lengthen relative to the individual houses of the preceding types.
+    - A mansard roof of gently pitched terrasson over a nearly vertical brisis, generally of two slopes, with four-slope and hipped variants.
+  articulation:
+    - Sometimes elaborate ornament — decorative woodwork on galleries, on dormers and around the openings.
+  openings:
+    - Symmetrically disposed, sometimes arched, of vertical proportion; often wood casements with large panes.
+  materials:
+    - Made of the same materials as the Québec house of neoclassical inspiration.
+profile_fr:
+  description:
+    - "Dans le dernier quart du XIXe siècle, un nouveau type de maison fait son apparition dans les paysages traditionnels, soit la maison mansardée issue du style Second Empire. Cette architecture trouve sa source dans l'architecture monumentale développée à Paris sous le règne de Napoléon III et qui réintroduit une forme de toit associée à la période classique française. D'abord réservé à l'architecture monumentale – bâtiments institutionnels et maisons bourgeoises –, le style Second Empire est ensuite popularisé dans l'architecture des couvents et des presbytères puis, rapidement, dans l'architecture domestique du milieu rural québécois. Le toit mansardé constitue la principale caractéristique de la maison mansardée ainsi que son plus grand avantage."
+  volumetrie:
+    - "un plan rectangulaire qui tend à s'allonger par rapport aux maisons individuelles des types précédents"
+  toiture:
+    - "un toit mansardé constitué d'un terrasson à pente douce et d'un brisis presque vertical. Ce toit est généralement à deux versants, mais il existe des variantes à quatre versants ou à croupes"
+  materiaux:
+    - "Elle est faite des mêmes matériaux que la maison québécoise d'inspiration néoclassique."
+  ouvertures:
+    - "des ouvertures disposées symétriquement, parfois cintrées, aux proportions verticales. Ces fenêtres en bois sont souvent à battants à grands carreaux"
+  ornementation:
+    - "une ornementation parfois élaborée, constituée notamment de boiseries décoratives sur les galeries, les lucarnes et autour des ouvertures"
+profile_note: >-
+  Transcribed from the plan de conservation's printed pp. 49–50. Materials are not itemised for this
+  type: the plan simply refers them back to the neoclassical house, and the cladding list here
+  repeats that record's rather than inventing one. The plan gives no storey count and no pitch. The
+  siting column carries the plan's own built-fabric statistics for mansard roofs from printed
+  pp. 45–46, which are counts for the whole site rather than for this residential type alone.
+example_addresses:
+  - {address: "8290 Le Trait-Carré Est", note: "the plan's illustrated example (fig. 30); built 1873, and the oldest brick-clad house in the site"}
+  - {address: "8147 Le Trait-Carré Ouest", note: "the plan's named witness of Second Empire influence under valeur architecturale"}
+  - {address: "8135 Le Trait-Carré Ouest", note: "the plan's example of the two-slope mansard, the form used more from the turn of the 20th century"}
+  - {address: "8180-8182 Le Trait-Carré Est", note: "built c. 1724 and given a mansard roof in 1931 — a retro-fitted mansard, not a mansard house"}
+related_buildings:
+  - name: "Presbytère de Saint-Charles-Borromée (1875), ancien couvent des Soeurs du Bon-Pasteur (1883, enlarged 1910 to plans by François-Xavier Berlinguet), and the church's second sacristy (1887, plans by David Ouellet) — the institutional buildings through which, the plan says, the Second Empire arrived here."
+    url: null
+conservation: []
+photos:
+  - file: assets/places/charlesbourg/maison-mansardee.jpg
+    credit: >-
+      "House in Charlesbourg, Quebec City 01" by Wilfredor, 9 February 2021, Wikimedia Commons,
+      released CC0 (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons
+      API before download. File:
+      https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_01.jpg
+    kind: single
+    licence: CC0
+    source_url: https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_01.jpg
+    match_confidence: visual
+    match_note: >-
+      Matched on form, not on address, though the civic number 7960 is legible on the façade. It
+      carries the plan's description almost item for item: a two-slope mansard of gently pitched
+      terrasson over a near-vertical brisis, here in traditional tin; two dormers set in the brisis;
+      symmetrical, vertically proportioned openings; and decorative woodwork on the gallery and
+      around the dormers, which is the "ornementation parfois élaborée" the plan names.
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 30 — the plan's own
+      photograph of 8290 Le Trait-Carré Est, the example it prints for this type.
+      © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+  - file: null
+    credit: >-
+      "Presbytère Saint-Charles-Borromée" by Wilfredor, 9 February 2021, Wikimedia Commons, CC0 —
+      licence read on the Commons API and clear for use, but the image is of the presbytery, an
+      institutional building, not of a mansard HOUSE, so it is recorded rather than rendered on this
+      card. File: https://commons.wikimedia.org/wiki/File:Presbyt%C3%A8re_Saint-Charles-Borrom%C3%A9e.jpg
+    kind: placeholder
+    licence: CC0
+    source_url: https://commons.wikimedia.org/wiki/File:Presbyt%C3%A8re_Saint-Charles-Borrom%C3%A9e.jpg
+blurb_en: >-
+  A rectangular plan that stretches longer than the houses before it, under a roof of gentle
+  terrasson over an almost vertical brisis — two slopes usually, four or hipped sometimes.
+  Symmetrical, vertically proportioned openings, occasionally arched, and ornament that can turn
+  elaborate: decorative woodwork on the galleries, on the dormers and round the windows. Its
+  materials are simply those of the neoclassical house it succeeds.
+origin_en: >-
+  The plan traces the route explicitly: monumental Paris under Napoleon III, reintroducing a roof
+  form of the French classical period; then Québec's institutional buildings and bourgeois houses;
+  then convents and presbyteries; then, quickly, rural domestic architecture. Charlesbourg shows the
+  whole chain in one place — the presbytery of 1875, the convent of 1883 and the sacristy of 1887
+  are all Second Empire, and the houses follow. The plan is also candid that some mansards here are
+  retro-fits: a few old houses got one to make the attic habitable.

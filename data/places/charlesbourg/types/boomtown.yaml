@@ -1,0 +1,84 @@
+id: charlesbourg.boomtown
+place: charlesbourg
+page: 51
+phase: p5
+phase_confidence: verified
+group_parent: maison-vernaculaire-industrielle
+name_en: Boomtown building
+name_fr: Le bâtiment « Boomtown »
+source_ref: "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51"
+source_generation: >-
+  Plan de conservation, the sub-variant bullet inside « Voici les principales caractéristiques de ce
+  type » for the maison vernaculaire industrielle, transcribed verbatim
+sectors: [PARC-2, PARC-3, UP-3]
+canonical:
+  - boomtown-false-front
+styles:
+  - boomtown
+  - vernaculaire-industriel
+tenure_plan: mixed
+storeys: null
+roof: {form: flat, pitch_deg: null}
+window_proportion: vertical
+principal_cladding:
+  - wood-clapboard
+  - clay-brick
+roofing: null
+garage: null
+lot_width_m: null
+setback_front_m: null
+setback_side_m: null
+front_yard_green_pct: null
+profile:
+  siting_landscape:
+    - Flat roofs account for 31 of the site's 138 principal buildings, about 22 %, and the plan says most of them date from the 20th century.
+    - The oldest flat roof in the site is not a house at all but a former forge at 7821 Le Trait-Carré Est, built between 1863 and 1886.
+  massing:
+    - Distinguished by its flat or low-pitched roof, concealed behind a parapet.
+  articulation:
+    - Inherited from the parent type — standardised architectural elements, doors and windows. The parapet is the type's defining articulation.
+  openings:
+    - Rectangular openings of vertical proportion; wood windows, casement or sash.
+  materials:
+    - Machined materials; the parent type's beams, boards and asbestos-cement tile.
+profile_fr:
+  sous_variantes:
+    - "le bâtiment « Boomtown » se distingue par son toit plat ou à faible pente dissimulé derrière un parapet"
+  volumetrie:
+    - "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+  ouvertures:
+    - "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+  materiaux:
+    - "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+profile_note: >-
+  The sub-variant bullet is transcribed verbatim from printed p. 51 and is a single line — the
+  shortest type definition in this part. The volumetrie, ouvertures and materiaux entries are the
+  parent type's shared bullets, repeated so the child record stands on its own. The siting column
+  carries the plan's flat-roof statistics from printed p. 45, which count the whole site rather than
+  this sub-variant alone. The plan also notes that the salle Pierre-Garon of 1925, an institutional
+  building, carries a parapet « évoquant l'architecture "Boomtown" » — the vocabulary travelling
+  from the shopfront to the parish hall.
+example_addresses:
+  - {address: "7868 Le Trait-Carré Est", note: "the plan's example (fig. 31)"}
+  - {address: "7821 Le Trait-Carré Est", note: "the site's oldest flat roof — a former forge built between 1863 and 1886 (fig. 24), later a dwelling"}
+  - {address: "7845-7847 1re Avenue", note: "a mixed commerce-and-dwelling of the kind the plan counts at 14 in the site; its secondary building still carries the painted signs « Verret », « Graine », « Miel »"}
+conservation: []
+photos:
+  - file: null
+    credit: >-
+      Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 (third of three) —
+      7868 Le Trait-Carré Est. © Gouvernement du Québec, ministère de la Culture et des
+      Communications. Not reproduced.
+    kind: placeholder
+    licence: permission required
+    source_url: https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf
+blurb_en: >-
+  One line in the plan and nothing more: a flat or barely sloping roof hidden behind a parapet. It
+  is the shopkeeper's end of the industrial vernacular, and at Charlesbourg it belongs with the
+  fourteen buildings that put a shop on the ground floor and a dwelling above it.
+origin_en: >-
+  Boomtown is now the most widely distributed form on this site, catalogued at Saint-Lambert,
+  Gatineau, Québec City, Trois-Rivières, Lévis, Île d'Orléans and here. Charlesbourg is the case
+  where it is filed as a sub-variant rather than a type, and where the plan shows the parapet
+  jumping category: the salle paroissiale of 1925, now the salle Pierre-Garon, borrows it for a
+  parish hall.

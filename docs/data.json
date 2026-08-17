@@ -795,6 +795,840 @@
    "url": "types/arvida.wartime-housing/"
   },
   {
+   "id": "charlesbourg.maison-rurale-inspiration-francaise",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p2",
+   "phase_label": "1665–1760",
+   "phase_years": "1665 – 1760",
+   "phase_title": "The radial bourg and the French-inspired farmhouse",
+   "name_en": "Rural house of French inspiration",
+   "name_fr": "La maison rurale d'inspiration française",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 48",
+   "canonical": [
+    "french-rural-house-1st-hip"
+   ],
+   "canonical_names": [
+    "One-storey rural house of French inspiration, pièce-sur-pièce walls, hipped roof without eaves, no cellar"
+   ],
+   "styles": [
+    "french-regime"
+   ],
+   "style_names": [
+    "French-regime rural house"
+   ],
+   "style_label": "French-regime rural house",
+   "tenure_plan": "single-family",
+   "storeys": "1.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "wood-piece-sur-piece",
+    "fieldstone-rendered"
+   ],
+   "roofing": "bardeaux de bois",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Generally set without regard to the public road, its principal façade turned south for the most sunlight — the sharpest siting rule in this part, and the opposite of Île d'Orléans, where the chemin Royal governs.",
+     "The oldest dwelling type in the site. Survivors stand mainly on the ceinture, the old farm lots outside the Trait-Carré."
+    ],
+    "massing": [
+     "Almost square or rectangular plan, of modest dimensions, one and a half storeys.",
+     "Barely raised off the ground, with squat proportions.",
+     "Two straight steeply pitched slopes, covered in wood shingle."
+    ],
+    "articulation": [
+     "The plan lists no ornament for this type at all — the whole description is plan, roof, walls, openings and chimneys."
+    ],
+    "openings": [
+     "Asymmetrically disposed; wood casement windows with small panes."
+    ],
+    "materials": [
+     "Walls of pièce-sur-pièce or of stone, the stone usually rendered and whitewashed.",
+     "One or two chimney stacks emerging from the roof."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "La maison rurale d'inspiration française est le plus ancien type d'habitation que l'on trouve sur le territoire du site patrimonial. Ce type s'est adapté aux conditions locales particulières, telles que le climat, les savoir-faire et les matériaux disponibles."
+    ],
+    "implantation": [
+     "Ce type de bâtiment est généralement implanté sans égard à la voie publique et sa façade principale est orientée vers le sud pour bénéficier d'un maximum d'ensoleillement."
+    ],
+    "volumetrie": [
+     "un plan presque carré ou rectangulaire. Des dimensions modestes et un volume d'un étage et demi. La maison est peu exhaussée du sol et ses proportions sont trapues"
+    ],
+    "toiture": [
+     "un toit à deux versants droits à forte pente, couvert en bardeaux de bois"
+    ],
+    "materiaux": [
+     "des murs en pièce sur pièce ou en pierre (habituellement recouverte d'un crépi et chaulée)",
+     "une ou deux souches de cheminées émergent de sa toiture"
+    ],
+    "ouvertures": [
+     "des ouvertures disposées de façon asymétrique. Ces fenêtres en bois sont à battants à petits carreaux"
+    ]
+   },
+   "profile_note": "Transcribed from the plan de conservation's printed p. 48. The French under each column is the plan's own wording, unedited: the five bullets of « Voici les principales caractéristiques de ce type » plus the two sentences of the introductory paragraph, which carry the siting rule and the type's position in the sequence. The plan supplies no ornament, no window proportion and no roof pitch in degrees for this type, so those cells stay empty rather than being filled by inference.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les principales caractéristiques de ce type », transcribed verbatim",
+   "blurb_en": "The oldest house in the site and the only one that ignores the road: a low, squat, one-and-a-half storey box of pièce-sur-pièce or whitewashed rendered stone, under two straight steep slopes of wood shingle, with one or two stacks and small-paned casements set wherever the inside wanted them. Its façade faces south for the sun, whatever direction the Trait-Carré happens to run.",
+   "origin_en": "The house of the Régime français, built on the trapezoidal farm lots the Jesuits conceded from 1665 and, under the règle du tiers, always in the first third of the lot against the Trait-Carré. The plan de conservation warns that this type is easier to see than to date: several 18th-century houses were altered so heavily that their apparent age is nothing like their real one — 8180-8182 Le Trait-Carré Est was built about 1724 and given a mansard roof in 1931 — while the maison Éphraïm-Bédard looks like a French-inspired farmhouse and was built about a century later.",
+   "photo": {
+    "file": "assets/places/charlesbourg/rurale-inspiration-francaise.jpg",
+    "credit": "\"House in Charlesbourg, Quebec City 03\" by Wilfredor, 9 February 2021, Wikimedia Commons, released CC0 (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons API before download. File: https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_03.jpg",
+    "kind": "single",
+    "licence": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_03.jpg",
+    "match_confidence": "visual",
+    "match_note": "Matched on form, not on address. The photograph shows the type's diagnostic set — one and a half storeys barely raised off the ground, squat proportions, two straight steep slopes in wood shingle, gable dormers, a central stack, vertical plank cladding. The plan records that the two houses converted to cultural spaces, maison Éphraïm-Bédard and maison Pierre-Lefebvre, are the ones clad « en planches verticales », and the building in the photograph carries a cultural society's banner; which of the two it is has not been confirmed, so it is not named.",
+    "w": 960,
+    "h": 629,
+    "alt": "Photograph of Rural house of French inspiration houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.maison-rurale-inspiration-francaise/"
+  },
+  {
+   "id": "charlesbourg.maison-quebecoise-neoclassique",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p3",
+   "phase_label": "1760–1875",
+   "phase_years": "1760 – 1875",
+   "phase_title": "The neoclassical village and Baillairgé's church",
+   "name_en": "Québec house of neoclassical inspiration",
+   "name_fr": "La maison québécoise d'inspiration néoclassique",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 49",
+   "canonical": [
+    "quebec-traditional-1-5st-gable"
+   ],
+   "canonical_names": [
+    "One-and-a-half-storey rectangular house, steep two-slope roof (straight or bell-cast), full-width gallery under the eaves, stone or wood"
+   ],
+   "styles": [
+    "neoclassical-quebec"
+   ],
+   "style_names": [
+    "Québec neoclassical"
+   ],
+   "style_label": "Québec neoclassical",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood-board-vertical",
+    "wood-clapboard",
+    "fieldstone-rendered"
+   ],
+   "roofing": "bardeaux de cèdre ou tôle traditionnelle à la canadienne ou à baguettes",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The type that marks the whole 19th century in the site, and the one that fills the Trait-Carré on both sides."
+    ],
+    "massing": [
+     "Rectangular plan, raised off the ground to give a rudimentary cellar.",
+     "Two-slope roof with overhanging larmiers, sometimes upturned.",
+     "A summer kitchen sometimes repeats the volume of the house at reduced scale, set back against the north-east wall or perpendicular at the rear."
+    ],
+    "articulation": [
+     "A gallery running along the façade, sheltered by the overhanging larmier — a transitional space between inside and out, often decorated with ornamental woodwork.",
+     "Openings framed by moulded wood chambranles."
+    ],
+    "openings": [
+     "Many wood casement windows with large panes, rectangular and vertically proportioned, usually set symmetrically about the door at the centre of the façade."
+    ],
+    "materials": [
+     "Pièce-sur-pièce or madrier-sur-madrier structure.",
+     "Vertical or horizontal plank cladding, or fieldstone rendered and whitewashed. In wood or in masonry alike, these houses are white."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "Après la Conquête, les Britanniques introduisent de nouveaux savoir-faire qui, couplés à l'évolution des techniques de construction et des manières d'habiter, favorisent l'émergence d'un nouveau type architectural qui marque tout le XIXe siècle : la maison québécoise d'inspiration néoclassique. Ce type reprend certaines caractéristiques du modèle français, dont le plan rectangulaire et le toit à versants."
+    ],
+    "volumetrie": [
+     "un plan rectangulaire surélevé du sol afin d'aménager une cave rudimentaire"
+    ],
+    "toiture": [
+     "un toit à deux versants à larmiers débordants, parfois recourbés, couvert de bardeaux de cèdre ou de tôle traditionnelle à la canadienne ou à baguettes"
+    ],
+    "saillies": [
+     "une galerie longeant la façade, protégée par le larmier débordant du toit, espace de transition entre l'intérieur et l'extérieur, souvent décorée de boiseries ornementales",
+     "une cuisine d'été reprenant parfois le volume de la maison à une échelle réduite, généralement implantée en recul contre le mur nord-est ou perpendiculairement à l'arrière"
+    ],
+    "materiaux": [
+     "une structure construite en pièce sur pièce ou en madrier sur madrier",
+     "un parement de planches verticales ou horizontales, ou en maçonnerie de pierres des champs recouverte d'un crépi et chaulée. En bois ou en maçonnerie, ces maisons sont de couleur blanche"
+    ],
+    "ouvertures": [
+     "de nombreuses fenêtres en bois à battants à grands carreaux, de forme rectangulaire aux proportions verticales. Ces fenêtres sont souvent disposées symétriquement autour de la porte occupant le centre de la façade. Les ouvertures sont encadrées de chambranles moulurés en bois"
+    ]
+   },
+   "profile_note": "Transcribed from the plan de conservation's printed p. 49. The seven bullets of « Voici les principales caractéristiques de ce type » are split across the columns: plan and roof make up massing, the gallery and the summer kitchen sit under saillies, structure and cladding are materials, and the ornamental woodwork of the gallery and the moulded chambranles are the only ornament the plan names, so they carry articulation. The plan gives no storey count and no roof pitch for this type. The colour statement is unusual and worth keeping verbatim: the plan does not say these houses are often white, it says they are white.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les principales caractéristiques de ce type », transcribed verbatim",
+   "blurb_en": "The 19th-century village house, and the one the Trait-Carré is mostly made of: a rectangular white box raised just enough for a rough cellar, with the roof's larmiers reaching out past the wall — often curving up as they go — to shelter a gallery running the whole width of the façade. Large-paned casements sit symmetrically either side of a central door in moulded frames, and a summer kitchen often repeats the house in miniature at the back.",
+   "origin_en": "The plan makes it an explicitly post-Conquest form: British know-how, changing construction technique and changing ways of living produce a new type that \"marque tout le XIXe siècle\", while keeping the rectangular plan and the sloped roof of the French model. It is the same house Saint-Lambert, Terrebonne, Lévis, Québec City and Île d'Orléans each catalogue under their own names, and the Charlesbourg description is the one that insists on the colour.",
+   "photo": {
+    "file": "assets/places/charlesbourg/neoclassique-galerie.jpg",
+    "credit": "\"Old house in Charlesbourg\" by Wilfredor, 10 February 2021, Wikimedia Commons, released CC0 (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons API before download. File: https://commons.wikimedia.org/wiki/File:Old_house_in_Charlesbourg.jpg",
+    "kind": "single",
+    "licence": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Old_house_in_Charlesbourg.jpg",
+    "match_confidence": "visual",
+    "match_note": "Matched on form, not on address. White walls, a two-slope roof whose larmier overhangs and turns up over a gallery running the length of the façade, turned posts, a balustrade and bracket woodwork, an end stack, and a long low rear extension in the position the plan describes for the cuisine d'été.",
+    "w": 960,
+    "h": 580,
+    "alt": "Photograph of Québec house of neoclassical inspiration houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.maison-quebecoise-neoclassique/"
+  },
+  {
+   "id": "charlesbourg.maison-mansardee",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p4",
+   "phase_label": "1875–1925",
+   "phase_years": "1875 – 1925",
+   "phase_title": "Mansards and the institutional build-out",
+   "name_en": "Mansard house",
+   "name_fr": "La maison mansardée",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), pp. 49–50",
+   "canonical": [
+    "mansard-house-2st"
+   ],
+   "canonical_names": [
+    "Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under its own awning"
+   ],
+   "styles": [
+    "second-empire"
+   ],
+   "style_names": [
+    "Second Empire / mansard"
+   ],
+   "style_label": "Second Empire / mansard",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": "mansard",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood-board-vertical",
+    "wood-clapboard",
+    "fieldstone-rendered",
+    "clay-brick"
+   ],
+   "roofing": "as the neoclassical type — cedar shingle or traditional tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Appears in the last quarter of the 19th century, and the plan's statistics show how far it spread — 27 of the site's 138 principal buildings, about 19 %, carry a mansard roof.",
+     "Its earliest examples here favour the four-slope mansard, as on the former couvent des Soeurs du Bon-Pasteur; the two-slope version is used more from the turn of the 20th century."
+    ],
+    "massing": [
+     "Rectangular plan, tending to lengthen relative to the individual houses of the preceding types.",
+     "A mansard roof of gently pitched terrasson over a nearly vertical brisis, generally of two slopes, with four-slope and hipped variants."
+    ],
+    "articulation": [
+     "Sometimes elaborate ornament — decorative woodwork on galleries, on dormers and around the openings."
+    ],
+    "openings": [
+     "Symmetrically disposed, sometimes arched, of vertical proportion; often wood casements with large panes."
+    ],
+    "materials": [
+     "Made of the same materials as the Québec house of neoclassical inspiration."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "Dans le dernier quart du XIXe siècle, un nouveau type de maison fait son apparition dans les paysages traditionnels, soit la maison mansardée issue du style Second Empire. Cette architecture trouve sa source dans l'architecture monumentale développée à Paris sous le règne de Napoléon III et qui réintroduit une forme de toit associée à la période classique française. D'abord réservé à l'architecture monumentale – bâtiments institutionnels et maisons bourgeoises –, le style Second Empire est ensuite popularisé dans l'architecture des couvents et des presbytères puis, rapidement, dans l'architecture domestique du milieu rural québécois. Le toit mansardé constitue la principale caractéristique de la maison mansardée ainsi que son plus grand avantage."
+    ],
+    "volumetrie": [
+     "un plan rectangulaire qui tend à s'allonger par rapport aux maisons individuelles des types précédents"
+    ],
+    "toiture": [
+     "un toit mansardé constitué d'un terrasson à pente douce et d'un brisis presque vertical. Ce toit est généralement à deux versants, mais il existe des variantes à quatre versants ou à croupes"
+    ],
+    "materiaux": [
+     "Elle est faite des mêmes matériaux que la maison québécoise d'inspiration néoclassique."
+    ],
+    "ouvertures": [
+     "des ouvertures disposées symétriquement, parfois cintrées, aux proportions verticales. Ces fenêtres en bois sont souvent à battants à grands carreaux"
+    ],
+    "ornementation": [
+     "une ornementation parfois élaborée, constituée notamment de boiseries décoratives sur les galeries, les lucarnes et autour des ouvertures"
+    ]
+   },
+   "profile_note": "Transcribed from the plan de conservation's printed pp. 49–50. Materials are not itemised for this type: the plan simply refers them back to the neoclassical house, and the cladding list here repeats that record's rather than inventing one. The plan gives no storey count and no pitch. The siting column carries the plan's own built-fabric statistics for mansard roofs from printed pp. 45–46, which are counts for the whole site rather than for this residential type alone.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les principales caractéristiques de ce type », transcribed verbatim",
+   "blurb_en": "A rectangular plan that stretches longer than the houses before it, under a roof of gentle terrasson over an almost vertical brisis — two slopes usually, four or hipped sometimes. Symmetrical, vertically proportioned openings, occasionally arched, and ornament that can turn elaborate: decorative woodwork on the galleries, on the dormers and round the windows. Its materials are simply those of the neoclassical house it succeeds.",
+   "origin_en": "The plan traces the route explicitly: monumental Paris under Napoleon III, reintroducing a roof form of the French classical period; then Québec's institutional buildings and bourgeois houses; then convents and presbyteries; then, quickly, rural domestic architecture. Charlesbourg shows the whole chain in one place — the presbytery of 1875, the convent of 1883 and the sacristy of 1887 are all Second Empire, and the houses follow. The plan is also candid that some mansards here are retro-fits: a few old houses got one to make the attic habitable.",
+   "photo": {
+    "file": "assets/places/charlesbourg/maison-mansardee.jpg",
+    "credit": "\"House in Charlesbourg, Quebec City 01\" by Wilfredor, 9 February 2021, Wikimedia Commons, released CC0 (Creative Commons Zero, Public Domain Dedication) — licence read on the Commons API before download. File: https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_01.jpg",
+    "kind": "single",
+    "licence": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:House_in_Charlesbourg,_Quebec_City_01.jpg",
+    "match_confidence": "visual",
+    "match_note": "Matched on form, not on address, though the civic number 7960 is legible on the façade. It carries the plan's description almost item for item: a two-slope mansard of gently pitched terrasson over a near-vertical brisis, here in traditional tin; two dormers set in the brisis; symmetrical, vertically proportioned openings; and decorative woodwork on the gallery and around the dormers, which is the \"ornementation parfois élaborée\" the plan names.",
+    "w": 960,
+    "h": 640,
+    "alt": "Photograph of Mansard house houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.maison-mansardee/"
+  },
+  {
+   "id": "charlesbourg.boomtown",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p5",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Vernaculaire industriel",
+   "name_en": "Boomtown building",
+   "name_fr": "Le bâtiment « Boomtown »",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51",
+   "canonical": [
+    "boomtown-false-front"
+   ],
+   "canonical_names": [
+    "Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown"
+   ],
+   "styles": [
+    "boomtown",
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "Boomtown (false front)",
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": "Boomtown (false front) / Vernaculaire industriel (Québec industrial vernacular)",
+   "tenure_plan": "mixed",
+   "storeys": null,
+   "roof": {
+    "form": "flat",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood-clapboard",
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Flat roofs account for 31 of the site's 138 principal buildings, about 22 %, and the plan says most of them date from the 20th century.",
+     "The oldest flat roof in the site is not a house at all but a former forge at 7821 Le Trait-Carré Est, built between 1863 and 1886."
+    ],
+    "massing": [
+     "Distinguished by its flat or low-pitched roof, concealed behind a parapet."
+    ],
+    "articulation": [
+     "Inherited from the parent type — standardised architectural elements, doors and windows. The parapet is the type's defining articulation."
+    ],
+    "openings": [
+     "Rectangular openings of vertical proportion; wood windows, casement or sash."
+    ],
+    "materials": [
+     "Machined materials; the parent type's beams, boards and asbestos-cement tile."
+    ]
+   },
+   "profile_fr": {
+    "sous_variantes": [
+     "le bâtiment « Boomtown » se distingue par son toit plat ou à faible pente dissimulé derrière un parapet"
+    ],
+    "volumetrie": [
+     "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+    ],
+    "ouvertures": [
+     "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+    ],
+    "materiaux": [
+     "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+    ]
+   },
+   "profile_note": "The sub-variant bullet is transcribed verbatim from printed p. 51 and is a single line — the shortest type definition in this part. The volumetrie, ouvertures and materiaux entries are the parent type's shared bullets, repeated so the child record stands on its own. The siting column carries the plan's flat-roof statistics from printed p. 45, which count the whole site rather than this sub-variant alone. The plan also notes that the salle Pierre-Garon of 1925, an institutional building, carries a parapet « évoquant l'architecture \"Boomtown\" » — the vocabulary travelling from the shopfront to the parish hall.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation, the sub-variant bullet inside « Voici les principales caractéristiques de ce type » for the maison vernaculaire industrielle, transcribed verbatim",
+   "blurb_en": "One line in the plan and nothing more: a flat or barely sloping roof hidden behind a parapet. It is the shopkeeper's end of the industrial vernacular, and at Charlesbourg it belongs with the fourteen buildings that put a shop on the ground floor and a dwelling above it.",
+   "origin_en": "Boomtown is now the most widely distributed form on this site, catalogued at Saint-Lambert, Gatineau, Québec City, Trois-Rivières, Lévis, Île d'Orléans and here. Charlesbourg is the case where it is filed as a sub-variant rather than a type, and where the plan shows the parapet jumping category: the salle paroissiale of 1925, now the salle Pierre-Garon, borrows it for a parish hall.",
+   "photo": {
+    "file": null,
+    "credit": "Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 (third of three) — 7868 Le Trait-Carré Est. © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Boomtown building houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.boomtown/"
+  },
+  {
+   "id": "charlesbourg.cubique",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p5",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Vernaculaire industriel",
+   "name_en": "Cubic house (Four Square)",
+   "name_fr": "La maison cubique (ou « Four Square »)",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51",
+   "canonical": [
+    "foursquare-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey square or rectangular block under a pyramidal or hipped roof, brick, gallery or porch"
+   ],
+   "styles": [
+    "foursquare",
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "American Foursquare",
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": "American Foursquare / Vernaculaire industriel (Québec industrial vernacular)",
+   "tenure_plan": "mixed",
+   "storeys": "2",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood-clapboard",
+    "clay-brick"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "The plan notes that most of the site's pavilion roofs sit on two-storey cubic houses built in the first decades of the 20th century."
+    ],
+    "massing": [
+     "Distinguished by a square plan of two storeys.",
+     "Low-pitched pavilion roof, sometimes with a dormer on the front slope."
+    ],
+    "articulation": [
+     "Inherited from the parent type — standardised architectural elements, doors and windows."
+    ],
+    "openings": [
+     "Rectangular openings of vertical proportion; wood windows, casement or sash."
+    ],
+    "materials": [
+     "Cladding often of horizontal boards or of brick."
+    ]
+   },
+   "profile_fr": {
+    "sous_variantes": [
+     "la maison cubique se distingue par un plan carré à deux étages. Sur son toit en pavillon à faible pente, on trouve parfois une lucarne sur le versant avant. Son parement est souvent en planches horizontales ou en brique"
+    ],
+    "volumetrie": [
+     "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+    ],
+    "ouvertures": [
+     "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+    ],
+    "materiaux": [
+     "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+    ]
+   },
+   "profile_note": "The sub-variant bullet is transcribed verbatim from printed p. 51; the volumetrie, ouvertures and materiaux entries are the parent type's shared bullets, repeated here so the child record stands on its own. The plan gives no roofing material and no pitch for the cubique.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation, the sub-variant bullet inside « Voici les principales caractéristiques de ce type » for the maison vernaculaire industrielle, transcribed verbatim",
+   "blurb_en": "A square plan two storeys high under a shallow pavilion roof, sometimes with a single dormer on the front slope, clad in horizontal boards or brick. The plan gives it three lines and no more — which is itself the point: the whole appeal of the industrial vernacular was that it needed no more than three lines to describe.",
+   "origin_en": "The same American Foursquare that Saint-Lambert, Gatineau, Québec City, Trois-Rivières, Lévis and Île d'Orléans all catalogue. What differs at Charlesbourg is its rank: here it is a sub-variant inside the maison vernaculaire industrielle rather than a courant of its own, and the plan's built-fabric survey confirms it arrived with the century, putting most of the site's pavilion roofs on two-storey cubic houses of the first decades of the 20th century.",
+   "photo": {
+    "file": null,
+    "credit": "Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 (first of three) — 723-725-727 boulevard Louis-XIV. © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Cubic house (Four Square) houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.cubique/"
+  },
+  {
+   "id": "charlesbourg.maison-vernaculaire-industrielle",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p5",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Vernaculaire industriel",
+   "name_en": "Industrial vernacular house",
+   "name_fr": "La maison vernaculaire industrielle",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), pp. 50–51",
+   "canonical": [
+    "industrial-vernacular-group"
+   ],
+   "canonical_names": [
+    "Maison vernaculaire industrielle (group — cubique, cottage vernaculaire, Boomtown)"
+   ],
+   "styles": [
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": "Vernaculaire industriel (Québec industrial vernacular)",
+   "tenure_plan": "mixed",
+   "storeys": null,
+   "roof": {
+    "form": null,
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood-clapboard",
+    "clay-brick",
+    "asbestos-cement-tile"
+   ],
+   "roofing": "varies by sub-variant",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "From the end of the 19th century until the Second World War, this is the type that dominates new building in the site — the plan's words are \"le type qui domine les nouvelles constructions\"."
+    ],
+    "massing": [
+     "A simplified volume. A light frame, also called \"Balloon Frame\".",
+     "Suits the single-family dwelling but can also hold two."
+    ],
+    "articulation": [
+     "Standardised architectural elements, such as doors and windows."
+    ],
+    "openings": [
+     "Rectangular openings of vertical proportion; wood windows, casement or sash."
+    ],
+    "materials": [
+     "Machined materials — beams and boards. New materials appearing at the start of the 20th century, such as asbestos-cement tile."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "De la fin du XIXe siècle jusqu'à la Seconde Guerre mondiale, l'architecture vernaculaire industrielle est le type qui domine les nouvelles constructions érigées dans le site patrimonial. Les phénomènes de la standardisation des matériaux, de la mécanisation du travail et de la diffusion à grande échelle de plans au moyen de catalogues et de revues à travers l'Amérique du Nord ont donné naissance à cette architecture aux États-Unis. Elle est ensuite introduite au Canada et devient populaire grâce à la simplicité et au faible coût de sa construction. La maison vernaculaire se décline en de multiples variantes adaptées à des besoins spécifiques. Elle convient à l'habitation unifamiliale, mais peut aussi abriter deux logements. Elle comprend, notamment, la maison cubique (ou « Four Square »), le cottage vernaculaire et les bâtiments de type « Boomtown »."
+    ],
+    "volumetrie": [
+     "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+    ],
+    "materiaux": [
+     "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+    ],
+    "ouvertures": [
+     "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+    ],
+    "sous_variantes": [
+     "la maison cubique se distingue par un plan carré à deux étages. Sur son toit en pavillon à faible pente, on trouve parfois une lucarne sur le versant avant. Son parement est souvent en planches horizontales ou en brique",
+     "le cottage vernaculaire se compare à la maison québécoise d'inspiration néoclassique par sa forme générale, mais son avant-toit diffère par le larmier sans coyaux et sa pente légèrement plus faible. Il existe une variante où la façade est aménagée sur le mur pignon",
+     "le bâtiment « Boomtown » se distingue par son toit plat ou à faible pente dissimulé derrière un parapet"
+    ]
+   },
+   "profile_note": "Transcribed from the plan de conservation's printed pp. 50–51. This is a parent record: the plan sets out three shared characteristics for the type as a whole and then three further bullets, each defining one sub-variant, and those three are reproduced here in full under Sous-variantes and again on the child records. The roof form and storey count are deliberately null on the parent, because the plan gives a different roof to each child — pavilion for the cubique, gabled for the cottage vernaculaire, flat behind a parapet for the Boomtown. This nesting is the plan's own reading; the Île d'Orléans inventory and the Lévis catalogue treat the same three forms as three top-level courants instead, which is why the canonical layer carries both.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les principales caractéristiques de ce type », transcribed verbatim. The last three bullets each define one sub-variant and are carried on the three child records.",
+   "blurb_en": "The type that took over. From the 1890s to the Second World War it is what got built here: a simplified volume on a balloon frame, machined beams and boards, catalogue doors and windows, asbestos-cement tile, rectangular vertically proportioned casements or sashes — cheap, simple and adaptable enough to hold one household or two. The plan then splits it three ways: cubique, cottage vernaculaire, Boomtown.",
+   "origin_en": "Standardised materials, mechanised labour and plans distributed at continental scale through catalogues and magazines produced this architecture in the United States; it came to Canada and spread on the strength of how simple and cheap it was to build. Charlesbourg's plan de conservation is one of the two Québec sources on this site that treat the three forms as one family with a parent — the Ville de Québec thésaurus is the other — while the MRC de L'Île-d'Orléans and the Ville de Lévis list them as separate courants of equal rank. Nothing in the buildings changes; the disagreement is entirely about the level of the category.",
+   "photo": {
+    "file": null,
+    "credit": "Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 — the plan's own three-photograph strip showing, in order, 723-725-727 boulevard Louis-XIV, 8210 Le Trait-Carré Est and 7868 Le Trait-Carré Est. © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Industrial vernacular house houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.maison-vernaculaire-industrielle/"
+  },
+  {
+   "id": "charlesbourg.cottage-vernaculaire",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p5",
+   "phase_label": "1900–1945",
+   "phase_years": "1900 – 1945",
+   "phase_title": "Vernaculaire industriel",
+   "name_en": "Vernacular cottage",
+   "name_fr": "Le cottage vernaculaire",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51",
+   "canonical": [
+    "industrial-vernacular-cottage"
+   ],
+   "canonical_names": [
+    "Industrial-vernacular cottage, 1½–2½ storeys, rectangular/L/T plan, straight two-slope roof"
+   ],
+   "styles": [
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": "Vernaculaire industriel (Québec industrial vernacular)",
+   "tenure_plan": "mixed",
+   "storeys": null,
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood-clapboard",
+    "asbestos-cement-tile"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Reads at a glance as the traditional Québec house it stands beside on the Trait-Carré; the difference is in the eave."
+    ],
+    "massing": [
+     "Compares to the Québec house of neoclassical inspiration in its general form.",
+     "But its eave differs — the larmier has no coyaux, and its pitch is slightly shallower.",
+     "A variant sets the façade on the gable wall."
+    ],
+    "articulation": [
+     "Inherited from the parent type — standardised architectural elements, doors and windows."
+    ],
+    "openings": [
+     "Rectangular openings of vertical proportion; wood windows, casement or sash."
+    ],
+    "materials": [
+     "Machined materials; the parent type's beams, boards and asbestos-cement tile."
+    ]
+   },
+   "profile_fr": {
+    "sous_variantes": [
+     "le cottage vernaculaire se compare à la maison québécoise d'inspiration néoclassique par sa forme générale, mais son avant-toit diffère par le larmier sans coyaux et sa pente légèrement plus faible. Il existe une variante où la façade est aménagée sur le mur pignon"
+    ],
+    "volumetrie": [
+     "un volume simplifié. Une charpente claire, aussi appelée « Balloon Frame »"
+    ],
+    "ouvertures": [
+     "des ouvertures de forme rectangulaire aux proportions verticales. Ces fenêtres en bois sont à battants ou à guillotine"
+    ],
+    "materiaux": [
+     "des matériaux usinés, tels que les poutres et les planches. Des nouveaux matériaux faisant leur apparition au début du XXe siècle, comme la tuile d'amiante-ciment. Des éléments architecturaux standardisés, tels que les portes et les fenêtres"
+    ]
+   },
+   "profile_note": "The sub-variant bullet is transcribed verbatim and in full from printed p. 51, because it is the clearest published statement anywhere in the sources this site draws on of how the industrial vernacular differs from the traditional type it imitates. The distinction turns on one word: a coyau is the short piece fixed at the foot of a rafter that lifts and curves the eave outward, producing the larmier retroussé of the traditional Québec roof. The cottage vernaculaire keeps the silhouette and drops the coyau, so the eave runs straight out instead of flaring — and the pitch slackens slightly with it. The plan's own built-fabric survey gives the arithmetic of that distinction across the site: of 56 two-slope roofs, 26 have larmiers retroussés and 30 do not. The volumetrie, ouvertures and materiaux entries are the parent type's shared bullets, repeated so the child record stands on its own.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation, the sub-variant bullet inside « Voici les principales caractéristiques de ce type » for the maison vernaculaire industrielle, transcribed verbatim",
+   "blurb_en": "The industrial vernacular wearing the traditional house's clothes. In general form it is the Québec house of neoclassical inspiration; what gives it away is the eave, where the larmier runs out straight because there is no coyau under it, on a pitch that is slightly shallower. One variant turns the façade onto the gable wall.",
+   "origin_en": "The plan's sentence on this form is the most useful in the whole part, because it is the only place in these sources where a document says plainly what separates a mass-produced house from the handbuilt one it copies — and the answer is a single missing piece of carpentry. The coyau is fiddly work; the balloon frame and the catalogue plan dispensed with it. This is the same form the Île d'Orléans inventory calls the cottage vernaculaire américain, Lévis calls the vernaculaire américain, and Québec City catalogues as the cottage vernaculaire industriel.",
+   "photo": {
+    "file": null,
+    "credit": "Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 31 (second of three) — 8210 Le Trait-Carré Est. © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Vernacular cottage houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.cottage-vernaculaire/"
+  },
+  {
+   "id": "charlesbourg.residence-apres-guerre",
+   "place": "charlesbourg",
+   "place_name": "Charlesbourg (Trait-Carré)",
+   "phase": "p6",
+   "phase_label": "1945–2002",
+   "phase_years": "1945 – 2002",
+   "phase_title": "Suburbanisation",
+   "name_en": "Post-war residence (bungalow)",
+   "name_fr": "La résidence d'après-guerre",
+   "source_ref": "MCC, Plan de conservation du site patrimonial de Charlesbourg (2016), p. 51",
+   "canonical": [
+    "one-storey-ranch-low-roof"
+   ],
+   "canonical_names": [
+    "One-storey horizontal house, ≤30° roof, integrated garage"
+   ],
+   "styles": [
+    "minimal-traditional"
+   ],
+   "style_names": [
+    "Minimal Traditional"
+   ],
+   "style_label": "Minimal Traditional",
+   "tenure_plan": "single-family",
+   "storeys": "1",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": null,
+   "principal_cladding": [
+    "clay-brick",
+    "artificial-stone"
+   ],
+   "roofing": null,
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Arrives at the turn of the 1950s, when sprawl subdivides the farm lots and bungalows go up across the site.",
+     "The plan counts 26 buildings of one storey, \"majoritairement des bungalows érigés après la Deuxième Guerre mondiale\", and 15 buildings clad in the non-traditional brick-and-artificial-stone combination, \"principalement des bungalows\"."
+    ],
+    "massing": [
+     "Rectangular or rather square plan.",
+     "Generally one storey.",
+     "Low-profile pavilion roof, or hipped."
+    ],
+    "articulation": [
+     "The plan names no ornament for this type."
+    ],
+    "openings": [
+     "The plan gives no opening description for this type."
+    ],
+    "materials": [
+     "Mixed cladding of brick and artificial stone."
+    ]
+   },
+   "profile_fr": {
+    "description": [
+     "Au tournant des années 1950, l'étalement urbain amène le lotissement de plusieurs terres agricoles et la construction de bungalows à travers le site patrimonial de Charlesbourg."
+    ],
+    "volumetrie": [
+     "un plan rectangulaire ou plutôt carré",
+     "un volume généralement d'un étage"
+    ],
+    "toiture": [
+     "un toit à pavillon à profil bas ou à croupes"
+    ],
+    "materiaux": [
+     "un parement mixte en brique et en pierre artificielle"
+    ]
+   },
+   "profile_note": "Transcribed from the plan de conservation's printed p. 51. This is the shortest of the five type descriptions — four bullets, covering plan, volume, roof and cladding only. The plan supplies no openings and no ornament for it, and those cells are left saying so rather than being filled from the general literature on the Québec bungalow. The siting column carries the plan's own built-fabric counts from printed pp. 45–46, which are counts for the whole site.",
+   "conservation": [],
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "PARC-2",
+    "PARC-3",
+    "UP-3"
+   ],
+   "source_generation": "Plan de conservation narrative typology, the paragraph plus the bulleted list headed « Voici les principales caractéristiques de ce type », transcribed verbatim",
+   "blurb_en": "A rectangular or nearly square plan, one storey, a low pavilion or hipped roof, and brick mixed with artificial stone. Four lines is all the plan gives it — and yet more than a third of everything standing inside this declared site went up between 1925 and 1975.",
+   "origin_en": "The bungalow is what the declaration of 1965 was reacting to. Sprawl reached Charlesbourg at the turn of the 1950s and cut up the farm lots; the plan records that 65 buildings, 48.5 % of the site, date from 1925–1975, and that most of the site's 26 single-storey buildings are post-war bungalows. The 2005 Étude de caractérisation makes the same point from the other side: by 1963 urban sprawl had already reached the ceinture, much of the agricultural heritage had gone, and the perimeter drawn in 1965 enclosed \"le produit (la zone d'occupation villageoise) plutôt que la source (ce qu'il restait des terres agricoles à l'origine du village)\".",
+   "photo": {
+    "file": null,
+    "credit": "Plan de conservation du site patrimonial de Charlesbourg (2016), fig. 32 — the plan's own photograph of 8191 Le Trait-Carré Ouest, the example it prints for this type. © Gouvernement du Québec, ministère de la Culture et des Communications. Not reproduced.",
+    "kind": "placeholder",
+    "licence": "permission required",
+    "source_url": "https://cpcq.gouv.qc.ca/app/uploads/2020/05/pc_charlesbourg.pdf",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Post-war residence (bungalow) houses in Charlesbourg (Trait-Carré), from MCC"
+   },
+   "url": "types/charlesbourg.residence-apres-guerre/"
+  },
+  {
    "id": "gatineau.edifice-mixte-toit-plat",
    "place": "gatineau",
    "place_name": "Gatineau",
@@ -3336,6 +4170,1126 @@
     "alt": "Photograph of Contemporary rebuild houses in Hampstead, from Ville de Montréal"
    },
    "url": "types/hampstead.contemporary-rebuild/"
+  },
+  {
+   "id": "ile-orleans.maison-inspiration-francaise",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p1",
+   "phase_label": "1636–1760",
+   "phase_years": "1636 – 1760",
+   "phase_title": "Seigneurie and the six parishes",
+   "name_en": "House of French inspiration",
+   "name_fr": "La maison d'inspiration française",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 26",
+   "canonical": [
+    "french-rural-house-1st-hip",
+    "french-urban-house-stone"
+   ],
+   "canonical_names": [
+    "One-storey rural house of French inspiration, pièce-sur-pièce walls, hipped roof without eaves, no cellar",
+    "Urban stone house of French inspiration, one or two levels plus attic, two-slope roof, chimneys in fire-break party walls"
+   ],
+   "styles": [
+    "french-regime"
+   ],
+   "style_names": [
+    "French-regime rural house"
+   ],
+   "style_label": "French-regime rural house",
+   "tenure_plan": "single-family",
+   "storeys": "1–1.5",
+   "roof": {
+    "form": "gabled-or-hipped-steep",
+    "pitch_deg": 45
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "fieldstone-rendered",
+    "wood"
+   ],
+   "roofing": "cedar shingle",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "Present in every municipality on the island and relatively abundant — the surviving fabric of the Régime français.",
+     "The plan de conservation places the Régime-français houses near the river, reached from the chemin Royal by long montées."
+    ],
+    "massing": [
+     "Low rectangular main body with no or almost no foundation; the original volume has often been lengthened rather than replaced.",
+     "Steep two-slope or hipped roof, over 45°, most often covered in cedar shingle."
+    ],
+    "articulation": [
+     "Ornament reduced to its simplest expression, limited to encadrements, linteaux, chambranles and épis."
+    ],
+    "openings": [
+     "Asymmetrical façade composition; few openings, to limit heat loss.",
+     "Double-casement windows with small panes, fitted with functional shutters."
+    ],
+    "materials": [
+     "Stone carré carrying a slight batter (fruit), often rendered or clad in wood.",
+     "Massive stone chimney at the centre of the house."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Corps de logis rectangulaire bas ne présentant pas ou peu de fondations",
+     "Le volume d’origine a souvent été agrandi sur la longueur de la maison",
+     "Toiture à deux versants droits ou à croupes à pente forte, supérieure à 45 degrés, recouverte le plus fréquemment de bardeau de cèdre",
+     "Carré en pierre, portant un certain fruit, souvent revêtu de crépi ou de bois",
+     "Cheminée en pierre massive située au centre de la maison",
+     "Composition asymétrique de la façade",
+     "Ouvertures peu nombreuses, fenêtres à double battant à petits carreaux, munis de volets fonctionnels",
+     "Ornementation réduite à sa plus simple expression limitée aux encadrements, linteaux, chambranles et épis."
+    ],
+    "repartition": [
+     "On retrouve les demeures de cette période dans toutes les municipalités de l'Île-d'Orléans et elles sont relativement abondantes."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "UP-1",
+    "UP-2"
+   ],
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The island's founding house and still its commonest old one: a low stone box with barely any foundation, its walls battered slightly inward, a single massive chimney at the centre, and a roof so steep and so short-eaved that it reads as almost all roof. Everything decorative is in the frames of the openings.",
+   "origin_en": "The house of the Régime français, built from the first concessions of 1648 onward and repeatedly lengthened rather than replaced. The inventory describes it as an architecture \"sans architecte\", brought by colonists and tradesmen from rural France and adapted fast to local stone, local timber and a hard climate — more chimney stacks, fewer openings. Dormers appear only at the end of the regime. Most of the island's nineteen classed immeubles patrimoniaux belong to this courant.",
+   "photo": {
+    "file": "assets/places/ile-orleans/maison-morisset-commons.jpg",
+    "kind": "single",
+    "credit": "Maison Morisset, 4417 chemin Royal, Sainte-Famille — a classed house of this courant. Photograph by Benoit Rochon, CC BY-SA 3.0. Licence: https://creativecommons.org/licenses/by-sa/3.0. File: https://commons.wikimedia.org/wiki/File:Maison_Morisset,_Sainte-Famille,_%C3%AEle_d%27Orl%C3%A9ans,_Qu%C3%A9bec.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Maison_Morisset,_Sainte-Famille,_%C3%AEle_d%27Orl%C3%A9ans,_Qu%C3%A9bec.JPG",
+    "licence": "CC BY-SA 3.0",
+    "match_confidence": "address",
+    "w": 1920,
+    "h": 1280,
+    "alt": "Photograph of House of French inspiration houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.maison-inspiration-francaise/"
+  },
+  {
+   "id": "ile-orleans.maison-traditionnelle-quebecoise",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p2",
+   "phase_label": "1760–1840",
+   "phase_years": "1760 – 1840",
+   "phase_title": "After the Conquest — the neoclassical Québec house",
+   "name_en": "Traditional Québec house of neoclassical influence",
+   "name_fr": "La maison traditionnelle québécoise d'influence néoclassique",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 28",
+   "canonical": [
+    "quebec-traditional-1-5st-gable"
+   ],
+   "canonical_names": [
+    "One-and-a-half-storey rectangular house, steep two-slope roof (straight or bell-cast), full-width gallery under the eaves, stone or wood"
+   ],
+   "styles": [
+    "neoclassical-quebec"
+   ],
+   "style_names": [
+    "Québec neoclassical"
+   ],
+   "style_label": "Québec neoclassical",
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2.5",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": 45
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood",
+    "brick",
+    "fieldstone-rendered"
+   ],
+   "roofing": "traditional tin or cedar shingle",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Très bien représentée à l'île d'Orléans\" — the commonest house of the 19th century here.",
+     "The plan de conservation credits it with shaping the identity of the village sectors, particularly Saint-Laurent and Saint-Jean."
+    ],
+    "massing": [
+     "Generally 1½ storeys, sometimes 2½, on a pièce-sur-pièce wood carré — occasionally brick or stone — raised slightly off the ground, which is what produces the gallery and its steps.",
+     "Two-slope roof of about 45°, its larmiers incurvés carried well past the front and rear walls to shelter the gallery; where the slopes are straight, an independent lean-to roof (auvent, garde-soleil) does the same job.",
+     "A cuisine d'été sometimes extends the house longitudinally or transversally, repeating the main volume at reduced scale."
+    ],
+    "articulation": [
+     "Ornament generally sober — chambranles and planches cornières.",
+     "Richer variants take on a more eclectic decor: aisseliers, corniches, balustrades, ornamental woodwork."
+    ],
+    "openings": [
+     "Symmetrical façade composition, with many openings.",
+     "Double-casement windows with large panes; fronton or gable dormers lighting the attic."
+    ],
+    "materials": [
+     "Cladding usually wood — horizontal or vertical boards, or cedar shingle — but sometimes stone or brick masonry.",
+     "Chimney stacks generally in line with the gable wall."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volume généralement de 1 étage et demi, parfois de 2 étages et demi, formé d’un carré en bois pièce sur pièce (ou parfois en brique ou en pierre), le plus souvent légèrement exhaussé du sol, d’où la présence d’une galerie et d’un escalier",
+     "Toiture à deux versants à pente moyenne (environ 45 degrés) recouverte de tôle traditionnelle ou de bardeaux de cèdre qui se prolonge souvent au-delà des murs avant et arrière grâce à des larmiers incurvés protégeant ainsi une galerie aménagée en façade",
+     "Composition symétrique de la façade",
+     "Toit indépendant en apprentis - aussi appelé auvent ou garde soleil - installé afin de recouvrir la galerie lorsque les versants de la toiture sont droits",
+     "Cuisine d'été parfois présente dans le prolongement longitudinal ou transversal de la maison et reproduisant à plus petite échelle les caractéristiques du corps de logis principal",
+     "Parement généralement en bois (planches de bois posées à l'horizontale ou à la verticale ainsi que le bardeau de cèdre), mais parfois en maçonnerie de pierre ou de brique",
+     "Souches de cheminée généralement dans le prolongement du mur pignon",
+     "Ouvertures nombreuses, dont des fenêtres à double battant à grands carreaux",
+     "Lucarnes à fronton ou à pignon permettant d'éclairer les combles",
+     "Ornementation généralement sobre composée de chambranles et planches cornières. Les variantes plus cossues proposent des décors plus éclectiques (aisseliers, corniches, balustrades, boiseries ornementales, etc.)."
+    ],
+    "repartition": [
+     "La maison traditionnelle québécoise d'influence néoclassique est très bien représentée à l’île d’Orléans."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "UP-1",
+    "UP-2"
+   ],
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The synthesis of French practice and English neoclassicism, and the island's most numerous 19th-century house: a low wooden carré lifted just enough off the ground to need a gallery and steps, under a roof whose eaves curve outward to cover them. The summer kitchen trailing off one end is part of the type, not an afterthought.",
+   "origin_en": "The Conquest of 1760 changed the buildings slowly. Tradesmen stayed and French practice held for decades; English classical architecture arrived early in the 19th century with military engineers, British architects and pattern books, and the two produced what the inventory calls \"une synthèse originale connue sous le nom de maison traditionnelle québécoise\". Its variants run from a bare rural carré to an ornamented village house, according to site and to the owner's standing.",
+   "photo": {
+    "file": "assets/places/ile-orleans/7327-chemin-royal-cuisine-ete-commons.jpg",
+    "kind": "single",
+    "credit": "Cuisine d'été at 7327 chemin Royal, Saint-Laurent-de-l'Île-d'Orléans — the summer kitchen the inventory names as part of this type. Photograph by Thomas1313, CC BY-SA 4.0. Licence: https://creativecommons.org/licenses/by-sa/4.0. File: https://commons.wikimedia.org/wiki/File:7327,_Chemin_Royal,_Saint-Laurent-de-l%27%C3%8Ele-d%27Orl%C3%A9ans_01.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:7327,_Chemin_Royal,_Saint-Laurent-de-l%27%C3%8Ele-d%27Orl%C3%A9ans_01.jpg",
+    "licence": "CC BY-SA 4.0",
+    "match_confidence": "address",
+    "w": 1920,
+    "h": 1280,
+    "alt": "Photograph of Traditional Québec house of neoclassical influence houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.maison-traditionnelle-quebecoise/"
+  },
+  {
+   "id": "ile-orleans.cottage-regency",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p3",
+   "phase_label": "1840–1900",
+   "phase_years": "1840 – 1900",
+   "phase_title": "Chemin Royal",
+   "name_en": "Regency cottage",
+   "name_fr": "Le cottage Regency",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 32",
+   "canonical": [
+    "regency-cottage-hipped-veranda"
+   ],
+   "canonical_names": [
+    "Regency cottage — low hipped roof whose eaves extend to cover a wrap-around veranda"
+   ],
+   "styles": [
+    "regency"
+   ],
+   "style_names": [
+    "Regency"
+   ],
+   "style_label": "Regency",
+   "tenure_plan": "single-family",
+   "storeys": "1–2",
+   "roof": {
+    "form": "hipped",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "brick",
+    "stone",
+    "wood"
+   ],
+   "roofing": "cedar shingle or traditional tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Relativement rare dans le site patrimonial de l'Île-d'Orléans et particulièrement présent dans la municipalité de Sainte-Pétronille.\"",
+     "Meant for a large wooded lot: \"le cottage Régence arbore une architecture en communion avec son environnement\"."
+    ],
+    "massing": [
+     "Plan tending toward a square; one or two occupied levels.",
+     "Low, wide four-slope roof whose eaves are sometimes upturned and are carried out far enough to roof a gallery running right round the house."
+    ],
+    "articulation": [
+     "Sober ornament drawn from the classical repertoire — entablements and frontons.",
+     "Trellis gallery supports are frequent."
+    ],
+    "openings": [
+     "Symmetrical composition of the openings.",
+     "Casement windows with large panes, sometimes as French doors; rampantes, hipped or gable dormers."
+    ],
+    "materials": [
+     "Walls of brick, stone or wood.",
+     "Central chimney."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Plan de forme plutôt carrée",
+     "Toit à quatre versants à profil bas et étendu dont l'avant-toit est parfois recourbé; revêtement de toiture en bardeau de cèdre ou en tôle traditionelle",
+     "Un ou deux niveaux d'occupation",
+     "Composition symétrique des ouvertures",
+     "Bâtiment entouré d'une galerie protégée par les avants-toits",
+     "Murs revêtus de brique, de pierre ou de bois",
+     "Cheminée centrale",
+     "Fenêtres habituellement à battants et à grands carreaux, parfois sous la forme de portes-fenêtres",
+     "Lucarnes rampantes, à croupe ou à pignon",
+     "Ornementation sobre insipirée des éléments classiques comme les entablements et les frontons."
+    ],
+    "repartition": [
+     "Ce type d’architecture demeure relativement rare dans le site patrimonial de l'Île-d'Orléans et particulièrement présent dans la municipalité de Sainte-Pétronille."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "UP-2",
+    "UP-3"
+   ],
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The villégiature house of the British in Québec, and on this island almost entirely a Sainte-Pétronille phenomenon: a squarish block under a low, wide, sometimes upturned hipped roof whose eaves keep going until they have covered a veranda all the way around. French doors open onto it.",
+   "origin_en": "A Regency-period English form — \"apparu en Angleterre sous le règne du Prince de Galles au début du 19e siècle\" — introduced to Québec by the British and taken up by townspeople who wanted a summer house. It belongs to the romantic current, and it is the type most tightly bound to one of the island's five landscape units: the villégiature sector that grew at Sainte-Pétronille after the Québec ferry began running in 1855.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 33 — six captioned examples, all at Sainte-Pétronille except 1585 chemin Royal, Saint-Laurent — including the brick example at 12 chemin de l'Église and a two-storey variant at 12 rue Gagnon. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Regency cottage houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.cottage-regency/"
+  },
+  {
+   "id": "ile-orleans.second-empire-maison-mansardee",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p3",
+   "phase_label": "1840–1900",
+   "phase_years": "1840 – 1900",
+   "phase_title": "Chemin Royal",
+   "name_en": "Second Empire style and the mansard house",
+   "name_fr": "Le style Second Empire et la maison à mansarde",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 30",
+   "canonical": [
+    "mansard-house-2st"
+   ],
+   "canonical_names": [
+    "Two-storey house under a two- or four-slope mansard roof, dormers in the brisis, wood gallery under its own awning"
+   ],
+   "styles": [
+    "second-empire"
+   ],
+   "style_names": [
+    "Second Empire / mansard"
+   ],
+   "style_label": "Second Empire / mansard",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "mansard",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood",
+    "brick",
+    "cut-stone"
+   ],
+   "roofing": "traditional tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Ce courant est bien présent à l'île d'Orléans.\"",
+     "A late arrival: Second Empire reaches Québec in the last quarter of the 19th century and only afterwards becomes a village house."
+    ],
+    "massing": [
+     "Rectangular two-storey body raised slightly off the ground, on a wood frame.",
+     "Broken roof à la Mansart, of two or four slopes, made of brisis and terrassons — the shape that empties the attic and turns it into a fully habitable second storey."
+    ],
+    "articulation": [
+     "Ornament generally sober: chambranles, planches cornières and a cornice under the brisis.",
+     "Richer variants take on a more eclectic decor. The inventory's showpiece is the ancien presbytère de Sainte-Famille, brick, \"avec un parement de brique et une ornementation très élaborée\"."
+    ],
+    "openings": [
+     "Symmetrical façade composition.",
+     "Casement windows with large panes or sash windows, and dormers set in the brisis."
+    ],
+    "materials": [
+     "Wood-plank or brick cladding, sometimes cut stone.",
+     "Gallery under an independent awning on one or more elevations."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Corps de logis rectangulaire à deux étages légèrement exhaussé du sol, charpente en bois",
+     "Toiture brisée, à la Mansart, à deux versants ou à quatre versants, constituée de brisis et de terrassons et recouverte de tôle traditionnelle",
+     "Composition symétrique de la façade",
+     "Galerie couverte d’un auvent indépendant sur une ou plusieurs façades",
+     "Parement de planches de bois ou de brique, parfois en pierre de taille",
+     "Ouvertures caractérisées par des fenêtres à battants à grands carreaux ou à guillotine et des lucarnes dans le brisis",
+     "Ornementation généralement sobre composée de chambranles, planches cornières et corniche sous le brisis. Les variantes plus cossues proposent des décors plus éclectiques."
+    ],
+    "repartition": [
+     "Ce courant est bien présent à l’île d’Orléans."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The bourgeois Paris roof, arriving in a Québec village as a way of getting a second full floor. What the inventory calls a \"version populaire et modeste\" of the monumental style keeps only the mansard itself — the shallow terrasson above, the near-vertical brisis below, dormers punched through it — and the silhouette that villagers evidently liked.",
+   "origin_en": "Second Empire architecture takes its source from Paris under Napoléon III (1852–1870) and reaches Québec in the last quarter of the 19th century, at first for institutional buildings and bourgeois houses. The maison à mansarde is its domestic descendant: the roof survives, the avant-corps and the turret mostly do not. On this island it is common enough that the inventory calls the whole courant well represented.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 31 — six captioned examples, including the two-slope type example at 1404 chemin Royal, a four-slope brick house at 1778 chemin Royal and the ancien presbytère de Sainte-Famille. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Second Empire style and the mansard house houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.second-empire-maison-mansardee/"
+  },
+  {
+   "id": "ile-orleans.eclectisme-victorien",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p3",
+   "phase_label": "1840–1900",
+   "phase_years": "1840 – 1900",
+   "phase_title": "Chemin Royal",
+   "name_en": "Victorian eclecticism",
+   "name_fr": "L'éclectisme victorien",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 34",
+   "canonical": [
+    "queen-anne-irregular-2-5st"
+   ],
+   "canonical_names": [
+    "2½-storey house of irregular plan, medium-pitched roofs, towers/turrets/oriels/gables, asymmetrical"
+   ],
+   "styles": [
+    "victorian-eclectic"
+   ],
+   "style_names": [
+    "Victorian eclecticism"
+   ],
+   "style_label": "Victorian eclecticism",
+   "tenure_plan": "single-family",
+   "storeys": "2–2.5",
+   "roof": {
+    "form": "gabled-multi",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "brick",
+    "stone",
+    "wood"
+   ],
+   "roofing": "varied",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Le site patrimonial de l'Île-d'Orléans comporte peu d'exemples architecturaux issus de l'éclectisme victorien.\"",
+     "What survives is a handful of genuinely eclectic houses plus common types — maison cubique, maison traditionnelle québécoise — carrying a very elaborate Victorian decor."
+    ],
+    "massing": [
+     "Asymmetrical plan with no typical plan at all; a very articulated volume with many projections and advances.",
+     "Irregular roofs made of gables or turrets, often pierced by dormers."
+    ],
+    "articulation": [
+     "Galleries and ornamented covered balconies, often continuing across more than one elevation.",
+     "Varied ornament: neoclassical fronton, ornamental woodwork, mâts, épis, consoles, encorbellements."
+    ],
+    "openings": [
+     "No typical opening; several kinds of opening on one building, including bay windows (bow, oriel)."
+    ],
+    "materials": [
+     "Several materials and colours combined on a single building — brick, stone, decorative or polychrome shingle."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Plan asymétrique (absence de plan typique), volume très articulé, nombreuses saillies et avancées",
+     "Toitures irrégulières, composées de pignons ou de tourelles, souvent percées de lucarnes",
+     "Présence de galeries, de balcons couverts et ornementés qui se prolongent souvent sur plus d’une façade",
+     "Amalgame de plusieurs matériaux et couleurs sur un même immeuble (brique, pierre, bardeaux décoratifs ou polychromes, etc.)",
+     "Absence d’ouvertures typiques, variété de types d’ouvertures sur un même bâtiment, présence de fenêtres en baie (bow window, oriel)",
+     "Ornements variés (fronton néoclassique, boiseries ornementales, mâts, épis, consoles, encorbellements, etc.)."
+    ],
+    "repartition": [
+     "Le site patrimonial de l'Île-d'Orléans comporte peu d’exemples architecturaux issus de l’éclectisme victorien."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The one courant on the island defined by refusing a rule. Plan asymmetrical, volume broken into projections, roof irregular and full of gables and turrets, several materials and colours at once, and no typical window. The inventory admits there are very few real examples here — mostly it is ordinary house types wearing an extraordinary decor.",
+   "origin_en": "Québec architecture arrives at eclecticism toward the end of the 19th century, \"un peu en réaction aux compositions rigides du classicisme\", fusing borrowed elements from different periods and countries rather than reproducing any of them. Mechanised construction around 1880 made ornament cheap and fast, which is why façades carry so much of it. The movement runs roughly 1880–1920 in Québec and is called Victorian for Victoria's reign (1837–1901); for this current, \"chaque œuvre est unique en soi\".",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 35 — six captioned examples, including a cottage vernaculaire américain with very elaborate wood ornament at 45 chemin du Bout-de-l'Île and a maison cubique with a corner oriel at 20 avenue Orléans. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Victorian eclecticism houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.eclectisme-victorien/"
+  },
+  {
+   "id": "ile-orleans.cottage-vernaculaire-americain",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p4",
+   "phase_label": "1900–1935",
+   "phase_years": "1900 – 1935",
+   "phase_title": "Catalogue types — vernaculaire américain",
+   "name_en": "American vernacular cottage",
+   "name_fr": "Le cottage vernaculaire américain",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 36",
+   "canonical": [
+    "industrial-vernacular-cottage"
+   ],
+   "canonical_names": [
+    "Industrial-vernacular cottage, 1½–2½ storeys, rectangular/L/T plan, straight two-slope roof"
+   ],
+   "styles": [
+    "vernaculaire-industriel"
+   ],
+   "style_names": [
+    "Vernaculaire industriel (Québec industrial vernacular)"
+   ],
+   "style_label": "Vernaculaire industriel (Québec industrial vernacular)",
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": 45
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood",
+    "asbestos-cement-shingle",
+    "roughcast"
+   ],
+   "roofing": "traditional tin",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Ce courant est peu représenté dans le site patrimonial, mais il est présent dans la majorité des municipalités en quelques exemplaires.\"",
+     "Elsewhere in Québec it is \"le type le plus varié et le plus courant dans la première moitié du 20e siècle\" — the island is the exception."
+    ],
+    "massing": [
+     "Rectangular volume showing a simplification of form.",
+     "A 1½-storey plank carré under a straight two-slope roof at 45° or with half-hips; the two-storey low-pitch model is also widespread.",
+     "Sub-variants: the cottage with half-hipped roof and the cottage with a gable dormer, otherwise identical."
+    ],
+    "articulation": [
+     "Ornament drawn from the 19th-century repertoire but standardised and bought in: chambranles, planches cornières, aisseliers, frontons."
+    ],
+    "openings": [
+     "Machined doors and windows — casement with transom, or sash."
+    ],
+    "materials": [
+     "Light claddings: wood boards, asbestos-cement shingle, roughcast.",
+     "Gallery under an independent awning, often present."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volumétrie rectangulaire dénotant une simplification des formes",
+     "Carré en madriers de bois d’un étage et demi avec toiture à deux versants droit d’une inclinaison de 45 degrés ou à demi-croupes. Aussi, le modèle de deux étages à toit à 2 versants à faible pente est également répandu",
+     "Toiture généralement couverte de tôle traditionnelle",
+     "Galerie couverte d’un auvent indépendant souvent présente",
+     "Revêtements légers (planches de bois, bardeaux d’amiante-ciment, crépi)",
+     "Portes et fenêtres à battants avec imposte ou à guillotine, usinées",
+     "Éléments d’ornementation qui puisent aux répertoires de l’architecture du 19e siècle et qui sont standardisés (chambranles, planches cornières, aisseliers, frontons)."
+    ],
+    "repartition": [
+     "Ce courant est peu représenté dans le site patrimonial, mais il est présent dans la majorité des municipalités en quelques exemplaires."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The traditional Québec house rebuilt out of a catalogue. The inventory is precise about the difference: this one rises to 1½ or 2 storeys instead of one and a half, which gives it more verticality, and its two straight slopes at 45° have no curved larmier. The symmetry survives; the carpentry does not.",
+   "origin_en": "American vernacular architecture, the inventory says, is not a style at all — \"elle reprend souvent les formes du siècle précédent en les simplifiant\". What is new is the supply chain: milled beams and boards, doors and windows standardised and sold by catalogue, and the balloon frame (charpente claire) that made building fast and let a standard plan be fitted to a client's means. On this island the courant is thin, but it appears in nearly every municipality.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 37 — six captioned examples, including a large gallery example and a gable-dormer variant, at Saint-Jean, Sainte-Pétronille, Sainte-Famille and Saint-Laurent. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of American vernacular cottage houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.cottage-vernaculaire-americain/"
+  },
+  {
+   "id": "ile-orleans.arts-and-crafts",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p4",
+   "phase_label": "1900–1935",
+   "phase_years": "1900 – 1935",
+   "phase_title": "Catalogue types — vernaculaire américain",
+   "name_en": "Arts and Crafts architecture",
+   "name_fr": "L'architecture Arts & Crafts",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 42",
+   "canonical": [
+    "arts-crafts-articulated-house"
+   ],
+   "canonical_names": [
+    "Arts and Crafts house with articulated plan, wide overhanging eaves and exposed structural members"
+   ],
+   "styles": [
+    "arts-and-crafts",
+    "arts-et-metiers"
+   ],
+   "style_names": [
+    "Arts and Crafts",
+    "Arts & métiers (Québec usage for Arts and Crafts)"
+   ],
+   "style_label": "Arts and Crafts / Arts & métiers (Québec usage for Arts and Crafts)",
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2.5",
+   "roof": {
+    "form": "gabled-multi",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "stone",
+    "brick",
+    "stucco",
+    "cedar-shingle",
+    "wood"
+   ],
+   "roofing": "varied",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Il existe peu d'exemples de ce style dans le site patrimonial de l'Île-d'Orléans et ils sont principalement situés à Sainte-Pétronille.\"",
+     "The inventory restricts the current to domestic and villégiature architecture only."
+    ],
+    "massing": [
+     "A more or less imposing volume on an articulated plan — simple volumes distributed freely.",
+     "Roofs of varied form, with slopes or half-hips sometimes of unequal length, the larmier often projecting well past the façades."
+    ],
+    "articulation": [
+     "Ornament often limited to members of the frame: colombage, exposed rafters, gallery supports.",
+     "\"Chaque cas est unique et possède ses propres caractéristiques.\""
+    ],
+    "openings": [
+     "Numerous and varied openings, with paired windows and hipped, lean-to or triangular dormers."
+    ],
+    "materials": [
+     "Natural and traditional materials — stone, brick, stucco, cedar shingle, wood boards — sometimes combined.",
+     "Sheltered outdoor spaces: perrons, galleries, terraces."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volume plus ou moins imposant au plan articulé",
+     "Toiture de formes variées à versants ou à demi-croupes parfois de longueurs inégales, dont le larmier déborde souvent largement des façades",
+     "Espaces extérieurs protégés (perrons, galeries, terrasses)",
+     "Utilisation de matériaux naturels et traditionnels (pierre, brique, stuc, bardeaux de cèdre, planches de bois), parfois combinés entre eux",
+     "Ouvertures nombreuses et diversifées, présence de fenêtres jumelées et de lucarne à croupe, en appentis ou triangulaire",
+     "Ornements souvent limités aux éléments de la charpente (colombage, chevrons apparents, supports de galerie)",
+     "Chaque cas est unique et possède ses propres caractéristiques."
+    ],
+    "repartition": [
+     "Il existe peu d’exemples de ce style dans le site patrimonial de l'Île-d'Orléans et ils sont principalement situés à Sainte-Pétronille."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "UP-2",
+    "UP-3"
+   ],
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "A house that breaks into wings and sheltered outdoor rooms under big overhanging roofs, with the structure itself doing the decorating — half-timbering, rafter ends carried out beyond the eaves, worked gallery posts. The inventory declines to generalise further, and says so: every case is its own.",
+   "origin_en": "The English Arts and Crafts movement, rooted in Morris and Ruskin, argued for handwork, traditional materials and local skill against mass production. Crossing to the United States it lost the argument and kept the look: \"en Amérique, le mouvement Arts and Crafts devient essentiellement un mouvement stylistique, sans portée sociale\" — false half-timbering and slate roofs belonging to no local tradition, distributed by catalogue. On this island it is a Sainte-Pétronille resort style, and its best examples are the house and studio of the painter Horatio Walker.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 43 — six captioned examples, all at Sainte-Pétronille, led by the maison and studio d'Horatio-Walker at 11 and 13 chemin Horatio-Walker. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Arts and Crafts architecture houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.arts-and-crafts/"
+  },
+  {
+   "id": "ile-orleans.maison-boomtown",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p4",
+   "phase_label": "1900–1935",
+   "phase_years": "1900 – 1935",
+   "phase_title": "Catalogue types — vernaculaire américain",
+   "name_en": "Boomtown house",
+   "name_fr": "La maison Boomtown",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 40",
+   "canonical": [
+    "boomtown-false-front"
+   ],
+   "canonical_names": [
+    "Boomtown house or shop-house, balloon frame, flat or low-pitch roof behind a raised crown"
+   ],
+   "styles": [
+    "boomtown"
+   ],
+   "style_names": [
+    "Boomtown (false front)"
+   ],
+   "style_label": "Boomtown (false front)",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "flat-or-low-slope",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood",
+    "brick"
+   ],
+   "roofing": "flat or low slope to the rear",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"Sur le territoire du site patrimonial de l'Île-d'Orléans, on retrouve quelques exemplaires de maisons Boomtown dans toutes les municipalités.\"",
+     "Both a domestic and a commercial current: \"il n'est pas rare de retrouver un commerce au rez-de-chaussée avec un logement à l'étage\"."
+    ],
+    "massing": [
+     "Cubic or rectangular two-storey volume, barely raised off the ground.",
+     "Flat roof, or a slight slope draining to the rear."
+    ],
+    "articulation": [
+     "Ornament concentrated at the top of the façade: a modillon or console cornice, a stepped parapet, or brick patterning.",
+     "Other ornament stays discreet — chambranles, planches cornières, brick platebandes."
+    ],
+    "openings": [
+     "Regular distribution of openings, generally symmetrical.",
+     "Casement windows with large panes, casement with transom, or sash."
+    ],
+    "materials": [
+     "Wood-plank or brick cladding.",
+     "Few projections beyond a gallery under an awning, sometimes with a balcony above on the central third."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volume cubique ou rectangulaire de deux étages, peu dégagé du sol",
+     "Toiture plate ou à faible pente vers l’arrière",
+     "Saillies peu présentes à l’exception d’une galerie protégée d’un auvent, parfois avec un balcon à l’étage",
+     "Parement de planches de bois ou de brique",
+     "Distribution régulière des ouvertures, composition généralement symétrique",
+     "Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine",
+     "Ornementation concentrée dans la partie supérieure de la façade : corniche à modillons ou à consoles, parapet en gradins ou jeux de briques. Autres éléments d’ornementation discrets : chambranles, planches cornières, platebandes en brique, etc."
+    ],
+    "repartition": [
+     "Sur le territoire du site patrimonial de l'Île-d'Orléans, on retrouve quelques exemplaires de maisons Boomtown dans toutes les municipalités."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "A flat-topped two-storey box that spends all its ornament in one place — the top of the front wall, where a bracketed cornice or a stepped parapet makes the building look taller and squarer than it is. Everything below that is plain boards or brick and a gallery.",
+   "origin_en": "The balloon frame, \"qualifiée d'American Boomtown\", arrived with the fast growth of American cities and spread especially after the economic crisis of 1870 as a cheap, quick way to build in boom towns. In Québec it coexists with the traditional and mansard houses before supplanting them at the turn of the 20th century. On this island it never supplanted anything, but there are examples in all six municipalities.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 41 — six captioned examples, including stepped-parapet houses at 504 and 1913 chemin Royal and a shop-house at 148 chemin du Bout-de-l'Île. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Boomtown house houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.maison-boomtown/"
+  },
+  {
+   "id": "ile-orleans.maison-cubique",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p4",
+   "phase_label": "1900–1935",
+   "phase_years": "1900 – 1935",
+   "phase_title": "Catalogue types — vernaculaire américain",
+   "name_en": "Cubic house (Four Square)",
+   "name_fr": "La maison cubique",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 38",
+   "canonical": [
+    "foursquare-hipped-2st"
+   ],
+   "canonical_names": [
+    "Two-storey square or rectangular block under a pyramidal or hipped roof, brick, gallery or porch"
+   ],
+   "styles": [
+    "foursquare"
+   ],
+   "style_names": [
+    "American Foursquare"
+   ],
+   "style_label": "American Foursquare",
+   "tenure_plan": "single-family",
+   "storeys": "2",
+   "roof": {
+    "form": "hipped-or-pyramidal",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "brick",
+    "wood",
+    "cedar-shingle",
+    "embossed-tin",
+    "asbestos-cement-tile"
+   ],
+   "roofing": "traditional tin, sometimes flat",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"La maison cubique est assez peu représentée dans le site patrimonial de l'Île-d'Orléans.\"",
+     "A rural echo of an urban phenomenon: standardisation drove growth in the towns first, \"ce phénomène se répercutera ensuite dans les milieux ruraux\"."
+    ],
+    "massing": [
+     "Cubic volume on a square plan of two full storeys, raised slightly off the ground.",
+     "Low-pitch pavilion (four-slope) roof, sometimes flat; usually a dormer on the front slope."
+    ],
+    "articulation": [
+     "\"Ornementation variable selon le statut social du propriétaire\" — the one type whose decoration the inventory ties explicitly to the owner's standing.",
+     "Picturesque influences show up on some models: aisseliers, ornamental woodwork, cornices."
+    ],
+    "openings": [
+     "Regular distribution of openings.",
+     "Casement windows with large panes, casement with transom, or sash; hipped, gable, triangular or lean-to dormers, sometimes replaced by gables."
+    ],
+    "materials": [
+     "Brick, or light cladding: wood boards, cedar shingle, embossed tin, asbestos-cement tile.",
+     "Gallery under an independent awning across the front, sometimes with a balcony above."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volumétrie cubique, plan carré de deux étages légèrement surhaussé du sol",
+     "Toit en pavillon (quatre versants) à faibles pentes, revêtu de tôle traditionnelle, ou parfois toit plat",
+     "Revêtement extérieur en brique ou en matériau léger (planches de bois, bardeaux de cèdre, tôle embossée, tuiles d’amiante-ciment)",
+     "Galerie couverte d’un auvent indépendant, aménagée en façade avant avec parfois un balcon à l’étage",
+     "Distribution régulière des ouvertures",
+     "Fenêtres à battants à grands carreaux, à battants avec imposte ou à guillotine",
+     "Lucarnes à croupe, à pignon, triangulaire ou en appentis, parfois remplacées par des pignons",
+     "Ornementation variable selon le statut social du propriétaire."
+    ],
+    "repartition": [
+     "La maison cubique est assez peu représentée dans le site patrimonial de l’Île-d’Orléans."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "Two entire floors under a shallow pavilion roof, on a square plan — a shape whose whole point is interior volume. The inventory says as much: its interest \"réside dans les dimensions de son espace habitable\", giving an ordinary family the room of a bourgeois house. How much ornament it carries depended on who was paying.",
+   "origin_en": "An American model, \"conçu par l'architecte Frank Kidder en 1891\" and commonly called the Four Square house, spread through catalogues and trade journals across North America. It reached Québec's towns on the back of cheap standardised materials and falling construction costs, then reached the countryside. On Île d'Orléans it stayed rare.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 39 — six captioned examples at Saint-Pierre, Saint-François, Saint-Jean and Sainte-Famille, including a brick example at 1634 chemin Royal. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Cubic house (Four Square) houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.maison-cubique/"
+  },
+  {
+   "id": "ile-orleans.modernisme",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p5",
+   "phase_label": "1935–1970",
+   "phase_years": "1935 – 1970",
+   "phase_title": "The bridge",
+   "name_en": "Modernism",
+   "name_fr": "Le modernisme",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 46",
+   "canonical": [
+    "modern-detached-house"
+   ],
+   "canonical_names": [
+    "Detached modern house — free plan, flat or sculptural roof, ribbon or large glazed openings"
+   ],
+   "styles": [
+    "international-style"
+   ],
+   "style_names": [
+    "International Style / Modernist"
+   ],
+   "style_label": "International Style / Modernist",
+   "tenure_plan": "single-family",
+   "storeys": null,
+   "roof": {
+    "form": "flat-or-low-slope",
+    "pitch_deg": null
+   },
+   "window_proportion": "horizontal",
+   "principal_cladding": [
+    "concrete",
+    "steel",
+    "glass"
+   ],
+   "roofing": "flat or sculptural",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"À l'île d'Orléans, nous n'avons répertorié qu'une résidence issue de l'architecture moderne.\" One house, out of 659.",
+     "The inventory names it: the maison Paul-Brunet, 37 chemin de l'Église, \"témoigne de l'architecture moderne. Son architecture s'inspire notamment d'un paquebot.\""
+    ],
+    "massing": [
+     "Simple volume, stripped of ornament.",
+     "Free plans producing very varied forms.",
+     "Flat roofs, or roofs of sculptural form."
+    ],
+    "articulation": [
+     "No applied ornament: \"l'expressivité des matériaux remplace les éléments d'ornementation\"."
+    ],
+    "openings": [
+     "Large glazed surfaces, including horizontal ribbon windows."
+    ],
+    "materials": [
+     "Modern materials — concrete and steel."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volumétrie simple et dépouillée d’ornements",
+     "Plans libres qui créent des formes très variées",
+     "Toits plats ou de formes sculpturales",
+     "Matériaux modernes tels que le béton et l’acier, alors que l’expressivité des matériaux remplace les éléments d’ornementation.",
+     "Grandes surfaces vitrées dont des fenêtres en bandeau horizontal"
+    ],
+    "repartition": [
+     "À l’île d’Orléans, nous n’avons répertorié qu’une résidence issue de l’architecture moderne."
+    ]
+   },
+   "profile_note": "The one courant of the eleven with a known population of exactly one: the synthesis states « À l'île d'Orléans, nous n'avons répertorié qu'une résidence issue de l'architecture moderne. » The English columns above translate the five bullets on p. 46; there is no five-column table behind them beyond that. The brief provisionally filed this courant under the postwar slab-and-tower form pending the parse; the parse rules that out, since the island's single example is a detached house. It carries the detached modern house form instead, added for it and for the other single-family modern records that had been filed under the slab.",
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": null,
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "The island's single modern house. The courant is a real one — free plan, flat or sculptural roof, concrete and steel, ribbon glazing, no ornament at all because the materials are the ornament — but on Île d'Orléans the inventory found exactly one example of it, and even that one is a ship: the maison Paul-Brunet at 37 chemin de l'Église, modelled on an ocean liner.",
+   "origin_en": "Born of the European modern movement (Art nouveau, the Bauhaus) and American rationalism (the Chicago School), modernism breaks with inherited form more completely than any style before it — practical and functionalist, sober, refusing ornament, and putting aluminium, concrete, steel and large sheets of glass at the front of the design. It divides into several currents more or less faithful to the movement that produced them. Almost none of that reached this island.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 46 — one captioned example, printed inline below the characteristics list: the maison Paul-Brunet at 37 chemin de l'Église. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Modernism houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.modernisme/"
+  },
+  {
+   "id": "ile-orleans.regionalisme-quebecois",
+   "place": "ile-orleans",
+   "place_name": "Île d'Orléans",
+   "phase": "p5",
+   "phase_label": "1935–1970",
+   "phase_years": "1935 – 1970",
+   "phase_title": "The bridge",
+   "name_en": "Québec regionalism",
+   "name_fr": "Le régionalisme québécois",
+   "source_ref": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 44",
+   "canonical": [
+    "quebec-regionalist-revival-house"
+   ],
+   "canonical_names": [
+    "Régionalisme québécois house — a 1910–1945 revival of French-regime and Norman rural forms, steep shingled roof, fire-break gable walls"
+   ],
+   "styles": [
+    "regionalisme-quebecois"
+   ],
+   "style_names": [
+    "Régionalisme québécois"
+   ],
+   "style_label": "Régionalisme québécois",
+   "tenure_plan": "single-family",
+   "storeys": "1.5–2",
+   "roof": {
+    "form": "gabled",
+    "pitch_deg": null
+   },
+   "window_proportion": "vertical",
+   "principal_cladding": [
+    "wood",
+    "asbestos-cement",
+    "stone",
+    "stucco"
+   ],
+   "roofing": "wood or asphalt shingle",
+   "garage": null,
+   "lot_width_m": null,
+   "setback_front_m": null,
+   "setback_side_m": null,
+   "front_yard_green_pct": null,
+   "profile": {
+    "siting_landscape": [
+     "\"On ne retrouve que quelques cas de régionalisme québécois dans l'inventaire, surtout situé à Sainte-Pétronille, car cette architecture s'allie bien à celle de la villégiature.\"",
+     "The inventory warns that these houses are easy to misdate: \"ces maisons peuvent souvent se confondre avec des constructions plus anciennes vue l'intention de les imiter\"."
+    ],
+    "massing": [
+     "Rectangular volume, more or less imposing, with annexes.",
+     "High pitched roof, its slopes generally straight or slightly upturned, covered in wood or asphalt shingle."
+    ],
+    "articulation": [
+     "Ornament often limited to the frames of the openings: chambranles, faux volets.",
+     "Sheltered outdoor spaces — perrons, galleries."
+    ],
+    "openings": [
+     "Sash or casement windows with small panes, and generously sized gable dormers."
+    ],
+    "materials": [
+     "Wood cladding — shingle or boards — or asbestos-cement.",
+     "Chimneys of massive appearance."
+    ]
+   },
+   "profile_fr": {
+    "elements_caracteristiques": [
+     "Volume rectangulaire plus ou moins imposant pourvu d’annexes",
+     "Haute toiture en pente aux versants généralement droits ou légèrement recourbés recouverts de bardeau de bois ou d’asphalte",
+     "Espaces extérieurs protégés (perrons, galeries)",
+     "Cheminées à l’aspect massif",
+     "Revêtement de bois (bardeaux ou planches) ou d’amiante-ciment",
+     "Fenêtres à guillotine ou à battants munies de carreaux et lucarnes à pignon de bonnes dimensions",
+     "Ornements souvent limités aux encadrements d’ouvertures (chambranles, faux volets)."
+    ],
+    "repartition": [
+     "On ne retrouve que quelques cas de régionalisme québécois dans l’inventaire, surtout situé à Sainte-Pétronille, car cette architecture s’allie bien à celle de la villégiature."
+    ]
+   },
+   "profile_note": null,
+   "conservation": null,
+   "conservation_fr": null,
+   "models_observed": null,
+   "phase_confidence": "verified",
+   "sectors": [
+    "UP-2",
+    "UP-3"
+   ],
+   "source_generation": "Patri-Arch inventory synthesis (cover Août 2014, fieldwork 2013–14, reissued 2025 as …maj2025.pdf), \"Principaux éléments caractéristiques\"",
+   "blurb_en": "A 1930s house built to look like a 1730s one. Québec's own version of Arts and Crafts went back to the buildings of the French regime for its vocabulary — high shingled roof, fire-break gable walls, stone or stucco standing in for lime — and copied them as faithfully as it could. On this island the results sit among the resort houses at Sainte-Pétronille, and the inventory dates the individual examples: 1939, 1940, 1944, 1945.",
+   "origin_en": "\"Le Québec possède une version du courant Arts and Crafts qui lui est propre, soit le régionalisme québécois\", running from 1910 to the end of the Second World War. It began in the research of the McGill architecture professors Percy Erskine Nobbs and Ramsay Traquair, who wanted an authentically regional style, and spread through their students. It fed on the identity politics of the 1920s onward, which glorified New France, and found fertile ground under Duplessis; Gérard Morisset, the abbé Jean-Thomas Nadeau and Marius Barbeau argued for the same rediscovery of tradition.",
+   "photo": {
+    "file": null,
+    "kind": "placeholder",
+    "credit": "MRC de L'Île-d'Orléans / Patri-Arch, rapport de synthèse, p. 45 — six captioned and dated examples — 1939, c. 1940, 1940, 1944 and 1945 — four of them at Sainte-Pétronille. © Patri-Arch; rights ceded to the MRC de L'Île-d'Orléans. Not reproduced here.",
+    "source_url": "https://mrc.iledorleans.com/stock/fra/rapport_synthese_io_050919_maj2025.pdf",
+    "licence": "permission required",
+    "match_confidence": "address",
+    "w": null,
+    "h": null,
+    "alt": "Photograph of Québec regionalism houses in Île d'Orléans, from MRC de L'Île-d'Orléans / Patri-Arch"
+   },
+   "url": "types/ile-orleans.regionalisme-quebecois/"
   },
   {
    "id": "levis.regime-francais",
@@ -6934,11 +8888,11 @@
    "name_fr": "Maison moderne du flanc de la montagne",
    "source_ref": "Ville de Montréal, Évaluation du patrimoine urbain — arrondissement d'Outremont (2005); Arrondissement d'Outremont / L'Enclume, Étude typomorphologique (2020)",
    "canonical": [
-    "modern-slab-tower",
+    "modern-detached-house",
     "split-level"
    ],
    "canonical_names": [
-    "Postwar modernist residential tower or slab",
+    "Detached modern house — free plan, flat or sculptural roof, ribbon or large glazed openings",
     "Two volumes offset half a storey, garage under bedrooms"
    ],
    "styles": [
@@ -10686,12 +12640,10 @@
    "name_fr": "Style International",
    "source_ref": "Ville de Québec, Thésaurus du patrimoine bâti, fiche tid=802",
    "canonical": [
-    "modern-slab-tower",
-    "modern-slab-flat-brick"
+    "modern-detached-house"
    ],
    "canonical_names": [
-    "Postwar modernist residential tower or slab",
-    "Flat-roof brick apartment slab, loggias, penthouse setback"
+    "Detached modern house — free plan, flat or sculptural roof, ribbon or large glazed openings"
    ],
    "styles": [
     "international-style"
