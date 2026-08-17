@@ -392,3 +392,24 @@
   definition_en: The minimal 1½-storey detached house built to Wartime Housing Limited's standard plans and
     their National Housing Act successors.
   members: []
+# ---- Part 11a additions (Ville-Marie and the West Island) ----
+- id: greystone-mansion-freestanding
+  name_en: Freestanding greystone mansion on landscaped grounds, 2½–3 storeys, eclectic revival
+  definition_en: The detached mansion of the Montréal merchant and railway elite, set back on its own
+    landscaped grounds rather than built to the street line, faced in local grey limestone and dressed
+    in whichever revival idiom its decade favoured — Italianate, Second Empire, Romanesque, Queen Anne
+    or Beaux-Arts. Distinguished from the greystone terrace by standing alone.
+  members: []
+- id: maison-magasin-entrepot
+  name_en: Maison-magasin / warehouse with dwellings above, flat roof, heavy projecting cornice
+  definition_en: The mid-nineteenth-century commercial building of a port city, mixing timber, cast iron
+    and stone, with wide bays, a flat roof and a heavy, often richly ornamented projecting cornice, red
+    brick common. Built with dwellings over the shop or store, and widely recycled to lofts from the
+    1960s onward.
+  members: []
+- id: anglo-country-estate-house
+  name_en: Anglo country-estate house — rambling Arts and Crafts manor with ancillary buildings
+  definition_en: The large informal country house of an anglophone elite, built on picturesque grounds
+    with stables, lodges and service buildings as part of the composition. Rambling in plan rather than
+    symmetrical, and read together with its landscape rather than as a single object.
+  members: []

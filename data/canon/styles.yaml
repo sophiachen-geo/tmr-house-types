@@ -54,3 +54,7 @@
 - {id: agricole-vernaculaire, name_en: Agricole vernaculaire, span: [1850, 1950]}
 # ---- Part 10a additions ----
 - {id: city-beautiful, name_en: City Beautiful / embellissement, span: [1900, 1925]}
+# ---- Part 11a additions ----
+- {id: italianate, name_en: Italianate, span: [1850, 1890]}
+- {id: shingle-style, name_en: Shingle Style, span: [1880, 1910]}
+- {id: romanesque, name_en: Romanesque Revival / roman, span: [1880, 1910]}

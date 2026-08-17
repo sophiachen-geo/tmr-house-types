@@ -5,6 +5,7 @@ Loads YAML from data/, validates it loudly, derives cross-references, and
 renders the site into docs/ for GitHub Pages. See docs/methods for what is
 verbatim and what is interpretive, and for the schema-additions log.
 """
+import copy
 import csv
 import html
 import io
@@ -195,6 +196,24 @@ for _tid, _spec in TOPIC_FOR_CANONICAL.items():
     if missing:
         fail(f"topic '{_tid}' names canonical forms that do not exist: {missing}")
 
+# Part 11a: some type records belong to several places at once. The six West Island village cores
+# share one stone-house record and one postwar-bungalow record rather than carrying six drifting
+# copies each. The record lives once, here, and is materialised into every place it names, so the
+# data has one copy to correct and the canonical pages still see one member per place.
+SHARED_TYPES = []
+_sdir = DATA / "shared_types"
+if _sdir.exists():
+    for _f in sorted(_sdir.glob("*.yaml")):
+        _rec = load_yaml(_f)
+        require(_rec, ["places"], f"shared_types/{_f.name}")
+        if not isinstance(_rec["places"], list) or not _rec["places"]:
+            fail(f"shared_types/{_f.name}: 'places' must be a non-empty list")
+        if len(set(_rec["places"])) != len(_rec["places"]):
+            fail(f"shared_types/{_f.name}: 'places' repeats a place")
+        if "id" in _rec or "place" in _rec:
+            fail(f"shared_types/{_f.name}: id and place are derived per place — do not set them")
+        SHARED_TYPES.append((_f.stem, _rec))
+
 section_essays = split_headed_md(DATA / "canon" / "sections.md", r"^section:")
 
 # ---------------------------------------------------------------- load places
@@ -306,14 +325,24 @@ for pdir in sorted((DATA / "places").iterdir()):
     pl.setdefault("sector_map", None)
 
     types = []
-    for tf in sorted((pdir / "types").glob("*.yaml")):
-        tctx = f"{pdir.name}/types/{tf.name}"
-        t = load_yaml(tf)
+    tqueue = [(f"{pdir.name}/types/{tf.name}", tf.stem, load_yaml(tf))
+              for tf in sorted((pdir / "types").glob("*.yaml"))]
+    for _slug, _rec in SHARED_TYPES:
+        if pl["id"] not in _rec["places"]:
+            continue
+        if any(s == _slug for _c, s, _t in tqueue):
+            fail(f"{pdir.name}/types/{_slug}.yaml duplicates shared_types/{_slug}.yaml")
+        _t = copy.deepcopy(_rec)
+        _t["id"] = f"{pl['id']}.{_slug}"
+        _t["place"] = pl["id"]
+        _t["shared_with"] = [p for p in _rec["places"] if p != pl["id"]]
+        tqueue.append((f"shared_types/{_slug}.yaml → {pl['id']}", _slug, _t))
+    for tctx, slug, t in sorted(tqueue, key=lambda x: x[1]):
+        t.setdefault("shared_with", [])
         require(t, ["id", "place", "phase", "name_en", "name_fr", "source_ref", "canonical", "styles",
                     "tenure_plan", "storeys", "roof", "window_proportion", "principal_cladding", "roofing",
                     "garage", "lot_width_m", "setback_front_m", "setback_side_m", "front_yard_green_pct",
                     "profile", "profile_note", "blurb_en", "origin_en", "photos"], tctx)
-        slug = tf.stem
         if t["id"] != f"{pl['id']}.{slug}":
             fail(f"{tctx}: id '{t['id']}' should be '{pl['id']}.{slug}'")
         if t["place"] != pl["id"]:
@@ -579,6 +608,12 @@ for pdir in sorted((DATA / "places").iterdir()):
     places.append(pl)
 
 PLACE = {p["id"]: p for p in places}
+# A shared type naming a place that does not exist would otherwise vanish silently: it simply
+# never matches, and the record is published nowhere at all.
+for _slug, _rec in SHARED_TYPES:
+    _absent = [p for p in _rec["places"] if p not in PLACE]
+    if _absent:
+        fail(f"shared_types/{_slug}.yaml names places that do not exist: {_absent}")
 all_types = [t for p in places for t in p["types"]]
 export_types = all_types + [t for p in places for t in p.get("catalogue_extra") or []]
 TYPE = {t["id"]: t for t in all_types}

@@ -1,10 +1,10 @@
-file_prefix,code_number,arrondissement,cahier_url
-12,22,Le Sud-Ouest,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
-14,27,Mercier–Hochelaga-Maisonneuve,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/14_evaluation_patrimoine_mercier.pdf
-17,16,Outremont,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/17_evaluation_patrimoine_out.pdf
-21,26,Rosemont–La Petite-Patrie,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
-22,8,Saint-Laurent,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/22_evaluation_patrimoine_stla.pdf
-24,21,Verdun,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
-25,24,Ville-Marie,http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/25_EVALUATION_PATRIMOINE_VILLE-MARIE.PDF
-26,14,Villeray–Saint-Michel–Parc-Extension,https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/26_evaluation_patrimoine_villeray.pdf
-27,23,Westmount,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/27_evaluation_patrimoine_wes.pdf
+file_prefix,code_2005,code_2016,code_2016_basis,arrondissement,cahier_url
+12,22,,not checked against the 2016 map,Le Sud-Ouest,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/12_evaluation_patrimoine_sud.pdf
+14,27,,not checked against the 2016 map,Mercier–Hochelaga-Maisonneuve,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/14_evaluation_patrimoine_mercier.pdf
+17,16,,not checked against the 2016 map,Outremont,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/17_evaluation_patrimoine_out.pdf
+21,26,,not checked against the 2016 map,Rosemont–La Petite-Patrie,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/21_evaluation_patrimoine_rose.pdf
+22,8,,not checked against the 2016 map,Saint-Laurent,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/22_evaluation_patrimoine_stla.pdf
+24,21,,not checked against the 2016 map,Verdun,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/24_evaluation_patrimoine_ver.pdf
+25,24,25,2016 Plan d'urbanisme patrimoine map — VERIFY,Ville-Marie,http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PATRIMOINE_URBAIN_FR/MEDIA/DOCUMENTS/25_EVALUATION_PATRIMOINE_VILLE-MARIE.PDF
+26,14,,not checked against the 2016 map,Villeray–Saint-Michel–Parc-Extension,https://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/26_evaluation_patrimoine_villeray.pdf
+27,23,,not checked against the 2016 map,Westmount,http://ville.montreal.qc.ca/pls/portal/docs/page/patrimoine_urbain_fr/media/documents/27_evaluation_patrimoine_wes.pdf
