@@ -508,7 +508,10 @@ for t in all_types:
 g_min = min(p["phases"][0]["start"] for p in places)
 g_max = max(p["phases"][-1]["end"] for p in places)
 ax_min = g_min - (g_min % 50)
-ax_max = g_max + ((25 - g_max % 25) % 25)
+# End the axis at the latest year any place actually reaches rather than at the next 25-year
+# boundary: Terrebonne's 2026 declaration would otherwise stretch the axis to 2050 and leave a
+# twenty-four-year strip of empty track on every lane.
+ax_max = g_max
 # Part 7a: Québec City takes the lower bound back to 1608, so the early centuries — where only one
 # or two places have anything to show — are ticked every 50 years, and 1900 onward every 25.
 SPARSE_BEFORE = 1900
